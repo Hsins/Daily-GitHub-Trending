@@ -17,27 +17,11 @@ const getData = async () => {
   // Retrieve the repositories from responsed data.
   $('.Box-row').each((i, elm) => {
     const item = {
-      title: $(elm)
-        .find('h1')
-        .text()
-        .replace(/\s/g, ''),
-      url: `https://github.com${$(elm)
-        .find('h1 a')
-        .attr('href')}`,
-      description: $(elm)
-        .find('p')
-        .text()
-        .replace(/\n/g, '')
-        .trim(),
-      language:
-        $(elm)
-          .find('[itemprop="programmingLanguage"]')
-          .text() || 'none',
-      star: $(elm)
-        .find('span')
-        .last()
-        .text()
-        .match(/\d+/g)[0]
+      title: $(elm).find('h1').text().replace(/\s/g, ''),
+      url: `https://github.com${$(elm).find('h1 a').attr('href')}`,
+      description: $(elm).find('p').text().replace(/\n/g, '').trim(),
+      language: $(elm).find('[itemprop="programmingLanguage"]').text() || 'none',
+      star: $(elm).find('span').last().text().match(/\d+/g)[0]
     };
     arr.push(item);
   });
