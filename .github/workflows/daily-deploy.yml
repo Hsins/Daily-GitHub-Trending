@@ -1,0 +1,38 @@
+name: Daily Deploy
+
+on:
+  schedule:
+  - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v1
+    - name: Use Node.js 13
+      uses: actions/setup-node@v1
+      with:
+        node-version: 13
+    - name: npm install, build, and test
+      run: |
+        # Run script
+        npm ci
+        npm run crawl --if-present
+    - name: commit and push
+      run: |
+        # Hard-code user configuration
+        git config user.name "Hsins"
+        git config user.email "hsinspeng@gmail.com"
+        # Update origin with token
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        # Checkout the branch so we can push back to it
+        git checkout master
+        git add .
+        # Only commit and push if we have changes
+        git diff --quiet && git diff --staged --quiet || (git commit -m "${COMMIT_MSG}"; git push origin master)
+      env:
+        CI: true
+        GITHUB_TOKEN: ${{ secrets.github_token }}
+        COMMIT_MSG: |
+          "Commit by GitHub Action."
+        skip-checks: true
