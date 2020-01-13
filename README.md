@@ -25,4 +25,4 @@ Check [`package.json`](https://github.com/Hsins/Daily-GitHub-Trending/blob/maste
 
 ## License
 
-Licensed under the MIT License, Copyright © 2017-present Hsins.
+Licensed under the MIT License, Copyright © 2020 Hsins.
