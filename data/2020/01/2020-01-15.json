@@ -1,0 +1,170 @@
+[
+  {
+    "title": "omuanko/nnjhtrkn",
+    "url": "https://github.com/omuanko/nnjhtrkn",
+    "description": "Famous Ninja game for NES",
+    "language": "Batchfile",
+    "star": "65"
+  },
+  {
+    "title": "wasm3/wasm3",
+    "url": "https://github.com/wasm3/wasm3",
+    "description": "🚀 The fastest WebAssembly interpreter",
+    "language": "C",
+    "star": "244"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "212"
+  },
+  {
+    "title": "Lyrebirds/sagemcom-fast-3890-exploit",
+    "url": "https://github.com/Lyrebirds/sagemcom-fast-3890-exploit",
+    "description": "",
+    "language": "JavaScript",
+    "star": "50"
+  },
+  {
+    "title": "trustedsec/cve-2019-19781",
+    "url": "https://github.com/trustedsec/cve-2019-19781",
+    "description": "This is a tool published for the Citrix ADC (NetScaler) vulnerability. We are only disclosing this due to others publishing the exploit code first.",
+    "language": "Python",
+    "star": "66"
+  },
+  {
+    "title": "huggingface/tokenizers",
+    "url": "https://github.com/huggingface/tokenizers",
+    "description": "💥Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "language": "Rust",
+    "star": "530"
+  },
+  {
+    "title": "Lyrebirds/cable-haunt-vulnerability-test",
+    "url": "https://github.com/Lyrebirds/cable-haunt-vulnerability-test",
+    "description": "",
+    "language": "Python",
+    "star": "64"
+  },
+  {
+    "title": "houqp/sqlvet",
+    "url": "https://github.com/houqp/sqlvet",
+    "description": "Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.",
+    "language": "Go",
+    "star": "84"
+  },
+  {
+    "title": "awslabs/autogluon",
+    "url": "https://github.com/awslabs/autogluon",
+    "description": "AutoGluon: AutoML Toolkit for Deep Learning",
+    "language": "Python",
+    "star": "286"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Python",
+    "star": "315"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "292"
+  },
+  {
+    "title": "projectzeroindia/CVE-2019-19781",
+    "url": "https://github.com/projectzeroindia/CVE-2019-19781",
+    "description": "Remote Code Execution Exploit for Citrix Application Delivery Controller and Citrix Gateway [ CVE-2019-19781 ]",
+    "language": "Shell",
+    "star": "58"
+  },
+  {
+    "title": "luruke/browser-2020",
+    "url": "https://github.com/luruke/browser-2020",
+    "description": "Things you can do with a browser in 2020 ☕️",
+    "language": "none",
+    "star": "288"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "description": "Your window into the Elastic Stack",
+    "language": "TypeScript",
+    "star": "31"
+  },
+  {
+    "title": "atlassian/react-beautiful-dnd",
+    "url": "https://github.com/atlassian/react-beautiful-dnd",
+    "description": "Beautiful and accessible drag and drop for lists with React",
+    "language": "JavaScript",
+    "star": "75"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "language": "JavaScript",
+    "star": "145"
+  },
+  {
+    "title": "mrcsxsiq/Kotlin-Pokedex",
+    "url": "https://github.com/mrcsxsiq/Kotlin-Pokedex",
+    "description": "🌀 A Pokedex app using ViewModel, LiveData, Room and Navigation",
+    "language": "Kotlin",
+    "star": "67"
+  },
+  {
+    "title": "swift-embedded/swift-embedded",
+    "url": "https://github.com/swift-embedded/swift-embedded",
+    "description": "Swift for Embedded Systems ✨",
+    "language": "Swift",
+    "star": "56"
+  },
+  {
+    "title": "prevwong/craft.js",
+    "url": "https://github.com/prevwong/craft.js",
+    "description": "🚀 A React Framework for building extensible drag and drop page editors",
+    "language": "TypeScript",
+    "star": "213"
+  },
+  {
+    "title": "facebookresearch/wav2letter",
+    "url": "https://github.com/facebookresearch/wav2letter",
+    "description": "Facebook AI Research's Automatic Speech Recognition Toolkit",
+    "language": "C++",
+    "star": "175"
+  },
+  {
+    "title": "awslabs/djl",
+    "url": "https://github.com/awslabs/djl",
+    "description": "An Engine-Agnostic Deep Learning Framework",
+    "language": "Java",
+    "star": "26"
+  },
+  {
+    "title": "newbee-ltd/newbee-mall",
+    "url": "https://github.com/newbee-ltd/newbee-mall",
+    "description": "newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。",
+    "language": "Java",
+    "star": "62"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "language": "Python",
+    "star": "92"
+  },
+  {
+    "title": "nolimits4web/swiper",
+    "url": "https://github.com/nolimits4web/swiper",
+    "description": "Most modern mobile touch slider with hardware accelerated transitions",
+    "language": "JavaScript",
+    "star": "74"
+  }
+]
