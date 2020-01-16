@@ -1,0 +1,177 @@
+[
+  {
+    "title": "wasm3/wasm3",
+    "url": "https://github.com/wasm3/wasm3",
+    "description": "🚀 The fastest WebAssembly interpreter",
+    "language": "C",
+    "star": "302"
+  },
+  {
+    "title": "awslabs/autogluon",
+    "url": "https://github.com/awslabs/autogluon",
+    "description": "AutoGluon: AutoML Toolkit for Deep Learning",
+    "language": "Python",
+    "star": "244"
+  },
+  {
+    "title": "Lyrebirds/cable-haunt-vulnerability-test",
+    "url": "https://github.com/Lyrebirds/cable-haunt-vulnerability-test",
+    "description": "",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "huggingface/tokenizers",
+    "url": "https://github.com/huggingface/tokenizers",
+    "description": "💥Fast State-of-the-Art Tokenizers optimized for Research and Production",
+    "language": "Rust",
+    "star": "219"
+  },
+  {
+    "title": "axa-group/Parsr",
+    "url": "https://github.com/axa-group/Parsr",
+    "description": "Transforms PDF, Documents and Images into Enriched Structured Data",
+    "language": "TypeScript",
+    "star": "285"
+  },
+  {
+    "title": "cisagov/check-cve-2019-19781",
+    "url": "https://github.com/cisagov/check-cve-2019-19781",
+    "description": "Test a host for susceptibility to CVE-2019-19781",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "0xZ0F/Z0FCourse_ReverseEngineering",
+    "url": "https://github.com/0xZ0F/Z0FCourse_ReverseEngineering",
+    "description": "Reverse engineering course by Z0F. Focuses on x64 Windows.",
+    "language": "C++",
+    "star": "113"
+  },
+  {
+    "title": "facebookresearch/wav2letter",
+    "url": "https://github.com/facebookresearch/wav2letter",
+    "description": "Facebook AI Research's Automatic Speech Recognition Toolkit",
+    "language": "C++",
+    "star": "119"
+  },
+  {
+    "title": "newbee-ltd/newbee-mall",
+    "url": "https://github.com/newbee-ltd/newbee-mall",
+    "description": "newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。",
+    "language": "Java",
+    "star": "220"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization",
+    "language": "Python",
+    "star": "181"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Python",
+    "star": "290"
+  },
+  {
+    "title": "hyperium/tonic",
+    "url": "https://github.com/hyperium/tonic",
+    "description": "A native gRPC client & server implementation with async/await support.",
+    "language": "Rust",
+    "star": "56"
+  },
+  {
+    "title": "MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator",
+    "url": "https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator",
+    "description": "AZ-103: Microsoft Azure Administrator",
+    "language": "none",
+    "star": "6"
+  },
+  {
+    "title": "Lyrebirds/sagemcom-fast-3890-exploit",
+    "url": "https://github.com/Lyrebirds/sagemcom-fast-3890-exploit",
+    "description": "",
+    "language": "JavaScript",
+    "star": "40"
+  },
+  {
+    "title": "microsoft/nlp-recipes",
+    "url": "https://github.com/microsoft/nlp-recipes",
+    "description": "Natural Language Processing Best Practices & Examples",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "204"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "150"
+  },
+  {
+    "title": "omuanko/nnjhtrkn",
+    "url": "https://github.com/omuanko/nnjhtrkn",
+    "description": "Famous Ninja game for NES",
+    "language": "Batchfile",
+    "star": "48"
+  },
+  {
+    "title": "dotnet-presentations/blazor-workshop",
+    "url": "https://github.com/dotnet-presentations/blazor-workshop",
+    "description": "Blazor workshop",
+    "language": "C#",
+    "star": "56"
+  },
+  {
+    "title": "KevinOConnor/klipper",
+    "url": "https://github.com/KevinOConnor/klipper",
+    "description": "Klipper is a 3d-printer firmware",
+    "language": "C",
+    "star": "8"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "star": "75"
+  },
+  {
+    "title": "gogf/gf",
+    "url": "https://github.com/gogf/gf",
+    "description": "GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configu…",
+    "language": "Go",
+    "star": "78"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "vlang/ui",
+    "url": "https://github.com/vlang/ui",
+    "description": "Cross-platform UI library written in V",
+    "language": "V",
+    "star": "38"
+  },
+  {
+    "title": "golang/protobuf",
+    "url": "https://github.com/golang/protobuf",
+    "description": "Go support for Google's protocol buffers",
+    "language": "Go",
+    "star": "21"
+  }
+]
