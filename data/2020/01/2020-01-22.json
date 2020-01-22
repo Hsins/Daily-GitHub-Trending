@@ -1,0 +1,177 @@
+[
+  {
+    "title": "kbariotis/templates",
+    "url": "https://github.com/kbariotis/templates",
+    "description": "A set of standard document templates.",
+    "language": "none",
+    "star": "268"
+  },
+  {
+    "title": "microsoft/ApplicationInspector",
+    "url": "https://github.com/microsoft/ApplicationInspector",
+    "description": "A software characterization source code analyzer that helps you understand what a program does by identifying interesting features and characteristics using static analysis and a customizable json based rules engine.",
+    "language": "C#",
+    "star": "405"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "214"
+  },
+  {
+    "title": "xiongziliang/ZLMediaKit",
+    "url": "https://github.com/xiongziliang/ZLMediaKit",
+    "description": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11",
+    "language": "C++",
+    "star": "45"
+  },
+  {
+    "title": "justinamiller/SoftwareArchitect",
+    "url": "https://github.com/justinamiller/SoftwareArchitect",
+    "description": "Path to a Software Architect",
+    "language": "none",
+    "star": "670"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "478"
+  },
+  {
+    "title": "collabnix/kubelabs",
+    "url": "https://github.com/collabnix/kubelabs",
+    "description": "Kubernetes - Beginners | Intermediate | Advanced",
+    "language": "HTML",
+    "star": "184"
+  },
+  {
+    "title": "BankSecurity/Red_Team",
+    "url": "https://github.com/BankSecurity/Red_Team",
+    "description": "Some scripts useful for red team activities",
+    "language": "PowerShell",
+    "star": "66"
+  },
+  {
+    "title": "ospray/ospray",
+    "url": "https://github.com/ospray/ospray",
+    "description": "An Open, Scalable, Portable, Ray Tracing Based Rendering Engine for High-Fidelity Visualization",
+    "language": "C++",
+    "star": "49"
+  },
+  {
+    "title": "theonedev/onedev",
+    "url": "https://github.com/theonedev/onedev",
+    "description": "Super Easy All-In-One DevOps Platform",
+    "language": "Java",
+    "star": "268"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "description": "程序员如何优雅的挣零花钱",
+    "language": "none",
+    "star": "214"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "92"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "429"
+  },
+  {
+    "title": "cube-js/cube.js",
+    "url": "https://github.com/cube-js/cube.js",
+    "description": "📊 Cube.js - Open Source Analytics Framework",
+    "language": "JavaScript",
+    "star": "60"
+  },
+  {
+    "title": "dani-garcia/bitwarden_rs",
+    "url": "https://github.com/dani-garcia/bitwarden_rs",
+    "description": "Unofficial Bitwarden compatible server written in Rust",
+    "language": "Rust",
+    "star": "20"
+  },
+  {
+    "title": "sdlpal/sdlpal",
+    "url": "https://github.com/sdlpal/sdlpal",
+    "description": "SDL-based reimplementation of the classic Chinese-language RPG \"Xiān jiàn Qí Xiá Zhuàn\" (also known as PAL).",
+    "language": "Objective-C",
+    "star": "47"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "description": "Bringing Characters to Life with Computer Brains in Unity",
+    "language": "C++",
+    "star": "26"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "language": "Go",
+    "star": "48"
+  },
+  {
+    "title": "ipfs/go-ipfs",
+    "url": "https://github.com/ipfs/go-ipfs",
+    "description": "IPFS implementation in Go",
+    "language": "Go",
+    "star": "23"
+  },
+  {
+    "title": "tensortrade-org/tensortrade",
+    "url": "https://github.com/tensortrade-org/tensortrade",
+    "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
+    "language": "Python",
+    "star": "77"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "description": "A curated list of awesome warez and piracy links",
+    "language": "HTML",
+    "star": "90"
+  },
+  {
+    "title": "guzzle/guzzle",
+    "url": "https://github.com/guzzle/guzzle",
+    "description": "Guzzle, an extensible PHP HTTP client",
+    "language": "PHP",
+    "star": "25"
+  },
+  {
+    "title": "bephrem1/backtobackswe",
+    "url": "https://github.com/bephrem1/backtobackswe",
+    "description": "Code Examples For Back To Back SWE Lessons",
+    "language": "Java",
+    "star": "20"
+  },
+  {
+    "title": "tc39/proposals",
+    "url": "https://github.com/tc39/proposals",
+    "description": "Tracking ECMAScript Proposals",
+    "language": "none",
+    "star": "15"
+  },
+  {
+    "title": "davidfowl/Micronetes",
+    "url": "https://github.com/davidfowl/Micronetes",
+    "description": "Micronetes is a local orchestrator inspired by kubernetes that makes developing and testing microservices and distributed applications easier.",
+    "language": "C#",
+    "star": "51"
+  }
+]
