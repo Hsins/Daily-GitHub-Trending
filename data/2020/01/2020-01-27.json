@@ -1,0 +1,170 @@
+[
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "miragejs/miragejs",
+    "url": "https://github.com/miragejs/miragejs",
+    "description": "A client-side server to develop, test and prototype your JavaScript app",
+    "language": "JavaScript",
+    "star": "317"
+  },
+  {
+    "title": "systemd/systemd",
+    "url": "https://github.com/systemd/systemd",
+    "description": "The systemd System and Service Manager",
+    "language": "C",
+    "star": "81"
+  },
+  {
+    "title": "v2net/Apple",
+    "url": "https://github.com/v2net/Apple",
+    "description": "苹果美区账号 APPLE ID 免费账号共享",
+    "language": "none",
+    "star": "36"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "105"
+  },
+  {
+    "title": "hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "url": "https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "description": "Various tips & tricks",
+    "language": "C",
+    "star": "255"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "160"
+  },
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "language": "C",
+    "star": "65"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "description": "List of Development YouTube Channels",
+    "language": "none",
+    "star": "126"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "description": "A collection of various deep learning architectures, models, and tips",
+    "language": "Jupyter Notebook",
+    "star": "56"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "39"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "96"
+  },
+  {
+    "title": "Assistant/ModAssistant",
+    "url": "https://github.com/Assistant/ModAssistant",
+    "description": "Simple Beat Saber Mod Installer",
+    "language": "C#",
+    "star": "7"
+  },
+  {
+    "title": "FilledStacks/flutter-tutorials",
+    "url": "https://github.com/FilledStacks/flutter-tutorials",
+    "description": "The repo contains the source code for all the tutorials on the FilledStacks Youtube channel.",
+    "language": "Dart",
+    "star": "24"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "A Magic Mask to Alter Android System Systemless-ly",
+    "language": "Kotlin",
+    "star": "24"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "336"
+  },
+  {
+    "title": "meik97/XSpotify",
+    "url": "https://github.com/meik97/XSpotify",
+    "description": "A modified Spotify client with DRM bypass.",
+    "language": "C++",
+    "star": "34"
+  },
+  {
+    "title": "carla-simulator/carla",
+    "url": "https://github.com/carla-simulator/carla",
+    "description": "Open-source simulator for autonomous driving research.",
+    "language": "C++",
+    "star": "9"
+  },
+  {
+    "title": "boston-dynamics/spot-sdk",
+    "url": "https://github.com/boston-dynamics/spot-sdk",
+    "description": "Spot SDK repo",
+    "language": "HTML",
+    "star": "97"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "description": "",
+    "language": "C#",
+    "star": "44"
+  },
+  {
+    "title": "ionicfirebaseapp/getflutter",
+    "url": "https://github.com/ionicfirebaseapp/getflutter",
+    "description": "Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.",
+    "language": "Dart",
+    "star": "43"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io",
+    "language": "V",
+    "star": "36"
+  },
+  {
+    "title": "actions/starter-workflows",
+    "url": "https://github.com/actions/starter-workflows",
+    "description": "Accelerating new GitHub Actions workflows",
+    "language": "none",
+    "star": "9"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "31"
+  }
+]
