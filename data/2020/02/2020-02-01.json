@@ -1,0 +1,177 @@
+[
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "345"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "description": "后端架构师技术图谱",
+    "language": "none",
+    "star": "122"
+  },
+  {
+    "title": "jonnyhyman/Chaos",
+    "url": "https://github.com/jonnyhyman/Chaos",
+    "description": "Visualizations of the connections between chaos theory and fractals through the logistic map; made for Veritasium YouTube video",
+    "language": "Python",
+    "star": "106"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "LINCnil/Guide-RGPD-du-developpeur",
+    "url": "https://github.com/LINCnil/Guide-RGPD-du-developpeur",
+    "description": "La CNIL publie un guide RGPD pour les développeurs",
+    "language": "HTML",
+    "star": "135"
+  },
+  {
+    "title": "Pysamlam/Tips-of-Feature-engineering",
+    "url": "https://github.com/Pysamlam/Tips-of-Feature-engineering",
+    "description": "A feature engineering kit for each issue, to give you a deeper and deeper understanding of the work of feature engineering!",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "Serenity Operating System",
+    "language": "C++",
+    "star": "48"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "description": "📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.",
+    "language": "none",
+    "star": "322"
+  },
+  {
+    "title": "yuanming-hu/difftaichi",
+    "url": "https://github.com/yuanming-hu/difftaichi",
+    "description": "10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)",
+    "language": "none",
+    "star": "75"
+  },
+  {
+    "title": "MarkSimos/MicrosoftSecurity",
+    "url": "https://github.com/MarkSimos/MicrosoftSecurity",
+    "description": "Microsoft Security Guidance",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "sam-hosseini/freelancing-in-finland",
+    "url": "https://github.com/sam-hosseini/freelancing-in-finland",
+    "description": "The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮",
+    "language": "none",
+    "star": "238"
+  },
+  {
+    "title": "hzwer/shareOI",
+    "url": "https://github.com/hzwer/shareOI",
+    "description": "算法竞赛课件分享",
+    "language": "none",
+    "star": "158"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "description": "Google AI Research",
+    "language": "Jupyter Notebook",
+    "star": "51"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "description": "Comprehensive Python Cheatsheet",
+    "language": "Python",
+    "star": "146"
+  },
+  {
+    "title": "jquery/jquery",
+    "url": "https://github.com/jquery/jquery",
+    "description": "jQuery JavaScript Library",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "124"
+  },
+  {
+    "title": "aj-4/tinder-swipe-bot",
+    "url": "https://github.com/aj-4/tinder-swipe-bot",
+    "description": "",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "helm/charts",
+    "url": "https://github.com/helm/charts",
+    "description": "Curated applications for Kubernetes",
+    "language": "Go",
+    "star": "22"
+  },
+  {
+    "title": "lukasz-madon/awesome-remote-job",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+    "language": "none",
+    "star": "119"
+  },
+  {
+    "title": "flutter/samples",
+    "url": "https://github.com/flutter/samples",
+    "description": "A collection of Flutter examples and demos.",
+    "language": "Dart",
+    "star": "25"
+  },
+  {
+    "title": "eastlakeside/interpy-zh",
+    "url": "https://github.com/eastlakeside/interpy-zh",
+    "description": "📘《Python进阶》（Intermediate Python 中文版）",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "language": "none",
+    "star": "59"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "24"
+  },
+  {
+    "title": "isocpp/CppCoreGuidelines",
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "description": "Just Announced - \"Learn Spring Security OAuth\":",
+    "language": "Java",
+    "star": "31"
+  }
+]
