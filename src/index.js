@@ -5,12 +5,24 @@ const cheerio = require('cheerio');
 const { writeFileSync, mkdirSync } = require('fs');
 
 // variable declaration
-const url = 'https://github.com/trending';
+const url = 'https://github.com/';
 const date = moment().endOf('day');
 const filePath = `../data/${date.format('YYYY')}/${date.format('MM')}/`;
 
+const instance = axios.create({
+  baseURL: url,
+  headers: {
+    'Host': 'github.com',
+    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36',
+    'Accept': '*/*',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive'
+  }
+});
+
 const getData = async () => {
-  const { data } = await axios.get(url);
+  const { data } = await instance.get('/trending');
   const $ = cheerio.load(data);
   const arr = [];
 
