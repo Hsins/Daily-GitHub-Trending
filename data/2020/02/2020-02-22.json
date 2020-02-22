@@ -1,0 +1,177 @@
+[
+  {
+    "title": "OpenRCE/Malware-Analysis-Training",
+    "url": "https://github.com/OpenRCE/Malware-Analysis-Training",
+    "description": "Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.",
+    "language": "HTML",
+    "star": "131"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "description": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "language": "Rich Text Format",
+    "star": "222"
+  },
+  {
+    "title": "iikira/BaiduPCS-Go",
+    "url": "https://github.com/iikira/BaiduPCS-Go",
+    "description": "百度网盘客户端 - Go语言编写",
+    "language": "Go",
+    "star": "105"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The largest Node.js best practices list (January 2020)",
+    "language": "JavaScript",
+    "star": "113"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "description": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "amzn/computer-vision-basics-in-microsoft-excel",
+    "url": "https://github.com/amzn/computer-vision-basics-in-microsoft-excel",
+    "description": "Computer Vision Basics in Microsoft Excel (using just formulas)",
+    "language": "none",
+    "star": "292"
+  },
+  {
+    "title": "Kr328/ClashForAndroid",
+    "url": "https://github.com/Kr328/ClashForAndroid",
+    "description": "A rule-based tunnel for Android.",
+    "language": "Kotlin",
+    "star": "34"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "description": "To Be Top Javaer - Java工程师成神之路",
+    "language": "Java",
+    "star": "66"
+  },
+  {
+    "title": "blackboxo/AutoDeleteFileOnPCWechat",
+    "url": "https://github.com/blackboxo/AutoDeleteFileOnPCWechat",
+    "description": "自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。",
+    "language": "Python",
+    "star": "29"
+  },
+  {
+    "title": "P3TERX/Actions-OpenWrt",
+    "url": "https://github.com/P3TERX/Actions-OpenWrt",
+    "description": "Build OpenWrt using GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt",
+    "language": "Shell",
+    "star": "24"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision.",
+    "language": "Jupyter Notebook",
+    "star": "329"
+  },
+  {
+    "title": "Rocketseat/unform",
+    "url": "https://github.com/Rocketseat/unform",
+    "description": "Easy peasy high scalable ReactJS & React Native forms! 🚀",
+    "language": "TypeScript",
+    "star": "46"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "none",
+    "star": "100"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "language": "Python",
+    "star": "88"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "90"
+  },
+  {
+    "title": "sindresorhus/refined-github",
+    "url": "https://github.com/sindresorhus/refined-github",
+    "description": "Browser extension that simplifies the GitHub interface and adds useful features",
+    "language": "TypeScript",
+    "star": "43"
+  },
+  {
+    "title": "AdrienTorris/awesome-blazor",
+    "url": "https://github.com/AdrienTorris/awesome-blazor",
+    "description": "Resources for Blazor, a .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "Awesome-Windows/Awesome",
+    "url": "https://github.com/Awesome-Windows/Awesome",
+    "description": "💻 🎉 An awesome & curated list of best applications and tools for Windows.",
+    "language": "none",
+    "star": "157"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "description": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]",
+    "language": "Go",
+    "star": "159"
+  },
+  {
+    "title": "linlinjava/litemall",
+    "url": "https://github.com/linlinjava/litemall",
+    "description": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端",
+    "language": "Java",
+    "star": "24"
+  },
+  {
+    "title": "reduxjs/cra-template-redux",
+    "url": "https://github.com/reduxjs/cra-template-redux",
+    "description": "The official Redux+JS template for Create React App",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "description": "Official repo for the #tidytuesday project",
+    "language": "R",
+    "star": "14"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "3"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "description": "The world's simplest facial recognition api for Python and the command line",
+    "language": "Python",
+    "star": "81"
+  },
+  {
+    "title": "jasonmayes/Real-Time-Person-Removal",
+    "url": "https://github.com/jasonmayes/Real-Time-Person-Removal",
+    "description": "Removing people from complex backgrounds in real time using TensorFlow.js in the web browser",
+    "language": "JavaScript",
+    "star": "637"
+  }
+]
