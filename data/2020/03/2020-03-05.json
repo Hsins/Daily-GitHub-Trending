@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ctgk/PRML",
+    "url": "https://github.com/ctgk/PRML",
+    "description": "PRML algorithms implemented in Python",
+    "language": "Jupyter Notebook",
+    "star": "351"
+  },
+  {
+    "title": "alexeygrigorev/data-science-interviews",
+    "url": "https://github.com/alexeygrigorev/data-science-interviews",
+    "description": "Data science interview questions and answers",
+    "language": "none",
+    "star": "156"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "description": "Cheat Sheets",
+    "language": "TeX",
+    "star": "125"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "Rapiz1/DungeonRush",
+    "url": "https://github.com/Rapiz1/DungeonRush",
+    "description": "👾🐍 A game inspired by Snake, written in pure C with SDL",
+    "language": "C",
+    "star": "118"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "399"
+  },
+  {
+    "title": "google/fuzzbench",
+    "url": "https://github.com/google/fuzzbench",
+    "description": "FuzzBench - Fuzzer benchmarking as a service.",
+    "language": "Python",
+    "star": "63"
+  },
+  {
+    "title": "Shpota/goxygen",
+    "url": "https://github.com/Shpota/goxygen",
+    "description": "Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀",
+    "language": "Go",
+    "star": "113"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "star": "34"
+  },
+  {
+    "title": "thomasp85/ggplot2_workshop",
+    "url": "https://github.com/thomasp85/ggplot2_workshop",
+    "description": "Material for \"Drawing Anything with ggplot2\" workshop",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "mike-goodwin/owasp-threat-dragon-desktop",
+    "url": "https://github.com/mike-goodwin/owasp-threat-dragon-desktop",
+    "description": "An installable desktop variant of OWASP Threat Dragon",
+    "language": "CSS",
+    "star": "34"
+  },
+  {
+    "title": "philc/vimium",
+    "url": "https://github.com/philc/vimium",
+    "description": "The hacker's browser.",
+    "language": "CoffeeScript",
+    "star": "70"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "description": "【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。",
+    "language": "none",
+    "star": "145"
+  },
+  {
+    "title": "David-Else/modern-typescript-with-examples-cheat-sheet",
+    "url": "https://github.com/David-Else/modern-typescript-with-examples-cheat-sheet",
+    "description": "Fully printable summary of modern TypeScript language features with extensive examples to help you learn",
+    "language": "none",
+    "star": "121"
+  },
+  {
+    "title": "ShiqiYu/libfacedetection",
+    "url": "https://github.com/ShiqiYu/libfacedetection",
+    "description": "An open source library for face detection in images. The face detection speed can reach 1000FPS.",
+    "language": "C++",
+    "star": "77"
+  },
+  {
+    "title": "astrit/css.gg",
+    "url": "https://github.com/astrit/css.gg",
+    "description": "500+ CSS Icons. Customizable, Retina Ready with API & NPM",
+    "language": "CSS",
+    "star": "301"
+  },
+  {
+    "title": "dodyg/practical-aspnetcore",
+    "url": "https://github.com/dodyg/practical-aspnetcore",
+    "description": "Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.",
+    "language": "C#",
+    "star": "55"
+  },
+  {
+    "title": "zio/zio",
+    "url": "https://github.com/zio/zio",
+    "description": "ZIO — A type-safe, composable library for async and concurrent programming in Scala",
+    "language": "Scala",
+    "star": "8"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "description": "🌋 Pluggable enterprise-level react application framework.",
+    "language": "TypeScript",
+    "star": "33"
+  },
+  {
+    "title": "jettify/pytorch-optimizer",
+    "url": "https://github.com/jettify/pytorch-optimizer",
+    "description": "torch-optimizer -- collection of optimizers for Pytorch",
+    "language": "Python",
+    "star": "90"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "description": "A PHP framework for web artisans",
+    "language": "PHP",
+    "star": "54"
+  },
+  {
+    "title": "alebcay/awesome-shell",
+    "url": "https://github.com/alebcay/awesome-shell",
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+    "language": "none",
+    "star": "82"
+  },
+  {
+    "title": "midas-network/COVID-19",
+    "url": "https://github.com/midas-network/COVID-19",
+    "description": "2019 novel coronavirus repository",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "rack/rack",
+    "url": "https://github.com/rack/rack",
+    "description": "a modular Ruby webserver interface",
+    "language": "Ruby",
+    "star": "6"
+  },
+  {
+    "title": "elastic/logstash",
+    "url": "https://github.com/elastic/logstash",
+    "description": "Logstash - transport and process your logs, events, or other data",
+    "language": "Ruby",
+    "star": "8"
+  }
+]
