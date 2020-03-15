@@ -1,0 +1,177 @@
+[
+  {
+    "title": "gwen001/pentest-tools",
+    "url": "https://github.com/gwen001/pentest-tools",
+    "description": "Custom pentesting tools",
+    "language": "Python",
+    "star": "86"
+  },
+  {
+    "title": "CavsZhouyou/Front-End-Interview-Notebook",
+    "url": "https://github.com/CavsZhouyou/Front-End-Interview-Notebook",
+    "description": "🐜前端面试复习笔记",
+    "language": "none",
+    "star": "195"
+  },
+  {
+    "title": "denisidoro/navi",
+    "url": "https://github.com/denisidoro/navi",
+    "description": "An interactive cheatsheet tool for the command-line",
+    "language": "Rust",
+    "star": "198"
+  },
+  {
+    "title": "pop-os/shell",
+    "url": "https://github.com/pop-os/shell",
+    "description": "Pop!_OS Shell - WIP",
+    "language": "TypeScript",
+    "star": "107"
+  },
+  {
+    "title": "cve-2020-0796/cve-2020-0796",
+    "url": "https://github.com/cve-2020-0796/cve-2020-0796",
+    "description": "CVE-2020-0796 - a wormable SMBv3 vulnerability. How to work.",
+    "language": "Python",
+    "star": "61"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "356"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "517"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "star": "301"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "888"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "language": "Python",
+    "star": "186"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "description": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines",
+    "language": "C++",
+    "star": "289"
+  },
+  {
+    "title": "ollypwn/SMBGhost",
+    "url": "https://github.com/ollypwn/SMBGhost",
+    "description": "Scanner for CVE-2020-0796 - SMBv3 RCE",
+    "language": "Python",
+    "star": "106"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "221"
+  },
+  {
+    "title": "nextstrain/ncov",
+    "url": "https://github.com/nextstrain/ncov",
+    "description": "Nextstrain build for novel coronavirus (nCoV)",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "midas-network/COVID-19",
+    "url": "https://github.com/midas-network/COVID-19",
+    "description": "2019 novel coronavirus repository",
+    "language": "none",
+    "star": "26"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "233"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "231"
+  },
+  {
+    "title": "aalansehaiyang/technology-talk",
+    "url": "https://github.com/aalansehaiyang/technology-talk",
+    "description": "汇总java生态圈常用技术框架、开源中间件，系统架构、数据库、大公司架构案例、常用三方类库、项目管理、线上问题排查、个人成长、思考等知识",
+    "language": "none",
+    "star": "204"
+  },
+  {
+    "title": "MhdHejazi/CoronaTracker",
+    "url": "https://github.com/MhdHejazi/CoronaTracker",
+    "description": "Coronavirus tracker app for iOS & macOS with maps & charts",
+    "language": "Swift",
+    "star": "89"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "133"
+  },
+  {
+    "title": "FoldingAtHome/coronavirus",
+    "url": "https://github.com/FoldingAtHome/coronavirus",
+    "description": "Folding@home COVID-19 efforts",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "206"
+  },
+  {
+    "title": "joesocktwo/Wall-Street-Bets-Master-Doc",
+    "url": "https://github.com/joesocktwo/Wall-Street-Bets-Master-Doc",
+    "description": "This repository is intended for research pertaining to the repo market and the international banking system. It is to be used for analysis by the autists of WSB.",
+    "language": "none",
+    "star": "24"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "description": "A list of awesome beginners-friendly projects.",
+    "language": "none",
+    "star": "150"
+  },
+  {
+    "title": "konradkalemba/korona.ws",
+    "url": "https://github.com/konradkalemba/korona.ws",
+    "description": "Map of confirmed coronavirus cases in Poland",
+    "language": "JavaScript",
+    "star": "11"
+  }
+]
