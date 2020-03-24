@@ -7,7 +7,7 @@
 <div align="center">
 
 # Daily GitHub Trending
-  <img src="https://user-images.githubusercontent.com/26391143/72241638-47d2b280-3622-11ea-9b33-666966358dd3.png" height="200">
+  <img src="https://user-images.githubusercontent.com/26391143/72241638-47d2b280-3622-11ea-9b33-666966358dd3.png" height="180">
 </div>
 
 ## Technologies
