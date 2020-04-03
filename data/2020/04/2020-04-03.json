@@ -1,0 +1,177 @@
+[
+  {
+    "title": "oakes/vim_cubed",
+    "url": "https://github.com/oakes/vim_cubed",
+    "description": "Vim rendered on a cube for no reason",
+    "language": "Nim",
+    "star": "362"
+  },
+  {
+    "title": "ImperialCollegeLondon/covid19model",
+    "url": "https://github.com/ImperialCollegeLondon/covid19model",
+    "description": "Code for modelling estimated deaths and cases for COVID19.",
+    "language": "R",
+    "star": "74"
+  },
+  {
+    "title": "iTaysonLab/gorkiy",
+    "url": "https://github.com/iTaysonLab/gorkiy",
+    "description": "JaDX decompile of com.askgps.personaltrackercore (Moscow COVID-19 person tracker). Note that I'm NOT related to the development of this app.",
+    "language": "Java",
+    "star": "34"
+  },
+  {
+    "title": "eclipse-theia/theia",
+    "url": "https://github.com/eclipse-theia/theia",
+    "description": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "language": "TypeScript",
+    "star": "392"
+  },
+  {
+    "title": "thu-ml/tianshou",
+    "url": "https://github.com/thu-ml/tianshou",
+    "description": "An elegant, flexible, and superfast PyTorch deep Reinforcement Learning platform.",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "oscarhealth/covid19-testing",
+    "url": "https://github.com/oscarhealth/covid19-testing",
+    "description": "COVID-19 Testing Site Finder with Risk Assessment",
+    "language": "JavaScript",
+    "star": "31"
+  },
+  {
+    "title": "adi1090x/rofi",
+    "url": "https://github.com/adi1090x/rofi",
+    "description": "Rofi Based Custom Applets And Menus.",
+    "language": "Shell",
+    "star": "99"
+  },
+  {
+    "title": "stgeorgesepiscopal/google-meet-grid-view-extension",
+    "url": "https://github.com/stgeorgesepiscopal/google-meet-grid-view-extension",
+    "description": "Google Meet Grid View Extension",
+    "language": "JavaScript",
+    "star": "23"
+  },
+  {
+    "title": "RedSpider1/concurrent",
+    "url": "https://github.com/RedSpider1/concurrent",
+    "description": "这是RedSpider社区成员原创与维护的Java多线程系列文章。",
+    "language": "CSS",
+    "star": "101"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "description": "A simple and easy-to-use library to enjoy videogames programming",
+    "language": "C",
+    "star": "76"
+  },
+  {
+    "title": "wangshub/RL-Stock",
+    "url": "https://github.com/wangshub/RL-Stock",
+    "description": "📈 如何用深度强化学习自动炒股",
+    "language": "Jupyter Notebook",
+    "star": "168"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "564"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "language": "TypeScript",
+    "star": "116"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "description": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列",
+    "language": "Go",
+    "star": "81"
+  },
+  {
+    "title": "MiCode/Xiaomi_Kernel_OpenSource",
+    "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+    "description": "Xiaomi Mobile Phone Kernel OpenSource",
+    "language": "none",
+    "star": "35"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "description": "📊 Source code of the main website",
+    "language": "JavaScript",
+    "star": "245"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "214"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "842"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "none",
+    "star": "746"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "701"
+  },
+  {
+    "title": "ihmeuw-msca/CurveFit",
+    "url": "https://github.com/ihmeuw-msca/CurveFit",
+    "description": "Generic curve fitting package with nonlinear mixed effects model",
+    "language": "Python",
+    "star": "24"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "499"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "674"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "629"
+  }
+]
