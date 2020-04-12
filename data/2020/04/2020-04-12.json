@@ -1,0 +1,177 @@
+[
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "3"
+  },
+  {
+    "title": "opentrace-community/opentrace-android",
+    "url": "https://github.com/opentrace-community/opentrace-android",
+    "description": "OpenTrace Android app. Reference implementation of the BlueTrace protocol.",
+    "language": "Kotlin",
+    "star": "81"
+  },
+  {
+    "title": "opentrace-community/opentrace-ios",
+    "url": "https://github.com/opentrace-community/opentrace-ios",
+    "description": "OpenTrace iOS app. Reference implementation of the BlueTrace protocol.",
+    "language": "Swift",
+    "star": "73"
+  },
+  {
+    "title": "opentrace-community/opentrace-cloud-functions",
+    "url": "https://github.com/opentrace-community/opentrace-cloud-functions",
+    "description": "OpenTrace Cloud Functions. Reference implementation of the BlueTrace protocol.",
+    "language": "TypeScript",
+    "star": "51"
+  },
+  {
+    "title": "ifzhang/FairMOT",
+    "url": "https://github.com/ifzhang/FairMOT",
+    "description": "A simple baseline for one-shot multi-object tracking",
+    "language": "Python",
+    "star": "204"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "language": "Java",
+    "star": "121"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp",
+    "language": "none",
+    "star": "167"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "description": "Avatars for Zoom and Skype",
+    "language": "Python",
+    "star": "237"
+  },
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "description": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "language": "C#",
+    "star": "74"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "785"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+    "language": "Rust",
+    "star": "22"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "580"
+  },
+  {
+    "title": "0voice/interview_internal_reference",
+    "url": "https://github.com/0voice/interview_internal_reference",
+    "description": "2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。",
+    "language": "Python",
+    "star": "279"
+  },
+  {
+    "title": "LAB-MI/deplacement-covid-19",
+    "url": "https://github.com/LAB-MI/deplacement-covid-19",
+    "description": "Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19",
+    "language": "HTML",
+    "star": "88"
+  },
+  {
+    "title": "jitsi/jitsi-meet-electron",
+    "url": "https://github.com/jitsi/jitsi-meet-electron",
+    "description": "Jitsi Meet desktop application powered by",
+    "language": "JavaScript",
+    "star": "197"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "416"
+  },
+  {
+    "title": "gregsramblings/google-cloud-4-words",
+    "url": "https://github.com/gregsramblings/google-cloud-4-words",
+    "description": "The Google Cloud Developer's Cheat Sheet",
+    "language": "none",
+    "star": "117"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "description": "Cheat Sheets",
+    "language": "TeX",
+    "star": "92"
+  },
+  {
+    "title": "bmild/nerf",
+    "url": "https://github.com/bmild/nerf",
+    "description": "Code release for NeRF (Neural Radiance Fields)",
+    "language": "Jupyter Notebook",
+    "star": "172"
+  },
+  {
+    "title": "zhzyker/exphub",
+    "url": "https://github.com/zhzyker/exphub",
+    "description": "Exphub[漏洞利用脚本库] 包括Webloigc、Struts2、Tomcat的漏洞利用脚本，均为亲测可用的脚本文件，优先更新高危且易利用的漏洞利用脚本，最近添加CVE-2020-1938、CVE-2020-2551、CVE-2019-2618、CVE-2019-6340",
+    "language": "Python",
+    "star": "175"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "317"
+  },
+  {
+    "title": "MinCiencia/Datos-COVID19",
+    "url": "https://github.com/MinCiencia/Datos-COVID19",
+    "description": "En formato estándar",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "opentrace-community/opentrace-calibration",
+    "url": "https://github.com/opentrace-community/opentrace-calibration",
+    "description": "OpenTrace Calibration. Device calibration data and Trial Methodologies for testing implementations of the BlueTrace protocol.",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "microsoft/nlp-recipes",
+    "url": "https://github.com/microsoft/nlp-recipes",
+    "description": "Natural Language Processing Best Practices & Examples",
+    "language": "Python",
+    "star": "122"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "1"
+  }
+]
