@@ -1,0 +1,177 @@
+[
+  {
+    "title": "aristocratos/bashtop",
+    "url": "https://github.com/aristocratos/bashtop",
+    "description": "Linux resource monitor",
+    "language": "Shell",
+    "star": "702"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "description": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "language": "C#",
+    "star": "164"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "Draft of the fastai book",
+    "language": "Jupyter Notebook",
+    "star": "91"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。",
+    "language": "none",
+    "star": "160"
+  },
+  {
+    "title": "alexgand/springer_free_books",
+    "url": "https://github.com/alexgand/springer_free_books",
+    "description": "Python script to download all Springer books released for free during the 2020 COVID-19 quarantine",
+    "language": "Python",
+    "star": "52"
+  },
+  {
+    "title": "pjreddie/darknet",
+    "url": "https://github.com/pjreddie/darknet",
+    "description": "Convolutional Neural Networks",
+    "language": "C",
+    "star": "114"
+  },
+  {
+    "title": "fengdu78/Coursera-ML-AndrewNg-Notes",
+    "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+    "description": "吴恩达老师的机器学习课程个人笔记",
+    "language": "HTML",
+    "star": "85"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "187"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Jupyter Notebook",
+    "star": "155"
+  },
+  {
+    "title": "blitz-js/blitz",
+    "url": "https://github.com/blitz-js/blitz",
+    "description": "⚡️Rails-like framework for monolithic, full-stack React apps — built on Next.js",
+    "language": "TypeScript",
+    "star": "332"
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "language": "C",
+    "star": "63"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C++",
+    "star": "28"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "language": "Java",
+    "star": "112"
+  },
+  {
+    "title": "podgorskiy/ALAE",
+    "url": "https://github.com/podgorskiy/ALAE",
+    "description": "[CVPR2020] Adversarial Latent Autoencoders",
+    "language": "Python",
+    "star": "386"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "description": "Everything you need to know to get the job.",
+    "language": "Java",
+    "star": "78"
+  },
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "description": "Application toolkit for pre-trained models of PaddlePaddle（『飞桨』预训练模型应用工具 ）",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "tirthajyoti/Data-science-best-resources",
+    "url": "https://github.com/tirthajyoti/Data-science-best-resources",
+    "description": "Carefully curated resource links for data science in one place",
+    "language": "none",
+    "star": "58"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "description": "🌟 V2Ray/Trojan-GFW/SSR Linux/Windows/macOS 跨平台 GUI 🔨 使用 C++17/Qt5 ，支持订阅，扫描二维码，自定义路由编辑 🌟",
+    "language": "C++",
+    "star": "111"
+  },
+  {
+    "title": "FavioVazquez/ds-cheatsheets",
+    "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+    "description": "List of Data Science Cheatsheets to rule the world",
+    "language": "none",
+    "star": "76"
+  },
+  {
+    "title": "austrianredcross/stopp-corona-ios",
+    "url": "https://github.com/austrianredcross/stopp-corona-ios",
+    "description": "iOS Source Code",
+    "language": "none",
+    "star": "25"
+  },
+  {
+    "title": "Sentdex/NNfSiX",
+    "url": "https://github.com/Sentdex/NNfSiX",
+    "description": "Neural Networks from Scratch in other languages",
+    "language": "Assembly",
+    "star": "53"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "description": "Background Matting: The World is Your Green Screen",
+    "language": "Python",
+    "star": "115"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "description": "Toturial coming with \"data science roadmap\" graphe.",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "0wczar/airframe-react",
+    "url": "https://github.com/0wczar/airframe-react",
+    "description": "Free Open Source High Quality Dashboard based on Bootstrap 4 & React 16: http://dashboards.webkom.co/react/airframe",
+    "language": "JavaScript",
+    "star": "47"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "description": "📝 An awesome Data Science repository to learn and apply for real world problems.",
+    "language": "none",
+    "star": "110"
+  }
+]
