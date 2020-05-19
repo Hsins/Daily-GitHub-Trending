@@ -1,0 +1,177 @@
+[
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "star": "780"
+  },
+  {
+    "title": "facebookexperimental/Recoil",
+    "url": "https://github.com/facebookexperimental/Recoil",
+    "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "language": "JavaScript",
+    "star": "713"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "145"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "420"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "description": "Background Matting: The World is Your Green Screen",
+    "language": "Python",
+    "star": "152"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "61"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "description": "Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "language": "Python",
+    "star": "148"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "All Algorithms implemented in C++",
+    "language": "C++",
+    "star": "146"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "description": "All Algorithms implemented in C",
+    "language": "C",
+    "star": "80"
+  },
+  {
+    "title": "google/exposure-notifications-server",
+    "url": "https://github.com/google/exposure-notifications-server",
+    "description": "Exposure Notification Reference Server | Covid-19 Exposure Notifications",
+    "language": "Go",
+    "star": "118"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "description": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "language": "C",
+    "star": "62"
+  },
+  {
+    "title": "mrc-ide/covid-sim",
+    "url": "https://github.com/mrc-ide/covid-sim",
+    "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
+    "language": "C++",
+    "star": "49"
+  },
+  {
+    "title": "badtuxx/DescomplicandoKubernetes",
+    "url": "https://github.com/badtuxx/DescomplicandoKubernetes",
+    "description": "",
+    "language": "none",
+    "star": "90"
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "description": "手写实现李航《统计学习方法》书中全部算法",
+    "language": "Python",
+    "star": "167"
+  },
+  {
+    "title": "fengdu78/Coursera-ML-AndrewNg-Notes",
+    "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+    "description": "吴恩达老师的机器学习课程个人笔记",
+    "language": "HTML",
+    "star": "122"
+  },
+  {
+    "title": "DarkCoderSc/win-brute-logon",
+    "url": "https://github.com/DarkCoderSc/win-brute-logon",
+    "description": "Crack any Microsoft Windows users password without any privilege (Guest account included)",
+    "language": "Pascal",
+    "star": "113"
+  },
+  {
+    "title": "LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android",
+    "url": "https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android",
+    "description": "🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!",
+    "language": "Kotlin",
+    "star": "29"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "202"
+  },
+  {
+    "title": "ardalis/CleanArchitecture",
+    "url": "https://github.com/ardalis/CleanArchitecture",
+    "description": "A starting point for Clean Architecture with ASP.NET Core",
+    "language": "C#",
+    "star": "28"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code at home.",
+    "language": "JavaScript",
+    "star": "84"
+  },
+  {
+    "title": "fengdu78/deeplearning_ai_books",
+    "url": "https://github.com/fengdu78/deeplearning_ai_books",
+    "description": "deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）",
+    "language": "HTML",
+    "star": "66"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "language": "PHP",
+    "star": "50"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "star": "25"
+  },
+  {
+    "title": "bannedbook/fanqiang",
+    "url": "https://github.com/bannedbook/fanqiang",
+    "description": "翻墙-科学上网",
+    "language": "C",
+    "star": "63"
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "description": "",
+    "language": "Kotlin",
+    "star": "13"
+  }
+]
