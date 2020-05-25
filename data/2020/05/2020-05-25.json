@@ -1,0 +1,177 @@
+[
+  {
+    "title": "myspaghetti/macos-virtualbox",
+    "url": "https://github.com/myspaghetti/macos-virtualbox",
+    "description": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
+    "language": "Shell",
+    "star": "1"
+  },
+  {
+    "title": "CovidShield/mobile",
+    "url": "https://github.com/CovidShield/mobile",
+    "description": "React Native client application for COVID Shield on iOS and Android",
+    "language": "TypeScript",
+    "star": "171"
+  },
+  {
+    "title": "microsoft/GW-BASIC",
+    "url": "https://github.com/microsoft/GW-BASIC",
+    "description": "The original source code of Microsoft GW-BASIC from 1983",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "175"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "description": "The ultimate Free Open Source Solution for team communications.",
+    "language": "JavaScript",
+    "star": "200"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "719"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "55"
+  },
+  {
+    "title": "hkgumbs/multi",
+    "url": "https://github.com/hkgumbs/multi",
+    "description": "Create a custom, lightweight macOS app from a group of websites",
+    "language": "Swift",
+    "star": "237"
+  },
+  {
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "description": "Educational blog posts for Rust beginners",
+    "language": "Rust",
+    "star": "393"
+  },
+  {
+    "title": "emadboctorx/yolov3-keras-tf2",
+    "url": "https://github.com/emadboctorx/yolov3-keras-tf2",
+    "description": "yolo implementation in keras and tensorflow 2.2",
+    "language": "Python",
+    "star": "312"
+  },
+  {
+    "title": "ianzhao05/textshot",
+    "url": "https://github.com/ianzhao05/textshot",
+    "description": "Python tool for grabbing text via screenshot",
+    "language": "Python",
+    "star": "234"
+  },
+  {
+    "title": "neherlab/covid19_scenarios",
+    "url": "https://github.com/neherlab/covid19_scenarios",
+    "description": "Models of COVID-19 outbreak trajectories and hospital demand",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "description": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "language": "C#",
+    "star": "137"
+  },
+  {
+    "title": "microsoft/MS-DOS",
+    "url": "https://github.com/microsoft/MS-DOS",
+    "description": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "language": "Assembly",
+    "star": "323"
+  },
+  {
+    "title": "ant-design-blazor/ant-design-blazor",
+    "url": "https://github.com/ant-design-blazor/ant-design-blazor",
+    "description": "🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+    "language": "CSS",
+    "star": "138"
+  },
+  {
+    "title": "rgommezz/react-native-scroll-bottom-sheet",
+    "url": "https://github.com/rgommezz/react-native-scroll-bottom-sheet",
+    "description": "Cross platform scrollable bottom sheet with virtualisation support, native animations at 60 FPS and fully implemented in JS land 🔥",
+    "language": "TypeScript",
+    "star": "485"
+  },
+  {
+    "title": "olivia-ai/olivia",
+    "url": "https://github.com/olivia-ai/olivia",
+    "description": "💁‍♀️Your new best friend powered by an artificial neural network",
+    "language": "Go",
+    "star": "270"
+  },
+  {
+    "title": "gibbed/SteamAchievementManager",
+    "url": "https://github.com/gibbed/SteamAchievementManager",
+    "description": "A manager for game achievements in Steam.",
+    "language": "C#",
+    "star": "82"
+  },
+  {
+    "title": "sysdream/ligolo",
+    "url": "https://github.com/sysdream/ligolo",
+    "description": "Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/",
+    "language": "Go",
+    "star": "180"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "49"
+  },
+  {
+    "title": "python/cpython",
+    "url": "https://github.com/python/cpython",
+    "description": "The Python programming language",
+    "language": "Python",
+    "star": "78"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "648"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "291"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "description": "",
+    "language": "C#",
+    "star": "183"
+  },
+  {
+    "title": "transmission/transmission",
+    "url": "https://github.com/transmission/transmission",
+    "description": "Official Transmission BitTorrent client repository",
+    "language": "C",
+    "star": "88"
+  }
+]
