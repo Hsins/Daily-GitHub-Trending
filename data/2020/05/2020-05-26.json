@@ -1,0 +1,177 @@
+[
+  {
+    "title": "myspaghetti/macos-virtualbox",
+    "url": "https://github.com/myspaghetti/macos-virtualbox",
+    "description": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
+    "language": "Shell",
+    "star": "995"
+  },
+  {
+    "title": "vincentdoerig/latex-css",
+    "url": "https://github.com/vincentdoerig/latex-css",
+    "description": "LaTeX.css is a CSS library that makes your website look like a LaTeX document",
+    "language": "HTML",
+    "star": "577"
+  },
+  {
+    "title": "olivia-ai/olivia",
+    "url": "https://github.com/olivia-ai/olivia",
+    "description": "💁‍♀️Your new best friend powered by an artificial neural network",
+    "language": "Go",
+    "star": "229"
+  },
+  {
+    "title": "CovidShield/mobile",
+    "url": "https://github.com/CovidShield/mobile",
+    "description": "React Native client application for COVID Shield on iOS and Android",
+    "language": "TypeScript",
+    "star": "57"
+  },
+  {
+    "title": "microsoft/MS-DOS",
+    "url": "https://github.com/microsoft/MS-DOS",
+    "description": "The original sources of MS-DOS 1.25 and 2.0, for reference purposes",
+    "language": "Assembly",
+    "star": "71"
+  },
+  {
+    "title": "transmission/transmission",
+    "url": "https://github.com/transmission/transmission",
+    "description": "Official Transmission BitTorrent client repository",
+    "language": "C",
+    "star": "131"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "language": "C++",
+    "star": "60"
+  },
+  {
+    "title": "ehmatthes/pcc_2e",
+    "url": "https://github.com/ehmatthes/pcc_2e",
+    "description": "Online resources for Python Crash Course (Second Edition), from No Starch Press",
+    "language": "HTML",
+    "star": "16"
+  },
+  {
+    "title": "microsoft/GW-BASIC",
+    "url": "https://github.com/microsoft/GW-BASIC",
+    "description": "The original source code of Microsoft GW-BASIC from 1983",
+    "language": "C++",
+    "star": "227"
+  },
+  {
+    "title": "KhronosGroup/Vulkan-Samples",
+    "url": "https://github.com/KhronosGroup/Vulkan-Samples",
+    "description": "One stop solution for all Vulkan samples",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "pwn20wndstuff/Undecimus",
+    "url": "https://github.com/pwn20wndstuff/Undecimus",
+    "description": "unc0ver jailbreak for iOS 11.0 - 12.4",
+    "language": "C",
+    "star": "54"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "231"
+  },
+  {
+    "title": "cwida/duckdb",
+    "url": "https://github.com/cwida/duckdb",
+    "description": "DuckDB is an embeddable SQL OLAP Database Management System",
+    "language": "C++",
+    "star": "120"
+  },
+  {
+    "title": "ranjian0/building_tool",
+    "url": "https://github.com/ranjian0/building_tool",
+    "description": "Building generation addon for blender",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "description": "Questions to ask the company during your interview",
+    "language": "none",
+    "star": "89"
+  },
+  {
+    "title": "microsoft/AirSim",
+    "url": "https://github.com/microsoft/AirSim",
+    "description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "496"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (May 2020)",
+    "language": "JavaScript",
+    "star": "256"
+  },
+  {
+    "title": "google-research/big_transfer",
+    "url": "https://github.com/google-research/big_transfer",
+    "description": "Official repository for the \"Big Transfer (BiT): General Visual Representation Learning\" paper.",
+    "language": "Python",
+    "star": "150"
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "language": "C++",
+    "star": "2"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "182"
+  },
+  {
+    "title": "emadboctorx/yolov3-keras-tf2",
+    "url": "https://github.com/emadboctorx/yolov3-keras-tf2",
+    "description": "yolo implementation in keras and tensorflow 2.2",
+    "language": "Python",
+    "star": "92"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "34"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "description": "A rule-based tunnel in Go.",
+    "language": "Go",
+    "star": "53"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "795"
+  }
+]
