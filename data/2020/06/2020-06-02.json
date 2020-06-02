@@ -1,0 +1,177 @@
+[
+  {
+    "title": "corona-warn-app/cwa-app-android",
+    "url": "https://github.com/corona-warn-app/cwa-app-android",
+    "description": "Native Android app using the Apple/Google exposure notification API.",
+    "language": "Kotlin",
+    "star": "218"
+  },
+  {
+    "title": "corona-warn-app/cwa-app-ios",
+    "url": "https://github.com/corona-warn-app/cwa-app-ios",
+    "description": "Native iOS app using the exposure notification framework from Apple.",
+    "language": "Swift",
+    "star": "124"
+  },
+  {
+    "title": "corona-warn-app/cwa-documentation",
+    "url": "https://github.com/corona-warn-app/cwa-documentation",
+    "description": "Project overview, general documentation, and white papers.",
+    "language": "none",
+    "star": "136"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "star": "380"
+  },
+  {
+    "title": "bigH/git-fuzzy",
+    "url": "https://github.com/bigH/git-fuzzy",
+    "description": "interactive `git` with the help of `fzf`",
+    "language": "Shell",
+    "star": "225"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "star": "120"
+  },
+  {
+    "title": "shomali11/go-interview",
+    "url": "https://github.com/shomali11/go-interview",
+    "description": "Collection of Technical Interview Questions solved with Go",
+    "language": "Go",
+    "star": "232"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "description": "Backend implementation for the Apple/Google exposure notification API.",
+    "language": "Java",
+    "star": "53"
+  },
+  {
+    "title": "corona-warn-app/cwa-website",
+    "url": "https://github.com/corona-warn-app/cwa-website",
+    "description": "Corona-Warn-App website",
+    "language": "CSS",
+    "star": "39"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "language": "JavaScript",
+    "star": "81"
+  },
+  {
+    "title": "corona-warn-app/cwa-verification-portal",
+    "url": "https://github.com/corona-warn-app/cwa-verification-portal",
+    "description": "Frontend implementation of verification process",
+    "language": "Java",
+    "star": "11"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "description": "Practical Python Programming (course by @dabeaz)",
+    "language": "Python",
+    "star": "448"
+  },
+  {
+    "title": "badtuxx/DescomplicandoKubernetes",
+    "url": "https://github.com/badtuxx/DescomplicandoKubernetes",
+    "description": "",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "beekeeper-studio/beekeeper-studio",
+    "url": "https://github.com/beekeeper-studio/beekeeper-studio",
+    "description": "Cross platform SQL editor and database management app for Windows, Linux, and Mac.",
+    "language": "JavaScript",
+    "star": "115"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "17"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "description": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "language": "JavaScript",
+    "star": "62"
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "language": "C++",
+    "star": "4"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "description": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "language": "Vue",
+    "star": "220"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot",
+    "language": "Python",
+    "star": "23"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "description": "YOLOv5 in PyTorch > ONNX > CoreML > iOS",
+    "language": "Jupyter Notebook",
+    "star": "108"
+  },
+  {
+    "title": "go-vgo/robotgo",
+    "url": "https://github.com/go-vgo/robotgo",
+    "description": "RobotGo, Go Native cross-platform GUI automation @vcaesar",
+    "language": "C",
+    "star": "183"
+  },
+  {
+    "title": "podgorskiy/ALAE",
+    "url": "https://github.com/podgorskiy/ALAE",
+    "description": "[CVPR2020] Adversarial Latent Autoencoders",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "corona-warn-app/cwa-testresult-server",
+    "url": "https://github.com/corona-warn-app/cwa-testresult-server",
+    "description": "Backend implementation of the test result information.",
+    "language": "Java",
+    "star": "14"
+  },
+  {
+    "title": "p4gefau1t/trojan-go",
+    "url": "https://github.com/p4gefau1t/trojan-go",
+    "description": "Go实现的Trojan代理，支持自动证书申请/多路复用/路由功能/CDN中转，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
+    "language": "Go",
+    "star": "81"
+  },
+  {
+    "title": "hansonwang99/JavaCollection",
+    "url": "https://github.com/hansonwang99/JavaCollection",
+    "description": "Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章",
+    "language": "none",
+    "star": "36"
+  }
+]
