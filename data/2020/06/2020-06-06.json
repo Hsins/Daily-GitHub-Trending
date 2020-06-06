@@ -1,0 +1,177 @@
+[
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "description": "Create beautiful diagrams just by typing mathematical notation in plain text.",
+    "language": "Haskell",
+    "star": "364"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "description": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "language": "JavaScript",
+    "star": "322"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "language": "Python",
+    "star": "108"
+  },
+  {
+    "title": "nickchou/jetbrains-agent",
+    "url": "https://github.com/nickchou/jetbrains-agent",
+    "description": "jetbrains agent",
+    "language": "none",
+    "star": "162"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "description": "DeepFaceLab is the leading software for creating deepfakes.",
+    "language": "Python",
+    "star": "320"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "description": "The iconic SVG, font, and CSS toolkit",
+    "language": "JavaScript",
+    "star": "57"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "language": "Rust",
+    "star": "84"
+  },
+  {
+    "title": "locustio/locust",
+    "url": "https://github.com/locustio/locust",
+    "description": "Scalable user load testing tool written in Python",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "deepmind/acme",
+    "url": "https://github.com/deepmind/acme",
+    "description": "A library of reinforcement learning components and agents",
+    "language": "Python",
+    "star": "220"
+  },
+  {
+    "title": "NiuTrans/MTBook",
+    "url": "https://github.com/NiuTrans/MTBook",
+    "description": "《机器翻译：统计建模与深度学习方法》肖桐 朱靖波 著 - Machine Translation: Statistical Modeling and Deep Learning Methods",
+    "language": "TeX",
+    "star": "102"
+  },
+  {
+    "title": "bats3c/shad0w",
+    "url": "https://github.com/bats3c/shad0w",
+    "description": "A post exploitation framework designed to operate covertly on heavily monitored enviroments",
+    "language": "C",
+    "star": "97"
+  },
+  {
+    "title": "maykbrito/nlw-starter",
+    "url": "https://github.com/maykbrito/nlw-starter",
+    "description": "",
+    "language": "JavaScript",
+    "star": "19"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "language": "JavaScript",
+    "star": "40"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "description": "Simple HTML5 Charts using the <canvas> tag",
+    "language": "JavaScript",
+    "star": "38"
+  },
+  {
+    "title": "altair-viz/altair",
+    "url": "https://github.com/altair-viz/altair",
+    "description": "Declarative statistical visualization library for Python",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "2020PB/police-brutality",
+    "url": "https://github.com/2020PB/police-brutality",
+    "description": "Repository containing evidence of police brutality during the 2020 George Floyd protests",
+    "language": "Go",
+    "star": "190"
+  },
+  {
+    "title": "sixpathdev/hngi7-task2",
+    "url": "https://github.com/sixpathdev/hngi7-task2",
+    "description": "",
+    "language": "JavaScript",
+    "star": "8"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "Draft of the fastai book",
+    "language": "Jupyter Notebook",
+    "star": "34"
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "description": "🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+    "language": "Kotlin",
+    "star": "126"
+  },
+  {
+    "title": "Police-Data-Accessibility-Project/Police-Data-Accessibility-Project",
+    "url": "https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project",
+    "description": "A repository for all code related to the Police Data Accessibility Project",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "filipedeschamps/BrasilAPI",
+    "url": "https://github.com/filipedeschamps/BrasilAPI",
+    "description": "Vamos transformar o Brasil em uma API?",
+    "language": "JavaScript",
+    "star": "73"
+  },
+  {
+    "title": "typescript-cheatsheets/react-typescript-cheatsheet",
+    "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+    "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "washingtonpost/data-police-shootings",
+    "url": "https://github.com/washingtonpost/data-police-shootings",
+    "description": "The Washington Post is compiling a database of every fatal shooting in the United States by a police officer in the line of duty in 2015 and 2016.",
+    "language": "none",
+    "star": "15"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "description": "An interactive deep learning book with code, math, and discussions.",
+    "language": "Python",
+    "star": "126"
+  },
+  {
+    "title": "electronicarts/CnC_Remastered_Collection",
+    "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+    "description": "",
+    "language": "C++",
+    "star": "1"
+  }
+]
