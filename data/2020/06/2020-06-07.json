@@ -1,0 +1,177 @@
+[
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "description": "Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!",
+    "language": "Dockerfile",
+    "star": "1"
+  },
+  {
+    "title": "electronicarts/CnC_Remastered_Collection",
+    "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+    "description": "",
+    "language": "C++",
+    "star": "2"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "description": "DeepFaceLab is the leading software for creating deepfakes.",
+    "language": "Python",
+    "star": "438"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "description": "An interactive deep learning book with code, math, and discussions.",
+    "language": "Python",
+    "star": "149"
+  },
+  {
+    "title": "Say-Their-Name/say-their-names-ios",
+    "url": "https://github.com/Say-Their-Name/say-their-names-ios",
+    "description": "Say Their Name - iOS",
+    "language": "Swift",
+    "star": "72"
+  },
+  {
+    "title": "migueldeicaza/gui.cs",
+    "url": "https://github.com/migueldeicaza/gui.cs",
+    "description": "Console-based user interface toolkit for .NET applications.",
+    "language": "C#",
+    "star": "53"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "description": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "language": "JavaScript",
+    "star": "480"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "6"
+  },
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "description": "Create beautiful diagrams just by typing mathematical notation in plain text.",
+    "language": "Haskell",
+    "star": "650"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native apps with React.",
+    "language": "JavaScript",
+    "star": "64"
+  },
+  {
+    "title": "2020PB/police-brutality",
+    "url": "https://github.com/2020PB/police-brutality",
+    "description": "Repository containing evidence of police brutality during the 2020 George Floyd protests",
+    "language": "Go",
+    "star": "539"
+  },
+  {
+    "title": "imgVOID/jetbrains-license-2020",
+    "url": "https://github.com/imgVOID/jetbrains-license-2020",
+    "description": "JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!",
+    "language": "VBScript",
+    "star": "37"
+  },
+  {
+    "title": "free5gc/free5gc",
+    "url": "https://github.com/free5gc/free5gc",
+    "description": "Open source 5G core network base on 3GPP R15",
+    "language": "Go",
+    "star": "220"
+  },
+  {
+    "title": "googleprojectzero/TinyInst",
+    "url": "https://github.com/googleprojectzero/TinyInst",
+    "description": "A lightweight dynamic instrumentation library",
+    "language": "C++",
+    "star": "118"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "language": "Rust",
+    "star": "231"
+  },
+  {
+    "title": "kholia/OSX-KVM",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "description": "Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.",
+    "language": "Shell",
+    "star": "117"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "166"
+  },
+  {
+    "title": "jackzhenguo/python-small-examples",
+    "url": "https://github.com/jackzhenguo/python-small-examples",
+    "description": "告别枯燥，60 秒学会一个 Python 小例子",
+    "language": "Python",
+    "star": "77"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "Draft of the fastai book",
+    "language": "Jupyter Notebook",
+    "star": "62"
+  },
+  {
+    "title": "typescript-cheatsheets/react-typescript-cheatsheet",
+    "url": "https://github.com/typescript-cheatsheets/react-typescript-cheatsheet",
+    "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "language": "JavaScript",
+    "star": "220"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "Gr1mmie/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/Gr1mmie/Practical-Ethical-Hacking-Resources",
+    "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "mukulhase/WebWhatsapp-Wrapper",
+    "url": "https://github.com/mukulhase/WebWhatsapp-Wrapper",
+    "description": "An API for sending and receiving messages over web.whatsapp [Working as of 18th May 2018]",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "language": "Python",
+    "star": "233"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "188"
+  }
+]
