@@ -1,0 +1,177 @@
+[
+  {
+    "title": "anopara/genetic-drawing",
+    "url": "https://github.com/anopara/genetic-drawing",
+    "description": "A genetic algorithm toy project for drawing",
+    "language": "Python",
+    "star": "476"
+  },
+  {
+    "title": "apple/password-manager-resources",
+    "url": "https://github.com/apple/password-manager-resources",
+    "description": "A place for creators and users of password managers to collaborate on resources to make password management better.",
+    "language": "JavaScript",
+    "star": "882"
+  },
+  {
+    "title": "defund12/defund12.org",
+    "url": "https://github.com/defund12/defund12.org",
+    "description": "defund12.org",
+    "language": "JavaScript",
+    "star": "31"
+  },
+  {
+    "title": "Say-Their-Name/say-their-names-ios",
+    "url": "https://github.com/Say-Their-Name/say-their-names-ios",
+    "description": "Say Their Name - iOS",
+    "language": "Swift",
+    "star": "57"
+  },
+  {
+    "title": "electronicarts/CnC_Remastered_Collection",
+    "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+    "description": "",
+    "language": "C++",
+    "star": "2"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "description": "Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!",
+    "language": "Dockerfile",
+    "star": "719"
+  },
+  {
+    "title": "pengzhile/ide-eval-resetter",
+    "url": "https://github.com/pengzhile/ide-eval-resetter",
+    "description": "Reset your IDE eval information.",
+    "language": "Java",
+    "star": "85"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "language": "Rust",
+    "star": "213"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "description": "DeepFaceLab is the leading software for creating deepfakes.",
+    "language": "Python",
+    "star": "383"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "187"
+  },
+  {
+    "title": "kholia/OSX-KVM",
+    "url": "https://github.com/kholia/OSX-KVM",
+    "description": "Run macOS on QEMU/KVM. With OpenCore Now! No free support is provided. Open PR(s) to fix problems.",
+    "language": "Shell",
+    "star": "165"
+  },
+  {
+    "title": "2020PB/police-brutality",
+    "url": "https://github.com/2020PB/police-brutality",
+    "description": "Repository containing evidence of police brutality during the 2020 George Floyd protests",
+    "language": "Go",
+    "star": "369"
+  },
+  {
+    "title": "grid-js/gridjs",
+    "url": "https://github.com/grid-js/gridjs",
+    "description": "Advanced table plugin",
+    "language": "TypeScript",
+    "star": "167"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "136"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "language": "Python",
+    "star": "207"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "All Algorithms implemented in C++",
+    "language": "C++",
+    "star": "109"
+  },
+  {
+    "title": "imgVOID/jetbrains-license-2020",
+    "url": "https://github.com/imgVOID/jetbrains-license-2020",
+    "description": "JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!",
+    "language": "VBScript",
+    "star": "73"
+  },
+  {
+    "title": "aymericdamien/TensorFlow-Examples",
+    "url": "https://github.com/aymericdamien/TensorFlow-Examples",
+    "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+    "language": "Jupyter Notebook",
+    "star": "134"
+  },
+  {
+    "title": "datapublishings/Course-python-data-science",
+    "url": "https://github.com/datapublishings/Course-python-data-science",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "25"
+  },
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "description": "Create beautiful diagrams just by typing mathematical notation in plain text.",
+    "language": "Haskell",
+    "star": "530"
+  },
+  {
+    "title": "fiatjaf/jqview",
+    "url": "https://github.com/fiatjaf/jqview",
+    "description": "simplest possible native GUI for inspecting JSON objects with jq",
+    "language": "Go",
+    "star": "227"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "199"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "37"
+  },
+  {
+    "title": "hudson-and-thames/research",
+    "url": "https://github.com/hudson-and-thames/research",
+    "description": "Notebooks based on financial machine learning.",
+    "language": "Jupyter Notebook",
+    "star": "72"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "description": "An interactive deep learning book with code, math, and discussions.",
+    "language": "Python",
+    "star": "198"
+  }
+]
