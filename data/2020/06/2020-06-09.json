@@ -1,0 +1,177 @@
+[
+  {
+    "title": "carlini/printf-tac-toe",
+    "url": "https://github.com/carlini/printf-tac-toe",
+    "description": "tic-tac-toe in a single call to printf",
+    "language": "C",
+    "star": "405"
+  },
+  {
+    "title": "electronicarts/CnC_Remastered_Collection",
+    "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+    "description": "",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "imgVOID/jetbrains-license-2020",
+    "url": "https://github.com/imgVOID/jetbrains-license-2020",
+    "description": "JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!",
+    "language": "VBScript",
+    "star": "104"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "148"
+  },
+  {
+    "title": "anopara/genetic-drawing",
+    "url": "https://github.com/anopara/genetic-drawing",
+    "description": "A genetic algorithm toy project for drawing",
+    "language": "Python",
+    "star": "272"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "216"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "description": "Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!",
+    "language": "Dockerfile",
+    "star": "841"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "description": "Deepfakes Software For All",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+    "language": "Jupyter Notebook",
+    "star": "30"
+  },
+  {
+    "title": "pengzhile/ide-eval-resetter",
+    "url": "https://github.com/pengzhile/ide-eval-resetter",
+    "description": "Reset your IDE eval information.",
+    "language": "Java",
+    "star": "134"
+  },
+  {
+    "title": "OpenRA/OpenRA",
+    "url": "https://github.com/OpenRA/OpenRA",
+    "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+    "language": "C#",
+    "star": "102"
+  },
+  {
+    "title": "azure-rtos/threadx",
+    "url": "https://github.com/azure-rtos/threadx",
+    "description": "Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+    "language": "C",
+    "star": "37"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "description": "My Python Examples",
+    "language": "Python",
+    "star": "29"
+  },
+  {
+    "title": "Zettlr/Zettlr",
+    "url": "https://github.com/Zettlr/Zettlr",
+    "description": "A Markdown Editor for the 21st century.",
+    "language": "JavaScript",
+    "star": "80"
+  },
+  {
+    "title": "wilsonfreitas/awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "language": "none",
+    "star": "196"
+  },
+  {
+    "title": "fengdu78/lihang-code",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "description": "《统计学习方法》的代码实现",
+    "language": "Jupyter Notebook",
+    "star": "133"
+  },
+  {
+    "title": "LandGrey/SpringBootVulExploit",
+    "url": "https://github.com/LandGrey/SpringBootVulExploit",
+    "description": "SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 checklist",
+    "language": "Java",
+    "star": "71"
+  },
+  {
+    "title": "veeral-patel/learn-security-engineering",
+    "url": "https://github.com/veeral-patel/learn-security-engineering",
+    "description": "How I'm learning to build secure systems",
+    "language": "none",
+    "star": "82"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "42"
+  },
+  {
+    "title": "ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+    "url": "https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample",
+    "description": "A very simple toon lit shader example, for you to learn writing custom lit shader in Unity URP",
+    "language": "HLSL",
+    "star": "50"
+  },
+  {
+    "title": "aymericdamien/TensorFlow-Examples",
+    "url": "https://github.com/aymericdamien/TensorFlow-Examples",
+    "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+    "language": "Jupyter Notebook",
+    "star": "141"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "star": "25"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "168"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "All Algorithms implemented in C++",
+    "language": "C++",
+    "star": "139"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "language": "Rust",
+    "star": "17"
+  }
+]
