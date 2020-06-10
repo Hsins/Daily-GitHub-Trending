@@ -1,0 +1,177 @@
+[
+  {
+    "title": "hsoft/collapseos",
+    "url": "https://github.com/hsoft/collapseos",
+    "description": "Bootstrap post-collapse technology",
+    "language": "C",
+    "star": "163"
+  },
+  {
+    "title": "carlini/printf-tac-toe",
+    "url": "https://github.com/carlini/printf-tac-toe",
+    "description": "tic-tac-toe in a single call to printf",
+    "language": "C",
+    "star": "175"
+  },
+  {
+    "title": "turicas/brasil.io",
+    "url": "https://github.com/turicas/brasil.io",
+    "description": "Backend da API do https://Brasil.IO/",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "All Algorithms implemented in C++",
+    "language": "C++",
+    "star": "123"
+  },
+  {
+    "title": "anopara/genetic-drawing",
+    "url": "https://github.com/anopara/genetic-drawing",
+    "description": "A genetic algorithm toy project for drawing",
+    "language": "Python",
+    "star": "249"
+  },
+  {
+    "title": "imgVOID/jetbrains-license-2020",
+    "url": "https://github.com/imgVOID/jetbrains-license-2020",
+    "description": "JetBrains license servers 2020-2021 IntelliJ WebStorm PyCharm PhpStorm 05 May 2020 works; yo ho ho from Ukraine!",
+    "language": "VBScript",
+    "star": "122"
+  },
+  {
+    "title": "boostorg/boost",
+    "url": "https://github.com/boostorg/boost",
+    "description": "Super-project for modularized Boost",
+    "language": "HTML",
+    "star": "18"
+  },
+  {
+    "title": "pry0cc/axiom",
+    "url": "https://github.com/pry0cc/axiom",
+    "description": "A dynamic infrastructure toolkit for red teamers and bug bounty hunters!",
+    "language": "Shell",
+    "star": "76"
+  },
+  {
+    "title": "EmilHernvall/dnsguide",
+    "url": "https://github.com/EmilHernvall/dnsguide",
+    "description": "A guide to writing a DNS Server from scratch in Rust",
+    "language": "none",
+    "star": "152"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "description": "Firebase iOS SDK",
+    "language": "Objective-C",
+    "star": "8"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "description": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.",
+    "language": "none",
+    "star": "56"
+  },
+  {
+    "title": "VSCodium/vscodium",
+    "url": "https://github.com/VSCodium/vscodium",
+    "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+    "language": "Shell",
+    "star": "122"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "description": "Documentation for ASP.NET Core",
+    "language": "C#",
+    "star": "14"
+  },
+  {
+    "title": "Manisso/fsociety",
+    "url": "https://github.com/Manisso/fsociety",
+    "description": "fsociety Hacking Tools Pack – A Penetration Testing Framework",
+    "language": "Python",
+    "star": "66"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "148"
+  },
+  {
+    "title": "rubocop-hq/rubocop",
+    "url": "https://github.com/rubocop-hq/rubocop",
+    "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+    "language": "Ruby",
+    "star": "23"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "187"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "115"
+  },
+  {
+    "title": "veeral-patel/learn-security-engineering",
+    "url": "https://github.com/veeral-patel/learn-security-engineering",
+    "description": "How I'm learning to build secure systems",
+    "language": "none",
+    "star": "133"
+  },
+  {
+    "title": "chai2010/go-ast-book",
+    "url": "https://github.com/chai2010/go-ast-book",
+    "description": "📚 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)",
+    "language": "Go",
+    "star": "286"
+  },
+  {
+    "title": "meshtastic/Meshtastic-device",
+    "url": "https://github.com/meshtastic/Meshtastic-device",
+    "description": "Device code for the Meshtastic ski/hike/fly/customizable open GPS radio",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "wilsonfreitas/awesome-quant",
+    "url": "https://github.com/wilsonfreitas/awesome-quant",
+    "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+    "language": "none",
+    "star": "113"
+  },
+  {
+    "title": "star7th/showdoc",
+    "url": "https://github.com/star7th/showdoc",
+    "description": "ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具",
+    "language": "JavaScript",
+    "star": "32"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "174"
+  },
+  {
+    "title": "mswjs/msw",
+    "url": "https://github.com/mswjs/msw",
+    "description": "Seamless REST/GraphQL API mocking library for browser and Node.",
+    "language": "TypeScript",
+    "star": "94"
+  }
+]
