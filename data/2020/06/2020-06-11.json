@@ -1,0 +1,170 @@
+[
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "310"
+  },
+  {
+    "title": "chai2010/go-ast-book",
+    "url": "https://github.com/chai2010/go-ast-book",
+    "description": "📚 《Go语法树入门》(开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST/LLVM/LLIR/凹语言)",
+    "language": "Go",
+    "star": "249"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "description": "Streamlit — The fastest way to build custom ML tools",
+    "language": "TypeScript",
+    "star": "83"
+  },
+  {
+    "title": "docker/distribution",
+    "url": "https://github.com/docker/distribution",
+    "description": "The Docker toolset to pack, ship, store, and deliver content",
+    "language": "Go",
+    "star": "34"
+  },
+  {
+    "title": "fengdu78/lihang-code",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "description": "《统计学习方法》的代码实现",
+    "language": "Jupyter Notebook",
+    "star": "92"
+  },
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "description": "n³ The missing terminal file manager for X.",
+    "language": "C",
+    "star": "42"
+  },
+  {
+    "title": "uber/neuropod",
+    "url": "https://github.com/uber/neuropod",
+    "description": "A uniform interface to run deep learning models from multiple frameworks",
+    "language": "C++",
+    "star": "121"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "description": "The ultimate Free Open Source Solution for team communications.",
+    "language": "JavaScript",
+    "star": "44"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "star": "81"
+  },
+  {
+    "title": "krzyzanowskim/CryptoSwift",
+    "url": "https://github.com/krzyzanowskim/CryptoSwift",
+    "description": "CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift",
+    "language": "Swift",
+    "star": "12"
+  },
+  {
+    "title": "dotnet/dotnet-docker",
+    "url": "https://github.com/dotnet/dotnet-docker",
+    "description": "Docker images for .NET Core and the .NET Core Tools.",
+    "language": "Dockerfile",
+    "star": "11"
+  },
+  {
+    "title": "phpstan/phpstan",
+    "url": "https://github.com/phpstan/phpstan",
+    "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+    "language": "HTML",
+    "star": "22"
+  },
+  {
+    "title": "Advanced-Frontend/Daily-Interview-Question",
+    "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
+    "description": "我是木易杨，公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
+    "language": "JavaScript",
+    "star": "45"
+  },
+  {
+    "title": "outline/outline",
+    "url": "https://github.com/outline/outline",
+    "description": "The fastest wiki and knowledge base for growing teams. Beautiful, feature rich, and markdown compatible.",
+    "language": "JavaScript",
+    "star": "47"
+  },
+  {
+    "title": "trevtravtrev/StayAwake",
+    "url": "https://github.com/trevtravtrev/StayAwake",
+    "description": "Stay Awake is a simple app that keeps your computer from going to sleep.",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "language": "Go",
+    "star": "70"
+  },
+  {
+    "title": "googleapis/google-cloud-go",
+    "url": "https://github.com/googleapis/google-cloud-go",
+    "description": "Google Cloud Client Libraries for Go.",
+    "language": "Go",
+    "star": "10"
+  },
+  {
+    "title": "gogo/protobuf",
+    "url": "https://github.com/gogo/protobuf",
+    "description": "Protocol Buffers for Go with Gadgets",
+    "language": "Go",
+    "star": "15"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "13"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "101"
+  },
+  {
+    "title": "frontendbr/vagas",
+    "url": "https://github.com/frontendbr/vagas",
+    "description": "🔬 Espaço para divulgação de vagas para front-enders.",
+    "language": "none",
+    "star": "11"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "All Algorithms implemented in C++",
+    "language": "C++",
+    "star": "119"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "60"
+  },
+  {
+    "title": "pytorch/vision",
+    "url": "https://github.com/pytorch/vision",
+    "description": "Datasets, Transforms and Models specific to Computer Vision",
+    "language": "Jupyter Notebook",
+    "star": "20"
+  }
+]
