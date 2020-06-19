@@ -1,0 +1,177 @@
+[
+  {
+    "title": "edp963/davinci",
+    "url": "https://github.com/edp963/davinci",
+    "description": "Davinci is a DVsaaS (Data Visualization as a Service) Platform",
+    "language": "TypeScript",
+    "star": "102"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "star": "282"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "18"
+  },
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "description": "High-Resolution 3D Human Digitization from A Single Image.",
+    "language": "Python",
+    "star": "275"
+  },
+  {
+    "title": "alibaba/hooks",
+    "url": "https://github.com/alibaba/hooks",
+    "description": "React Hooks Library",
+    "language": "TypeScript",
+    "star": "76"
+  },
+  {
+    "title": "corona-warn-app/cwa-documentation",
+    "url": "https://github.com/corona-warn-app/cwa-documentation",
+    "description": "Project overview, general documentation, and white papers.",
+    "language": "TeX",
+    "star": "117"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "315"
+  },
+  {
+    "title": "greyireland/algorithm-pattern",
+    "url": "https://github.com/greyireland/algorithm-pattern",
+    "description": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+    "language": "Go",
+    "star": "450"
+  },
+  {
+    "title": "corona-warn-app/cwa-website",
+    "url": "https://github.com/corona-warn-app/cwa-website",
+    "description": "Corona-Warn-App website",
+    "language": "CSS",
+    "star": "67"
+  },
+  {
+    "title": "corona-warn-app/cwa-app-android",
+    "url": "https://github.com/corona-warn-app/cwa-app-android",
+    "description": "Native Android app using the Apple/Google exposure notification API.",
+    "language": "Kotlin",
+    "star": "114"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "description": "Backend implementation for the Apple/Google exposure notification API.",
+    "language": "Java",
+    "star": "73"
+  },
+  {
+    "title": "PaddlePaddle/PARL",
+    "url": "https://github.com/PaddlePaddle/PARL",
+    "description": "PARL A high-performance distributed training framework for Reinforcement Learning",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "IvanMathy/Boop",
+    "url": "https://github.com/IvanMathy/Boop",
+    "description": "A scriptable scratchpad for developers. In slow yet steady progress.",
+    "language": "Swift",
+    "star": "116"
+  },
+  {
+    "title": "open-mmlab/OpenSelfSup",
+    "url": "https://github.com/open-mmlab/OpenSelfSup",
+    "description": "Self-Supervised Learning Toolbox and Benchmark",
+    "language": "Python",
+    "star": "122"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Jupyter Notebook",
+    "star": "153"
+  },
+  {
+    "title": "jackfrued/Python-Core-50-Courses",
+    "url": "https://github.com/jackfrued/Python-Core-50-Courses",
+    "description": "Python语言基础50课",
+    "language": "none",
+    "star": "170"
+  },
+  {
+    "title": "eth-sri/silq",
+    "url": "https://github.com/eth-sri/silq",
+    "description": "",
+    "language": "D",
+    "star": "29"
+  },
+  {
+    "title": "corona-warn-app/cwa-verification-server",
+    "url": "https://github.com/corona-warn-app/cwa-verification-server",
+    "description": "Backend implementation of the verification process",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+    "language": "Python",
+    "star": "195"
+  },
+  {
+    "title": "macrozheng/springcloud-learning",
+    "url": "https://github.com/macrozheng/springcloud-learning",
+    "description": "一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。20篇文章，篇篇精华，30个Demo，涵盖大部分应用场景。",
+    "language": "Java",
+    "star": "58"
+  },
+  {
+    "title": "corona-warn-app/cwa-app-ios",
+    "url": "https://github.com/corona-warn-app/cwa-app-ios",
+    "description": "Native iOS app using the exposure notification framework from Apple.",
+    "language": "Swift",
+    "star": "76"
+  },
+  {
+    "title": "The-Japan-DataScientist-Society/100knocks-preprocess",
+    "url": "https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess",
+    "description": "データサイエンス100本ノック（構造化データ加工編）",
+    "language": "HTML",
+    "star": "101"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "star": "77"
+  },
+  {
+    "title": "gogcom/galaxy-integrations-python-api",
+    "url": "https://github.com/gogcom/galaxy-integrations-python-api",
+    "description": "NOTE: Please report here only issues related to the python API. Issues and general feedback regarding the Galaxy Client 2.0 shall be sent via Galaxy Client menu",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "description": "Practical Python Programming (course by @dabeaz)",
+    "language": "Python",
+    "star": "72"
+  }
+]
