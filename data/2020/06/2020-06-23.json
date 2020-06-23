@@ -1,0 +1,177 @@
+[
+  {
+    "title": "tg-bomze/Face-Depixelizer",
+    "url": "https://github.com/tg-bomze/Face-Depixelizer",
+    "description": "Face Depixelizer based on \"PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models\" repository.",
+    "language": "Jupyter Notebook",
+    "star": "266"
+  },
+  {
+    "title": "Covid-19Radar/Covid19Radar",
+    "url": "https://github.com/Covid-19Radar/Covid19Radar",
+    "description": "Open Source / i18n / Cross Platform Contact Tracing App by exposure notification framework.",
+    "language": "C#",
+    "star": "295"
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+    "language": "Python",
+    "star": "330"
+  },
+  {
+    "title": "Yours3lf/rpi-vk-driver",
+    "url": "https://github.com/Yours3lf/rpi-vk-driver",
+    "description": "VK driver for the Raspberry Pi (Broadcom Videocore IV)",
+    "language": "C++",
+    "star": "204"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "description": "An open source re-implementation of Diablo 2",
+    "language": "Go",
+    "star": "246"
+  },
+  {
+    "title": "greyireland/algorithm-pattern",
+    "url": "https://github.com/greyireland/algorithm-pattern",
+    "description": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+    "language": "Go",
+    "star": "525"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "language": "Python",
+    "star": "73"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "29"
+  },
+  {
+    "title": "SigmaQuan/Better-Python-59-Ways",
+    "url": "https://github.com/SigmaQuan/Better-Python-59-Ways",
+    "description": "Code Sample of Book \"Effective Python: 59 Specific Ways to Write Better Pyton\" by Brett Slatkin",
+    "language": "Python",
+    "star": "135"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "description": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+    "language": "Java",
+    "star": "76"
+  },
+  {
+    "title": "SaekiRaku/vscode-rainbow-fart",
+    "url": "https://github.com/SaekiRaku/vscode-rainbow-fart",
+    "description": "一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.",
+    "language": "Vue",
+    "star": "651"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "126"
+  },
+  {
+    "title": "iaincollins/next-auth",
+    "url": "https://github.com/iaincollins/next-auth",
+    "description": "Easy authentication for Next.js and Serverless",
+    "language": "JavaScript",
+    "star": "281"
+  },
+  {
+    "title": "digital-standard/ThreeDPoseTracker",
+    "url": "https://github.com/digital-standard/ThreeDPoseTracker",
+    "description": "",
+    "language": "C#",
+    "star": "44"
+  },
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "description": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+    "language": "Java",
+    "star": "166"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "244"
+  },
+  {
+    "title": "keithnull/TeachYourselfCS-CN",
+    "url": "https://github.com/keithnull/TeachYourselfCS-CN",
+    "description": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS",
+    "language": "none",
+    "star": "393"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "433"
+  },
+  {
+    "title": "joeycastillo/The-Open-Book",
+    "url": "https://github.com/joeycastillo/The-Open-Book",
+    "description": "",
+    "language": "C++",
+    "star": "82"
+  },
+  {
+    "title": "rougier/elegant-emacs",
+    "url": "https://github.com/rougier/elegant-emacs",
+    "description": "A very minimal but elegant emacs (I think)",
+    "language": "Emacs Lisp",
+    "star": "34"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Java",
+    "star": "294"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "CCChieh/IBMYes",
+    "url": "https://github.com/CCChieh/IBMYes",
+    "description": "",
+    "language": "Batchfile",
+    "star": "9"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "255"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "star": "101"
+  }
+]
