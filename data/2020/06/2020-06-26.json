@@ -1,0 +1,177 @@
+[
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "description": "An open source re-implementation of Diablo 2",
+    "language": "Go",
+    "star": "325"
+  },
+  {
+    "title": "bradtraversy/ui_components",
+    "url": "https://github.com/bradtraversy/ui_components",
+    "description": "Collection of HTML & CSS UI components",
+    "language": "HTML",
+    "star": "76"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "332"
+  },
+  {
+    "title": "podgorskiy/ALAE",
+    "url": "https://github.com/podgorskiy/ALAE",
+    "description": "[CVPR2020] Adversarial Latent Autoencoders",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "dabreegster/abstreet",
+    "url": "https://github.com/dabreegster/abstreet",
+    "description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.",
+    "language": "Rust",
+    "star": "417"
+  },
+  {
+    "title": "s-matyukevich/raspberry-pi-os",
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+    "language": "C",
+    "star": "175"
+  },
+  {
+    "title": "Homebrew/brew",
+    "url": "https://github.com/Homebrew/brew",
+    "description": "🍺 The missing package manager for macOS (or Linux)",
+    "language": "Ruby",
+    "star": "36"
+  },
+  {
+    "title": "ruby/ruby",
+    "url": "https://github.com/ruby/ruby",
+    "description": "The Ruby Programming Language [mirror]",
+    "language": "Ruby",
+    "star": "12"
+  },
+  {
+    "title": "thingsboard/thingsboard",
+    "url": "https://github.com/thingsboard/thingsboard",
+    "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+    "language": "Java",
+    "star": "146"
+  },
+  {
+    "title": "TheEconomist/us-potus-model",
+    "url": "https://github.com/TheEconomist/us-potus-model",
+    "description": "Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.",
+    "language": "HTML",
+    "star": "17"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "254"
+  },
+  {
+    "title": "tailwindcss/tailwindcss",
+    "url": "https://github.com/tailwindcss/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "CSS",
+    "star": "110"
+  },
+  {
+    "title": "spmallick/learnopencv",
+    "url": "https://github.com/spmallick/learnopencv",
+    "description": "Learn OpenCV : C++ and Python Examples",
+    "language": "Jupyter Notebook",
+    "star": "127"
+  },
+  {
+    "title": "tirthajyoti/Papers-Literature-ML-DL-RL-AI",
+    "url": "https://github.com/tirthajyoti/Papers-Literature-ML-DL-RL-AI",
+    "description": "Highly cited and useful papers related to machine learning, deep learning, AI, game theory, reinforcement learning",
+    "language": "none",
+    "star": "63"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "language": "PHP",
+    "star": "73"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "120"
+  },
+  {
+    "title": "Ignitetechnologies/Privilege-Escalation",
+    "url": "https://github.com/Ignitetechnologies/Privilege-Escalation",
+    "description": "This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.",
+    "language": "none",
+    "star": "22"
+  },
+  {
+    "title": "kentcdodds/bookshelf",
+    "url": "https://github.com/kentcdodds/bookshelf",
+    "description": "Build a ReactJS App workshop",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "43"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "192"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "description": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "vt-vl-lab/3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "description": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "description": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "language": "JavaScript",
+    "star": "86"
+  }
+]
