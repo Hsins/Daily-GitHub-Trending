@@ -1,0 +1,177 @@
+[
+  {
+    "title": "erikgrinaker/toydb",
+    "url": "https://github.com/erikgrinaker/toydb",
+    "description": "Distributed SQL database in Rust, written as a learning project",
+    "language": "Rust",
+    "star": "307"
+  },
+  {
+    "title": "StateOfCalifornia/CalCAT",
+    "url": "https://github.com/StateOfCalifornia/CalCAT",
+    "description": "California COVID Assessment Tool",
+    "language": "R",
+    "star": "38"
+  },
+  {
+    "title": "team-video/aviary.sh",
+    "url": "https://github.com/team-video/aviary.sh",
+    "description": "Minimal distributed configuration management in bash",
+    "language": "Shell",
+    "star": "352"
+  },
+  {
+    "title": "FlameOfIgnis/Pwdb-Public",
+    "url": "https://github.com/FlameOfIgnis/Pwdb-Public",
+    "description": "A collection of all the data i could extract from 1 billion leaked credentials from internet.",
+    "language": "none",
+    "star": "303"
+  },
+  {
+    "title": "felixge/fgprof",
+    "url": "https://github.com/felixge/fgprof",
+    "description": "🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.",
+    "language": "Go",
+    "star": "337"
+  },
+  {
+    "title": "LingCoder/OnJava8",
+    "url": "https://github.com/LingCoder/OnJava8",
+    "description": "《On Java 8》中文版，又名《Java编程思想》 第5版",
+    "language": "none",
+    "star": "106"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "44"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "description": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "language": "JavaScript",
+    "star": "98"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "395"
+  },
+  {
+    "title": "microsoft/fluentui-system-icons",
+    "url": "https://github.com/microsoft/fluentui-system-icons",
+    "description": "Fluent System Icons is a set of mobile platform icons from Microsoft",
+    "language": "Swift",
+    "star": "360"
+  },
+  {
+    "title": "coronalabs/corona",
+    "url": "https://github.com/coronalabs/corona",
+    "description": "Solar2D Game Engine main repository (ex Corona SDK)",
+    "language": "C++",
+    "star": "291"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "language": "Python",
+    "star": "101"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "description": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "language": "Python",
+    "star": "225"
+  },
+  {
+    "title": "rtcovidlive/covid-model",
+    "url": "https://github.com/rtcovidlive/covid-model",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "26"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "54"
+  },
+  {
+    "title": "Deep-MI/FastSurfer",
+    "url": "https://github.com/Deep-MI/FastSurfer",
+    "description": "PyTorch implementation of FastSurferCNN",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "meng-chuan/Unlock-netease-cloud-music",
+    "url": "https://github.com/meng-chuan/Unlock-netease-cloud-music",
+    "description": "解锁网易云音乐客户端变灰歌曲",
+    "language": "JavaScript",
+    "star": "82"
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "description": "Learn the skills required to sysadmin a remote Linux server from the commandline.",
+    "language": "Shell",
+    "star": "152"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers",
+    "language": "JavaScript",
+    "star": "244"
+  },
+  {
+    "title": "fastai/numerical-linear-algebra",
+    "url": "https://github.com/fastai/numerical-linear-algebra",
+    "description": "Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course",
+    "language": "Jupyter Notebook",
+    "star": "94"
+  },
+  {
+    "title": "vtil-project/VTIL-Core",
+    "url": "https://github.com/vtil-project/VTIL-Core",
+    "description": "Virtual-machine Translation Intermediate Language",
+    "language": "C++",
+    "star": "36"
+  },
+  {
+    "title": "googlesamples/arcore-depth-lab",
+    "url": "https://github.com/googlesamples/arcore-depth-lab",
+    "description": "ARCore Depth Lab is a set of Depth API samples that provides assets using depth for advanced geometry-aware features in AR interaction and rendering. (UIST 2020)",
+    "language": "C#",
+    "star": "47"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "A sandbox tower defense game",
+    "language": "Java",
+    "star": "32"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "formik/formik",
+    "url": "https://github.com/formik/formik",
+    "description": "Build forms in React, without the tears 😭",
+    "language": "TypeScript",
+    "star": "106"
+  }
+]
