@@ -1,0 +1,177 @@
+[
+  {
+    "title": "foambubble/foam",
+    "url": "https://github.com/foambubble/foam",
+    "description": "A personal knowledge management and sharing system for VSCode",
+    "language": "Markdown",
+    "star": "2"
+  },
+  {
+    "title": "CRYTEK/CRYENGINE",
+    "url": "https://github.com/CRYTEK/CRYENGINE",
+    "description": "CRYENGINE is a powerful real-time game development platform created by Crytek.",
+    "language": "C++",
+    "star": "144"
+  },
+  {
+    "title": "LemmyNet/lemmy",
+    "url": "https://github.com/LemmyNet/lemmy",
+    "description": "🐀 Building a federated alternative to reddit in rust",
+    "language": "Rust",
+    "star": "223"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "A sandbox tower defense game",
+    "language": "Java",
+    "star": "134"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "language": "Python",
+    "star": "175"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "180"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Jupyter Notebook",
+    "star": "119"
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "language": "JavaScript",
+    "star": "82"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "language": "Go",
+    "star": "61"
+  },
+  {
+    "title": "LingCoder/OnJava8",
+    "url": "https://github.com/LingCoder/OnJava8",
+    "description": "《On Java 8》中文版，又名《Java编程思想》 第5版",
+    "language": "none",
+    "star": "307"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "language": "Java",
+    "star": "117"
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "description": "Open Source Computer Vision Library",
+    "language": "C++",
+    "star": "55"
+  },
+  {
+    "title": "honkit/honkit",
+    "url": "https://github.com/honkit/honkit",
+    "description": "📖 HonKit is building beautiful books using Markdown - Fork of GitBook",
+    "language": "JavaScript",
+    "star": "310"
+  },
+  {
+    "title": "alibaba/canal",
+    "url": "https://github.com/alibaba/canal",
+    "description": "阿里巴巴 MySQL binlog 增量订阅&消费组件",
+    "language": "Java",
+    "star": "46"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "description": "Learning Convolutional Neural Networks with Interactive Visualization.",
+    "language": "JavaScript",
+    "star": "106"
+  },
+  {
+    "title": "maxgoedjen/secretive",
+    "url": "https://github.com/maxgoedjen/secretive",
+    "description": "Store SSH keys in the Secure Enclave",
+    "language": "Swift",
+    "star": "570"
+  },
+  {
+    "title": "CTurt/FreeDVDBoot",
+    "url": "https://github.com/CTurt/FreeDVDBoot",
+    "description": "PlayStation 2 DVD Player Exploit",
+    "language": "C",
+    "star": "367"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "language": "Java",
+    "star": "66"
+  },
+  {
+    "title": "meng-chuan/Unlock-netease-cloud-music",
+    "url": "https://github.com/meng-chuan/Unlock-netease-cloud-music",
+    "description": "解锁网易云音乐客户端变灰歌曲",
+    "language": "JavaScript",
+    "star": "193"
+  },
+  {
+    "title": "apache/shardingsphere-elasticjob-lite",
+    "url": "https://github.com/apache/shardingsphere-elasticjob-lite",
+    "description": "Distributed scheduled job framework",
+    "language": "Java",
+    "star": "17"
+  },
+  {
+    "title": "prakhar1989/awesome-courses",
+    "url": "https://github.com/prakhar1989/awesome-courses",
+    "description": "📚 List of awesome university courses for learning Computer Science!",
+    "language": "none",
+    "star": "99"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "description": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
+    "language": "none",
+    "star": "110"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "star": "325"
+  },
+  {
+    "title": "pikapkg/snowpack",
+    "url": "https://github.com/pikapkg/snowpack",
+    "description": "The near-instant build tool for modern web apps.",
+    "language": "JavaScript",
+    "star": "102"
+  },
+  {
+    "title": "danielegrattarola/spektral",
+    "url": "https://github.com/danielegrattarola/spektral",
+    "description": "Graph Neural Networks with Keras and Tensorflow 2.",
+    "language": "Python",
+    "star": "100"
+  }
+]
