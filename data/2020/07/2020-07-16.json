@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ivanpaulovich/clean-architecture-manga",
+    "url": "https://github.com/ivanpaulovich/clean-architecture-manga",
+    "description": "🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks",
+    "language": "C#",
+    "star": "111"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "description": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "language": "Python",
+    "star": "265"
+  },
+  {
+    "title": "gaearon/whatthefuck.is",
+    "url": "https://github.com/gaearon/whatthefuck.is",
+    "description": "An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.",
+    "language": "CSS",
+    "star": "849"
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "description": "A collection of awesome readme templates to display on your profile",
+    "language": "JavaScript",
+    "star": "514"
+  },
+  {
+    "title": "ChoudharyChanchal/game_control",
+    "url": "https://github.com/ChoudharyChanchal/game_control",
+    "description": "",
+    "language": "Python",
+    "star": "142"
+  },
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "description": "Summer course content for Neuromatch Academy",
+    "language": "Jupyter Notebook",
+    "star": "160"
+  },
+  {
+    "title": "erluxman/awesomefluttertips",
+    "url": "https://github.com/erluxman/awesomefluttertips",
+    "description": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
+    "language": "Dart",
+    "star": "122"
+  },
+  {
+    "title": "TowhidKashem/snapchat-clone",
+    "url": "https://github.com/TowhidKashem/snapchat-clone",
+    "description": "👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!",
+    "language": "TypeScript",
+    "star": "75"
+  },
+  {
+    "title": "alan-turing-institute/sktime",
+    "url": "https://github.com/alan-turing-institute/sktime",
+    "description": "A scikit-learn compatible Python toolbox for machine learning with time series",
+    "language": "Python",
+    "star": "86"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "description": "Rapidly create UIs for prototyping your machine learning model in 3 minutes",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "LetsUpgrade/Javascript-Essentials",
+    "url": "https://github.com/LetsUpgrade/Javascript-Essentials",
+    "description": "",
+    "language": "JavaScript",
+    "star": "29"
+  },
+  {
+    "title": "fuzhengwei/CodeGuide",
+    "url": "https://github.com/fuzhengwei/CodeGuide",
+    "description": "📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！",
+    "language": "none",
+    "star": "89"
+  },
+  {
+    "title": "basir/node-react-ecommerce",
+    "url": "https://github.com/basir/node-react-ecommerce",
+    "description": "Build ECommerce Website Like Amazon By React & Node & MongoDB",
+    "language": "JavaScript",
+    "star": "66"
+  },
+  {
+    "title": "pedrolemoz/MagicMagnet-Python",
+    "url": "https://github.com/pedrolemoz/MagicMagnet-Python",
+    "description": "Get magnet links from internet without any effort! 🧲",
+    "language": "Python",
+    "star": "78"
+  },
+  {
+    "title": "voila-dashboards/voila",
+    "url": "https://github.com/voila-dashboards/voila",
+    "description": "Voilà turns Jupyter notebooks into standalone web applications",
+    "language": "Python",
+    "star": "180"
+  },
+  {
+    "title": "manikandanraji/youtubeclone-frontend",
+    "url": "https://github.com/manikandanraji/youtubeclone-frontend",
+    "description": "Youtube Clone Frontend (React + Redux)",
+    "language": "JavaScript",
+    "star": "195"
+  },
+  {
+    "title": "gtworek/PSBits",
+    "url": "https://github.com/gtworek/PSBits",
+    "description": "Simple (relatively) things allowing you to dig a bit deeper than usual.",
+    "language": "PowerShell",
+    "star": "39"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "description": "Dynamically generated stats for your github readmes",
+    "language": "JavaScript",
+    "star": "272"
+  },
+  {
+    "title": "fengdu78/lihang-code",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "description": "《统计学习方法》的代码实现",
+    "language": "Jupyter Notebook",
+    "star": "53"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "description": "Public interface definitions of Google APIs.",
+    "language": "Starlark",
+    "star": "41"
+  },
+  {
+    "title": "xiongziliang/ZLMediaKit",
+    "url": "https://github.com/xiongziliang/ZLMediaKit",
+    "description": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/GB28181 server and client framework based on C++11",
+    "language": "C++",
+    "star": "19"
+  },
+  {
+    "title": "diego3g/rocketredis",
+    "url": "https://github.com/diego3g/rocketredis",
+    "description": "A beautiful Redis GUI 🔥 (under development)",
+    "language": "TypeScript",
+    "star": "74"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "180"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "description": "GPT-3: Language Models are Few-Shot Learners",
+    "language": "none",
+    "star": "89"
+  },
+  {
+    "title": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "description": "网易云音乐 Node.js API service",
+    "language": "JavaScript",
+    "star": "49"
+  }
+]
