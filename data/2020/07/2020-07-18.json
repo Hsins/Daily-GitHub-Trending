@@ -1,0 +1,177 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）",
+    "language": "C++",
+    "star": "292"
+  },
+  {
+    "title": "adobe/react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+    "language": "TypeScript",
+    "star": "354"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "54"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "description": "Public interface definitions of Google APIs.",
+    "language": "Starlark",
+    "star": "153"
+  },
+  {
+    "title": "SergioBenitez/Rocket",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "description": "A web framework for Rust.",
+    "language": "Rust",
+    "star": "114"
+  },
+  {
+    "title": "gaearon/whatthefuck.is",
+    "url": "https://github.com/gaearon/whatthefuck.is",
+    "description": "An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.",
+    "language": "CSS",
+    "star": "314"
+  },
+  {
+    "title": "apache/incubator-brpc",
+    "url": "https://github.com/apache/incubator-brpc",
+    "description": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called \"baidu-rpc\" inside Baidu.",
+    "language": "C++",
+    "star": "42"
+  },
+  {
+    "title": "jquery/jquery",
+    "url": "https://github.com/jquery/jquery",
+    "description": "jQuery JavaScript Library",
+    "language": "JavaScript",
+    "star": "48"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "description": "📝 An awesome Data Science repository to learn and apply for real world problems.",
+    "language": "none",
+    "star": "217"
+  },
+  {
+    "title": "calebstewart/pwncat",
+    "url": "https://github.com/calebstewart/pwncat",
+    "description": "Fancy reverse and bind shell handler",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "microsoft/QuantumKatas",
+    "url": "https://github.com/microsoft/QuantumKatas",
+    "description": "Tutorials and programming exercises for learning Q# and quantum computing",
+    "language": "Jupyter Notebook",
+    "star": "58"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "274"
+  },
+  {
+    "title": "francisrstokes/super-expressive",
+    "url": "https://github.com/francisrstokes/super-expressive",
+    "description": "🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language",
+    "language": "JavaScript",
+    "star": "579"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "language": "none",
+    "star": "359"
+  },
+  {
+    "title": "fuzhengwei/CodeGuide",
+    "url": "https://github.com/fuzhengwei/CodeGuide",
+    "description": "📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！",
+    "language": "none",
+    "star": "118"
+  },
+  {
+    "title": "myliang/x-spreadsheet",
+    "url": "https://github.com/myliang/x-spreadsheet",
+    "description": "A web-based JavaScript（canvas） spreadsheet",
+    "language": "JavaScript",
+    "star": "587"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "description": "Toturial coming with \"data science roadmap\" graphe.",
+    "language": "Python",
+    "star": "65"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "178"
+  },
+  {
+    "title": "openid/AppAuth-Android",
+    "url": "https://github.com/openid/AppAuth-Android",
+    "description": "Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
+    "language": "Java",
+    "star": "36"
+  },
+  {
+    "title": "FavioVazquez/ds-cheatsheets",
+    "url": "https://github.com/FavioVazquez/ds-cheatsheets",
+    "description": "List of Data Science Cheatsheets to rule the world",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "description": "Create UIs for prototyping your machine learning model in 3 minutes",
+    "language": "Python",
+    "star": "157"
+  },
+  {
+    "title": "abhisheknaiidu/awesome-github-profile-readme",
+    "url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
+    "description": "A curated list of awesome Github Profile READMEs",
+    "language": "JavaScript",
+    "star": "245"
+  },
+  {
+    "title": "TowhidKashem/snapchat-clone",
+    "url": "https://github.com/TowhidKashem/snapchat-clone",
+    "description": "👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!",
+    "language": "TypeScript",
+    "star": "111"
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "description": "A collection of awesome readme templates to display on your profile",
+    "language": "JavaScript",
+    "star": "555"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "none",
+    "star": "557"
+  }
+]
