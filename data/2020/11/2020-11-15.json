@@ -1,0 +1,177 @@
+[
+  {
+    "title": "elrumo/macOS_Big_Sur_icons_replacements",
+    "url": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
+    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
+    "language": "Vue",
+    "star": "367"
+  },
+  {
+    "title": "ComodoSecurity/openedr",
+    "url": "https://github.com/ComodoSecurity/openedr",
+    "description": "Open EDR public repository",
+    "language": "C++",
+    "star": "304"
+  },
+  {
+    "title": "zhm-real/PathPlanning",
+    "url": "https://github.com/zhm-real/PathPlanning",
+    "description": "Common used path planning algorithms with animations.",
+    "language": "Python",
+    "star": "322"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "description": "C++ Programming Paradigm with Asynchronous Networking",
+    "language": "C++",
+    "star": "113"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "description": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "language": "Rich Text Format",
+    "star": "43"
+  },
+  {
+    "title": "Freakboy/CobaltStrike",
+    "url": "https://github.com/Freakboy/CobaltStrike",
+    "description": "CobaltStrike's source code",
+    "language": "Java",
+    "star": "360"
+  },
+  {
+    "title": "corpnewt/gibMacOS",
+    "url": "https://github.com/corpnewt/gibMacOS",
+    "description": "Py2/py3 script that can download macOS components direct from Apple",
+    "language": "Python",
+    "star": "185"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "359"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "471"
+  },
+  {
+    "title": "barrykn/big-sur-micropatcher",
+    "url": "https://github.com/barrykn/big-sur-micropatcher",
+    "description": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "language": "Shell",
+    "star": "110"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "188"
+  },
+  {
+    "title": "VKCOM/kphp",
+    "url": "https://github.com/VKCOM/kphp",
+    "description": "KPHP — a PHP compiler",
+    "language": "C++",
+    "star": "249"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "171"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "language": "Python",
+    "star": "247"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "609"
+  },
+  {
+    "title": "google-research-datasets/Objectron",
+    "url": "https://github.com/google-research-datasets/Objectron",
+    "description": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…",
+    "language": "Jupyter Notebook",
+    "star": "341"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "language": "Blade",
+    "star": "48"
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "description": "Vanced Installer",
+    "language": "Kotlin",
+    "star": "175"
+  },
+  {
+    "title": "ebatty/MathToolsforNeuroscience",
+    "url": "https://github.com/ebatty/MathToolsforNeuroscience",
+    "description": "Materials for Mathematical Tools for Neuroscience course at Harvard (Neurobio 212)",
+    "language": "Jupyter Notebook",
+    "star": "53"
+  },
+  {
+    "title": "ithewei/libhv",
+    "url": "https://github.com/ithewei/libhv",
+    "description": "Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.",
+    "language": "C",
+    "star": "74"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "560"
+  },
+  {
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "description": "Educational blog posts for Rust beginners",
+    "language": "Rust",
+    "star": "225"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "language": "TypeScript",
+    "star": "101"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "One framework. Mobile & desktop.",
+    "language": "TypeScript",
+    "star": "228"
+  },
+  {
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "language": "Python",
+    "star": "368"
+  }
+]

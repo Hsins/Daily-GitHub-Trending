@@ -1,0 +1,177 @@
+[
+  {
+    "title": "project-chip/connectedhomeip",
+    "url": "https://github.com/project-chip/connectedhomeip",
+    "description": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.",
+    "language": "C++",
+    "star": "84"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "language": "C++",
+    "star": "88"
+  },
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "description": "A high performance blog template for the 11ty static site generator.",
+    "language": "JavaScript",
+    "star": "348"
+  },
+  {
+    "title": "yfbeta/yfbeta.finance",
+    "url": "https://github.com/yfbeta/yfbeta.finance",
+    "description": "",
+    "language": "Solidity",
+    "star": "7"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "452"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers of companies sharing their work on applied data science & machine learning.",
+    "language": "none",
+    "star": "307"
+  },
+  {
+    "title": "crossoverJie/cim",
+    "url": "https://github.com/crossoverJie/cim",
+    "description": "📲cim(cross IM) 适用于开发者的分布式即时通讯系统",
+    "language": "Java",
+    "star": "112"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "description": "A collection of awesome things regarding React ecosystem",
+    "language": "none",
+    "star": "140"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "language": "Go",
+    "star": "121"
+  },
+  {
+    "title": "huangsam/ultimate-python",
+    "url": "https://github.com/huangsam/ultimate-python",
+    "description": "Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍",
+    "language": "Python",
+    "star": "224"
+  },
+  {
+    "title": "hahnlee/hwp.js",
+    "url": "https://github.com/hahnlee/hwp.js",
+    "description": "Open source hwp viewer and parser library powered by web technology",
+    "language": "TypeScript",
+    "star": "51"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "148"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "description": "A collection of algorithms and data structures",
+    "language": "Java",
+    "star": "152"
+  },
+  {
+    "title": "quantopian/zipline",
+    "url": "https://github.com/quantopian/zipline",
+    "description": "Zipline, a Pythonic Algorithmic Trading Library",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "description": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "language": "Vue",
+    "star": "267"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "language": "none",
+    "star": "130"
+  },
+  {
+    "title": "stefan-jansen/machine-learning-for-trading",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "description": "Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "language": "Jupyter Notebook",
+    "star": "97"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "language": "Go",
+    "star": "253"
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "description": "",
+    "language": "PHP",
+    "star": "90"
+  },
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "description": "CockroachDB - the open source, cloud-native distributed SQL database.",
+    "language": "Go",
+    "star": "47"
+  },
+  {
+    "title": "bigfangfang/IBMVPS",
+    "url": "https://github.com/bigfangfang/IBMVPS",
+    "description": "大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang",
+    "language": "Batchfile",
+    "star": "62"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "language": "Rust",
+    "star": "26"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "90"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "language": "Python",
+    "star": "58"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "description": "A PHP framework for web artisans",
+    "language": "PHP",
+    "star": "78"
+  }
+]

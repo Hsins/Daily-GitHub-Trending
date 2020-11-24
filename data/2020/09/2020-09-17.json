@@ -1,0 +1,177 @@
+[
+  {
+    "title": "SecuraBV/CVE-2020-1472",
+    "url": "https://github.com/SecuraBV/CVE-2020-1472",
+    "description": "Test tool for CVE-2020-1472",
+    "language": "Python",
+    "star": "153"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "description": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+    "language": "Rust",
+    "star": "90"
+  },
+  {
+    "title": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "description": "Ruby on Rails",
+    "language": "Ruby",
+    "star": "48"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "65"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "212"
+  },
+  {
+    "title": "DefinitelyTyped/DefinitelyTyped",
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+    "description": "The repository for high quality TypeScript type definitions.",
+    "language": "TypeScript",
+    "star": "59"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "language": "Zig",
+    "star": "56"
+  },
+  {
+    "title": "dirkjanm/CVE-2020-1472",
+    "url": "https://github.com/dirkjanm/CVE-2020-1472",
+    "description": "PoC for Zerologon - all research credits go to Tom Tervoort of Secura",
+    "language": "Python",
+    "star": "103"
+  },
+  {
+    "title": "mastercomfig/team-comtress-2",
+    "url": "https://github.com/mastercomfig/team-comtress-2",
+    "description": "Team Fortress 2, but with a lot of fixes, QoL improvements and performance optimizations!",
+    "language": "C++",
+    "star": "88"
+  },
+  {
+    "title": "PythonFreeCourse/Notebooks",
+    "url": "https://github.com/PythonFreeCourse/Notebooks",
+    "description": "Learn Python for free using open-source notebooks in Hebrew.",
+    "language": "Jupyter Notebook",
+    "star": "128"
+  },
+  {
+    "title": "sdushantha/tmpmail",
+    "url": "https://github.com/sdushantha/tmpmail",
+    "description": "✉️ A temporary email right from your terminal",
+    "language": "Shell",
+    "star": "188"
+  },
+  {
+    "title": "prasadgujar/low-level-design-primer",
+    "url": "https://github.com/prasadgujar/low-level-design-primer",
+    "description": "Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.",
+    "language": "none",
+    "star": "131"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "description": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "none",
+    "star": "466"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "description": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "language": "Python",
+    "star": "287"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "351"
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "description": "Elegant transition library for iOS & tvOS",
+    "language": "Swift",
+    "star": "51"
+  },
+  {
+    "title": "devsuperior/sds1",
+    "url": "https://github.com/devsuperior/sds1",
+    "description": "",
+    "language": "CSS",
+    "star": "38"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "description": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
+    "language": "Java",
+    "star": "151"
+  },
+  {
+    "title": "deepklarity/jupyter-text2code",
+    "url": "https://github.com/deepklarity/jupyter-text2code",
+    "description": "A proof-of-concept jupyter extension which converts english queries into relevant python code",
+    "language": "Jupyter Notebook",
+    "star": "171"
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "description": "Open Source, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "star": "71"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "language": "TypeScript",
+    "star": "120"
+  },
+  {
+    "title": "moment/moment",
+    "url": "https://github.com/moment/moment",
+    "description": "Parse, validate, manipulate, and display dates in javascript.",
+    "language": "JavaScript",
+    "star": "83"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "description": "📋 React Hooks for forms validation (Web + React Native)",
+    "language": "TypeScript",
+    "star": "113"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "description": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "language": "Python",
+    "star": "139"
+  }
+]

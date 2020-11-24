@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "description": "YOLOv5 in PyTorch > ONNX > CoreML > iOS",
+    "language": "Jupyter Notebook",
+    "star": "757"
+  },
+  {
+    "title": "hamler-lang/hamler",
+    "url": "https://github.com/hamler-lang/hamler",
+    "description": "Haskell-style functional programming language running on Erlang VM.",
+    "language": "Haskell",
+    "star": "249"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "description": "Build machine learning APIs",
+    "language": "Go",
+    "star": "48"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "description": "🤗 nlp: datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "language": "Python",
+    "star": "55"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "JavaScript",
+    "star": "194"
+  },
+  {
+    "title": "cypress-io/cypress-realworld-app",
+    "url": "https://github.com/cypress-io/cypress-realworld-app",
+    "description": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
+    "language": "TypeScript",
+    "star": "181"
+  },
+  {
+    "title": "sathishvj/awesome-gcp-certifications",
+    "url": "https://github.com/sathishvj/awesome-gcp-certifications",
+    "description": "Google Cloud Platform Certification resources.",
+    "language": "none",
+    "star": "28"
+  },
+  {
+    "title": "amusi/CVPR2020-Code",
+    "url": "https://github.com/amusi/CVPR2020-Code",
+    "description": "CVPR 2020 论文开源项目合集",
+    "language": "none",
+    "star": "259"
+  },
+  {
+    "title": "facebookresearch/mmf",
+    "url": "https://github.com/facebookresearch/mmf",
+    "description": "A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)",
+    "language": "Python",
+    "star": "92"
+  },
+  {
+    "title": "TheEconomist/us-potus-model",
+    "url": "https://github.com/TheEconomist/us-potus-model",
+    "description": "Code for a dynamic multilevel Bayesian model to predict US presidential elections. Written in R and Stan.",
+    "language": "HTML",
+    "star": "120"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "456"
+  },
+  {
+    "title": "EONRaider/blackhat-python3",
+    "url": "https://github.com/EONRaider/blackhat-python3",
+    "description": "Source code for the book \"Black Hat Python\" by Justin Seitz. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.",
+    "language": "Python",
+    "star": "105"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "description": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate",
+    "language": "PHP",
+    "star": "91"
+  },
+  {
+    "title": "KuroLabs/stegcloak",
+    "url": "https://github.com/KuroLabs/stegcloak",
+    "description": "Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐",
+    "language": "JavaScript",
+    "star": "342"
+  },
+  {
+    "title": "midas-research/audino",
+    "url": "https://github.com/midas-research/audino",
+    "description": "Open source audio annotation tool for humans™",
+    "language": "JavaScript",
+    "star": "157"
+  },
+  {
+    "title": "Disassembler0/Win10-Initial-Setup-Script",
+    "url": "https://github.com/Disassembler0/Win10-Initial-Setup-Script",
+    "description": "PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019",
+    "language": "PowerShell",
+    "star": "88"
+  },
+  {
+    "title": "ksindi/managers-playbook",
+    "url": "https://github.com/ksindi/managers-playbook",
+    "description": "📖 Heuristics for effective management",
+    "language": "none",
+    "star": "228"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "description": "A curated list of awesome warez and piracy links",
+    "language": "HTML",
+    "star": "155"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "285"
+  },
+  {
+    "title": "chai2010/advanced-go-programming-book",
+    "url": "https://github.com/chai2010/advanced-go-programming-book",
+    "description": "📚 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)",
+    "language": "Go",
+    "star": "73"
+  },
+  {
+    "title": "xamarin/Xamarin.Forms",
+    "url": "https://github.com/xamarin/Xamarin.Forms",
+    "description": "Xamarin.Forms Official Home",
+    "language": "C#",
+    "star": "23"
+  },
+  {
+    "title": "microsoft/Quantum",
+    "url": "https://github.com/microsoft/Quantum",
+    "description": "Microsoft Quantum Development Kit Samples",
+    "language": "PowerShell",
+    "star": "20"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "description": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.",
+    "language": "none",
+    "star": "228"
+  },
+  {
+    "title": "AFNetworking/AFNetworking",
+    "url": "https://github.com/AFNetworking/AFNetworking",
+    "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+    "language": "Objective-C",
+    "star": "14"
+  },
+  {
+    "title": "EONRaider/violent-python3",
+    "url": "https://github.com/EONRaider/violent-python3",
+    "description": "Source code for the book \"Violent Python\" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.",
+    "language": "Python",
+    "star": "116"
+  }
+]

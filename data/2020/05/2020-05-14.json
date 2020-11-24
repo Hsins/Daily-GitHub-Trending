@@ -1,0 +1,177 @@
+[
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "description": "Spring源码阅读",
+    "language": "Java",
+    "star": "132"
+  },
+  {
+    "title": "MingchaoZhu/InterpretableMLBook",
+    "url": "https://github.com/MingchaoZhu/InterpretableMLBook",
+    "description": "《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版",
+    "language": "none",
+    "star": "361"
+  },
+  {
+    "title": "CISOfy/lynis",
+    "url": "https://github.com/CISOfy/lynis",
+    "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+    "language": "Shell",
+    "star": "81"
+  },
+  {
+    "title": "apache/incubator-apisix",
+    "url": "https://github.com/apache/incubator-apisix",
+    "description": "Cloud-Native Microservices API Gateway",
+    "language": "Lua",
+    "star": "66"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "description": "Microsoft Azure PowerShell",
+    "language": "C#",
+    "star": "16"
+  },
+  {
+    "title": "alexellis/awesome-baremetal",
+    "url": "https://github.com/alexellis/awesome-baremetal",
+    "description": "Bare-metal is awesome. Let's share our favourite tools.",
+    "language": "none",
+    "star": "85"
+  },
+  {
+    "title": "LupusLeaks/EasyFN",
+    "url": "https://github.com/LupusLeaks/EasyFN",
+    "description": "(UPDATING PLEASE WAIT) With EasyFNBot you can easily create you own Fortnite Lobby Bot in less then 5 minutes which will be online forever!",
+    "language": "Shell",
+    "star": "508"
+  },
+  {
+    "title": "MingchaoZhu/DeepLearning",
+    "url": "https://github.com/MingchaoZhu/DeepLearning",
+    "description": "Python for “Deep Learning”，《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现",
+    "language": "Python",
+    "star": "166"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "162"
+  },
+  {
+    "title": "BjornRuytenberg/spycheck-linux",
+    "url": "https://github.com/BjornRuytenberg/spycheck-linux",
+    "description": "Verify whether your Thunderbolt-enabled Linux system is vulnerable to the Thunderspy attacks.",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "yemount/pose-animator",
+    "url": "https://github.com/yemount/pose-animator",
+    "description": "",
+    "language": "JavaScript",
+    "star": "326"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "14"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "description": "Public interface definitions of Google APIs.",
+    "language": "Starlark",
+    "star": "26"
+  },
+  {
+    "title": "liyasthomas/postwoman",
+    "url": "https://github.com/liyasthomas/postwoman",
+    "description": "👽 A free, fast and beautiful API request builder (web alternative to Postman) https://postwoman.io",
+    "language": "Vue",
+    "star": "74"
+  },
+  {
+    "title": "zeit/next.js",
+    "url": "https://github.com/zeit/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "73"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "146"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "description": "Everything you need to know to get the job.",
+    "language": "Java",
+    "star": "125"
+  },
+  {
+    "title": "christophM/interpretable-ml-book",
+    "url": "https://github.com/christophM/interpretable-ml-book",
+    "description": "Book about interpretable machine learning",
+    "language": "Jupyter Notebook",
+    "star": "58"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "description": "Official repo for the #tidytuesday project",
+    "language": "HTML",
+    "star": "15"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "75"
+  },
+  {
+    "title": "openspug/spug",
+    "url": "https://github.com/openspug/spug",
+    "description": "开源运维平台：面向中小型企业设计的无 Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、应用发布、任务计划、配置中心、监控、报警等一系列功能。",
+    "language": "JavaScript",
+    "star": "60"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "193"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "42"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "description": "",
+    "language": "PHP",
+    "star": "32"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "description": "🐉 Material Component Framework for Vue",
+    "language": "TypeScript",
+    "star": "44"
+  }
+]

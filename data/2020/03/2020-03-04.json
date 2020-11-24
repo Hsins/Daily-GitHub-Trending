@@ -1,0 +1,177 @@
+[
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "Draft of the fastai book",
+    "language": "Jupyter Notebook",
+    "star": "366"
+  },
+  {
+    "title": "cyanharlow/purecss-francine",
+    "url": "https://github.com/cyanharlow/purecss-francine",
+    "description": "HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.",
+    "language": "CSS",
+    "star": "144"
+  },
+  {
+    "title": "JackZhu426/ElysiumMall",
+    "url": "https://github.com/JackZhu426/ElysiumMall",
+    "description": "My Own Online Mall Project Using SpringBoot",
+    "language": "Java",
+    "star": "103"
+  },
+  {
+    "title": "dodyg/practical-aspnetcore",
+    "url": "https://github.com/dodyg/practical-aspnetcore",
+    "description": "Practical samples of aspnet core 2.1, 2.2, 3.0 and 3.1 projects you can use. Readme contains explanations on all projects.",
+    "language": "C#",
+    "star": "104"
+  },
+  {
+    "title": "informatici/openhospital",
+    "url": "https://github.com/informatici/openhospital",
+    "description": "Open Hospital is a free and open source software for healthcare data management. This repository is used to build its portable releases.",
+    "language": "Perl",
+    "star": "101"
+  },
+  {
+    "title": "junaid33/opensource.builders",
+    "url": "https://github.com/junaid33/opensource.builders",
+    "description": "Find open-source alternatives",
+    "language": "JavaScript",
+    "star": "119"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!",
+    "language": "none",
+    "star": "956"
+  },
+  {
+    "title": "CLUEbenchmark/CLUEDatasetSearch",
+    "url": "https://github.com/CLUEbenchmark/CLUEDatasetSearch",
+    "description": "搜索所有中文NLP数据集，附常用英文NLP数据集",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "FBDevCLagos/The-Internship-v1",
+    "url": "https://github.com/FBDevCLagos/The-Internship-v1",
+    "description": "That is the vision of the DevC Lagos: “The Internship v1”. The program is a DevC Lagos initiative where Project Managers, Developers, and DevOps specialists are taken through a 13 week period where they build 10 real-world software products distributed into 10 teams. These products could be Enterprise Apps, SaaS, Libraries or Utilities for “real…",
+    "language": "none",
+    "star": "24"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "description": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列",
+    "language": "Go",
+    "star": "145"
+  },
+  {
+    "title": "Tessellate-Imaging/monk_v1",
+    "url": "https://github.com/Tessellate-Imaging/monk_v1",
+    "description": "Monk is a low code Deep Learning tool and a unified wrapper for Computer Vision.",
+    "language": "Jupyter Notebook",
+    "star": "25"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "description": "Cheat Sheets",
+    "language": "TeX",
+    "star": "206"
+  },
+  {
+    "title": "pattle/simpsons-in-css",
+    "url": "https://github.com/pattle/simpsons-in-css",
+    "description": "Simpsons characters in CSS",
+    "language": "CSS",
+    "star": "136"
+  },
+  {
+    "title": "astrit/css.gg",
+    "url": "https://github.com/astrit/css.gg",
+    "description": "500+ CSS Icons. Customizable, Retina Ready with API & NPM",
+    "language": "CSS",
+    "star": "539"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "472"
+  },
+  {
+    "title": "alebcay/awesome-shell",
+    "url": "https://github.com/alebcay/awesome-shell",
+    "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.",
+    "language": "none",
+    "star": "153"
+  },
+  {
+    "title": "apple/swift-argument-parser",
+    "url": "https://github.com/apple/swift-argument-parser",
+    "description": "Straightforward, type-safe argument parsing for Swift",
+    "language": "Swift",
+    "star": "91"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "star": "80"
+  },
+  {
+    "title": "tomohideshibata/BERT-related-papers",
+    "url": "https://github.com/tomohideshibata/BERT-related-papers",
+    "description": "BERT-related papers",
+    "language": "none",
+    "star": "69"
+  },
+  {
+    "title": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "description": "Git with a cup of tea, painless self-hosted git service",
+    "language": "Go",
+    "star": "78"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "73"
+  },
+  {
+    "title": "huawei-noah/ghostnet",
+    "url": "https://github.com/huawei-noah/ghostnet",
+    "description": "[CVPR2020] Surpassing MobileNetV3: \"GhostNet: More Features from Cheap Operations\"",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "huginn/huginn",
+    "url": "https://github.com/huginn/huginn",
+    "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+    "language": "Ruby",
+    "star": "76"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "description": "Spring Boot 2.X 专栏更新完毕，Spring Cloud & Spring Cloud Alibaba 2.X 专栏更新中 。欢迎胖友 Star 一波",
+    "language": "Java",
+    "star": "74"
+  },
+  {
+    "title": "mkocabas/VIBE",
+    "url": "https://github.com/mkocabas/VIBE",
+    "description": "Official implementation of CVPR2020 paper \"VIBE: Video Inference for Human Body Pose and Shape Estimation\"",
+    "language": "Python",
+    "star": "51"
+  }
+]

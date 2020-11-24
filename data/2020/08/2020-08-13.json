@@ -1,0 +1,177 @@
+[
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "description": "The easiest way to automate your data",
+    "language": "Python",
+    "star": "244"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "226"
+  },
+  {
+    "title": "TachibanaYoshino/AnimeGANv2",
+    "url": "https://github.com/TachibanaYoshino/AnimeGANv2",
+    "description": "[Open Source]. The improved version of AnimeGAN.",
+    "language": "Python",
+    "star": "111"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "647"
+  },
+  {
+    "title": "KwaiAppTeam/KOOM",
+    "url": "https://github.com/KwaiAppTeam/KOOM",
+    "description": "KOOM is an OOM killer on mobile platform by Kwai.",
+    "language": "Java",
+    "star": "164"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "description": "📊 Path to a free self-taught education in Data Science!",
+    "language": "none",
+    "star": "216"
+  },
+  {
+    "title": "nodejs/nodejs.dev",
+    "url": "https://github.com/nodejs/nodejs.dev",
+    "description": "A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.",
+    "language": "TypeScript",
+    "star": "77"
+  },
+  {
+    "title": "yuanguangxin/LeetCode",
+    "url": "https://github.com/yuanguangxin/LeetCode",
+    "description": "LeetCode刷题记录",
+    "language": "Java",
+    "star": "426"
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "description": "The adaptive interface system  for modern web experiences.",
+    "language": "TypeScript",
+    "star": "307"
+  },
+  {
+    "title": "madd86/awesome-system-design",
+    "url": "https://github.com/madd86/awesome-system-design",
+    "description": "A curated list of awesome System Design (A.K.A. Distributed Computing) resources.",
+    "language": "none",
+    "star": "343"
+  },
+  {
+    "title": "intelowlproject/IntelOwl",
+    "url": "https://github.com/intelowlproject/IntelOwl",
+    "description": "Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale",
+    "language": "Python",
+    "star": "137"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "252"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "47"
+  },
+  {
+    "title": "facebook/pyre-check",
+    "url": "https://github.com/facebook/pyre-check",
+    "description": "Performant type-checking for python.",
+    "language": "OCaml",
+    "star": "146"
+  },
+  {
+    "title": "GeoSn0w/OpenJailbreak",
+    "url": "https://github.com/GeoSn0w/OpenJailbreak",
+    "description": "GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.",
+    "language": "C",
+    "star": "28"
+  },
+  {
+    "title": "z-song/laravel-admin",
+    "url": "https://github.com/z-song/laravel-admin",
+    "description": "Build a full-featured administrative interface in ten minutes",
+    "language": "PHP",
+    "star": "30"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "109"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "One framework. Mobile & desktop.",
+    "language": "TypeScript",
+    "star": "86"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "language": "Java",
+    "star": "66"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision.",
+    "language": "Jupyter Notebook",
+    "star": "125"
+  },
+  {
+    "title": "unsplash/datasets",
+    "url": "https://github.com/unsplash/datasets",
+    "description": "🎁 2,000,000+ Unsplash images made available for research and machine learning",
+    "language": "Jupyter Notebook",
+    "star": "403"
+  },
+  {
+    "title": "romefrontend/rome",
+    "url": "https://github.com/romefrontend/rome",
+    "description": "The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "language": "TypeScript",
+    "star": "316"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "112"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "277"
+  },
+  {
+    "title": "open-mmlab/mmdetection3d",
+    "url": "https://github.com/open-mmlab/mmdetection3d",
+    "description": "OpenMMLab's next-generation platform for general 3D object detection.",
+    "language": "Python",
+    "star": "30"
+  }
+]

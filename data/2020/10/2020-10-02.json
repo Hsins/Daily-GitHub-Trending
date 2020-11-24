@@ -1,0 +1,177 @@
+[
+  {
+    "title": "bradtraversy/proshop_mern",
+    "url": "https://github.com/bradtraversy/proshop_mern",
+    "description": "Shopping cart built with MERN & Redux",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "kentcdodds/advanced-react-patterns",
+    "url": "https://github.com/kentcdodds/advanced-react-patterns",
+    "description": "This is the latest advanced react patterns workshop",
+    "language": "JavaScript",
+    "star": "170"
+  },
+  {
+    "title": "puma/puma",
+    "url": "https://github.com/puma/puma",
+    "description": "A Ruby/Rack web server built for concurrency",
+    "language": "Ruby",
+    "star": "79"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "description": "🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas",
+    "language": "Python",
+    "star": "125"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "description": "Terraform module which creates VPC resources on AWS",
+    "language": "HCL",
+    "star": "38"
+  },
+  {
+    "title": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "language": "JavaScript",
+    "star": "128"
+  },
+  {
+    "title": "anandpawara/Real_Time_Image_Animation",
+    "url": "https://github.com/anandpawara/Real_Time_Image_Animation",
+    "description": "The Project is real time application in opencv using first order model",
+    "language": "Python",
+    "star": "119"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "180"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "205"
+  },
+  {
+    "title": "bellard/quickjs",
+    "url": "https://github.com/bellard/quickjs",
+    "description": "Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.",
+    "language": "C",
+    "star": "68"
+  },
+  {
+    "title": "airbnb/visx",
+    "url": "https://github.com/airbnb/visx",
+    "description": "🐯 visx | visualization components",
+    "language": "TypeScript",
+    "star": "464"
+  },
+  {
+    "title": "farag2/Windows-10-Sophia-Script",
+    "url": "https://github.com/farag2/Windows-10-Sophia-Script",
+    "description": "Script to setup Windows 10 LTSC/1903/1909/2004/2009",
+    "language": "PowerShell",
+    "star": "74"
+  },
+  {
+    "title": "kentcdodds/react-fundamentals",
+    "url": "https://github.com/kentcdodds/react-fundamentals",
+    "description": "Material for my React Fundamentals Workshop",
+    "language": "JavaScript",
+    "star": "143"
+  },
+  {
+    "title": "crweiner/hacktoberfest-swag-list",
+    "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+    "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.",
+    "language": "Ruby",
+    "star": "105"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "205"
+  },
+  {
+    "title": "NVlabs/imaginaire",
+    "url": "https://github.com/NVlabs/imaginaire",
+    "description": "NVIDIA PyTorch GAN library with distributed and mixed precision support",
+    "language": "Python",
+    "star": "128"
+  },
+  {
+    "title": "gdtool/zhaopp",
+    "url": "https://github.com/gdtool/zhaopp",
+    "description": "一个Google Drive搜索引擎 https://zhao.pp.ua/",
+    "language": "JavaScript",
+    "star": "65"
+  },
+  {
+    "title": "jeremylong/DependencyCheck",
+    "url": "https://github.com/jeremylong/DependencyCheck",
+    "description": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.",
+    "language": "Java",
+    "star": "28"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "description": "Roadmap to becoming a data engineer in 2020",
+    "language": "none",
+    "star": "366"
+  },
+  {
+    "title": "OpenMined/PySyft",
+    "url": "https://github.com/OpenMined/PySyft",
+    "description": "A library for answering questions using data you cannot see",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "kentcdodds/advanced-react-hooks",
+    "url": "https://github.com/kentcdodds/advanced-react-hooks",
+    "description": "Learn Advanced React Hooks workshop",
+    "language": "JavaScript",
+    "star": "80"
+  },
+  {
+    "title": "kentcdodds/react-performance",
+    "url": "https://github.com/kentcdodds/react-performance",
+    "description": "Let's make our apps fast ⚡",
+    "language": "JavaScript",
+    "star": "99"
+  },
+  {
+    "title": "akshitagit/CPP",
+    "url": "https://github.com/akshitagit/CPP",
+    "description": "Repository for C++/C codes and algos.Star the repo too.",
+    "language": "C++",
+    "star": "69"
+  },
+  {
+    "title": "cypress-io/cypress-realworld-app",
+    "url": "https://github.com/cypress-io/cypress-realworld-app",
+    "description": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
+    "language": "TypeScript",
+    "star": "45"
+  },
+  {
+    "title": "kentcdodds/react-suspense",
+    "url": "https://github.com/kentcdodds/react-suspense",
+    "description": "React Suspense workshop",
+    "language": "JavaScript",
+    "star": "70"
+  }
+]

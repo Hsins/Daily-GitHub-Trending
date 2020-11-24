@@ -1,0 +1,177 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "406"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "description": "Simple and privacy-friendly alternative to Google Analytics",
+    "language": "Elixir",
+    "star": "306"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "language": "TypeScript",
+    "star": "322"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "147"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "294"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "language": "Python",
+    "star": "371"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "description": "Cut and paste your surroundings using AR",
+    "language": "TypeScript",
+    "star": "165"
+  },
+  {
+    "title": "twowaits/SDE-Interview-Questions",
+    "url": "https://github.com/twowaits/SDE-Interview-Questions",
+    "description": "Most comprehensive list 📋 of tech interview questions 📘 of companies scraped from Geeksforgeeks, CareerCup and Glassdoor.",
+    "language": "Java",
+    "star": "271"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "306"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "language": "JavaScript",
+    "star": "231"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "language": "Python",
+    "star": "211"
+  },
+  {
+    "title": "Neo23x0/Raccine",
+    "url": "https://github.com/Neo23x0/Raccine",
+    "description": "A Simple Ransomware Vaccine",
+    "language": "C++",
+    "star": "103"
+  },
+  {
+    "title": "FreeTubeApp/FreeTube",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "description": "An Open Source YouTube app for privacy",
+    "language": "JavaScript",
+    "star": "223"
+  },
+  {
+    "title": "awslabs/diagram-maker",
+    "url": "https://github.com/awslabs/diagram-maker",
+    "description": "A library to display an interactive editor for any graph-like data.",
+    "language": "TypeScript",
+    "star": "180"
+  },
+  {
+    "title": "Gictorbit/photoshopCClinux",
+    "url": "https://github.com/Gictorbit/photoshopCClinux",
+    "description": "an installer for Photoshop CC v19 on Gnu/Linux",
+    "language": "Shell",
+    "star": "198"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "description": "Just Announced - \"Learn Spring Security OAuth\":",
+    "language": "Java",
+    "star": "59"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "165"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "description": "Magnificent app which corrects your previous console command.",
+    "language": "Python",
+    "star": "184"
+  },
+  {
+    "title": "marmelab/react-admin",
+    "url": "https://github.com/marmelab/react-admin",
+    "description": "A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design",
+    "language": "TypeScript",
+    "star": "165"
+  },
+  {
+    "title": "ngrx/platform",
+    "url": "https://github.com/ngrx/platform",
+    "description": "Reactive libraries for Angular",
+    "language": "TypeScript",
+    "star": "135"
+  },
+  {
+    "title": "typescript-cheatsheets/react",
+    "url": "https://github.com/typescript-cheatsheets/react",
+    "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "language": "JavaScript",
+    "star": "232"
+  },
+  {
+    "title": "keithnull/TeachYourselfCS-CN",
+    "url": "https://github.com/keithnull/TeachYourselfCS-CN",
+    "description": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS",
+    "language": "none",
+    "star": "40"
+  },
+  {
+    "title": "OpenSouceCode/Hacktoberfest2020",
+    "url": "https://github.com/OpenSouceCode/Hacktoberfest2020",
+    "description": "Make your first Pull Request and earn a free tee from GitHub!",
+    "language": "HTML",
+    "star": "173"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "description": "✅ Curated list of resources for college students",
+    "language": "none",
+    "star": "158"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "description": "Complete container management platform",
+    "language": "Go",
+    "star": "73"
+  }
+]

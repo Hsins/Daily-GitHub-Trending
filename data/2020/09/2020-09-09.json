@@ -1,0 +1,177 @@
+[
+  {
+    "title": "openjdk/jdk",
+    "url": "https://github.com/openjdk/jdk",
+    "description": "JDK main-line development",
+    "language": "Java",
+    "star": "230"
+  },
+  {
+    "title": "xamarin/Xamarin.Forms",
+    "url": "https://github.com/xamarin/Xamarin.Forms",
+    "description": "Xamarin.Forms Official Home",
+    "language": "C#",
+    "star": "33"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "language": "Python",
+    "star": "72"
+  },
+  {
+    "title": "sushiswap/sushiswap-frontend",
+    "url": "https://github.com/sushiswap/sushiswap-frontend",
+    "description": "",
+    "language": "TypeScript",
+    "star": "15"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "language": "Go",
+    "star": "487"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "102"
+  },
+  {
+    "title": "huangsam/ultimate-python",
+    "url": "https://github.com/huangsam/ultimate-python",
+    "description": "Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍",
+    "language": "Python",
+    "star": "195"
+  },
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "description": "A high performance blog template for the 11ty static site generator.",
+    "language": "JavaScript",
+    "star": "591"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+    "language": "Jupyter Notebook",
+    "star": "81"
+  },
+  {
+    "title": "mmozeiko/aes-finder",
+    "url": "https://github.com/mmozeiko/aes-finder",
+    "description": "Utility to find AES keys in running processes",
+    "language": "C++",
+    "star": "65"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & articles of companies sharing their work on applied data science & machine learning.",
+    "language": "none",
+    "star": "159"
+  },
+  {
+    "title": "badtuxx/DescomplicandoKubernetes",
+    "url": "https://github.com/badtuxx/DescomplicandoKubernetes",
+    "description": "",
+    "language": "none",
+    "star": "36"
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "description": "Learn the skills required to sysadmin a remote Linux server from the commandline.",
+    "language": "Shell",
+    "star": "430"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "165"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "language": "none",
+    "star": "41"
+  },
+  {
+    "title": "NirantK/awesome-project-ideas",
+    "url": "https://github.com/NirantK/awesome-project-ideas",
+    "description": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",
+    "language": "none",
+    "star": "250"
+  },
+  {
+    "title": "afatcoder/LeetcodeTop",
+    "url": "https://github.com/afatcoder/LeetcodeTop",
+    "description": "汇总各大互联网公司容易考察的高频leetcode题🔥",
+    "language": "none",
+    "star": "81"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "language": "JavaScript",
+    "star": "89"
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "description": "",
+    "language": "Dart",
+    "star": "77"
+  },
+  {
+    "title": "r3nhat/GRAT2",
+    "url": "https://github.com/r3nhat/GRAT2",
+    "description": "We developed GRAT2 Command & Control (C2) project for learning purpose.",
+    "language": "C#",
+    "star": "17"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "language": "Go",
+    "star": "72"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "description": "A collection of algorithms and data structures",
+    "language": "Java",
+    "star": "94"
+  },
+  {
+    "title": "kbrsh/moon",
+    "url": "https://github.com/kbrsh/moon",
+    "description": "🌙 The minimal & fast library for functional user interfaces",
+    "language": "JavaScript",
+    "star": "154"
+  }
+]

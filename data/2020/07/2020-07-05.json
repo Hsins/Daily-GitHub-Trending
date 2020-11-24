@@ -1,0 +1,177 @@
+[
+  {
+    "title": "diego3g/rocketredis",
+    "url": "https://github.com/diego3g/rocketredis",
+    "description": "A beautiful Redis GUI 🔥",
+    "language": "TypeScript",
+    "star": "200"
+  },
+  {
+    "title": "diego3g/electron-typescript-react",
+    "url": "https://github.com/diego3g/electron-typescript-react",
+    "description": "An Electron boilerplate including TypeScript, React, Jest and ESLint.",
+    "language": "JavaScript",
+    "star": "143"
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "description": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "description": "Native-ESM powered web dev build tool. It's fast.",
+    "language": "TypeScript",
+    "star": "216"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "language": "Go",
+    "star": "289"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "description": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "language": "C#",
+    "star": "178"
+  },
+  {
+    "title": "wenjianzhang/go-admin",
+    "url": "https://github.com/wenjianzhang/go-admin",
+    "description": "基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login",
+    "language": "Go",
+    "star": "62"
+  },
+  {
+    "title": "mozilla-mobile/fenix",
+    "url": "https://github.com/mozilla-mobile/fenix",
+    "description": "Firefox Preview",
+    "language": "Kotlin",
+    "star": "15"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "🌈 A UI Design Language and React UI library",
+    "language": "TypeScript",
+    "star": "98"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "description": "Ultimate Go study guide",
+    "language": "Go",
+    "star": "461"
+  },
+  {
+    "title": "trungk18/jira-clone-angular",
+    "url": "https://github.com/trungk18/jira-clone-angular",
+    "description": "A simplified Jira clone built with Angular 9 and Akita",
+    "language": "TypeScript",
+    "star": "251"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "description": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "language": "Dart",
+    "star": "20"
+  },
+  {
+    "title": "eemlcommunity/PracticalSessions2020",
+    "url": "https://github.com/eemlcommunity/PracticalSessions2020",
+    "description": "Repository for tutorial sessions at EEML2020",
+    "language": "Jupyter Notebook",
+    "star": "80"
+  },
+  {
+    "title": "GauravSingh9356/J.A.R.V.I.S",
+    "url": "https://github.com/GauravSingh9356/J.A.R.V.I.S",
+    "description": "python powered Intelligent System",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "yangyutu/EssentialMath",
+    "url": "https://github.com/yangyutu/EssentialMath",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "158"
+  },
+  {
+    "title": "bradtraversy/breaking-bad-cast",
+    "url": "https://github.com/bradtraversy/breaking-bad-cast",
+    "description": "App to show cast info for breaking bad",
+    "language": "JavaScript",
+    "star": "56"
+  },
+  {
+    "title": "B-Software/Ward",
+    "url": "https://github.com/B-Software/Ward",
+    "description": "Simple and minimalistic server dashboard",
+    "language": "CSS",
+    "star": "226"
+  },
+  {
+    "title": "Devs-Garden/jsonbase",
+    "url": "https://github.com/Devs-Garden/jsonbase",
+    "description": "A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new fea…",
+    "language": "JavaScript",
+    "star": "329"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "language": "C++",
+    "star": "103"
+  },
+  {
+    "title": "Pitt-CSC/Summer2021-Internships",
+    "url": "https://github.com/Pitt-CSC/Summer2021-Internships",
+    "description": "Collection of Summer 2021 tech internships!",
+    "language": "none",
+    "star": "107"
+  },
+  {
+    "title": "mhxion/awesome-discord-communities",
+    "url": "https://github.com/mhxion/awesome-discord-communities",
+    "description": "A curated list of awesome Discord communities for programmers",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "description": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "language": "Python",
+    "star": "195"
+  },
+  {
+    "title": "midwayjs/midway",
+    "url": "https://github.com/midwayjs/midway",
+    "description": "🍔 A Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈",
+    "language": "TypeScript",
+    "star": "368"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "description": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "language": "none",
+    "star": "168"
+  },
+  {
+    "title": "seanmonstar/warp",
+    "url": "https://github.com/seanmonstar/warp",
+    "description": "A super-easy, composable, web server framework for warp speeds.",
+    "language": "Rust",
+    "star": "29"
+  }
+]

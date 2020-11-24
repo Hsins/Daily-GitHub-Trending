@@ -1,0 +1,177 @@
+[
+  {
+    "title": "openservicemesh/osm",
+    "url": "https://github.com/openservicemesh/osm",
+    "description": "Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.",
+    "language": "Go",
+    "star": "340"
+  },
+  {
+    "title": "simdjson/simdjson",
+    "url": "https://github.com/simdjson/simdjson",
+    "description": "Parsing gigabytes of JSON per second",
+    "language": "C++",
+    "star": "418"
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "description": "Linux/OSX/FreeBSD resource monitor",
+    "language": "Python",
+    "star": "324"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "14"
+  },
+  {
+    "title": "iGhibli/iOS-DeviceSupport",
+    "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+    "description": "This repository holds the device support files for the iOS, and I will update it regularly.",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "language": "none",
+    "star": "189"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "star": "181"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "language": "Objective-C",
+    "star": "217"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "242"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "85"
+  },
+  {
+    "title": "ubisoft/mixer",
+    "url": "https://github.com/ubisoft/mixer",
+    "description": "Add-on for real-time collaboration in Blender.",
+    "language": "Python",
+    "star": "89"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "description": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "language": "C",
+    "star": "205"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "description": "Questions to ask the company during your interview",
+    "language": "none",
+    "star": "221"
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)",
+    "language": "none",
+    "star": "155"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "description": "YOLOv5 in PyTorch > ONNX > CoreML > iOS",
+    "language": "Python",
+    "star": "127"
+  },
+  {
+    "title": "guilhermecapitao/proffy-discovery",
+    "url": "https://github.com/guilhermecapitao/proffy-discovery",
+    "description": "A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!!",
+    "language": "CSS",
+    "star": "21"
+  },
+  {
+    "title": "PCrnjak/Faze4-Robotic-arm",
+    "url": "https://github.com/PCrnjak/Faze4-Robotic-arm",
+    "description": "All files for 6 axis robot arm with cycloidal gearboxes .",
+    "language": "C++",
+    "star": "30"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "language": "C++",
+    "star": "78"
+  },
+  {
+    "title": "xamarin/XamarinCommunityToolkit",
+    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+    "description": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
+    "language": "C#",
+    "star": "25"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "description": "Seamless operability between C++11 and Python",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "🔗 Some useful websites for programmers.",
+    "language": "none",
+    "star": "90"
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "description": "Apache Pulsar - distributed pub-sub messaging system",
+    "language": "Java",
+    "star": "45"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "star": "35"
+  },
+  {
+    "title": "KhoaDauTay/learn-python",
+    "url": "https://github.com/KhoaDauTay/learn-python",
+    "description": "",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "helm/charts",
+    "url": "https://github.com/helm/charts",
+    "description": "Curated applications for Kubernetes",
+    "language": "Go",
+    "star": "38"
+  }
+]

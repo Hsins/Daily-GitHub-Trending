@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "language": "Python",
+    "star": "694"
+  },
+  {
+    "title": "ithewei/libhv",
+    "url": "https://github.com/ithewei/libhv",
+    "description": "Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.",
+    "language": "C",
+    "star": "181"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "description": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "language": "Rich Text Format",
+    "star": "64"
+  },
+  {
+    "title": "joke2k/faker",
+    "url": "https://github.com/joke2k/faker",
+    "description": "Faker is a Python package that generates fake data for you.",
+    "language": "Python",
+    "star": "213"
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "description": "k0s - Zero Friction Kubernetes",
+    "language": "Go",
+    "star": "706"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "59"
+  },
+  {
+    "title": "vectorizedio/redpanda",
+    "url": "https://github.com/vectorizedio/redpanda",
+    "description": "Redpanda is the real-time engine for modern apps.",
+    "language": "C++",
+    "star": "201"
+  },
+  {
+    "title": "BrasilAPI/BrasilAPI",
+    "url": "https://github.com/BrasilAPI/BrasilAPI",
+    "description": "Vamos transformar o Brasil em uma API?",
+    "language": "JavaScript",
+    "star": "259"
+  },
+  {
+    "title": "hzwer/arXiv2020-RIFE",
+    "url": "https://github.com/hzwer/arXiv2020-RIFE",
+    "description": "RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "lwitzani/homebridgeStatusWidget",
+    "url": "https://github.com/lwitzani/homebridgeStatusWidget",
+    "description": "",
+    "language": "JavaScript",
+    "star": "31"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "474"
+  },
+  {
+    "title": "antonioru/beautiful-react-diagrams",
+    "url": "https://github.com/antonioru/beautiful-react-diagrams",
+    "description": "A tiny collection of lightweight React components for building diagrams with ease 💎",
+    "language": "JavaScript",
+    "star": "211"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "331"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "353"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "261"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "description": "A list of awesome beginners-friendly projects.",
+    "language": "none",
+    "star": "192"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "255"
+  },
+  {
+    "title": "makers-for-life/makair",
+    "url": "https://github.com/makers-for-life/makair",
+    "description": "🫁 The first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€).",
+    "language": "none",
+    "star": "70"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "description": "Solidity, the Contract-Oriented Programming Language",
+    "language": "C++",
+    "star": "30"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "255"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "242"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "233"
+  },
+  {
+    "title": "crowdsecurity/crowdsec",
+    "url": "https://github.com/crowdsecurity/crowdsec",
+    "description": "Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.",
+    "language": "Go",
+    "star": "75"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "language": "Python",
+    "star": "88"
+  }
+]

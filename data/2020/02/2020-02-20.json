@@ -1,0 +1,177 @@
+[
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "728"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "description": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",
+    "language": "none",
+    "star": "408"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision.",
+    "language": "Jupyter Notebook",
+    "star": "241"
+  },
+  {
+    "title": "VGraupera/1on1-questions",
+    "url": "https://github.com/VGraupera/1on1-questions",
+    "description": "Mega list of 1 on 1 meeting questions compiled from a variety to sources",
+    "language": "JavaScript",
+    "star": "563"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "description": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, etc) 7天用Go动手写系列[从零实现]",
+    "language": "Go",
+    "star": "152"
+  },
+  {
+    "title": "tycrek/degoogle",
+    "url": "https://github.com/tycrek/degoogle",
+    "description": "A huge list of alternatives to Google products. Privacy tips, tricks, and links.",
+    "language": "none",
+    "star": "274"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+    "language": "Jupyter Notebook",
+    "star": "54"
+  },
+  {
+    "title": "lexfridman/mit-deep-learning",
+    "url": "https://github.com/lexfridman/mit-deep-learning",
+    "description": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "language": "Jupyter Notebook",
+    "star": "47"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "language": "none",
+    "star": "170"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "description": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "language": "Python",
+    "star": "90"
+  },
+  {
+    "title": "ZiniuLu/Python-100-Days",
+    "url": "https://github.com/ZiniuLu/Python-100-Days",
+    "description": "出处：https://github.com/jackfrued/Python-100-Days.git",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "description": "Documentation for ASP.NET Core",
+    "language": "C#",
+    "star": "12"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "star": "91"
+  },
+  {
+    "title": "dotnet/efcore",
+    "url": "https://github.com/dotnet/efcore",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+    "language": "C#",
+    "star": "20"
+  },
+  {
+    "title": "soumith/ganhacks",
+    "url": "https://github.com/soumith/ganhacks",
+    "description": "starter from \"How to Train a GAN?\" at NIPS2016",
+    "language": "none",
+    "star": "25"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "42"
+  },
+  {
+    "title": "AlessandroZ/LaZagne",
+    "url": "https://github.com/AlessandroZ/LaZagne",
+    "description": "Credentials recovery project",
+    "language": "Python",
+    "star": "60"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "language": "TypeScript",
+    "star": "30"
+  },
+  {
+    "title": "leon-ai/leon",
+    "url": "https://github.com/leon-ai/leon",
+    "description": "🧠 Leon is your open-source personal assistant.",
+    "language": "JavaScript",
+    "star": "119"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "gogs/gogs",
+    "url": "https://github.com/gogs/gogs",
+    "description": "Gogs is a painless self-hosted Git service",
+    "language": "Go",
+    "star": "60"
+  },
+  {
+    "title": "microsoft/ApplicationInspector",
+    "url": "https://github.com/microsoft/ApplicationInspector",
+    "description": "A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.",
+    "language": "C#",
+    "star": "34"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "language": "Python",
+    "star": "54"
+  },
+  {
+    "title": "linkedin/datahub",
+    "url": "https://github.com/linkedin/datahub",
+    "description": "A Generalized Metadata Search & Discovery Tool",
+    "language": "TypeScript",
+    "star": "51"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "description": "📚 Community guides for open source creators",
+    "language": "JavaScript",
+    "star": "49"
+  }
+]

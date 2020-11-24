@@ -1,0 +1,177 @@
+[
+  {
+    "title": "hashicorp/waypoint",
+    "url": "https://github.com/hashicorp/waypoint",
+    "description": "A tool to build, deploy, and release any application on any platform.",
+    "language": "Go",
+    "star": "430"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "language": "Python",
+    "star": "186"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "language": "Assembly",
+    "star": "347"
+  },
+  {
+    "title": "hashicorp/waypoint-examples",
+    "url": "https://github.com/hashicorp/waypoint-examples",
+    "description": "Example Apps that can be deployed with Waypoint",
+    "language": "PHP",
+    "star": "34"
+  },
+  {
+    "title": "checkly/headless-recorder",
+    "url": "https://github.com/checkly/headless-recorder",
+    "description": "Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.",
+    "language": "JavaScript",
+    "star": "593"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "description": "A list of semi to fully remote-friendly companies in tech.",
+    "language": "JavaScript",
+    "star": "417"
+  },
+  {
+    "title": "obheda12/GitDorker",
+    "url": "https://github.com/obheda12/GitDorker",
+    "description": "A Python program to scrape secrets from GitHub through usage of a large repository of dorks.",
+    "language": "Python",
+    "star": "120"
+  },
+  {
+    "title": "trailheadapps/apex-recipes",
+    "url": "https://github.com/trailheadapps/apex-recipes",
+    "description": "A library of concise, meaningful examples of Apex code for common use cases following best practices.",
+    "language": "Apex",
+    "star": "60"
+  },
+  {
+    "title": "woltapp/blurhash",
+    "url": "https://github.com/woltapp/blurhash",
+    "description": "A very compact representation of a placeholder for an image.",
+    "language": "C",
+    "star": "320"
+  },
+  {
+    "title": "stayawayinesctec/stayaway-app",
+    "url": "https://github.com/stayawayinesctec/stayaway-app",
+    "description": "Official repository for the STAYAWAY COVID mobile application",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "53"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "description": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "language": "C#",
+    "star": "51"
+  },
+  {
+    "title": "zhiwehu/Python-programming-exercises",
+    "url": "https://github.com/zhiwehu/Python-programming-exercises",
+    "description": "100+ Python challenging programming exercises",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "lgwebdream/FE-Interview",
+    "url": "https://github.com/lgwebdream/FE-Interview",
+    "description": "前端面试必备题库，1000+面试真题，Html、Css、JavaScript、Vue、React、Node、TypeScript、Webpack、算法、网络与安全、浏览器",
+    "language": "JavaScript",
+    "star": "32"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "description": "Practical Python Programming (course by @dabeaz)",
+    "language": "Python",
+    "star": "152"
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "description": "Ansible for DevOps examples.",
+    "language": "Python",
+    "star": "83"
+  },
+  {
+    "title": "microsoft/playwright-python",
+    "url": "https://github.com/microsoft/playwright-python",
+    "description": "Python version of the Playwright testing and automation library.",
+    "language": "Python",
+    "star": "69"
+  },
+  {
+    "title": "adamerose/pandasgui",
+    "url": "https://github.com/adamerose/pandasgui",
+    "description": "A GUI for Pandas DataFrames",
+    "language": "Python",
+    "star": "61"
+  },
+  {
+    "title": "hashicorp/boundary",
+    "url": "https://github.com/hashicorp/boundary",
+    "description": "Boundary enables identity-based access management for dynamic infrastructure.",
+    "language": "Go",
+    "star": "206"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "88"
+  },
+  {
+    "title": "google/security-research",
+    "url": "https://github.com/google/security-research",
+    "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
+    "language": "none",
+    "star": "42"
+  },
+  {
+    "title": "mlech26l/keras-ncp",
+    "url": "https://github.com/mlech26l/keras-ncp",
+    "description": "Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "description": "Linux/OSX/FreeBSD resource monitor",
+    "language": "Python",
+    "star": "172"
+  },
+  {
+    "title": "strimzi/strimzi-kafka-operator",
+    "url": "https://github.com/strimzi/strimzi-kafka-operator",
+    "description": "Apache Kafka running on Kubernetes",
+    "language": "Java",
+    "star": "109"
+  },
+  {
+    "title": "zserge/awfice",
+    "url": "https://github.com/zserge/awfice",
+    "description": "The world smallest office suite",
+    "language": "HTML",
+    "star": "114"
+  }
+]

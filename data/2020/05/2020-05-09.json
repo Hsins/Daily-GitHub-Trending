@@ -1,0 +1,177 @@
+[
+  {
+    "title": "mrc-ide/covid-sim",
+    "url": "https://github.com/mrc-ide/covid-sim",
+    "description": "",
+    "language": "C++",
+    "star": "110"
+  },
+  {
+    "title": "facebook/facebook-ios-sdk",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+    "language": "Objective-C",
+    "star": "22"
+  },
+  {
+    "title": "keybase/client",
+    "url": "https://github.com/keybase/client",
+    "description": "Keybase Go Library, Client, Service, OS X, iOS, Android, Electron",
+    "language": "Go",
+    "star": "65"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "298"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "476"
+  },
+  {
+    "title": "ouyanghuiyu/chineseocr_lite",
+    "url": "https://github.com/ouyanghuiyu/chineseocr_lite",
+    "description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) 总模型仅17M",
+    "language": "C++",
+    "star": "49"
+  },
+  {
+    "title": "manchenkoff/skillbox-async-messenger",
+    "url": "https://github.com/manchenkoff/skillbox-async-messenger",
+    "description": "Пример клиент-серверного чата на Python для Skillbox",
+    "language": "Python",
+    "star": "10"
+  },
+  {
+    "title": "beekeeper-studio/beekeeper-studio",
+    "url": "https://github.com/beekeeper-studio/beekeeper-studio",
+    "description": "Cross platform SQL editor and database management app for Windows, Linux, and Mac.",
+    "language": "TSQL",
+    "star": "268"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "589"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "description": "【互联网一线大厂面试+学习指南】",
+    "language": "none",
+    "star": "165"
+  },
+  {
+    "title": "shmilylty/OneForAll",
+    "url": "https://github.com/shmilylty/OneForAll",
+    "description": "OneForAll是一款功能强大的子域收集工具",
+    "language": "Python",
+    "star": "57"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Jupyter Notebook",
+    "star": "218"
+  },
+  {
+    "title": "PanJiaChen/vue-element-admin",
+    "url": "https://github.com/PanJiaChen/vue-element-admin",
+    "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
+    "language": "Vue",
+    "star": "96"
+  },
+  {
+    "title": "frappe/books",
+    "url": "https://github.com/frappe/books",
+    "description": "Free Desktop book-keeping software for small-businesses and freelancers.",
+    "language": "Vue",
+    "star": "87"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "language": "C++",
+    "star": "39"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "description": "快速、简单避免OOM的java处理Excel工具",
+    "language": "Java",
+    "star": "48"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "🌈 A UI Design Language and React UI library",
+    "language": "TypeScript",
+    "star": "48"
+  },
+  {
+    "title": "github/codeql",
+    "url": "https://github.com/github/codeql",
+    "description": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise",
+    "language": "CodeQL",
+    "star": "47"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "language": "JavaScript",
+    "star": "167"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "253"
+  },
+  {
+    "title": "alibaba/spring-cloud-alibaba",
+    "url": "https://github.com/alibaba/spring-cloud-alibaba",
+    "description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.",
+    "language": "Java",
+    "star": "38"
+  },
+  {
+    "title": "weolar/miniblink49",
+    "url": "https://github.com/weolar/miniblink49",
+    "description": "a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef",
+    "language": "C++",
+    "star": "51"
+  },
+  {
+    "title": "react-native-community/react-native-video",
+    "url": "https://github.com/react-native-community/react-native-video",
+    "description": "A <Video /> component for react-native",
+    "language": "Java",
+    "star": "17"
+  },
+  {
+    "title": "cats-oss/android-gpuimage",
+    "url": "https://github.com/cats-oss/android-gpuimage",
+    "description": "Android filters based on OpenGL (idea from GPUImage for iOS)",
+    "language": "Java",
+    "star": "46"
+  }
+]

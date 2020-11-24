@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Covid-19Radar/Covid19Radar",
+    "url": "https://github.com/Covid-19Radar/Covid19Radar",
+    "description": "Open Source / i18n / Cross Platform Contact Tracing App by exposure notification framework.",
+    "language": "C#",
+    "star": "290"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "description": "An open source re-implementation of Diablo 2",
+    "language": "Go",
+    "star": "83"
+  },
+  {
+    "title": "SaekiRaku/vscode-rainbow-fart",
+    "url": "https://github.com/SaekiRaku/vscode-rainbow-fart",
+    "description": "一个在你编程时疯狂称赞你的 VSCode 扩展插件 | An VSCode extension that keeps giving you compliment while you are coding, it will checks the keywords of code to play suitable sounds.",
+    "language": "Vue",
+    "star": "638"
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+    "language": "Python",
+    "star": "461"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "language": "Shell",
+    "star": "82"
+  },
+  {
+    "title": "FamManh/awesomechat",
+    "url": "https://github.com/FamManh/awesomechat",
+    "description": "",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "Cyan4973/xxHash",
+    "url": "https://github.com/Cyan4973/xxHash",
+    "description": "Extremely fast non-cryptographic hash algorithm",
+    "language": "C",
+    "star": "63"
+  },
+  {
+    "title": "espressif/arduino-esp32",
+    "url": "https://github.com/espressif/arduino-esp32",
+    "description": "Arduino core for the ESP32",
+    "language": "C",
+    "star": "13"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "85"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "star": "55"
+  },
+  {
+    "title": "greyireland/algorithm-pattern",
+    "url": "https://github.com/greyireland/algorithm-pattern",
+    "description": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+    "language": "Go",
+    "star": "467"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "387"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "star": "100"
+  },
+  {
+    "title": "github/super-linter",
+    "url": "https://github.com/github/super-linter",
+    "description": "Combination of multiple linters to install as a GitHub Action",
+    "language": "Shell",
+    "star": "606"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "26"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "239"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "description": "Practical Python Programming (course by @dabeaz)",
+    "language": "Python",
+    "star": "372"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "412"
+  },
+  {
+    "title": "apprenticeharper/DeDRM_tools",
+    "url": "https://github.com/apprenticeharper/DeDRM_tools",
+    "description": "DeDRM tools for ebooks",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "forpdown/pdown",
+    "url": "https://github.com/forpdown/pdown",
+    "description": "PDown后继版,百度网盘代下载",
+    "language": "C++",
+    "star": "96"
+  },
+  {
+    "title": "CastagnaIT/plugin.video.netflix",
+    "url": "https://github.com/CastagnaIT/plugin.video.netflix",
+    "description": "InputStream based Netflix plugin for Kodi",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "data-science-on-aws/workshop",
+    "url": "https://github.com/data-science-on-aws/workshop",
+    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker",
+    "language": "Jupyter Notebook",
+    "star": "34"
+  },
+  {
+    "title": "jackzhenguo/python-small-examples",
+    "url": "https://github.com/jackzhenguo/python-small-examples",
+    "description": "告别枯燥，60 秒学会一个 Python 小例子",
+    "language": "Python",
+    "star": "29"
+  },
+  {
+    "title": "lperiodbose/youdownloadtheappanditdoesntwork",
+    "url": "https://github.com/lperiodbose/youdownloadtheappanditdoesntwork",
+    "description": "",
+    "language": "HTML",
+    "star": "26"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Java",
+    "star": "169"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "title": "glouw/paperview",
+    "url": "https://github.com/glouw/paperview",
+    "description": "A high performance X11 animated wallpaper setter",
+    "language": "C",
+    "star": "143"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "236"
+  },
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "description": "How to systematically secure anything: a repository about security engineering",
+    "language": "none",
+    "star": "417"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "description": "A cat(1) clone with wings.",
+    "language": "Rust",
+    "star": "184"
+  },
+  {
+    "title": "gpujs/gpu.js",
+    "url": "https://github.com/gpujs/gpu.js",
+    "description": "GPU Accelerated JavaScript",
+    "language": "JavaScript",
+    "star": "209"
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "description": "手写实现李航《统计学习方法》书中全部算法",
+    "language": "Python",
+    "star": "117"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "634"
+  },
+  {
+    "title": "IBM/fhe-toolkit-linux",
+    "url": "https://github.com/IBM/fhe-toolkit-linux",
+    "description": "IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.",
+    "language": "C++",
+    "star": "150"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "435"
+  },
+  {
+    "title": "python-unsam/UNSAM_2020c2_Python",
+    "url": "https://github.com/python-unsam/UNSAM_2020c2_Python",
+    "description": "Curso de programación en Python - 2do cuatrimestre 2020 - UNSAM",
+    "language": "none",
+    "star": "22"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "description": "Bringing Characters to Life with Computer Brains in Unity",
+    "language": "C++",
+    "star": "74"
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "language": "none",
+    "star": "118"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "language": "Rust",
+    "star": "337"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "421"
+  },
+  {
+    "title": "greyireland/algorithm-pattern",
+    "url": "https://github.com/greyireland/algorithm-pattern",
+    "description": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+    "language": "Go",
+    "star": "155"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "star": "20"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "296"
+  },
+  {
+    "title": "ChendoChap/ps4-ipv6-uaf",
+    "url": "https://github.com/ChendoChap/ps4-ipv6-uaf",
+    "description": "",
+    "language": "JavaScript",
+    "star": "19"
+  },
+  {
+    "title": "rbhatia46/Data-Science-Interview-Resources",
+    "url": "https://github.com/rbhatia46/Data-Science-Interview-Resources",
+    "description": "A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.",
+    "language": "none",
+    "star": "77"
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "description": "Automated decryption tool",
+    "language": "Python",
+    "star": "251"
+  },
+  {
+    "title": "pycaret/pycaret",
+    "url": "https://github.com/pycaret/pycaret",
+    "description": "An open source, low-code machine learning library in Python",
+    "language": "Jupyter Notebook",
+    "star": "111"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "description": "Simple and privacy-friendly alternative to Google Analytics",
+    "language": "Elixir",
+    "star": "100"
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "description": "Source to app.diagrams.net",
+    "language": "JavaScript",
+    "star": "107"
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "description": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "language": "JavaScript",
+    "star": "92"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr",
+    "description": "📚 Simplified and community-driven man pages",
+    "language": "Shell",
+    "star": "180"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "specterops/at-ps",
+    "url": "https://github.com/specterops/at-ps",
+    "description": "Adversary Tactics - PowerShell Training",
+    "language": "PowerShell",
+    "star": "126"
+  },
+  {
+    "title": "fpereiro/backendlore",
+    "url": "https://github.com/fpereiro/backendlore",
+    "description": "How I write backends",
+    "language": "none",
+    "star": "643"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "anvaka/city-roads",
+    "url": "https://github.com/anvaka/city-roads",
+    "description": "Visualization of all roads within any city",
+    "language": "JavaScript",
+    "star": "275"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "description": "A collection of awesome things regarding React ecosystem",
+    "language": "none",
+    "star": "102"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "317"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "description": "Cheat Sheets",
+    "language": "TeX",
+    "star": "102"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "description": "List of Development YouTube Channels",
+    "language": "none",
+    "star": "69"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "description": "程序员如何优雅的挣零花钱",
+    "language": "none",
+    "star": "122"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "117"
+  },
+  {
+    "title": "plotly/dash",
+    "url": "https://github.com/plotly/dash",
+    "description": "Analytical Web Apps for Python & R. No JavaScript Required.",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "specialprojects-experiments/envelope",
+    "url": "https://github.com/specialprojects-experiments/envelope",
+    "description": "An experimental app which temporarily transforms your phone into a simpler, calmer device. Currently supports Pixel 3a",
+    "language": "Kotlin",
+    "star": "20"
+  },
+  {
+    "title": "mozilla/sops",
+    "url": "https://github.com/mozilla/sops",
+    "description": "Simple and flexible tool for managing secrets",
+    "language": "Go",
+    "star": "58"
+  },
+  {
+    "title": "google-research/flax",
+    "url": "https://github.com/google-research/flax",
+    "description": "",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "awslabs/amazon-eks-ami",
+    "url": "https://github.com/awslabs/amazon-eks-ami",
+    "description": "Packer configuration for building a custom EKS AMI",
+    "language": "Shell",
+    "star": "8"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "description": "The plugin-driven server agent for collecting & reporting metrics.",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "star": "88"
+  },
+  {
+    "title": "Asabeneh/30DaysOfJavaScript",
+    "url": "https://github.com/Asabeneh/30DaysOfJavaScript",
+    "description": "A 30 days of JavaScript programming challenge",
+    "language": "JavaScript",
+    "star": "62"
+  },
+  {
+    "title": "phoenixframework/phoenix",
+    "url": "https://github.com/phoenixframework/phoenix",
+    "description": "Productive. Reliable. Fast.",
+    "language": "Elixir",
+    "star": "21"
+  },
+  {
+    "title": "argoproj/argo",
+    "url": "https://github.com/argoproj/argo",
+    "description": "Argo Workflows: Get stuff done with Kubernetes.",
+    "language": "Go",
+    "star": "25"
+  },
+  {
+    "title": "runatlantis/atlantis",
+    "url": "https://github.com/runatlantis/atlantis",
+    "description": "Terraform Pull Request Automation",
+    "language": "Go",
+    "star": "17"
+  },
+  {
+    "title": "cucumber/cucumber",
+    "url": "https://github.com/cucumber/cucumber",
+    "description": "Cucumber monorepo - building blocks for Cucumber in various languages",
+    "language": "Java",
+    "star": "9"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "description": "AWX Project",
+    "language": "JavaScript",
+    "star": "13"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "none",
+    "star": "735"
+  },
+  {
+    "title": "nychealth/coronavirus-data",
+    "url": "https://github.com/nychealth/coronavirus-data",
+    "description": "",
+    "language": "none",
+    "star": "62"
+  },
+  {
+    "title": "iTaysonLab/gorkiy",
+    "url": "https://github.com/iTaysonLab/gorkiy",
+    "description": "JaDX decompile of com.askgps.personaltrackercore (Moscow COVID-19 person tracker). Note that I'm NOT related to the development of this app.",
+    "language": "Java",
+    "star": "23"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "478"
+  },
+  {
+    "title": "eclipse-theia/theia",
+    "url": "https://github.com/eclipse-theia/theia",
+    "description": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+    "language": "TypeScript",
+    "star": "323"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "332"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "150"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "419"
+  },
+  {
+    "title": "linuxtips/FiqueEmCasaConf",
+    "url": "https://github.com/linuxtips/FiqueEmCasaConf",
+    "description": "Repositório para a conferência #FiqueEmCasa",
+    "language": "none",
+    "star": "34"
+  },
+  {
+    "title": "ImperialCollegeLondon/covid19model",
+    "url": "https://github.com/ImperialCollegeLondon/covid19model",
+    "description": "Code for modelling estimated deaths and cases for COVID19.",
+    "language": "R",
+    "star": "72"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "language": "TypeScript",
+    "star": "154"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "language": "Java",
+    "star": "55"
+  },
+  {
+    "title": "ihmeuw-msca/CurveFit",
+    "url": "https://github.com/ihmeuw-msca/CurveFit",
+    "description": "Generic curve fitting package with nonlinear mixed effects model",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "703"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "574"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "464"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "411"
+  },
+  {
+    "title": "phuoc-ng/html-dom",
+    "url": "https://github.com/phuoc-ng/html-dom",
+    "description": "Common tasks of managing HTML DOM with vanilla JavaScript. Give me 1 ⭐if it’s useful.",
+    "language": "TypeScript",
+    "star": "380"
+  },
+  {
+    "title": "GoogleContainerTools/kpt",
+    "url": "https://github.com/GoogleContainerTools/kpt",
+    "description": "",
+    "language": "Go",
+    "star": "59"
+  },
+  {
+    "title": "ElemeFE/element",
+    "url": "https://github.com/ElemeFE/element",
+    "description": "A Vue.js 2.0 UI Toolkit for Web",
+    "language": "Vue",
+    "star": "35"
+  },
+  {
+    "title": "AmboVent/AmboVent",
+    "url": "https://github.com/AmboVent/AmboVent",
+    "description": "AmboVent 1690.108",
+    "language": "C++",
+    "star": "27"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "language": "none",
+    "star": "255"
+  },
+  {
+    "title": "hamaluik/timecop",
+    "url": "https://github.com/hamaluik/timecop",
+    "description": "A time tracking app that respects your privacy and the gets the job done without being fancy.",
+    "language": "Dart",
+    "star": "74"
+  },
+  {
+    "title": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "description": "🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+    "language": "Shell",
+    "star": "174"
+  },
+  {
+    "title": "UCSD-AI4H/COVID-CT",
+    "url": "https://github.com/UCSD-AI4H/COVID-CT",
+    "description": "COVID-CT-Dataset: A CT Scan Dataset about COVID-19",
+    "language": "Python",
+    "star": "54"
+  }
+]

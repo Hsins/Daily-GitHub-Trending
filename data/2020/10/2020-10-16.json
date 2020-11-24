@@ -1,0 +1,170 @@
+[
+  {
+    "title": "vt-vl-lab/FGVC",
+    "url": "https://github.com/vt-vl-lab/FGVC",
+    "description": "[ECCV 2020] Flow-edge Guided Video Completion",
+    "language": "Python",
+    "star": "111"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "description": "Unity Open Project #1: Action-adventure",
+    "language": "ShaderLab",
+    "star": "175"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "description": "A curated list of references for MLOps",
+    "language": "none",
+    "star": "196"
+  },
+  {
+    "title": "zserge/awfice",
+    "url": "https://github.com/zserge/awfice",
+    "description": "The world smallest office suite",
+    "language": "HTML",
+    "star": "275"
+  },
+  {
+    "title": "JoseDeFreitas/awesome-youtubers",
+    "url": "https://github.com/JoseDeFreitas/awesome-youtubers",
+    "description": "▶️ An awesome list containing awesome YouTubers that teach about technology.",
+    "language": "none",
+    "star": "401"
+  },
+  {
+    "title": "fonoster/fonos",
+    "url": "https://github.com/fonoster/fonos",
+    "description": "🚀 An open-source alternative to Twilio.",
+    "language": "JavaScript",
+    "star": "322"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "language": "Assembly",
+    "star": "296"
+  },
+  {
+    "title": "advanced-threat-research/CVE-2020-16898",
+    "url": "https://github.com/advanced-threat-research/CVE-2020-16898",
+    "description": "CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule",
+    "language": "Lua",
+    "star": "64"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "356"
+  },
+  {
+    "title": "gustavoguanabara/html-css",
+    "url": "https://github.com/gustavoguanabara/html-css",
+    "description": "Curso de HTML5 e CSS3",
+    "language": "HTML",
+    "star": "523"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "star": "223"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "language": "Python",
+    "star": "72"
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "description": "Ansible for DevOps examples.",
+    "language": "Python",
+    "star": "76"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "description": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "language": "Python",
+    "star": "283"
+  },
+  {
+    "title": "orkestral/venom",
+    "url": "https://github.com/orkestral/venom",
+    "description": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp",
+    "language": "JavaScript",
+    "star": "80"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "language": "Java",
+    "star": "184"
+  },
+  {
+    "title": "huanzi-qch/base-admin",
+    "url": "https://github.com/huanzi-qch/base-admin",
+    "description": "Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等",
+    "language": "Java",
+    "star": "148"
+  },
+  {
+    "title": "mengshukeji/Luckysheet",
+    "url": "https://github.com/mengshukeji/Luckysheet",
+    "description": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "language": "JavaScript",
+    "star": "299"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "language": "Go",
+    "star": "100"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "description": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "januschung/math-worksheet-generator",
+    "url": "https://github.com/januschung/math-worksheet-generator",
+    "description": "Create basic addition, subtraction and multiplication practice questions with the answer sheet",
+    "language": "Python",
+    "star": "98"
+  },
+  {
+    "title": "strimzi/strimzi-kafka-operator",
+    "url": "https://github.com/strimzi/strimzi-kafka-operator",
+    "description": "Apache Kafka running on Kubernetes",
+    "language": "Java",
+    "star": "60"
+  },
+  {
+    "title": "guilhermecapitao/nlw3-discovery-happy",
+    "url": "https://github.com/guilhermecapitao/nlw3-discovery-happy",
+    "description": "",
+    "language": "Handlebars",
+    "star": "16"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "language": "C#",
+    "star": "33"
+  }
+]

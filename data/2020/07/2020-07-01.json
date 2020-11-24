@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CTurt/FreeDVDBoot",
+    "url": "https://github.com/CTurt/FreeDVDBoot",
+    "description": "PlayStation 2 DVD Player Exploit",
+    "language": "C",
+    "star": "389"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "A sandbox tower defense game",
+    "language": "Java",
+    "star": "210"
+  },
+  {
+    "title": "LemmyNet/lemmy",
+    "url": "https://github.com/LemmyNet/lemmy",
+    "description": "🐀 Building a federated alternative to reddit in rust",
+    "language": "Rust",
+    "star": "224"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "description": "Learning Convolutional Neural Networks with Interactive Visualization.",
+    "language": "JavaScript",
+    "star": "155"
+  },
+  {
+    "title": "LingCoder/OnJava8",
+    "url": "https://github.com/LingCoder/OnJava8",
+    "description": "《On Java 8》中文版，又名《Java编程思想》 第5版",
+    "language": "none",
+    "star": "134"
+  },
+  {
+    "title": "foambubble/foam-template",
+    "url": "https://github.com/foambubble/foam-template",
+    "description": "Foam workpace template",
+    "language": "CSS",
+    "star": "16"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "description": "Instant messaging server; backend in Go; iOS, Android, web, command line clients; chatbots",
+    "language": "Go",
+    "star": "86"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "foambubble/foam",
+    "url": "https://github.com/foambubble/foam",
+    "description": "A personal knowledge management and sharing system for VSCode",
+    "language": "Markdown",
+    "star": "650"
+  },
+  {
+    "title": "johannesjo/super-productivity",
+    "url": "https://github.com/johannesjo/super-productivity",
+    "description": "To-do list & time tracker for programmers & other digital workers with Jira, Github and Gitlab integration",
+    "language": "TypeScript",
+    "star": "84"
+  },
+  {
+    "title": "e200/my-flutter-challenges",
+    "url": "https://github.com/e200/my-flutter-challenges",
+    "description": "All my Flutter Challenges",
+    "language": "Dart",
+    "star": "66"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "description": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
+    "language": "none",
+    "star": "229"
+  },
+  {
+    "title": "prakhar1989/awesome-courses",
+    "url": "https://github.com/prakhar1989/awesome-courses",
+    "description": "📚 List of awesome university courses for learning Computer Science!",
+    "language": "none",
+    "star": "193"
+  },
+  {
+    "title": "nasa-jpl/Pulse",
+    "url": "https://github.com/nasa-jpl/Pulse",
+    "description": "A pendant to warn you when you touch your face",
+    "language": "none",
+    "star": "34"
+  },
+  {
+    "title": "garrettj403/SciencePlots",
+    "url": "https://github.com/garrettj403/SciencePlots",
+    "description": "Matplotlib styles for scientific plotting",
+    "language": "Python",
+    "star": "123"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "language": "Java",
+    "star": "157"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "star": "173"
+  },
+  {
+    "title": "kmario23/deep-learning-drizzle",
+    "url": "https://github.com/kmario23/deep-learning-drizzle",
+    "description": "Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "TensorSpeech/TensorflowTTS",
+    "url": "https://github.com/TensorSpeech/TensorflowTTS",
+    "description": "😝 TensorflowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "coodict/python3-in-one-pic",
+    "url": "https://github.com/coodict/python3-in-one-pic",
+    "description": "Learn python3 in one picture.",
+    "language": "Jupyter Notebook",
+    "star": "69"
+  },
+  {
+    "title": "NeuromatchAcademy/precourse",
+    "url": "https://github.com/NeuromatchAcademy/precourse",
+    "description": "A repo for the pre-course work at home exercises",
+    "language": "none",
+    "star": "12"
+  },
+  {
+    "title": "wimpysworld/rolling-rhino",
+    "url": "https://github.com/wimpysworld/rolling-rhino",
+    "description": "Rolling Rhino; convert Ubuntu into a rolling release as seen on YouTube",
+    "language": "Shell",
+    "star": "51"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "language": "Java",
+    "star": "121"
+  },
+  {
+    "title": "danielegrattarola/spektral",
+    "url": "https://github.com/danielegrattarola/spektral",
+    "description": "Graph Neural Networks with Keras and Tensorflow 2.",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "apache/shardingsphere-elasticjob-lite",
+    "url": "https://github.com/apache/shardingsphere-elasticjob-lite",
+    "description": "Distributed scheduled job framework",
+    "language": "Java",
+    "star": "38"
+  }
+]

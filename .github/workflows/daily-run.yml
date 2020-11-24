@@ -1,0 +1,38 @@
+name: Fetch GitHub Daily Trending
+
+on:
+  push:
+    branches:
+      - main
+
+  schedule:
+    - cron: '* 16 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup node.js environment
+        uses: actions/setup-node@v1
+        with:
+          node-version: '13'
+
+      - name: Install dependencies and run script
+        run: |
+          # Run script
+          npm ci
+          npm run crawl --if-present
+
+      - name: Commit files
+        run: |
+          # Hard-code user configuration
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Checkout the branch so we can push back to it
+          git checkout main
+          git add -A
+          # Only commit and push if we have changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m ":rocket: Fetch GitHub Daily Trending at $(date +'%Y-%m-%d %H:%M')")
+          git push

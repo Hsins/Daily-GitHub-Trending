@@ -1,0 +1,170 @@
+[
+  {
+    "title": "CleverProgrammers/nodejs-zoom-clone",
+    "url": "https://github.com/CleverProgrammers/nodejs-zoom-clone",
+    "description": "",
+    "language": "JavaScript",
+    "star": "50"
+  },
+  {
+    "title": "douyu/jupiter",
+    "url": "https://github.com/douyu/jupiter",
+    "description": "Jupiter是斗鱼开源的面向服务治理的Golang微服务框架",
+    "language": "Go",
+    "star": "47"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "description": "AWS SDK for the Go programming language.",
+    "language": "Go",
+    "star": "16"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "84"
+  },
+  {
+    "title": "simdjson/simdjson",
+    "url": "https://github.com/simdjson/simdjson",
+    "description": "Parsing gigabytes of JSON per second",
+    "language": "C++",
+    "star": "434"
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "language": "none",
+    "star": "162"
+  },
+  {
+    "title": "magicleap/Atlas",
+    "url": "https://github.com/magicleap/Atlas",
+    "description": "Atlas: End-to-End 3D Scene Reconstruction from Posed Images",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "openservicemesh/osm",
+    "url": "https://github.com/openservicemesh/osm",
+    "description": "Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.",
+    "language": "Go",
+    "star": "379"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "273"
+  },
+  {
+    "title": "migueldeicaza/gui.cs",
+    "url": "https://github.com/migueldeicaza/gui.cs",
+    "description": "Console-based user interface toolkit for .NET applications.",
+    "language": "C#",
+    "star": "34"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "language": "none",
+    "star": "110"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "🔗 Some useful websites for programmers.",
+    "language": "none",
+    "star": "224"
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "description": "Linux/OSX/FreeBSD resource monitor",
+    "language": "Python",
+    "star": "476"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native apps with React.",
+    "language": "JavaScript",
+    "star": "47"
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "language": "JavaScript",
+    "star": "180"
+  },
+  {
+    "title": "jmdx/TLS-poison",
+    "url": "https://github.com/jmdx/TLS-poison",
+    "description": "",
+    "language": "Rust",
+    "star": "91"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "description": "Seamless operability between C++11 and Python",
+    "language": "C++",
+    "star": "85"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "description": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "language": "C",
+    "star": "150"
+  },
+  {
+    "title": "yanue/V2rayU",
+    "url": "https://github.com/yanue/V2rayU",
+    "description": "V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等",
+    "language": "Swift",
+    "star": "49"
+  },
+  {
+    "title": "kelseyhightower/mesh",
+    "url": "https://github.com/kelseyhightower/mesh",
+    "description": "Cloud native service mesh for the rest of us.",
+    "language": "none",
+    "star": "40"
+  },
+  {
+    "title": "Malajab/incyber",
+    "url": "https://github.com/Malajab/incyber",
+    "description": "",
+    "language": "none",
+    "star": "13"
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)",
+    "language": "none",
+    "star": "292"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "description": "Polkadot Node Implementation",
+    "language": "Rust",
+    "star": "25"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "70"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "description": "A Flash Player emulator written in Rust",
+    "language": "Rust",
+    "star": "573"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "description": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "language": "Vue",
+    "star": "570"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "description": "Distributed database middleware",
+    "language": "Java",
+    "star": "161"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "description": "ClickHouse is a free analytics DBMS for big data",
+    "language": "C++",
+    "star": "210"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "CSS",
+    "star": "947"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "217"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "174"
+  },
+  {
+    "title": "oam-dev/kubevela",
+    "url": "https://github.com/oam-dev/kubevela",
+    "description": "An Easy-to-use yet Fully Extensible App Platform based on Kubernetes and Open Application Model.",
+    "language": "Go",
+    "star": "106"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "description": "VS Code in the browser",
+    "language": "TypeScript",
+    "star": "348"
+  },
+  {
+    "title": "alyssaxuu/screenity",
+    "url": "https://github.com/alyssaxuu/screenity",
+    "description": "The most powerful screen recorder & annotation tool for Chrome 🎥",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "description": "📊 Path to a free self-taught education in Data Science!",
+    "language": "none",
+    "star": "466"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "682"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "478"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "language": "Python",
+    "star": "452"
+  },
+  {
+    "title": "zhiwehu/Python-programming-exercises",
+    "url": "https://github.com/zhiwehu/Python-programming-exercises",
+    "description": "100+ Python challenging programming exercises",
+    "language": "none",
+    "star": "238"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "495"
+  },
+  {
+    "title": "upptime/upptime",
+    "url": "https://github.com/upptime/upptime",
+    "description": "⬆️ Uptime monitor and status page powered by GitHub",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "description": "Jupyter notebooks for teaching/learning Python 3",
+    "language": "Python",
+    "star": "204"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "description": "Black Friday Deals for macOS / iOS Software & Books",
+    "language": "Swift",
+    "star": "60"
+  },
+  {
+    "title": "GoogleLLP/SuperMarket",
+    "url": "https://github.com/GoogleLLP/SuperMarket",
+    "description": "设计精良的网上商城系统，包括前端、后端、数据库、负载均衡、数据库缓存等，使用SpringCloud框架，基于Java开发。该项目可部署到服务器上，不断完善中……",
+    "language": "Java",
+    "star": "214"
+  },
+  {
+    "title": "ZecOps/FreeTheSandbox_LPE_POC_13.7",
+    "url": "https://github.com/ZecOps/FreeTheSandbox_LPE_POC_13.7",
+    "description": "Jailbreak for iOS 13.7 and earlier",
+    "language": "C",
+    "star": "113"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "star": "250"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "language": "JavaScript",
+    "star": "586"
+  },
+  {
+    "title": "LukeSmithxyz/mutt-wizard",
+    "url": "https://github.com/LukeSmithxyz/mutt-wizard",
+    "description": "A system for automatically configuring mutt and isync with a simple interface and safe passwords",
+    "language": "Shell",
+    "star": "50"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "description": "The Intuitive Vue Framework",
+    "language": "JavaScript",
+    "star": "572"
+  }
+]

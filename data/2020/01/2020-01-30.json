@@ -1,0 +1,177 @@
+[
+  {
+    "title": "wuhan2020/WebApp",
+    "url": "https://github.com/wuhan2020/WebApp",
+    "description": "渐进式 Web 应用",
+    "language": "TypeScript",
+    "star": "89"
+  },
+  {
+    "title": "oldboyxx/jira_clone",
+    "url": "https://github.com/oldboyxx/jira_clone",
+    "description": "A simplified Jira clone built with React/Babel (Client), and Node/TypeScript (API). Auto formatted with Prettier, tested with Cypress.",
+    "language": "JavaScript",
+    "star": "772"
+  },
+  {
+    "title": "wuhan2020/wuhan2020",
+    "url": "https://github.com/wuhan2020/wuhan2020",
+    "description": "武汉新型冠状病毒防疫信息收集平台",
+    "language": "none",
+    "star": "932"
+  },
+  {
+    "title": "microsoft/ApplicationInspector",
+    "url": "https://github.com/microsoft/ApplicationInspector",
+    "description": "A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.",
+    "language": "C#",
+    "star": "809"
+  },
+  {
+    "title": "wuhan2020/api-server",
+    "url": "https://github.com/wuhan2020/api-server",
+    "description": "武汉新型冠状病毒防疫信息收集平台后端代理",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "lispczz/pneumonia",
+    "url": "https://github.com/lispczz/pneumonia",
+    "description": "中国新型冠状病毒肺炎地级市疫情图",
+    "language": "JavaScript",
+    "star": "51"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "description": "📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.",
+    "language": "none",
+    "star": "462"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "language": "none",
+    "star": "253"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "Headless Chrome Node.js API",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "nicrusso7/rex-gym",
+    "url": "https://github.com/nicrusso7/rex-gym",
+    "description": "OpenAI Gym environments for an open-source quadruped robot (SpotMicro)",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "smicallef/spiderfoot",
+    "url": "https://github.com/smicallef/spiderfoot",
+    "description": "SpiderFoot, the most complete OSINT collection and reconnaissance tool.",
+    "language": "Python",
+    "star": "54"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "150"
+  },
+  {
+    "title": "SwiftDocOrg/swift-doc",
+    "url": "https://github.com/SwiftDocOrg/swift-doc",
+    "description": "Generates documentation for Swift projects",
+    "language": "Swift",
+    "star": "79"
+  },
+  {
+    "title": "outflanknl/Scripts",
+    "url": "https://github.com/outflanknl/Scripts",
+    "description": "Small scripts that make life better",
+    "language": "JavaScript",
+    "star": "25"
+  },
+  {
+    "title": "globalcitizen/2019-wuhan-coronavirus-data",
+    "url": "https://github.com/globalcitizen/2019-wuhan-coronavirus-data",
+    "description": "2019 Wuhan Coronavirus data (2019-nCoV)",
+    "language": "PHP",
+    "star": "34"
+  },
+  {
+    "title": "sam-hosseini/freelancing-in-finland",
+    "url": "https://github.com/sam-hosseini/freelancing-in-finland",
+    "description": "The ultimate resource for transitioning to freelancing for software developers 👩‍💻🇫🇮",
+    "language": "none",
+    "star": "67"
+  },
+  {
+    "title": "hzwer/shareOI",
+    "url": "https://github.com/hzwer/shareOI",
+    "description": "OI & ACM 课件分享",
+    "language": "none",
+    "star": "115"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "language": "Python",
+    "star": "65"
+  },
+  {
+    "title": "giswqs/earthengine-py-notebooks",
+    "url": "https://github.com/giswqs/earthengine-py-notebooks",
+    "description": "A collection of 300+ Jupyter Python notebook examples for using Google Earth Engine with interactive mapping",
+    "language": "Jupyter Notebook",
+    "star": "47"
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "language": "Jupyter Notebook",
+    "star": "19"
+  },
+  {
+    "title": "Kethku/neovide",
+    "url": "https://github.com/Kethku/neovide",
+    "description": "No Nonsense Neovim Client in Rust",
+    "language": "Rust",
+    "star": "117"
+  },
+  {
+    "title": "redcanaryco/atomic-red-team",
+    "url": "https://github.com/redcanaryco/atomic-red-team",
+    "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+    "language": "PowerShell",
+    "star": "22"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "description": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "language": "Python",
+    "star": "64"
+  },
+  {
+    "title": "joeycastillo/The-Open-Book",
+    "url": "https://github.com/joeycastillo/The-Open-Book",
+    "description": "",
+    "language": "C++",
+    "star": "76"
+  },
+  {
+    "title": "meik97/XSpotify",
+    "url": "https://github.com/meik97/XSpotify",
+    "description": "A modified Spotify client with DRM bypass.",
+    "language": "C++",
+    "star": "178"
+  }
+]

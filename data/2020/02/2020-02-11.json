@@ -1,0 +1,177 @@
+[
+  {
+    "title": "davidfowl/Todos",
+    "url": "https://github.com/davidfowl/Todos",
+    "description": "Various todo list backend API implementations",
+    "language": "C#",
+    "star": "194"
+  },
+  {
+    "title": "fchollet/deep-learning-with-python-notebooks",
+    "url": "https://github.com/fchollet/deep-learning-with-python-notebooks",
+    "description": "Jupyter notebooks for the code samples of the book \"Deep Learning with Python\"",
+    "language": "Jupyter Notebook",
+    "star": "107"
+  },
+  {
+    "title": "cycz/jdBuyMask",
+    "url": "https://github.com/cycz/jdBuyMask",
+    "description": "京东监控口罩有货爬虫，自动下单爬虫，口罩爬虫",
+    "language": "Python",
+    "star": "164"
+  },
+  {
+    "title": "domlysz/BlenderGIS",
+    "url": "https://github.com/domlysz/BlenderGIS",
+    "description": "Blender addons to make the bridge between Blender and geographic data",
+    "language": "Python",
+    "star": "289"
+  },
+  {
+    "title": "sdushantha/fontpreview",
+    "url": "https://github.com/sdushantha/fontpreview",
+    "description": "🔡 Very customizable and minimal font previewer written in bash",
+    "language": "Shell",
+    "star": "119"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "119"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "description": "Deploy machine learning models in production",
+    "language": "Go",
+    "star": "99"
+  },
+  {
+    "title": "baowenbo/DAIN",
+    "url": "https://github.com/baowenbo/DAIN",
+    "description": "Depth-Aware Video Frame Interpolation (CVPR 2019)",
+    "language": "Python",
+    "star": "86"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "36"
+  },
+  {
+    "title": "f/fatura",
+    "url": "https://github.com/f/fatura",
+    "description": "eArşiv / eFatura Fatura Oluşturucu",
+    "language": "JavaScript",
+    "star": "41"
+  },
+  {
+    "title": "The-Cracker-Technology/ANDRAX-Mobile-Pentest",
+    "url": "https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest",
+    "description": "ANDRAX Advanced Penetration Testing Platform for Android Smartphones",
+    "language": "C",
+    "star": "12"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "star": "57"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "description": "基于Python的开源量化交易平台开发框架",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "Rlacat/jd-automask",
+    "url": "https://github.com/Rlacat/jd-automask",
+    "description": "防护-京东口罩自动抢购并下单",
+    "language": "Python",
+    "star": "55"
+  },
+  {
+    "title": "ppy/osu",
+    "url": "https://github.com/ppy/osu",
+    "description": "rhythm is just a *click* away!",
+    "language": "C#",
+    "star": "27"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "147"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "description": "🚀 Fiber is an Express.js inspired web framework written in Go with 💖",
+    "language": "Go",
+    "star": "418"
+  },
+  {
+    "title": "ConnersHua/Profiles",
+    "url": "https://github.com/ConnersHua/Profiles",
+    "description": "",
+    "language": "none",
+    "star": "29"
+  },
+  {
+    "title": "prakhar1989/awesome-courses",
+    "url": "https://github.com/prakhar1989/awesome-courses",
+    "description": "📚 List of awesome university courses for learning Computer Science!",
+    "language": "none",
+    "star": "95"
+  },
+  {
+    "title": "CodelyTV/php-ddd-example",
+    "url": "https://github.com/CodelyTV/php-ddd-example",
+    "description": "🐘🎯 Hexagonal Architecture + DDD + CQRS applied in PHP using Symfony 5",
+    "language": "PHP",
+    "star": "24"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "121"
+  },
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "description": "阅读3.0",
+    "language": "Kotlin",
+    "star": "17"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "xinntao/ESRGAN",
+    "url": "https://github.com/xinntao/ESRGAN",
+    "description": "ECCV18 Workshops - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution (Third Region)",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "description": "🚀 Awesome list of open source applications for macOS.",
+    "language": "Swift",
+    "star": "64"
+  }
+]

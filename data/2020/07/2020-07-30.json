@@ -1,0 +1,177 @@
+[
+  {
+    "title": "github/rest-api-description",
+    "url": "https://github.com/github/rest-api-description",
+    "description": "An OpenAPI description for GitHub's REST API",
+    "language": "none",
+    "star": "160"
+  },
+  {
+    "title": "imersao-alura/aluraflix",
+    "url": "https://github.com/imersao-alura/aluraflix",
+    "description": "⚛️ Projeto feito durante a Imersão React da Alura",
+    "language": "JavaScript",
+    "star": "66"
+  },
+  {
+    "title": "WebDevSimplified/Zoom-Clone-With-WebRTC",
+    "url": "https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC",
+    "description": "",
+    "language": "JavaScript",
+    "star": "115"
+  },
+  {
+    "title": "shreyashankar/gpt3-sandbox",
+    "url": "https://github.com/shreyashankar/gpt3-sandbox",
+    "description": "The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.",
+    "language": "JavaScript",
+    "star": "215"
+  },
+  {
+    "title": "mrdbourke/machine-learning-roadmap",
+    "url": "https://github.com/mrdbourke/machine-learning-roadmap",
+    "description": "A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.",
+    "language": "none",
+    "star": "858"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "description": "Comprehensive Python Cheatsheet",
+    "language": "Python",
+    "star": "494"
+  },
+  {
+    "title": "surya-veer/movement-tracking",
+    "url": "https://github.com/surya-veer/movement-tracking",
+    "description": "UP - DOWN - LEFT - RIGHT movement tracking.",
+    "language": "Python",
+    "star": "75"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "description": "⚡ Dynamically generated stats for your github readmes",
+    "language": "JavaScript",
+    "star": "412"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "78"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "261"
+  },
+  {
+    "title": "icsharpcode/ILSpy",
+    "url": "https://github.com/icsharpcode/ILSpy",
+    "description": ".NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&more) - cross-platform!",
+    "language": "C#",
+    "star": "35"
+  },
+  {
+    "title": "pikvm/pikvm",
+    "url": "https://github.com/pikvm/pikvm",
+    "description": "Open and cheap DIY IP-KVM based on Raspberry Pi",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "363"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "387"
+  },
+  {
+    "title": "OSCPU/NutShell",
+    "url": "https://github.com/OSCPU/NutShell",
+    "description": "RISC-V SoC designed by students in UCAS",
+    "language": "Scala",
+    "star": "111"
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "description": "The Swift Programming Language",
+    "language": "C++",
+    "star": "64"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "30"
+  },
+  {
+    "title": "Delta2Force/MCVmComputers",
+    "url": "https://github.com/Delta2Force/MCVmComputers",
+    "description": "Order computer parts from a satellite orbiting around your minecraft world and build actual working computers with them!",
+    "language": "Java",
+    "star": "33"
+  },
+  {
+    "title": "elyase/awesome-gpt3",
+    "url": "https://github.com/elyase/awesome-gpt3",
+    "description": "",
+    "language": "none",
+    "star": "224"
+  },
+  {
+    "title": "kdeldycke/awesome-falsehood",
+    "url": "https://github.com/kdeldycke/awesome-falsehood",
+    "description": "😱 Falsehoods Programmers Believe in",
+    "language": "none",
+    "star": "162"
+  },
+  {
+    "title": "radareorg/cutter",
+    "url": "https://github.com/radareorg/cutter",
+    "description": "Free and Open Source Reverse Engineering Platform powered by radare2",
+    "language": "C++",
+    "star": "164"
+  },
+  {
+    "title": "apache/arrow",
+    "url": "https://github.com/apache/arrow",
+    "description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
+    "language": "C++",
+    "star": "38"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "description": "An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。",
+    "language": "Java",
+    "star": "66"
+  },
+  {
+    "title": "uvipen/Super-mario-bros-PPO-pytorch",
+    "url": "https://github.com/uvipen/Super-mario-bros-PPO-pytorch",
+    "description": "Proximal Policy Optimization (PPO) algorithm for Super Mario Bros",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "HaujetZhao/QuickCut",
+    "url": "https://github.com/HaujetZhao/QuickCut",
+    "description": "Your most handy video processing software",
+    "language": "Python",
+    "star": "91"
+  }
+]

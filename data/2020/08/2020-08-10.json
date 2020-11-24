@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebook/pyre-check",
+    "url": "https://github.com/facebook/pyre-check",
+    "description": "Performant type-checking for python.",
+    "language": "OCaml",
+    "star": "268"
+  },
+  {
+    "title": "liljencrantz/crush",
+    "url": "https://github.com/liljencrantz/crush",
+    "description": "Crush is an attempt to make a command line shell that is also a powerful modern programming language.",
+    "language": "Rust",
+    "star": "216"
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "language": "JavaScript",
+    "star": "685"
+  },
+  {
+    "title": "CleverProgrammers/nodejs-zoom-clone",
+    "url": "https://github.com/CleverProgrammers/nodejs-zoom-clone",
+    "description": "",
+    "language": "JavaScript",
+    "star": "126"
+  },
+  {
+    "title": "ct-Open-Source/tuya-convert",
+    "url": "https://github.com/ct-Open-Source/tuya-convert",
+    "description": "A collection of scripts to flash Tuya IoT devices to alternative firmwares",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "description": "The easiest way to automate your data",
+    "language": "Python",
+    "star": "76"
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "description": "The adaptive interface system  for modern web experiences.",
+    "language": "TypeScript",
+    "star": "434"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "107"
+  },
+  {
+    "title": "zoony1337/TikTok-Shares-Botter",
+    "url": "https://github.com/zoony1337/TikTok-Shares-Botter",
+    "description": "Adds TikTok Shares for you.",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "🔗 Some useful websites for programmers.",
+    "language": "none",
+    "star": "263"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "402"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "language": "none",
+    "star": "216"
+  },
+  {
+    "title": "romefrontend/rome",
+    "url": "https://github.com/romefrontend/rome",
+    "description": "The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "language": "TypeScript",
+    "star": "538"
+  },
+  {
+    "title": "salesforce/ai-economist",
+    "url": "https://github.com/salesforce/ai-economist",
+    "description": "Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "248"
+  },
+  {
+    "title": "longjunyu2/MCinaBox",
+    "url": "https://github.com/longjunyu2/MCinaBox",
+    "description": "MCinaBox - A Minecraft Java Edition Launcher on Android",
+    "language": "Java",
+    "star": "31"
+  },
+  {
+    "title": "JayremntB/facebook-scripts-dom-manipulation",
+    "url": "https://github.com/JayremntB/facebook-scripts-dom-manipulation",
+    "description": "An open-source project includes many scripts with no Access Token needed for Facebook users by directly manipulating the DOM.",
+    "language": "JavaScript",
+    "star": "24"
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "description": "Linux/OSX/FreeBSD resource monitor",
+    "language": "Python",
+    "star": "405"
+  },
+  {
+    "title": "kahun/awesome-sysadmin",
+    "url": "https://github.com/kahun/awesome-sysadmin",
+    "description": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
+    "language": "none",
+    "star": "125"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "description": "Productive & portable programming language for high-performance, sparse & differentiable computing",
+    "language": "C++",
+    "star": "48"
+  },
+  {
+    "title": "magicleap/Atlas",
+    "url": "https://github.com/magicleap/Atlas",
+    "description": "Atlas: End-to-End 3D Scene Reconstruction from Posed Images",
+    "language": "Python",
+    "star": "196"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "406"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "description": "Polkadot Node Implementation",
+    "language": "Rust",
+    "star": "49"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "82"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "305"
+  }
+]

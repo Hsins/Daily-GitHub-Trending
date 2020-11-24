@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "description": "High-Resolution 3D Human Digitization from A Single Image.",
+    "language": "Python",
+    "star": "408"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "description": "Backend implementation for the Apple/Google exposure notification API.",
+    "language": "Java",
+    "star": "119"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "62"
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+    "language": "Python",
+    "star": "155"
+  },
+  {
+    "title": "gadsden0/wikileaks-9-11-files",
+    "url": "https://github.com/gadsden0/wikileaks-9-11-files",
+    "description": "The files from the United States government on 9/11, released by wiki leaks.",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "40"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "51"
+  },
+  {
+    "title": "corona-warn-app/cwa-verification-server",
+    "url": "https://github.com/corona-warn-app/cwa-verification-server",
+    "description": "Backend implementation of the verification process",
+    "language": "Java",
+    "star": "28"
+  },
+  {
+    "title": "MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "url": "https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
+    "description": "AZ-204: Developing solutions for Microsoft Azure",
+    "language": "C#",
+    "star": "15"
+  },
+  {
+    "title": "DataDog/integrations-core",
+    "url": "https://github.com/DataDog/integrations-core",
+    "description": "Core integrations of the Datadog Agent",
+    "language": "Python",
+    "star": "9"
+  },
+  {
+    "title": "testcontainers/testcontainers-java",
+    "url": "https://github.com/testcontainers/testcontainers-java",
+    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+    "language": "Java",
+    "star": "9"
+  },
+  {
+    "title": "ARMmbed/mbed-os",
+    "url": "https://github.com/ARMmbed/mbed-os",
+    "description": "Arm Mbed OS is a platform operating system designed for the internet of things",
+    "language": "C",
+    "star": "19"
+  },
+  {
+    "title": "astrit/css.gg",
+    "url": "https://github.com/astrit/css.gg",
+    "description": "700+ Pure CSS, SVG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API",
+    "language": "CSS",
+    "star": "91"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "220"
+  },
+  {
+    "title": "ifzhang/FairMOT",
+    "url": "https://github.com/ifzhang/FairMOT",
+    "description": "A simple baseline for one-shot multi-object tracking",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "faker-ruby/faker",
+    "url": "https://github.com/faker-ruby/faker",
+    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "language": "Ruby",
+    "star": "27"
+  },
+  {
+    "title": "ARMmbed/mbedtls",
+    "url": "https://github.com/ARMmbed/mbedtls",
+    "description": "An open source, portable, easy to use, readable and flexible SSL library",
+    "language": "C",
+    "star": "15"
+  },
+  {
+    "title": "SpiderLabs/ModSecurity",
+    "url": "https://github.com/SpiderLabs/ModSecurity",
+    "description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analys…",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "description": "GPT-3: Language Models are Few-Shot Learners",
+    "language": "none",
+    "star": "82"
+  },
+  {
+    "title": "mui-org/material-ui-pickers",
+    "url": "https://github.com/mui-org/material-ui-pickers",
+    "description": "Date & Time pickers, built with ❤️ for @material-ui/core",
+    "language": "TypeScript",
+    "star": "27"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "description": "Declarative continuous deployment for Kubernetes.",
+    "language": "Go",
+    "star": "33"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "star": "10"
+  },
+  {
+    "title": "MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign",
+    "url": "https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign",
+    "description": "",
+    "language": "PowerShell",
+    "star": "5"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "microsoftgraph/microsoft-graph-docs",
+    "url": "https://github.com/microsoftgraph/microsoft-graph-docs",
+    "description": "Documentation for the Microsoft Graph REST API",
+    "language": "PowerShell",
+    "star": "5"
+  }
+]

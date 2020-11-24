@@ -1,0 +1,177 @@
+[
+  {
+    "title": "muesli/duf",
+    "url": "https://github.com/muesli/duf",
+    "description": "Disk Usage/Free Utility",
+    "language": "Go",
+    "star": "497"
+  },
+  {
+    "title": "deepnight/led",
+    "url": "https://github.com/deepnight/led",
+    "description": "Modern, lightweight and efficient 2D level editor",
+    "language": "Haxe",
+    "star": "89"
+  },
+  {
+    "title": "raphlinus/crochet",
+    "url": "https://github.com/raphlinus/crochet",
+    "description": "Explorations in reactive UI patterns",
+    "language": "Rust",
+    "star": "21"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "195"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "14"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "star": "27"
+  },
+  {
+    "title": "blushft/go-diagrams",
+    "url": "https://github.com/blushft/go-diagrams",
+    "description": "Create beautiful system diagrams with Go",
+    "language": "Go",
+    "star": "403"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "star": "9"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "26"
+  },
+  {
+    "title": "AakashKumarNain/annotated_research_papers",
+    "url": "https://github.com/AakashKumarNain/annotated_research_papers",
+    "description": "This repo contains annotated research papers that I found really good and useful",
+    "language": "none",
+    "star": "57"
+  },
+  {
+    "title": "farag2/Windows-10-Sophia-Script",
+    "url": "https://github.com/farag2/Windows-10-Sophia-Script",
+    "description": "Script to setup Windows 10 LTSC/1903/1909/2004/2009",
+    "language": "PowerShell",
+    "star": "32"
+  },
+  {
+    "title": "anandpawara/Real_Time_Image_Animation",
+    "url": "https://github.com/anandpawara/Real_Time_Image_Animation",
+    "description": "The Project is real time application in opencv using first order model",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "apple/swift-system",
+    "url": "https://github.com/apple/swift-system",
+    "description": "",
+    "language": "Swift",
+    "star": "91"
+  },
+  {
+    "title": "AeonLucid/Impostor",
+    "url": "https://github.com/AeonLucid/Impostor",
+    "description": "Impostor - An open source reimplementation of the Among Us Server",
+    "language": "C#",
+    "star": "45"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "apprenticeharper/DeDRM_tools",
+    "url": "https://github.com/apprenticeharper/DeDRM_tools",
+    "description": "DeDRM tools for ebooks",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "thunlp/GNNPapers",
+    "url": "https://github.com/thunlp/GNNPapers",
+    "description": "Must-read papers on graph neural networks (GNN)",
+    "language": "none",
+    "star": "7"
+  },
+  {
+    "title": "mrjbq7/ta-lib",
+    "url": "https://github.com/mrjbq7/ta-lib",
+    "description": "Python wrapper for TA-Lib (http://ta-lib.org/).",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "language": "Shell",
+    "star": "17"
+  },
+  {
+    "title": "EZLippi/Tinyhttpd",
+    "url": "https://github.com/EZLippi/Tinyhttpd",
+    "description": "Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net",
+    "language": "C",
+    "star": "24"
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "description": "A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html",
+    "language": "C++",
+    "star": "39"
+  },
+  {
+    "title": "apache/rocketmq",
+    "url": "https://github.com/apache/rocketmq",
+    "description": "Mirror of Apache RocketMQ",
+    "language": "Java",
+    "star": "14"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "star": "63"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "description": "An API wrapper for Discord written in Python.",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "Swordfish90/cool-retro-term",
+    "url": "https://github.com/Swordfish90/cool-retro-term",
+    "description": "A good looking terminal emulator which mimics the old cathode display...",
+    "language": "QML",
+    "star": "19"
+  }
+]

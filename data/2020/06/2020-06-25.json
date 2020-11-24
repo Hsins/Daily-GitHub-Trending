@@ -1,0 +1,177 @@
+[
+  {
+    "title": "dabreegster/abstreet",
+    "url": "https://github.com/dabreegster/abstreet",
+    "description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.",
+    "language": "Rust",
+    "star": "612"
+  },
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "description": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+    "language": "Java",
+    "star": "156"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "623"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "325"
+  },
+  {
+    "title": "s-matyukevich/raspberry-pi-os",
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+    "language": "C",
+    "star": "168"
+  },
+  {
+    "title": "forezp/SpringCloudLearning",
+    "url": "https://github.com/forezp/SpringCloudLearning",
+    "description": "《史上最简单的Spring Cloud教程源码》",
+    "language": "Java",
+    "star": "81"
+  },
+  {
+    "title": "bradtraversy/ui_components",
+    "url": "https://github.com/bradtraversy/ui_components",
+    "description": "Collection of HTML & CSS UI components",
+    "language": "HTML",
+    "star": "47"
+  },
+  {
+    "title": "schenkd/nginx-ui",
+    "url": "https://github.com/schenkd/nginx-ui",
+    "description": "Nginx UI allows you to access and modify the nginx configurations files without cli.",
+    "language": "Python",
+    "star": "398"
+  },
+  {
+    "title": "wg/wrk",
+    "url": "https://github.com/wg/wrk",
+    "description": "Modern HTTP benchmarking tool",
+    "language": "C",
+    "star": "156"
+  },
+  {
+    "title": "zhoutaoo/SpringCloud",
+    "url": "https://github.com/zhoutaoo/SpringCloud",
+    "description": "基于SpringCloud2.1的微服务开发脚手架，整合了spring-security-oauth2、nacos、feign、sentinel、springcloud-gateway等。服务治理方面引入elasticsearch、skywalking、springboot-admin、zipkin等，让项目开发快速进入业务开发，而不需过多时间花费在架构搭建上。持续更新中",
+    "language": "Java",
+    "star": "56"
+  },
+  {
+    "title": "vt-vl-lab/3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "description": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "alibaba/hooks",
+    "url": "https://github.com/alibaba/hooks",
+    "description": "React Hooks Library",
+    "language": "TypeScript",
+    "star": "181"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "language": "JavaScript",
+    "star": "113"
+  },
+  {
+    "title": "thingsboard/thingsboard",
+    "url": "https://github.com/thingsboard/thingsboard",
+    "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+    "language": "Java",
+    "star": "168"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "118"
+  },
+  {
+    "title": "twostraws/wwdc",
+    "url": "https://github.com/twostraws/wwdc",
+    "description": "WWDC Community: Learning and sharing together",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "tailwindcss/tailwindcss",
+    "url": "https://github.com/tailwindcss/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "CSS",
+    "star": "92"
+  },
+  {
+    "title": "spmallick/learnopencv",
+    "url": "https://github.com/spmallick/learnopencv",
+    "description": "Learn OpenCV : C++ and Python Examples",
+    "language": "Jupyter Notebook",
+    "star": "70"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "31"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "language": "PHP",
+    "star": "106"
+  },
+  {
+    "title": "tg-bomze/Face-Depixelizer",
+    "url": "https://github.com/tg-bomze/Face-Depixelizer",
+    "description": "Face Depixelizer based on \"PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models\" repository.",
+    "language": "Jupyter Notebook",
+    "star": "122"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "language": "Java",
+    "star": "131"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "language": "Shell",
+    "star": "21"
+  },
+  {
+    "title": "zxystd/itlwm",
+    "url": "https://github.com/zxystd/itlwm",
+    "description": "IntelWifi",
+    "language": "C",
+    "star": "26"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "🌈 A UI Design Language and React UI library",
+    "language": "TypeScript",
+    "star": "57"
+  }
+]

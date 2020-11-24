@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebookexperimental/Recoil",
+    "url": "https://github.com/facebookexperimental/Recoil",
+    "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "description": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "language": "C#",
+    "star": "57"
+  },
+  {
+    "title": "fluxcd/flux",
+    "url": "https://github.com/fluxcd/flux",
+    "description": "The GitOps Kubernetes operator",
+    "language": "Go",
+    "star": "56"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "247"
+  },
+  {
+    "title": "CocoaPods/CocoaPods",
+    "url": "https://github.com/CocoaPods/CocoaPods",
+    "description": "The Cocoa Dependency Manager.",
+    "language": "Ruby",
+    "star": "13"
+  },
+  {
+    "title": "immuni-app/documentation",
+    "url": "https://github.com/immuni-app/documentation",
+    "description": "Repo for Immuni's documentation.",
+    "language": "none",
+    "star": "105"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "google/exposure-notifications-server",
+    "url": "https://github.com/google/exposure-notifications-server",
+    "description": "Exposure Notification Reference Server | Covid-19 Exposure Notifications",
+    "language": "Go",
+    "star": "391"
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "description": "手写实现李航《统计学习方法》书中全部算法",
+    "language": "Python",
+    "star": "98"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "language": "Go",
+    "star": "85"
+  },
+  {
+    "title": "yaronzz/Tidal-Media-Downloader",
+    "url": "https://github.com/yaronzz/Tidal-Media-Downloader",
+    "description": "Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)",
+    "language": "C#",
+    "star": "24"
+  },
+  {
+    "title": "denoland/deno_website2",
+    "url": "https://github.com/denoland/deno_website2",
+    "description": "deno.land website",
+    "language": "TypeScript",
+    "star": "36"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "23"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "description": "🔥 Firebase plugins for Flutter apps",
+    "language": "Dart",
+    "star": "14"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "description": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.",
+    "language": "Python",
+    "star": "63"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "120"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "language": "Rust",
+    "star": "82"
+  },
+  {
+    "title": "DP-3T/documents",
+    "url": "https://github.com/DP-3T/documents",
+    "description": "Decentralized Privacy-Preserving Proximity Tracing -- Documents",
+    "language": "Shell",
+    "star": "64"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "56"
+  },
+  {
+    "title": "google/swift-benchmark",
+    "url": "https://github.com/google/swift-benchmark",
+    "description": "A swift library to benchmark code snippets.",
+    "language": "Swift",
+    "star": "114"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "172"
+  },
+  {
+    "title": "datasets/covid-19",
+    "url": "https://github.com/datasets/covid-19",
+    "description": "Novel Coronavirus 2019 time series data on cases",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "horovod/horovod",
+    "url": "https://github.com/horovod/horovod",
+    "description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "38"
+  }
+]

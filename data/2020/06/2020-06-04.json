@@ -1,0 +1,177 @@
+[
+  {
+    "title": "electronicarts/CnC_Remastered_Collection",
+    "url": "https://github.com/electronicarts/CnC_Remastered_Collection",
+    "description": "",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "joshiemoore/snakeware",
+    "url": "https://github.com/joshiemoore/snakeware",
+    "description": "A free Linux distro with a fully Python userspace",
+    "language": "Python",
+    "star": "471"
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "description": "🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+    "language": "Kotlin",
+    "star": "124"
+  },
+  {
+    "title": "Police-Data-Accessibility-Project/Police-Data-Accessibility-Project",
+    "url": "https://github.com/Police-Data-Accessibility-Project/Police-Data-Accessibility-Project",
+    "description": "A repository for all code related to the Police Accountability Project",
+    "language": "Python",
+    "star": "69"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "49"
+  },
+  {
+    "title": "bjmashibing/InternetArchitect",
+    "url": "https://github.com/bjmashibing/InternetArchitect",
+    "description": "年薪百万互联网架构师课程文档及源码(公开部分)",
+    "language": "Java",
+    "star": "185"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (June 2020)",
+    "language": "JavaScript",
+    "star": "204"
+  },
+  {
+    "title": "douyu/jupiter",
+    "url": "https://github.com/douyu/jupiter",
+    "description": "Jupiter是douyu开源的面向服务治理的Golang微服务框架",
+    "language": "Go",
+    "star": "149"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "description": "Streamlit — The fastest way to build custom ML tools",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "star": "195"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "description": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "language": "JavaScript",
+    "star": "261"
+  },
+  {
+    "title": "deepmind/acme",
+    "url": "https://github.com/deepmind/acme",
+    "description": "A library of reinforcement learning components and agents",
+    "language": "Python",
+    "star": "250"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "description": "The iconic SVG, font, and CSS toolkit",
+    "language": "JavaScript",
+    "star": "37"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "star": "77"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "language": "none",
+    "star": "118"
+  },
+  {
+    "title": "filipdutescu/modern-cpp-template",
+    "url": "https://github.com/filipdutescu/modern-cpp-template",
+    "description": "A template for modern C++ projects using CMake, clang-format and unit testing, with support for downstream inclusion",
+    "language": "CMake",
+    "star": "127"
+  },
+  {
+    "title": "irsdl/top10webseclist",
+    "url": "https://github.com/irsdl/top10webseclist",
+    "description": "Top Ten Web Hacking Techniques List",
+    "language": "none",
+    "star": "95"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "language": "none",
+    "star": "71"
+  },
+  {
+    "title": "dt-fe/weekly",
+    "url": "https://github.com/dt-fe/weekly",
+    "description": "前端精读周刊",
+    "language": "none",
+    "star": "105"
+  },
+  {
+    "title": "vercel/swr",
+    "url": "https://github.com/vercel/swr",
+    "description": "React Hooks library for remote data fetching",
+    "language": "TypeScript",
+    "star": "94"
+  },
+  {
+    "title": "filipedeschamps/BrasilAPI",
+    "url": "https://github.com/filipedeschamps/BrasilAPI",
+    "description": "Vamos transformar o Brasil em uma API?",
+    "language": "JavaScript",
+    "star": "39"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "description": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "language": "Vue",
+    "star": "239"
+  },
+  {
+    "title": "supabase/realtime",
+    "url": "https://github.com/supabase/realtime",
+    "description": "Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.",
+    "language": "Elixir",
+    "star": "198"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "description": "Open MMLab Detection Toolbox and Benchmark",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "encode/django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "description": "Web APIs for Django. 🎸",
+    "language": "Python",
+    "star": "130"
+  }
+]

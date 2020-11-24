@@ -1,0 +1,177 @@
+[
+  {
+    "title": "zhoubolei/introRL",
+    "url": "https://github.com/zhoubolei/introRL",
+    "description": "Intro to Reinforcement Learning (强化学习纲要）",
+    "language": "none",
+    "star": "163"
+  },
+  {
+    "title": "neherlab/covid19_scenarios",
+    "url": "https://github.com/neherlab/covid19_scenarios",
+    "description": "Models of COVID-19 outbreak trajectories and hospital demand",
+    "language": "TypeScript",
+    "star": "60"
+  },
+  {
+    "title": "fastai/course-v4",
+    "url": "https://github.com/fastai/course-v4",
+    "description": "Pre-release of v4 of course.fast.ai",
+    "language": "Jupyter Notebook",
+    "star": "60"
+  },
+  {
+    "title": "jcl5m1/ventilator",
+    "url": "https://github.com/jcl5m1/ventilator",
+    "description": "Low-Cost Open Source Ventilator",
+    "language": "C++",
+    "star": "191"
+  },
+  {
+    "title": "spotify/backstage",
+    "url": "https://github.com/spotify/backstage",
+    "description": "Backstage is an open platform for building developer portals",
+    "language": "TypeScript",
+    "star": "487"
+  },
+  {
+    "title": "google/automl",
+    "url": "https://github.com/google/automl",
+    "description": "Google Brain AutoML",
+    "language": "Python",
+    "star": "256"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "170"
+  },
+  {
+    "title": "ieee8023/covid-chestxray-dataset",
+    "url": "https://github.com/ieee8023/covid-chestxray-dataset",
+    "description": "We are building an open database of COVID-19 cases with chest X-ray or CT images.",
+    "language": "none",
+    "star": "107"
+  },
+  {
+    "title": "lukasz-madon/awesome-remote-job",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "description": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+    "language": "none",
+    "star": "113"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "star": "96"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "description": "浙江大学课程攻略共享计划",
+    "language": "C",
+    "star": "127"
+  },
+  {
+    "title": "midas-network/COVID-19",
+    "url": "https://github.com/midas-network/COVID-19",
+    "description": "2019 novel coronavirus repository",
+    "language": "TeX",
+    "star": "46"
+  },
+  {
+    "title": "MayaPosch/NymphCast",
+    "url": "https://github.com/MayaPosch/NymphCast",
+    "description": "Audio and video casting system with support for custom applications.",
+    "language": "C++",
+    "star": "97"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "651"
+  },
+  {
+    "title": "sagarkarira/coronavirus-tracker-cli",
+    "url": "https://github.com/sagarkarira/coronavirus-tracker-cli",
+    "description": "Track conronavirus cases from command line. curl https://corona-stats.online/",
+    "language": "JavaScript",
+    "star": "119"
+  },
+  {
+    "title": "dsfsi/covid19za",
+    "url": "https://github.com/dsfsi/covid19za",
+    "description": "COVID 19 Data and Dashboard for South Africa",
+    "language": "Jupyter Notebook",
+    "star": "13"
+  },
+  {
+    "title": "vikbez/covid-sortie",
+    "url": "https://github.com/vikbez/covid-sortie",
+    "description": "Formulaire rapide d'autorisation de sortie covid-19",
+    "language": "HTML",
+    "star": "7"
+  },
+  {
+    "title": "Ethiopia-COVID19/community",
+    "url": "https://github.com/Ethiopia-COVID19/community",
+    "description": "Welcome to Ethiopia COVID-19 Response Task Force Community",
+    "language": "none",
+    "star": "12"
+  },
+  {
+    "title": "newbee-ltd/newbee-mall",
+    "url": "https://github.com/newbee-ltd/newbee-mall",
+    "description": "newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。",
+    "language": "Java",
+    "star": "118"
+  },
+  {
+    "title": "jitsi/jitsi-meet",
+    "url": "https://github.com/jitsi/jitsi-meet",
+    "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+    "language": "JavaScript",
+    "star": "119"
+  },
+  {
+    "title": "ionic-team/ionic",
+    "url": "https://github.com/ionic-team/ionic",
+    "description": "Build amazing Native and Progressive Web Apps with web technologies. One app running on everything 🎉",
+    "language": "TypeScript",
+    "star": "45"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "star": "202"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "description": "The Web framework for perfectionists with deadlines.",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "NovelCOVID/API",
+    "url": "https://github.com/NovelCOVID/API",
+    "description": "API for Current cases and more stuff about COVID-19 or the Novel Coronavirus Strain",
+    "language": "JavaScript",
+    "star": "75"
+  },
+  {
+    "title": "ResultadosDigitais/matrix",
+    "url": "https://github.com/ResultadosDigitais/matrix",
+    "description": "#matrix is the online open-source workplace inspired in sococo.com for distributed teams to have the experience of work together each day, side-by-side. No matter where team members might be. Working in an online workplace is even more productive when people feeling in the same space.",
+    "language": "JavaScript",
+    "star": "86"
+  }
+]

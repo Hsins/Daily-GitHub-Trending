@@ -1,0 +1,177 @@
+[
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "356"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "description": "Cheat Sheets",
+    "language": "TeX",
+    "star": "111"
+  },
+  {
+    "title": "anvaka/city-roads",
+    "url": "https://github.com/anvaka/city-roads",
+    "description": "Visualization of all roads within any city",
+    "language": "JavaScript",
+    "star": "258"
+  },
+  {
+    "title": "microsoft/ApplicationInspector",
+    "url": "https://github.com/microsoft/ApplicationInspector",
+    "description": "A source code analyzer built for surfacing features of interest and other characteristics to answer the question 'what's in it' using static analysis with a json based rules engine. Ideal for scanning components before use or detecting feature level changes.",
+    "language": "C#",
+    "star": "273"
+  },
+  {
+    "title": "kbariotis/templates",
+    "url": "https://github.com/kbariotis/templates",
+    "description": "A set of standard document templates.",
+    "language": "none",
+    "star": "309"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "302"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "description": "A curated list of awesome warez and piracy links",
+    "language": "HTML",
+    "star": "137"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "237"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "description": "Connect, secure, control, and observe services.",
+    "language": "Go",
+    "star": "45"
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "description": "程序员如何优雅的挣零花钱",
+    "language": "none",
+    "star": "248"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "297"
+  },
+  {
+    "title": "bao-project/bao-hypervisor",
+    "url": "https://github.com/bao-project/bao-hypervisor",
+    "description": "Bao, a Lightweight Static Partitioning Hypervisor",
+    "language": "C",
+    "star": "5"
+  },
+  {
+    "title": "wesbos/awesome-uses",
+    "url": "https://github.com/wesbos/awesome-uses",
+    "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
+    "language": "JavaScript",
+    "star": "86"
+  },
+  {
+    "title": "google-research/flax",
+    "url": "https://github.com/google-research/flax",
+    "description": "",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "description": "Clean Object-oriented & Layered Architecture",
+    "language": "Java",
+    "star": "46"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "description": "End-to-end backend server for frontend and mobile developers. 🚀",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "collabnix/kubelabs",
+    "url": "https://github.com/collabnix/kubelabs",
+    "description": "Kubernetes - Beginners | Intermediate | Advanced",
+    "language": "HTML",
+    "star": "102"
+  },
+  {
+    "title": "justinamiller/SoftwareArchitect",
+    "url": "https://github.com/justinamiller/SoftwareArchitect",
+    "description": "Path to a Software Architect",
+    "language": "none",
+    "star": "335"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "language": "none",
+    "star": "92"
+  },
+  {
+    "title": "Christopheraburns/AWS-JPL-OSR-Challenge",
+    "url": "https://github.com/Christopheraburns/AWS-JPL-OSR-Challenge",
+    "description": "Official repo of the AWS-JPL Open Source Rover challenge",
+    "language": "C++",
+    "star": "3"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "language": "none",
+    "star": "91"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 8000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "96"
+  },
+  {
+    "title": "clovaai/assembled-cnn",
+    "url": "https://github.com/clovaai/assembled-cnn",
+    "description": "Official implementation of \"Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network\"",
+    "language": "Python",
+    "star": "54"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "description": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "Screetsec/TheFatRat",
+    "url": "https://github.com/Screetsec/TheFatRat",
+    "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
+    "language": "C",
+    "star": "82"
+  }
+]

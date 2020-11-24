@@ -1,0 +1,177 @@
+[
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "language": "C",
+    "star": "229"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "description": "Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/",
+    "language": "JavaScript",
+    "star": "237"
+  },
+  {
+    "title": "saltstack/salt",
+    "url": "https://github.com/saltstack/salt",
+    "description": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "description": "Cut and paste your surroundings using AR",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "description": "Awesome Docker Compose samples",
+    "language": "HTML",
+    "star": "108"
+  },
+  {
+    "title": "phuoc-ng/1loc",
+    "url": "https://github.com/phuoc-ng/1loc",
+    "description": "What's your favorite JavaScript single LOC (line of code)?",
+    "language": "TypeScript",
+    "star": "284"
+  },
+  {
+    "title": "infosecn1nja/Red-Teaming-Toolkit",
+    "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit",
+    "description": "A collection of open source and commercial tools that aid in red team operations.",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "description": "Fast, multi-platform web server with automatic HTTPS",
+    "language": "Go",
+    "star": "379"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "description": "The Julia Language: A fresh approach to technical computing.",
+    "language": "Julia",
+    "star": "153"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "star": "162"
+  },
+  {
+    "title": "adelf/acwa_book_ru",
+    "url": "https://github.com/adelf/acwa_book_ru",
+    "description": "Книга \"Архитектура сложных веб-приложений. С примерами на Laravel\"",
+    "language": "none",
+    "star": "53"
+  },
+  {
+    "title": "ramitsurana/awesome-kubernetes",
+    "url": "https://github.com/ramitsurana/awesome-kubernetes",
+    "description": "A curated list for awesome kubernetes sources 🚢🎉",
+    "language": "Makefile",
+    "star": "496"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "421"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Jupyter Notebook",
+    "star": "247"
+  },
+  {
+    "title": "Dimillian/ACHNBrowserUI",
+    "url": "https://github.com/Dimillian/ACHNBrowserUI",
+    "description": "Animal Crossing New Horizon items catalog in SwiftUI",
+    "language": "Swift",
+    "star": "109"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "star": "24"
+  },
+  {
+    "title": "akusio/KernBypass-Public",
+    "url": "https://github.com/akusio/KernBypass-Public",
+    "description": "chroot based kernel level jailbreak detection bypass.",
+    "language": "Objective-C",
+    "star": "42"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "description": "Video discussing this curriculum:",
+    "language": "none",
+    "star": "36"
+  },
+  {
+    "title": "nndl/nndl.github.io",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+    "language": "HTML",
+    "star": "57"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "38"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "language": "JavaScript",
+    "star": "75"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "description": "一个基于 electron 的音乐软件",
+    "language": "JavaScript",
+    "star": "51"
+  },
+  {
+    "title": "faker-ruby/faker",
+    "url": "https://github.com/faker-ruby/faker",
+    "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+    "language": "Ruby",
+    "star": "24"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native apps with React.",
+    "language": "JavaScript",
+    "star": "57"
+  }
+]

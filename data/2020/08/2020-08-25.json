@@ -1,0 +1,177 @@
+[
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "Draft of the fastai book",
+    "language": "Jupyter Notebook",
+    "star": "234"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision.",
+    "language": "Jupyter Notebook",
+    "star": "490"
+  },
+  {
+    "title": "dtolnay/cxx",
+    "url": "https://github.com/dtolnay/cxx",
+    "description": "Safe interop between Rust and C++",
+    "language": "Rust",
+    "star": "106"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "249"
+  },
+  {
+    "title": "maratonadev-br/desafio-3-2020",
+    "url": "https://github.com/maratonadev-br/desafio-3-2020",
+    "description": "",
+    "language": "none",
+    "star": "11"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "description": "Yahoo! Finance market data downloader (+faster Pandas Datareader)",
+    "language": "Python",
+    "star": "107"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "57"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "description": "The fastai deep learning library, plus lessons and tutorials",
+    "language": "Jupyter Notebook",
+    "star": "180"
+  },
+  {
+    "title": "s-matyukevich/raspberry-pi-os",
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "description": "Learning operating system development using Linux kernel and Raspberry Pi",
+    "language": "C",
+    "star": "93"
+  },
+  {
+    "title": "pingcap/talent-plan",
+    "url": "https://github.com/pingcap/talent-plan",
+    "description": "open source training courses about distributed database and distributed systemes",
+    "language": "Rust",
+    "star": "68"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "356"
+  },
+  {
+    "title": "eguatech/egua",
+    "url": "https://github.com/eguatech/egua",
+    "description": "🦄 Linguagem de programação simples e moderna em português",
+    "language": "JavaScript",
+    "star": "65"
+  },
+  {
+    "title": "huangrt01/CS-Notes",
+    "url": "https://github.com/huangrt01/CS-Notes",
+    "description": "我的自学笔记，在学习shell和MLSys，整理C++、算法、操作系统，后续学习分布式系统，终身更新。",
+    "language": "Python",
+    "star": "60"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "star": "97"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "description": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
+    "language": "none",
+    "star": "233"
+  },
+  {
+    "title": "TensorSpeech/TensorFlowTTS",
+    "url": "https://github.com/TensorSpeech/TensorFlowTTS",
+    "description": "😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "79"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "description": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "language": "none",
+    "star": "79"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "416"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "description": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "language": "JavaScript",
+    "star": "122"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "star": "95"
+  },
+  {
+    "title": "facebook/ent",
+    "url": "https://github.com/facebook/ent",
+    "description": "An entity framework for Go",
+    "language": "Go",
+    "star": "329"
+  },
+  {
+    "title": "xiaolai/everyones-guide-for-starting-up-on-wechat-network",
+    "url": "https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network",
+    "description": "微信互联网平民创业",
+    "language": "none",
+    "star": "42"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "168"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "language": "Zig",
+    "star": "73"
+  }
+]

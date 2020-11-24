@@ -1,0 +1,177 @@
+[
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "description": "Cut and paste your surroundings using AR",
+    "language": "TypeScript",
+    "star": "676"
+  },
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "language": "C",
+    "star": "232"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "559"
+  },
+  {
+    "title": "google/exposure-notifications-android",
+    "url": "https://github.com/google/exposure-notifications-android",
+    "description": "Exposure Notifications Android Reference Design",
+    "language": "Java",
+    "star": "23"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "language": "Swift",
+    "star": "90"
+  },
+  {
+    "title": "rossengeorgiev/salt-security-backports",
+    "url": "https://github.com/rossengeorgiev/salt-security-backports",
+    "description": "Salt security backports for CVE-2020-11651 & CVE-2020-11652",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "microsoft/c9-python-getting-started",
+    "url": "https://github.com/microsoft/c9-python-getting-started",
+    "description": "Sample code for Channel 9 Python for Beginners course",
+    "language": "Jupyter Notebook",
+    "star": "55"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "40"
+  },
+  {
+    "title": "ramitsurana/awesome-kubernetes",
+    "url": "https://github.com/ramitsurana/awesome-kubernetes",
+    "description": "A curated list for awesome kubernetes sources 🚢🎉",
+    "language": "Makefile",
+    "star": "173"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "51"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "star": "118"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Jupyter Notebook",
+    "star": "212"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "language": "JavaScript",
+    "star": "224"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "description": "Learning Convolutional Neural Networks with Interactive Visualization. https://poloclub.github.io/cnn-explainer/",
+    "language": "JavaScript",
+    "star": "371"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "406"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "description": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "language": "none",
+    "star": "12"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "443"
+  },
+  {
+    "title": "Dimillian/ACHNBrowserUI",
+    "url": "https://github.com/Dimillian/ACHNBrowserUI",
+    "description": "Animal Crossing New Horizon items catalog in SwiftUI",
+    "language": "Swift",
+    "star": "51"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "210"
+  },
+  {
+    "title": "nndl/nndl.github.io",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+    "language": "HTML",
+    "star": "50"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "description": "Fast, multi-platform web server with automatic HTTPS",
+    "language": "Go",
+    "star": "132"
+  },
+  {
+    "title": "google/eng-practices",
+    "url": "https://github.com/google/eng-practices",
+    "description": "Google's Engineering Practices documentation",
+    "language": "none",
+    "star": "111"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "description": "Awesome Docker Compose samples",
+    "language": "HTML",
+    "star": "143"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "star": "39"
+  },
+  {
+    "title": "codeedu/maratona2-desafios",
+    "url": "https://github.com/codeedu/maratona2-desafios",
+    "description": "",
+    "language": "none",
+    "star": "7"
+  }
+]

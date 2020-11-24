@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebook/pyre-check",
+    "url": "https://github.com/facebook/pyre-check",
+    "description": "Performant type-checking for python.",
+    "language": "OCaml",
+    "star": "190"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "description": "The easiest way to automate your data",
+    "language": "Python",
+    "star": "289"
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "description": "The adaptive interface system  for modern web experiences.",
+    "language": "TypeScript",
+    "star": "489"
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "language": "JavaScript",
+    "star": "396"
+  },
+  {
+    "title": "SixGenInc/Noctilucent",
+    "url": "https://github.com/SixGenInc/Noctilucent",
+    "description": "Using TLS 1.3 to evade censors, bypass network defenses, and blend in with the noise",
+    "language": "Go",
+    "star": "79"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "description": "Complete container management platform",
+    "language": "Go",
+    "star": "55"
+  },
+  {
+    "title": "github/archive-program",
+    "url": "https://github.com/github/archive-program",
+    "description": "The GitHub Archive Program & Arctic Code Vault",
+    "language": "none",
+    "star": "534"
+  },
+  {
+    "title": "intelowlproject/IntelOwl",
+    "url": "https://github.com/intelowlproject/IntelOwl",
+    "description": "Intel Owl: analyze files, domains, IPs in multiple ways from a single API at scale",
+    "language": "Python",
+    "star": "223"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "description": "📊 Path to a free self-taught education in Data Science!",
+    "language": "none",
+    "star": "247"
+  },
+  {
+    "title": "madd86/awesome-system-design",
+    "url": "https://github.com/madd86/awesome-system-design",
+    "description": "A curated list of awesome System Design (A.K.A. Distributed Computing) resources.",
+    "language": "none",
+    "star": "678"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "235"
+  },
+  {
+    "title": "yuanguangxin/LeetCode",
+    "url": "https://github.com/yuanguangxin/LeetCode",
+    "description": "LeetCode刷题记录",
+    "language": "Java",
+    "star": "233"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "324"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & articles of companies sharing their work on applied data science & machine learning.",
+    "language": "none",
+    "star": "201"
+  },
+  {
+    "title": "StreisandEffect/streisand",
+    "url": "https://github.com/StreisandEffect/streisand",
+    "description": "Streisand sets up a new server running your choice of WireGuard, OpenConnect, OpenSSH, OpenVPN, Shadowsocks, sslh, Stunnel, or a Tor bridge. It also generates custom instructions for all of these services. At the end of the run you are given an HTML file with instructions that can be shared with friends, family members, and fellow activists.",
+    "language": "Shell",
+    "star": "47"
+  },
+  {
+    "title": "romefrontend/rome",
+    "url": "https://github.com/romefrontend/rome",
+    "description": "The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "language": "TypeScript",
+    "star": "482"
+  },
+  {
+    "title": "toniblyx/my-arsenal-of-aws-security-tools",
+    "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
+    "description": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+    "language": "Shell",
+    "star": "102"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "language": "none",
+    "star": "196"
+  },
+  {
+    "title": "TachibanaYoshino/AnimeGANv2",
+    "url": "https://github.com/TachibanaYoshino/AnimeGANv2",
+    "description": "[Open Source]. The improved version of AnimeGAN.",
+    "language": "Python",
+    "star": "155"
+  },
+  {
+    "title": "elrumo/macOS_Big_Sur_icons_replacements",
+    "url": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
+    "description": "Replacement icons for popular apps in the style of macOS Big Sur",
+    "language": "Vue",
+    "star": "278"
+  },
+  {
+    "title": "alexandreborges/malwoverview",
+    "url": "https://github.com/alexandreborges/malwoverview",
+    "description": "Malwoverview is a first response tool to perform an initial and quick triage in a directory containing malware samples, specific malware sample, suspect URL and domains. Additionally, it allows to download and send samples to main online sandboxes.",
+    "language": "Python",
+    "star": "23"
+  },
+  {
+    "title": "unsplash/datasets",
+    "url": "https://github.com/unsplash/datasets",
+    "description": "🎁 2,000,000+ Unsplash images made available for research and machine learning",
+    "language": "Jupyter Notebook",
+    "star": "331"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "325"
+  },
+  {
+    "title": "lyhue1991/eat_pytorch_in_20_days",
+    "url": "https://github.com/lyhue1991/eat_pytorch_in_20_days",
+    "description": "Pytorch🍊🍉 is delicious, just eat it! 😋😋",
+    "language": "Python",
+    "star": "121"
+  },
+  {
+    "title": "zoony1337/TikTok-Shares-Botter",
+    "url": "https://github.com/zoony1337/TikTok-Shares-Botter",
+    "description": "Adds TikTok Shares for you.",
+    "language": "Python",
+    "star": "46"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "DroidKaigi/conference-app-2020",
+    "url": "https://github.com/DroidKaigi/conference-app-2020",
+    "description": "The Official Conference App for DroidKaigi 2020 Tokyo",
+    "language": "Kotlin",
+    "star": "68"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io",
+    "language": "V",
+    "star": "153"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+    "language": "Rust",
+    "star": "26"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "138"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "description": "Deploy machine learning models in production",
+    "language": "Go",
+    "star": "110"
+  },
+  {
+    "title": "newbee-ltd/newbee-mall",
+    "url": "https://github.com/newbee-ltd/newbee-mall",
+    "description": "newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。",
+    "language": "Java",
+    "star": "144"
+  },
+  {
+    "title": "kelseyhightower/nocode",
+    "url": "https://github.com/kelseyhightower/nocode",
+    "description": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+    "language": "Dockerfile",
+    "star": "710"
+  },
+  {
+    "title": "skriegman/reconfigurable_organisms",
+    "url": "https://github.com/skriegman/reconfigurable_organisms",
+    "description": "",
+    "language": "C++",
+    "star": "95"
+  },
+  {
+    "title": "xamarin/MobileBlazorBindings",
+    "url": "https://github.com/xamarin/MobileBlazorBindings",
+    "description": "Experimental Mobile Blazor Bindings - Build native mobile apps with Blazor",
+    "language": "C#",
+    "star": "49"
+  },
+  {
+    "title": "0xZ0F/Z0FCourse_ReverseEngineering",
+    "url": "https://github.com/0xZ0F/Z0FCourse_ReverseEngineering",
+    "description": "Reverse engineering course by Z0F. Focuses on x64 Windows.",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The largest Node.js best practices list (December 2019)",
+    "language": "JavaScript",
+    "star": "92"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization",
+    "language": "Python",
+    "star": "262"
+  },
+  {
+    "title": "web-platform-tests/wpt",
+    "url": "https://github.com/web-platform-tests/wpt",
+    "description": "Test suites for Web platform specs — including WHATWG, W3C, and others",
+    "language": "HTML",
+    "star": "12"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Python",
+    "star": "294"
+  },
+  {
+    "title": "atlassian/react-beautiful-dnd",
+    "url": "https://github.com/atlassian/react-beautiful-dnd",
+    "description": "Beautiful and accessible drag and drop for lists with React",
+    "language": "JavaScript",
+    "star": "70"
+  },
+  {
+    "title": "axa-group/Parsr",
+    "url": "https://github.com/axa-group/Parsr",
+    "description": "Transforms PDF, Documents and Images into Enriched Structured Data",
+    "language": "TypeScript",
+    "star": "341"
+  },
+  {
+    "title": "cisagov/check-cve-2019-19781",
+    "url": "https://github.com/cisagov/check-cve-2019-19781",
+    "description": "Test a host for susceptibility to CVE-2019-19781",
+    "language": "Python",
+    "star": "9"
+  },
+  {
+    "title": "facebookresearch/wav2letter",
+    "url": "https://github.com/facebookresearch/wav2letter",
+    "description": "Facebook AI Research's Automatic Speech Recognition Toolkit",
+    "language": "C++",
+    "star": "102"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "description": "AWS SDK for the Go programming language.",
+    "language": "Go",
+    "star": "7"
+  },
+  {
+    "title": "gogf/gf",
+    "url": "https://github.com/gogf/gf",
+    "description": "GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configu…",
+    "language": "Go",
+    "star": "104"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "yuanming-hu/difftaichi",
+    "url": "https://github.com/yuanming-hu/difftaichi",
+    "description": "10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)",
+    "language": "none",
+    "star": "84"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "85"
+  },
+  {
+    "title": "dmlc/dgl",
+    "url": "https://github.com/dmlc/dgl",
+    "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "Spikeysanju/ZoomRecylerLayout",
+    "url": "https://github.com/Spikeysanju/ZoomRecylerLayout",
+    "description": "Zoom Recycler Layout Manager For Android Kotlin",
+    "language": "Kotlin",
+    "star": "43"
+  }
+]

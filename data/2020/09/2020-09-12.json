@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "language": "C++",
+    "star": "108"
+  },
+  {
+    "title": "CleverProgrammers/react-challenge-amazon-clone",
+    "url": "https://github.com/CleverProgrammers/react-challenge-amazon-clone",
+    "description": "",
+    "language": "JavaScript",
+    "star": "87"
+  },
+  {
+    "title": "RadarCOVID/radar-covid-android",
+    "url": "https://github.com/RadarCOVID/radar-covid-android",
+    "description": "Native Android app using DP^3T Android sdk to handle Exposure Notifications API from Google",
+    "language": "Kotlin",
+    "star": "51"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "description": "The Intuitive Vue Framework",
+    "language": "JavaScript",
+    "star": "129"
+  },
+  {
+    "title": "RadarCOVID/radar-covid-ios",
+    "url": "https://github.com/RadarCOVID/radar-covid-ios",
+    "description": "Native iOS app using DP^3T iOS sdk to handle Exposure Notification framework from Apple",
+    "language": "Swift",
+    "star": "29"
+  },
+  {
+    "title": "project-chip/connectedhomeip",
+    "url": "https://github.com/project-chip/connectedhomeip",
+    "description": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.",
+    "language": "C++",
+    "star": "121"
+  },
+  {
+    "title": "RadarCOVID/radar-covid-backend-verification-server",
+    "url": "https://github.com/RadarCOVID/radar-covid-backend-verification-server",
+    "description": "Radar COVID Verification Service",
+    "language": "Java",
+    "star": "17"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "language": "Python",
+    "star": "141"
+  },
+  {
+    "title": "tradytics/eiten",
+    "url": "https://github.com/tradytics/eiten",
+    "description": "Statistical and Algorithmic Investing Strategies for Everyone",
+    "language": "Python",
+    "star": "275"
+  },
+  {
+    "title": "RadarCOVID/radar-covid-backend-dp3t-server",
+    "url": "https://github.com/RadarCOVID/radar-covid-backend-dp3t-server",
+    "description": "DP^3T Radar COVID fork",
+    "language": "Java",
+    "star": "17"
+  },
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "description": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "language": "C",
+    "star": "356"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "320"
+  },
+  {
+    "title": "sindresorhus/awesome-nodejs",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "description": "⚡ Delightful Node.js packages and resources",
+    "language": "none",
+    "star": "196"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "description": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "language": "Vue",
+    "star": "158"
+  },
+  {
+    "title": "Maoni0/mem-doc",
+    "url": "https://github.com/Maoni0/mem-doc",
+    "description": "This is a document to help with .NET memory analysis and diagnostics.",
+    "language": "none",
+    "star": "55"
+  },
+  {
+    "title": "satansdeer/minecraft-react",
+    "url": "https://github.com/satansdeer/minecraft-react",
+    "description": "",
+    "language": "JavaScript",
+    "star": "51"
+  },
+  {
+    "title": "IAmStoxe/wirehole",
+    "url": "https://github.com/IAmStoxe/wirehole",
+    "description": "Wirehole is a combination of WireGuard, Pihole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pihole, and DNS caching, additional privacy options, and upstream providers via Unbound.",
+    "language": "none",
+    "star": "73"
+  },
+  {
+    "title": "bigfangfang/IBMVPS",
+    "url": "https://github.com/bigfangfang/IBMVPS",
+    "description": "大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang",
+    "language": "Batchfile",
+    "star": "93"
+  },
+  {
+    "title": "microsoft/FluidFramework",
+    "url": "https://github.com/microsoft/FluidFramework",
+    "description": "Library for building distributed, real-time collaborative web applications",
+    "language": "TypeScript",
+    "star": "289"
+  },
+  {
+    "title": "amitness/learning",
+    "url": "https://github.com/amitness/learning",
+    "description": "Becoming 1% better at data science everyday",
+    "language": "none",
+    "star": "103"
+  },
+  {
+    "title": "prometheus-community/helm-charts",
+    "url": "https://github.com/prometheus-community/helm-charts",
+    "description": "Prometheus community Helm charts",
+    "language": "HTML",
+    "star": "25"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "234"
+  },
+  {
+    "title": "bclswl0827/v2ray-heroku",
+    "url": "https://github.com/bclswl0827/v2ray-heroku",
+    "description": "用于在 Heroku 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。",
+    "language": "Shell",
+    "star": "31"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "description": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.",
+    "language": "none",
+    "star": "112"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "One framework. Mobile & desktop.",
+    "language": "TypeScript",
+    "star": "94"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "language": "Python",
+    "star": "186"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "55"
+  },
+  {
+    "title": "corona-warn-app/cwa-app-android",
+    "url": "https://github.com/corona-warn-app/cwa-app-android",
+    "description": "Native Android app using the Apple/Google exposure notification API.",
+    "language": "Kotlin",
+    "star": "62"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "JavaScript",
+    "star": "194"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "description": "GPT-3: Language Models are Few-Shot Learners",
+    "language": "none",
+    "star": "80"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "description": "Build machine learning APIs",
+    "language": "Go",
+    "star": "128"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "68"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "description": "Backend implementation for the Apple/Google exposure notification API.",
+    "language": "Java",
+    "star": "33"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.",
+    "language": "C++",
+    "star": "27"
+  },
+  {
+    "title": "subnub/myDrive",
+    "url": "https://github.com/subnub/myDrive",
+    "description": "Node.js and mongoDB Google Drive Clone",
+    "language": "JavaScript",
+    "star": "142"
+  },
+  {
+    "title": "mikeslattery/tunic",
+    "url": "https://github.com/mikeslattery/tunic",
+    "description": "Install Linux from a running Windows system, without need for a live USB.",
+    "language": "PowerShell",
+    "star": "98"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 8000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "345"
+  },
+  {
+    "title": "nzw9314/QuantumultX",
+    "url": "https://github.com/nzw9314/QuantumultX",
+    "description": "QuantumultX",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "253"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "325"
+  },
+  {
+    "title": "bradtraversy/devconnector_2.0",
+    "url": "https://github.com/bradtraversy/devconnector_2.0",
+    "description": "Social network for developers, built on the MERN stack",
+    "language": "JavaScript",
+    "star": "19"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "language": "Python",
+    "star": "91"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "description": "⏬ Dumb downloader that scrapes the web",
+    "language": "Python",
+    "star": "133"
+  },
+  {
+    "title": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "language": "Lua",
+    "star": "41"
+  },
+  {
+    "title": "open-wa/wa-automate-nodejs",
+    "url": "https://github.com/open-wa/wa-automate-nodejs",
+    "description": "💬 🤖 The most advanced NodeJS whatsapp library for chatbots with advanced features. Be sure to 🌟 this repository for updates!",
+    "language": "TypeScript",
+    "star": "45"
+  },
+  {
+    "title": "EONRaider/violent-python3",
+    "url": "https://github.com/EONRaider/violent-python3",
+    "description": "Source code for the book \"Violent Python\" by TJ O'Connor. The code has been fully converted to Python 3, reformatted to comply with PEP8 standards and refactored to eliminate dependency issues involving the implementation of deprecated libraries.",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "44"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "language": "Shell",
+    "star": "44"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "198"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "description": "Android terminal and Linux environment - packages repository.",
+    "language": "Shell",
+    "star": "22"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "description": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "zero-to-mastery/Keiko-Corp",
+    "url": "https://github.com/zero-to-mastery/Keiko-Corp",
+    "description": "HTML challenge for Hacktoberfest 2020",
+    "language": "HTML",
+    "star": "79"
+  },
+  {
+    "title": "digitalocean/hacktoberfest",
+    "url": "https://github.com/digitalocean/hacktoberfest",
+    "description": "Hacktoberfest - App to manage the annual open source challenge.",
+    "language": "Ruby",
+    "star": "155"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "description": "🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas",
+    "language": "Python",
+    "star": "238"
+  },
+  {
+    "title": "kentcdodds/react-hooks",
+    "url": "https://github.com/kentcdodds/react-hooks",
+    "description": "Learn React Hooks! 🎣 ⚛",
+    "language": "JavaScript",
+    "star": "297"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "description": "Unity Open Project #1: Action-adventure",
+    "language": "ShaderLab",
+    "star": "536"
+  },
+  {
+    "title": "rvizzz/rotate",
+    "url": "https://github.com/rvizzz/rotate",
+    "description": "Create recursive image rotation animations",
+    "language": "Python",
+    "star": "75"
+  },
+  {
+    "title": "kentcdodds/react-fundamentals",
+    "url": "https://github.com/kentcdodds/react-fundamentals",
+    "description": "Material for my React Fundamentals Workshop",
+    "language": "JavaScript",
+    "star": "407"
+  },
+  {
+    "title": "crweiner/hacktoberfest-swag-list",
+    "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+    "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.",
+    "language": "Ruby",
+    "star": "256"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "179"
+  },
+  {
+    "title": "NVlabs/imaginaire",
+    "url": "https://github.com/NVlabs/imaginaire",
+    "description": "NVIDIA PyTorch GAN library with distributed and mixed precision support",
+    "language": "Python",
+    "star": "329"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "247"
+  },
+  {
+    "title": "sukritishah15/DS-Algo-Point",
+    "url": "https://github.com/sukritishah15/DS-Algo-Point",
+    "description": "This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala",
+    "language": "Java",
+    "star": "288"
+  },
+  {
+    "title": "FreeTubeApp/FreeTube",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "description": "An Open Source YouTube app for privacy",
+    "language": "JavaScript",
+    "star": "195"
+  },
+  {
+    "title": "OpenSouceCode/Hacktoberfest2020",
+    "url": "https://github.com/OpenSouceCode/Hacktoberfest2020",
+    "description": "Make your first Pull Request and earn a free tee from GitHub!",
+    "language": "HTML",
+    "star": "114"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "star": "137"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "814"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "376"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "description": "A small C compiler",
+    "language": "C",
+    "star": "837"
+  },
+  {
+    "title": "EssayKillerBrain/EssayKiller_V2",
+    "url": "https://github.com/EssayKillerBrain/EssayKiller_V2",
+    "description": "基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化",
+    "language": "Python",
+    "star": "280"
+  },
+  {
+    "title": "cortexproject/cortex",
+    "url": "https://github.com/cortexproject/cortex",
+    "description": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "language": "Go",
+    "star": "132"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "98"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "253"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "549"
+  }
+]

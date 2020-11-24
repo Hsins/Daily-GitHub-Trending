@@ -1,0 +1,177 @@
+[
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "description": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+    "language": "Java",
+    "star": "926"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "star": "517"
+  },
+  {
+    "title": "gskinnerTeam/flokk",
+    "url": "https://github.com/gskinnerTeam/flokk",
+    "description": "A fresh and modern Google Contacts manager that integrates with GitHub and Twitter.",
+    "language": "Dart",
+    "star": "69"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "14"
+  },
+  {
+    "title": "deep-learning-with-pytorch/dlwpt-code",
+    "url": "https://github.com/deep-learning-with-pytorch/dlwpt-code",
+    "description": "Code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann.",
+    "language": "Jupyter Notebook",
+    "star": "122"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.",
+    "language": "Rust",
+    "star": "325"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "description": "MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能",
+    "language": "Java",
+    "star": "29"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "description": "DeepFaceLab is the leading software for creating deepfakes.",
+    "language": "Python",
+    "star": "145"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "language": "Java",
+    "star": "63"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "15"
+  },
+  {
+    "title": "google/tsunami-security-scanner-plugins",
+    "url": "https://github.com/google/tsunami-security-scanner-plugins",
+    "description": "This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.",
+    "language": "Java",
+    "star": "95"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "description": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "language": "Python",
+    "star": "879"
+  },
+  {
+    "title": "google-research/torchsde",
+    "url": "https://github.com/google-research/torchsde",
+    "description": "Differentiable SDE solvers with GPU support and efficient sensitivity analysis.",
+    "language": "Python",
+    "star": "87"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "jbesomi/texthero",
+    "url": "https://github.com/jbesomi/texthero",
+    "description": "Text preprocessing, representation and visualization from zero to hero.",
+    "language": "Python",
+    "star": "175"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "142"
+  },
+  {
+    "title": "FiYHer/How-to-create-a-csgo-cheating-program",
+    "url": "https://github.com/FiYHer/How-to-create-a-csgo-cheating-program",
+    "description": "CSGO游戏透视自瞄辅助实现教程",
+    "language": "C++",
+    "star": "78"
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "description": "The adaptive interface system  for modern web experiences.",
+    "language": "TypeScript",
+    "star": "286"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "language": "none",
+    "star": "141"
+  },
+  {
+    "title": "aws/copilot-cli",
+    "url": "https://github.com/aws/copilot-cli",
+    "description": "The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on Amazon ECS and AWS Fargate.",
+    "language": "Go",
+    "star": "122"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "description": "📙 Amazon Web Services — a practical guide",
+    "language": "Shell",
+    "star": "39"
+  },
+  {
+    "title": "prestodb/presto",
+    "url": "https://github.com/prestodb/presto",
+    "description": "The official home of the Presto distributed SQL query engine for big data",
+    "language": "Java",
+    "star": "42"
+  },
+  {
+    "title": "matplotlib/cheatsheets",
+    "url": "https://github.com/matplotlib/cheatsheets",
+    "description": "Official Matplotlib cheat sheets",
+    "language": "Python",
+    "star": "191"
+  },
+  {
+    "title": "fbdesignpro/sweetviz",
+    "url": "https://github.com/fbdesignpro/sweetviz",
+    "description": "Visualize and compare datasets, target values and associations, with one line of code.",
+    "language": "Python",
+    "star": "85"
+  }
+]

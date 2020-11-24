@@ -1,0 +1,177 @@
+[
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "98"
+  },
+  {
+    "title": "Shawn-Shan/fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "description": "Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes",
+    "language": "Python",
+    "star": "136"
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "description": "Linux/OSX/FreeBSD resource monitor",
+    "language": "Python",
+    "star": "232"
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "language": "none",
+    "star": "116"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "language": "Objective-C",
+    "star": "60"
+  },
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "description": "How to systematically secure anything: a repository about security engineering",
+    "language": "none",
+    "star": "504"
+  },
+  {
+    "title": "KFCFans/PowerJob",
+    "url": "https://github.com/KFCFans/PowerJob",
+    "description": "新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！",
+    "language": "Java",
+    "star": "142"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "description": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "language": "C",
+    "star": "144"
+  },
+  {
+    "title": "Vladislav610/QA_bible",
+    "url": "https://github.com/Vladislav610/QA_bible",
+    "description": "Библия QA это 200++ страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.",
+    "language": "none",
+    "star": "37"
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "description": "Automated decryption tool",
+    "language": "Python",
+    "star": "429"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "description": "Questions to ask the company during your interview",
+    "language": "none",
+    "star": "138"
+  },
+  {
+    "title": "python-unsam/UNSAM_2020c2_Python",
+    "url": "https://github.com/python-unsam/UNSAM_2020c2_Python",
+    "description": "Curso de programación en Python - 2do cuatrimestre 2020 - UNSAM",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "274"
+  },
+  {
+    "title": "blackberry/pe_tree",
+    "url": "https://github.com/blackberry/pe_tree",
+    "description": "",
+    "language": "Python",
+    "star": "147"
+  },
+  {
+    "title": "gautamkrishnar/blog-post-workflow",
+    "url": "https://github.com/gautamkrishnar/blog-post-workflow",
+    "description": "Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed",
+    "language": "JavaScript",
+    "star": "40"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "89"
+  },
+  {
+    "title": "liupan1890/xiaobaiyang",
+    "url": "https://github.com/liupan1890/xiaobaiyang",
+    "description": "",
+    "language": "none",
+    "star": "77"
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "description": "Source to app.diagrams.net",
+    "language": "JavaScript",
+    "star": "105"
+  },
+  {
+    "title": "PCrnjak/Faze4-Robotic-arm",
+    "url": "https://github.com/PCrnjak/Faze4-Robotic-arm",
+    "description": "All files for 6 axis robot arm with cycloidal gearboxes .",
+    "language": "C++",
+    "star": "17"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "star": "70"
+  },
+  {
+    "title": "ARMmbed/mbed-os",
+    "url": "https://github.com/ARMmbed/mbed-os",
+    "description": "Arm Mbed OS is a platform operating system designed for the internet of things",
+    "language": "C",
+    "star": "17"
+  },
+  {
+    "title": "chuzhixin/vue-admin-beautiful",
+    "url": "https://github.com/chuzhixin/vue-admin-beautiful",
+    "description": "🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been workin…",
+    "language": "Vue",
+    "star": "72"
+  },
+  {
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "description": "Universal dependency update tool that fits into your workflows.",
+    "language": "TypeScript",
+    "star": "87"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "description": "An iOS library to natively render After Effects vector animations",
+    "language": "Swift",
+    "star": "24"
+  },
+  {
+    "title": "aws-amplify/amplify-js",
+    "url": "https://github.com/aws-amplify/amplify-js",
+    "description": "A declarative JavaScript library for application development using cloud services.",
+    "language": "TypeScript",
+    "star": "26"
+  }
+]

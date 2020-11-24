@@ -1,0 +1,177 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "191"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision.",
+    "language": "Jupyter Notebook",
+    "star": "658"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "Draft of the fastai book",
+    "language": "Jupyter Notebook",
+    "star": "360"
+  },
+  {
+    "title": "spring-projects-experimental/spring-authorization-server",
+    "url": "https://github.com/spring-projects-experimental/spring-authorization-server",
+    "description": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
+    "language": "Java",
+    "star": "37"
+  },
+  {
+    "title": "facebook/ent",
+    "url": "https://github.com/facebook/ent",
+    "description": "An entity framework for Go",
+    "language": "Go",
+    "star": "291"
+  },
+  {
+    "title": "aws-amplify/amplify-flutter",
+    "url": "https://github.com/aws-amplify/amplify-flutter",
+    "description": "Amplify Framework provides a declarative and easy-to-use interface across different categories of cloud operations.",
+    "language": "Dart",
+    "star": "80"
+  },
+  {
+    "title": "MetaMask/metamask-extension",
+    "url": "https://github.com/MetaMask/metamask-extension",
+    "description": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+    "language": "JavaScript",
+    "star": "23"
+  },
+  {
+    "title": "DIYgod/RSSHub",
+    "url": "https://github.com/DIYgod/RSSHub",
+    "description": "🍰 Everything is RSSible",
+    "language": "JavaScript",
+    "star": "471"
+  },
+  {
+    "title": "khangich/machine-learning-interview",
+    "url": "https://github.com/khangich/machine-learning-interview",
+    "description": "Minimum Viable Study Plan for Machine Learning Interviews from FAAG, Snapchat, LinkedIn.",
+    "language": "none",
+    "star": "341"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "description": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
+    "language": "none",
+    "star": "190"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "description": "🌍 🌎 东半球最酷的学习项目 | 包括：1、我写的三十万字图解算法题典 2、100 张各语言思维导图 和 1000 本编程电子📚 3、100 篇大厂面经下载 | English version supported !!! 国人项目上榜不易，右上角助力一波 🚀🚀！干就对了，奥利给 ！💪💪💪",
+    "language": "Java",
+    "star": "1"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "589"
+  },
+  {
+    "title": "TkzcM/baiduwp",
+    "url": "https://github.com/TkzcM/baiduwp",
+    "description": "PanDownload Web, built with CloudFlare Workers",
+    "language": "JavaScript",
+    "star": "40"
+  },
+  {
+    "title": "6gk/fet.sh",
+    "url": "https://github.com/6gk/fet.sh",
+    "description": "a fetch written in posix shell without any external commands (linux only)",
+    "language": "Shell",
+    "star": "49"
+  },
+  {
+    "title": "dasautoooo/Parma",
+    "url": "https://github.com/dasautoooo/Parma",
+    "description": "A SwiftUI view for displaying Markdown with customizable appearances.",
+    "language": "Swift",
+    "star": "98"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "192"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "description": "Cut and paste your surroundings using AR",
+    "language": "TypeScript",
+    "star": "170"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "description": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "language": "Shell",
+    "star": "15"
+  },
+  {
+    "title": "jstime/jstime",
+    "url": "https://github.com/jstime/jstime",
+    "description": "another runtime",
+    "language": "Rust",
+    "star": "50"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "126"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "115"
+  },
+  {
+    "title": "wsvincent/awesome-django",
+    "url": "https://github.com/wsvincent/awesome-django",
+    "description": "A curated list of awesome things related to Django",
+    "language": "Makefile",
+    "star": "46"
+  },
+  {
+    "title": "new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database",
+    "url": "https://github.com/new-york-civil-liberties-union/NYPD-Misconduct-Complaint-Database",
+    "description": "This database is a record of NYPD misconduct complaints made by the public to the Civilian Complaint Review Board (CCRB).",
+    "language": "none",
+    "star": "41"
+  },
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "description": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+    "language": "Java",
+    "star": "60"
+  },
+  {
+    "title": "react-native-community/react-native-video",
+    "url": "https://github.com/react-native-community/react-native-video",
+    "description": "A <Video /> component for react-native",
+    "language": "Java",
+    "star": "21"
+  }
+]

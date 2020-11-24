@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/verona",
+    "url": "https://github.com/microsoft/verona",
+    "description": "Research programming language for concurrent ownership",
+    "language": "C++",
+    "star": "904"
+  },
+  {
+    "title": "google/trax",
+    "url": "https://github.com/google/trax",
+    "description": "Trax — your path to advanced deep learning",
+    "language": "Jupyter Notebook",
+    "star": "264"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization",
+    "language": "Python",
+    "star": "297"
+  },
+  {
+    "title": "lucidrains/reformer-pytorch",
+    "url": "https://github.com/lucidrains/reformer-pytorch",
+    "description": "Reformer, the efficient Transformer, implemented in Pytorch",
+    "language": "Python",
+    "star": "66"
+  },
+  {
+    "title": "actix/actix",
+    "url": "https://github.com/actix/actix",
+    "description": "Actor framework for Rust",
+    "language": "Rust",
+    "star": "75"
+  },
+  {
+    "title": "nurdism/neko",
+    "url": "https://github.com/nurdism/neko",
+    "description": "A self hosted virtual browser (rabb.it clone) that runs in docker.",
+    "language": "Go",
+    "star": "236"
+  },
+  {
+    "title": "JetBrains/JetBrainsMono",
+    "url": "https://github.com/JetBrains/JetBrainsMono",
+    "description": "JetBrains Mono – the free and open-source typeface for developers",
+    "language": "none",
+    "star": "840"
+  },
+  {
+    "title": "OpenMined/PySyft",
+    "url": "https://github.com/OpenMined/PySyft",
+    "description": "A library for encrypted, privacy preserving machine learning",
+    "language": "Python",
+    "star": "142"
+  },
+  {
+    "title": "microsoft/c9-python-getting-started",
+    "url": "https://github.com/microsoft/c9-python-getting-started",
+    "description": "Sample code for Channel 9 Python for Beginners course",
+    "language": "Python",
+    "star": "26"
+  },
+  {
+    "title": "fafhrd91/actix-web",
+    "url": "https://github.com/fafhrd91/actix-web",
+    "description": "Actix web is a small, pragmatic, and extremely fast rust web framework.",
+    "language": "Rust",
+    "star": "101"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "249"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "200"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "description": "Based on a true story",
+    "language": "JavaScript",
+    "star": "192"
+  },
+  {
+    "title": "codidact/core",
+    "url": "https://github.com/codidact/core",
+    "description": "The core Codidact Q&A software implementation",
+    "language": "C#",
+    "star": "31"
+  },
+  {
+    "title": "magenta/ddsp",
+    "url": "https://github.com/magenta/ddsp",
+    "description": "DDSP: Differentiable Digital Signal Processing",
+    "language": "Python",
+    "star": "179"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "201"
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "description": "Libra’s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.",
+    "language": "Rust",
+    "star": "54"
+  },
+  {
+    "title": "ionicfirebaseapp/getflutter",
+    "url": "https://github.com/ionicfirebaseapp/getflutter",
+    "description": "Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.",
+    "language": "Dart",
+    "star": "262"
+  },
+  {
+    "title": "kudelskisecurity/chainoffools",
+    "url": "https://github.com/kudelskisecurity/chainoffools",
+    "description": "A PoC for CVE-2020-0601",
+    "language": "Python",
+    "star": "74"
+  },
+  {
+    "title": "exercism/v3",
+    "url": "https://github.com/exercism/v3",
+    "description": "The work-in-progress project for developing v3 tracks",
+    "language": "JavaScript",
+    "star": "6"
+  },
+  {
+    "title": "ollypwn/CVE-2020-0601",
+    "url": "https://github.com/ollypwn/CVE-2020-0601",
+    "description": "PoC for CVE-2020-0601",
+    "language": "Ruby",
+    "star": "226"
+  },
+  {
+    "title": "phodal/migration",
+    "url": "https://github.com/phodal/migration",
+    "description": "《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护",
+    "language": "Java",
+    "star": "84"
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "description": "Build blazing fast, modern apps and websites with React",
+    "language": "JavaScript",
+    "star": "64"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "description": "🔥 Firebase plugins for Flutter apps",
+    "language": "Dart",
+    "star": "16"
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "language": "C++",
+    "star": "6"
+  }
+]

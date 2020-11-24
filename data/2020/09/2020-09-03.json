@@ -1,0 +1,177 @@
+[
+  {
+    "title": "htop-dev/htop",
+    "url": "https://github.com/htop-dev/htop",
+    "description": "htop - an interactive process viewer",
+    "language": "C",
+    "star": "484"
+  },
+  {
+    "title": "sushiswap/sushiswap",
+    "url": "https://github.com/sushiswap/sushiswap",
+    "description": "🍣 SushiSwap smart contracts",
+    "language": "Solidity",
+    "star": "83"
+  },
+  {
+    "title": "bottlerocket-os/bottlerocket",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "description": "An operating system designed for hosting containers",
+    "language": "Rust",
+    "star": "458"
+  },
+  {
+    "title": "go-gorm/gorm",
+    "url": "https://github.com/go-gorm/gorm",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "language": "Go",
+    "star": "147"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "300"
+  },
+  {
+    "title": "pypa/setuptools",
+    "url": "https://github.com/pypa/setuptools",
+    "description": "Official project repository for the Setuptools build system",
+    "language": "Python",
+    "star": "24"
+  },
+  {
+    "title": "Azure/bicep",
+    "url": "https://github.com/Azure/bicep",
+    "description": "",
+    "language": "C#",
+    "star": "50"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "description": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.",
+    "language": "none",
+    "star": "290"
+  },
+  {
+    "title": "cleardusk/3DDFA_V2",
+    "url": "https://github.com/cleardusk/3DDFA_V2",
+    "description": "The official PyTorch implementation of Towards Fast, Accurate and Stable 3D Dense Face Alignment, ECCV, 2020",
+    "language": "Python",
+    "star": "115"
+  },
+  {
+    "title": "abhivaikar/howtheytest",
+    "url": "https://github.com/abhivaikar/howtheytest",
+    "description": "A collection of public resources about how software companies test their software",
+    "language": "HTML",
+    "star": "103"
+  },
+  {
+    "title": "shubheksha/companies-sponsoring-visas",
+    "url": "https://github.com/shubheksha/companies-sponsoring-visas",
+    "description": "A list of companies that sponsor employees from other countries.",
+    "language": "none",
+    "star": "75"
+  },
+  {
+    "title": "h2pl/Java-Tutorial",
+    "url": "https://github.com/h2pl/Java-Tutorial",
+    "description": "【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！",
+    "language": "Java",
+    "star": "169"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "none",
+    "star": "592"
+  },
+  {
+    "title": "portainer/portainer",
+    "url": "https://github.com/portainer/portainer",
+    "description": "Making Docker management easy.",
+    "language": "JavaScript",
+    "star": "151"
+  },
+  {
+    "title": "THLfi/koronavilkku-android",
+    "url": "https://github.com/THLfi/koronavilkku-android",
+    "description": "",
+    "language": "Kotlin",
+    "star": "26"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "description": "To Be Top Javaer - Java工程师成神之路",
+    "language": "Java",
+    "star": "51"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "130"
+  },
+  {
+    "title": "OSGeo/gdal",
+    "url": "https://github.com/OSGeo/gdal",
+    "description": "GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.",
+    "language": "C++",
+    "star": "13"
+  },
+  {
+    "title": "ruby/ruby",
+    "url": "https://github.com/ruby/ruby",
+    "description": "The Ruby Programming Language [mirror]",
+    "language": "Ruby",
+    "star": "22"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "108"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "12"
+  },
+  {
+    "title": "maratonadev-br/desafio-6-2020",
+    "url": "https://github.com/maratonadev-br/desafio-6-2020",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "10"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "description": "12306智能刷票，订票",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "184"
+  },
+  {
+    "title": "justmarkham/scikit-learn-tips",
+    "url": "https://github.com/justmarkham/scikit-learn-tips",
+    "description": "🤖⚡ Daily scikit-learn tips",
+    "language": "Jupyter Notebook",
+    "star": "24"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "star": "796"
+  },
+  {
+    "title": "senguptaumd/Background-Matting",
+    "url": "https://github.com/senguptaumd/Background-Matting",
+    "description": "Background Matting: The World is Your Green Screen",
+    "language": "Python",
+    "star": "333"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "description": "immudb is lightweight, high-speed immutable database for systems and applications",
+    "language": "Go",
+    "star": "172"
+  },
+  {
+    "title": "Pryaxis/TShock",
+    "url": "https://github.com/Pryaxis/TShock",
+    "description": "☕️⚡️TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools.",
+    "language": "C#",
+    "star": "55"
+  },
+  {
+    "title": "facebookexperimental/Recoil",
+    "url": "https://github.com/facebookexperimental/Recoil",
+    "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
+    "language": "JavaScript",
+    "star": "440"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "description": "🤗 nlp: datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "description": "手写实现李航《统计学习方法》书中全部算法",
+    "language": "Python",
+    "star": "197"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "language": "Python",
+    "star": "197"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "578"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "star": "34"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "349"
+  },
+  {
+    "title": "fengdu78/Coursera-ML-AndrewNg-Notes",
+    "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+    "description": "吴恩达老师的机器学习课程个人笔记",
+    "language": "HTML",
+    "star": "79"
+  },
+  {
+    "title": "extrawurst/gitui",
+    "url": "https://github.com/extrawurst/gitui",
+    "description": "blazing fast terminal-ui for git written in rust",
+    "language": "Rust",
+    "star": "87"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "282"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "description": "All Algorithms implemented in C",
+    "language": "C",
+    "star": "155"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "All Algorithms implemented in C++",
+    "language": "C++",
+    "star": "203"
+  },
+  {
+    "title": "bjmashibing/InternetArchitect",
+    "url": "https://github.com/bjmashibing/InternetArchitect",
+    "description": "年薪百万互联网架构师课程文档及源码(公开部分)",
+    "language": "Java",
+    "star": "86"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "language": "Python",
+    "star": "170"
+  },
+  {
+    "title": "jaakkopasanen/AutoEq",
+    "url": "https://github.com/jaakkopasanen/AutoEq",
+    "description": "Automatic headphone equalization from frequency responses",
+    "language": "Jupyter Notebook",
+    "star": "38"
+  },
+  {
+    "title": "Trojan-Qt5/Trojan-Qt5",
+    "url": "https://github.com/Trojan-Qt5/Trojan-Qt5",
+    "description": "A cross-platform ss/ssr/vmess/trojan GUI client based on Shadowsocks-qt. 有问题请加tg群反馈",
+    "language": "C++",
+    "star": "26"
+  },
+  {
+    "title": "TheEconomist/covid-19-excess-deaths-tracker",
+    "url": "https://github.com/TheEconomist/covid-19-excess-deaths-tracker",
+    "description": "Source code and data for The Economist's covid-19 excess deaths tracker",
+    "language": "R",
+    "star": "16"
+  },
+  {
+    "title": "buger/jsonparser",
+    "url": "https://github.com/buger/jsonparser",
+    "description": "Alternative JSON parser for Go that does not require schema (so far fastest)",
+    "language": "Go",
+    "star": "87"
+  },
+  {
+    "title": "mrc-ide/covid-sim",
+    "url": "https://github.com/mrc-ide/covid-sim",
+    "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
+    "language": "C++",
+    "star": "43"
+  },
+  {
+    "title": "gregsramblings/google-cloud-4-words",
+    "url": "https://github.com/gregsramblings/google-cloud-4-words",
+    "description": "The Google Cloud Developer's Cheat Sheet",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "qinguoyi/TinyWebServer",
+    "url": "https://github.com/qinguoyi/TinyWebServer",
+    "description": "🔥 Linux下C++轻量级Web服务器",
+    "language": "C++",
+    "star": "49"
+  }
+]

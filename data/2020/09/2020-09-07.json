@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CCChieh/IBMYes",
+    "url": "https://github.com/CCChieh/IBMYes",
+    "description": "",
+    "language": "Batchfile",
+    "star": "182"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "language": "JavaScript",
+    "star": "108"
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "description": "PanDownload的个人维护版本",
+    "language": "HTML",
+    "star": "191"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "description": "Sogou framework for C++ backend development.",
+    "language": "C++",
+    "star": "203"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "description": "👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io",
+    "language": "Vue",
+    "star": "368"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "538"
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "description": "Automatically decode encryptions without a key, decode encodings, and crack hashes",
+    "language": "Python",
+    "star": "206"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "star": "73"
+  },
+  {
+    "title": "alirezamika/autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "language": "Python",
+    "star": "511"
+  },
+  {
+    "title": "LetsUpgrade/Python-Essentials",
+    "url": "https://github.com/LetsUpgrade/Python-Essentials",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "94"
+  },
+  {
+    "title": "learning-at-home/hivemind",
+    "url": "https://github.com/learning-at-home/hivemind",
+    "description": "Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.",
+    "language": "Python",
+    "star": "186"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "description": "Roadmap to becoming a data engineer in 2020",
+    "language": "none",
+    "star": "532"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "description": "A collection of various deep learning architectures, models, and tips",
+    "language": "Jupyter Notebook",
+    "star": "136"
+  },
+  {
+    "title": "openjdk/jdk",
+    "url": "https://github.com/openjdk/jdk",
+    "description": "JDK main-line development",
+    "language": "Java",
+    "star": "303"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "language": "Go",
+    "star": "482"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "description": "Deep Learning for humans",
+    "language": "Python",
+    "star": "137"
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "description": "Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:",
+    "language": "HTML",
+    "star": "174"
+  },
+  {
+    "title": "mhagiwara/100-nlp-papers",
+    "url": "https://github.com/mhagiwara/100-nlp-papers",
+    "description": "100 Must-Read NLP Papers",
+    "language": "none",
+    "star": "276"
+  },
+  {
+    "title": "kbrsh/moon",
+    "url": "https://github.com/kbrsh/moon",
+    "description": "🌙 The minimal & fast library for functional user interfaces",
+    "language": "JavaScript",
+    "star": "110"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "276"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "description": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓",
+    "language": "none",
+    "star": "285"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "language": "Rust",
+    "star": "57"
+  },
+  {
+    "title": "haskell/ghcide",
+    "url": "https://github.com/haskell/ghcide",
+    "description": "A library for building Haskell IDE tooling",
+    "language": "Haskell",
+    "star": "11"
+  },
+  {
+    "title": "NirantK/awesome-project-ideas",
+    "url": "https://github.com/NirantK/awesome-project-ideas",
+    "description": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",
+    "language": "none",
+    "star": "76"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "description": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "language": "Jupyter Notebook",
+    "star": "87"
+  }
+]

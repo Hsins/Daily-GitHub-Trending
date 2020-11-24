@@ -1,0 +1,177 @@
+[
+  {
+    "title": "yam-finance/yam-protocol",
+    "url": "https://github.com/yam-finance/yam-protocol",
+    "description": "A stablizing reserve currency protocol",
+    "language": "Solidity",
+    "star": "82"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "432"
+  },
+  {
+    "title": "google/go-github",
+    "url": "https://github.com/google/go-github",
+    "description": "Go library for accessing the GitHub API",
+    "language": "Go",
+    "star": "75"
+  },
+  {
+    "title": "nodejs/nodejs.dev",
+    "url": "https://github.com/nodejs/nodejs.dev",
+    "description": "A new Node.js resource built using Gatsby.js with React.js, TypeScript, Emotion, and Remark.",
+    "language": "TypeScript",
+    "star": "152"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision.",
+    "language": "Jupyter Notebook",
+    "star": "195"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "description": "The easiest way to automate your data",
+    "language": "Python",
+    "star": "216"
+  },
+  {
+    "title": "KwaiAppTeam/KOOM",
+    "url": "https://github.com/KwaiAppTeam/KOOM",
+    "description": "KOOM is an OOM killer on mobile platform by Kwai.",
+    "language": "Java",
+    "star": "129"
+  },
+  {
+    "title": "ksensehq/eventnative",
+    "url": "https://github.com/ksensehq/eventnative",
+    "description": "EventNative is an open-source data collection framework",
+    "language": "Go",
+    "star": "71"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "language": "Java",
+    "star": "172"
+  },
+  {
+    "title": "yuanguangxin/LeetCode",
+    "url": "https://github.com/yuanguangxin/LeetCode",
+    "description": "LeetCode刷题记录",
+    "language": "Java",
+    "star": "370"
+  },
+  {
+    "title": "halfmoonui/halfmoon",
+    "url": "https://github.com/halfmoonui/halfmoon",
+    "description": "Front-end framework with a built-in dark mode, designed for rapidly building beautiful dashboards and product pages.",
+    "language": "CSS",
+    "star": "149"
+  },
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "description": "The Servo Browser Engine",
+    "language": "Rust",
+    "star": "144"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "language": "TypeScript",
+    "star": "196"
+  },
+  {
+    "title": "unsplash/datasets",
+    "url": "https://github.com/unsplash/datasets",
+    "description": "🎁 2,000,000+ Unsplash images made available for research and machine learning",
+    "language": "Jupyter Notebook",
+    "star": "257"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "363"
+  },
+  {
+    "title": "xamarin/XamarinCommunityToolkit",
+    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+    "description": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
+    "language": "C#",
+    "star": "12"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "255"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Java",
+    "star": "212"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "202"
+  },
+  {
+    "title": "rossumur/espflix",
+    "url": "https://github.com/rossumur/espflix",
+    "description": "A free video streaming service that runs on a ESP32",
+    "language": "C",
+    "star": "33"
+  },
+  {
+    "title": "GeoSn0w/OpenJailbreak",
+    "url": "https://github.com/GeoSn0w/OpenJailbreak",
+    "description": "GeoSn0w's OpenJailbreak Project, an open-source iOS 11 to iOS 13 Jailbreak project & vault.",
+    "language": "C",
+    "star": "56"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "One framework. Mobile & desktop.",
+    "language": "TypeScript",
+    "star": "188"
+  },
+  {
+    "title": "iwestlin/gdshare",
+    "url": "https://github.com/iwestlin/gdshare",
+    "description": "",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "description": "📊 Path to a free self-taught education in Data Science!",
+    "language": "none",
+    "star": "208"
+  },
+  {
+    "title": "Snailclimb/awesome-java",
+    "url": "https://github.com/Snailclimb/awesome-java",
+    "description": "Collection of awesome Java project on Github(Github 上非常棒的 Java 开源项目集合).",
+    "language": "none",
+    "star": "48"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "Draft of the fastai book",
+    "language": "Jupyter Notebook",
+    "star": "321"
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision.",
+    "language": "Jupyter Notebook",
+    "star": "611"
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "description": "Vanced Installer",
+    "language": "Kotlin",
+    "star": "61"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "315"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "language": "TypeScript",
+    "star": "91"
+  },
+  {
+    "title": "benawad/lireddit",
+    "url": "https://github.com/benawad/lireddit",
+    "description": "",
+    "language": "TypeScript",
+    "star": "67"
+  },
+  {
+    "title": "dtolnay/cxx",
+    "url": "https://github.com/dtolnay/cxx",
+    "description": "Safe interop between Rust and C++",
+    "language": "Rust",
+    "star": "69"
+  },
+  {
+    "title": "Feynman687/Interviews",
+    "url": "https://github.com/Feynman687/Interviews",
+    "description": "",
+    "language": "none",
+    "star": "57"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "language": "Zig",
+    "star": "43"
+  },
+  {
+    "title": "spring-projects-experimental/spring-authorization-server",
+    "url": "https://github.com/spring-projects-experimental/spring-authorization-server",
+    "description": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
+    "language": "Java",
+    "star": "86"
+  },
+  {
+    "title": "felipefialho/awesome-made-by-brazilians",
+    "url": "https://github.com/felipefialho/awesome-made-by-brazilians",
+    "description": "🇧🇷 A collection of amazing open source projects built by brazilian developers",
+    "language": "none",
+    "star": "245"
+  },
+  {
+    "title": "AlternativeFFFF/Alt-F4",
+    "url": "https://github.com/AlternativeFFFF/Alt-F4",
+    "description": "Alternative Factorio Friday Fan Facts, also known as Alt-F4",
+    "language": "CSS",
+    "star": "28"
+  },
+  {
+    "title": "facebook/ent",
+    "url": "https://github.com/facebook/ent",
+    "description": "An entity framework for Go",
+    "language": "Go",
+    "star": "463"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "description": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
+    "language": "none",
+    "star": "280"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "233"
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "description": "The fastai deep learning library, plus lessons and tutorials",
+    "language": "Jupyter Notebook",
+    "star": "113"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "318"
+  },
+  {
+    "title": "knownsec/ksubdomain",
+    "url": "https://github.com/knownsec/ksubdomain",
+    "description": "无状态子域名爆破工具",
+    "language": "Go",
+    "star": "77"
+  },
+  {
+    "title": "microsoft/api-guidelines",
+    "url": "https://github.com/microsoft/api-guidelines",
+    "description": "Microsoft REST API Guidelines",
+    "language": "none",
+    "star": "54"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "39"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "354"
+  },
+  {
+    "title": "TensorSpeech/TensorFlowTTS",
+    "url": "https://github.com/TensorSpeech/TensorFlowTTS",
+    "description": "😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)",
+    "language": "Python",
+    "star": "60"
+  },
+  {
+    "title": "wsvincent/awesome-django",
+    "url": "https://github.com/wsvincent/awesome-django",
+    "description": "A curated list of awesome things related to Django",
+    "language": "Makefile",
+    "star": "105"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "description": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "language": "JavaScript",
+    "star": "68"
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "description": "A hyperparameter optimization framework",
+    "language": "Python",
+    "star": "36"
+  }
+]

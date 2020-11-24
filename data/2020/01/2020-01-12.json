@@ -1,0 +1,177 @@
+[
+  {
+    "title": "BLAKE3-team/BLAKE3",
+    "url": "https://github.com/BLAKE3-team/BLAKE3",
+    "description": "The BLAKE3 cryptographic hash function",
+    "language": "Rust",
+    "star": "238"
+  },
+  {
+    "title": "emeryberger/scalene",
+    "url": "https://github.com/emeryberger/scalene",
+    "description": "a high-performance, high-precision CPU and memory profiler for Python",
+    "language": "Python",
+    "star": "345"
+  },
+  {
+    "title": "Canop/broot",
+    "url": "https://github.com/Canop/broot",
+    "description": "A new way to see and navigate directory trees",
+    "language": "Rust",
+    "star": "501"
+  },
+  {
+    "title": "wesbos/awesome-uses",
+    "url": "https://github.com/wesbos/awesome-uses",
+    "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
+    "language": "JavaScript",
+    "star": "185"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Simple and elegant live chat software 🔥💬",
+    "language": "Ruby",
+    "star": "363"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal, and the original Windows console host - all in the same place!",
+    "language": "C++",
+    "star": "72"
+  },
+  {
+    "title": "Tencent/TencentOS-kernel",
+    "url": "https://github.com/Tencent/TencentOS-kernel",
+    "description": "腾讯针对云的场景研发的服务器操作系统",
+    "language": "C",
+    "star": "91"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Python",
+    "star": "65"
+  },
+  {
+    "title": "getredash/redash",
+    "url": "https://github.com/getredash/redash",
+    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "language": "JavaScript",
+    "star": "225"
+  },
+  {
+    "title": "brillout/awesome-react-components",
+    "url": "https://github.com/brillout/awesome-react-components",
+    "description": "Curated List of React Components & Libraries.",
+    "language": "none",
+    "star": "58"
+  },
+  {
+    "title": "Tencent/TencentOS-tiny",
+    "url": "https://github.com/Tencent/TencentOS-tiny",
+    "description": "腾讯物联网终端操作系统",
+    "language": "C",
+    "star": "40"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "158"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "113"
+  },
+  {
+    "title": "luruke/browser-2020",
+    "url": "https://github.com/luruke/browser-2020",
+    "description": "Things you can do with a browser in 2020 ☕️",
+    "language": "none",
+    "star": "177"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "star": "162"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "language": "JavaScript",
+    "star": "175"
+  },
+  {
+    "title": "porsager/postgres",
+    "url": "https://github.com/porsager/postgres",
+    "description": "Postgres.js - The Fastest full featured PostgreSQL client for Node.js",
+    "language": "JavaScript",
+    "star": "284"
+  },
+  {
+    "title": "paulhodel/jexcel",
+    "url": "https://github.com/paulhodel/jexcel",
+    "description": "jExcel is a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets compatible with Excel or any other spreadsheet software.",
+    "language": "JavaScript",
+    "star": "59"
+  },
+  {
+    "title": "rakyll/govalidate",
+    "url": "https://github.com/rakyll/govalidate",
+    "description": "Validates your Go installation and dependencies.",
+    "language": "Go",
+    "star": "34"
+  },
+  {
+    "title": "aspittel/coding-cheat-sheets",
+    "url": "https://github.com/aspittel/coding-cheat-sheets",
+    "description": "Various cheat sheets on CS stuff",
+    "language": "none",
+    "star": "128"
+  },
+  {
+    "title": "lubosson/jetbrain-activation-code",
+    "url": "https://github.com/lubosson/jetbrain-activation-code",
+    "description": "jetbrain software全家桶激活码activation code, including intellij idea，pycharm，datagrip, webstorm...",
+    "language": "none",
+    "star": "72"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "118"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "35"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "116"
+  },
+  {
+    "title": "antvis/L7",
+    "url": "https://github.com/antvis/L7",
+    "description": "🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL or AMap to render basemaps.",
+    "language": "TypeScript",
+    "star": "55"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "92"
+  },
+  {
+    "title": "cortexlabs/cortex",
+    "url": "https://github.com/cortexlabs/cortex",
+    "description": "Model serving infrastructure for developers",
+    "language": "Go",
+    "star": "121"
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "description": "Elegant transition library for iOS & tvOS",
+    "language": "Swift",
+    "star": "69"
+  },
+  {
+    "title": "Azure/bicep",
+    "url": "https://github.com/Azure/bicep",
+    "description": "",
+    "language": "C#",
+    "star": "19"
+  },
+  {
+    "title": "spawnfest/bakeware",
+    "url": "https://github.com/spawnfest/bakeware",
+    "description": "SpawnFest 2020 - Your description here..!",
+    "language": "C",
+    "star": "114"
+  },
+  {
+    "title": "epfml/ML_course",
+    "url": "https://github.com/epfml/ML_course",
+    "description": "EPFL Machine Learning Course, Fall 2019",
+    "language": "TeX",
+    "star": "33"
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "description": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋",
+    "language": "Python",
+    "star": "236"
+  },
+  {
+    "title": "microsoft/onefuzz",
+    "url": "https://github.com/microsoft/onefuzz",
+    "description": "A self-hosted Fuzzing-As-A-Service platform",
+    "language": "Rust",
+    "star": "269"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "language": "Swift",
+    "star": "92"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "language": "HTML",
+    "star": "144"
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "description": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "language": "TypeScript",
+    "star": "248"
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "description": "⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API",
+    "language": "JavaScript",
+    "star": "352"
+  },
+  {
+    "title": "material-shell/material-shell",
+    "url": "https://github.com/material-shell/material-shell",
+    "description": "A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.",
+    "language": "JavaScript",
+    "star": "280"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "star": "70"
+  },
+  {
+    "title": "alinebastos/vagas-junior-estagio",
+    "url": "https://github.com/alinebastos/vagas-junior-estagio",
+    "description": "Empresas que constantemente oferecem vagas para junior e estagiários",
+    "language": "none",
+    "star": "51"
+  },
+  {
+    "title": "gentilkiwi/mimikatz",
+    "url": "https://github.com/gentilkiwi/mimikatz",
+    "description": "A little tool to play with Windows security",
+    "language": "C",
+    "star": "44"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "description": "🎉 A Vue.js 3.0 UI Library",
+    "language": "Vue",
+    "star": "85"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "169"
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "description": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "language": "Python",
+    "star": "214"
+  },
+  {
+    "title": "lyhue1991/eat_pytorch_in_20_days",
+    "url": "https://github.com/lyhue1991/eat_pytorch_in_20_days",
+    "description": "Pytorch🍊🍉 is delicious, just eat it! 😋😋",
+    "language": "Python",
+    "star": "78"
+  },
+  {
+    "title": "sdushantha/tmpmail",
+    "url": "https://github.com/sdushantha/tmpmail",
+    "description": "✉️ A temporary email right from your terminal",
+    "language": "Shell",
+    "star": "137"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "star": "113"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "122"
+  },
+  {
+    "title": "matterport/Mask_RCNN",
+    "url": "https://github.com/matterport/Mask_RCNN",
+    "description": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+    "language": "Python",
+    "star": "43"
+  }
+]

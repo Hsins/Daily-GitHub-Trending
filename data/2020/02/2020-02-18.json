@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Merkie/freespeech",
+    "url": "https://github.com/Merkie/freespeech",
+    "description": "A free program designed to help the non-verbal.",
+    "language": "Vue",
+    "star": "71"
+  },
+  {
+    "title": "jackzhenguo/python-small-examples",
+    "url": "https://github.com/jackzhenguo/python-small-examples",
+    "description": "Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。",
+    "language": "Python",
+    "star": "242"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "406"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "star": "85"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "158"
+  },
+  {
+    "title": "enaqx/awesome-pentest",
+    "url": "https://github.com/enaqx/awesome-pentest",
+    "description": "A collection of awesome penetration testing resources, tools and other shiny things",
+    "language": "none",
+    "star": "55"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "language": "JavaScript",
+    "star": "107"
+  },
+  {
+    "title": "tastejs/todomvc",
+    "url": "https://github.com/tastejs/todomvc",
+    "description": "Helping you select an MV* framework - Todo apps for React.js, Ember.js, Angular, and many more",
+    "language": "JavaScript",
+    "star": "33"
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "language": "Jupyter Notebook",
+    "star": "100"
+  },
+  {
+    "title": "tychxn/jd-assistant",
+    "url": "https://github.com/tychxn/jd-assistant",
+    "description": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+    "language": "Python",
+    "star": "50"
+  },
+  {
+    "title": "Pratitya/wuhan2020-timeline",
+    "url": "https://github.com/Pratitya/wuhan2020-timeline",
+    "description": "记录自2019年12月起武汉新冠肺炎疫情进展的时间线。",
+    "language": "none",
+    "star": "36"
+  },
+  {
+    "title": "pwn20wndstuff/Undecimus",
+    "url": "https://github.com/pwn20wndstuff/Undecimus",
+    "description": "unc0ver jailbreak for iOS 11.0 - 12.4",
+    "language": "C",
+    "star": "27"
+  },
+  {
+    "title": "Lienol/openwrt",
+    "url": "https://github.com/Lienol/openwrt",
+    "description": "Lienol's Modified OpenWrt source",
+    "language": "C",
+    "star": "28"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "description": "Connect, secure, control, and observe services.",
+    "language": "Go",
+    "star": "35"
+  },
+  {
+    "title": "inorichi/tachiyomi",
+    "url": "https://github.com/inorichi/tachiyomi",
+    "description": "Free and open source manga reader for Android",
+    "language": "Kotlin",
+    "star": "33"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "609"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "star": "83"
+  },
+  {
+    "title": "snooppr/snoop",
+    "url": "https://github.com/snooppr/snoop",
+    "description": "Snoop — инструмент разведки на основе открытых данных",
+    "language": "Python",
+    "star": "117"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "45"
+  },
+  {
+    "title": "daliansky/Hackintosh",
+    "url": "https://github.com/daliansky/Hackintosh",
+    "description": "Hackintosh long-term maintenance model EFI and installation tutorial",
+    "language": "Shell",
+    "star": "38"
+  },
+  {
+    "title": "dotnet/efcore",
+    "url": "https://github.com/dotnet/efcore",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+    "language": "C#",
+    "star": "16"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "31"
+  },
+  {
+    "title": "gabime/spdlog",
+    "url": "https://github.com/gabime/spdlog",
+    "description": "Fast C++ logging library.",
+    "language": "C++",
+    "star": "27"
+  }
+]

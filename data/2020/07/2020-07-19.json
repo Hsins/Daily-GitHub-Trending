@@ -1,0 +1,177 @@
+[
+  {
+    "title": "hashicorp/terraform-cdk",
+    "url": "https://github.com/hashicorp/terraform-cdk",
+    "description": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+    "language": "TypeScript",
+    "star": "102"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "222"
+  },
+  {
+    "title": "adobe/react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+    "language": "TypeScript",
+    "star": "282"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "description": "Public interface definitions of Google APIs.",
+    "language": "Starlark",
+    "star": "174"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "star": "98"
+  },
+  {
+    "title": "fireeye/capa",
+    "url": "https://github.com/fireeye/capa",
+    "description": "The FLARE team's open-source tool to identify capabilities in executable files.",
+    "language": "Python",
+    "star": "164"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "description": "GPT-3: Language Models are Few-Shot Learners",
+    "language": "none",
+    "star": "270"
+  },
+  {
+    "title": "myliang/x-spreadsheet",
+    "url": "https://github.com/myliang/x-spreadsheet",
+    "description": "A web-based JavaScript（canvas） spreadsheet",
+    "language": "JavaScript",
+    "star": "149"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome OCR toolkits based on PaddlePaddle （8.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices）",
+    "language": "C++",
+    "star": "247"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "98"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "description": "📝 An awesome Data Science repository to learn and apply for real world problems.",
+    "language": "none",
+    "star": "168"
+  },
+  {
+    "title": "francisrstokes/super-expressive",
+    "url": "https://github.com/francisrstokes/super-expressive",
+    "description": "🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language",
+    "language": "JavaScript",
+    "star": "534"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "language": "none",
+    "star": "352"
+  },
+  {
+    "title": "sleirsgoevy/ps4jb",
+    "url": "https://github.com/sleirsgoevy/ps4jb",
+    "description": "PS4 6.72 jailbreak",
+    "language": "JavaScript",
+    "star": "56"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "none",
+    "star": "544"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "198"
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "description": "🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+    "language": "Kotlin",
+    "star": "95"
+  },
+  {
+    "title": "Kong/kong",
+    "url": "https://github.com/Kong/kong",
+    "description": "🦍 The Cloud-Native API Gateway",
+    "language": "Lua",
+    "star": "47"
+  },
+  {
+    "title": "Harveysn0w/CTF_Hacker-Tools",
+    "url": "https://github.com/Harveysn0w/CTF_Hacker-Tools",
+    "description": "CTF-渗透测试~工具合集",
+    "language": "none",
+    "star": "28"
+  },
+  {
+    "title": "Vladislav610/QA_bible",
+    "url": "https://github.com/Vladislav610/QA_bible",
+    "description": "Библия QA это 163 страницы смеси ответов на вопросы с реальных собеседований на manual QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.",
+    "language": "none",
+    "star": "26"
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "language": "Python",
+    "star": "100"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "description": "Toturial coming with \"data science roadmap\" graphe.",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "lidangzzz/hedgehog-lab",
+    "url": "https://github.com/lidangzzz/hedgehog-lab",
+    "description": "An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "star": "247"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "language": "C++",
+    "star": "33"
+  }
+]

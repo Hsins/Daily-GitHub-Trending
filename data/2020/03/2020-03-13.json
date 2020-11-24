@@ -1,0 +1,177 @@
+[
+  {
+    "title": "bottlerocket-os/bottlerocket",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "description": "An operating system designed for hosting containers",
+    "language": "Rust",
+    "star": "557"
+  },
+  {
+    "title": "maxvoltar/photo-stream",
+    "url": "https://github.com/maxvoltar/photo-stream",
+    "description": "Self-hosted, super simple photo stream",
+    "language": "HTML",
+    "star": "229"
+  },
+  {
+    "title": "pcm-dpc/COVID-19",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "description": "COVID-19 Italia - Monitoraggio situazione",
+    "language": "none",
+    "star": "262"
+  },
+  {
+    "title": "redwoodjs/redwood",
+    "url": "https://github.com/redwoodjs/redwood",
+    "description": "Bringing full-stack to the JAMstack.",
+    "language": "JavaScript",
+    "star": "336"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "description": "Google Research",
+    "language": "Jupyter Notebook",
+    "star": "147"
+  },
+  {
+    "title": "tandasat/MiniVisorPkg",
+    "url": "https://github.com/tandasat/MiniVisorPkg",
+    "description": "The research UEFI hypervisor that supports booting an operating system.",
+    "language": "C",
+    "star": "24"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "783"
+  },
+  {
+    "title": "nndl/nndl.github.io",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "description": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+    "language": "HTML",
+    "star": "41"
+  },
+  {
+    "title": "meshtastic/Meshtastic-esp32",
+    "url": "https://github.com/meshtastic/Meshtastic-esp32",
+    "description": "Device code for the Meshtastic ski/hike/fly/Signal-chat GPS radio",
+    "language": "C++",
+    "star": "91"
+  },
+  {
+    "title": "google-research/electra",
+    "url": "https://github.com/google-research/electra",
+    "description": "ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators",
+    "language": "Python",
+    "star": "96"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "language": "Java",
+    "star": "185"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "star": "85"
+  },
+  {
+    "title": "EvgenyKashin/stylegan2-distillation",
+    "url": "https://github.com/EvgenyKashin/stylegan2-distillation",
+    "description": "",
+    "language": "none",
+    "star": "144"
+  },
+  {
+    "title": "mai-lang-chai/Middleware-Vulnerability-detection",
+    "url": "https://github.com/mai-lang-chai/Middleware-Vulnerability-detection",
+    "description": "CVE、CMS、中间件漏洞检测利用合集 Since 2019-9-15",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "MhdHejazi/CoronaTracker",
+    "url": "https://github.com/MhdHejazi/CoronaTracker",
+    "description": "Coronavirus tracker app for iOS & macOS with maps & charts",
+    "language": "Swift",
+    "star": "52"
+  },
+  {
+    "title": "taviso/avscript",
+    "url": "https://github.com/taviso/avscript",
+    "description": "Avast JavaScript Interactive Shell",
+    "language": "C",
+    "star": "87"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "140"
+  },
+  {
+    "title": "CTF-MissFeng/bayonet",
+    "url": "https://github.com/CTF-MissFeng/bayonet",
+    "description": "bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "PizzaPokerGuy/ultimate-coding-resources",
+    "url": "https://github.com/PizzaPokerGuy/ultimate-coding-resources",
+    "description": "A collection of the best resources for programming, web development, computer science and more.",
+    "language": "none",
+    "star": "217"
+  },
+  {
+    "title": "Tencent/DVQA",
+    "url": "https://github.com/Tencent/DVQA",
+    "description": "Deep learning-based Video Quality Assessment",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "emergenzeHack/covid19italia",
+    "url": "https://github.com/emergenzeHack/covid19italia",
+    "description": "Condividiamo informazioni e segnalazioni sul COVID19",
+    "language": "JavaScript",
+    "star": "6"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "112"
+  },
+  {
+    "title": "lemire/fast_double_parser",
+    "url": "https://github.com/lemire/fast_double_parser",
+    "description": "Fast function to parse strings into double (binary64) floating-point values",
+    "language": "C++",
+    "star": "30"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "description": "This repository was created and developed by Ammar Amer @cry__pto Only. Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "language": "PHP",
+    "star": "44"
+  }
+]

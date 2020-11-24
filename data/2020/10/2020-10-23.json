@@ -1,0 +1,177 @@
+[
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "description": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "tomer8007/widevine-l3-decryptor",
+    "url": "https://github.com/tomer8007/widevine-l3-decryptor",
+    "description": "A Chrome extension that demonstrates bypassing Widevine L3 DRM",
+    "language": "JavaScript",
+    "star": "134"
+  },
+  {
+    "title": "hyb1996/Auto.js",
+    "url": "https://github.com/hyb1996/Auto.js",
+    "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
+    "language": "Java",
+    "star": "95"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "language": "Python",
+    "star": "140"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "star": "87"
+  },
+  {
+    "title": "lxk0301/scripts",
+    "url": "https://github.com/lxk0301/scripts",
+    "description": "京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet",
+    "language": "JavaScript",
+    "star": "70"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "star": "125"
+  },
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "description": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/",
+    "language": "JavaScript",
+    "star": "34"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "bunkerity/bunkerized-nginx",
+    "url": "https://github.com/bunkerity/bunkerized-nginx",
+    "description": "nginx Docker image secure by default.",
+    "language": "Shell",
+    "star": "278"
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "description": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)",
+    "language": "none",
+    "star": "209"
+  },
+  {
+    "title": "JAVA-000/JAVA-000",
+    "url": "https://github.com/JAVA-000/JAVA-000",
+    "description": "",
+    "language": "none",
+    "star": "6"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "121"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "description": "Microsoft Azure PowerShell",
+    "language": "C#",
+    "star": "31"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "description": "Practical Python Programming (course by @dabeaz)",
+    "language": "Python",
+    "star": "150"
+  },
+  {
+    "title": "adamerose/pandasgui",
+    "url": "https://github.com/adamerose/pandasgui",
+    "description": "A GUI for Pandas DataFrames",
+    "language": "Python",
+    "star": "144"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "221"
+  },
+  {
+    "title": "ibireme/yyjson",
+    "url": "https://github.com/ibireme/yyjson",
+    "description": "The fastest JSON library in C",
+    "language": "C",
+    "star": "237"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "star": "348"
+  },
+  {
+    "title": "deislabs/akri",
+    "url": "https://github.com/deislabs/akri",
+    "description": "A Kubernetes Resource Interface for the Edge",
+    "language": "Rust",
+    "star": "70"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "description": "What the f*ck Python?",
+    "language": "Python",
+    "star": "210"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "JavaScript",
+    "star": "340"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "The fastai book, published as Jupyter Notebooks",
+    "language": "Jupyter Notebook",
+    "star": "73"
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "language": "JavaScript",
+    "star": "161"
+  },
+  {
+    "title": "liamg/gitjacker",
+    "url": "https://github.com/liamg/gitjacker",
+    "description": "🔪  Leak git repositories from misconfigured websites",
+    "language": "Go",
+    "star": "227"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "tomer8007/widevine-l3-decryptor",
+    "url": "https://github.com/tomer8007/widevine-l3-decryptor",
+    "description": "A Chrome extension that demonstrates bypassing Widevine L3 DRM",
+    "language": "JavaScript",
+    "star": "89"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "127"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "174"
+  },
+  {
+    "title": "fuzhengwei/itstack-demo-design",
+    "url": "https://github.com/fuzhengwei/itstack-demo-design",
+    "description": "《重学Java设计模式「22个互联网真实案例实战」》技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。",
+    "language": "Java",
+    "star": "188"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "language": "Python",
+    "star": "160"
+  },
+  {
+    "title": "JunzhouLiu/BILIBILI-HELPER",
+    "url": "https://github.com/JunzhouLiu/BILIBILI-HELPER",
+    "description": "利用GitHub Action定时任务实现B站，哔哩哔哩（Bilibili）每日自动投币，签到，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等。每天轻松获取65经验值。赶快和我一起成为Lv6吧！",
+    "language": "Java",
+    "star": "100"
+  },
+  {
+    "title": "crowdsecurity/crowdsec",
+    "url": "https://github.com/crowdsecurity/crowdsec",
+    "description": "Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.",
+    "language": "Go",
+    "star": "169"
+  },
+  {
+    "title": "dylanaraps/pure-sh-bible",
+    "url": "https://github.com/dylanaraps/pure-sh-bible",
+    "description": "📖 A collection of pure POSIX sh alternatives to external processes.",
+    "language": "Shell",
+    "star": "175"
+  },
+  {
+    "title": "fabio914/OculusQuestMixedRealityForiOS",
+    "url": "https://github.com/fabio914/OculusQuestMixedRealityForiOS",
+    "description": "Oculus Quest Mixed Reality app for iOS",
+    "language": "C",
+    "star": "40"
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "language": "JavaScript",
+    "star": "116"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "description": "Practical Python Programming (course by @dabeaz)",
+    "language": "Python",
+    "star": "199"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "star": "100"
+  },
+  {
+    "title": "liamg/gitjacker",
+    "url": "https://github.com/liamg/gitjacker",
+    "description": "🔪  Leak git repositories from misconfigured websites",
+    "language": "Go",
+    "star": "199"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "description": "A list of semi to fully remote-friendly companies in tech.",
+    "language": "JavaScript",
+    "star": "320"
+  },
+  {
+    "title": "woocommerce/woocommerce",
+    "url": "https://github.com/woocommerce/woocommerce",
+    "description": "An open source eCommerce plugin for WordPress.",
+    "language": "PHP",
+    "star": "30"
+  },
+  {
+    "title": "Embarcadero/Dev-Cpp",
+    "url": "https://github.com/Embarcadero/Dev-Cpp",
+    "description": "A fast, portable, simple, and free C/C++ IDE",
+    "language": "Pascal",
+    "star": "63"
+  },
+  {
+    "title": "alura-cursos/imersao-dados-2-2020",
+    "url": "https://github.com/alura-cursos/imersao-dados-2-2020",
+    "description": "",
+    "language": "none",
+    "star": "29"
+  },
+  {
+    "title": "harvic/CS-Learning-res",
+    "url": "https://github.com/harvic/CS-Learning-res",
+    "description": "汇总了43个方向的电子书、视频，共3T资源，包括入门、进阶、实战的所有内容，都是成系列的，入门的完美学习资源。",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "swow/swow",
+    "url": "https://github.com/swow/swow",
+    "description": "",
+    "language": "C",
+    "star": "26"
+  },
+  {
+    "title": "mlech26l/keras-ncp",
+    "url": "https://github.com/mlech26l/keras-ncp",
+    "description": "Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "description": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "language": "C#",
+    "star": "120"
+  },
+  {
+    "title": "changkun/modern-cpp-tutorial",
+    "url": "https://github.com/changkun/modern-cpp-tutorial",
+    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly",
+    "language": "C++",
+    "star": "165"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "description": "What the f*ck Python?",
+    "language": "Python",
+    "star": "64"
+  },
+  {
+    "title": "MicrosoftDocs/ml-basics",
+    "url": "https://github.com/MicrosoftDocs/ml-basics",
+    "description": "Exercise notebooks for Machine Learning modules on Microsoft Learn",
+    "language": "Jupyter Notebook",
+    "star": "86"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "JavaScript",
+    "star": "251"
+  }
+]

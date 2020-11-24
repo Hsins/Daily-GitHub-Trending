@@ -1,0 +1,177 @@
+[
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "description": "Practical Python Programming (course by @dabeaz)",
+    "language": "Python",
+    "star": "735"
+  },
+  {
+    "title": "go-vgo/robotgo",
+    "url": "https://github.com/go-vgo/robotgo",
+    "description": "RobotGo, Go Native cross-platform GUI automation @vcaesar",
+    "language": "C",
+    "star": "338"
+  },
+  {
+    "title": "shomali11/go-interview",
+    "url": "https://github.com/shomali11/go-interview",
+    "description": "Collection of Technical Interview Questions solved with Go",
+    "language": "Go",
+    "star": "445"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "description": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "language": "none",
+    "star": "146"
+  },
+  {
+    "title": "yemount/pose-animator",
+    "url": "https://github.com/yemount/pose-animator",
+    "description": "",
+    "language": "JavaScript",
+    "star": "349"
+  },
+  {
+    "title": "huangruiLearn/flutter_hrlweibo",
+    "url": "https://github.com/huangruiLearn/flutter_hrlweibo",
+    "description": "Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块",
+    "language": "Dart",
+    "star": "110"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "star": "414"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "description": "GPT-3: Language Models are Few-Shot Learners",
+    "language": "none",
+    "star": "524"
+  },
+  {
+    "title": "badtuxx/DescomplicandoKubernetes",
+    "url": "https://github.com/badtuxx/DescomplicandoKubernetes",
+    "description": "",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "tailwindui/vue",
+    "url": "https://github.com/tailwindui/vue",
+    "description": "",
+    "language": "JavaScript",
+    "star": "365"
+  },
+  {
+    "title": "joshiemoore/snakeware",
+    "url": "https://github.com/joshiemoore/snakeware",
+    "description": "A free Linux distro with a fully Python userspace",
+    "language": "Python",
+    "star": "132"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "59"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "description": "A modern data workflow platform",
+    "language": "Python",
+    "star": "96"
+  },
+  {
+    "title": "xi-editor/xi-editor",
+    "url": "https://github.com/xi-editor/xi-editor",
+    "description": "A modern editor with a backend written in Rust.",
+    "language": "Rust",
+    "star": "53"
+  },
+  {
+    "title": "LuNiZz/siber-guvenlik-sss",
+    "url": "https://github.com/LuNiZz/siber-guvenlik-sss",
+    "description": "SSS sorulari burada...",
+    "language": "none",
+    "star": "24"
+  },
+  {
+    "title": "corona-warn-app/cwa-website",
+    "url": "https://github.com/corona-warn-app/cwa-website",
+    "description": "Corona-Warn-App website",
+    "language": "CSS",
+    "star": "27"
+  },
+  {
+    "title": "microsoft/msquic",
+    "url": "https://github.com/microsoft/msquic",
+    "description": "Cross platform C implementation of the IETF QUIC protocol.",
+    "language": "C",
+    "star": "43"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "description": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "language": "Vue",
+    "star": "302"
+  },
+  {
+    "title": "swift-server/swift-aws-lambda-runtime",
+    "url": "https://github.com/swift-server/swift-aws-lambda-runtime",
+    "description": "Swift implementation of AWS Lambda Runtime",
+    "language": "Swift",
+    "star": "289"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "71"
+  },
+  {
+    "title": "vaexio/vaex",
+    "url": "https://github.com/vaexio/vaex",
+    "description": "Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀",
+    "language": "Python",
+    "star": "102"
+  },
+  {
+    "title": "derailed/k9s",
+    "url": "https://github.com/derailed/k9s",
+    "description": "🐶 Kubernetes CLI To Manage Your Clusters In Style!",
+    "language": "Go",
+    "star": "246"
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "description": "An interactive deep learning book with code, math, and discussions.",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "description": "🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+    "language": "Shell",
+    "star": "134"
+  }
+]

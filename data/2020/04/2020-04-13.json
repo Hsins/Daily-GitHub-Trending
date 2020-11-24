@@ -1,0 +1,177 @@
+[
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "vt-vl-lab/3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "description": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+    "language": "Python",
+    "star": "651"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp",
+    "language": "none",
+    "star": "253"
+  },
+  {
+    "title": "LAB-MI/deplacement-covid-19",
+    "url": "https://github.com/LAB-MI/deplacement-covid-19",
+    "description": "Service de génération de l'attestation de déplacement dérogatoire à présenter dans le cadre du confinement lié au virus covid-19",
+    "language": "HTML",
+    "star": "113"
+  },
+  {
+    "title": "bmild/nerf",
+    "url": "https://github.com/bmild/nerf",
+    "description": "Code release for NeRF (Neural Radiance Fields)",
+    "language": "Jupyter Notebook",
+    "star": "246"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "527"
+  },
+  {
+    "title": "slackhq/nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "language": "Go",
+    "star": "308"
+  },
+  {
+    "title": "opentrace-community/opentrace-ios",
+    "url": "https://github.com/opentrace-community/opentrace-ios",
+    "description": "OpenTrace iOS app. Reference implementation of the BlueTrace protocol.",
+    "language": "Swift",
+    "star": "119"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "102"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "61"
+  },
+  {
+    "title": "appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training",
+    "url": "https://github.com/appsecco/breaking-and-pwning-apps-and-servers-aws-azure-training",
+    "description": "Course content, lab setup instructions and documentation of our very popular Breaking and Pwning Apps and Servers on AWS and Azure hands on training!",
+    "language": "CSS",
+    "star": "262"
+  },
+  {
+    "title": "tripleblindmarket/covid-safe-paths",
+    "url": "https://github.com/tripleblindmarket/covid-safe-paths",
+    "description": "COVID Safe Paths (based on Private Kit) is an open and privacy preserving system to use personal information to battle COVID",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "github/covid19-dashboard",
+    "url": "https://github.com/github/covid19-dashboard",
+    "description": "A site that displays up to date COVID-19 stats, powered by fastpages.",
+    "language": "Jupyter Notebook",
+    "star": "57"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "ohmyzsh/ohmyzsh",
+    "url": "https://github.com/ohmyzsh/ohmyzsh",
+    "description": "🙃 A delightful community-driven (with 1500+ contributors) framework for managing your zsh configuration. Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+    "language": "Shell",
+    "star": "401"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "812"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "768"
+  },
+  {
+    "title": "ianramzy/decentralized-video-chat",
+    "url": "https://github.com/ianramzy/decentralized-video-chat",
+    "description": "🚀 Zipcall.io 🚀 Peer to peer browser video calling platform with unmatched video quality and latency.",
+    "language": "JavaScript",
+    "star": "270"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "830"
+  },
+  {
+    "title": "frk1/hazedumper",
+    "url": "https://github.com/frk1/hazedumper",
+    "description": "up to date csgo offsets and hazedumper config",
+    "language": "Visual Basic .NET",
+    "star": "6"
+  },
+  {
+    "title": "MichaelMure/git-bug",
+    "url": "https://github.com/MichaelMure/git-bug",
+    "description": "Distributed, offline-first bug tracker embedded in git, with bridges",
+    "language": "Go",
+    "star": "384"
+  },
+  {
+    "title": "xanasoft/Sandboxie",
+    "url": "https://github.com/xanasoft/Sandboxie",
+    "description": "Sandboxie - Open Source",
+    "language": "C",
+    "star": "199"
+  },
+  {
+    "title": "dlunion/DBFace",
+    "url": "https://github.com/dlunion/DBFace",
+    "description": "DBFace is a real-time, single-stage detector for face detection, with faster speed and higher accuracy",
+    "language": "Python",
+    "star": "193"
+  }
+]

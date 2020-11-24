@@ -1,0 +1,177 @@
+[
+  {
+    "title": "beyondcode/expose",
+    "url": "https://github.com/beyondcode/expose",
+    "description": "A beautiful, fully open-source, tunneling service - written in pure PHP",
+    "language": "PHP",
+    "star": "445"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "language": "Java",
+    "star": "185"
+  },
+  {
+    "title": "yemount/pose-animator",
+    "url": "https://github.com/yemount/pose-animator",
+    "description": "",
+    "language": "JavaScript",
+    "star": "114"
+  },
+  {
+    "title": "douyu/jupiter",
+    "url": "https://github.com/douyu/jupiter",
+    "description": "Jupiter是douyu开源的面向服务治理的Golang微服务框架",
+    "language": "Go",
+    "star": "71"
+  },
+  {
+    "title": "edp963/davinci",
+    "url": "https://github.com/edp963/davinci",
+    "description": "Davinci is a DVsaaS (Data Visualization as a Service) Platform",
+    "language": "TypeScript",
+    "star": "114"
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+    "language": "Python",
+    "star": "323"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Jupyter Notebook",
+    "star": "147"
+  },
+  {
+    "title": "greyireland/algorithm-pattern",
+    "url": "https://github.com/greyireland/algorithm-pattern",
+    "description": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+    "language": "Go",
+    "star": "865"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "description": "Practical Python Programming (course by @dabeaz)",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "description": "浙江大学课程攻略共享计划",
+    "language": "C",
+    "star": "33"
+  },
+  {
+    "title": "jackfrued/Python-Core-50-Courses",
+    "url": "https://github.com/jackfrued/Python-Core-50-Courses",
+    "description": "Python语言基础50课",
+    "language": "none",
+    "star": "122"
+  },
+  {
+    "title": "openai/image-gpt",
+    "url": "https://github.com/openai/image-gpt",
+    "description": "",
+    "language": "Python",
+    "star": "85"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "star": "311"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Java",
+    "star": "183"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "247"
+  },
+  {
+    "title": "zoom/zoom-e2e-whitepaper",
+    "url": "https://github.com/zoom/zoom-e2e-whitepaper",
+    "description": "End-to-End Encryption for Zoom Meetings",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "kubermatic/kubermatic",
+    "url": "https://github.com/kubermatic/kubermatic",
+    "description": "The Central Kubernetes Management Platform For Any Infrastructure",
+    "language": "Go",
+    "star": "56"
+  },
+  {
+    "title": "facebookresearch/detectron2",
+    "url": "https://github.com/facebookresearch/detectron2",
+    "description": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "kwsch/PKHeX",
+    "url": "https://github.com/kwsch/PKHeX",
+    "description": "Pokémon Save File Editor",
+    "language": "C#",
+    "star": "10"
+  },
+  {
+    "title": "qiniu/goplus",
+    "url": "https://github.com/qiniu/goplus",
+    "description": "GoPlus - The Go+ language for data science",
+    "language": "Go",
+    "star": "401"
+  },
+  {
+    "title": "CastagnaIT/plugin.video.netflix",
+    "url": "https://github.com/CastagnaIT/plugin.video.netflix",
+    "description": "InputStream based Netflix plugin for Kodi",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "Mixaill/awesome-gog-galaxy",
+    "url": "https://github.com/Mixaill/awesome-gog-galaxy",
+    "description": "A list of GOG Galaxy 2.0 integrations and upcoming features",
+    "language": "none",
+    "star": "31"
+  },
+  {
+    "title": "open-mmlab/OpenSelfSup",
+    "url": "https://github.com/open-mmlab/OpenSelfSup",
+    "description": "Self-Supervised Learning Toolbox and Benchmark",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "xuliangzhan/vxe-table",
+    "url": "https://github.com/xuliangzhan/vxe-table",
+    "description": "🐬 vxe-table vue 表格解决方案",
+    "language": "JavaScript",
+    "star": "36"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "star": "146"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "star": "56"
+  },
+  {
+    "title": "pcm-dpc/COVID-19",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "description": "COVID-19 Italia - Monitoraggio situazione",
+    "language": "none",
+    "star": "339"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "language": "Java",
+    "star": "131"
+  },
+  {
+    "title": "ajeetdsouza/zoxide",
+    "url": "https://github.com/ajeetdsouza/zoxide",
+    "description": "A fast cd command that learns your habits",
+    "language": "Rust",
+    "star": "156"
+  },
+  {
+    "title": "geektutu/7days-golang",
+    "url": "https://github.com/geektutu/7days-golang",
+    "description": "7 days golang apps from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM etc) 7天用Go动手写/从零实现系列",
+    "language": "Go",
+    "star": "186"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "62"
+  },
+  {
+    "title": "amusi/CVPR2020-Code",
+    "url": "https://github.com/amusi/CVPR2020-Code",
+    "description": "CVPR 2020 论文开源项目合集",
+    "language": "none",
+    "star": "126"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "639"
+  },
+  {
+    "title": "tensorflow/quantum",
+    "url": "https://github.com/tensorflow/quantum",
+    "description": "Hybrid Quantum-Classical Machine Learning in TensorFlow",
+    "language": "Python",
+    "star": "141"
+  },
+  {
+    "title": "SuprHackerSteve/Crescendo",
+    "url": "https://github.com/SuprHackerSteve/Crescendo",
+    "description": "Crescendo is a swift based, real time event viewer for macOS. It utilizes Apple's Endpoint Security Framework.",
+    "language": "Swift",
+    "star": "159"
+  },
+  {
+    "title": "PizzaPokerGuy/ultimate-coding-resources",
+    "url": "https://github.com/PizzaPokerGuy/ultimate-coding-resources",
+    "description": "A collection of the best resources for programming, web development, computer science and more.",
+    "language": "none",
+    "star": "231"
+  },
+  {
+    "title": "micheleg/dash-to-dock",
+    "url": "https://github.com/micheleg/dash-to-dock",
+    "description": "A dock for the Gnome Shell. This extension moves the dash out of the overview transforming it in a dock for an easier launching of applications and a faster switching between windows and desktops.",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "extreme-assistant/CVPR2020-Paper-Code-Interpretation",
+    "url": "https://github.com/extreme-assistant/CVPR2020-Paper-Code-Interpretation",
+    "description": "cvpr2020/cvpr2019／cvpr2018/cvpr2017 papers，极市团队整理",
+    "language": "none",
+    "star": "35"
+  },
+  {
+    "title": "taviso/avscript",
+    "url": "https://github.com/taviso/avscript",
+    "description": "Avast JavaScript Interactive Shell",
+    "language": "C",
+    "star": "167"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "JavaScript",
+    "star": "99"
+  },
+  {
+    "title": "Netflix-Skunkworks/riskquant",
+    "url": "https://github.com/Netflix-Skunkworks/riskquant",
+    "description": "",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "language": "Java",
+    "star": "196"
+  },
+  {
+    "title": "UniversalDataTool/universal-data-tool",
+    "url": "https://github.com/UniversalDataTool/universal-data-tool",
+    "description": "Collaborate & label any type of data, images, text, or documents, in an easy web interface or desktop app.",
+    "language": "JavaScript",
+    "star": "151"
+  },
+  {
+    "title": "subnub/myDrive",
+    "url": "https://github.com/subnub/myDrive",
+    "description": "Node.js and mongoDB Google Drive Clone",
+    "language": "JavaScript",
+    "star": "106"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家）",
+    "language": "JavaScript",
+    "star": "71"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "star": "115"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "description": "UniLM - Unified Language Model Pre-training",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "description": "Google Research",
+    "language": "Jupyter Notebook",
+    "star": "426"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "description": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines",
+    "language": "C++",
+    "star": "38"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "description": "【互联网一线大厂面试+学习指南】进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，作者风格幽默，看起来津津有味，把学习当做一种乐趣，何乐而不为，后端同学必看，前端同学我保证你也看得懂，看不懂你加我微信骂我渣男就好了。",
+    "language": "none",
+    "star": "254"
+  }
+]

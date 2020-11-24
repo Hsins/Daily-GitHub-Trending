@@ -1,0 +1,177 @@
+[
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "313"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "195"
+  },
+  {
+    "title": "dbanay/Smalltalk",
+    "url": "https://github.com/dbanay/Smalltalk",
+    "description": "By the Bluebook implementation of Smalltalk-80",
+    "language": "C",
+    "star": "144"
+  },
+  {
+    "title": "popcorn-official/popcorn-desktop",
+    "url": "https://github.com/popcorn-official/popcorn-desktop",
+    "description": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player. Desktop ( Windows / Mac / Linux ) a Butter-Project Fork",
+    "language": "JavaScript",
+    "star": "250"
+  },
+  {
+    "title": "immuni-app/immuni-app-ios",
+    "url": "https://github.com/immuni-app/immuni-app-ios",
+    "description": "Official repository for the iOS version of the immuni application",
+    "language": "Swift",
+    "star": "40"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "description": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "language": "C",
+    "star": "21"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "237"
+  },
+  {
+    "title": "KunMinX/Jetpack-MVVM-Best-Practice",
+    "url": "https://github.com/KunMinX/Jetpack-MVVM-Best-Practice",
+    "description": "是 难得一见 的 Jetpack MVVM 最佳实践！在 蕴繁于简 的代码中，对 视图控制器 乃至 标准化开发模式 形成正确、深入的理解！",
+    "language": "Java",
+    "star": "191"
+  },
+  {
+    "title": "expnkx/fast_io",
+    "url": "https://github.com/expnkx/fast_io",
+    "description": "fast_io is a C++ io exception-safe RAII library based on C++ 20 Concepts. It is at least 10 times faster than cstdio than iostream.",
+    "language": "C++",
+    "star": "112"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "336"
+  },
+  {
+    "title": "DenoBrazil/deno-forum",
+    "url": "https://github.com/DenoBrazil/deno-forum",
+    "description": "🦖 Fórum com o objetivo de centralizar discussões da comunidade de Deno",
+    "language": "none",
+    "star": "72"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "255"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "249"
+  },
+  {
+    "title": "mertJF/tailblocks",
+    "url": "https://github.com/mertJF/tailblocks",
+    "description": "🎉 Ready-to-use Tailwind CSS blocks.",
+    "language": "JavaScript",
+    "star": "281"
+  },
+  {
+    "title": "anandpawara/Real_Time_Image_Animation",
+    "url": "https://github.com/anandpawara/Real_Time_Image_Animation",
+    "description": "The Project is real time application in opencv using first order model",
+    "language": "Python",
+    "star": "327"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "297"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "none",
+    "star": "255"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "language": "C++",
+    "star": "122"
+  },
+  {
+    "title": "dair-ai/ml-visuals",
+    "url": "https://github.com/dair-ai/ml-visuals",
+    "description": "Visuals contains figures and templates which you can reuse and customize to improve your scientific writing.",
+    "language": "none",
+    "star": "132"
+  },
+  {
+    "title": "Xunzhuo/OI_Sharing",
+    "url": "https://github.com/Xunzhuo/OI_Sharing",
+    "description": "🔥Algorithm all in One：算法、数据结构的学习路线、教程、课件、论文、书籍、OJ网站、习题✈️。自学、竞赛、面试必备！持续更新中🎄让算法学习更加容易🎖为你的算法之旅提供便利🚗不管你算法能力如何❓这个仓库里总有适合你的算法指导🌍",
+    "language": "Roff",
+    "star": "81"
+  },
+  {
+    "title": "immuni-app/immuni-app-android",
+    "url": "https://github.com/immuni-app/immuni-app-android",
+    "description": "Official repository for the Android version of the immuni application",
+    "language": "Kotlin",
+    "star": "48"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "language": "Go",
+    "star": "93"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (May 2020)",
+    "language": "JavaScript",
+    "star": "229"
+  },
+  {
+    "title": "azure-rtos/threadx",
+    "url": "https://github.com/azure-rtos/threadx",
+    "description": "Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+    "language": "C",
+    "star": "69"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "language": "Java",
+    "star": "158"
+  }
+]

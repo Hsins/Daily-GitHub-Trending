@@ -1,0 +1,177 @@
+[
+  {
+    "title": "charmbracelet/glow",
+    "url": "https://github.com/charmbracelet/glow",
+    "description": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "description": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "language": "C#",
+    "star": "188"
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "language": "Python",
+    "star": "226"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "158"
+  },
+  {
+    "title": "romkatv/powerlevel10k",
+    "url": "https://github.com/romkatv/powerlevel10k",
+    "description": "A Zsh theme",
+    "language": "Shell",
+    "star": "67"
+  },
+  {
+    "title": "obheda12/GitDorker",
+    "url": "https://github.com/obheda12/GitDorker",
+    "description": "A Python program to scrape secrets from GitHub through usage of a large repository of dorks.",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "hashicorp/waypoint",
+    "url": "https://github.com/hashicorp/waypoint",
+    "description": "A tool to build, deploy, and release any application on any platform.",
+    "language": "Go",
+    "star": "647"
+  },
+  {
+    "title": "hashicorp/waypoint-examples",
+    "url": "https://github.com/hashicorp/waypoint-examples",
+    "description": "Example Apps that can be deployed with Waypoint",
+    "language": "PHP",
+    "star": "77"
+  },
+  {
+    "title": "stayawayinesctec/stayaway-app",
+    "url": "https://github.com/stayawayinesctec/stayaway-app",
+    "description": "Official repository for the STAYAWAY COVID mobile application",
+    "language": "JavaScript",
+    "star": "72"
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "description": "A list of semi to fully remote-friendly companies in tech.",
+    "language": "JavaScript",
+    "star": "491"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "description": "⚡️ Fiber is an Express inspired web framework written in Go with ☕️",
+    "language": "Go",
+    "star": "98"
+  },
+  {
+    "title": "rocketseat-education/nlw-03-omnistack",
+    "url": "https://github.com/rocketseat-education/nlw-03-omnistack",
+    "description": "Projeto construído durante o Next Level Week #03",
+    "language": "TypeScript",
+    "star": "216"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "language": "Assembly",
+    "star": "414"
+  },
+  {
+    "title": "juntang-zhuang/Adabelief-Optimizer",
+    "url": "https://github.com/juntang-zhuang/Adabelief-Optimizer",
+    "description": "Repository for NeurIPS 2020 Spotlight \"AdaBelief Optimizer: Adapting stepsizes by the belief in observed gradients\"",
+    "language": "Jupyter Notebook",
+    "star": "100"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "description": "iOS平台的分流规则、复写规则和一些自动化脚本。",
+    "language": "JavaScript",
+    "star": "57"
+  },
+  {
+    "title": "adamerose/pandasgui",
+    "url": "https://github.com/adamerose/pandasgui",
+    "description": "A GUI for Pandas DataFrames",
+    "language": "Python",
+    "star": "119"
+  },
+  {
+    "title": "checkly/headless-recorder",
+    "url": "https://github.com/checkly/headless-recorder",
+    "description": "Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.",
+    "language": "JavaScript",
+    "star": "520"
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "description": "Practical Python Programming (course by @dabeaz)",
+    "language": "Python",
+    "star": "122"
+  },
+  {
+    "title": "cloudflare-hiring/cloudflare-2020-general-engineering-assignment",
+    "url": "https://github.com/cloudflare-hiring/cloudflare-2020-general-engineering-assignment",
+    "description": "",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "fuzhengwei/itstack-demo-design",
+    "url": "https://github.com/fuzhengwei/itstack-demo-design",
+    "description": "《重学Java设计模式「22个互联网真实案例实战」》技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。",
+    "language": "Java",
+    "star": "79"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "94"
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "description": "Ansible for DevOps examples.",
+    "language": "Python",
+    "star": "83"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "language": "PHP",
+    "star": "47"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "163"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "CSS",
+    "star": "222"
+  }
+]

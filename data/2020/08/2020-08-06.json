@@ -1,0 +1,177 @@
+[
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "18"
+  },
+  {
+    "title": "stank58/Powershell-Scripts",
+    "url": "https://github.com/stank58/Powershell-Scripts",
+    "description": "Helpful list of powershell scripts I have found/created",
+    "language": "PowerShell",
+    "star": "31"
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "description": "Automated decryption tool",
+    "language": "Python",
+    "star": "525"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "344"
+  },
+  {
+    "title": "blackberry/pe_tree",
+    "url": "https://github.com/blackberry/pe_tree",
+    "description": "",
+    "language": "Python",
+    "star": "202"
+  },
+  {
+    "title": "austinhuang0131/instagrabber",
+    "url": "https://github.com/austinhuang0131/instagrabber",
+    "description": "InstaGrabber, the open-source Instagram client for Android. Originally by @AwaisKing.",
+    "language": "Java",
+    "star": "17"
+  },
+  {
+    "title": "Ignitetechnologies/Privilege-Escalation",
+    "url": "https://github.com/Ignitetechnologies/Privilege-Escalation",
+    "description": "This cheasheet is aimed at the CTF Players and Beginners to help them understand the fundamentals of Privilege Escalation with examples.",
+    "language": "none",
+    "star": "35"
+  },
+  {
+    "title": "jthuraisamy/TelemetrySourcerer",
+    "url": "https://github.com/jthuraisamy/TelemetrySourcerer",
+    "description": "Enumerate and disable common sources of telemetry used by AV/EDR.",
+    "language": "C++",
+    "star": "19"
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "description": "Linux/OSX/FreeBSD resource monitor",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "551"
+  },
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "description": "How to systematically secure anything: a repository about security engineering",
+    "language": "none",
+    "star": "863"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "🔗 Some useful websites for programmers.",
+    "language": "none",
+    "star": "37"
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "description": "A cat(1) clone with wings.",
+    "language": "Rust",
+    "star": "240"
+  },
+  {
+    "title": "sladesha/Reflection_Summary",
+    "url": "https://github.com/sladesha/Reflection_Summary",
+    "description": "算法理论基础知识应知应会",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "KFCFans/PowerJob",
+    "url": "https://github.com/KFCFans/PowerJob",
+    "description": "新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！",
+    "language": "Java",
+    "star": "188"
+  },
+  {
+    "title": "tiangolo/full-stack-fastapi-postgresql",
+    "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+    "description": "Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",
+    "language": "Python",
+    "star": "68"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "language": "Rust",
+    "star": "205"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "299"
+  },
+  {
+    "title": "farridav/django-jazzmin",
+    "url": "https://github.com/farridav/django-jazzmin",
+    "description": "Jazzy theme for Django",
+    "language": "CSS",
+    "star": "17"
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "language": "HTML",
+    "star": "90"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "description": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "language": "C",
+    "star": "97"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "description": "Simple and privacy-friendly alternative to Google Analytics",
+    "language": "Elixir",
+    "star": "173"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Jupyter Notebook",
+    "star": "167"
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "description": "✅ Curated list of resources for college students",
+    "language": "none",
+    "star": "31"
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "description": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)",
+    "language": "none",
+    "star": "65"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "359"
+  },
+  {
+    "title": "Fmstrat/winapps",
+    "url": "https://github.com/Fmstrat/winapps",
+    "description": "Run Windows apps such as Microsoft Office in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
+    "language": "Shell",
+    "star": "346"
+  },
+  {
+    "title": "cjph8914/2020_benfords",
+    "url": "https://github.com/cjph8914/2020_benfords",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "39"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
+    "language": "Ruby",
+    "star": "297"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "star": "174"
+  },
+  {
+    "title": "rileytestut/AltStore",
+    "url": "https://github.com/rileytestut/AltStore",
+    "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
+    "language": "Swift",
+    "star": "142"
+  },
+  {
+    "title": "gao-sun/eul",
+    "url": "https://github.com/gao-sun/eul",
+    "description": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "language": "Swift",
+    "star": "306"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "description": "🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！",
+    "language": "Java",
+    "star": "294"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliTool",
+    "url": "https://github.com/RayWangQvQ/BiliBiliTool",
+    "description": ".Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。",
+    "language": "C#",
+    "star": "138"
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "description": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "language": "JavaScript",
+    "star": "376"
+  },
+  {
+    "title": "PavelDoGreat/WebGL-Fluid-Simulation",
+    "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "description": "Play with fluids in your browser (works even on mobile)",
+    "language": "JavaScript",
+    "star": "213"
+  },
+  {
+    "title": "appbrewery/100-days-of-python",
+    "url": "https://github.com/appbrewery/100-days-of-python",
+    "description": "100 Days of Code in Python",
+    "language": "none",
+    "star": "155"
+  },
+  {
+    "title": "yogeshojha/rengine",
+    "url": "https://github.com/yogeshojha/rengine",
+    "description": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "language": "JavaScript",
+    "star": "115"
+  },
+  {
+    "title": "Atcold/pytorch-Deep-Learning",
+    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "description": "Deep Learning (with PyTorch)",
+    "language": "Jupyter Notebook",
+    "star": "108"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "description": "🚀✨ Help beginners to contribute to open source projects",
+    "language": "none",
+    "star": "160"
+  },
+  {
+    "title": "newbee-ltd/newbee-mall-vue3-app",
+    "url": "https://github.com/newbee-ltd/newbee-mall-vue3-app",
+    "description": "新蜂商城Vue3版本",
+    "language": "JavaScript",
+    "star": "82"
+  },
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "description": "High-Resolution 3D Human Digitization from A Single Image.",
+    "language": "Python",
+    "star": "335"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "description": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+    "language": "none",
+    "star": "76"
+  },
+  {
+    "title": "gordicaleksa/pytorch-original-transformer",
+    "url": "https://github.com/gordicaleksa/pytorch-original-transformer",
+    "description": "My implementation of the original transformer model (Vaswani et al.). I've additionally included the playground.py file for visualizing otherwise seemingly hard concepts. Currently included IWSLT pretrained models.",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "lightspin-tech/red-kube",
+    "url": "https://github.com/lightspin-tech/red-kube",
+    "description": "Red Team KubeCTL Cheat Sheet",
+    "language": "none",
+    "star": "142"
+  },
+  {
+    "title": "thenewboston-developers/Website",
+    "url": "https://github.com/thenewboston-developers/Website",
+    "description": "The website and documentation for thenewboston.",
+    "language": "TypeScript",
+    "star": "104"
+  },
+  {
+    "title": "michalsnik/aos",
+    "url": "https://github.com/michalsnik/aos",
+    "description": "Animate on scroll library",
+    "language": "JavaScript",
+    "star": "63"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "star": "158"
+  },
+  {
+    "title": "scarsty/kys-cpp",
+    "url": "https://github.com/scarsty/kys-cpp",
+    "description": "《金庸群侠传》c++复刻版，已完工",
+    "language": "C++",
+    "star": "141"
+  },
+  {
+    "title": "allenai/allennlp",
+    "url": "https://github.com/allenai/allennlp",
+    "description": "An open-source NLP research library, built on PyTorch.",
+    "language": "Python",
+    "star": "42"
+  }
+]

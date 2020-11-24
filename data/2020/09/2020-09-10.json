@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CleverProgrammers/react-portfolio",
+    "url": "https://github.com/CleverProgrammers/react-portfolio",
+    "description": "",
+    "language": "JavaScript",
+    "star": "164"
+  },
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "description": "A high performance blog template for the 11ty static site generator.",
+    "language": "JavaScript",
+    "star": "436"
+  },
+  {
+    "title": "openjdk/jdk",
+    "url": "https://github.com/openjdk/jdk",
+    "description": "JDK main-line development",
+    "language": "Java",
+    "star": "247"
+  },
+  {
+    "title": "sushiswap/sushiswap-frontend",
+    "url": "https://github.com/sushiswap/sushiswap-frontend",
+    "description": "",
+    "language": "TypeScript",
+    "star": "48"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "276"
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+    "language": "Jupyter Notebook",
+    "star": "189"
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "description": "A collection of algorithms and data structures",
+    "language": "Java",
+    "star": "216"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & articles of companies sharing their work on applied data science & machine learning.",
+    "language": "none",
+    "star": "391"
+  },
+  {
+    "title": "G4lile0/ESP32-WiFi-Hash-Monster",
+    "url": "https://github.com/G4lile0/ESP32-WiFi-Hash-Monster",
+    "description": "WiFi Hash Purple Monster, store EAPOL & PMKID packets in an SD CARD using a M5STACK / ESP32 device",
+    "language": "C",
+    "star": "50"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "language": "Go",
+    "star": "418"
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "description": "PanDownload的个人维护版本",
+    "language": "HTML",
+    "star": "168"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "language": "Python",
+    "star": "198"
+  },
+  {
+    "title": "crossoverJie/cim",
+    "url": "https://github.com/crossoverJie/cim",
+    "description": "📲cim(cross IM) 适用于开发者的分布式即时通讯系统",
+    "language": "Java",
+    "star": "73"
+  },
+  {
+    "title": "NirantK/awesome-project-ideas",
+    "url": "https://github.com/NirantK/awesome-project-ideas",
+    "description": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",
+    "language": "none",
+    "star": "172"
+  },
+  {
+    "title": "bigfangfang/IBMVPS",
+    "url": "https://github.com/bigfangfang/IBMVPS",
+    "description": "大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang",
+    "language": "Batchfile",
+    "star": "33"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "description": "scikit-learn: machine learning in Python",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "142"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "description": "A PHP framework for web artisans",
+    "language": "PHP",
+    "star": "68"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "112"
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "description": "Learn the skills required to sysadmin a remote Linux server from the commandline.",
+    "language": "Shell",
+    "star": "170"
+  },
+  {
+    "title": "dog-qiuqiu/Yolo-Fastest",
+    "url": "https://github.com/dog-qiuqiu/Yolo-Fastest",
+    "description": "⚡ Yolo universal target detection model combined with EfficientNet-lite, the calculation amount is only 230Mflops(0.23Bflops), and the model size is 1.3MB",
+    "language": "C",
+    "star": "101"
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "language": "none",
+    "star": "126"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "language": "PHP",
+    "star": "80"
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "description": "",
+    "language": "Dart",
+    "star": "52"
+  }
+]

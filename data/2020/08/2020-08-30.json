@@ -1,0 +1,177 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "description": "",
+    "language": "Kotlin",
+    "star": "148"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "Headless Chrome Node.js API",
+    "language": "TypeScript",
+    "star": "178"
+  },
+  {
+    "title": "iggredible/Learn-Vim",
+    "url": "https://github.com/iggredible/Learn-Vim",
+    "description": "A book for learning the Vim editor the smart way.",
+    "language": "none",
+    "star": "368"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "language": "JavaScript",
+    "star": "210"
+  },
+  {
+    "title": "tightenco/takeout",
+    "url": "https://github.com/tightenco/takeout",
+    "description": "Docker-based development-only dependency manager; pairs with Valet.",
+    "language": "PHP",
+    "star": "112"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "language": "Objective-C",
+    "star": "85"
+  },
+  {
+    "title": "dimforge/rapier",
+    "url": "https://github.com/dimforge/rapier",
+    "description": "2D and 3D physics engines focused on performances.",
+    "language": "Rust",
+    "star": "52"
+  },
+  {
+    "title": "intel-isl/OpenBot",
+    "url": "https://github.com/intel-isl/OpenBot",
+    "description": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.",
+    "language": "Java",
+    "star": "197"
+  },
+  {
+    "title": "hediet/vscode-debug-visualizer",
+    "url": "https://github.com/hediet/vscode-debug-visualizer",
+    "description": "An extension for VS Code that visualizes data during debugging.",
+    "language": "TypeScript",
+    "star": "718"
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "description": "Jupyter notebooks for teaching/learning Python 3",
+    "language": "Python",
+    "star": "81"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "description": "The Ultimate Go Study Guide",
+    "language": "Go",
+    "star": "154"
+  },
+  {
+    "title": "jeanrauwers/mern-course-bootcamp",
+    "url": "https://github.com/jeanrauwers/mern-course-bootcamp",
+    "description": "Complete Free Coding Bootcamp 2020 MERN Stack",
+    "language": "JavaScript",
+    "star": "99"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "165"
+  },
+  {
+    "title": "zhiwehu/Python-programming-exercises",
+    "url": "https://github.com/zhiwehu/Python-programming-exercises",
+    "description": "100+ Python challenging programming exercises",
+    "language": "none",
+    "star": "128"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "language": "Python",
+    "star": "186"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "270"
+  },
+  {
+    "title": "arwes/arwes",
+    "url": "https://github.com/arwes/arwes",
+    "description": "Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps",
+    "language": "JavaScript",
+    "star": "441"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "language": "Rust",
+    "star": "422"
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "description": "Turn (almost) any Python command line program into a full GUI application with one line",
+    "language": "Python",
+    "star": "210"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "389"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "213"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (August 2020)",
+    "language": "JavaScript",
+    "star": "183"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "description": "A set of best practices for JavaScript projects",
+    "language": "JavaScript",
+    "star": "243"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs-python",
+    "url": "https://github.com/ForrestKnight/open-source-cs-python",
+    "description": "Video discussing this curriculum:",
+    "language": "none",
+    "star": "109"
+  },
+  {
+    "title": "cloudreve/Cloudreve",
+    "url": "https://github.com/cloudreve/Cloudreve",
+    "description": "🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)",
+    "language": "Go",
+    "star": "54"
+  }
+]

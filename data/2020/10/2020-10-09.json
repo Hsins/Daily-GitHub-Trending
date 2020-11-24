@@ -1,0 +1,177 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "407"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "367"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "language": "Python",
+    "star": "314"
+  },
+  {
+    "title": "daviddao/awful-ai",
+    "url": "https://github.com/daviddao/awful-ai",
+    "description": "😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness",
+    "language": "none",
+    "star": "355"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "263"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "44"
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "description": "Cut and paste your surroundings using AR",
+    "language": "TypeScript",
+    "star": "143"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "language": "TypeScript",
+    "star": "274"
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "description": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "language": "JavaScript",
+    "star": "102"
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "description": "Simple and privacy-friendly alternative to Google Analytics",
+    "language": "Elixir",
+    "star": "241"
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "description": "PanDownload的个人维护版本",
+    "language": "HTML",
+    "star": "266"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "description": "Magnificent app which corrects your previous console command.",
+    "language": "Python",
+    "star": "174"
+  },
+  {
+    "title": "screego/server",
+    "url": "https://github.com/screego/server",
+    "description": "screen sharing for developers https://screego.net/",
+    "language": "Go",
+    "star": "439"
+  },
+  {
+    "title": "FreeTubeApp/FreeTube",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "description": "An Open Source YouTube app for privacy",
+    "language": "JavaScript",
+    "star": "176"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "169"
+  },
+  {
+    "title": "olexale/flutter_roadmap",
+    "url": "https://github.com/olexale/flutter_roadmap",
+    "description": "Highly Subjective Roadmap to Flutter Development",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "language": "JavaScript",
+    "star": "133"
+  },
+  {
+    "title": "typescript-cheatsheets/react",
+    "url": "https://github.com/typescript-cheatsheets/react",
+    "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "language": "JavaScript",
+    "star": "266"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "language": "Python",
+    "star": "157"
+  },
+  {
+    "title": "AlfredoSequeida/fvid",
+    "url": "https://github.com/AlfredoSequeida/fvid",
+    "description": "fvid is a project that aims to encode any file as a video using 1-bit color images to survive compression algorithms for data retrieval.",
+    "language": "Python",
+    "star": "50"
+  },
+  {
+    "title": "MaartenGr/BERTopic",
+    "url": "https://github.com/MaartenGr/BERTopic",
+    "description": "Leveraging BERT and a class-based TF-IDF to create easily interpretable topics.",
+    "language": "Python",
+    "star": "69"
+  },
+  {
+    "title": "leticiadasilva/Hacktoberfest",
+    "url": "https://github.com/leticiadasilva/Hacktoberfest",
+    "description": "",
+    "language": "none",
+    "star": "12"
+  },
+  {
+    "title": "awslabs/diagram-maker",
+    "url": "https://github.com/awslabs/diagram-maker",
+    "description": "A library to display an interactive editor for any graph-like data.",
+    "language": "TypeScript",
+    "star": "222"
+  },
+  {
+    "title": "eladrich/pixel2style2pixel",
+    "url": "https://github.com/eladrich/pixel2style2pixel",
+    "description": "Official Implementation for \"Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation\"",
+    "language": "Jupyter Notebook",
+    "star": "67"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "106"
+  }
+]

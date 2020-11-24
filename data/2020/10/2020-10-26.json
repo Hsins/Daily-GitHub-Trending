@@ -1,0 +1,177 @@
+[
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "122"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "skeeto/endlessh",
+    "url": "https://github.com/skeeto/endlessh",
+    "description": "SSH tarpit that slowly sends an endless banner",
+    "language": "C",
+    "star": "401"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "277"
+  },
+  {
+    "title": "gao-sun/eul",
+    "url": "https://github.com/gao-sun/eul",
+    "description": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "language": "Swift",
+    "star": "767"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "The fastai book, published as Jupyter Notebooks",
+    "language": "Jupyter Notebook",
+    "star": "309"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "language": "Python",
+    "star": "407"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "star": "333"
+  },
+  {
+    "title": "willdoescode/nat",
+    "url": "https://github.com/willdoescode/nat",
+    "description": "⚡️nat - the 'ls' replacement you never knew you needed⚡️",
+    "language": "Rust",
+    "star": "329"
+  },
+  {
+    "title": "EmbarkStudios/rust-gpu",
+    "url": "https://github.com/EmbarkStudios/rust-gpu",
+    "description": "🐉 Making Rust a first-class language and ecosystem for GPU code 🚧",
+    "language": "Rust",
+    "star": "1"
+  },
+  {
+    "title": "l1ving/youtube-dl",
+    "url": "https://github.com/l1ving/youtube-dl",
+    "description": "A copyright-respecting fork of youtube-dl",
+    "language": "Python",
+    "star": "406"
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "description": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "language": "Rich Text Format",
+    "star": "385"
+  },
+  {
+    "title": "hyue418/taobao-11-11",
+    "url": "https://github.com/hyue418/taobao-11-11",
+    "description": "🚀2020淘宝+京东+支付宝双十一全民养猫|全民营业自动化脚本【全额奖励，防检测】",
+    "language": "JavaScript",
+    "star": "674"
+  },
+  {
+    "title": "MicrosoftDocs/ai-fundamentals",
+    "url": "https://github.com/MicrosoftDocs/ai-fundamentals",
+    "description": "Code samples for AI fundamentals",
+    "language": "Jupyter Notebook",
+    "star": "92"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "36"
+  },
+  {
+    "title": "ShameCom/ShameCom",
+    "url": "https://github.com/ShameCom/ShameCom",
+    "description": "收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "jiupinjia/SkyAR",
+    "url": "https://github.com/jiupinjia/SkyAR",
+    "description": "Dynamic sky replacement and harmonization in videos",
+    "language": "Python",
+    "star": "280"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "description": "⏬ Dumb downloader that scrapes the web",
+    "language": "Python",
+    "star": "145"
+  },
+  {
+    "title": "sberbank-ai/ru-gpts",
+    "url": "https://github.com/sberbank-ai/ru-gpts",
+    "description": "Russian GPT3 models.",
+    "language": "Python",
+    "star": "312"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "mitre/advmlthreatmatrix",
+    "url": "https://github.com/mitre/advmlthreatmatrix",
+    "description": "Adversarial Threat Matrix",
+    "language": "none",
+    "star": "238"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "language": "C++",
+    "star": "246"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "description": "Hazel Engine",
+    "language": "C++",
+    "star": "43"
+  },
+  {
+    "title": "fent/node-ytdl-core",
+    "url": "https://github.com/fent/node-ytdl-core",
+    "description": "YouTube video downloader in javascript.",
+    "language": "HTML",
+    "star": "46"
+  },
+  {
+    "title": "prabhuignoto/react-chrono",
+    "url": "https://github.com/prabhuignoto/react-chrono",
+    "description": "Modern Timeline component for React",
+    "language": "TypeScript",
+    "star": "1"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Node library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "boston-dynamics/spot-sdk",
+    "url": "https://github.com/boston-dynamics/spot-sdk",
+    "description": "Spot SDK repo",
+    "language": "HTML",
+    "star": "84"
+  },
+  {
+    "title": "fpereiro/backendlore",
+    "url": "https://github.com/fpereiro/backendlore",
+    "description": "How I write backends",
+    "language": "none",
+    "star": "390"
+  },
+  {
+    "title": "systemd/systemd",
+    "url": "https://github.com/systemd/systemd",
+    "description": "The systemd System and Service Manager",
+    "language": "C",
+    "star": "38"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "description": "List of Development YouTube Channels",
+    "language": "none",
+    "star": "97"
+  },
+  {
+    "title": "specterops/at-ps",
+    "url": "https://github.com/specterops/at-ps",
+    "description": "Adversary Tactics - PowerShell Training",
+    "language": "PowerShell",
+    "star": "75"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "339"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "110"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "description": "A collection of various deep learning architectures, models, and tips",
+    "language": "Jupyter Notebook",
+    "star": "32"
+  },
+  {
+    "title": "rasbt/stat453-deep-learning-ss20",
+    "url": "https://github.com/rasbt/stat453-deep-learning-ss20",
+    "description": "STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)",
+    "language": "TeX",
+    "star": "23"
+  },
+  {
+    "title": "zeit/next.js",
+    "url": "https://github.com/zeit/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "44"
+  },
+  {
+    "title": "juliandavidmr/awesome-nestjs",
+    "url": "https://github.com/juliandavidmr/awesome-nestjs",
+    "description": "😏 Curated list of NestJS",
+    "language": "none",
+    "star": "12"
+  },
+  {
+    "title": "anvaka/city-roads",
+    "url": "https://github.com/anvaka/city-roads",
+    "description": "Visualization of all roads within any city",
+    "language": "JavaScript",
+    "star": "143"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "description": "Quarkus: Supersonic Subatomic Java.",
+    "language": "Java",
+    "star": "14"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
+    "language": "TypeScript",
+    "star": "6"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "description": "A list of awesome beginners-friendly projects.",
+    "language": "none",
+    "star": "45"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "37"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-aws",
+    "url": "https://github.com/terraform-providers/terraform-provider-aws",
+    "description": "Terraform AWS provider",
+    "language": "Go",
+    "star": "10"
+  },
+  {
+    "title": "sehno/Bug-bounty",
+    "url": "https://github.com/sehno/Bug-bounty",
+    "description": "Ressources for bug bounty hunting",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "dank/tarkov",
+    "url": "https://github.com/dank/tarkov",
+    "description": "A Rust library for the Escape from Tarkov API",
+    "language": "Rust",
+    "star": "7"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "description": "Streamlit — The fastest way to build custom ML tools",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "awesomedata/awesome-public-datasets",
+    "url": "https://github.com/awesomedata/awesome-public-datasets",
+    "description": "A topic-centric list of HQ open datasets. PR ☛☛☛",
+    "language": "none",
+    "star": "43"
+  },
+  {
+    "title": "99designs/gqlgen",
+    "url": "https://github.com/99designs/gqlgen",
+    "description": "go generate based graphql server library",
+    "language": "Go",
+    "star": "17"
+  },
+  {
+    "title": "jiahaog/nativefier",
+    "url": "https://github.com/jiahaog/nativefier",
+    "description": "Make any web page a desktop application",
+    "language": "JavaScript",
+    "star": "43"
+  }
+]

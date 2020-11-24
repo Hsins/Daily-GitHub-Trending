@@ -1,0 +1,177 @@
+[
+  {
+    "title": "jackzhenguo/python-small-examples",
+    "url": "https://github.com/jackzhenguo/python-small-examples",
+    "description": "Python有趣的小例子一网打尽。Python基础、Python坑点、Python字符串和正则、Python绘图、Python日期和文件、Web开发、数据科学、机器学习、深度学习、TensorFlow、Pytorch，一切都是简单易懂的小例子。",
+    "language": "Python",
+    "star": "120"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "253"
+  },
+  {
+    "title": "yichahucha/surge",
+    "url": "https://github.com/yichahucha/surge",
+    "description": "script",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "lirantal/nodejs-cli-apps-best-practices",
+    "url": "https://github.com/lirantal/nodejs-cli-apps-best-practices",
+    "description": "The largest Node.js CLI Apps best practices list ✨",
+    "language": "none",
+    "star": "164"
+  },
+  {
+    "title": "snooppr/snoop",
+    "url": "https://github.com/snooppr/snoop",
+    "description": "Snoop — инструмент разведки на основе открытых данных",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "pwn20wndstuff/Undecimus",
+    "url": "https://github.com/pwn20wndstuff/Undecimus",
+    "description": "unc0ver jailbreak for iOS 11.0 - 12.4",
+    "language": "C",
+    "star": "49"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "star": "33"
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "language": "Jupyter Notebook",
+    "star": "62"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "641"
+  },
+  {
+    "title": "trojan-gfw/trojan",
+    "url": "https://github.com/trojan-gfw/trojan",
+    "description": "An unidentifiable mechanism that helps you bypass GFW.",
+    "language": "C++",
+    "star": "77"
+  },
+  {
+    "title": "HyperSine/Windows10-CustomKernelSigners",
+    "url": "https://github.com/HyperSine/Windows10-CustomKernelSigners",
+    "description": "Load self-signed drivers without TestSigning or disable DSE. Transferred from https://github.com/DoubleLabyrinth/Windows10-CustomKernelSigners",
+    "language": "C++",
+    "star": "30"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "160"
+  },
+  {
+    "title": "sp614x/optifine",
+    "url": "https://github.com/sp614x/optifine",
+    "description": "",
+    "language": "none",
+    "star": "10"
+  },
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "description": "Revive unavailable songs for Netease Cloud Music",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "ing-bank/lion",
+    "url": "https://github.com/ing-bank/lion",
+    "description": "Lion Web Components",
+    "language": "JavaScript",
+    "star": "63"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "A Magic Mask to Alter Android System Systemless-ly",
+    "language": "Kotlin",
+    "star": "35"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "82"
+  },
+  {
+    "title": "shadowsocks/shadowsocks-windows",
+    "url": "https://github.com/shadowsocks/shadowsocks-windows",
+    "description": "If you want to keep a secret, you must also hide it from yourself.",
+    "language": "C#",
+    "star": "92"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "84"
+  },
+  {
+    "title": "jethrokuan/org-roam",
+    "url": "https://github.com/jethrokuan/org-roam",
+    "description": "Rudimentary Roam replica with Org-mode",
+    "language": "Shell",
+    "star": "42"
+  },
+  {
+    "title": "crawlab-team/crawlab",
+    "url": "https://github.com/crawlab-team/crawlab",
+    "description": "Distributed web crawler admin platform for spiders management regardless of languages and frameworks.",
+    "language": "Go",
+    "star": "87"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "star": "113"
+  },
+  {
+    "title": "P3TERX/Actions-OpenWrt",
+    "url": "https://github.com/P3TERX/Actions-OpenWrt",
+    "description": "Build OpenWrt using GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt",
+    "language": "Shell",
+    "star": "29"
+  },
+  {
+    "title": "wolverinn/Waking-Up",
+    "url": "https://github.com/wolverinn/Waking-Up",
+    "description": "计算机基础面试问题全面总结，包含详细的follow-up question以及答案；模拟面试，知识点复习，快速备战面试...",
+    "language": "none",
+    "star": "82"
+  },
+  {
+    "title": "benawad/destiny",
+    "url": "https://github.com/benawad/destiny",
+    "description": "Prettier for File Structures",
+    "language": "TypeScript",
+    "star": "82"
+  }
+]

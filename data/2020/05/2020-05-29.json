@@ -1,0 +1,177 @@
+[
+  {
+    "title": "nic-delhi/AarogyaSetu_Android",
+    "url": "https://github.com/nic-delhi/AarogyaSetu_Android",
+    "description": "Aarogya Setu Android app native code",
+    "language": "Java",
+    "star": "361"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "311"
+  },
+  {
+    "title": "anandpawara/Real_Time_Image_Animation",
+    "url": "https://github.com/anandpawara/Real_Time_Image_Animation",
+    "description": "The Project is real time application in opencv using first order model",
+    "language": "Python",
+    "star": "239"
+  },
+  {
+    "title": "dbanay/Smalltalk",
+    "url": "https://github.com/dbanay/Smalltalk",
+    "description": "By the Bluebook implementation of Smalltalk-80",
+    "language": "C",
+    "star": "86"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "37"
+  },
+  {
+    "title": "renatoviolin/next_word_prediction",
+    "url": "https://github.com/renatoviolin/next_word_prediction",
+    "description": "Using transformers to predict next word and predict <mask> word",
+    "language": "Python",
+    "star": "81"
+  },
+  {
+    "title": "vaexio/vaex",
+    "url": "https://github.com/vaexio/vaex",
+    "description": "Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second 🚀",
+    "language": "Python",
+    "star": "110"
+  },
+  {
+    "title": "grumpygamer/DeloresDev",
+    "url": "https://github.com/grumpygamer/DeloresDev",
+    "description": "Read all about it on GrumpyGamer:",
+    "language": "HTML",
+    "star": "53"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "288"
+  },
+  {
+    "title": "mertJF/tailblocks",
+    "url": "https://github.com/mertJF/tailblocks",
+    "description": "🎉 Ready-to-use Tailwind CSS blocks.",
+    "language": "JavaScript",
+    "star": "512"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (May 2020)",
+    "language": "JavaScript",
+    "star": "358"
+  },
+  {
+    "title": "free5gc/free5gc",
+    "url": "https://github.com/free5gc/free5gc",
+    "description": "Open source 5G core network base on 3GPP R15",
+    "language": "Go",
+    "star": "52"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "language": "C++",
+    "star": "135"
+  },
+  {
+    "title": "jarun/nnn",
+    "url": "https://github.com/jarun/nnn",
+    "description": "n³ The missing terminal file manager for X.",
+    "language": "C",
+    "star": "31"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "language": "Go",
+    "star": "91"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "22"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "200"
+  },
+  {
+    "title": "azure-rtos/threadx",
+    "url": "https://github.com/azure-rtos/threadx",
+    "description": "Azure RTOS ThreadX is an advanced real-time operating system (RTOS) designed specifically for deeply embedded applications.",
+    "language": "C",
+    "star": "85"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "163"
+  },
+  {
+    "title": "flairNLP/flair",
+    "url": "https://github.com/flairNLP/flair",
+    "description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "DLR-RM/stable-baselines3",
+    "url": "https://github.com/DLR-RM/stable-baselines3",
+    "description": "PyTorch version of Stable Baselines, improved implementations of reinforcement learning algorithms.",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "star": "99"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "248"
+  },
+  {
+    "title": "Orange-shirt/OrangeJs",
+    "url": "https://github.com/Orange-shirt/OrangeJs",
+    "description": "使用Auto.js软件制作的脚本合辑",
+    "language": "none",
+    "star": "61"
+  }
+]

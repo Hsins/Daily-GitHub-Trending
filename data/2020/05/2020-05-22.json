@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "932"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "All Algorithms implemented in C++",
+    "language": "C++",
+    "star": "255"
+  },
+  {
+    "title": "idris-lang/Idris2",
+    "url": "https://github.com/idris-lang/Idris2",
+    "description": "A purely functional programming language with first class types",
+    "language": "Idris",
+    "star": "75"
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "description": "手写实现李航《统计学习方法》书中全部算法",
+    "language": "Python",
+    "star": "270"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "568"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "star": "379"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "description": "The Microsoft community Windows Package Manager manifest repository",
+    "language": "PowerShell",
+    "star": "249"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "152"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "description": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "language": "C#",
+    "star": "21"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "language": "Go",
+    "star": "18"
+  },
+  {
+    "title": "corona-warn-app/cwa-server",
+    "url": "https://github.com/corona-warn-app/cwa-server",
+    "description": "Backend implementation for the Apple/Google exposure notification API.",
+    "language": "Java",
+    "star": "105"
+  },
+  {
+    "title": "datawhalechina/pumpkin-book",
+    "url": "https://github.com/datawhalechina/pumpkin-book",
+    "description": "《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book",
+    "language": "none",
+    "star": "500"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "423"
+  },
+  {
+    "title": "microsoft/StudentsAtBuild",
+    "url": "https://github.com/microsoft/StudentsAtBuild",
+    "description": "Find all of the resources you might need to try out code presented in the Student Zone at Build 2020 for yourself!",
+    "language": "JavaScript",
+    "star": "57"
+  },
+  {
+    "title": "ddd-crew/ddd-starter-modelling-process",
+    "url": "https://github.com/ddd-crew/ddd-starter-modelling-process",
+    "description": "If you're new to DDD and not sure where to start, this process will guide you step-by-step",
+    "language": "none",
+    "star": "133"
+  },
+  {
+    "title": "graphql/graphiql",
+    "url": "https://github.com/graphql/graphiql",
+    "description": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+    "language": "TypeScript",
+    "star": "25"
+  },
+  {
+    "title": "bjmashibing/InternetArchitect",
+    "url": "https://github.com/bjmashibing/InternetArchitect",
+    "description": "年薪百万互联网架构师课程文档及源码(公开部分)",
+    "language": "Java",
+    "star": "158"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "language": "Python",
+    "star": "121"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "description": "All Algorithms implemented in C",
+    "language": "C",
+    "star": "116"
+  },
+  {
+    "title": "TheAlgorithms/Go",
+    "url": "https://github.com/TheAlgorithms/Go",
+    "description": "Algorithms Implemented in GoLang",
+    "language": "Go",
+    "star": "139"
+  },
+  {
+    "title": "microsoft/ProjectReunion",
+    "url": "https://github.com/microsoft/ProjectReunion",
+    "description": "Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.",
+    "language": "none",
+    "star": "105"
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "description": "A modified browser that helps in responsive web development.",
+    "language": "JavaScript",
+    "star": "368"
+  },
+  {
+    "title": "N-l1/lovelace-soft-ui",
+    "url": "https://github.com/N-l1/lovelace-soft-ui",
+    "description": "💫 Lovelace Soft UI Configuration",
+    "language": "none",
+    "star": "25"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "description": "📝 An awesome Data Science repository to learn and apply for real world problems.",
+    "language": "none",
+    "star": "48"
+  },
+  {
+    "title": "naganandy/graph-based-deep-learning-literature",
+    "url": "https://github.com/naganandy/graph-based-deep-learning-literature",
+    "description": "links to conference publications in graph-based deep learning",
+    "language": "Jupyter Notebook",
+    "star": "50"
+  }
+]

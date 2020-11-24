@@ -1,0 +1,177 @@
+[
+  {
+    "title": "wpine215/msfs-a320neo",
+    "url": "https://github.com/wpine215/msfs-a320neo",
+    "description": "",
+    "language": "HTML",
+    "star": "89"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "language": "Go",
+    "star": "248"
+  },
+  {
+    "title": "kodekloudhub/certified-kubernetes-administrator-course",
+    "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "description": "Certified Kubernetes Administrator - CKA Course",
+    "language": "Shell",
+    "star": "194"
+  },
+  {
+    "title": "themesberg/volt-bootstrap-5-dashboard",
+    "url": "https://github.com/themesberg/volt-bootstrap-5-dashboard",
+    "description": "⚡️ Volt Bootstrap 5 Admin Dashboard Template with vanilla Javascript",
+    "language": "HTML",
+    "star": "376"
+  },
+  {
+    "title": "princeton-vl/RAFT",
+    "url": "https://github.com/princeton-vl/RAFT",
+    "description": "",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs-python",
+    "url": "https://github.com/ForrestKnight/open-source-cs-python",
+    "description": "",
+    "language": "none",
+    "star": "187"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "description": "The ultimate Free Open Source Solution for team communications.",
+    "language": "JavaScript",
+    "star": "67"
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "description": "Generates LaTeX math description from Python functions.",
+    "language": "Python",
+    "star": "81"
+  },
+  {
+    "title": "shervinea/mit-15-003-data-science-tools",
+    "url": "https://github.com/shervinea/mit-15-003-data-science-tools",
+    "description": "Study guides for MIT's 15.003 Data Science Tools",
+    "language": "none",
+    "star": "191"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "description": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "language": "none",
+    "star": "216"
+  },
+  {
+    "title": "kkbjs/element3",
+    "url": "https://github.com/kkbjs/element3",
+    "description": "(WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web",
+    "language": "Vue",
+    "star": "41"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "description": "Video discussing this curriculum:",
+    "language": "none",
+    "star": "88"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "45"
+  },
+  {
+    "title": "yuantuo666/baiduwp-php",
+    "url": "https://github.com/yuantuo666/baiduwp-php",
+    "description": "PanDownload网页复刻版",
+    "language": "PHP",
+    "star": "62"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "Draft of the fastai book",
+    "language": "Jupyter Notebook",
+    "star": "157"
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "description": "Turn (almost) any Python command line program into a full GUI application with one line",
+    "language": "Python",
+    "star": "153"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "355"
+  },
+  {
+    "title": "nalexn/clean-architecture-swiftui",
+    "url": "https://github.com/nalexn/clean-architecture-swiftui",
+    "description": "A demo project showcasing the production setup of the SwiftUI app with Clean Architecture",
+    "language": "Swift",
+    "star": "25"
+  },
+  {
+    "title": "alozano-77/AWS-SAA-C02-Course",
+    "url": "https://github.com/alozano-77/AWS-SAA-C02-Course",
+    "description": "Personal notes for SAA-C02 test from: https://learn.cantrill.io",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "yhirose/cpp-httplib",
+    "url": "https://github.com/yhirose/cpp-httplib",
+    "description": "A C++ header-only HTTP/HTTPS server and client library",
+    "language": "C++",
+    "star": "143"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "star": "136"
+  },
+  {
+    "title": "KevinLage/YouTube-Livestream-Botter",
+    "url": "https://github.com/KevinLage/YouTube-Livestream-Botter",
+    "description": "Simple tool to bot viewers to a YouTube Livestream!",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "ContainerSolutions/kubernetes-examples",
+    "url": "https://github.com/ContainerSolutions/kubernetes-examples",
+    "description": "Minimal self-contained examples of standard Kubernetes features and patterns in YAML",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "wix/react-native-navigation",
+    "url": "https://github.com/wix/react-native-navigation",
+    "description": "A complete native navigation solution for React Native",
+    "language": "Java",
+    "star": "20"
+  },
+  {
+    "title": "DevashishPrasad/CascadeTabNet",
+    "url": "https://github.com/DevashishPrasad/CascadeTabNet",
+    "description": "This repository contains the code and implementation details of the CascadeTabNet paper \"CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents\"",
+    "language": "Python",
+    "star": "32"
+  }
+]

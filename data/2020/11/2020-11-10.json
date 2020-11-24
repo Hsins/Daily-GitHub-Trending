@@ -1,0 +1,177 @@
+[
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
+    "language": "Ruby",
+    "star": "344"
+  },
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "description": "High-Resolution 3D Human Digitization from A Single Image.",
+    "language": "Python",
+    "star": "431"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "star": "186"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "star": "231"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "language": "Python",
+    "star": "87"
+  },
+  {
+    "title": "thenewboston-developers/Website",
+    "url": "https://github.com/thenewboston-developers/Website",
+    "description": "The website and documentation for thenewboston.",
+    "language": "TypeScript",
+    "star": "51"
+  },
+  {
+    "title": "iv-org/invidious",
+    "url": "https://github.com/iv-org/invidious",
+    "description": "Invidious is an alternative front-end to YouTube",
+    "language": "Crystal",
+    "star": "79"
+  },
+  {
+    "title": "socketio/socket.io",
+    "url": "https://github.com/socketio/socket.io",
+    "description": "Realtime application framework (Node.JS server)",
+    "language": "JavaScript",
+    "star": "149"
+  },
+  {
+    "title": "Qovery/engine",
+    "url": "https://github.com/Qovery/engine",
+    "description": "Deploy your apps on any Cloud providers in just a few seconds",
+    "language": "Rust",
+    "star": "310"
+  },
+  {
+    "title": "cjph8914/2020_benfords",
+    "url": "https://github.com/cjph8914/2020_benfords",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "87"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "139"
+  },
+  {
+    "title": "appbrewery/100-days-of-python",
+    "url": "https://github.com/appbrewery/100-days-of-python",
+    "description": "100 Days of Code in Python",
+    "language": "none",
+    "star": "183"
+  },
+  {
+    "title": "thenewboston-developers/Account-Manager",
+    "url": "https://github.com/thenewboston-developers/Account-Manager",
+    "description": "Account manager desktop application for thenewboston digital currency.",
+    "language": "TypeScript",
+    "star": "67"
+  },
+  {
+    "title": "gao-sun/eul",
+    "url": "https://github.com/gao-sun/eul",
+    "description": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "language": "Swift",
+    "star": "237"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "description": "Unity Open Project #1: Action-adventure",
+    "language": "C#",
+    "star": "34"
+  },
+  {
+    "title": "guardicore/monkey",
+    "url": "https://github.com/guardicore/monkey",
+    "description": "Infection Monkey - An automated pentest tool",
+    "language": "Python",
+    "star": "254"
+  },
+  {
+    "title": "TiendaNube/php-programming-best-practices",
+    "url": "https://github.com/TiendaNube/php-programming-best-practices",
+    "description": "Referencia para los desarrolladores de Tiendanube y para la comunidad de PHP.",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "lightspin-tech/red-kube",
+    "url": "https://github.com/lightspin-tech/red-kube",
+    "description": "Red Team KubeCTL Cheat Sheet",
+    "language": "none",
+    "star": "120"
+  },
+  {
+    "title": "yogeshojha/rengine",
+    "url": "https://github.com/yogeshojha/rengine",
+    "description": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "language": "JavaScript",
+    "star": "74"
+  },
+  {
+    "title": "scarsty/kys-cpp",
+    "url": "https://github.com/scarsty/kys-cpp",
+    "description": "《金庸群侠传》c++复刻版，已完工",
+    "language": "C++",
+    "star": "59"
+  },
+  {
+    "title": "cmu-snap/pigasus",
+    "url": "https://github.com/cmu-snap/pigasus",
+    "description": "100Gbps Intrusion Detection and Prevention System",
+    "language": "C++",
+    "star": "122"
+  },
+  {
+    "title": "Atcold/pytorch-Deep-Learning",
+    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "description": "Deep Learning (with PyTorch)",
+    "language": "Jupyter Notebook",
+    "star": "64"
+  },
+  {
+    "title": "USTC-Hackergame/hackergame2020-writeups",
+    "url": "https://github.com/USTC-Hackergame/hackergame2020-writeups",
+    "description": "中国科学技术大学第七届信息安全大赛的官方与非官方题解",
+    "language": "C++",
+    "star": "73"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "star": "96"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "description": "🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！",
+    "language": "Java",
+    "star": "317"
+  }
+]

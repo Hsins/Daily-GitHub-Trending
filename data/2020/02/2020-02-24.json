@@ -1,0 +1,177 @@
+[
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "description": "Virtual machines for iOS",
+    "language": "Objective-C",
+    "star": "1"
+  },
+  {
+    "title": "norvig/pytudes",
+    "url": "https://github.com/norvig/pytudes",
+    "description": "Python programs to practice or demonstrate skills.",
+    "language": "Jupyter Notebook",
+    "star": "213"
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "description": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "language": "Python",
+    "star": "832"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The largest Node.js best practices list (January 2020)",
+    "language": "JavaScript",
+    "star": "413"
+  },
+  {
+    "title": "woltapp/blurhash",
+    "url": "https://github.com/woltapp/blurhash",
+    "description": "A very compact representation of a placeholder for an image.",
+    "language": "C",
+    "star": "1"
+  },
+  {
+    "title": "haotian-wang/google-access-helper",
+    "url": "https://github.com/haotian-wang/google-access-helper",
+    "description": "谷歌访问助手破解版",
+    "language": "JavaScript",
+    "star": "170"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "language": "Python",
+    "star": "314"
+  },
+  {
+    "title": "Shpota/goxygen",
+    "url": "https://github.com/Shpota/goxygen",
+    "description": "Generate a modern web project with Go, React and MongoDB in seconds.",
+    "language": "Go",
+    "star": "358"
+  },
+  {
+    "title": "zhaoolee/ChromeAppHeroes",
+    "url": "https://github.com/zhaoolee/ChromeAppHeroes",
+    "description": "🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~",
+    "language": "JavaScript",
+    "star": "69"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "language": "Java",
+    "star": "119"
+  },
+  {
+    "title": "youngwanLEE/centermask2",
+    "url": "https://github.com/youngwanLEE/centermask2",
+    "description": "CenterMask2 on top of detectron2",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "TheWanderingCoel/Trojan-Qt5",
+    "url": "https://github.com/TheWanderingCoel/Trojan-Qt5",
+    "description": "A cross-platform trojan GUI client based on Shadowsocks-qt",
+    "language": "C",
+    "star": "164"
+  },
+  {
+    "title": "pjreddie/darknet",
+    "url": "https://github.com/pjreddie/darknet",
+    "description": "Convolutional Neural Networks",
+    "language": "C",
+    "star": "53"
+  },
+  {
+    "title": "firmai/industry-machine-learning",
+    "url": "https://github.com/firmai/industry-machine-learning",
+    "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries.",
+    "language": "none",
+    "star": "95"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "description": "⏬ Dumb downloader that scrapes the web",
+    "language": "Python",
+    "star": "84"
+  },
+  {
+    "title": "Kr328/ClashForAndroid",
+    "url": "https://github.com/Kr328/ClashForAndroid",
+    "description": "A rule-based tunnel for Android.",
+    "language": "Kotlin",
+    "star": "98"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "108"
+  },
+  {
+    "title": "daolf/Most-recommended-programming-books",
+    "url": "https://github.com/daolf/Most-recommended-programming-books",
+    "description": "The most recommended programming books of all-time.",
+    "language": "none",
+    "star": "313"
+  },
+  {
+    "title": "trojan-gfw/trojan",
+    "url": "https://github.com/trojan-gfw/trojan",
+    "description": "An unidentifiable mechanism that helps you bypass GFW.",
+    "language": "C++",
+    "star": "277"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "description": "To Be Top Javaer - Java工程师成神之路",
+    "language": "Java",
+    "star": "207"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "language": "C",
+    "star": "34"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "136"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "JavaScript",
+    "star": "227"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "language": "Dart",
+    "star": "140"
+  },
+  {
+    "title": "OpenRCE/Malware-Analysis-Training",
+    "url": "https://github.com/OpenRCE/Malware-Analysis-Training",
+    "description": "Retired beginner/intermediate malware analysis training materials from @pedramamini and @erocarrera.",
+    "language": "HTML",
+    "star": "329"
+  }
+]

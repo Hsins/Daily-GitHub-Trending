@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Shawn-Shan/fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "description": "Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes",
+    "language": "Python",
+    "star": "445"
+  },
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "description": "stock，股票系统。使用python进行开发。",
+    "language": "Python",
+    "star": "284"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "description": "🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀",
+    "language": "JavaScript",
+    "star": "931"
+  },
+  {
+    "title": "Requarks/wiki",
+    "url": "https://github.com/Requarks/wiki",
+    "description": "Wiki.js | A modern, lightweight and powerful wiki app built on Node.js",
+    "language": "Vue",
+    "star": "463"
+  },
+  {
+    "title": "dianping/cat",
+    "url": "https://github.com/dianping/cat",
+    "description": "CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。",
+    "language": "Java",
+    "star": "39"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "description": "Implementation of the Filecoin protocol, written in Go",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "Curated papers, articles & videos on data science & machine learning applied in production, with results.",
+    "language": "none",
+    "star": "181"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "language": "TypeScript",
+    "star": "223"
+  },
+  {
+    "title": "czl0325/jetbrains-agent-latest",
+    "url": "https://github.com/czl0325/jetbrains-agent-latest",
+    "description": "jetbrains全家桶永久激活破解，不需要修改host。完美破解！共享给各个程序员兄弟使用。适用于2020版本。",
+    "language": "none",
+    "star": "89"
+  },
+  {
+    "title": "tc39/proposal-record-tuple",
+    "url": "https://github.com/tc39/proposal-record-tuple",
+    "description": "ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!",
+    "language": "HTML",
+    "star": "44"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "description": "An open source re-implementation of Diablo 2",
+    "language": "Go",
+    "star": "56"
+  },
+  {
+    "title": "umi-top/umi-top.github.io",
+    "url": "https://github.com/umi-top/umi-top.github.io",
+    "description": "",
+    "language": "HTML",
+    "star": "1"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "description": "A curated list of references for MLOps",
+    "language": "none",
+    "star": "118"
+  },
+  {
+    "title": "umi-top/umi-core-php",
+    "url": "https://github.com/umi-top/umi-core-php",
+    "description": "UMI Core PHP Library",
+    "language": "PHP",
+    "star": "1"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "395"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "369"
+  },
+  {
+    "title": "sindresorhus/css-in-readme-like-wat",
+    "url": "https://github.com/sindresorhus/css-in-readme-like-wat",
+    "description": "Style your readme using CSS with this simple trick",
+    "language": "none",
+    "star": "222"
+  },
+  {
+    "title": "LetsUpgrade/AI-ML-July-2020",
+    "url": "https://github.com/LetsUpgrade/AI-ML-July-2020",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "24"
+  },
+  {
+    "title": "builtbybel/bloatbox",
+    "url": "https://github.com/builtbybel/bloatbox",
+    "description": "☑️🌠 Get rid of bloatware and clean your Windows 10 Start menu",
+    "language": "C#",
+    "star": "118"
+  },
+  {
+    "title": "luspr/awesome-ml-courses",
+    "url": "https://github.com/luspr/awesome-ml-courses",
+    "description": "Awesome free machine learning and AI courses with video lectures.",
+    "language": "none",
+    "star": "136"
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "description": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "language": "none",
+    "star": "244"
+  },
+  {
+    "title": "umi-top/umi-core-js",
+    "url": "https://github.com/umi-top/umi-core-js",
+    "description": "UMI Core JS Library",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "ardanlabs/gotraining",
+    "url": "https://github.com/ardanlabs/gotraining",
+    "description": "Go Training Class Material :",
+    "language": "Go",
+    "star": "77"
+  },
+  {
+    "title": "firmai/industry-machine-learning",
+    "url": "https://github.com/firmai/industry-machine-learning",
+    "description": "A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)",
+    "language": "Jupyter Notebook",
+    "star": "36"
+  },
+  {
+    "title": "vt-vl-lab/3d-photo-inpainting",
+    "url": "https://github.com/vt-vl-lab/3d-photo-inpainting",
+    "description": "[CVPR 2020] 3D Photography using Context-aware Layered Depth Inpainting",
+    "language": "Python",
+    "star": "36"
+  }
+]

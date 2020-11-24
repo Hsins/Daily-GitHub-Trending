@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Freakboy/CobaltStrike",
+    "url": "https://github.com/Freakboy/CobaltStrike",
+    "description": "CobaltStrike's source code",
+    "language": "Java",
+    "star": "229"
+  },
+  {
+    "title": "c9fe/22120",
+    "url": "https://github.com/c9fe/22120",
+    "description": "🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.",
+    "language": "JavaScript",
+    "star": "207"
+  },
+  {
+    "title": "corpnewt/gibMacOS",
+    "url": "https://github.com/corpnewt/gibMacOS",
+    "description": "Py2/py3 script that can download macOS components direct from Apple",
+    "language": "Python",
+    "star": "90"
+  },
+  {
+    "title": "natewong1313/bird-bot",
+    "url": "https://github.com/natewong1313/bird-bot",
+    "description": "A Nintendo Switch checkout bot. Currently supports Walmart and Best buy",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "konstantinmuenster/notion-clone",
+    "url": "https://github.com/konstantinmuenster/notion-clone",
+    "description": "Edit Notes like in Notion.so. Full-Stack App using React/Express.",
+    "language": "JavaScript",
+    "star": "192"
+  },
+  {
+    "title": "ThatGuySam/doesitarm",
+    "url": "https://github.com/ThatGuySam/doesitarm",
+    "description": "🦾 A list of reported app support for Apple Silicon",
+    "language": "Vue",
+    "star": "144"
+  },
+  {
+    "title": "Litteeen/AmongLock",
+    "url": "https://github.com/Litteeen/AmongLock",
+    "description": "You were not the owner of this device",
+    "language": "Objective-C",
+    "star": "59"
+  },
+  {
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "description": "Educational blog posts for Rust beginners",
+    "language": "Rust",
+    "star": "148"
+  },
+  {
+    "title": "zhm-real/PathPlanning",
+    "url": "https://github.com/zhm-real/PathPlanning",
+    "description": "Common used path planning algorithms with animations.",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "munki/macadmin-scripts",
+    "url": "https://github.com/munki/macadmin-scripts",
+    "description": "Scripts of possible interest to macOS admins",
+    "language": "Python",
+    "star": "61"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "description": "🎉 A Vue.js 3.0 UI Library",
+    "language": "Vue",
+    "star": "358"
+  },
+  {
+    "title": "VKCOM/kphp",
+    "url": "https://github.com/VKCOM/kphp",
+    "description": "KPHP — a PHP compiler",
+    "language": "C++",
+    "star": "100"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "language": "Python",
+    "star": "63"
+  },
+  {
+    "title": "google-research-datasets/Objectron",
+    "url": "https://github.com/google-research-datasets/Objectron",
+    "description": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…",
+    "language": "Jupyter Notebook",
+    "star": "111"
+  },
+  {
+    "title": "barrykn/big-sur-micropatcher",
+    "url": "https://github.com/barrykn/big-sur-micropatcher",
+    "description": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "language": "Shell",
+    "star": "58"
+  },
+  {
+    "title": "redisson/redisson",
+    "url": "https://github.com/redisson/redisson",
+    "description": "Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...",
+    "language": "Java",
+    "star": "32"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliTool",
+    "url": "https://github.com/RayWangQvQ/BiliBiliTool",
+    "description": ".Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。",
+    "language": "C#",
+    "star": "151"
+  },
+  {
+    "title": "ComodoSecurity/openedr",
+    "url": "https://github.com/ComodoSecurity/openedr",
+    "description": "Open EDR public repository",
+    "language": "C++",
+    "star": "178"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "description": "Open Source Web Application Framework for ASP.NET Core",
+    "language": "C#",
+    "star": "29"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "Headless Chrome Node.js API",
+    "language": "TypeScript",
+    "star": "84"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "88"
+  },
+  {
+    "title": "dotnet/interactive",
+    "url": "https://github.com/dotnet/interactive",
+    "description": ".NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.",
+    "language": "C#",
+    "star": "39"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "One framework. Mobile & desktop.",
+    "language": "TypeScript",
+    "star": "95"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "language": "TypeScript",
+    "star": "179"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "206"
+  }
+]

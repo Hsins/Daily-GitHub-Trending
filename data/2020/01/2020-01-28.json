@@ -1,0 +1,177 @@
+[
+  {
+    "title": "meik97/XSpotify",
+    "url": "https://github.com/meik97/XSpotify",
+    "description": "A modified Spotify client with DRM bypass.",
+    "language": "C++",
+    "star": "370"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "507"
+  },
+  {
+    "title": "wuhan2020/wuhan2020",
+    "url": "https://github.com/wuhan2020/wuhan2020",
+    "description": "武汉新型冠状病毒防疫信息收集平台",
+    "language": "none",
+    "star": "523"
+  },
+  {
+    "title": "abdulr7mann/hackerEnv",
+    "url": "https://github.com/abdulr7mann/hackerEnv",
+    "description": "",
+    "language": "Shell",
+    "star": "81"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "description": "📌 A guide for amateurs pen testers and a collection of hacking tools, resources and references to practice ethical hacking, pen testing and web security.",
+    "language": "none",
+    "star": "233"
+  },
+  {
+    "title": "hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "url": "https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet",
+    "description": "Various tips & tricks",
+    "language": "C",
+    "star": "203"
+  },
+  {
+    "title": "v2net/Apple",
+    "url": "https://github.com/v2net/Apple",
+    "description": "苹果美区账号 APPLE ID 免费账号共享",
+    "language": "none",
+    "star": "73"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero dependencies. Stable 0.2 release in January 2020. https://vlang.io",
+    "language": "V",
+    "star": "70"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "language": "PHP",
+    "star": "44"
+  },
+  {
+    "title": "ionicfirebaseapp/getflutter",
+    "url": "https://github.com/ionicfirebaseapp/getflutter",
+    "description": "Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app.",
+    "language": "Dart",
+    "star": "103"
+  },
+  {
+    "title": "fengdu78/Coursera-ML-AndrewNg-Notes",
+    "url": "https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes",
+    "description": "吴恩达老师的机器学习课程个人笔记",
+    "language": "HTML",
+    "star": "18"
+  },
+  {
+    "title": "lucidrains/reformer-pytorch",
+    "url": "https://github.com/lucidrains/reformer-pytorch",
+    "description": "Reformer, the efficient Transformer, in Pytorch",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "home-assistant/home-assistant",
+    "url": "https://github.com/home-assistant/home-assistant",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "TypeScript",
+    "star": "234"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "description": "List of Development YouTube Channels",
+    "language": "none",
+    "star": "98"
+  },
+  {
+    "title": "freddier/hyperblog",
+    "url": "https://github.com/freddier/hyperblog",
+    "description": "Un blog increíble para el curso de Git y Github de Platzi",
+    "language": "HTML",
+    "star": "14"
+  },
+  {
+    "title": "thangchung/awesome-dotnet-core",
+    "url": "https://github.com/thangchung/awesome-dotnet-core",
+    "description": "🐝 A collection of awesome .NET core libraries, tools, frameworks and software",
+    "language": "C#",
+    "star": "36"
+  },
+  {
+    "title": "233boy/v2ray",
+    "url": "https://github.com/233boy/v2ray",
+    "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
+    "language": "Shell",
+    "star": "21"
+  },
+  {
+    "title": "nextstrain/ncov",
+    "url": "https://github.com/nextstrain/ncov",
+    "description": "Nextstrain build for novel coronavirus (nCoV)",
+    "language": "Python",
+    "star": "20"
+  },
+  {
+    "title": "SoftUni/csharp-web",
+    "url": "https://github.com/SoftUni/csharp-web",
+    "description": "This is the official GitHub repository for the C# Web Development courses",
+    "language": "C#",
+    "star": "4"
+  },
+  {
+    "title": "fish-shell/fish-shell",
+    "url": "https://github.com/fish-shell/fish-shell",
+    "description": "The user-friendly command line shell.",
+    "language": "Shell",
+    "star": "34"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "star": "44"
+  },
+  {
+    "title": "boston-dynamics/spot-sdk",
+    "url": "https://github.com/boston-dynamics/spot-sdk",
+    "description": "Spot SDK repo",
+    "language": "HTML",
+    "star": "66"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "54"
+  },
+  {
+    "title": "systemd/systemd",
+    "url": "https://github.com/systemd/systemd",
+    "description": "The systemd System and Service Manager",
+    "language": "C",
+    "star": "74"
+  }
+]

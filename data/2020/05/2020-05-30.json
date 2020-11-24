@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebookresearch/detr",
+    "url": "https://github.com/facebookresearch/detr",
+    "description": "End-to-End Object Detection with Transformers",
+    "language": "Python",
+    "star": "617"
+  },
+  {
+    "title": "mertJF/tailblocks",
+    "url": "https://github.com/mertJF/tailblocks",
+    "description": "🎉 Ready-to-use Tailwind CSS blocks.",
+    "language": "JavaScript",
+    "star": "442"
+  },
+  {
+    "title": "pikapkg/create-snowpack-app",
+    "url": "https://github.com/pikapkg/create-snowpack-app",
+    "description": "CSA - Get started with the fastest dev environment available.",
+    "language": "JavaScript",
+    "star": "48"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "language": "C++",
+    "star": "115"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "language": "Go",
+    "star": "107"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "language": "C++",
+    "star": "38"
+  },
+  {
+    "title": "alibaba/fastjson",
+    "url": "https://github.com/alibaba/fastjson",
+    "description": "A fast JSON parser/generator for Java.",
+    "language": "Java",
+    "star": "36"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "language": "Python",
+    "star": "85"
+  },
+  {
+    "title": "zyedidia/micro",
+    "url": "https://github.com/zyedidia/micro",
+    "description": "A modern and intuitive terminal-based text editor",
+    "language": "Go",
+    "star": "214"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "210"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (May 2020)",
+    "language": "JavaScript",
+    "star": "219"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "184"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "188"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "556"
+  },
+  {
+    "title": "fw876/helloworld",
+    "url": "https://github.com/fw876/helloworld",
+    "description": "",
+    "language": "Lua",
+    "star": "24"
+  },
+  {
+    "title": "huangruiLearn/flutter_hrlweibo",
+    "url": "https://github.com/huangruiLearn/flutter_hrlweibo",
+    "description": "Flutter仿微博客户端, 包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块",
+    "language": "Dart",
+    "star": "108"
+  },
+  {
+    "title": "zhoubolei/introRL",
+    "url": "https://github.com/zhoubolei/introRL",
+    "description": "Intro to Reinforcement Learning (强化学习纲要）",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "neherlab/covid19_scenarios",
+    "url": "https://github.com/neherlab/covid19_scenarios",
+    "description": "Models of COVID-19 outbreak trajectories and hospital demand",
+    "language": "TypeScript",
+    "star": "28"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "124"
+  },
+  {
+    "title": "pikapkg/snowpack",
+    "url": "https://github.com/pikapkg/snowpack",
+    "description": "☶ A faster dev environment for modern web apps.",
+    "language": "JavaScript",
+    "star": "275"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "34"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "description": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "language": "Jupyter Notebook",
+    "star": "56"
+  },
+  {
+    "title": "extendedmode/extendedmode",
+    "url": "https://github.com/extendedmode/extendedmode",
+    "description": "Community fork of es_extended",
+    "language": "Lua",
+    "star": "5"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "description": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "language": "Vue",
+    "star": "155"
+  },
+  {
+    "title": "TheWizWikii/WIKISTORE",
+    "url": "https://github.com/TheWizWikii/WIKISTORE",
+    "description": "App/Game para PS3",
+    "language": "none",
+    "star": "6"
+  }
+]

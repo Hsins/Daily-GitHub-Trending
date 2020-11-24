@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "JetBrains/skija",
+    "url": "https://github.com/JetBrains/skija",
+    "description": "Skia bindings for Java",
+    "language": "Java",
+    "star": "326"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "969"
+  },
+  {
+    "title": "braisdom/ObjectiveSql",
+    "url": "https://github.com/braisdom/ObjectiveSql",
+    "description": "ObjectiveSQL is an ORM framework in Java base on ActiveRecord pattern, which encourages rapid development and clean, codes with the least and convention over configuration.",
+    "language": "Java",
+    "star": "111"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "402"
+  },
+  {
+    "title": "reHackable/awesome-reMarkable",
+    "url": "https://github.com/reHackable/awesome-reMarkable",
+    "description": "A curated list of projects related to the reMarkable tablet",
+    "language": "none",
+    "star": "275"
+  },
+  {
+    "title": "rtcatc/Packer-Fuzzer",
+    "url": "https://github.com/rtcatc/Packer-Fuzzer",
+    "description": "Packer Fuzzer is a fast and efficient scanner for security detection of websites constructed by javascript module bundler such as Webpack.",
+    "language": "Python",
+    "star": "72"
+  },
+  {
+    "title": "BrasilAPI/BrasilAPI",
+    "url": "https://github.com/BrasilAPI/BrasilAPI",
+    "description": "Vamos transformar o Brasil em uma API?",
+    "language": "JavaScript",
+    "star": "210"
+  },
+  {
+    "title": "antonioru/beautiful-react-diagrams",
+    "url": "https://github.com/antonioru/beautiful-react-diagrams",
+    "description": "A tiny collection of lightweight React components for building diagrams with ease 💎",
+    "language": "JavaScript",
+    "star": "635"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "278"
+  },
+  {
+    "title": "ThatGuySam/doesitarm",
+    "url": "https://github.com/ThatGuySam/doesitarm",
+    "description": "🦾 A list of reported app support for Apple Silicon",
+    "language": "Vue",
+    "star": "193"
+  },
+  {
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "description": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "language": "Python",
+    "star": "439"
+  },
+  {
+    "title": "TsinghuaAI/CPM-Generate",
+    "url": "https://github.com/TsinghuaAI/CPM-Generate",
+    "description": "Chinese Pre-Trained Language Models (CPM-LM) Version-I",
+    "language": "Python",
+    "star": "133"
+  },
+  {
+    "title": "hzwer/arXiv2020-RIFE",
+    "url": "https://github.com/hzwer/arXiv2020-RIFE",
+    "description": "RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation",
+    "language": "Python",
+    "star": "76"
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "description": "k0s - Zero Friction Kubernetes",
+    "language": "Go",
+    "star": "337"
+  },
+  {
+    "title": "bacen/pix-api",
+    "url": "https://github.com/bacen/pix-api",
+    "description": "API Pix: a API do Arranjo de Pagamentos Instantâneos Brasileiro.",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "vectorizedio/redpanda",
+    "url": "https://github.com/vectorizedio/redpanda",
+    "description": "Redpanda is the real-time engine for modern apps.",
+    "language": "C++",
+    "star": "172"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "language": "Python",
+    "star": "164"
+  },
+  {
+    "title": "odensc/ttv-ublock",
+    "url": "https://github.com/odensc/ttv-ublock",
+    "description": "Blocking ads on that certain streaming website",
+    "language": "JavaScript",
+    "star": "62"
+  },
+  {
+    "title": "joke2k/faker",
+    "url": "https://github.com/joke2k/faker",
+    "description": "Faker is a Python package that generates fake data for you.",
+    "language": "Python",
+    "star": "221"
+  },
+  {
+    "title": "nelsontky/gh-pages-url-shortener",
+    "url": "https://github.com/nelsontky/gh-pages-url-shortener",
+    "description": "Minimal URL shortener that can be entirely hosted on GitHub pages.",
+    "language": "HTML",
+    "star": "79"
+  },
+  {
+    "title": "soulmachine/machine-learning-cheat-sheet",
+    "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
+    "description": "Classical equations and diagrams in machine learning",
+    "language": "TeX",
+    "star": "89"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "language": "JavaScript",
+    "star": "96"
+  },
+  {
+    "title": "kakoni/awesome-healthcare",
+    "url": "https://github.com/kakoni/awesome-healthcare",
+    "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
+    "language": "none",
+    "star": "83"
+  },
+  {
+    "title": "bradleyboehmke/data-science-learning-resources",
+    "url": "https://github.com/bradleyboehmke/data-science-learning-resources",
+    "description": "A collection of machine learning resources that I've found helpful (I only post what I've read!)",
+    "language": "none",
+    "star": "56"
+  }
+]

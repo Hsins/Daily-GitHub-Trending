@@ -1,0 +1,177 @@
+[
+  {
+    "title": "radareorg/cutter",
+    "url": "https://github.com/radareorg/cutter",
+    "description": "Free and Open Source Reverse Engineering Platform powered by radare2",
+    "language": "C++",
+    "star": "195"
+  },
+  {
+    "title": "raviksharma/bartosz-basics-of-haskell",
+    "url": "https://github.com/raviksharma/bartosz-basics-of-haskell",
+    "description": "Code and exercises from Bartosz Milewski's Basics of Haskell Tutorial",
+    "language": "Haskell",
+    "star": "32"
+  },
+  {
+    "title": "OSCPU/NutShell",
+    "url": "https://github.com/OSCPU/NutShell",
+    "description": "RISC-V SoC designed by students in UCAS",
+    "language": "Scala",
+    "star": "93"
+  },
+  {
+    "title": "mrdbourke/machine-learning-roadmap",
+    "url": "https://github.com/mrdbourke/machine-learning-roadmap",
+    "description": "A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.",
+    "language": "none",
+    "star": "473"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "description": "Comprehensive Python Cheatsheet",
+    "language": "Python",
+    "star": "302"
+  },
+  {
+    "title": "elyase/awesome-gpt3",
+    "url": "https://github.com/elyase/awesome-gpt3",
+    "description": "",
+    "language": "none",
+    "star": "192"
+  },
+  {
+    "title": "surya-veer/movement-tracking",
+    "url": "https://github.com/surya-veer/movement-tracking",
+    "description": "UP - DOWN - LEFT - RIGHT movement tracking.",
+    "language": "Python",
+    "star": "98"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "47"
+  },
+  {
+    "title": "iammukeshm/CleanArchitecture.WebApi",
+    "url": "https://github.com/iammukeshm/CleanArchitecture.WebApi",
+    "description": "An implementation of Clean Architecture for ASP.NET Core 3.1 WebAPI. Built with loosely coupled architecture and clean-code practices in mind.",
+    "language": "C#",
+    "star": "19"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "description": "⚡ Dynamically generated stats for your github readmes",
+    "language": "JavaScript",
+    "star": "550"
+  },
+  {
+    "title": "WebDevSimplified/Zoom-Clone-With-WebRTC",
+    "url": "https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC",
+    "description": "",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "shreyashankar/gpt3-sandbox",
+    "url": "https://github.com/shreyashankar/gpt3-sandbox",
+    "description": "The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.",
+    "language": "JavaScript",
+    "star": "108"
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "description": "An open source re-implementation of Diablo 2",
+    "language": "Go",
+    "star": "92"
+  },
+  {
+    "title": "shoelace-style/shoelace",
+    "url": "https://github.com/shoelace-style/shoelace",
+    "description": "A collection of professionally designed, every day UI components built on a framework-agnostic technology.",
+    "language": "TypeScript",
+    "star": "62"
+  },
+  {
+    "title": "karanpratapsingh/fullstack-starterkit",
+    "url": "https://github.com/karanpratapsingh/fullstack-starterkit",
+    "description": "GraphQL first full-stack starter kit with Node, React. Powered by TypeScript",
+    "language": "TypeScript",
+    "star": "158"
+  },
+  {
+    "title": "matplotlib/cheatsheets",
+    "url": "https://github.com/matplotlib/cheatsheets",
+    "description": "Official Matplotlib cheat sheets",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "206"
+  },
+  {
+    "title": "UZ-SLAMLab/ORB_SLAM3",
+    "url": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+    "description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+    "language": "C++",
+    "star": "143"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "star": "109"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "TypeScript",
+    "star": "61"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "294"
+  },
+  {
+    "title": "Delta2Force/MCVmComputers",
+    "url": "https://github.com/Delta2Force/MCVmComputers",
+    "description": "Order computer parts from a satellite orbiting around your minecraft world and build actual working computers with them!",
+    "language": "Java",
+    "star": "20"
+  },
+  {
+    "title": "cmiscm/leonsans",
+    "url": "https://github.com/cmiscm/leonsans",
+    "description": "Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim.",
+    "language": "JavaScript",
+    "star": "95"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "language": "Rust",
+    "star": "41"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "101"
+  }
+]

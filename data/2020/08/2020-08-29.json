@@ -1,0 +1,177 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "description": "",
+    "language": "Kotlin",
+    "star": "202"
+  },
+  {
+    "title": "arwes/arwes",
+    "url": "https://github.com/arwes/arwes",
+    "description": "Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps",
+    "language": "JavaScript",
+    "star": "458"
+  },
+  {
+    "title": "codeedu/maratona-fullcycle-4",
+    "url": "https://github.com/codeedu/maratona-fullcycle-4",
+    "description": "",
+    "language": "HTML",
+    "star": "20"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "Headless Chrome Node.js API",
+    "language": "TypeScript",
+    "star": "117"
+  },
+  {
+    "title": "iggredible/Learn-Vim",
+    "url": "https://github.com/iggredible/Learn-Vim",
+    "description": "A book for learning the Vim editor",
+    "language": "none",
+    "star": "439"
+  },
+  {
+    "title": "fireeye/speakeasy",
+    "url": "https://github.com/fireeye/speakeasy",
+    "description": "Windows kernel and user mode emulation.",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "intel-isl/OpenBot",
+    "url": "https://github.com/intel-isl/OpenBot",
+    "description": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.",
+    "language": "Java",
+    "star": "267"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "description": "The Ultimate Go Study Guide",
+    "language": "Go",
+    "star": "291"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (August 2020)",
+    "language": "JavaScript",
+    "star": "192"
+  },
+  {
+    "title": "wpine215/msfs-a320neo",
+    "url": "https://github.com/wpine215/msfs-a320neo",
+    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "language": "HTML",
+    "star": "122"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "495"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "169"
+  },
+  {
+    "title": "kkbjs/element3",
+    "url": "https://github.com/kkbjs/element3",
+    "description": "(WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web",
+    "language": "Vue",
+    "star": "64"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "168"
+  },
+  {
+    "title": "tightenco/takeout",
+    "url": "https://github.com/tightenco/takeout",
+    "description": "Docker-based development-only dependency manager; pairs with Valet.",
+    "language": "PHP",
+    "star": "93"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "language": "JavaScript",
+    "star": "85"
+  },
+  {
+    "title": "themesberg/volt-bootstrap-5-dashboard",
+    "url": "https://github.com/themesberg/volt-bootstrap-5-dashboard",
+    "description": "⚡️ Volt - Bootstrap 5 Admin Dashboard Template with vanilla Javascript",
+    "language": "HTML",
+    "star": "222"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "192"
+  },
+  {
+    "title": "jeanrauwers/mern-course-bootcamp",
+    "url": "https://github.com/jeanrauwers/mern-course-bootcamp",
+    "description": "Complete Free Coding Bootcamp 2020 MERN Stack",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "description": "A set of best practices for JavaScript projects",
+    "language": "JavaScript",
+    "star": "88"
+  },
+  {
+    "title": "kodekloudhub/certified-kubernetes-administrator-course",
+    "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "description": "Certified Kubernetes Administrator - CKA Course",
+    "language": "Shell",
+    "star": "134"
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "language": "JavaScript",
+    "star": "229"
+  },
+  {
+    "title": "model-zoo/shift-ctrl-f",
+    "url": "https://github.com/model-zoo/shift-ctrl-f",
+    "description": "🔎 Search the information available on a webpage using natural language instead of an exact string match.",
+    "language": "JavaScript",
+    "star": "235"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs-python",
+    "url": "https://github.com/ForrestKnight/open-source-cs-python",
+    "description": "Video discussing this curriculum:",
+    "language": "none",
+    "star": "165"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "language": "Rust",
+    "star": "300"
+  }
+]

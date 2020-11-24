@@ -1,0 +1,177 @@
+[
+  {
+    "title": "gaearon/whatthefuck.is",
+    "url": "https://github.com/gaearon/whatthefuck.is",
+    "description": "An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.",
+    "language": "CSS",
+    "star": "516"
+  },
+  {
+    "title": "RandalLinden/DOOM-FX",
+    "url": "https://github.com/RandalLinden/DOOM-FX",
+    "description": "Doom/FX for Super Nintendo with SuperFX GSU2A",
+    "language": "Assembly",
+    "star": "86"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "description": "Public interface definitions of Google APIs.",
+    "language": "Starlark",
+    "star": "114"
+  },
+  {
+    "title": "ivanpaulovich/clean-architecture-manga",
+    "url": "https://github.com/ivanpaulovich/clean-architecture-manga",
+    "description": "🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks",
+    "language": "C#",
+    "star": "157"
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "description": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "language": "Python",
+    "star": "174"
+  },
+  {
+    "title": "TowhidKashem/snapchat-clone",
+    "url": "https://github.com/TowhidKashem/snapchat-clone",
+    "description": "👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!",
+    "language": "TypeScript",
+    "star": "119"
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "description": "A collection of awesome readme templates to display on your profile",
+    "language": "JavaScript",
+    "star": "571"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "281"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "language": "none",
+    "star": "389"
+  },
+  {
+    "title": "abhisheknaiidu/awesome-github-profile-readme",
+    "url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
+    "description": "A curated list of awesome Github Profile READMEs",
+    "language": "JavaScript",
+    "star": "177"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "description": "📝 An awesome Data Science repository to learn and apply for real world problems.",
+    "language": "none",
+    "star": "96"
+  },
+  {
+    "title": "photonstorm/phaser",
+    "url": "https://github.com/photonstorm/phaser",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+    "language": "JavaScript",
+    "star": "43"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "description": "Create UIs for prototyping your machine learning model in 3 minutes",
+    "language": "Python",
+    "star": "149"
+  },
+  {
+    "title": "ChoudharyChanchal/game_control",
+    "url": "https://github.com/ChoudharyChanchal/game_control",
+    "description": "",
+    "language": "Python",
+    "star": "88"
+  },
+  {
+    "title": "LetsUpgrade/Javascript-Essentials",
+    "url": "https://github.com/LetsUpgrade/Javascript-Essentials",
+    "description": "",
+    "language": "JavaScript",
+    "star": "51"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "star": "138"
+  },
+  {
+    "title": "basir/node-react-ecommerce",
+    "url": "https://github.com/basir/node-react-ecommerce",
+    "description": "Build ECommerce Website Like Amazon By React & Node & MongoDB",
+    "language": "JavaScript",
+    "star": "76"
+  },
+  {
+    "title": "GuidoBartoli/sherloq",
+    "url": "https://github.com/GuidoBartoli/sherloq",
+    "description": "An open-source digital image forensic toolset",
+    "language": "Perl",
+    "star": "45"
+  },
+  {
+    "title": "x2rr/funds",
+    "url": "https://github.com/x2rr/funds",
+    "description": "自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况",
+    "language": "Vue",
+    "star": "32"
+  },
+  {
+    "title": "JakeWharton/adb-event-mirror",
+    "url": "https://github.com/JakeWharton/adb-event-mirror",
+    "description": "Mirror the touch/key/button events of one device onto one or more other devices in real-time",
+    "language": "Kotlin",
+    "star": "99"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "description": "GPT-3: Language Models are Few-Shot Learners",
+    "language": "none",
+    "star": "109"
+  },
+  {
+    "title": "erluxman/awesomefluttertips",
+    "url": "https://github.com/erluxman/awesomefluttertips",
+    "description": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
+    "language": "Dart",
+    "star": "120"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "20"
+  },
+  {
+    "title": "fuzhengwei/CodeGuide",
+    "url": "https://github.com/fuzhengwei/CodeGuide",
+    "description": "📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！",
+    "language": "none",
+    "star": "161"
+  },
+  {
+    "title": "microsoft/Microsoft-threat-protection-Hunting-Queries",
+    "url": "https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries",
+    "description": "Sample queries for Advanced hunting in Microsoft Threat Protection",
+    "language": "Jupyter Notebook",
+    "star": "28"
+  }
+]

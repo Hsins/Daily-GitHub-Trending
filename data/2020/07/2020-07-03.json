@@ -1,0 +1,177 @@
+[
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "description": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/",
+    "language": "JavaScript",
+    "star": "102"
+  },
+  {
+    "title": "microsoft/cascadia-code",
+    "url": "https://github.com/microsoft/cascadia-code",
+    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "language": "Python",
+    "star": "153"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "language": "Go",
+    "star": "189"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "66"
+  },
+  {
+    "title": "WeiYe-Jing/datax-web",
+    "url": "https://github.com/WeiYe-Jing/datax-web",
+    "description": "DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。",
+    "language": "Java",
+    "star": "54"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "49"
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "description": "Python training for business analysts and traders",
+    "language": "Jupyter Notebook",
+    "star": "134"
+  },
+  {
+    "title": "elastic/detection-rules",
+    "url": "https://github.com/elastic/detection-rules",
+    "description": "Rules for the Detection Engine in Elastic Security",
+    "language": "Python",
+    "star": "88"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "description": "Ultimate Go study guide",
+    "language": "Go",
+    "star": "275"
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "description": "Learning Convolutional Neural Networks with Interactive Visualization.",
+    "language": "JavaScript",
+    "star": "142"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "description": "📋 React Hooks for forms validation (Web + React Native)",
+    "language": "TypeScript",
+    "star": "197"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "description": "",
+    "language": "Java",
+    "star": "25"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "star": "77"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "description": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "language": "none",
+    "star": "97"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "description": "Based on a true story",
+    "language": "JavaScript",
+    "star": "109"
+  },
+  {
+    "title": "snipsnapdev/snipsnap",
+    "url": "https://github.com/snipsnapdev/snipsnap",
+    "description": "The ultimate snippets collection for VS Code",
+    "language": "none",
+    "star": "73"
+  },
+  {
+    "title": "coodict/python3-in-one-pic",
+    "url": "https://github.com/coodict/python3-in-one-pic",
+    "description": "Learn python3 in one picture.",
+    "language": "Jupyter Notebook",
+    "star": "133"
+  },
+  {
+    "title": "PrestaShop/PrestaShop",
+    "url": "https://github.com/PrestaShop/PrestaShop",
+    "description": "PrestaShop offers a fully scalable open source ecommerce solution.",
+    "language": "PHP",
+    "star": "73"
+  },
+  {
+    "title": "trungk18/jira-clone-angular",
+    "url": "https://github.com/trungk18/jira-clone-angular",
+    "description": "A simplified Jira clone built with Angular 9 and Akita",
+    "language": "TypeScript",
+    "star": "73"
+  },
+  {
+    "title": "open-mmlab/OpenPCDet",
+    "url": "https://github.com/open-mmlab/OpenPCDet",
+    "description": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "johannesjo/super-productivity",
+    "url": "https://github.com/johannesjo/super-productivity",
+    "description": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
+    "language": "TypeScript",
+    "star": "133"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "description": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "language": "C#",
+    "star": "11"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "language": "JavaScript",
+    "star": "69"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "description": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
+    "language": "none",
+    "star": "162"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "description": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "language": "C#",
+    "star": "31"
+  }
+]

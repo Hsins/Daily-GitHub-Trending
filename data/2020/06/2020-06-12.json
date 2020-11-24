@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "description": "YOLOv5 in PyTorch > ONNX > CoreML > iOS",
+    "language": "Jupyter Notebook",
+    "star": "305"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "241"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "description": "Streamlit — The fastest way to build custom ML tools",
+    "language": "TypeScript",
+    "star": "138"
+  },
+  {
+    "title": "phpstan/phpstan",
+    "url": "https://github.com/phpstan/phpstan",
+    "description": "PHP Static Analysis Tool - discover bugs in your code without running it!",
+    "language": "HTML",
+    "star": "62"
+  },
+  {
+    "title": "fengdu78/lihang-code",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "description": "《统计学习方法》的代码实现",
+    "language": "Jupyter Notebook",
+    "star": "98"
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "description": "Bringing Characters to Life with Computer Brains in Unity",
+    "language": "C++",
+    "star": "128"
+  },
+  {
+    "title": "xgenecloud/xgenecloud",
+    "url": "https://github.com/xgenecloud/xgenecloud",
+    "description": "🔥 🔥 Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB)",
+    "language": "JavaScript",
+    "star": "181"
+  },
+  {
+    "title": "cloudflare/utahfs",
+    "url": "https://github.com/cloudflare/utahfs",
+    "description": "UtahFS is an encrypted storage system that provides a user-friendly FUSE drive backed by cloud storage.",
+    "language": "Go",
+    "star": "98"
+  },
+  {
+    "title": "yunuscadirci/CallStranger",
+    "url": "https://github.com/yunuscadirci/CallStranger",
+    "description": "Vulnerability checker for Callstranger (CVE-2020-12695)",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "LingDong-/shan-shui-inf",
+    "url": "https://github.com/LingDong-/shan-shui-inf",
+    "description": "Procedurally generated Chinese landscape painting.",
+    "language": "HTML",
+    "star": "103"
+  },
+  {
+    "title": "microsoft/hummingbird",
+    "url": "https://github.com/microsoft/hummingbird",
+    "description": "Hummingbird compiles trained ML models into tensor computation for faster inference.",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "description": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.",
+    "language": "none",
+    "star": "122"
+  },
+  {
+    "title": "EduardoPires/EquinoxProject",
+    "url": "https://github.com/EduardoPires/EquinoxProject",
+    "description": "Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts",
+    "language": "C#",
+    "star": "29"
+  },
+  {
+    "title": "someshkar/colabcat",
+    "url": "https://github.com/someshkar/colabcat",
+    "description": "😸 Running Hashcat on Google Colab with session backup and restore.",
+    "language": "Jupyter Notebook",
+    "star": "28"
+  },
+  {
+    "title": "googleapis/google-cloud-go",
+    "url": "https://github.com/googleapis/google-cloud-go",
+    "description": "Google Cloud Client Libraries for Go.",
+    "language": "Go",
+    "star": "16"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "language": "PHP",
+    "star": "48"
+  },
+  {
+    "title": "marcobambini/gravity",
+    "url": "https://github.com/marcobambini/gravity",
+    "description": "Gravity Programming Language",
+    "language": "C",
+    "star": "60"
+  },
+  {
+    "title": "files-community/files-uwp",
+    "url": "https://github.com/files-community/files-uwp",
+    "description": "\"More than just a rewrite of Windows Explorer\"",
+    "language": "C#",
+    "star": "55"
+  },
+  {
+    "title": "GoogleCloudPlatform/community",
+    "url": "https://github.com/GoogleCloudPlatform/community",
+    "description": "This repository holds the content submitted to https://cloud.google.com/community. Files added to the tutorials/ will appear at https://cloud.google.com/community/tutorials.",
+    "language": "Java",
+    "star": "6"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "ksindi/managers-playbook",
+    "url": "https://github.com/ksindi/managers-playbook",
+    "description": "📖 Heuristics for effective management",
+    "language": "none",
+    "star": "37"
+  },
+  {
+    "title": "mettle/sendportal",
+    "url": "https://github.com/mettle/sendportal",
+    "description": "Open-source self-hosted email marketing. Manage your own newsletters at a fraction of the cost.",
+    "language": "PHP",
+    "star": "42"
+  },
+  {
+    "title": "KuroLabs/stegcloak",
+    "url": "https://github.com/KuroLabs/stegcloak",
+    "description": "Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐",
+    "language": "JavaScript",
+    "star": "187"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "222"
+  },
+  {
+    "title": "rossumur/esp_8_bit",
+    "url": "https://github.com/rossumur/esp_8_bit",
+    "description": "Atari 8 bit computers, NES and SMS game consoles on your TV with nothing more than a ESP32 and a sense of nostalgia",
+    "language": "C",
+    "star": "34"
+  }
+]

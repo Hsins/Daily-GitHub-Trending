@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
+    "language": "TypeScript",
+    "star": "17"
+  },
+  {
+    "title": "muesli/duf",
+    "url": "https://github.com/muesli/duf",
+    "description": "Disk Usage/Free Utility",
+    "language": "Go",
+    "star": "936"
+  },
+  {
+    "title": "codemix/ts-sql",
+    "url": "https://github.com/codemix/ts-sql",
+    "description": "A SQL database implemented purely in TypeScript type annotations.",
+    "language": "TypeScript",
+    "star": "303"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "116"
+  },
+  {
+    "title": "blushft/go-diagrams",
+    "url": "https://github.com/blushft/go-diagrams",
+    "description": "Create beautiful system diagrams with Go",
+    "language": "Go",
+    "star": "352"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "152"
+  },
+  {
+    "title": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "language": "JavaScript",
+    "star": "85"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "301"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "star": "95"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "187"
+  },
+  {
+    "title": "airbnb/visx",
+    "url": "https://github.com/airbnb/visx",
+    "description": "🐯 visx | visualization components",
+    "language": "TypeScript",
+    "star": "339"
+  },
+  {
+    "title": "openai/jukebox",
+    "url": "https://github.com/openai/jukebox",
+    "description": "Code for the paper \"Jukebox: A Generative Model for Music\"",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "crweiner/hacktoberfest-swag-list",
+    "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+    "description": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.",
+    "language": "Ruby",
+    "star": "36"
+  },
+  {
+    "title": "kubeedge/kubeedge",
+    "url": "https://github.com/kubeedge/kubeedge",
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+    "language": "Go",
+    "star": "41"
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "description": "For empowering community 🌱",
+    "language": "Ruby",
+    "star": "36"
+  },
+  {
+    "title": "lxk0301/scripts",
+    "url": "https://github.com/lxk0301/scripts",
+    "description": "京东薅羊毛工具（活动入口：京东app->我的->游戏与互动->查看更多）讨论组：https://t.me/JD_fruit_pet",
+    "language": "JavaScript",
+    "star": "28"
+  },
+  {
+    "title": "alinebastos/vagas-junior-estagio",
+    "url": "https://github.com/alinebastos/vagas-junior-estagio",
+    "description": "Empresas que constantemente oferecem vagas para junior e estagiários",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "vuetifyjs/vuetify",
+    "url": "https://github.com/vuetifyjs/vuetify",
+    "description": "🐉 Material Component Framework for Vue",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "kov4l3nko/MEDUZA",
+    "url": "https://github.com/kov4l3nko/MEDUZA",
+    "description": "A more or less universal SSL unpinning tool for iOS",
+    "language": "Python",
+    "star": "20"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "description": "Terraform module which creates VPC resources on AWS",
+    "language": "HCL",
+    "star": "12"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "star": "99"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "description": "Azure Command-Line Interface",
+    "language": "Python",
+    "star": "10"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "description": "A collection of awesome things regarding React ecosystem",
+    "language": "none",
+    "star": "42"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "352"
+  }
+]

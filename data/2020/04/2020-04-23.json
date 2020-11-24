@@ -1,0 +1,177 @@
+[
+  {
+    "title": "claudiodangelis/qrcp",
+    "url": "https://github.com/claudiodangelis/qrcp",
+    "description": "⚡ Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.",
+    "language": "Go",
+    "star": "748"
+  },
+  {
+    "title": "DP-3T/dp3t-app-ios",
+    "url": "https://github.com/DP-3T/dp3t-app-ios",
+    "description": "The DP3T-App for iOS",
+    "language": "Swift",
+    "star": "50"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "description": "Distributed database middleware",
+    "language": "Java",
+    "star": "131"
+  },
+  {
+    "title": "natewong1313/bird-bot",
+    "url": "https://github.com/natewong1313/bird-bot",
+    "description": "A Nintendo Switch checkout bot. Currently supports Walmart and Best buy",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android",
+    "url": "https://github.com/LukasLechnerDev/Kotlin-Coroutine-Use-Cases-on-Android",
+    "description": "🎓 Learning Kotlin Coroutines for Android by example. 🚀 Sample implementations for real-world Android use cases. 🛠 Unit tests included!",
+    "language": "Kotlin",
+    "star": "72"
+  },
+  {
+    "title": "Baekalfen/PyBoy",
+    "url": "https://github.com/Baekalfen/PyBoy",
+    "description": "Game Boy emulator written in Python",
+    "language": "Python",
+    "star": "279"
+  },
+  {
+    "title": "VIP-Share/Baidu-XunleiVIP",
+    "url": "https://github.com/VIP-Share/Baidu-XunleiVIP",
+    "description": "百度网盘超级会员，迅雷会员、爱奇艺会员账号每日分享，还有优酷，腾讯，芒果等VIP。AND。百度网盘(百度云)不限速工具分享。",
+    "language": "none",
+    "star": "229"
+  },
+  {
+    "title": "orbitdb/orbit-db",
+    "url": "https://github.com/orbitdb/orbit-db",
+    "description": "Peer-to-Peer Databases for the Decentralized Web",
+    "language": "JavaScript",
+    "star": "124"
+  },
+  {
+    "title": "oneinfra/oneinfra",
+    "url": "https://github.com/oneinfra/oneinfra",
+    "description": "Kubernetes as a Service",
+    "language": "Go",
+    "star": "70"
+  },
+  {
+    "title": "lpg-it/BaiduYunVIP",
+    "url": "https://github.com/lpg-it/BaiduYunVIP",
+    "description": "百度云百度网盘超级会员账号SVIP账号免费分享, 另分享多款百度网盘不限速下载工具以及各大平台会员账号（迅雷 优酷 爱奇艺 腾讯视频等）.",
+    "language": "none",
+    "star": "128"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "description": "Avatars for Zoom and Skype",
+    "language": "Python",
+    "star": "338"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "description": "📝 An awesome Data Science repository to learn and apply for real world problems.",
+    "language": "none",
+    "star": "127"
+  },
+  {
+    "title": "k-sys/covid-19",
+    "url": "https://github.com/k-sys/covid-19",
+    "description": "A collection of work related to COVID-19",
+    "language": "Jupyter Notebook",
+    "star": "70"
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "description": "Cheat Sheets",
+    "language": "TeX",
+    "star": "66"
+  },
+  {
+    "title": "datawhalechina/joyful-pandas",
+    "url": "https://github.com/datawhalechina/joyful-pandas",
+    "description": "Pandas中文教程",
+    "language": "Jupyter Notebook",
+    "star": "185"
+  },
+  {
+    "title": "byt3bl33d3r/CrackMapExec",
+    "url": "https://github.com/byt3bl33d3r/CrackMapExec",
+    "description": "A swiss army knife for pentesting networks",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "Draft of the fastai book",
+    "language": "Jupyter Notebook",
+    "star": "62"
+  },
+  {
+    "title": "DP-3T/dp3t-app-android",
+    "url": "https://github.com/DP-3T/dp3t-app-android",
+    "description": "The DP3T-App for Android",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "pepp-pt/pepp-pt-documentation",
+    "url": "https://github.com/pepp-pt/pepp-pt-documentation",
+    "description": "Documentation for Pan-European Privacy-Preserving Proximity Tracing (PEPP-PT)",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "MrMimic/data-scientist-roadmap",
+    "url": "https://github.com/MrMimic/data-scientist-roadmap",
+    "description": "Toturial coming with \"data science roadmap\" graphe.",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "language": "Go",
+    "star": "67"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "language": "Go",
+    "star": "54"
+  },
+  {
+    "title": "jbranchaud/til",
+    "url": "https://github.com/jbranchaud/til",
+    "description": "📝 Today I Learned",
+    "language": "Vim script",
+    "star": "213"
+  },
+  {
+    "title": "goyoka/vip_share",
+    "url": "https://github.com/goyoka/vip_share",
+    "description": "每日分享 百度网盘SVIP账号、爱奇艺会员、芒果会员、搜狐会员、喜马拉雅会员、优酷会员、迅雷会员会员账号分享 (低调使用)",
+    "language": "none",
+    "star": "112"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "204"
+  }
+]

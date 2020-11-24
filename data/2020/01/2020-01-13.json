@@ -1,0 +1,177 @@
+[
+  {
+    "title": "TerryCavanagh/VVVVVV",
+    "url": "https://github.com/TerryCavanagh/VVVVVV",
+    "description": "The source code to VVVVVV!",
+    "language": "ActionScript",
+    "star": "3"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "language": "JavaScript",
+    "star": "286"
+  },
+  {
+    "title": "BLAKE3-team/BLAKE3",
+    "url": "https://github.com/BLAKE3-team/BLAKE3",
+    "description": "The BLAKE3 cryptographic hash function",
+    "language": "Rust",
+    "star": "498"
+  },
+  {
+    "title": "riggraz/astuto",
+    "url": "https://github.com/riggraz/astuto",
+    "description": "A free, open source, self-hosted customer feedback tool 🦊",
+    "language": "Ruby",
+    "star": "187"
+  },
+  {
+    "title": "prevwong/craft.js",
+    "url": "https://github.com/prevwong/craft.js",
+    "description": "🚀 A React Framework for building extensible drag and drop page editors",
+    "language": "TypeScript",
+    "star": "537"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "60"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "305"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "170"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal, and the original Windows console host - all in the same place!",
+    "language": "C++",
+    "star": "159"
+  },
+  {
+    "title": "wesbos/awesome-uses",
+    "url": "https://github.com/wesbos/awesome-uses",
+    "description": "A list of /uses pages detailing developer setups, gear, software and configs.",
+    "language": "JavaScript",
+    "star": "343"
+  },
+  {
+    "title": "getredash/redash",
+    "url": "https://github.com/getredash/redash",
+    "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+    "language": "JavaScript",
+    "star": "301"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "60"
+  },
+  {
+    "title": "lexfridman/mit-deep-learning",
+    "url": "https://github.com/lexfridman/mit-deep-learning",
+    "description": "Tutorials, assignments, and competitions for MIT Deep Learning related courses.",
+    "language": "Jupyter Notebook",
+    "star": "37"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "xiandanin/magnetW",
+    "url": "https://github.com/xiandanin/magnetW",
+    "description": "磁力链接聚合搜索",
+    "language": "JavaScript",
+    "star": "93"
+  },
+  {
+    "title": "zziz/pwc",
+    "url": "https://github.com/zziz/pwc",
+    "description": "Papers with code. Sorted by stars. Updated weekly.",
+    "language": "none",
+    "star": "97"
+  },
+  {
+    "title": "emeryberger/scalene",
+    "url": "https://github.com/emeryberger/scalene",
+    "description": "a high-performance, high-precision CPU and memory profiler for Python",
+    "language": "Python",
+    "star": "470"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "star": "141"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "133"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "star": "207"
+  },
+  {
+    "title": "PySimpleGUI/PySimpleGUI",
+    "url": "https://github.com/PySimpleGUI/PySimpleGUI",
+    "description": "Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo…",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "luruke/browser-2020",
+    "url": "https://github.com/luruke/browser-2020",
+    "description": "Things you can do with a browser in 2020 ☕️",
+    "language": "none",
+    "star": "367"
+  },
+  {
+    "title": "awslabs/autogluon",
+    "url": "https://github.com/awslabs/autogluon",
+    "description": "AutoGluon: AutoML Toolkit for Deep Learning",
+    "language": "Python",
+    "star": "204"
+  },
+  {
+    "title": "Tencent/TencentOS-tiny",
+    "url": "https://github.com/Tencent/TencentOS-tiny",
+    "description": "腾讯物联网终端操作系统",
+    "language": "C",
+    "star": "71"
+  },
+  {
+    "title": "daviddao/awful-ai",
+    "url": "https://github.com/daviddao/awful-ai",
+    "description": "😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness",
+    "language": "none",
+    "star": "65"
+  }
+]

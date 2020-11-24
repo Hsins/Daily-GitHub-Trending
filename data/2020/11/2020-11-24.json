@@ -1,0 +1,177 @@
+[
+  {
+    "title": "NathanUA/U-2-Net",
+    "url": "https://github.com/NathanUA/U-2-Net",
+    "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+    "language": "Python",
+    "star": "333"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "340"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native apps with React.",
+    "language": "JavaScript",
+    "star": "45"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "description": "VS Code in the browser",
+    "language": "TypeScript",
+    "star": "207"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "description": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "language": "Vue",
+    "star": "238"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "description": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "language": "C++",
+    "star": "208"
+  },
+  {
+    "title": "utkusen/urlhunter",
+    "url": "https://github.com/utkusen/urlhunter",
+    "description": "a recon tool that allows searching on URLs that are exposed via shortener services",
+    "language": "Go",
+    "star": "86"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "168"
+  },
+  {
+    "title": "byt3bl33d3r/OffensiveNim",
+    "url": "https://github.com/byt3bl33d3r/OffensiveNim",
+    "description": "My experiments in weaponizing Nim (https://nim-lang.org/)",
+    "language": "Nim",
+    "star": "114"
+  },
+  {
+    "title": "sadanandpai/javascript-code-challenges",
+    "url": "https://github.com/sadanandpai/javascript-code-challenges",
+    "description": "Collection of JavaScript modern interview code challenges for beginners to experts",
+    "language": "none",
+    "star": "160"
+  },
+  {
+    "title": "sting8k/BurpSuite_403Bypasser",
+    "url": "https://github.com/sting8k/BurpSuite_403Bypasser",
+    "description": "Burpsuite Extension to bypass 403 restricted directory",
+    "language": "Python",
+    "star": "65"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "dkkocab/WebSiteBot_PS5",
+    "url": "https://github.com/dkkocab/WebSiteBot_PS5",
+    "description": "This is a bot that will buy a PS5 through Walmart. It's written in python and uses selenium to interact with web pages. *WORK IN PROGRESS*",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "alyssaxuu/screenity",
+    "url": "https://github.com/alyssaxuu/screenity",
+    "description": "The most powerful screen recorder & annotation tool for Chrome 🎥",
+    "language": "JavaScript",
+    "star": "579"
+  },
+  {
+    "title": "Hackl0us/SS-Rule-Snippet",
+    "url": "https://github.com/Hackl0us/SS-Rule-Snippet",
+    "description": "搜集、整理、维护 Surge / Quantumult / Shadowrocket / Surfboard / clash(X) 实用规则。",
+    "language": "none",
+    "star": "28"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "language": "Python",
+    "star": "241"
+  },
+  {
+    "title": "fchollet/deep-learning-with-python-notebooks",
+    "url": "https://github.com/fchollet/deep-learning-with-python-notebooks",
+    "description": "Jupyter notebooks for the code samples of the book \"Deep Learning with Python\"",
+    "language": "Jupyter Notebook",
+    "star": "118"
+  },
+  {
+    "title": "foxcpp/maddy",
+    "url": "https://github.com/foxcpp/maddy",
+    "description": "✉️ Composable all-in-one mail server.",
+    "language": "Go",
+    "star": "208"
+  },
+  {
+    "title": "pinefor1983/CS-Growing-book",
+    "url": "https://github.com/pinefor1983/CS-Growing-book",
+    "description": "计算机类常用电子书及程序员成长书籍整理，并且附带下载链接，包括Java，Python，Linux，Go，C，C++，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等，同时还包括findyi原创内容和findyi团队原创，及程序世界外的认知书籍。",
+    "language": "none",
+    "star": "102"
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliTool",
+    "url": "https://github.com/RayWangQvQ/BiliBiliTool",
+    "description": ".Net 5 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。",
+    "language": "C#",
+    "star": "71"
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "description": "📝 An awesome Data Science repository to learn and apply for real world problems.",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "description": "Set up a modern web app by running one command.",
+    "language": "JavaScript",
+    "star": "45"
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "description": "后端架构师技术图谱",
+    "language": "none",
+    "star": "175"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "233"
+  },
+  {
+    "title": "AI4Finance-LLC/FinRL-Library",
+    "url": "https://github.com/AI4Finance-LLC/FinRL-Library",
+    "description": "A Deep Reinforcement Learning Library for Automated Stock Trading in Quantitative Finance",
+    "language": "Jupyter Notebook",
+    "star": "32"
+  }
+]

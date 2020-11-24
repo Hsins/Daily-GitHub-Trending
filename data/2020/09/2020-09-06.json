@@ -1,0 +1,177 @@
+[
+  {
+    "title": "alirezamika/autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "language": "Python",
+    "star": "358"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "description": "Sogou framework for C++ backend development.",
+    "language": "C++",
+    "star": "152"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "241"
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "language": "Go",
+    "star": "328"
+  },
+  {
+    "title": "tal-tech/go-zero",
+    "url": "https://github.com/tal-tech/go-zero",
+    "description": "go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.",
+    "language": "Go",
+    "star": "199"
+  },
+  {
+    "title": "DataDog/scipio",
+    "url": "https://github.com/DataDog/scipio",
+    "description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans",
+    "language": "Rust",
+    "star": "80"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "star": "178"
+  },
+  {
+    "title": "abhivaikar/howtheytest",
+    "url": "https://github.com/abhivaikar/howtheytest",
+    "description": "A collection of public resources about how software companies test their software",
+    "language": "HTML",
+    "star": "269"
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "description": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓",
+    "language": "none",
+    "star": "191"
+  },
+  {
+    "title": "learning-at-home/hivemind",
+    "url": "https://github.com/learning-at-home/hivemind",
+    "description": "Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "mhagiwara/100-nlp-papers",
+    "url": "https://github.com/mhagiwara/100-nlp-papers",
+    "description": "100 Must-Read NLP Papers",
+    "language": "none",
+    "star": "363"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "description": "Roadmap to becoming a data engineer in 2020",
+    "language": "none",
+    "star": "239"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "description": "👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io",
+    "language": "Vue",
+    "star": "315"
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "description": "A collection of various deep learning architectures, models, and tips",
+    "language": "Jupyter Notebook",
+    "star": "120"
+  },
+  {
+    "title": "google/xls",
+    "url": "https://github.com/google/xls",
+    "description": "XLS: Accelerated HW Synthesis",
+    "language": "C++",
+    "star": "93"
+  },
+  {
+    "title": "LetsUpgrade/Python-Essentials",
+    "url": "https://github.com/LetsUpgrade/Python-Essentials",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "112"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "198"
+  },
+  {
+    "title": "zhisheng17/flink-learning",
+    "url": "https://github.com/zhisheng17/flink-learning",
+    "description": "flink learning blog. http://www.flink-learning.com 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》",
+    "language": "Java",
+    "star": "181"
+  },
+  {
+    "title": "CCChieh/IBMYes",
+    "url": "https://github.com/CCChieh/IBMYes",
+    "description": "",
+    "language": "Batchfile",
+    "star": "201"
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "description": "Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:",
+    "language": "HTML",
+    "star": "229"
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "description": "",
+    "language": "PHP",
+    "star": "249"
+  },
+  {
+    "title": "infosecn1nja/Red-Teaming-Toolkit",
+    "url": "https://github.com/infosecn1nja/Red-Teaming-Toolkit",
+    "description": "A collection of open source and commercial tools that aid in red team operations.",
+    "language": "none",
+    "star": "41"
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "description": "This repository contains the codes of \"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild\", published at ACM Multimedia 2020.",
+    "language": "Python",
+    "star": "158"
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "description": "Deep Learning for humans",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "314"
+  }
+]

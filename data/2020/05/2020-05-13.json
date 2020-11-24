@@ -1,0 +1,177 @@
+[
+  {
+    "title": "MingchaoZhu/InterpretableMLBook",
+    "url": "https://github.com/MingchaoZhu/InterpretableMLBook",
+    "description": "《可解释的机器学习--黑盒模型可解释性理解指南》，该书为《Interpretable Machine Learning》中文版",
+    "language": "none",
+    "star": "436"
+  },
+  {
+    "title": "NathanUA/U-2-Net",
+    "url": "https://github.com/NathanUA/U-2-Net",
+    "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
+    "language": "Python",
+    "star": "103"
+  },
+  {
+    "title": "cnlohr/rawdrawandroid",
+    "url": "https://github.com/cnlohr/rawdrawandroid",
+    "description": "Build android apps without any java, entirely in C",
+    "language": "C",
+    "star": "134"
+  },
+  {
+    "title": "seaswalker/spring-analysis",
+    "url": "https://github.com/seaswalker/spring-analysis",
+    "description": "Spring源码阅读",
+    "language": "Java",
+    "star": "134"
+  },
+  {
+    "title": "sm64pc/sm64pc",
+    "url": "https://github.com/sm64pc/sm64pc",
+    "description": "OpenGL adaptation of n64decomp/sm64.",
+    "language": "C",
+    "star": "56"
+  },
+  {
+    "title": "yemount/pose-animator",
+    "url": "https://github.com/yemount/pose-animator",
+    "description": "",
+    "language": "JavaScript",
+    "star": "706"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "description": "spring boot demo 是一个用来深度学习并实战 spring boot 的项目，目前总共包含 65 个集成demo，已经完成 53 个。 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作M…",
+    "language": "Java",
+    "star": "132"
+  },
+  {
+    "title": "AU-COVIDSafe/mobile-android",
+    "url": "https://github.com/AU-COVIDSafe/mobile-android",
+    "description": "COVIDSafe android app",
+    "language": "Kotlin",
+    "star": "33"
+  },
+  {
+    "title": "primer/github-vscode-theme",
+    "url": "https://github.com/primer/github-vscode-theme",
+    "description": "GitHub's VS Code theme",
+    "language": "JavaScript",
+    "star": "146"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "hediet/vscode-drawio",
+    "url": "https://github.com/hediet/vscode-drawio",
+    "description": "This extension integrates Draw.io into VS Code.",
+    "language": "TypeScript",
+    "star": "631"
+  },
+  {
+    "title": "askmeegs/learn-istio",
+    "url": "https://github.com/askmeegs/learn-istio",
+    "description": "⛵️ Istio resources 🕸",
+    "language": "none",
+    "star": "120"
+  },
+  {
+    "title": "MingchaoZhu/DeepLearning",
+    "url": "https://github.com/MingchaoZhu/DeepLearning",
+    "description": "Python for “Deep Learning”，《深度学习》(花书) 数学推导、原理剖析与源码级别代码实现",
+    "language": "Python",
+    "star": "172"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "language": "Shell",
+    "star": "89"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "description": "Everything you need to know to get the job.",
+    "language": "Java",
+    "star": "182"
+  },
+  {
+    "title": "jantic/DeOldify",
+    "url": "https://github.com/jantic/DeOldify",
+    "description": "A Deep Learning based project for colorizing and restoring old images (and video!)",
+    "language": "Jupyter Notebook",
+    "star": "45"
+  },
+  {
+    "title": "adi1090x/CustomArch",
+    "url": "https://github.com/adi1090x/CustomArch",
+    "description": "Various Arch Linux Based Custom ISOs Made With \"Archiso\"",
+    "language": "Shell",
+    "star": "59"
+  },
+  {
+    "title": "spf13/viper",
+    "url": "https://github.com/spf13/viper",
+    "description": "Go configuration with fangs",
+    "language": "Go",
+    "star": "27"
+  },
+  {
+    "title": "erluxman/awesomefluttertips",
+    "url": "https://github.com/erluxman/awesomefluttertips",
+    "description": "❤️Awesome Flutter ❤️ tips and tricks ❤️",
+    "language": "Dart",
+    "star": "122"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "304"
+  },
+  {
+    "title": "sphawes/index",
+    "url": "https://github.com/sphawes/index",
+    "description": "The Index is an open source pick and place machine.",
+    "language": "C++",
+    "star": "55"
+  },
+  {
+    "title": "FiloSottile/yubikey-agent",
+    "url": "https://github.com/FiloSottile/yubikey-agent",
+    "description": "yubikey-agent is a seamless ssh-agent for YubiKeys.",
+    "language": "Go",
+    "star": "77"
+  },
+  {
+    "title": "360EntSecGroup-Skylar/excelize",
+    "url": "https://github.com/360EntSecGroup-Skylar/excelize",
+    "description": "Golang library for reading and writing Microsoft Excel™ (XLSX) files.",
+    "language": "Go",
+    "star": "43"
+  },
+  {
+    "title": "ray-project/ray",
+    "url": "https://github.com/ray-project/ray",
+    "description": "A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "description": "The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate",
+    "language": "Python",
+    "star": "82"
+  }
+]

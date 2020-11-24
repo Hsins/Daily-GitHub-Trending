@@ -1,0 +1,177 @@
+[
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "description": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+    "language": "JavaScript",
+    "star": "588"
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "description": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "language": "C#",
+    "star": "90"
+  },
+  {
+    "title": "diego3g/electron-typescript-react",
+    "url": "https://github.com/diego3g/electron-typescript-react",
+    "description": "An Electron boilerplate including TypeScript, React, Jest and ESLint.",
+    "language": "JavaScript",
+    "star": "58"
+  },
+  {
+    "title": "microsoft/cascadia-code",
+    "url": "https://github.com/microsoft/cascadia-code",
+    "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "language": "Python",
+    "star": "150"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "description": "Native-ESM powered web dev build tool. It's fast.",
+    "language": "TypeScript",
+    "star": "96"
+  },
+  {
+    "title": "open-mmlab/OpenPCDet",
+    "url": "https://github.com/open-mmlab/OpenPCDet",
+    "description": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "description": "📋 React Hooks for forms validation (Web + React Native)",
+    "language": "TypeScript",
+    "star": "120"
+  },
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "description": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/",
+    "language": "JavaScript",
+    "star": "148"
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "description": "Open Source, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "star": "47"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "language": "Go",
+    "star": "162"
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "description": "Python training for business analysts and traders",
+    "language": "Jupyter Notebook",
+    "star": "198"
+  },
+  {
+    "title": "felangel/cubit",
+    "url": "https://github.com/felangel/cubit",
+    "description": "Cubit is a lightweight state management solution. It is a subset of the bloc package that does not rely on events and instead uses methods to emit new states.",
+    "language": "Dart",
+    "star": "81"
+  },
+  {
+    "title": "Pitt-CSC/Summer2021-Internships",
+    "url": "https://github.com/Pitt-CSC/Summer2021-Internships",
+    "description": "Collection of Summer 2021 tech internships!",
+    "language": "none",
+    "star": "51"
+  },
+  {
+    "title": "diego3g/rocketredis",
+    "url": "https://github.com/diego3g/rocketredis",
+    "description": "A beautiful Redis GUI 🔥",
+    "language": "TypeScript",
+    "star": "93"
+  },
+  {
+    "title": "BetaSu/just-react",
+    "url": "https://github.com/BetaSu/just-react",
+    "description": "React技术揭秘",
+    "language": "JavaScript",
+    "star": "146"
+  },
+  {
+    "title": "DataStax-Academy/cassandra-workshop-series",
+    "url": "https://github.com/DataStax-Academy/cassandra-workshop-series",
+    "description": "All materials for the Cassandra Workshop Series in a single place",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "description": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "language": "none",
+    "star": "99"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "description": "The plugin-driven server agent for collecting & reporting metrics.",
+    "language": "Go",
+    "star": "15"
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "description": "Ultimate Go study guide",
+    "language": "Go",
+    "star": "341"
+  },
+  {
+    "title": "YMFE/yapi",
+    "url": "https://github.com/YMFE/yapi",
+    "description": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "description": "Revive unavailable songs for Netease Cloud Music",
+    "language": "JavaScript",
+    "star": "75"
+  },
+  {
+    "title": "kotartemiy/pygooglenews",
+    "url": "https://github.com/kotartemiy/pygooglenews",
+    "description": "If Google News had a Python library",
+    "language": "Python",
+    "star": "55"
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "description": "Zulip server - powerful open source team chat",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "description": "Vite & Vue powered static site generator",
+    "language": "TypeScript",
+    "star": "20"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "language": "JavaScript",
+    "star": "109"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "title": "bradtraversy/vanilla-parcel-boilerplate",
+    "url": "https://github.com/bradtraversy/vanilla-parcel-boilerplate",
+    "description": "Simple starter workflow for building vanilla js apps with Parcel",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "games50/pong",
+    "url": "https://github.com/games50/pong",
+    "description": "Atari's 1972 classic, implemented in Lua with LÖVE",
+    "language": "Lua",
+    "star": "25"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "93"
+  },
+  {
+    "title": "ricklamers/gridstudio",
+    "url": "https://github.com/ricklamers/gridstudio",
+    "description": "Grid studio is a web-based application for data science with full integration of open source data science frameworks and languages.",
+    "language": "JavaScript",
+    "star": "105"
+  },
+  {
+    "title": "iikira/BaiduPCS-Go",
+    "url": "https://github.com/iikira/BaiduPCS-Go",
+    "description": "百度网盘客户端 - Go语言编写",
+    "language": "Go",
+    "star": "161"
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "description": "Virtual machines for iOS",
+    "language": "Objective-C",
+    "star": "117"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "description": "Google Research",
+    "language": "Jupyter Notebook",
+    "star": "83"
+  },
+  {
+    "title": "TheLartians/ModernCppStarter",
+    "url": "https://github.com/TheLartians/ModernCppStarter",
+    "description": "Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and more.",
+    "language": "CMake",
+    "star": "210"
+  },
+  {
+    "title": "spring-projects-experimental/spring-authorization-server",
+    "url": "https://github.com/spring-projects-experimental/spring-authorization-server",
+    "description": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
+    "language": "Java",
+    "star": "42"
+  },
+  {
+    "title": "plotly/dash",
+    "url": "https://github.com/plotly/dash",
+    "description": "Analytical Web Apps for Python, R, and Julia. No JavaScript Required.",
+    "language": "Python",
+    "star": "76"
+  },
+  {
+    "title": "umijs/qiankun",
+    "url": "https://github.com/umijs/qiankun",
+    "description": "📦🚀Blazing fast, simple and completed solution for micro frontends.",
+    "language": "TypeScript",
+    "star": "117"
+  },
+  {
+    "title": "plotly/falcon",
+    "url": "https://github.com/plotly/falcon",
+    "description": "Free, open-source SQL client for Windows and Mac 🦅",
+    "language": "JavaScript",
+    "star": "512"
+  },
+  {
+    "title": "WaterFishJ/ShengDownload",
+    "url": "https://github.com/WaterFishJ/ShengDownload",
+    "description": "2020-4-15 panDownload终究倒下，还是没能逃过xxx的xxx。他的替代品ShengDownload即日起正式启动。基于ShengLang开发，跨平台",
+    "language": "none",
+    "star": "115"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "🔗 Some useful websites for programmers.",
+    "language": "none",
+    "star": "244"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "description": "A set of best practices for JavaScript projects",
+    "language": "JavaScript",
+    "star": "237"
+  },
+  {
+    "title": "lauragift21/awesome-learning-resources",
+    "url": "https://github.com/lauragift21/awesome-learning-resources",
+    "description": "🔥Awesome list of resources on Web Development.",
+    "language": "none",
+    "star": "154"
+  },
+  {
+    "title": "huggingface/awesome-papers",
+    "url": "https://github.com/huggingface/awesome-papers",
+    "description": "Papers & presentations from Hugging Face's weekly science day",
+    "language": "none",
+    "star": "101"
+  },
+  {
+    "title": "ProtonMail/proton-bridge",
+    "url": "https://github.com/ProtonMail/proton-bridge",
+    "description": "ProtonMail Bridge application",
+    "language": "Go",
+    "star": "52"
+  },
+  {
+    "title": "Fugiman/google-meet-grid-view",
+    "url": "https://github.com/Fugiman/google-meet-grid-view",
+    "description": "Userscript to offer a grid-view layout in Google Meets",
+    "language": "JavaScript",
+    "star": "48"
+  },
+  {
+    "title": "jethrokuan/org-roam",
+    "url": "https://github.com/jethrokuan/org-roam",
+    "description": "Rudimentary Roam replica with Org-mode",
+    "language": "Emacs Lisp",
+    "star": "34"
+  },
+  {
+    "title": "shengqiangzhang/examples-of-web-crawlers",
+    "url": "https://github.com/shengqiangzhang/examples-of-web-crawlers",
+    "description": "一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )",
+    "language": "Python",
+    "star": "145"
+  },
+  {
+    "title": "pmmp/PocketMine-MP",
+    "url": "https://github.com/pmmp/PocketMine-MP",
+    "description": "A server software for Minecraft: Bedrock Edition in PHP",
+    "language": "PHP",
+    "star": "13"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "199"
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "description": "",
+    "language": "Kotlin",
+    "star": "19"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "description": "To Be Top Javaer - Java工程师成神之路",
+    "language": "Java",
+    "star": "246"
+  }
+]

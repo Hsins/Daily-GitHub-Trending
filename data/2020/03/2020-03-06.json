@@ -1,0 +1,177 @@
+[
+  {
+    "title": "mitsuba-renderer/mitsuba2",
+    "url": "https://github.com/mitsuba-renderer/mitsuba2",
+    "description": "Mitsuba 2: A Retargetable Forward and Inverse Renderer",
+    "language": "C++",
+    "star": "71"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "44"
+  },
+  {
+    "title": "Shpota/goxygen",
+    "url": "https://github.com/Shpota/goxygen",
+    "description": "Generate a modern Web project with Go, Angular/React/Vue, and MongoDB in seconds🚀",
+    "language": "Go",
+    "star": "165"
+  },
+  {
+    "title": "connor-brooks/ecosim",
+    "url": "https://github.com/connor-brooks/ecosim",
+    "description": "An interactive ecosystem and evolution simulator written in C and OpenGL, for GNU/Linux.",
+    "language": "C",
+    "star": "105"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "The GitHub CLI",
+    "language": "Go",
+    "star": "63"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "42"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "27"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "tokyo-metropolitan-gov/covid19",
+    "url": "https://github.com/tokyo-metropolitan-gov/covid19",
+    "description": "東京都 新型コロナウイルス感染症対策サイト",
+    "language": "Vue",
+    "star": "1"
+  },
+  {
+    "title": "kelseyhightower/nocode",
+    "url": "https://github.com/kelseyhightower/nocode",
+    "description": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.",
+    "language": "Dockerfile",
+    "star": "358"
+  },
+  {
+    "title": "alexeygrigorev/data-science-interviews",
+    "url": "https://github.com/alexeygrigorev/data-science-interviews",
+    "description": "Data science interview questions and answers",
+    "language": "none",
+    "star": "243"
+  },
+  {
+    "title": "hannob/lecaa",
+    "url": "https://github.com/hannob/lecaa",
+    "description": "Check for Let's Encrypt CAA issue",
+    "language": "Shell",
+    "star": "19"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "297"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "手把手撕LeetCode题目，扒各种算法套路的裤子，not only how，but also why. English version supported!",
+    "language": "none",
+    "star": "963"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C++",
+    "star": "114"
+  },
+  {
+    "title": "react-spring/use-cannon",
+    "url": "https://github.com/react-spring/use-cannon",
+    "description": "👋💣 physics based hooks for react-three-fiber",
+    "language": "JavaScript",
+    "star": "127"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "star": "56"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "14"
+  },
+  {
+    "title": "ShiqiYu/libfacedetection",
+    "url": "https://github.com/ShiqiYu/libfacedetection",
+    "description": "An open source library for face detection in images. The face detection speed can reach 1000FPS.",
+    "language": "C++",
+    "star": "77"
+  },
+  {
+    "title": "Newslab2020/Contents",
+    "url": "https://github.com/Newslab2020/Contents",
+    "description": "",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "graphdeeplearning/benchmarking-gnns",
+    "url": "https://github.com/graphdeeplearning/benchmarking-gnns",
+    "description": "Repository for benchmarking graph neural networks",
+    "language": "Jupyter Notebook",
+    "star": "35"
+  },
+  {
+    "title": "threat-hunting/awesome_Threat-Hunting",
+    "url": "https://github.com/threat-hunting/awesome_Threat-Hunting",
+    "description": "",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "ZyqGitHub1/h-player-v2",
+    "url": "https://github.com/ZyqGitHub1/h-player-v2",
+    "description": "资源采集站在线播放",
+    "language": "Vue",
+    "star": "29"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "language": "Clojure",
+    "star": "27"
+  },
+  {
+    "title": "midas-network/COVID-19",
+    "url": "https://github.com/midas-network/COVID-19",
+    "description": "2019 novel coronavirus repository",
+    "language": "none",
+    "star": "24"
+  }
+]
