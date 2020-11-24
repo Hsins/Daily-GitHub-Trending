@@ -1,13 +1,24 @@
+<!-- Badge for License -->
 <div align="right">
-  <a href="https://github.com/Hsins/Daily-GitHub-Trending/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/Hsins/Daily-GitHub-Trending.svg" />
-  </a>
+
+  [![](https://img.shields.io/github/license/Hsins/Daily-GitHub-Trending.svg?style=flat-square)](./LICENSE)
+
 </div>
 
+<!-- Logo -->
+<p align="center">
+  <img src="https://i.imgur.com/LfnqAOv.png" alt="Daily GitHub Trending" height="150px">
+</p>
+
+<!-- Title and Description -->
 <div align="center">
 
 # Daily GitHub Trending
-  <img src="https://user-images.githubusercontent.com/26391143/72241638-47d2b280-3622-11ea-9b33-666966358dd3.png" height="180">
+
+📰 _Fetch daily trending repositories information on [GitHub Trending Page](https://github.com/trending) by script writen in JavaScript and executed with GitHub Actions Service._
+
+<!-- Badges -->
+
 </div>
 
 ## Technologies
@@ -18,10 +29,6 @@
 - [cheerio](https://github.com/cheeriojs/cheerio)
 
 Check [`package.json`](https://github.com/Hsins/Daily-GitHub-Trending/blob/master/package.json) file for more information.
-
-## References
-
-- [garethr.dev | Github Actions That Commit to Github](https://garethr.dev/2019/09/github-actions-that-commit-to-github/)
 
 ## License
 

@@ -1,10 +1,6 @@
 name: Fetch GitHub Daily Trending
 
 on:
-  push:
-    branches:
-      - main
-
   schedule:
     - cron: '* 16 * * *'
 
