@@ -4,7 +4,7 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "332"
+    "star": "381"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
@@ -18,35 +18,35 @@
     "url": "https://github.com/NathanUA/U-2-Net",
     "description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"",
     "language": "Python",
-    "star": "370"
+    "star": "283"
   },
   {
     "title": "facebook/react-native",
     "url": "https://github.com/facebook/react-native",
     "description": "A framework for building native apps with React.",
     "language": "JavaScript",
-    "star": "99"
+    "star": "85"
   },
   {
     "title": "RangiLyu/nanodet",
     "url": "https://github.com/RangiLyu/nanodet",
     "description": "⚡Super fast and lightweight anchor-free object detection model. 🔥Only 1.8mb and run 97FPS on cellphone🔥",
     "language": "Python",
-    "star": "483"
+    "star": "275"
   },
   {
     "title": "sadanandpai/javascript-code-challenges",
     "url": "https://github.com/sadanandpai/javascript-code-challenges",
     "description": "A collection of JavaScript modern interview code challenges for beginners to experts",
     "language": "none",
-    "star": "324"
+    "star": "328"
   },
   {
     "title": "geerlingguy/pi-webcam",
     "url": "https://github.com/geerlingguy/pi-webcam",
     "description": "Automation to configure a Raspberry Pi as a USB OTG webcam",
     "language": "none",
-    "star": "97"
+    "star": "93"
   },
   {
     "title": "shreyashankar/create-ml-app",
@@ -67,7 +67,7 @@
     "url": "https://github.com/utkusen/urlhunter",
     "description": "a recon tool that allows searching on URLs that are exposed via shortener services",
     "language": "Go",
-    "star": "250"
+    "star": "112"
   },
   {
     "title": "loadimpact/k6",
@@ -81,7 +81,7 @@
     "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
     "description": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
     "language": "C++",
-    "star": "320"
+    "star": "439"
   },
   {
     "title": "tokio-rs/tokio",
@@ -95,14 +95,14 @@
     "url": "https://github.com/xingshaocheng/architect-awesome",
     "description": "后端架构师技术图谱",
     "language": "none",
-    "star": "186"
+    "star": "181"
   },
   {
     "title": "byt3bl33d3r/OffensiveNim",
     "url": "https://github.com/byt3bl33d3r/OffensiveNim",
     "description": "My experiments in weaponizing Nim (https://nim-lang.org/)",
     "language": "Nim",
-    "star": "127"
+    "star": "125"
   },
   {
     "title": "sting8k/BurpSuite_403Bypasser",
@@ -116,7 +116,7 @@
     "url": "https://github.com/TheCherno/Hazel",
     "description": "Hazel Engine",
     "language": "C++",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
