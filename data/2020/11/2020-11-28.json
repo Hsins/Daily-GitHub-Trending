@@ -11,7 +11,7 @@
     "url": "https://github.com/changkun/modern-cpp-tutorial",
     "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
     "language": "C++",
-    "star": "234"
+    "star": "171"
   },
   {
     "title": "XTLS/Xray-core",
@@ -39,7 +39,7 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2020",
     "language": "none",
-    "star": "376"
+    "star": "374"
   },
   {
     "title": "harryheman/Modern-HTML-Starter-Template",
@@ -109,7 +109,7 @@
     "url": "https://github.com/huggingface/datasets",
     "description": "🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas",
     "language": "Python",
-    "star": "83"
+    "star": "59"
   },
   {
     "title": "changgyhub/leetcode_101",
@@ -144,7 +144,7 @@
     "url": "https://github.com/MunGell/awesome-for-beginners",
     "description": "A list of awesome beginners-friendly projects.",
     "language": "none",
-    "star": "114"
+    "star": "100"
   },
   {
     "title": "yangshun/tech-interview-handbook",
@@ -158,7 +158,7 @@
     "url": "https://github.com/spectresystems/spectre.console",
     "description": "A library that makes it easier to create beautiful console applications.",
     "language": "C#",
-    "star": "274"
+    "star": "344"
   },
   {
     "title": "KhaosT/SimpleVM",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "287"
+    "star": "289"
   }
 ]
