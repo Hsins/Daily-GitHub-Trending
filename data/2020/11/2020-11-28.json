@@ -39,7 +39,7 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2020",
     "language": "none",
-    "star": "374"
+    "star": "354"
   },
   {
     "title": "harryheman/Modern-HTML-Starter-Template",
@@ -74,7 +74,7 @@
     "url": "https://github.com/hecrj/iced",
     "description": "A cross-platform GUI library for Rust, inspired by Elm",
     "language": "Rust",
-    "star": "69"
+    "star": "70"
   },
   {
     "title": "0x90n/InfoSec-Black-Friday",
@@ -144,7 +144,7 @@
     "url": "https://github.com/MunGell/awesome-for-beginners",
     "description": "A list of awesome beginners-friendly projects.",
     "language": "none",
-    "star": "100"
+    "star": "114"
   },
   {
     "title": "yangshun/tech-interview-handbook",
@@ -158,20 +158,20 @@
     "url": "https://github.com/spectresystems/spectre.console",
     "description": "A library that makes it easier to create beautiful console applications.",
     "language": "C#",
-    "star": "344"
+    "star": "274"
   },
   {
     "title": "KhaosT/SimpleVM",
     "url": "https://github.com/KhaosT/SimpleVM",
     "description": "Sample code for Virtualization framework",
     "language": "Swift",
-    "star": "77"
+    "star": "78"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "289"
+    "star": "424"
   }
 ]
