@@ -1,0 +1,177 @@
+[
+  {
+    "title": "loadimpact/k6",
+    "url": "https://github.com/loadimpact/k6",
+    "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "41"
+  },
+  {
+    "title": "ottomated/CrewLink",
+    "url": "https://github.com/ottomated/CrewLink",
+    "description": "Free, open, Among Us Proximity Chat",
+    "language": "TypeScript",
+    "star": "87"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "description": "The HTML Presentation Framework",
+    "language": "JavaScript",
+    "star": "244"
+  },
+  {
+    "title": "DustinBrett/x",
+    "url": "https://github.com/DustinBrett/x",
+    "description": "Desktop environment in the browser.",
+    "language": "JavaScript",
+    "star": "363"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "356"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "254"
+  },
+  {
+    "title": "an-tao/drogon",
+    "url": "https://github.com/an-tao/drogon",
+    "description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "description": "We have made you a wrapper you can't refuse",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "xiaorouji/openwrt-passwall",
+    "url": "https://github.com/xiaorouji/openwrt-passwall",
+    "description": "",
+    "language": "HTML",
+    "star": "28"
+  },
+  {
+    "title": "redcode-labs/Neurax",
+    "url": "https://github.com/redcode-labs/Neurax",
+    "description": "A library for constructing self-spreading binaries",
+    "language": "Go",
+    "star": "82"
+  },
+  {
+    "title": "EricJMarti/inventory-hunter",
+    "url": "https://github.com/EricJMarti/inventory-hunter",
+    "description": "⚡️ Get notified as soon as your next CPU/GPU is in stock",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "star": "37"
+  },
+  {
+    "title": "ben-rogerson/twin.macro",
+    "url": "https://github.com/ben-rogerson/twin.macro",
+    "description": "🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.",
+    "language": "JavaScript",
+    "star": "220"
+  },
+  {
+    "title": "NiuTrans/ABigSurvey",
+    "url": "https://github.com/NiuTrans/ABigSurvey",
+    "description": "A collection of 400+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)",
+    "language": "none",
+    "star": "113"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "star": "91"
+  },
+  {
+    "title": "S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
+    "url": "https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
+    "description": "A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.",
+    "language": "none",
+    "star": "50"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "language": "Dart",
+    "star": "62"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "description": "🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas",
+    "language": "Python",
+    "star": "276"
+  },
+  {
+    "title": "MustangYM/WeChatExtension-ForMac",
+    "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "description": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
+    "language": "Objective-C",
+    "star": "216"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "425"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "274"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "description": "All the deals for InfoSec related software/tools this Black Friday",
+    "language": "none",
+    "star": "171"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2020",
+    "language": "none",
+    "star": "778"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "language": "Shell",
+    "star": "44"
+  }
+]
