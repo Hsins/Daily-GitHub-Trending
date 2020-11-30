@@ -4,91 +4,91 @@
     "url": "https://github.com/EricJMarti/inventory-hunter",
     "description": "⚡️ Get notified as soon as your next CPU/GPU is in stock",
     "language": "Python",
-    "star": "67"
+    "star": "64"
   },
   {
     "title": "DustinBrett/x",
     "url": "https://github.com/DustinBrett/x",
     "description": "Desktop environment in the browser.",
     "language": "JavaScript",
-    "star": "247"
+    "star": "248"
   },
   {
     "title": "pi-hole/docker-pi-hole",
     "url": "https://github.com/pi-hole/docker-pi-hole",
     "description": "Pi-hole in a docker container",
     "language": "Shell",
-    "star": "19"
+    "star": "21"
   },
   {
     "title": "coolsnowwolf/lede",
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "62"
+    "star": "69"
   },
   {
     "title": "an-tao/drogon",
     "url": "https://github.com/an-tao/drogon",
     "description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
     "language": "C++",
-    "star": "81"
+    "star": "77"
   },
   {
     "title": "pi-hole/pi-hole",
     "url": "https://github.com/pi-hole/pi-hole",
     "description": "A black hole for Internet advertisements",
     "language": "Shell",
-    "star": "198"
+    "star": "189"
   },
   {
     "title": "python-telegram-bot/python-telegram-bot",
     "url": "https://github.com/python-telegram-bot/python-telegram-bot",
     "description": "We have made you a wrapper you can't refuse",
     "language": "Python",
-    "star": "100"
+    "star": "136"
   },
   {
     "title": "redcode-labs/Neurax",
     "url": "https://github.com/redcode-labs/Neurax",
     "description": "A library for constructing self-spreading binaries",
     "language": "Go",
-    "star": "152"
+    "star": "120"
   },
   {
     "title": "arendst/Tasmota",
     "url": "https://github.com/arendst/Tasmota",
     "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
     "language": "C",
-    "star": "114"
+    "star": "110"
   },
   {
     "title": "hakimel/reveal.js",
     "url": "https://github.com/hakimel/reveal.js",
     "description": "The HTML Presentation Framework",
     "language": "JavaScript",
-    "star": "357"
+    "star": "354"
   },
   {
     "title": "changkun/modern-cpp-tutorial",
     "url": "https://github.com/changkun/modern-cpp-tutorial",
     "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
     "language": "C++",
-    "star": "213"
+    "star": "137"
   },
   {
     "title": "ben-rogerson/twin.macro",
     "url": "https://github.com/ben-rogerson/twin.macro",
     "description": "🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components and goober) at build time.",
     "language": "JavaScript",
-    "star": "223"
+    "star": "204"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "121"
+    "star": "186"
   },
   {
     "title": "xiaorouji/openwrt-passwall",
@@ -102,7 +102,7 @@
     "url": "https://github.com/NiuTrans/ABigSurvey",
     "description": "A collection of 400+ survey papers on Natural Language Processing (NLP) and Machine Learning (ML)",
     "language": "none",
-    "star": "99"
+    "star": "97"
   },
   {
     "title": "flightlessmango/MangoHud",
@@ -123,55 +123,55 @@
     "url": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "star": "148"
+    "star": "143"
   },
   {
     "title": "obsproject/obs-studio",
     "url": "https://github.com/obsproject/obs-studio",
     "description": "OBS Studio - Free and open source software for live streaming and screen recording",
     "language": "C",
-    "star": "27"
+    "star": "28"
   },
   {
     "title": "ziye12/JavaScript",
     "url": "https://github.com/ziye12/JavaScript",
     "description": "本人quantumult x，优先适配quantumult x， surge loon应该也能用",
     "language": "JavaScript",
-    "star": "16"
+    "star": "15"
   },
   {
     "title": "loadimpact/k6",
     "url": "https://github.com/loadimpact/k6",
     "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
     "language": "Go",
-    "star": "498"
+    "star": "1"
   },
   {
     "title": "huggingface/datasets",
     "url": "https://github.com/huggingface/datasets",
     "description": "🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas",
     "language": "Python",
-    "star": "167"
+    "star": "146"
   },
   {
     "title": "S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
     "url": "https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet",
     "description": "A cheat sheet that contains common enumeration and attack methods for Windows Active Directory.",
     "language": "none",
-    "star": "93"
+    "star": "91"
   },
   {
     "title": "ottomated/CrewLink",
     "url": "https://github.com/ottomated/CrewLink",
     "description": "Free, open, Among Us Proximity Chat",
     "language": "TypeScript",
-    "star": "106"
+    "star": "116"
   },
   {
     "title": "Pierian-Data/Complete-Python-3-Bootcamp",
     "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
     "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
     "language": "Jupyter Notebook",
-    "star": "79"
+    "star": "109"
   }
 ]
