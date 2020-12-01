@@ -4,119 +4,119 @@
     "url": "https://github.com/element-plus/element-plus",
     "description": "🎉 A Vue.js 3.0 UI Library",
     "language": "Vue",
-    "star": "660"
+    "star": "662"
   },
   {
     "title": "dromara/soul",
     "url": "https://github.com/dromara/soul",
     "description": "High-Performance Java API Gateway",
     "language": "Java",
-    "star": "76"
+    "star": "74"
   },
   {
     "title": "peng-zhihui/HDMI-PI",
     "url": "https://github.com/peng-zhihui/HDMI-PI",
     "description": "我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。",
     "language": "none",
-    "star": "141"
+    "star": "143"
   },
   {
     "title": "huggingface/datasets",
     "url": "https://github.com/huggingface/datasets",
     "description": "🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas",
     "language": "Python",
-    "star": "197"
+    "star": "200"
   },
   {
     "title": "EricJMarti/inventory-hunter",
     "url": "https://github.com/EricJMarti/inventory-hunter",
     "description": "⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock",
     "language": "Python",
-    "star": "128"
+    "star": "138"
   },
   {
     "title": "peng-zhihui/PocketLCD",
     "url": "https://github.com/peng-zhihui/PocketLCD",
     "description": "",
     "language": "none",
-    "star": "182"
+    "star": "210"
   },
   {
     "title": "coolsnowwolf/lede",
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "46"
+    "star": "47"
   },
   {
     "title": "kallydev/privacy",
     "url": "https://github.com/kallydev/privacy",
     "description": "个人数据泄漏检测网站，适用于近期流传的 40GB+ 数据。",
     "language": "none",
-    "star": "210"
+    "star": "464"
   },
   {
     "title": "deepmind/deepmind-research",
     "url": "https://github.com/deepmind/deepmind-research",
     "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
     "language": "Jupyter Notebook",
-    "star": "257"
+    "star": "261"
   },
   {
     "title": "pi-hole/pi-hole",
     "url": "https://github.com/pi-hole/pi-hole",
     "description": "A black hole for Internet advertisements",
     "language": "Shell",
-    "star": "228"
+    "star": "232"
   },
   {
     "title": "python-telegram-bot/python-telegram-bot",
     "url": "https://github.com/python-telegram-bot/python-telegram-bot",
     "description": "We have made you a wrapper you can't refuse",
     "language": "Python",
-    "star": "207"
+    "star": "208"
   },
   {
     "title": "GitSquared/edex-ui",
     "url": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "star": "323"
+    "star": "215"
   },
   {
     "title": "zwpro/coupons",
     "url": "https://github.com/zwpro/coupons",
     "description": "美团饿了吗红包，先领红包再下单。外卖红包，cps分成，别人领红包下单，你拿佣金。",
     "language": "Vue",
-    "star": "71"
+    "star": "73"
   },
   {
     "title": "DustinBrett/x",
     "url": "https://github.com/DustinBrett/x",
     "description": "Desktop environment in the browser.",
     "language": "JavaScript",
-    "star": "213"
+    "star": "268"
   },
   {
     "title": "redcode-labs/Neurax",
     "url": "https://github.com/redcode-labs/Neurax",
     "description": "A library for constructing self-spreading binaries",
     "language": "Go",
-    "star": "132"
+    "star": "131"
   },
   {
     "title": "mikf/gallery-dl",
     "url": "https://github.com/mikf/gallery-dl",
     "description": "Command-line program to download image-galleries and -collections from several image hosting sites",
     "language": "Python",
-    "star": "103"
+    "star": "127"
   },
   {
     "title": "nakabonne/pbgopy",
     "url": "https://github.com/nakabonne/pbgopy",
     "description": "Copy and paste between devices",
     "language": "Go",
-    "star": "76"
+    "star": "81"
   },
   {
     "title": "ottomated/CrewLink",
@@ -130,7 +130,7 @@
     "url": "https://github.com/jivoi/awesome-osint",
     "description": "😱 A curated list of amazingly awesome OSINT",
     "language": "none",
-    "star": "146"
+    "star": "147"
   },
   {
     "title": "xiaorouji/openwrt-passwall",
@@ -151,27 +151,27 @@
     "url": "https://github.com/actions/virtual-environments",
     "description": "GitHub Actions virtual environments",
     "language": "PowerShell",
-    "star": "32"
+    "star": "40"
   },
   {
     "title": "openzfs/zfs",
     "url": "https://github.com/openzfs/zfs",
     "description": "OpenZFS on Linux and FreeBSD",
     "language": "C",
-    "star": "214"
+    "star": "215"
   },
   {
     "title": "Aircoookie/WLED",
     "url": "https://github.com/Aircoookie/WLED",
     "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
     "language": "C++",
-    "star": "36"
+    "star": "35"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "220"
+    "star": "222"
   }
 ]
