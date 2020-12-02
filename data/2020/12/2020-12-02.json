@@ -1,0 +1,177 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "53"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "language": "Shell",
+    "star": "211"
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "description": "🎉 A Vue.js 3.0 UI Library",
+    "language": "Vue",
+    "star": "744"
+  },
+  {
+    "title": "RayTracing/raytracing.github.io",
+    "url": "https://github.com/RayTracing/raytracing.github.io",
+    "description": "Main Web Site (Online Books)",
+    "language": "HTML",
+    "star": "35"
+  },
+  {
+    "title": "r0ysue/r0capture",
+    "url": "https://github.com/r0ysue/r0capture",
+    "description": "安卓应用层抓包通杀脚本",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "openzfs/zfs",
+    "url": "https://github.com/openzfs/zfs",
+    "description": "OpenZFS on Linux and FreeBSD",
+    "language": "C",
+    "star": "208"
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "description": "📝 ‎ A web-based notes app for developers. (Demo only)",
+    "language": "TypeScript",
+    "star": "88"
+  },
+  {
+    "title": "ourownstory/neural_prophet",
+    "url": "https://github.com/ourownstory/neural_prophet",
+    "description": "NeuralProphet - a Neural Network based Time-Series model",
+    "language": "Jupyter Notebook",
+    "star": "197"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "language": "Jupyter Notebook",
+    "star": "308"
+  },
+  {
+    "title": "edent/SuperTinyIcons",
+    "url": "https://github.com/edent/SuperTinyIcons",
+    "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+    "language": "JavaScript",
+    "star": "232"
+  },
+  {
+    "title": "porn-vault/porn-vault",
+    "url": "https://github.com/porn-vault/porn-vault",
+    "description": "💋 Manage your ever-growing porn collection. Using Vue & GraphQL",
+    "language": "TypeScript",
+    "star": "36"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "description": "A list of resources for those interested in getting started in bug bounties",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "description": "🤗 Fast, efficient, open-access datasets and evaluation metrics in PyTorch, TensorFlow, NumPy and Pandas",
+    "language": "Python",
+    "star": "162"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "268"
+  },
+  {
+    "title": "lunatic-lang/lunatic",
+    "url": "https://github.com/lunatic-lang/lunatic",
+    "description": "The Lunatic VM",
+    "language": "Rust",
+    "star": "74"
+  },
+  {
+    "title": "yandex-research/navigan",
+    "url": "https://github.com/yandex-research/navigan",
+    "description": "Navigating the GAN Parameter Space for Semantic Image Editing",
+    "language": "Jupyter Notebook",
+    "star": "37"
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "description": "High-Performance Java API Gateway",
+    "language": "Java",
+    "star": "143"
+  },
+  {
+    "title": "EricJMarti/inventory-hunter",
+    "url": "https://github.com/EricJMarti/inventory-hunter",
+    "description": "⚡️ Get notified as soon as your next CPU, GPU, or game console is in stock",
+    "language": "Python",
+    "star": "84"
+  },
+  {
+    "title": "kallydev/privacy",
+    "url": "https://github.com/kallydev/privacy",
+    "description": "个人数据泄漏检测网站，适用于近期流传的 40GB+ 数据。",
+    "language": "none",
+    "star": "46"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "167"
+  },
+  {
+    "title": "ethereum/eth2.0-specs",
+    "url": "https://github.com/ethereum/eth2.0-specs",
+    "description": "Ethereum 2.0 Specifications",
+    "language": "Python",
+    "star": "7"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "star": "456"
+  },
+  {
+    "title": "prysmaticlabs/prysm",
+    "url": "https://github.com/prysmaticlabs/prysm",
+    "description": "Go implementation of the Ethereum 2.0 blockchain",
+    "language": "Go",
+    "star": "89"
+  },
+  {
+    "title": "ihebski/A-Red-Teamer-diaries",
+    "url": "https://github.com/ihebski/A-Red-Teamer-diaries",
+    "description": "RedTeam/Pentest notes and experiments tested on several infrastructures related to professional engagements.",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "language": "PHP",
+    "star": "45"
+  }
+]
