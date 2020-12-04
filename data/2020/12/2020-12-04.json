@@ -1,0 +1,177 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "95"
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "description": "📝 ‎ A web-based notes app for developers. (Demo only)",
+    "language": "TypeScript",
+    "star": "196"
+  },
+  {
+    "title": "porn-vault/porn-vault",
+    "url": "https://github.com/porn-vault/porn-vault",
+    "description": "💋 Manage your ever-growing porn collection. Using Vue & GraphQL",
+    "language": "TypeScript",
+    "star": "232"
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+    "language": "Python",
+    "star": "203"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "description": "Your window into the Elastic Stack",
+    "language": "TypeScript",
+    "star": "29"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "language": "PHP",
+    "star": "418"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "16"
+  },
+  {
+    "title": "aws-samples/aws-proton-sample-templates",
+    "url": "https://github.com/aws-samples/aws-proton-sample-templates",
+    "description": "Sample templates for AWS Proton, available in preview",
+    "language": "none",
+    "star": "47"
+  },
+  {
+    "title": "containers/podman",
+    "url": "https://github.com/containers/podman",
+    "description": "Podman: A tool for managing OCI containers and pods",
+    "language": "Go",
+    "star": "91"
+  },
+  {
+    "title": "micronaut-projects/micronaut-core",
+    "url": "https://github.com/micronaut-projects/micronaut-core",
+    "description": "Micronaut Application Framework",
+    "language": "Java",
+    "star": "24"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "451"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "345"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "98"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (December 2020)",
+    "language": "JavaScript",
+    "star": "183"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "263"
+  },
+  {
+    "title": "preactjs/wmr",
+    "url": "https://github.com/preactjs/wmr",
+    "description": "👩‍🚀 The tiny all-in-one development tool for modern web apps.",
+    "language": "JavaScript",
+    "star": "614"
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "language": "JavaScript",
+    "star": "128"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "A sandbox tower defense game",
+    "language": "Java",
+    "star": "311"
+  },
+  {
+    "title": "techtanic/Udemy-Course-Grabber",
+    "url": "https://github.com/techtanic/Udemy-Course-Grabber",
+    "description": "",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "Free-IPTV/Countries",
+    "url": "https://github.com/Free-IPTV/Countries",
+    "description": "Free legally receivable IPTV channels as .m3u for Kodi. :-)",
+    "language": "none",
+    "star": "51"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "155"
+  },
+  {
+    "title": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "description": "Git with a cup of tea, painless self-hosted git service",
+    "language": "Go",
+    "star": "189"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "Website, docs, and examples. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "142"
+  },
+  {
+    "title": "KhaosT/ACVM",
+    "url": "https://github.com/KhaosT/ACVM",
+    "description": "",
+    "language": "C",
+    "star": "26"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
+    "language": "JavaScript",
+    "star": "37"
+  }
+]
