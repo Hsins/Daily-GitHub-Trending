@@ -4,14 +4,14 @@
     "url": "https://github.com/porn-vault/porn-vault",
     "description": "💋 Manage your ever-growing porn collection. Using Vue & GraphQL",
     "language": "TypeScript",
-    "star": "214"
+    "star": "225"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "94"
+    "star": "97"
   },
   {
     "title": "WerWolv/ImHex",
@@ -25,7 +25,7 @@
     "url": "https://github.com/preactjs/wmr",
     "description": "👩‍🚀 The tiny all-in-one development tool for modern web apps.",
     "language": "JavaScript",
-    "star": "440"
+    "star": "450"
   },
   {
     "title": "bazelbuild/bazel",
@@ -53,7 +53,7 @@
     "url": "https://github.com/taniarascia/takenote",
     "description": "📝 ‎ A web-based notes app for developers.",
     "language": "TypeScript",
-    "star": "224"
+    "star": "228"
   },
   {
     "title": "containerd/containerd",
@@ -67,7 +67,7 @@
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "36"
+    "star": "38"
   },
   {
     "title": "reillychase/hostifi-mvp",
@@ -81,7 +81,7 @@
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "388"
+    "star": "394"
   },
   {
     "title": "dashbitco/bytepack_archive",
@@ -95,21 +95,21 @@
     "url": "https://github.com/h5bp/html5-boilerplate",
     "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
     "language": "JavaScript",
-    "star": "139"
+    "star": "140"
   },
   {
     "title": "thedaviddias/Front-End-Checklist",
     "url": "https://github.com/thedaviddias/Front-End-Checklist",
     "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
     "language": "none",
-    "star": "416"
+    "star": "424"
   },
   {
     "title": "alacritty/alacritty",
     "url": "https://github.com/alacritty/alacritty",
     "description": "A cross-platform, GPU-accelerated terminal emulator",
     "language": "Rust",
-    "star": "56"
+    "star": "55"
   },
   {
     "title": "KasperskyLab/TinyCheck",
@@ -151,27 +151,27 @@
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "204"
+    "star": "208"
   },
   {
     "title": "Free-IPTV/Countries",
     "url": "https://github.com/Free-IPTV/Countries",
     "description": "Free legally receivable IPTV channels as .m3u for Kodi. :-)",
     "language": "none",
-    "star": "78"
+    "star": "77"
   },
   {
     "title": "micronaut-projects/micronaut-core",
     "url": "https://github.com/micronaut-projects/micronaut-core",
     "description": "Micronaut Application Framework",
     "language": "Java",
-    "star": "48"
+    "star": "49"
   },
   {
     "title": "adamian98/pulse",
     "url": "https://github.com/adamian98/pulse",
     "description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
     "language": "Python",
-    "star": "177"
+    "star": "181"
   }
 ]
