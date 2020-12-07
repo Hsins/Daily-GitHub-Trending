@@ -4,14 +4,14 @@
     "url": "https://github.com/WerWolv/ImHex",
     "description": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
     "language": "C++",
-    "star": "1"
+    "star": "851"
   },
   {
     "title": "nickmccullum/algorithmic-trading-python",
     "url": "https://github.com/nickmccullum/algorithmic-trading-python",
     "description": "The repository for freeCodeCamp's YouTube course, Algorithmic Trading in Python",
     "language": "Jupyter Notebook",
-    "star": "64"
+    "star": "78"
   },
   {
     "title": "alacritty/alacritty",
@@ -53,14 +53,14 @@
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "74"
+    "star": "92"
   },
   {
     "title": "rclone/rclone",
     "url": "https://github.com/rclone/rclone",
     "description": "\"rsync for cloud storage\" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files",
     "language": "Go",
-    "star": "68"
+    "star": "108"
   },
   {
     "title": "rapid7/metasploit-framework",
@@ -88,7 +88,7 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs for use in software and web development.",
     "language": "Python",
-    "star": "430"
+    "star": "455"
   },
   {
     "title": "SebLague/Digital-Logic-Sim",
@@ -102,7 +102,7 @@
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "137"
+    "star": "191"
   },
   {
     "title": "thedaviddias/Front-End-Checklist",
@@ -116,7 +116,7 @@
     "url": "https://github.com/AkihiroSuda/nerdctl",
     "description": "Docker-compatible CLI for containerd",
     "language": "Go",
-    "star": "74"
+    "star": "73"
   },
   {
     "title": "microsoft/restler-fuzzer",
