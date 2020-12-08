@@ -4,174 +4,174 @@
     "url": "https://github.com/beurtschipper/Depix",
     "description": "Recovers passwords from pixelized screenshots",
     "language": "Python",
-    "star": "2"
+    "star": "1"
   },
   {
     "title": "PhilJay/MPAndroidChart",
     "url": "https://github.com/PhilJay/MPAndroidChart",
     "description": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
     "language": "Java",
-    "star": "24"
+    "star": "45"
   },
   {
     "title": "magma/magma",
     "url": "https://github.com/magma/magma",
     "description": "Platform for building access networks and modular network services",
     "language": "Go",
-    "star": "7"
+    "star": "34"
   },
   {
     "title": "fastlane/fastlane",
     "url": "https://github.com/fastlane/fastlane",
     "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "language": "Ruby",
-    "star": "38"
+    "star": "8"
   },
   {
     "title": "onnx/onnx-tensorrt",
     "url": "https://github.com/onnx/onnx-tensorrt",
     "description": "ONNX-TensorRT: TensorRT backend for ONNX",
     "language": "C++",
-    "star": "8"
+    "star": "11"
   },
   {
     "title": "demisto/content",
     "url": "https://github.com/demisto/content",
     "description": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
     "language": "Python",
-    "star": "5"
+    "star": "8"
   },
   {
     "title": "input-output-hk/cardano-node",
     "url": "https://github.com/input-output-hk/cardano-node",
     "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
     "language": "Haskell",
-    "star": "7"
+    "star": "13"
   },
   {
     "title": "catchorg/Catch2",
     "url": "https://github.com/catchorg/Catch2",
     "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
     "language": "C++",
-    "star": "9"
+    "star": "12"
   },
   {
     "title": "tfutils/tfenv",
     "url": "https://github.com/tfutils/tfenv",
     "description": "Terraform version manager",
     "language": "Shell",
-    "star": "22"
+    "star": "6"
   },
   {
     "title": "go-yaml/yaml",
     "url": "https://github.com/go-yaml/yaml",
     "description": "YAML support for the Go language.",
     "language": "Go",
-    "star": "5"
+    "star": "21"
   },
   {
     "title": "Tencent/rapidjson",
     "url": "https://github.com/Tencent/rapidjson",
     "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
     "language": "C++",
-    "star": "11"
+    "star": "26"
   },
   {
     "title": "cloudera/hue",
     "url": "https://github.com/cloudera/hue",
     "description": "Hue Editor: Open source SQL Query Assistant for Databases/Warehouses",
     "language": "Python",
-    "star": "2"
+    "star": "128"
   },
   {
     "title": "weaveworks/kured",
     "url": "https://github.com/weaveworks/kured",
     "description": "Kubernetes Reboot Daemon",
     "language": "Go",
-    "star": "17"
+    "star": "25"
   },
   {
     "title": "vmware-tanzu/velero",
     "url": "https://github.com/vmware-tanzu/velero",
     "description": "Backup and migrate Kubernetes applications and their persistent volumes",
     "language": "Go",
-    "star": "18"
+    "star": "6"
   },
   {
     "title": "amzn/selling-partner-api-docs",
     "url": "https://github.com/amzn/selling-partner-api-docs",
     "description": "This repository contains documentation for developers to use to call Selling Partner APIs.",
     "language": "none",
-    "star": "8"
+    "star": "14"
   },
   {
     "title": "jenssegers/laravel-mongodb",
     "url": "https://github.com/jenssegers/laravel-mongodb",
     "description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
     "language": "PHP",
-    "star": "7"
+    "star": "12"
   },
   {
     "title": "nlohmann/json",
     "url": "https://github.com/nlohmann/json",
     "description": "JSON for Modern C++",
     "language": "C++",
-    "star": "42"
+    "star": "52"
   },
   {
     "title": "terraform-google-modules/terraform-google-kubernetes-engine",
     "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
     "description": "A Terraform module for configuring GKE clusters.",
     "language": "HCL",
-    "star": "3"
+    "star": "7"
   },
   {
     "title": "AFLplusplus/AFLplusplus",
     "url": "https://github.com/AFLplusplus/AFLplusplus",
     "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
     "language": "C",
-    "star": "44"
+    "star": "49"
   },
   {
     "title": "flot/flot",
     "url": "https://github.com/flot/flot",
     "description": "Attractive JavaScript charts for jQuery",
     "language": "JavaScript",
-    "star": "3"
+    "star": "26"
   },
   {
     "title": "thanos-io/thanos",
     "url": "https://github.com/thanos-io/thanos",
     "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
     "language": "Go",
-    "star": "49"
+    "star": "67"
   },
   {
     "title": "benmosher/eslint-plugin-import",
     "url": "https://github.com/benmosher/eslint-plugin-import",
     "description": "ESLint plugin with rules that help validate proper imports.",
     "language": "JavaScript",
-    "star": "2"
+    "star": "6"
   },
   {
     "title": "cloudwu/skynet",
     "url": "https://github.com/cloudwu/skynet",
     "description": "A lightweight online game framework",
     "language": "C",
-    "star": "33"
+    "star": "39"
   },
   {
     "title": "carrierwaveuploader/carrierwave",
     "url": "https://github.com/carrierwaveuploader/carrierwave",
     "description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",
     "language": "Ruby",
-    "star": "5"
+    "star": "6"
   },
   {
     "title": "react-native-mapbox-gl/maps",
     "url": "https://github.com/react-native-mapbox-gl/maps",
     "description": "A Mapbox GL react native module for creating custom maps",
     "language": "JavaScript",
-    "star": "10"
+    "star": "2"
   }
 ]
