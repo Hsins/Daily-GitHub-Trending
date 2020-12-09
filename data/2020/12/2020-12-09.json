@@ -11,7 +11,7 @@
     "url": "https://github.com/javascript-tutorial/en.javascript.info",
     "description": "Modern JavaScript Tutorial",
     "language": "HTML",
-    "star": "368"
+    "star": "406"
   },
   {
     "title": "ionic-team/ionic-framework",
@@ -25,35 +25,35 @@
     "url": "https://github.com/Tencent/rapidjson",
     "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
     "language": "C++",
-    "star": "86"
+    "star": "84"
   },
   {
     "title": "lensapp/lens",
     "url": "https://github.com/lensapp/lens",
     "description": "Lens - The Kubernetes IDE",
     "language": "TypeScript",
-    "star": "130"
+    "star": "71"
   },
   {
     "title": "Alamofire/Alamofire",
     "url": "https://github.com/Alamofire/Alamofire",
     "description": "Elegant HTTP Networking in Swift",
     "language": "Swift",
-    "star": "12"
+    "star": "39"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "194"
+    "star": "232"
   },
   {
     "title": "crowdsecurity/crowdsec",
     "url": "https://github.com/crowdsecurity/crowdsec",
     "description": "Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.",
     "language": "Go",
-    "star": "85"
+    "star": "103"
   },
   {
     "title": "oskarsve/ms-teams-rce",
@@ -67,21 +67,21 @@
     "url": "https://github.com/beurtschipper/Depix",
     "description": "Recovers passwords from pixelized screenshots",
     "language": "Python",
-    "star": "2"
+    "star": "1"
   },
   {
     "title": "thanos-io/thanos",
     "url": "https://github.com/thanos-io/thanos",
     "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
     "language": "Go",
-    "star": "190"
+    "star": "152"
   },
   {
     "title": "DivineEngine/Profiles",
     "url": "https://github.com/DivineEngine/Profiles",
     "description": "🌐Dial-up Internet access",
     "language": "none",
-    "star": "62"
+    "star": "77"
   },
   {
     "title": "ottomated/CrewLink",
@@ -95,28 +95,28 @@
     "url": "https://github.com/laravel/sail",
     "description": "",
     "language": "Shell",
-    "star": "112"
+    "star": "106"
   },
   {
     "title": "sonic-pi-net/sonic-pi",
     "url": "https://github.com/sonic-pi-net/sonic-pi",
     "description": "Code. Music. Live.",
     "language": "Ruby",
-    "star": "125"
+    "star": "121"
   },
   {
     "title": "xingshaocheng/architect-awesome",
     "url": "https://github.com/xingshaocheng/architect-awesome",
     "description": "后端架构师技术图谱",
     "language": "none",
-    "star": "195"
+    "star": "324"
   },
   {
     "title": "fastlane/fastlane",
     "url": "https://github.com/fastlane/fastlane",
     "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "language": "Ruby",
-    "star": "242"
+    "star": "159"
   },
   {
     "title": "tensorflow/tensorflow",
@@ -130,48 +130,48 @@
     "url": "https://github.com/catchorg/Catch2",
     "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
     "language": "C++",
-    "star": "33"
+    "star": "61"
   },
   {
     "title": "nlohmann/json",
     "url": "https://github.com/nlohmann/json",
     "description": "JSON for Modern C++",
     "language": "C++",
-    "star": "84"
+    "star": "143"
   },
   {
     "title": "go-git/go-git",
     "url": "https://github.com/go-git/go-git",
     "description": "A highly extensible Git implementation in pure Go.",
     "language": "Go",
-    "star": "45"
+    "star": "13"
   },
   {
     "title": "hashicorp/nomad",
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "42"
+    "star": "147"
   },
   {
     "title": "mml-book/mml-book.github.io",
     "url": "https://github.com/mml-book/mml-book.github.io",
     "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
     "language": "Jupyter Notebook",
-    "star": "102"
+    "star": "47"
   },
   {
     "title": "atc1441/ATC_MiThermometer",
     "url": "https://github.com/atc1441/ATC_MiThermometer",
     "description": "Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter",
     "language": "C",
-    "star": "19"
+    "star": "18"
   },
   {
     "title": "prometheus-operator/prometheus-operator",
     "url": "https://github.com/prometheus-operator/prometheus-operator",
     "description": "Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes",
     "language": "Go",
-    "star": "7"
+    "star": "13"
   }
 ]
