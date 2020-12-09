@@ -25,7 +25,7 @@
     "url": "https://github.com/Tencent/rapidjson",
     "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
     "language": "C++",
-    "star": "78"
+    "star": "86"
   },
   {
     "title": "lensapp/lens",
@@ -74,14 +74,14 @@
     "url": "https://github.com/thanos-io/thanos",
     "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
     "language": "Go",
-    "star": "216"
+    "star": "190"
   },
   {
     "title": "DivineEngine/Profiles",
     "url": "https://github.com/DivineEngine/Profiles",
     "description": "🌐Dial-up Internet access",
     "language": "none",
-    "star": "79"
+    "star": "62"
   },
   {
     "title": "ottomated/CrewLink",
@@ -95,7 +95,7 @@
     "url": "https://github.com/laravel/sail",
     "description": "",
     "language": "Shell",
-    "star": "104"
+    "star": "112"
   },
   {
     "title": "sonic-pi-net/sonic-pi",
@@ -116,7 +116,7 @@
     "url": "https://github.com/fastlane/fastlane",
     "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "language": "Ruby",
-    "star": "233"
+    "star": "242"
   },
   {
     "title": "tensorflow/tensorflow",
@@ -158,7 +158,7 @@
     "url": "https://github.com/mml-book/mml-book.github.io",
     "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
     "language": "Jupyter Notebook",
-    "star": "89"
+    "star": "102"
   },
   {
     "title": "atc1441/ATC_MiThermometer",
