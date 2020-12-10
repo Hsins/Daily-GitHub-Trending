@@ -11,7 +11,7 @@
     "url": "https://github.com/linkedin/school-of-sre",
     "description": "At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.",
     "language": "HTML",
-    "star": "1"
+    "star": "945"
   },
   {
     "title": "minhealthnz/nzcovidtracer-app",
@@ -32,14 +32,14 @@
     "url": "https://github.com/nlohmann/json",
     "description": "JSON for Modern C++",
     "language": "C++",
-    "star": "139"
+    "star": "157"
   },
   {
     "title": "lensapp/lens",
     "url": "https://github.com/lensapp/lens",
     "description": "Lens - The Kubernetes IDE",
     "language": "TypeScript",
-    "star": "435"
+    "star": "252"
   },
   {
     "title": "cypress-io/cypress",
@@ -53,7 +53,7 @@
     "url": "https://github.com/sonic-pi-net/sonic-pi",
     "description": "Code. Music. Live.",
     "language": "Ruby",
-    "star": "194"
+    "star": "262"
   },
   {
     "title": "sindresorhus/css-in-readme-like-wat",
@@ -67,21 +67,21 @@
     "url": "https://github.com/fireeye/commando-vm",
     "description": "Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@fireeye.com",
     "language": "PowerShell",
-    "star": "142"
+    "star": "171"
   },
   {
     "title": "xingshaocheng/architect-awesome",
     "url": "https://github.com/xingshaocheng/architect-awesome",
     "description": "后端架构师技术图谱",
     "language": "none",
-    "star": "360"
+    "star": "402"
   },
   {
     "title": "mml-book/mml-book.github.io",
     "url": "https://github.com/mml-book/mml-book.github.io",
     "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
     "language": "Jupyter Notebook",
-    "star": "96"
+    "star": "121"
   },
   {
     "title": "PaddlePaddle/PaddleX",
@@ -95,14 +95,14 @@
     "url": "https://github.com/Tencent/rapidjson",
     "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
     "language": "C++",
-    "star": "85"
+    "star": "98"
   },
   {
     "title": "laravel/sail",
     "url": "https://github.com/laravel/sail",
     "description": "",
     "language": "Shell",
-    "star": "109"
+    "star": "96"
   },
   {
     "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
@@ -116,7 +116,7 @@
     "url": "https://github.com/ionic-team/ionic-framework",
     "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
     "language": "TypeScript",
-    "star": "76"
+    "star": "106"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -130,28 +130,28 @@
     "url": "https://github.com/javascript-tutorial/en.javascript.info",
     "description": "Modern JavaScript Tutorial",
     "language": "HTML",
-    "star": "237"
+    "star": "239"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "604"
+    "star": "616"
   },
   {
     "title": "imarvinle/awesome-cs-books",
     "url": "https://github.com/imarvinle/awesome-cs-books",
     "description": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等",
     "language": "none",
-    "star": "111"
+    "star": "147"
   },
   {
     "title": "thanos-io/thanos",
     "url": "https://github.com/thanos-io/thanos",
     "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
     "language": "Go",
-    "star": "198"
+    "star": "122"
   },
   {
     "title": "denoland/deno",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Alamofire/Alamofire",
     "description": "Elegant HTTP Networking in Swift",
     "language": "Swift",
-    "star": "37"
+    "star": "45"
   },
   {
     "title": "DivineEngine/Profiles",
     "url": "https://github.com/DivineEngine/Profiles",
     "description": "🌐Dial-up Internet access",
     "language": "none",
-    "star": "60"
+    "star": "69"
   }
 ]
