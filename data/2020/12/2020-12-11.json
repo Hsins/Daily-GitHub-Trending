@@ -1,0 +1,177 @@
+[
+  {
+    "title": "camtheperson/get-my-ps5",
+    "url": "https://github.com/camtheperson/get-my-ps5",
+    "description": "A CLI utility to help people secure a PlayStation 5 (PS5).",
+    "language": "JavaScript",
+    "star": "42"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "language": "Python",
+    "star": "668"
+  },
+  {
+    "title": "Netflix/consoleme",
+    "url": "https://github.com/Netflix/consoleme",
+    "description": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
+    "language": "Python",
+    "star": "110"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "language": "Go",
+    "star": "115"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "star": "296"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "star": "82"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "136"
+  },
+  {
+    "title": "angular/angular.js",
+    "url": "https://github.com/angular/angular.js",
+    "description": "AngularJS - HTML enhanced for web apps!",
+    "language": "JavaScript",
+    "star": "6"
+  },
+  {
+    "title": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "description": "Ruby on Rails",
+    "language": "Ruby",
+    "star": "27"
+  },
+  {
+    "title": "facontidavide/PlotJuggler",
+    "url": "https://github.com/facontidavide/PlotJuggler",
+    "description": "The Time Series Visualization Tool that you deserve.",
+    "language": "C++",
+    "star": "199"
+  },
+  {
+    "title": "minhealthnz/nzcovidtracer-app",
+    "url": "https://github.com/minhealthnz/nzcovidtracer-app",
+    "description": "This is the repository for the front-end of the NZ COVID Tracer app.",
+    "language": "TypeScript",
+    "star": "115"
+  },
+  {
+    "title": "benawad/vsinder",
+    "url": "https://github.com/benawad/vsinder",
+    "description": "Dating App for VSCode",
+    "language": "Svelte",
+    "star": "154"
+  },
+  {
+    "title": "linkedin/school-of-sre",
+    "url": "https://github.com/linkedin/school-of-sre",
+    "description": "At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.",
+    "language": "HTML",
+    "star": "688"
+  },
+  {
+    "title": "sonic-pi-net/sonic-pi",
+    "url": "https://github.com/sonic-pi-net/sonic-pi",
+    "description": "Code. Music. Live.",
+    "language": "Ruby",
+    "star": "461"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "196"
+  },
+  {
+    "title": "rocky-linux/rocky",
+    "url": "https://github.com/rocky-linux/rocky",
+    "description": "Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "maplibre/maplibre-gl-js",
+    "url": "https://github.com/maplibre/maplibre-gl-js",
+    "description": "MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl",
+    "language": "JavaScript",
+    "star": "140"
+  },
+  {
+    "title": "brndnmtthws/thetagang",
+    "url": "https://github.com/brndnmtthws/thetagang",
+    "description": "ThetaGang is an IBKR bot for collecting money",
+    "language": "Python",
+    "star": "102"
+  },
+  {
+    "title": "yogeshojha/rengine",
+    "url": "https://github.com/yogeshojha/rengine",
+    "description": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "421"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "description": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "language": "Shell",
+    "star": "16"
+  },
+  {
+    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "description": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "language": "Python",
+    "star": "60"
+  },
+  {
+    "title": "benawad/vsinder-api",
+    "url": "https://github.com/benawad/vsinder-api",
+    "description": "Node.js Api for Dating App",
+    "language": "TypeScript",
+    "star": "90"
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "description": "Everything you need to prepare for your technical interview",
+    "language": "none",
+    "star": "75"
+  }
+]
