@@ -1,0 +1,177 @@
+[
+  {
+    "title": "rocky-linux/rocky",
+    "url": "https://github.com/rocky-linux/rocky",
+    "description": "Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "camtheperson/get-my-ps5",
+    "url": "https://github.com/camtheperson/get-my-ps5",
+    "description": "A CLI utility to help people secure a PlayStation 5 (PS5).",
+    "language": "JavaScript",
+    "star": "62"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "description": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
+    "language": "Batchfile",
+    "star": "323"
+  },
+  {
+    "title": "evansm7/vftool",
+    "url": "https://github.com/evansm7/vftool",
+    "description": "A simple macOS Virtualisation.framework wrapper",
+    "language": "Objective-C",
+    "star": "243"
+  },
+  {
+    "title": "Netflix/consoleme",
+    "url": "https://github.com/Netflix/consoleme",
+    "description": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
+    "language": "Python",
+    "star": "151"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "304"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "brndnmtthws/thetagang",
+    "url": "https://github.com/brndnmtthws/thetagang",
+    "description": "ThetaGang is an IBKR bot for collecting money",
+    "language": "Python",
+    "star": "90"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "language": "Python",
+    "star": "363"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "star": "241"
+  },
+  {
+    "title": "benawad/vsinder",
+    "url": "https://github.com/benawad/vsinder",
+    "description": "Dating App for VSCode",
+    "language": "TypeScript",
+    "star": "231"
+  },
+  {
+    "title": "winXray/winXray",
+    "url": "https://github.com/winXray/winXray",
+    "description": "About Xray / V2Ray( vmess/vless )、Shadowsocks、Trojan 通用客户端（Windows），可自动维持稳定上网 - 代理服务器异常自动切换，并提供一键部署代理服务端工具，使用 aardio 编写，绿色便携版免安装仅5MB、不需要.Net等外部运行库。",
+    "language": "none",
+    "star": "106"
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "description": "Everything you need to prepare for your technical interview",
+    "language": "none",
+    "star": "123"
+  },
+  {
+    "title": "AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo",
+    "url": "https://github.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo",
+    "description": "Bot Auto Checkout Flashsale Shopee Promo (Botacs Pro)",
+    "language": "Visual Basic .NET",
+    "star": "15"
+  },
+  {
+    "title": "ossf/criticality_score",
+    "url": "https://github.com/ossf/criticality_score",
+    "description": "Gives criticality score for an open source project",
+    "language": "Python",
+    "star": "193"
+  },
+  {
+    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "description": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "language": "Python",
+    "star": "121"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Materials to help you rock your next coding interview",
+    "language": "JavaScript",
+    "star": "100"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "92"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "287"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "description": "Google Research",
+    "language": "Jupyter Notebook",
+    "star": "31"
+  },
+  {
+    "title": "rocky-linux/infrastructure",
+    "url": "https://github.com/rocky-linux/infrastructure",
+    "description": "",
+    "language": "HTML",
+    "star": "14"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "337"
+  },
+  {
+    "title": "seven332/EhViewer",
+    "url": "https://github.com/seven332/EhViewer",
+    "description": "[DEPRECATED] An Unofficial E-Hentai Application for Android",
+    "language": "Java",
+    "star": "6"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "star": "89"
+  },
+  {
+    "title": "typesense/showcase-recipe-search",
+    "url": "https://github.com/typesense/showcase-recipe-search",
+    "description": "An app showing Typesense Search in action on a 2M recipe database",
+    "language": "JavaScript",
+    "star": "40"
+  }
+]
