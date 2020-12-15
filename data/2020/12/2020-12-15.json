@@ -18,7 +18,7 @@
     "url": "https://github.com/Netflix/consoleme",
     "description": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
     "language": "Python",
-    "star": "275"
+    "star": "274"
   },
   {
     "title": "sherlock-project/sherlock",
@@ -39,49 +39,49 @@
     "url": "https://github.com/yamashi/PerformanceOverhaulCyberpunk",
     "description": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
     "language": "C++",
-    "star": "526"
+    "star": "567"
   },
   {
     "title": "RobinLinus/snapdrop",
     "url": "https://github.com/RobinLinus/snapdrop",
     "description": "A Progressive Web App for local file sharing",
     "language": "JavaScript",
-    "star": "543"
+    "star": "427"
   },
   {
     "title": "cascadium/wsl-windows-toolbar-launcher",
     "url": "https://github.com/cascadium/wsl-windows-toolbar-launcher",
     "description": "Adds linux GUI application menu to a windows toolbar",
     "language": "Python",
-    "star": "104"
+    "star": "107"
   },
   {
     "title": "danistefanovic/build-your-own-x",
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "431"
+    "star": "423"
   },
   {
     "title": "getmeli/meli",
     "url": "https://github.com/getmeli/meli",
     "description": "",
     "language": "TypeScript",
-    "star": "367"
+    "star": "459"
   },
   {
     "title": "Pierian-Data/Complete-Python-3-Bootcamp",
     "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
     "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
     "language": "Jupyter Notebook",
-    "star": "63"
+    "star": "31"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
     "language": "C++",
-    "star": "393"
+    "star": "379"
   },
   {
     "title": "wangdoc/ssh-tutorial",
@@ -102,28 +102,28 @@
     "url": "https://github.com/rocky-linux/rockylinux.org",
     "description": "The official website of the Rocky Linux Project.",
     "language": "HTML",
-    "star": "81"
+    "star": "55"
   },
   {
     "title": "iperov/DeepFaceLab",
     "url": "https://github.com/iperov/DeepFaceLab",
     "description": "DeepFaceLab is the leading software for creating deepfakes.",
     "language": "Python",
-    "star": "197"
+    "star": "167"
   },
   {
     "title": "Olshansk/interview",
     "url": "https://github.com/Olshansk/interview",
     "description": "Everything you need to prepare for your technical interview",
     "language": "none",
-    "star": "253"
+    "star": "243"
   },
   {
     "title": "knownsec/shellcodeloader",
     "url": "https://github.com/knownsec/shellcodeloader",
     "description": "shellcodeloader",
     "language": "C++",
-    "star": "69"
+    "star": "74"
   },
   {
     "title": "Jays-code-collection/HMMs_Stock_Market",
@@ -137,7 +137,7 @@
     "url": "https://github.com/jiangqizheng/BlueSea",
     "description": "BlueSea，是一个有趣的英语学习扩展程序。支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计...等功能。",
     "language": "JavaScript",
-    "star": "27"
+    "star": "28"
   },
   {
     "title": "hexops/dockerfile",
@@ -151,7 +151,7 @@
     "url": "https://github.com/didi/DiDiPrism",
     "description": "小桔棱镜，一款专注移动端操作行为的利器！ A powerful tool (iOS & Android) that focuses on mobile operation behavior!",
     "language": "Objective-C",
-    "star": "115"
+    "star": "116"
   },
   {
     "title": "MichMich/MagicMirror",
