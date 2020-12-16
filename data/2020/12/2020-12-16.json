@@ -4,49 +4,49 @@
     "url": "https://github.com/mdn/content",
     "description": "The content behind MDN Web Docs",
     "language": "HTML",
-    "star": "325"
+    "star": "319"
   },
   {
     "title": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "345"
+    "star": "235"
   },
   {
     "title": "RobinLinus/snapdrop",
     "url": "https://github.com/RobinLinus/snapdrop",
     "description": "A Progressive Web App for local file sharing",
     "language": "JavaScript",
-    "star": "444"
+    "star": "426"
   },
   {
     "title": "callstack/react-native-paper",
     "url": "https://github.com/callstack/react-native-paper",
     "description": "Material Design for React Native (Android & iOS)",
     "language": "TypeScript",
-    "star": "66"
+    "star": "52"
   },
   {
     "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
     "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
     "description": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
     "language": "Python",
-    "star": "252"
+    "star": "276"
   },
   {
     "title": "willmcgugan/rich",
     "url": "https://github.com/willmcgugan/rich",
     "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
     "language": "Python",
-    "star": "478"
+    "star": "565"
   },
   {
     "title": "yamashi/PerformanceOverhaulCyberpunk",
     "url": "https://github.com/yamashi/PerformanceOverhaulCyberpunk",
     "description": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
     "language": "C++",
-    "star": "527"
+    "star": "508"
   },
   {
     "title": "tiangolo/fastapi",
@@ -74,14 +74,14 @@
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "411"
+    "star": "408"
   },
   {
     "title": "stenzek/duckstation",
     "url": "https://github.com/stenzek/duckstation",
     "description": "Fast PlayStation 1 emulator for PC and Android",
     "language": "C++",
-    "star": "93"
+    "star": "104"
   },
   {
     "title": "fireeye/sunburst_countermeasures",
@@ -95,7 +95,7 @@
     "url": "https://github.com/jumpserver/jumpserver",
     "description": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
     "language": "Python",
-    "star": "12"
+    "star": "16"
   },
   {
     "title": "sct/overseerr",
@@ -109,7 +109,7 @@
     "url": "https://github.com/AFLplusplus/AFLplusplus",
     "description": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
     "language": "C",
-    "star": "19"
+    "star": "18"
   },
   {
     "title": "business-science/free_r_tips",
@@ -144,7 +144,7 @@
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
     "language": "C++",
-    "star": "277"
+    "star": "268"
   },
   {
     "title": "hashicorp/packer",
@@ -158,7 +158,7 @@
     "url": "https://github.com/sophos-ai/SOREL-20M",
     "description": "Sophos-ReversingLabs 20 million sample dataset",
     "language": "Python",
-    "star": "42"
+    "star": "43"
   },
   {
     "title": "mattermost/xml-roundtrip-validator",
