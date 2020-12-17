@@ -11,21 +11,21 @@
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "351"
+    "star": "340"
   },
   {
     "title": "PeterL1n/BackgroundMattingV2",
     "url": "https://github.com/PeterL1n/BackgroundMattingV2",
     "description": "Real-Time High-Resolution Background Matting",
     "language": "Python",
-    "star": "123"
+    "star": "227"
   },
   {
     "title": "hashicorp/packer",
     "url": "https://github.com/hashicorp/packer",
     "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
     "language": "Go",
-    "star": "125"
+    "star": "232"
   },
   {
     "title": "Azure/bicep",
@@ -39,14 +39,14 @@
     "url": "https://github.com/stenzek/duckstation",
     "description": "Fast PlayStation 1 emulator for PC and Android",
     "language": "C++",
-    "star": "93"
+    "star": "109"
   },
   {
     "title": "ggerganov/kbd-audio",
     "url": "https://github.com/ggerganov/kbd-audio",
     "description": "Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️",
     "language": "C++",
-    "star": "318"
+    "star": "323"
   },
   {
     "title": "nvpro-samples/vk_mini_path_tracer",
@@ -67,14 +67,14 @@
     "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
     "description": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
     "language": "Python",
-    "star": "237"
+    "star": "236"
   },
   {
     "title": "microsoft/playwright",
     "url": "https://github.com/microsoft/playwright",
     "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
     "language": "TypeScript",
-    "star": "102"
+    "star": "115"
   },
   {
     "title": "google/mundane",
@@ -116,14 +116,14 @@
     "url": "https://github.com/metersphere/metersphere",
     "description": "An open source continuous testing platform. MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。项目采用 SpringBoot 2.x + MyBatis + Vue.js + Element + Docker + Kafka + MySQL等开发。",
     "language": "Java",
-    "star": "46"
+    "star": "77"
   },
   {
     "title": "wangdoc/ssh-tutorial",
     "url": "https://github.com/wangdoc/ssh-tutorial",
     "description": "SSH 教程",
     "language": "none",
-    "star": "75"
+    "star": "133"
   },
   {
     "title": "mytechnotalent/Reverse-Engineering-Tutorial",
@@ -137,35 +137,35 @@
     "url": "https://github.com/tiangolo/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "star": "95"
+    "star": "183"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
     "language": "Python",
-    "star": "141"
+    "star": "144"
   },
   {
     "title": "yamashi/PerformanceOverhaulCyberpunk",
     "url": "https://github.com/yamashi/PerformanceOverhaulCyberpunk",
     "description": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
     "language": "C++",
-    "star": "339"
+    "star": "340"
   },
   {
     "title": "callstack/react-native-paper",
     "url": "https://github.com/callstack/react-native-paper",
     "description": "Material Design for React Native (Android & iOS)",
     "language": "TypeScript",
-    "star": "139"
+    "star": "127"
   },
   {
     "title": "mubix/solarflare",
     "url": "https://github.com/mubix/solarflare",
     "description": "SolarWinds Orion Account Audit / Password Dumping Utility",
     "language": "C#",
-    "star": "72"
+    "star": "71"
   },
   {
     "title": "chanakaudaya/solutions-architecture-patterns",
