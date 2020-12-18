@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "description": "Tools for capturing and analysing keyboard input paired with microphone capture 🎤⌨️",
+    "language": "C++",
+    "star": "285"
+  },
+  {
+    "title": "RedDrip7/SunBurst_DGA_Decode",
+    "url": "https://github.com/RedDrip7/SunBurst_DGA_Decode",
+    "description": "SunBurst DGA Decode Script",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "h2oai/wave",
+    "url": "https://github.com/h2oai/wave",
+    "description": "Realtime Web Apps and Dashboards for Python",
+    "language": "Python",
+    "star": "199"
+  },
+  {
+    "title": "vercel/virtual-event-starter-kit",
+    "url": "https://github.com/vercel/virtual-event-starter-kit",
+    "description": "Open source demo that Next.js developers can clone, deploy, and fully customize for events.",
+    "language": "TypeScript",
+    "star": "119"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "language": "Python",
+    "star": "166"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "r0ysue/r0capture",
+    "url": "https://github.com/r0ysue/r0capture",
+    "description": "安卓应用层抓包通杀脚本",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "334"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "description": "【求 Star!】【求 Fork!】【求关注!】An open source continuous testing platform. MeterSphere 是一站式开源持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。项目采用 SpringBoot 2.x + MyBatis + Vue.js + Element + Docker + Kafka + MySQL等开发。",
+    "language": "Java",
+    "star": "127"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "267"
+  },
+  {
+    "title": "mozilla-mobile/firefox-ios",
+    "url": "https://github.com/mozilla-mobile/firefox-ios",
+    "description": "Firefox for iOS",
+    "language": "Swift",
+    "star": "17"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "language": "Go",
+    "star": "290"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "description": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "language": "C++",
+    "star": "109"
+  },
+  {
+    "title": "chanakaudaya/solutions-architecture-patterns",
+    "url": "https://github.com/chanakaudaya/solutions-architecture-patterns",
+    "description": "This repository contains solutions architecture patterns which can be reused to build enterprise software systems",
+    "language": "none",
+    "star": "77"
+  },
+  {
+    "title": "facebook/zstd",
+    "url": "https://github.com/facebook/zstd",
+    "description": "Zstandard - Fast real-time compression algorithm",
+    "language": "C",
+    "star": "106"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "star": "257"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "290"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "star": "45"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "language": "Go",
+    "star": "12"
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "description": "k0s - Zero Friction Kubernetes",
+    "language": "Go",
+    "star": "86"
+  },
+  {
+    "title": "PeterL1n/BackgroundMattingV2",
+    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "description": "Real-Time High-Resolution Background Matting",
+    "language": "Python",
+    "star": "314"
+  },
+  {
+    "title": "dokku/dokku",
+    "url": "https://github.com/dokku/dokku",
+    "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+    "language": "Shell",
+    "star": "26"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "157"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "33"
+  },
+  {
+    "title": "django/django",
+    "url": "https://github.com/django/django",
+    "description": "The Web framework for perfectionists with deadlines.",
+    "language": "Python",
+    "star": "33"
+  }
+]
