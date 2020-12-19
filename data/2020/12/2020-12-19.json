@@ -11,7 +11,7 @@
     "url": "https://github.com/microsoft/playwright",
     "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
     "language": "TypeScript",
-    "star": "156"
+    "star": "154"
   },
   {
     "title": "PeterL1n/BackgroundMattingV2",
@@ -32,7 +32,7 @@
     "url": "https://github.com/metabase/metabase",
     "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
     "language": "Clojure",
-    "star": "13"
+    "star": "14"
   },
   {
     "title": "microsoft/terminal",
@@ -46,7 +46,7 @@
     "url": "https://github.com/strapi/strapi",
     "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
     "language": "JavaScript",
-    "star": "82"
+    "star": "88"
   },
   {
     "title": "video-dev/hls.js",
@@ -81,7 +81,7 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "937"
+    "star": "936"
   },
   {
     "title": "eugeneyan/applied-ml",
@@ -109,7 +109,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "61"
+    "star": "64"
   },
   {
     "title": "tjackenpacken/taskbar-groups",
@@ -130,7 +130,7 @@
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "42"
+    "star": "40"
   },
   {
     "title": "hashicorp/packer",
@@ -144,7 +144,7 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "290"
+    "star": "288"
   },
   {
     "title": "JetBrains/compose-jb",
@@ -165,7 +165,7 @@
     "url": "https://github.com/cdoco/common-regex",
     "description": "🎃 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。",
     "language": "none",
-    "star": "292"
+    "star": "290"
   },
   {
     "title": "ocornut/imgui",
