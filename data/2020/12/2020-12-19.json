@@ -1,0 +1,177 @@
+[
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "star": "75"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "TypeScript",
+    "star": "156"
+  },
+  {
+    "title": "PeterL1n/BackgroundMattingV2",
+    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "description": "Real-Time High-Resolution Background Matting",
+    "language": "Python",
+    "star": "543"
+  },
+  {
+    "title": "supertokens/supertokens-core",
+    "url": "https://github.com/supertokens/supertokens-core",
+    "description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito",
+    "language": "Java",
+    "star": "329"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "language": "Clojure",
+    "star": "13"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "star": "43"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "star": "82"
+  },
+  {
+    "title": "video-dev/hls.js",
+    "url": "https://github.com/video-dev/hls.js",
+    "description": "JavaScript HLS client using Media Source Extension",
+    "language": "JavaScript",
+    "star": "4"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "h2oai/wave",
+    "url": "https://github.com/h2oai/wave",
+    "description": "Realtime Web Apps and Dashboards for Python",
+    "language": "Python",
+    "star": "370"
+  },
+  {
+    "title": "missing-semester-cn/missing-semester-cn.github.io",
+    "url": "https://github.com/missing-semester-cn/missing-semester-cn.github.io",
+    "description": "the CS missing semester Chinese version",
+    "language": "CSS",
+    "star": "514"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "937"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers by organizations sharing their work on applied data science & machine learning.",
+    "language": "none",
+    "star": "30"
+  },
+  {
+    "title": "rancher/harvester",
+    "url": "https://github.com/rancher/harvester",
+    "description": "Open source hyperconverged infrastructure (HCI) software",
+    "language": "Go",
+    "star": "87"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs for use in software and web development.",
+    "language": "Python",
+    "star": "342"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "61"
+  },
+  {
+    "title": "tjackenpacken/taskbar-groups",
+    "url": "https://github.com/tjackenpacken/taskbar-groups",
+    "description": "",
+    "language": "C#",
+    "star": "67"
+  },
+  {
+    "title": "gnxbr/Fully-Undetectable-Techniques",
+    "url": "https://github.com/gnxbr/Fully-Undetectable-Techniques",
+    "description": "",
+    "language": "C",
+    "star": "31"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "42"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "description": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "language": "Go",
+    "star": "225"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "290"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "description": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "language": "Kotlin",
+    "star": "32"
+  },
+  {
+    "title": "chanakaudaya/solutions-architecture-patterns",
+    "url": "https://github.com/chanakaudaya/solutions-architecture-patterns",
+    "description": "This repository contains solutions architecture patterns which can be reused to build enterprise software systems",
+    "language": "none",
+    "star": "285"
+  },
+  {
+    "title": "cdoco/common-regex",
+    "url": "https://github.com/cdoco/common-regex",
+    "description": "🎃 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。",
+    "language": "none",
+    "star": "292"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "18"
+  }
+]
