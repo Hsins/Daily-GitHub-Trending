@@ -11,14 +11,14 @@
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "language": "Java",
-    "star": "116"
+    "star": "106"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "134"
+    "star": "120"
   },
   {
     "title": "GitSquared/edex-ui",
@@ -39,21 +39,21 @@
     "url": "https://github.com/vijishmadhavan/ArtLine",
     "description": "A Deep Learning based project for creating line art portraits.",
     "language": "Jupyter Notebook",
-    "star": "131"
+    "star": "148"
   },
   {
     "title": "microsoft/playwright",
     "url": "https://github.com/microsoft/playwright",
     "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
     "language": "TypeScript",
-    "star": "321"
+    "star": "189"
   },
   {
     "title": "ocornut/imgui",
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "66"
+    "star": "55"
   },
   {
     "title": "microsoft/Cognitive-Samples-IntelligentKiosk",
@@ -67,7 +67,7 @@
     "url": "https://github.com/h2oai/wave",
     "description": "Realtime Web Apps and Dashboards for Python",
     "language": "Python",
-    "star": "452"
+    "star": "326"
   },
   {
     "title": "thangchung/clean-code-dotnet",
@@ -81,14 +81,14 @@
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "43"
+    "star": "27"
   },
   {
     "title": "eugeneyan/applied-ml",
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers by organizations sharing their work on applied data science & machine learning.",
     "language": "none",
-    "star": "70"
+    "star": "48"
   },
   {
     "title": "UnityTechnologies/open-project-1",
@@ -102,28 +102,28 @@
     "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
     "description": "",
     "language": "Dart",
-    "star": "15"
+    "star": "24"
   },
   {
     "title": "nwtgck/piping-server",
     "url": "https://github.com/nwtgck/piping-server",
     "description": "Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users",
     "language": "TypeScript",
-    "star": "90"
+    "star": "122"
   },
   {
     "title": "gnxbr/Fully-Undetectable-Techniques",
     "url": "https://github.com/gnxbr/Fully-Undetectable-Techniques",
     "description": "",
     "language": "C",
-    "star": "77"
+    "star": "68"
   },
   {
     "title": "JetBrains/compose-jb",
     "url": "https://github.com/JetBrains/compose-jb",
     "description": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
     "language": "Kotlin",
-    "star": "86"
+    "star": "69"
   },
   {
     "title": "vlang/v",
@@ -137,7 +137,7 @@
     "url": "https://github.com/chakra-ui/chakra-ui",
     "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
     "language": "TypeScript",
-    "star": "92"
+    "star": "77"
   },
   {
     "title": "EvineDeng/jd-base",
@@ -165,7 +165,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "122"
+    "star": "127"
   },
   {
     "title": "r-spacex/SpaceX-API",
