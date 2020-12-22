@@ -1,0 +1,177 @@
+[
+  {
+    "title": "owncast/owncast",
+    "url": "https://github.com/owncast/owncast",
+    "description": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+    "language": "Go",
+    "star": "666"
+  },
+  {
+    "title": "utkusen/turkce-wordlist",
+    "url": "https://github.com/utkusen/turkce-wordlist",
+    "description": "Türk kullanıcıların parola seçimlerinin analizi için yapılmış bir çalışmadır",
+    "language": "Python",
+    "star": "75"
+  },
+  {
+    "title": "DevUtilsApp/DevUtils-app",
+    "url": "https://github.com/DevUtilsApp/DevUtils-app",
+    "description": "Developer Utilities for macOS",
+    "language": "Objective-C",
+    "star": "161"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "star": "351"
+  },
+  {
+    "title": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "description": "Flax Engine – multi-platform 3D game engine",
+    "language": "C++",
+    "star": "352"
+  },
+  {
+    "title": "vijishmadhavan/ArtLine",
+    "url": "https://github.com/vijishmadhavan/ArtLine",
+    "description": "A Deep Learning based project for creating line art portraits.",
+    "language": "Jupyter Notebook",
+    "star": "457"
+  },
+  {
+    "title": "apple/ml-hypersim",
+    "url": "https://github.com/apple/ml-hypersim",
+    "description": "Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding",
+    "language": "Python",
+    "star": "250"
+  },
+  {
+    "title": "changkun/modern-cpp-tutorial",
+    "url": "https://github.com/changkun/modern-cpp-tutorial",
+    "description": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
+    "language": "C++",
+    "star": "368"
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "description": "Unity Open Project #1: Action-adventure",
+    "language": "C#",
+    "star": "97"
+  },
+  {
+    "title": "tjackenpacken/taskbar-groups",
+    "url": "https://github.com/tjackenpacken/taskbar-groups",
+    "description": "Lightweight application that lets users create and pin groups to the Windows taskbar och desktop",
+    "language": "C#",
+    "star": "88"
+  },
+  {
+    "title": "thangchung/clean-code-dotnet",
+    "url": "https://github.com/thangchung/clean-code-dotnet",
+    "description": "🛁 Clean Code concepts and tools adapted for .NET",
+    "language": "C#",
+    "star": "129"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "description": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "language": "JavaScript",
+    "star": "184"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "102"
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "description": "",
+    "language": "Dart",
+    "star": "91"
+  },
+  {
+    "title": "nwtgck/piping-server",
+    "url": "https://github.com/nwtgck/piping-server",
+    "description": "Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users",
+    "language": "TypeScript",
+    "star": "296"
+  },
+  {
+    "title": "doocs/jvm",
+    "url": "https://github.com/doocs/jvm",
+    "description": "🤗 JVM 底层原理知识总结",
+    "language": "Java",
+    "star": "116"
+  },
+  {
+    "title": "EvineDeng/jd-base",
+    "url": "https://github.com/EvineDeng/jd-base",
+    "description": "京东薅羊毛脚本https://github.com/lxk0301/jd_scripts 的shell套壳工具",
+    "language": "Shell",
+    "star": "35"
+  },
+  {
+    "title": "projectdiscovery/nuclei",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "description": "Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.",
+    "language": "Go",
+    "star": "76"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "description": "Delightful JavaScript Testing.",
+    "language": "TypeScript",
+    "star": "22"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "language": "Jupyter Notebook",
+    "star": "39"
+  },
+  {
+    "title": "ly525/luban-h5",
+    "url": "https://github.com/ly525/luban-h5",
+    "description": "[WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.",
+    "language": "JavaScript",
+    "star": "29"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "language": "TypeScript",
+    "star": "32"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "description": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "language": "Dart",
+    "star": "10"
+  },
+  {
+    "title": "FreeCAD/FreeCAD",
+    "url": "https://github.com/FreeCAD/FreeCAD",
+    "description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
+    "language": "C++",
+    "star": "8"
+  }
+]
