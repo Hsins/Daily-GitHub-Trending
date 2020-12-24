@@ -11,7 +11,7 @@
     "url": "https://github.com/hotwired/turbo",
     "description": "The speed of a single-page web application without having to write any JavaScript.",
     "language": "TypeScript",
-    "star": "207"
+    "star": "317"
   },
   {
     "title": "hotwired/hotwire-rails-demo-chat",
@@ -25,7 +25,7 @@
     "url": "https://github.com/mapsme/omim",
     "description": "🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android",
     "language": "C++",
-    "star": "357"
+    "star": "358"
   },
   {
     "title": "hotwired/turbo-rails",
@@ -39,21 +39,21 @@
     "url": "https://github.com/lxk0301/jd_scripts",
     "description": "基于JavaScript的京东薅羊毛工具",
     "language": "none",
-    "star": "99"
+    "star": "95"
   },
   {
     "title": "vlang/v",
     "url": "https://github.com/vlang/v",
     "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
     "language": "V",
-    "star": "263"
+    "star": "296"
   },
   {
     "title": "storybookjs/storybook",
     "url": "https://github.com/storybookjs/storybook",
     "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
     "language": "TypeScript",
-    "star": "252"
+    "star": "244"
   },
   {
     "title": "r-spacex/SpaceX-API",
@@ -95,14 +95,14 @@
     "url": "https://github.com/louisfb01/Best_AI_paper_2020",
     "description": "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code",
     "language": "none",
-    "star": "283"
+    "star": "223"
   },
   {
     "title": "reactjs/server-components-demo",
     "url": "https://github.com/reactjs/server-components-demo",
     "description": "Demo app of React Server Components.",
     "language": "JavaScript",
-    "star": "391"
+    "star": "431"
   },
   {
     "title": "bytedance/terarkdb",
@@ -130,7 +130,7 @@
     "url": "https://github.com/Tencent/Tendis",
     "description": "Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.",
     "language": "C++",
-    "star": "297"
+    "star": "273"
   },
   {
     "title": "gdtool/cloudflare-workers-blog",
@@ -151,27 +151,27 @@
     "url": "https://github.com/globalaihub/introduction-to-python",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "45"
+    "star": "49"
   },
   {
     "title": "netdata/netdata",
     "url": "https://github.com/netdata/netdata",
     "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
     "language": "C",
-    "star": "26"
+    "star": "25"
   },
   {
     "title": "trekhleb/homemade-machine-learning",
     "url": "https://github.com/trekhleb/homemade-machine-learning",
     "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
     "language": "Jupyter Notebook",
-    "star": "273"
+    "star": "276"
   },
   {
     "title": "GitSquared/edex-ui",
     "url": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "star": "416"
+    "star": "413"
   }
 ]
