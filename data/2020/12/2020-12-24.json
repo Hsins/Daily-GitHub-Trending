@@ -1,0 +1,177 @@
+[
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "description": "Revive unavailable songs for Netease Cloud Music",
+    "language": "JavaScript",
+    "star": "51"
+  },
+  {
+    "title": "hotwired/turbo",
+    "url": "https://github.com/hotwired/turbo",
+    "description": "The speed of a single-page web application without having to write any JavaScript.",
+    "language": "TypeScript",
+    "star": "207"
+  },
+  {
+    "title": "hotwired/hotwire-rails-demo-chat",
+    "url": "https://github.com/hotwired/hotwire-rails-demo-chat",
+    "description": "Repository from the Hotwire demo",
+    "language": "Ruby",
+    "star": "42"
+  },
+  {
+    "title": "mapsme/omim",
+    "url": "https://github.com/mapsme/omim",
+    "description": "🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android",
+    "language": "C++",
+    "star": "357"
+  },
+  {
+    "title": "hotwired/turbo-rails",
+    "url": "https://github.com/hotwired/turbo-rails",
+    "description": "Turbo gives you the speed of a single-page web application without having to write any JavaScript.",
+    "language": "JavaScript",
+    "star": "131"
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "description": "基于JavaScript的京东薅羊毛工具",
+    "language": "none",
+    "star": "99"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "star": "263"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "language": "TypeScript",
+    "star": "252"
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "description": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "language": "JavaScript",
+    "star": "163"
+  },
+  {
+    "title": "uncertainty-toolbox/uncertainty-toolbox",
+    "url": "https://github.com/uncertainty-toolbox/uncertainty-toolbox",
+    "description": "A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization",
+    "language": "Python",
+    "star": "242"
+  },
+  {
+    "title": "alan-turing-institute/sktime",
+    "url": "https://github.com/alan-turing-institute/sktime",
+    "description": "A unified framework for machine learning with time series",
+    "language": "Python",
+    "star": "77"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "244"
+  },
+  {
+    "title": "louisfb01/Best_AI_paper_2020",
+    "url": "https://github.com/louisfb01/Best_AI_paper_2020",
+    "description": "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code",
+    "language": "none",
+    "star": "283"
+  },
+  {
+    "title": "reactjs/server-components-demo",
+    "url": "https://github.com/reactjs/server-components-demo",
+    "description": "Demo app of React Server Components.",
+    "language": "JavaScript",
+    "star": "391"
+  },
+  {
+    "title": "bytedance/terarkdb",
+    "url": "https://github.com/bytedance/terarkdb",
+    "description": "A RocksDB compatible KV storage engine with better performance",
+    "language": "C++",
+    "star": "405"
+  },
+  {
+    "title": "isaacrlevin/HomeNetworkSetup",
+    "url": "https://github.com/isaacrlevin/HomeNetworkSetup",
+    "description": "Repo to define my use of docker containers on my home network with Reverse Proxy Configuration",
+    "language": "Shell",
+    "star": "36"
+  },
+  {
+    "title": "30DaysofWebDEV/DSC-30-Days-of-Web",
+    "url": "https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web",
+    "description": "",
+    "language": "none",
+    "star": "27"
+  },
+  {
+    "title": "Tencent/Tendis",
+    "url": "https://github.com/Tencent/Tendis",
+    "description": "Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.",
+    "language": "C++",
+    "star": "297"
+  },
+  {
+    "title": "gdtool/cloudflare-workers-blog",
+    "url": "https://github.com/gdtool/cloudflare-workers-blog",
+    "description": "A Blog Powered By Cloudflare Workers and KV",
+    "language": "CSS",
+    "star": "65"
+  },
+  {
+    "title": "devanshbatham/Awesome-Bugbounty-Writeups",
+    "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "description": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "45"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "language": "C",
+    "star": "26"
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "language": "Jupyter Notebook",
+    "star": "273"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "star": "416"
+  }
+]
