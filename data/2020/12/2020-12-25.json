@@ -4,35 +4,35 @@
     "url": "https://github.com/netdata/netdata",
     "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
     "language": "C",
-    "star": "103"
+    "star": "113"
   },
   {
     "title": "lxk0301/jd_scripts",
     "url": "https://github.com/lxk0301/jd_scripts",
     "description": "基于JavaScript的京东薅羊毛工具",
     "language": "none",
-    "star": "93"
+    "star": "95"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "95"
+    "star": "73"
   },
   {
     "title": "bytedance/terarkdb",
     "url": "https://github.com/bytedance/terarkdb",
     "description": "A RocksDB compatible KV storage engine with better performance",
     "language": "C++",
-    "star": "294"
+    "star": "296"
   },
   {
     "title": "youzan/vant",
     "url": "https://github.com/youzan/vant",
     "description": "Lightweight Mobile UI Components built on Vue",
     "language": "JavaScript",
-    "star": "60"
+    "star": "59"
   },
   {
     "title": "hotwired/turbo",
@@ -46,7 +46,7 @@
     "url": "https://github.com/inancgumus/learngo",
     "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
     "language": "Go",
-    "star": "75"
+    "star": "83"
   },
   {
     "title": "hotwired/hotwire-rails-demo-chat",
@@ -60,21 +60,21 @@
     "url": "https://github.com/alan-turing-institute/sktime",
     "description": "A unified framework for machine learning with time series",
     "language": "Python",
-    "star": "228"
+    "star": "236"
   },
   {
     "title": "hotwired/turbo-rails",
     "url": "https://github.com/hotwired/turbo-rails",
     "description": "Turbo gives you the speed of a single-page web application without having to write any JavaScript.",
     "language": "JavaScript",
-    "star": "122"
+    "star": "101"
   },
   {
     "title": "nondanee/UnblockNeteaseMusic",
     "url": "https://github.com/nondanee/UnblockNeteaseMusic",
     "description": "Revive unavailable songs for Netease Cloud Music",
     "language": "JavaScript",
-    "star": "108"
+    "star": "109"
   },
   {
     "title": "iptv-org/iptv",
@@ -102,7 +102,7 @@
     "url": "https://github.com/kitabisa/ssb",
     "description": "Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server",
     "language": "Go",
-    "star": "96"
+    "star": "94"
   },
   {
     "title": "25H/Maya",
@@ -116,7 +116,7 @@
     "url": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "star": "556"
+    "star": "545"
   },
   {
     "title": "sindresorhus/css-in-readme-like-wat",
@@ -130,7 +130,7 @@
     "url": "https://github.com/trekhleb/homemade-machine-learning",
     "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
     "language": "Jupyter Notebook",
-    "star": "345"
+    "star": "346"
   },
   {
     "title": "victor369basu/Real-time-stock-market-prediction",
@@ -144,34 +144,34 @@
     "url": "https://github.com/huanghyw/jd_seckill",
     "description": "京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！",
     "language": "Python",
-    "star": "63"
+    "star": "56"
   },
   {
     "title": "Tencent/Tendis",
     "url": "https://github.com/Tencent/Tendis",
     "description": "Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.",
     "language": "C++",
-    "star": "389"
+    "star": "385"
   },
   {
     "title": "mapsme/omim",
     "url": "https://github.com/mapsme/omim",
     "description": "🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android",
     "language": "C++",
-    "star": "426"
+    "star": "230"
   },
   {
     "title": "30DaysofWebDEV/DSC-30-Days-of-Web",
     "url": "https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web",
     "description": "",
     "language": "JavaScript",
-    "star": "55"
+    "star": "57"
   },
   {
     "title": "globalaihub/introduction-to-python",
     "url": "https://github.com/globalaihub/introduction-to-python",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "81"
+    "star": "85"
   }
 ]
