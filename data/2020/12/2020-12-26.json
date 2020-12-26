@@ -4,14 +4,14 @@
     "url": "https://github.com/facebookresearch/deit",
     "description": "Official DeiT repository",
     "language": "Python",
-    "star": "446"
+    "star": "194"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "553"
+    "star": "547"
   },
   {
     "title": "inancgumus/learngo",
@@ -25,7 +25,7 @@
     "url": "https://github.com/huanghyw/jd_seckill",
     "description": "京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！",
     "language": "Python",
-    "star": "107"
+    "star": "108"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
@@ -46,28 +46,28 @@
     "url": "https://github.com/netdata/netdata",
     "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
     "language": "C",
-    "star": "581"
+    "star": "574"
   },
   {
     "title": "werner-duvaud/muzero-general",
     "url": "https://github.com/werner-duvaud/muzero-general",
     "description": "MuZero",
     "language": "Python",
-    "star": "77"
+    "star": "74"
   },
   {
     "title": "30DaysofWebDEV/DSC-30-Days-of-Web",
     "url": "https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web",
     "description": "",
     "language": "JavaScript",
-    "star": "104"
+    "star": "101"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "215"
+    "star": "189"
   },
   {
     "title": "mytechnotalent/Reverse-Engineering-Tutorial",
@@ -81,28 +81,28 @@
     "url": "https://github.com/Tartarus2014/Loon-Script",
     "description": "Loon脚本收集",
     "language": "none",
-    "star": "11"
+    "star": "12"
   },
   {
     "title": "RobinLinus/snapdrop",
     "url": "https://github.com/RobinLinus/snapdrop",
     "description": "A Progressive Web App for local file sharing",
     "language": "JavaScript",
-    "star": "633"
+    "star": "632"
   },
   {
     "title": "lxk0301/jd_scripts",
     "url": "https://github.com/lxk0301/jd_scripts",
     "description": "基于JavaScript的京东薅羊毛工具",
     "language": "none",
-    "star": "241"
+    "star": "231"
   },
   {
     "title": "GitSquared/edex-ui",
     "url": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "star": "904"
+    "star": "889"
   },
   {
     "title": "louisfb01/Best_AI_paper_2020",
@@ -116,7 +116,7 @@
     "url": "https://github.com/haotian-liu/yolact_edge",
     "description": "The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.",
     "language": "Python",
-    "star": "91"
+    "star": "194"
   },
   {
     "title": "standupmaths/xmastree2020",
@@ -130,14 +130,14 @@
     "url": "https://github.com/sindresorhus/css-in-readme-like-wat",
     "description": "Style your readme using CSS with this simple trick",
     "language": "none",
-    "star": "94"
+    "star": "95"
   },
   {
     "title": "facebookresearch/svoice",
     "url": "https://github.com/facebookresearch/svoice",
     "description": "We provide a PyTorch implementation of the paper Voice Separation with an Unknown Number of Multiple Speakers In which, we present a new method for separating a mixed audio sequence, in which multiple voices speak simultaneously. The new method employs gated neural networks that are trained to separate the voices at multiple processing steps, wh…",
     "language": "Python",
-    "star": "109"
+    "star": "190"
   },
   {
     "title": "ccxt/ccxt",
@@ -151,14 +151,14 @@
     "url": "https://github.com/jobbole/awesome-python-cn",
     "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
     "language": "Makefile",
-    "star": "50"
+    "star": "48"
   },
   {
     "title": "hotwired/turbo",
     "url": "https://github.com/hotwired/turbo",
     "description": "The speed of a single-page web application without having to write any JavaScript.",
     "language": "TypeScript",
-    "star": "527"
+    "star": "525"
   },
   {
     "title": "Sycnex/Windows10Debloater",
