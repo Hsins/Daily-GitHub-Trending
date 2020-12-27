@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "293"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "star": "256"
+  },
+  {
+    "title": "arduino/Arduino",
+    "url": "https://github.com/arduino/Arduino",
+    "description": "open-source electronics platform",
+    "language": "Java",
+    "star": "7"
+  },
+  {
+    "title": "huanghyw/jd_seckill",
+    "url": "https://github.com/huanghyw/jd_seckill",
+    "description": "京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "description": "A simple and easy-to-use library to enjoy videogames programming",
+    "language": "C",
+    "star": "26"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "335"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "rwbfd/ml-training-camp",
+    "url": "https://github.com/rwbfd/ml-training-camp",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "16"
+  },
+  {
+    "title": "anushka23g/Complete-Placement-Preparation",
+    "url": "https://github.com/anushka23g/Complete-Placement-Preparation",
+    "description": "This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.",
+    "language": "none",
+    "star": "107"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "description": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "language": "C++",
+    "star": "145"
+  },
+  {
+    "title": "cisagov/Sparrow",
+    "url": "https://github.com/cisagov/Sparrow",
+    "description": "Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.",
+    "language": "PowerShell",
+    "star": "122"
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "description": "基于JavaScript的京东薅羊毛工具",
+    "language": "none",
+    "star": "104"
+  },
+  {
+    "title": "Col-E/Recaf",
+    "url": "https://github.com/Col-E/Recaf",
+    "description": "The modern Java bytecode editor",
+    "language": "Java",
+    "star": "121"
+  },
+  {
+    "title": "CrowdStrike/CRT",
+    "url": "https://github.com/CrowdStrike/CRT",
+    "description": "Contact: CRT@crowdstrike.com",
+    "language": "PowerShell",
+    "star": "48"
+  },
+  {
+    "title": "werner-duvaud/muzero-general",
+    "url": "https://github.com/werner-duvaud/muzero-general",
+    "description": "MuZero",
+    "language": "Python",
+    "star": "119"
+  },
+  {
+    "title": "darktable-org/darktable",
+    "url": "https://github.com/darktable-org/darktable",
+    "description": "darktable is an open source photography workflow application and raw developer",
+    "language": "C",
+    "star": "92"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "star": "9"
+  },
+  {
+    "title": "abraunegg/onedrive",
+    "url": "https://github.com/abraunegg/onedrive",
+    "description": "OneDrive Client for Linux",
+    "language": "D",
+    "star": "8"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "language": "JavaScript",
+    "star": "39"
+  },
+  {
+    "title": "qilingframework/qiling",
+    "url": "https://github.com/qilingframework/qiling",
+    "description": "Qiling Advanced Binary Emulation Framework",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "esphome/esphome",
+    "url": "https://github.com/esphome/esphome",
+    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "language": "C++",
+    "star": "10"
+  },
+  {
+    "title": "zhzyker/vulmap",
+    "url": "https://github.com/zhzyker/vulmap",
+    "description": "Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "17"
+  }
+]
