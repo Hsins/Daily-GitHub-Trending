@@ -46,7 +46,7 @@
     "url": "https://github.com/WerWolv/ImHex",
     "description": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
     "language": "C++",
-    "star": "93"
+    "star": "130"
   },
   {
     "title": "bitcoin/bitcoin",
@@ -109,7 +109,7 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2021",
     "language": "none",
-    "star": "185"
+    "star": "243"
   },
   {
     "title": "jpochyla/psst",
@@ -144,21 +144,21 @@
     "url": "https://github.com/omer-dogan/whoami",
     "description": "Whoami is a Linux privacy tool developed to keep you anonymous at the highest level.",
     "language": "Shell",
-    "star": "47"
+    "star": "80"
   },
   {
     "title": "probml/pml-book",
     "url": "https://github.com/probml/pml-book",
     "description": "\"Probabilistic Machine Learning\" - a book series by Kevin Murphy",
     "language": "HTML",
-    "star": "172"
+    "star": "179"
   },
   {
     "title": "persian-tools/persian-tools",
     "url": "https://github.com/persian-tools/persian-tools",
     "description": "An anthology of a variety of tools for the Persian language in javascript",
     "language": "TypeScript",
-    "star": "33"
+    "star": "35"
   },
   {
     "title": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
@@ -172,6 +172,6 @@
     "url": "https://github.com/starship/starship",
     "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
     "language": "Rust",
-    "star": "52"
+    "star": "165"
   }
 ]
