@@ -1,0 +1,177 @@
+[
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "description": "A private messenger for Android.",
+    "language": "Java",
+    "star": "1"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "language": "Java",
+    "star": "625"
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "description": "Signal — Private Messenger for Windows, Mac, and Linux",
+    "language": "JavaScript",
+    "star": "547"
+  },
+  {
+    "title": "zqjzqj/mtSecKill",
+    "url": "https://github.com/zqjzqj/mtSecKill",
+    "description": "京东茅台抢购",
+    "language": "Go",
+    "star": "415"
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "description": "A private messenger for iOS.",
+    "language": "Swift",
+    "star": "193"
+  },
+  {
+    "title": "RameenAbdal/StyleFlow",
+    "url": "https://github.com/RameenAbdal/StyleFlow",
+    "description": "StyleFlow: Attribute-conditioned Exploration of StyleGAN-generated Images using Conditional Continuous Normalizing Flows",
+    "language": "Python",
+    "star": "175"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "language": "JavaScript",
+    "star": "517"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "star": "30"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The Kubernetes IDE",
+    "language": "TypeScript",
+    "star": "279"
+  },
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "68"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "38"
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "description": "Metasploit Framework",
+    "language": "Ruby",
+    "star": "26"
+  },
+  {
+    "title": "karan/Projects",
+    "url": "https://github.com/karan/Projects",
+    "description": "📃 A list of practical projects that anyone can solve in any programming language.",
+    "language": "none",
+    "star": "368"
+  },
+  {
+    "title": "chughes29/Cloud-DevSecOps-Learning",
+    "url": "https://github.com/chughes29/Cloud-DevSecOps-Learning",
+    "description": "Collection of Cloud and DevSecOps learning resources",
+    "language": "none",
+    "star": "40"
+  },
+  {
+    "title": "leereilly/games",
+    "url": "https://github.com/leereilly/games",
+    "description": "🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+    "language": "none",
+    "star": "332"
+  },
+  {
+    "title": "HarisIqbal88/PlotNeuralNet",
+    "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+    "description": "Latex code for making neural networks diagrams",
+    "language": "TeX",
+    "star": "665"
+  },
+  {
+    "title": "lucidrains/DALLE-pytorch",
+    "url": "https://github.com/lucidrains/DALLE-pytorch",
+    "description": "Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch",
+    "language": "Python",
+    "star": "313"
+  },
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "Kotlin",
+    "star": "40"
+  },
+  {
+    "title": "f0cker/crackq",
+    "url": "https://github.com/f0cker/crackq",
+    "description": "CrackQ: A Python Hashcat cracking queue system",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "language": "C",
+    "star": "28"
+  },
+  {
+    "title": "zealotCE/AmericaOpposeAmerica",
+    "url": "https://github.com/zealotCE/AmericaOpposeAmerica",
+    "description": "《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。",
+    "language": "none",
+    "star": "143"
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "description": "Telegram Desktop messaging app",
+    "language": "C++",
+    "star": "174"
+  },
+  {
+    "title": "getzola/zola",
+    "url": "https://github.com/getzola/zola",
+    "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+    "language": "Rust",
+    "star": "15"
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "description": "Advanced information gathering & OSINT framework for phone numbers",
+    "language": "Go",
+    "star": "16"
+  }
+]
