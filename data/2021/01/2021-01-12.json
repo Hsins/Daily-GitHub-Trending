@@ -1,0 +1,177 @@
+[
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "169"
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "description": "Signal — Private Messenger for Windows, Mac, and Linux",
+    "language": "JavaScript",
+    "star": "486"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "description": "A private messenger for Android.",
+    "language": "Java",
+    "star": "820"
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "description": "A private messenger for iOS.",
+    "language": "Swift",
+    "star": "331"
+  },
+  {
+    "title": "imgcook/imove",
+    "url": "https://github.com/imgcook/imove",
+    "description": "Move your mouse, generate code from flow chart",
+    "language": "TypeScript",
+    "star": "40"
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "language": "Java",
+    "star": "567"
+  },
+  {
+    "title": "Rust-GCC/gccrs",
+    "url": "https://github.com/Rust-GCC/gccrs",
+    "description": "GCC Front-End for Rust",
+    "language": "none",
+    "star": "105"
+  },
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+    "language": "none",
+    "star": "888"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "description": "100 Days of ML Coding",
+    "language": "none",
+    "star": "137"
+  },
+  {
+    "title": "MacroAnalyst/Linear_Algebra_With_Python",
+    "url": "https://github.com/MacroAnalyst/Linear_Algebra_With_Python",
+    "description": "Lecture Notes for Linear Algebra Featuring Python",
+    "language": "Jupyter Notebook",
+    "star": "262"
+  },
+  {
+    "title": "juicedata/juicefs",
+    "url": "https://github.com/juicedata/juicefs",
+    "description": "A distributed POSIX file system built on top of Redis and S3.",
+    "language": "Go",
+    "star": "387"
+  },
+  {
+    "title": "ayuer/shanghai_house_knowledge",
+    "url": "https://github.com/ayuer/shanghai_house_knowledge",
+    "description": "2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。",
+    "language": "none",
+    "star": "212"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "language": "Python",
+    "star": "264"
+  },
+  {
+    "title": "rystsov/awesome-distributed-transactions",
+    "url": "https://github.com/rystsov/awesome-distributed-transactions",
+    "description": "Awesome list of distributed transactions",
+    "language": "none",
+    "star": "124"
+  },
+  {
+    "title": "zqjzqj/mtSecKill",
+    "url": "https://github.com/zqjzqj/mtSecKill",
+    "description": "京东茅台抢购",
+    "language": "Go",
+    "star": "315"
+  },
+  {
+    "title": "chughes29/Cloud-DevSecOps-Learning",
+    "url": "https://github.com/chughes29/Cloud-DevSecOps-Learning",
+    "description": "Collection of Cloud and DevSecOps learning resources",
+    "language": "none",
+    "star": "69"
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "SharonBrizinov/s3viewer",
+    "url": "https://github.com/SharonBrizinov/s3viewer",
+    "description": "Publicly Open Amazon AWS S3 Bucket Viewer",
+    "language": "Python",
+    "star": "53"
+  },
+  {
+    "title": "liuhuanyong/ChineseDiachronicCorpus",
+    "url": "https://github.com/liuhuanyong/ChineseDiachronicCorpus",
+    "description": "ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，包括腾讯历时新闻2000-2016，人民日报历时语料1946-2003，参考消息历时语料1957-2002。基于历时流通语料库，可用于历时语言变化计算、语言监测、社会文化变迁研究提供基础性的语料支持。",
+    "language": "none",
+    "star": "56"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "273"
+  },
+  {
+    "title": "ihebski/DefaultCreds-cheat-sheet",
+    "url": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "description": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️🔥",
+    "language": "Jupyter Notebook",
+    "star": "187"
+  },
+  {
+    "title": "signals-dev/Orion",
+    "url": "https://github.com/signals-dev/Orion",
+    "description": "A machine learning library for detecting anomalies in signals.",
+    "language": "Jupyter Notebook",
+    "star": "16"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "description": "📊 Path to a free self-taught education in Data Science!",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "description": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "language": "JavaScript",
+    "star": "111"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "21"
+  }
+]
