@@ -1,0 +1,177 @@
+[
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "description": "A modern file explorer that pushes the boundaries of the platform.",
+    "language": "C#",
+    "star": "429"
+  },
+  {
+    "title": "EvineDeng/jd-base",
+    "url": "https://github.com/EvineDeng/jd-base",
+    "description": "京东薅羊毛脚本 https://github.com/LXK9301/jd_scripts 的shell套壳工具",
+    "language": "JavaScript",
+    "star": "119"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "79"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "88"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
+    "language": "JavaScript",
+    "star": "313"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "224"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "language": "none",
+    "star": "251"
+  },
+  {
+    "title": "jsherman212/xnuspy",
+    "url": "https://github.com/jsherman212/xnuspy",
+    "description": "an iOS kernel function hooking framework for checkra1n'able devices",
+    "language": "C",
+    "star": "101"
+  },
+  {
+    "title": "ml-tooling/best-of-python",
+    "url": "https://github.com/ml-tooling/best-of-python",
+    "description": "🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.",
+    "language": "none",
+    "star": "239"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "description": "📋 React Hooks for forms validation (Web + React Native)",
+    "language": "TypeScript",
+    "star": "110"
+  },
+  {
+    "title": "e-m-b-a/emba",
+    "url": "https://github.com/e-m-b-a/emba",
+    "description": "emba - An analyzer for Linux-based firmware of embedded devices.",
+    "language": "Shell",
+    "star": "85"
+  },
+  {
+    "title": "didi/Logi-KafkaManager",
+    "url": "https://github.com/didi/Logi-KafkaManager",
+    "description": "一站式Apache Kafka集群指标监控与运维管控平台",
+    "language": "Java",
+    "star": "108"
+  },
+  {
+    "title": "ml-tooling/best-of-web-python",
+    "url": "https://github.com/ml-tooling/best-of-web-python",
+    "description": "🏆 A ranked list of awesome python libraries for web development. Updated weekly.",
+    "language": "none",
+    "star": "96"
+  },
+  {
+    "title": "XJP-GIT/HealthCode",
+    "url": "https://github.com/XJP-GIT/HealthCode",
+    "description": "健康码演示",
+    "language": "none",
+    "star": "45"
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "description": "A data orchestrator for machine learning, analytics, and ETL.",
+    "language": "Python",
+    "star": "52"
+  },
+  {
+    "title": "TinkoffCreditSystems/taiga-ui",
+    "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "description": "Angular UI Kit and components library for awesome people",
+    "language": "TypeScript",
+    "star": "178"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "JavaScript",
+    "star": "255"
+  },
+  {
+    "title": "carlospolop/hacktricks",
+    "url": "https://github.com/carlospolop/hacktricks",
+    "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "language": "Python",
+    "star": "227"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "description": "Roadmap to becoming a data engineer in 2021",
+    "language": "none",
+    "star": "65"
+  },
+  {
+    "title": "kdrag0n/safetynet-fix",
+    "url": "https://github.com/kdrag0n/safetynet-fix",
+    "description": "A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.",
+    "language": "Shell",
+    "star": "50"
+  },
+  {
+    "title": "MustangYM/WeChatExtension-ForMac",
+    "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "description": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
+    "language": "Objective-C",
+    "star": "141"
+  },
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "description": "A Flash Player emulator written in Rust",
+    "language": "Rust",
+    "star": "86"
+  },
+  {
+    "title": "thecodercoder/fem-easybank",
+    "url": "https://github.com/thecodercoder/fem-easybank",
+    "description": "Easybank landing page from Frontend Mentor",
+    "language": "SCSS",
+    "star": "10"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "168"
+  }
+]
