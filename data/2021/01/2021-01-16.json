@@ -4,14 +4,14 @@
     "url": "https://github.com/files-community/Files",
     "description": "A modern file explorer that pushes the boundaries of the platform.",
     "language": "C#",
-    "star": "429"
+    "star": "385"
   },
   {
     "title": "EvineDeng/jd-base",
     "url": "https://github.com/EvineDeng/jd-base",
     "description": "京东薅羊毛脚本 https://github.com/LXK9301/jd_scripts 的shell套壳工具",
     "language": "JavaScript",
-    "star": "119"
+    "star": "122"
   },
   {
     "title": "iptv-org/iptv",
@@ -25,21 +25,21 @@
     "url": "https://github.com/Azure/azure-quickstart-templates",
     "description": "Azure Quickstart Templates",
     "language": "PowerShell",
-    "star": "88"
+    "star": "89"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
     "language": "JavaScript",
-    "star": "313"
+    "star": "320"
   },
   {
     "title": "labuladong/fucking-algorithm",
     "url": "https://github.com/labuladong/fucking-algorithm",
     "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
     "language": "none",
-    "star": "224"
+    "star": "244"
   },
   {
     "title": "Developer-Y/cs-video-courses",
@@ -53,14 +53,14 @@
     "url": "https://github.com/ml-tooling/best-of-ml-python",
     "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
     "language": "none",
-    "star": "251"
+    "star": "252"
   },
   {
     "title": "jsherman212/xnuspy",
     "url": "https://github.com/jsherman212/xnuspy",
     "description": "an iOS kernel function hooking framework for checkra1n'able devices",
     "language": "C",
-    "star": "101"
+    "star": "102"
   },
   {
     "title": "ml-tooling/best-of-python",
@@ -74,7 +74,7 @@
     "url": "https://github.com/react-hook-form/react-hook-form",
     "description": "📋 React Hooks for forms validation (Web + React Native)",
     "language": "TypeScript",
-    "star": "110"
+    "star": "109"
   },
   {
     "title": "e-m-b-a/emba",
@@ -102,7 +102,7 @@
     "url": "https://github.com/XJP-GIT/HealthCode",
     "description": "健康码演示",
     "language": "none",
-    "star": "45"
+    "star": "44"
   },
   {
     "title": "dagster-io/dagster",
@@ -116,21 +116,21 @@
     "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
     "description": "Angular UI Kit and components library for awesome people",
     "language": "TypeScript",
-    "star": "178"
+    "star": "172"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "JavaScript",
-    "star": "255"
+    "star": "237"
   },
   {
     "title": "carlospolop/hacktricks",
     "url": "https://github.com/carlospolop/hacktricks",
     "description": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
     "language": "Python",
-    "star": "227"
+    "star": "213"
   },
   {
     "title": "datastacktv/data-engineer-roadmap",
@@ -144,21 +144,21 @@
     "url": "https://github.com/kdrag0n/safetynet-fix",
     "description": "A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.",
     "language": "Shell",
-    "star": "50"
+    "star": "34"
   },
   {
     "title": "MustangYM/WeChatExtension-ForMac",
     "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
     "description": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
     "language": "Objective-C",
-    "star": "141"
+    "star": "151"
   },
   {
     "title": "ruffle-rs/ruffle",
     "url": "https://github.com/ruffle-rs/ruffle",
     "description": "A Flash Player emulator written in Rust",
     "language": "Rust",
-    "star": "86"
+    "star": "85"
   },
   {
     "title": "thecodercoder/fem-easybank",
@@ -172,6 +172,6 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "168"
+    "star": "176"
   }
 ]
