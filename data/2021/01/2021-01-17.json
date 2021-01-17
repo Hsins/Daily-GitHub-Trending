@@ -4,7 +4,7 @@
     "url": "https://github.com/files-community/Files",
     "description": "A modern file explorer that pushes the boundaries of the platform.",
     "language": "C#",
-    "star": "608"
+    "star": "767"
   },
   {
     "title": "jagregory/abrash-black-book",
@@ -18,28 +18,28 @@
     "url": "https://github.com/labuladong/fucking-algorithm",
     "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
     "language": "none",
-    "star": "272"
+    "star": "446"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "149"
+    "star": "143"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "JavaScript",
-    "star": "365"
+    "star": "380"
   },
   {
     "title": "seanmonstar/warp",
     "url": "https://github.com/seanmonstar/warp",
     "description": "A super-easy, composable, web server framework for warp speeds.",
     "language": "Rust",
-    "star": "17"
+    "star": "22"
   },
   {
     "title": "Developer-Y/cs-video-courses",
@@ -74,14 +74,14 @@
     "url": "https://github.com/EvineDeng/jd-base",
     "description": "京东薅羊毛脚本 https://github.com/LXK9301/jd_scripts 的shell套壳工具",
     "language": "JavaScript",
-    "star": "191"
+    "star": "99"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
     "language": "JavaScript",
-    "star": "215"
+    "star": "218"
   },
   {
     "title": "DrkSephy/es6-cheatsheet",
@@ -95,21 +95,21 @@
     "url": "https://github.com/datastacktv/data-engineer-roadmap",
     "description": "Roadmap to becoming a data engineer in 2021",
     "language": "none",
-    "star": "170"
+    "star": "161"
   },
   {
     "title": "ml-tooling/best-of-ml-python",
     "url": "https://github.com/ml-tooling/best-of-ml-python",
     "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
     "language": "Python",
-    "star": "369"
+    "star": "506"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "257"
+    "star": "251"
   },
   {
     "title": "TelegramMessenger/Telegram-iOS",
@@ -123,7 +123,7 @@
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
     "language": "Java",
-    "star": "84"
+    "star": "83"
   },
   {
     "title": "tomlooman/ActionRoguelike",
@@ -137,41 +137,41 @@
     "url": "https://github.com/signalapp/libsignal-client",
     "description": "",
     "language": "Rust",
-    "star": "90"
+    "star": "91"
   },
   {
     "title": "souravbaghz/RadareEye",
     "url": "https://github.com/souravbaghz/RadareEye",
     "description": "A tool made for specially scanning nearby devices[BLE, Bluetooth & Wifi] and execute our given command on our system when the target device comes in-between range.",
     "language": "Shell",
-    "star": "13"
+    "star": "12"
   },
   {
     "title": "ml-tooling/best-of-python",
     "url": "https://github.com/ml-tooling/best-of-python",
     "description": "🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.",
     "language": "Python",
-    "star": "247"
+    "star": "191"
   },
   {
     "title": "snowpackjs/snowpack",
     "url": "https://github.com/snowpackjs/snowpack",
     "description": "WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️",
     "language": "JavaScript",
-    "star": "125"
+    "star": "102"
   },
   {
     "title": "ziglang/zig",
     "url": "https://github.com/ziglang/zig",
     "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
     "language": "Zig",
-    "star": "19"
+    "star": "20"
   },
   {
     "title": "londonappbrewery/Flutter-Course-Resources",
     "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
     "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp",
     "language": "none",
-    "star": "9"
+    "star": "10"
   }
 ]
