@@ -11,28 +11,28 @@
     "url": "https://github.com/raspberrypi/pico-sdk",
     "description": "",
     "language": "C",
-    "star": "42"
+    "star": "36"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "star": "120"
+    "star": "140"
   },
   {
     "title": "spantaleev/matrix-docker-ansible-deploy",
     "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
     "description": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
     "language": "HTML",
-    "star": "120"
+    "star": "106"
   },
   {
     "title": "microsoft/windows-rs",
     "url": "https://github.com/microsoft/windows-rs",
     "description": "Rust for Windows",
     "language": "Rust",
-    "star": "735"
+    "star": "1"
   },
   {
     "title": "argoproj/argo-cd",
@@ -46,7 +46,7 @@
     "url": "https://github.com/Marak/faker.js",
     "description": "generate massive amounts of realistic fake data in Node.js and the browser",
     "language": "JavaScript",
-    "star": "224"
+    "star": "244"
   },
   {
     "title": "microsoft/win32metadata",
@@ -60,7 +60,7 @@
     "url": "https://github.com/CRED-CLUB/synth-ios",
     "description": "Synth is CRED's inbuilt library for using Neumorphic components in your app.",
     "language": "Swift",
-    "star": "40"
+    "star": "67"
   },
   {
     "title": "harryheman/React-Questions",
@@ -74,14 +74,14 @@
     "url": "https://github.com/softchris/react-book",
     "description": "Book covering fundamentals on React",
     "language": "HTML",
-    "star": "198"
+    "star": "207"
   },
   {
     "title": "FlaxEngine/FlaxEngine",
     "url": "https://github.com/FlaxEngine/FlaxEngine",
     "description": "Flax Engine – multi-platform 3D game engine",
     "language": "C++",
-    "star": "112"
+    "star": "105"
   },
   {
     "title": "Hunlongyu/ZY-Player",
@@ -95,7 +95,7 @@
     "url": "https://github.com/scikit-learn/scikit-learn",
     "description": "scikit-learn: machine learning in Python",
     "language": "Python",
-    "star": "55"
+    "star": "61"
   },
   {
     "title": "rqlite/rqlite",
@@ -116,14 +116,14 @@
     "url": "https://github.com/cypress-io/cypress",
     "description": "Fast, easy and reliable testing for anything that runs in a browser.",
     "language": "JavaScript",
-    "star": "225"
+    "star": "242"
   },
   {
     "title": "six2dez/reconftw",
     "url": "https://github.com/six2dez/reconftw",
     "description": "Simple script for full recon",
     "language": "Shell",
-    "star": "79"
+    "star": "65"
   },
   {
     "title": "akaneia/akaneia-build",
@@ -137,14 +137,14 @@
     "url": "https://github.com/leon-thomm/Ryven",
     "description": "Flow-based visual scripting for Python",
     "language": "Python",
-    "star": "180"
+    "star": "107"
   },
   {
     "title": "laravel/framework",
     "url": "https://github.com/laravel/framework",
     "description": "",
     "language": "PHP",
-    "star": "121"
+    "star": "131"
   },
   {
     "title": "bregman-arie/devops-exercises",
@@ -158,20 +158,20 @@
     "url": "https://github.com/streamich/react-use",
     "description": "React Hooks — 👍",
     "language": "TypeScript",
-    "star": "193"
+    "star": "234"
   },
   {
     "title": "microsoft/fluentui",
     "url": "https://github.com/microsoft/fluentui",
     "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
     "language": "TypeScript",
-    "star": "63"
+    "star": "171"
   },
   {
     "title": "twbs/bootstrap",
     "url": "https://github.com/twbs/bootstrap",
     "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
     "language": "JavaScript",
-    "star": "290"
+    "star": "255"
   }
 ]
