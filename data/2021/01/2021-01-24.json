@@ -4,63 +4,63 @@
     "url": "https://github.com/raspberrypi/pico-sdk",
     "description": "",
     "language": "C",
-    "star": "149"
+    "star": "67"
   },
   {
     "title": "ocornut/imgui",
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "108"
+    "star": "116"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "star": "545"
+    "star": "483"
   },
   {
     "title": "FlaxEngine/FlaxEngine",
     "url": "https://github.com/FlaxEngine/FlaxEngine",
     "description": "Flax Engine – multi-platform 3D game engine",
     "language": "C++",
-    "star": "228"
+    "star": "225"
   },
   {
     "title": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
     "language": "Rust",
-    "star": "8"
+    "star": "190"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "77"
+    "star": "78"
   },
   {
     "title": "raspberrypi/pico-examples",
     "url": "https://github.com/raspberrypi/pico-examples",
     "description": "",
     "language": "Objective-C",
-    "star": "36"
+    "star": "46"
   },
   {
     "title": "jerryscript-project/jerryscript",
     "url": "https://github.com/jerryscript-project/jerryscript",
     "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
     "language": "C",
-    "star": "233"
+    "star": "89"
   },
   {
     "title": "pingcap/talent-plan",
     "url": "https://github.com/pingcap/talent-plan",
     "description": "open source training courses about distributed database and distributed systemes",
     "language": "Rust",
-    "star": "33"
+    "star": "40"
   },
   {
     "title": "excalidraw/excalidraw",
@@ -81,63 +81,63 @@
     "url": "https://github.com/nondanee/UnblockNeteaseMusic",
     "description": "Revive unavailable songs for Netease Cloud Music",
     "language": "JavaScript",
-    "star": "36"
+    "star": "45"
   },
   {
     "title": "leon-thomm/Ryven",
     "url": "https://github.com/leon-thomm/Ryven",
     "description": "Flow-based visual scripting for Python",
     "language": "Python",
-    "star": "186"
+    "star": "148"
   },
   {
     "title": "spantaleev/matrix-docker-ansible-deploy",
     "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
     "description": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
     "language": "HTML",
-    "star": "164"
+    "star": "106"
   },
   {
     "title": "hathach/tinyusb",
     "url": "https://github.com/hathach/tinyusb",
     "description": "An open source cross-platform USB stack for embedded system",
     "language": "C",
-    "star": "8"
+    "star": "76"
   },
   {
     "title": "scikit-learn/scikit-learn",
     "url": "https://github.com/scikit-learn/scikit-learn",
     "description": "scikit-learn: machine learning in Python",
     "language": "Python",
-    "star": "167"
+    "star": "238"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "60"
+    "star": "48"
   },
   {
     "title": "rqlite/rqlite",
     "url": "https://github.com/rqlite/rqlite",
     "description": "The lightweight, distributed relational database built on SQLite.",
     "language": "Go",
-    "star": "444"
+    "star": "540"
   },
   {
     "title": "benbjohnson/wtf",
     "url": "https://github.com/benbjohnson/wtf",
     "description": "WTF Dial is an example application written in Go.",
     "language": "Go",
-    "star": "27"
+    "star": "25"
   },
   {
     "title": "CorentinJ/Real-Time-Voice-Cloning",
     "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
     "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "105"
+    "star": "34"
   },
   {
     "title": "iluwatar/java-design-patterns",
@@ -151,7 +151,7 @@
     "url": "https://github.com/jellyfin/jellyfin",
     "description": "The Free Software Media System",
     "language": "C#",
-    "star": "53"
+    "star": "26"
   },
   {
     "title": "home-assistant/core",
