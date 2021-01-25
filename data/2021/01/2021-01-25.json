@@ -11,28 +11,28 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "219"
+    "star": "225"
   },
   {
     "title": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
     "language": "Rust",
-    "star": "221"
+    "star": "227"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "star": "411"
+    "star": "483"
   },
   {
     "title": "coolsnowwolf/lede",
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "63"
+    "star": "65"
   },
   {
     "title": "wesdoyle/design-patterns-explained-with-food",
@@ -53,77 +53,77 @@
     "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
     "description": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
     "language": "HTML",
-    "star": "96"
+    "star": "107"
   },
   {
     "title": "jerryscript-project/jerryscript",
     "url": "https://github.com/jerryscript-project/jerryscript",
     "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
     "language": "C",
-    "star": "332"
+    "star": "331"
   },
   {
     "title": "raspberrypi/pico-sdk",
     "url": "https://github.com/raspberrypi/pico-sdk",
     "description": "",
     "language": "C",
-    "star": "107"
+    "star": "109"
   },
   {
     "title": "peng-zhihui/HoloCubic",
     "url": "https://github.com/peng-zhihui/HoloCubic",
     "description": "透明小电视",
     "language": "C",
-    "star": "109"
+    "star": "110"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first",
     "language": "Python",
-    "star": "152"
+    "star": "295"
   },
   {
     "title": "six2dez/reconftw",
     "url": "https://github.com/six2dez/reconftw",
     "description": "Simple script for full recon",
     "language": "Shell",
-    "star": "47"
+    "star": "32"
   },
   {
     "title": "gao-sun/eul",
     "url": "https://github.com/gao-sun/eul",
     "description": "🖥️ macOS status monitoring app written in SwiftUI.",
     "language": "Swift",
-    "star": "89"
+    "star": "123"
   },
   {
     "title": "bwasti/mebm",
     "url": "https://github.com/bwasti/mebm",
     "description": "zero-dependency browser-based video editor",
     "language": "JavaScript",
-    "star": "102"
+    "star": "79"
   },
   {
     "title": "sundowndev/hacker-roadmap",
     "url": "https://github.com/sundowndev/hacker-roadmap",
     "description": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.",
     "language": "none",
-    "star": "75"
+    "star": "50"
   },
   {
     "title": "nicksawhney/bernie-sits",
     "url": "https://github.com/nicksawhney/bernie-sits",
     "description": "A site that went kinda viral that lets you put Bernie Sanders in places",
     "language": "Python",
-    "star": "34"
+    "star": "32"
   },
   {
     "title": "scikit-learn/scikit-learn",
     "url": "https://github.com/scikit-learn/scikit-learn",
     "description": "scikit-learn: machine learning in Python",
     "language": "Python",
-    "star": "130"
+    "star": "131"
   },
   {
     "title": "revolist/revogrid",
@@ -137,28 +137,28 @@
     "url": "https://github.com/arendst/Tasmota",
     "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
     "language": "C",
-    "star": "14"
+    "star": "50"
   },
   {
     "title": "moonD4rk/HackBrowserData",
     "url": "https://github.com/moonD4rk/HackBrowserData",
     "description": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
     "language": "Go",
-    "star": "23"
+    "star": "46"
   },
   {
     "title": "MarlinFirmware/Marlin",
     "url": "https://github.com/MarlinFirmware/Marlin",
     "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "star": "12"
+    "star": "25"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "53"
+    "star": "70"
   },
   {
     "title": "rxi/lite",
@@ -172,6 +172,6 @@
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "33"
+    "star": "45"
   }
 ]
