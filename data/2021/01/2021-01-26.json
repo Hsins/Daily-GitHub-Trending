@@ -4,7 +4,7 @@
     "url": "https://github.com/oblador/hush",
     "description": "Noiseless Browsing – Content Blocker for Safari",
     "language": "JavaScript",
-    "star": "278"
+    "star": "301"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
@@ -18,14 +18,14 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "241"
+    "star": "252"
   },
   {
     "title": "sundowndev/hacker-roadmap",
     "url": "https://github.com/sundowndev/hacker-roadmap",
     "description": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.",
     "language": "none",
-    "star": "295"
+    "star": "312"
   },
   {
     "title": "pavlobu/deskreen",
@@ -53,21 +53,21 @@
     "url": "https://github.com/jerryscript-project/jerryscript",
     "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
     "language": "C",
-    "star": "266"
+    "star": "185"
   },
   {
     "title": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
     "language": "Rust",
-    "star": "177"
+    "star": "182"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "star": "442"
+    "star": "495"
   },
   {
     "title": "roboticcam/machine-learning-notes",
@@ -95,7 +95,7 @@
     "url": "https://github.com/wesdoyle/design-patterns-explained-with-food",
     "description": "GoF Design Patterns with \"Real-World\" examples involving Food-Related Businesses and mock dependencies",
     "language": "C#",
-    "star": "202"
+    "star": "198"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
@@ -116,21 +116,21 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "197"
+    "star": "199"
   },
   {
     "title": "moonD4rk/HackBrowserData",
     "url": "https://github.com/moonD4rk/HackBrowserData",
     "description": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
     "language": "Go",
-    "star": "88"
+    "star": "171"
   },
   {
     "title": "coolsnowwolf/lede",
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "73"
+    "star": "72"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -144,21 +144,21 @@
     "url": "https://github.com/Terri00/vrc8ball",
     "description": "Udon 8 ball pool game / physics engine",
     "language": "C#",
-    "star": "12"
+    "star": "5"
   },
   {
     "title": "hathach/tinyusb",
     "url": "https://github.com/hathach/tinyusb",
     "description": "An open source cross-platform USB stack for embedded system",
     "language": "C",
-    "star": "38"
+    "star": "46"
   },
   {
     "title": "scikit-learn/scikit-learn",
     "url": "https://github.com/scikit-learn/scikit-learn",
     "description": "scikit-learn: machine learning in Python",
     "language": "Python",
-    "star": "116"
+    "star": "122"
   },
   {
     "title": "hashicorp/nomad",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "80"
+    "star": "197"
   }
 ]
