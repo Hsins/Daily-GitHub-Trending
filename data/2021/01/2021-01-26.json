@@ -4,7 +4,7 @@
     "url": "https://github.com/oblador/hush",
     "description": "Noiseless Browsing – Content Blocker for Safari",
     "language": "JavaScript",
-    "star": "301"
+    "star": "358"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
@@ -18,14 +18,14 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "252"
+    "star": "245"
   },
   {
     "title": "sundowndev/hacker-roadmap",
     "url": "https://github.com/sundowndev/hacker-roadmap",
     "description": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.",
     "language": "none",
-    "star": "312"
+    "star": "75"
   },
   {
     "title": "pavlobu/deskreen",
@@ -53,28 +53,28 @@
     "url": "https://github.com/jerryscript-project/jerryscript",
     "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
     "language": "C",
-    "star": "185"
+    "star": "280"
   },
   {
     "title": "firecracker-microvm/firecracker",
     "url": "https://github.com/firecracker-microvm/firecracker",
     "description": "Secure and fast microVMs for serverless computing.",
     "language": "Rust",
-    "star": "182"
+    "star": "233"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "star": "495"
+    "star": "378"
   },
   {
     "title": "roboticcam/machine-learning-notes",
     "url": "https://github.com/roboticcam/machine-learning-notes",
     "description": "My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接",
     "language": "Jupyter Notebook",
-    "star": "72"
+    "star": "96"
   },
   {
     "title": "cdk-team/CDK",
@@ -88,14 +88,14 @@
     "url": "https://github.com/peng-zhihui/HoloCubic",
     "description": "透明小电视",
     "language": "C",
-    "star": "113"
+    "star": "115"
   },
   {
     "title": "wesdoyle/design-patterns-explained-with-food",
     "url": "https://github.com/wesdoyle/design-patterns-explained-with-food",
     "description": "GoF Design Patterns with \"Real-World\" examples involving Food-Related Businesses and mock dependencies",
     "language": "C#",
-    "star": "198"
+    "star": "197"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
@@ -116,21 +116,21 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "199"
+    "star": "198"
   },
   {
     "title": "moonD4rk/HackBrowserData",
     "url": "https://github.com/moonD4rk/HackBrowserData",
     "description": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
     "language": "Go",
-    "star": "171"
+    "star": "166"
   },
   {
     "title": "coolsnowwolf/lede",
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "72"
+    "star": "69"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -151,14 +151,14 @@
     "url": "https://github.com/hathach/tinyusb",
     "description": "An open source cross-platform USB stack for embedded system",
     "language": "C",
-    "star": "46"
+    "star": "158"
   },
   {
     "title": "scikit-learn/scikit-learn",
     "url": "https://github.com/scikit-learn/scikit-learn",
     "description": "scikit-learn: machine learning in Python",
     "language": "Python",
-    "star": "122"
+    "star": "108"
   },
   {
     "title": "hashicorp/nomad",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "197"
+    "star": "103"
   }
 ]
