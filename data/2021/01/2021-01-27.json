@@ -4,21 +4,21 @@
     "url": "https://github.com/twitter/TwitterTextEditor",
     "description": "A standalone, flexible API that provides a full-featured rich text editor for iOS applications.",
     "language": "Swift",
-    "star": "387"
+    "star": "384"
   },
   {
     "title": "alura-challenges/aluraquiz-base",
     "url": "https://github.com/alura-challenges/aluraquiz-base",
     "description": "Projeto construido durante a Imersão React edição NextJS da Alura!",
     "language": "JavaScript",
-    "star": "295"
+    "star": "294"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
     "language": "Python",
-    "star": "497"
+    "star": "499"
   },
   {
     "title": "ErickWendel/jsexpert02-skeleton-ew",
@@ -39,14 +39,14 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "238"
+    "star": "229"
   },
   {
     "title": "hashicorp/nomad",
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "69"
+    "star": "86"
   },
   {
     "title": "abhishekkrthakur/approachingalmost",
@@ -60,7 +60,7 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "353"
+    "star": "369"
   },
   {
     "title": "directus/directus",
@@ -74,70 +74,70 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2021",
     "language": "none",
-    "star": "599"
+    "star": "329"
   },
   {
     "title": "oblador/hush",
     "url": "https://github.com/oblador/hush",
     "description": "Noiseless Browsing – Content Blocker for Safari",
     "language": "JavaScript",
-    "star": "176"
+    "star": "195"
   },
   {
     "title": "sundowndev/hacker-roadmap",
     "url": "https://github.com/sundowndev/hacker-roadmap",
     "description": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.",
     "language": "none",
-    "star": "479"
+    "star": "333"
   },
   {
     "title": "moonD4rk/HackBrowserData",
     "url": "https://github.com/moonD4rk/HackBrowserData",
     "description": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
     "language": "Go",
-    "star": "176"
+    "star": "169"
   },
   {
     "title": "nodejs/node",
     "url": "https://github.com/nodejs/node",
     "description": "Node.js JavaScript runtime ✨🐢🚀✨",
     "language": "JavaScript",
-    "star": "33"
+    "star": "45"
   },
   {
     "title": "hathach/tinyusb",
     "url": "https://github.com/hathach/tinyusb",
     "description": "An open source cross-platform USB stack for embedded system",
     "language": "C",
-    "star": "64"
+    "star": "71"
   },
   {
     "title": "MTK-bypass/bypass_utility",
     "url": "https://github.com/MTK-bypass/bypass_utility",
     "description": "",
     "language": "Python",
-    "star": "41"
+    "star": "40"
   },
   {
     "title": "LingCoder/OnJava8",
     "url": "https://github.com/LingCoder/OnJava8",
     "description": "《On Java 8》中文版",
     "language": "none",
-    "star": "63"
+    "star": "62"
   },
   {
     "title": "mjebrahimi/Awesome-Microservices-NetCore",
     "url": "https://github.com/mjebrahimi/Awesome-Microservices-NetCore",
     "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core",
     "language": "none",
-    "star": "43"
+    "star": "42"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "star": "449"
+    "star": "441"
   },
   {
     "title": "lunnlew/AutoSignMachine",
@@ -151,7 +151,7 @@
     "url": "https://github.com/jerryscript-project/jerryscript",
     "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
     "language": "C",
-    "star": "266"
+    "star": "270"
   },
   {
     "title": "mikecao/umami",
@@ -165,13 +165,13 @@
     "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
     "description": "Angular UI Kit and components library for awesome people",
     "language": "TypeScript",
-    "star": "80"
+    "star": "100"
   },
   {
     "title": "vercel/next.js",
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "243"
+    "star": "211"
   }
 ]
