@@ -1,0 +1,177 @@
+[
+  {
+    "title": "twitter/TwitterTextEditor",
+    "url": "https://github.com/twitter/TwitterTextEditor",
+    "description": "A standalone, flexible API that provides a full-featured rich text editor for iOS applications.",
+    "language": "Swift",
+    "star": "387"
+  },
+  {
+    "title": "alura-challenges/aluraquiz-base",
+    "url": "https://github.com/alura-challenges/aluraquiz-base",
+    "description": "Projeto construido durante a Imersão React edição NextJS da Alura!",
+    "language": "JavaScript",
+    "star": "295"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "language": "Python",
+    "star": "497"
+  },
+  {
+    "title": "ErickWendel/jsexpert02-skeleton-ew",
+    "url": "https://github.com/ErickWendel/jsexpert02-skeleton-ew",
+    "description": "Projeto Base da Semana Javascript Expert 2.0",
+    "language": "JavaScript",
+    "star": "55"
+  },
+  {
+    "title": "AdamGold/Dryvo",
+    "url": "https://github.com/AdamGold/Dryvo",
+    "description": "Driving lessons made simpler. Custom scheduling API built with Python.",
+    "language": "Python",
+    "star": "64"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "238"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "69"
+  },
+  {
+    "title": "abhishekkrthakur/approachingalmost",
+    "url": "https://github.com/abhishekkrthakur/approachingalmost",
+    "description": "Approaching (Almost) Any Machine Learning Problem",
+    "language": "none",
+    "star": "333"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "353"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "description": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "language": "Vue",
+    "star": "10"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "none",
+    "star": "599"
+  },
+  {
+    "title": "oblador/hush",
+    "url": "https://github.com/oblador/hush",
+    "description": "Noiseless Browsing – Content Blocker for Safari",
+    "language": "JavaScript",
+    "star": "176"
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "description": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.",
+    "language": "none",
+    "star": "479"
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "description": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
+    "language": "Go",
+    "star": "176"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "star": "33"
+  },
+  {
+    "title": "hathach/tinyusb",
+    "url": "https://github.com/hathach/tinyusb",
+    "description": "An open source cross-platform USB stack for embedded system",
+    "language": "C",
+    "star": "64"
+  },
+  {
+    "title": "MTK-bypass/bypass_utility",
+    "url": "https://github.com/MTK-bypass/bypass_utility",
+    "description": "",
+    "language": "Python",
+    "star": "41"
+  },
+  {
+    "title": "LingCoder/OnJava8",
+    "url": "https://github.com/LingCoder/OnJava8",
+    "description": "《On Java 8》中文版",
+    "language": "none",
+    "star": "63"
+  },
+  {
+    "title": "mjebrahimi/Awesome-Microservices-NetCore",
+    "url": "https://github.com/mjebrahimi/Awesome-Microservices-NetCore",
+    "description": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core",
+    "language": "none",
+    "star": "43"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "Python",
+    "star": "449"
+  },
+  {
+    "title": "lunnlew/AutoSignMachine",
+    "url": "https://github.com/lunnlew/AutoSignMachine",
+    "description": "一个自动执行任务的工具，通过它可以实现账号自动签到，自动领取权益等功能，帮助我们轻松升级",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "jerryscript-project/jerryscript",
+    "url": "https://github.com/jerryscript-project/jerryscript",
+    "description": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "language": "C",
+    "star": "266"
+  },
+  {
+    "title": "mikecao/umami",
+    "url": "https://github.com/mikecao/umami",
+    "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "TinkoffCreditSystems/taiga-ui",
+    "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "description": "Angular UI Kit and components library for awesome people",
+    "language": "TypeScript",
+    "star": "80"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "243"
+  }
+]
