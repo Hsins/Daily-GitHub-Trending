@@ -4,7 +4,7 @@
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "163"
+    "star": "164"
   },
   {
     "title": "evilsocket/ditto",
@@ -18,21 +18,21 @@
     "url": "https://github.com/bullhe4d/bigwatermelon",
     "description": "合成大西瓜源码,修改版",
     "language": "JavaScript",
-    "star": "171"
+    "star": "156"
   },
   {
     "title": "williamfiset/Algorithms",
     "url": "https://github.com/williamfiset/Algorithms",
     "description": "A collection of algorithms and data structures",
     "language": "Java",
-    "star": "312"
+    "star": "290"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
     "language": "JavaScript",
-    "star": "442"
+    "star": "464"
   },
   {
     "title": "pedroslopez/whatsapp-web.js",
@@ -46,28 +46,28 @@
     "url": "https://github.com/Budibase/budibase",
     "description": "Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months 🚀",
     "language": "JavaScript",
-    "star": "263"
+    "star": "208"
   },
   {
     "title": "berty/berty",
     "url": "https://github.com/berty/berty",
     "description": "Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network",
     "language": "Go",
-    "star": "515"
+    "star": "309"
   },
   {
     "title": "heartexlabs/label-studio",
     "url": "https://github.com/heartexlabs/label-studio",
     "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
     "language": "JavaScript",
-    "star": "123"
+    "star": "124"
   },
   {
     "title": "qier222/YesPlayMusic",
     "url": "https://github.com/qier222/YesPlayMusic",
     "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
     "language": "Vue",
-    "star": "415"
+    "star": "405"
   },
   {
     "title": "DinoZ1729/Ray",
@@ -88,21 +88,21 @@
     "url": "https://github.com/abhishekkrthakur/approachingalmost",
     "description": "Approaching (Almost) Any Machine Learning Problem",
     "language": "none",
-    "star": "305"
+    "star": "302"
   },
   {
     "title": "microsoft/qlib",
     "url": "https://github.com/microsoft/qlib",
     "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
     "language": "Python",
-    "star": "63"
+    "star": "62"
   },
   {
     "title": "lucidrains/bottleneck-transformer-pytorch",
     "url": "https://github.com/lucidrains/bottleneck-transformer-pytorch",
     "description": "Implementation of Bottleneck Transformer in Pytorch",
     "language": "Python",
-    "star": "71"
+    "star": "72"
   },
   {
     "title": "vinta/awesome-python",
@@ -116,7 +116,7 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2021",
     "language": "none",
-    "star": "499"
+    "star": "500"
   },
   {
     "title": "yeungon/In-JavaScript-we-trust",
@@ -137,7 +137,7 @@
     "url": "https://github.com/airbytehq/airbyte",
     "description": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",
     "language": "Java",
-    "star": "209"
+    "star": "276"
   },
   {
     "title": "ErickWendel/semana-javascript-expert02",
@@ -151,6 +151,6 @@
     "url": "https://github.com/sdushantha/wifi-password",
     "description": "Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect",
     "language": "Python",
-    "star": "66"
+    "star": "104"
   }
 ]
