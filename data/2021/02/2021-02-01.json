@@ -4,56 +4,56 @@
     "url": "https://github.com/achannarasappa/ticker",
     "description": "Terminal stock ticker with live updates and position tracking",
     "language": "Go",
-    "star": "147"
+    "star": "316"
   },
   {
     "title": "liyupi/daxigua",
     "url": "https://github.com/liyupi/daxigua",
     "description": "最简单的魔改发布『 合成大西瓜 』，不用改代码，修改配置即可！",
     "language": "JavaScript",
-    "star": "145"
+    "star": "144"
   },
   {
     "title": "badtuxx/DescomplicandoKubernetes",
     "url": "https://github.com/badtuxx/DescomplicandoKubernetes",
     "description": "",
     "language": "Shell",
-    "star": "87"
+    "star": "74"
   },
   {
     "title": "williamfiset/Algorithms",
     "url": "https://github.com/williamfiset/Algorithms",
     "description": "A collection of algorithms and data structures",
     "language": "Java",
-    "star": "286"
+    "star": "185"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "59"
+    "star": "99"
   },
   {
     "title": "bullhe4d/bigwatermelon",
     "url": "https://github.com/bullhe4d/bigwatermelon",
     "description": "合成大西瓜源码,修改版",
     "language": "JavaScript",
-    "star": "121"
+    "star": "128"
   },
   {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "77"
+    "star": "76"
   },
   {
     "title": "rossning92/movy",
     "url": "https://github.com/rossning92/movy",
     "description": "movy.js is an easy-to-use animation engine based on three.js and gsap.",
     "language": "TypeScript",
-    "star": "121"
+    "star": "124"
   },
   {
     "title": "TheAlgorithms/Java",
@@ -67,14 +67,14 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "55"
+    "star": "47"
   },
   {
     "title": "tensortrade-org/tensortrade",
     "url": "https://github.com/tensortrade-org/tensortrade",
     "description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.",
     "language": "Python",
-    "star": "217"
+    "star": "216"
   },
   {
     "title": "Unity-Technologies/ml-agents",
@@ -88,28 +88,28 @@
     "url": "https://github.com/richardclegg/vis_route",
     "description": "",
     "language": "Python",
-    "star": "24"
+    "star": "16"
   },
   {
     "title": "RustPython/RustPython",
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Rust",
-    "star": "103"
+    "star": "102"
   },
   {
     "title": "dogecoin/dogecoin",
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "327"
+    "star": "323"
   },
   {
     "title": "LaravelDaily/laravel-tips",
     "url": "https://github.com/LaravelDaily/laravel-tips",
     "description": "Awesome tips for Laravel",
     "language": "none",
-    "star": "207"
+    "star": "179"
   },
   {
     "title": "danistefanovic/build-your-own-x",
@@ -137,41 +137,41 @@
     "url": "https://github.com/DrKLO/Telegram",
     "description": "Telegram for Android source",
     "language": "C++",
-    "star": "52"
+    "star": "51"
   },
   {
     "title": "yeungon/In-JavaScript-we-trust",
     "url": "https://github.com/yeungon/In-JavaScript-we-trust",
     "description": "Embrace JavaScript naturally and confidently with coding challenges crafted not for beginners, but JavaScript lovers no matter what.",
     "language": "JavaScript",
-    "star": "71"
+    "star": "212"
   },
   {
     "title": "lab-ml/nn",
     "url": "https://github.com/lab-ml/nn",
     "description": "🧠 Minimal implementations/tutorials of deep learning papers with side-by-side notes",
     "language": "Jupyter Notebook",
-    "star": "198"
+    "star": "196"
   },
   {
     "title": "wesdoyle/design-patterns-explained-with-food",
     "url": "https://github.com/wesdoyle/design-patterns-explained-with-food",
     "description": "GoF Design Patterns with \"Real-World\" examples involving Food-Related Businesses and mock dependencies",
     "language": "C#",
-    "star": "548"
+    "star": "532"
   },
   {
     "title": "Anuken/Mindustry",
     "url": "https://github.com/Anuken/Mindustry",
     "description": "A sandbox tower defense game",
     "language": "Java",
-    "star": "60"
+    "star": "58"
   },
   {
     "title": "qier222/YesPlayMusic",
     "url": "https://github.com/qier222/YesPlayMusic",
     "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
     "language": "Vue",
-    "star": "438"
+    "star": "562"
   }
 ]
