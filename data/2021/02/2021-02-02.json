@@ -1,0 +1,177 @@
+[
+  {
+    "title": "achannarasappa/ticker",
+    "url": "https://github.com/achannarasappa/ticker",
+    "description": "Terminal stock ticker with live updates and position tracking",
+    "language": "Go",
+    "star": "411"
+  },
+  {
+    "title": "blasty/CVE-2021-3156",
+    "url": "https://github.com/blasty/CVE-2021-3156",
+    "description": "",
+    "language": "C",
+    "star": "94"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "language": "Vue",
+    "star": "582"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "language": "C++",
+    "star": "17"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "14"
+  },
+  {
+    "title": "Serial-Studio/Serial-Studio",
+    "url": "https://github.com/Serial-Studio/Serial-Studio",
+    "description": "Multi-purpose serial data visualization & processing program",
+    "language": "C++",
+    "star": "109"
+  },
+  {
+    "title": "handshake-org/hs-airdrop",
+    "url": "https://github.com/handshake-org/hs-airdrop",
+    "description": "Decentralized airdrop to open source developers",
+    "language": "JavaScript",
+    "star": "42"
+  },
+  {
+    "title": "microsoft/Extensible-Storage-Engine",
+    "url": "https://github.com/microsoft/Extensible-Storage-Engine",
+    "description": "ESE is an embedded / ISAM-based database engine, that provides rudimentary table and indexed access. However the library provides many other strongly layered and and thus reusable sub-facilities as well: A Synchronization / Locking library, a Data-structures / STL-like library, an OS-abstraction layer, and a Cache Manager, as well the full blown…",
+    "language": "C++",
+    "star": "169"
+  },
+  {
+    "title": "daffainfo/AllAboutBugBounty",
+    "url": "https://github.com/daffainfo/AllAboutBugBounty",
+    "description": "All about bug websites (bypasses, payloads, and etc)",
+    "language": "none",
+    "star": "183"
+  },
+  {
+    "title": "explosion/spaCy",
+    "url": "https://github.com/explosion/spaCy",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "language": "Python",
+    "star": "521"
+  },
+  {
+    "title": "gordicaleksa/pytorch-GAT",
+    "url": "https://github.com/gordicaleksa/pytorch-GAT",
+    "description": "My implementation of the original GAT paper (Veličković et al.). I've additionally included the playground.py file for visualizing the Cora dataset, GAT embeddings, an attention mechanism, and entropy histograms. I'll add an inductive example (PPI) soon as well.",
+    "language": "Jupyter Notebook",
+    "star": "150"
+  },
+  {
+    "title": "twostraws/ControlRoom",
+    "url": "https://github.com/twostraws/ControlRoom",
+    "description": "A macOS app to control the Xcode Simulator.",
+    "language": "Swift",
+    "star": "106"
+  },
+  {
+    "title": "nostalgic-css/NES.css",
+    "url": "https://github.com/nostalgic-css/NES.css",
+    "description": "NES-style CSS Framework | ファミコン風CSSフレームワーク",
+    "language": "SCSS",
+    "star": "495"
+  },
+  {
+    "title": "liyupi/daxigua",
+    "url": "https://github.com/liyupi/daxigua",
+    "description": "最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！",
+    "language": "JavaScript",
+    "star": "204"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "90"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "505"
+  },
+  {
+    "title": "doino-gretchenliev/revolut-stocks",
+    "url": "https://github.com/doino-gretchenliev/revolut-stocks",
+    "description": "",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "description": "Telegram for Android source",
+    "language": "C++",
+    "star": "138"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "description": "A Python Interpreter written in Rust",
+    "language": "Rust",
+    "star": "187"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "204"
+  },
+  {
+    "title": "r4j0x00/exploits",
+    "url": "https://github.com/r4j0x00/exploits",
+    "description": "",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "97"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "A sandbox tower defense game",
+    "language": "Java",
+    "star": "258"
+  },
+  {
+    "title": "MathInspector/MathInspector",
+    "url": "https://github.com/MathInspector/MathInspector",
+    "description": "A visual programing environment for scientific computing with python",
+    "language": "Python",
+    "star": "45"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "219"
+  }
+]
