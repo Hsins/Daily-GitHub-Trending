@@ -11,63 +11,63 @@
     "url": "https://github.com/codeedu/imersao-fullstack-fullcycle",
     "description": "",
     "language": "Go",
-    "star": "65"
+    "star": "61"
   },
   {
     "title": "explosion/spaCy",
     "url": "https://github.com/explosion/spaCy",
     "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
     "language": "Python",
-    "star": "357"
+    "star": "335"
   },
   {
     "title": "therealsreehari/Learn-Datascience-For-Free",
     "url": "https://github.com/therealsreehari/Learn-Datascience-For-Free",
     "description": "",
     "language": "none",
-    "star": "255"
+    "star": "454"
   },
   {
     "title": "danistefanovic/build-your-own-x",
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "623"
+    "star": "818"
   },
   {
     "title": "TheAlgorithms/C-Plus-Plus",
     "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "star": "344"
+    "star": "287"
   },
   {
     "title": "ebhy/budgetml",
     "url": "https://github.com/ebhy/budgetml",
     "description": "Deploy a ML inference service on a budget in less than 10 lines of code.",
     "language": "Python",
-    "star": "203"
+    "star": "206"
   },
   {
     "title": "achannarasappa/ticker",
     "url": "https://github.com/achannarasappa/ticker",
     "description": "Terminal stock ticker with live updates and position tracking",
     "language": "Go",
-    "star": "360"
+    "star": "555"
   },
   {
     "title": "Serial-Studio/Serial-Studio",
     "url": "https://github.com/Serial-Studio/Serial-Studio",
     "description": "Multi-purpose serial data visualization & processing program",
     "language": "C++",
-    "star": "140"
+    "star": "303"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "208"
+    "star": "213"
   },
   {
     "title": "globalaihub/python-education-v2",
@@ -88,28 +88,28 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "339"
+    "star": "331"
   },
   {
     "title": "eugeneyan/applied-ml",
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "370"
+    "star": "355"
   },
   {
     "title": "liyupi/daxigua",
     "url": "https://github.com/liyupi/daxigua",
     "description": "最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！",
     "language": "JavaScript",
-    "star": "177"
+    "star": "110"
   },
   {
     "title": "daffainfo/AllAboutBugBounty",
     "url": "https://github.com/daffainfo/AllAboutBugBounty",
     "description": "All about bug websites (bypasses, payloads, and etc)",
     "language": "none",
-    "star": "179"
+    "star": "159"
   },
   {
     "title": "microsoft/fluentui",
@@ -123,21 +123,21 @@
     "url": "https://github.com/ianstormtaylor/slate",
     "description": "A completely customizable framework for building rich text editors. (Currently in beta.)",
     "language": "TypeScript",
-    "star": "18"
+    "star": "54"
   },
   {
     "title": "r4j0x00/exploits",
     "url": "https://github.com/r4j0x00/exploits",
     "description": "",
     "language": "JavaScript",
-    "star": "69"
+    "star": "73"
   },
   {
     "title": "NVlabs/stylegan2-ada-pytorch",
     "url": "https://github.com/NVlabs/stylegan2-ada-pytorch",
     "description": "StyleGAN2-ADA - Official PyTorch implementation",
     "language": "Python",
-    "star": "84"
+    "star": "122"
   },
   {
     "title": "allanf181/FuiVazado",
@@ -151,27 +151,27 @@
     "url": "https://github.com/twostraws/ControlRoom",
     "description": "A macOS app to control the Xcode Simulator.",
     "language": "Swift",
-    "star": "98"
+    "star": "114"
   },
   {
     "title": "tiangolo/full-stack-fastapi-postgresql",
     "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
     "description": "Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",
     "language": "Python",
-    "star": "23"
+    "star": "25"
   },
   {
     "title": "blasty/CVE-2021-3156",
     "url": "https://github.com/blasty/CVE-2021-3156",
     "description": "",
     "language": "C",
-    "star": "124"
+    "star": "123"
   },
   {
     "title": "swagger-api/swagger-ui",
     "url": "https://github.com/swagger-api/swagger-ui",
     "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
     "language": "JavaScript",
-    "star": "44"
+    "star": "19"
   }
 ]
