@@ -4,14 +4,14 @@
     "url": "https://github.com/achannarasappa/ticker",
     "description": "Terminal stock ticker with live updates and position tracking",
     "language": "Go",
-    "star": "1"
+    "star": "765"
   },
   {
     "title": "TheAlgorithms/C-Plus-Plus",
     "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "star": "256"
+    "star": "269"
   },
   {
     "title": "Serial-Studio/Serial-Studio",
@@ -25,28 +25,28 @@
     "url": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "34"
+    "star": "41"
   },
   {
     "title": "rails/kredis",
     "url": "https://github.com/rails/kredis",
     "description": "Higher-level data structures built on Redis",
     "language": "Ruby",
-    "star": "77"
+    "star": "76"
   },
   {
     "title": "therealsreehari/Learn-Datascience-For-Free",
     "url": "https://github.com/therealsreehari/Learn-Datascience-For-Free",
     "description": "",
     "language": "none",
-    "star": "796"
+    "star": "785"
   },
   {
     "title": "eugeneyan/applied-ml",
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "358"
+    "star": "343"
   },
   {
     "title": "sonnysangha/Resume-Portfolio-Starter-pack",
@@ -67,7 +67,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "131"
+    "star": "137"
   },
   {
     "title": "jasontaylordev/CleanArchitecture",
@@ -81,7 +81,7 @@
     "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
     "description": "Terraform module which creates VPC resources on AWS",
     "language": "HCL",
-    "star": "62"
+    "star": "61"
   },
   {
     "title": "Light-City/CPlusPlusThings",
@@ -95,7 +95,7 @@
     "url": "https://github.com/DKJone/DKWechatHelper",
     "description": "不止于抢红包，功能丰富的微信插件。",
     "language": "Objective-C",
-    "star": "21"
+    "star": "24"
   },
   {
     "title": "trekhleb/javascript-algorithms",
@@ -116,7 +116,7 @@
     "url": "https://github.com/penpot/penpot",
     "description": "Penpot - The Open-Source prototyping tool",
     "language": "Clojure",
-    "star": "123"
+    "star": "144"
   },
   {
     "title": "kakaobrain/pororo",
@@ -137,7 +137,7 @@
     "url": "https://github.com/actions/virtual-environments",
     "description": "GitHub Actions virtual environments",
     "language": "PowerShell",
-    "star": "26"
+    "star": "31"
   },
   {
     "title": "TheAlgorithms/C",
@@ -172,6 +172,6 @@
     "url": "https://github.com/paulgp/applied-methods-phd",
     "description": "Repo for Yale Applied Empirical Methods PHD Course",
     "language": "TeX",
-    "star": "12"
+    "star": "15"
   }
 ]
