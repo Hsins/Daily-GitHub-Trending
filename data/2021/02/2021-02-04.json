@@ -1,0 +1,177 @@
+[
+  {
+    "title": "achannarasappa/ticker",
+    "url": "https://github.com/achannarasappa/ticker",
+    "description": "Terminal stock ticker with live updates and position tracking",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "language": "C++",
+    "star": "256"
+  },
+  {
+    "title": "Serial-Studio/Serial-Studio",
+    "url": "https://github.com/Serial-Studio/Serial-Studio",
+    "description": "Multi-purpose serial data visualization & processing program",
+    "language": "C++",
+    "star": "281"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "34"
+  },
+  {
+    "title": "rails/kredis",
+    "url": "https://github.com/rails/kredis",
+    "description": "Higher-level data structures built on Redis",
+    "language": "Ruby",
+    "star": "77"
+  },
+  {
+    "title": "therealsreehari/Learn-Datascience-For-Free",
+    "url": "https://github.com/therealsreehari/Learn-Datascience-For-Free",
+    "description": "",
+    "language": "none",
+    "star": "796"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "358"
+  },
+  {
+    "title": "sonnysangha/Resume-Portfolio-Starter-pack",
+    "url": "https://github.com/sonnysangha/Resume-Portfolio-Starter-pack",
+    "description": "",
+    "language": "JavaScript",
+    "star": "9"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "316"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "131"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "description": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "language": "C#",
+    "star": "201"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "description": "Terraform module which creates VPC resources on AWS",
+    "language": "HCL",
+    "star": "62"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "star": "67"
+  },
+  {
+    "title": "DKJone/DKWechatHelper",
+    "url": "https://github.com/DKJone/DKWechatHelper",
+    "description": "不止于抢红包，功能丰富的微信插件。",
+    "language": "Objective-C",
+    "star": "21"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "222"
+  },
+  {
+    "title": "PyTorchLightning/lightning-flash",
+    "url": "https://github.com/PyTorchLightning/lightning-flash",
+    "description": "Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.",
+    "language": "Python",
+    "star": "104"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot - The Open-Source prototyping tool",
+    "language": "Clojure",
+    "star": "123"
+  },
+  {
+    "title": "kakaobrain/pororo",
+    "url": "https://github.com/kakaobrain/pororo",
+    "description": "PORORO: Platform Of neuRal mOdels for natuRal language prOcessing",
+    "language": "Python",
+    "star": "143"
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "description": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
+    "language": "Go",
+    "star": "57"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "26"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "description": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "language": "C",
+    "star": "23"
+  },
+  {
+    "title": "NVlabs/stylegan2-ada-pytorch",
+    "url": "https://github.com/NVlabs/stylegan2-ada-pytorch",
+    "description": "StyleGAN2-ADA - Official PyTorch implementation",
+    "language": "Python",
+    "star": "123"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "6"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "343"
+  },
+  {
+    "title": "paulgp/applied-methods-phd",
+    "url": "https://github.com/paulgp/applied-methods-phd",
+    "description": "Repo for Yale Applied Empirical Methods PHD Course",
+    "language": "TeX",
+    "star": "12"
+  }
+]
