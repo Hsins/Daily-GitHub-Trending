@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ianhan/BitmapFonts",
+    "url": "https://github.com/ianhan/BitmapFonts",
+    "description": "My collection of bitmap fonts pulled from various demoscene archives over the years",
+    "language": "HTML",
+    "star": "194"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "106"
+  },
+  {
+    "title": "oasis-engine/engine",
+    "url": "https://github.com/oasis-engine/engine",
+    "description": "Oasis Engine is a web-first and mobile-first high-performance real-time development platform.",
+    "language": "TypeScript",
+    "star": "165"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot - The Open-Source prototyping tool",
+    "language": "Clojure",
+    "star": "286"
+  },
+  {
+    "title": "accurics/terrascan",
+    "url": "https://github.com/accurics/terrascan",
+    "description": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+    "language": "Go",
+    "star": "11"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "227"
+  },
+  {
+    "title": "greatsuspender/thegreatsuspender",
+    "url": "https://github.com/greatsuspender/thegreatsuspender",
+    "description": "A chrome extension for suspending all tabs to free up memory",
+    "language": "JavaScript",
+    "star": "153"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "description": "编程电子书下载，电子书下载，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "language": "none",
+    "star": "221"
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "description": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "language": "JavaScript",
+    "star": "17"
+  },
+  {
+    "title": "therealsreehari/Learn-Datascience-For-Free",
+    "url": "https://github.com/therealsreehari/Learn-Datascience-For-Free",
+    "description": "",
+    "language": "none",
+    "star": "675"
+  },
+  {
+    "title": "progrium/macdriver",
+    "url": "https://github.com/progrium/macdriver",
+    "description": "Native Mac APIs for Go",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "optiv/ScareCrow",
+    "url": "https://github.com/optiv/ScareCrow",
+    "description": "ScareCrow - Payload creation framework designed around EDR bypass.",
+    "language": "Go",
+    "star": "98"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "language": "C++",
+    "star": "281"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "271"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "description": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "language": "C#",
+    "star": "132"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "297"
+  },
+  {
+    "title": "mobvoi/wenet",
+    "url": "https://github.com/mobvoi/wenet",
+    "description": "Production First and Production Ready End-to-End Speech Recognition Toolkit",
+    "language": "Python",
+    "star": "58"
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "description": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "language": "C",
+    "star": "176"
+  },
+  {
+    "title": "PaddlePaddle/VisualDL",
+    "url": "https://github.com/PaddlePaddle/VisualDL",
+    "description": "Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）",
+    "language": "TypeScript",
+    "star": "89"
+  },
+  {
+    "title": "NPCat/bad-apple-bot",
+    "url": "https://github.com/NPCat/bad-apple-bot",
+    "description": "the discord bot from this video: https://www.youtube.com/watch?v=PLP9c0Z4Q3Y",
+    "language": "Python",
+    "star": "24"
+  },
+  {
+    "title": "cocoa-mhlw/cocoa",
+    "url": "https://github.com/cocoa-mhlw/cocoa",
+    "description": "",
+    "language": "C#",
+    "star": "20"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "54"
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "description": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），4000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "language": "JavaScript",
+    "star": "57"
+  },
+  {
+    "title": "uo-ec607/lectures",
+    "url": "https://github.com/uo-ec607/lectures",
+    "description": "Lecture notes for EC 607",
+    "language": "HTML",
+    "star": "26"
+  },
+  {
+    "title": "MathInspector/MathInspector",
+    "url": "https://github.com/MathInspector/MathInspector",
+    "description": "A visual programing environment for scientific computing with python",
+    "language": "Python",
+    "star": "136"
+  }
+]
