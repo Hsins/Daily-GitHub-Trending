@@ -1,0 +1,177 @@
+[
+  {
+    "title": "JonnyBurger/remotion-trailer",
+    "url": "https://github.com/JonnyBurger/remotion-trailer",
+    "description": "A video written in React",
+    "language": "TypeScript",
+    "star": "122"
+  },
+  {
+    "title": "iam-abbas/Reddit-Stock-Trends",
+    "url": "https://github.com/iam-abbas/Reddit-Stock-Trends",
+    "description": "Fetch currently trending stocks on Reddit",
+    "language": "Python",
+    "star": "314"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "118"
+  },
+  {
+    "title": "conwnet/github1s",
+    "url": "https://github.com/conwnet/github1s",
+    "description": "One second to read GitHub code with VS Code.",
+    "language": "TypeScript",
+    "star": "3"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "6"
+  },
+  {
+    "title": "Kaiyiwing/qwerty-learner",
+    "url": "https://github.com/Kaiyiwing/qwerty-learner",
+    "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
+    "language": "TypeScript",
+    "star": "193"
+  },
+  {
+    "title": "JonnyBurger/remotion",
+    "url": "https://github.com/JonnyBurger/remotion",
+    "description": "🎥 Create videos programmatically in React",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "nemanjarogic/DesignPatternsLibrary",
+    "url": "https://github.com/nemanjarogic/DesignPatternsLibrary",
+    "description": "A comprehensive design patterns library implemented in C#, which covers various design patterns from the most commonly used ones to the lesser-known ones. Get familiar with and learn design patterns through moderately realistic examples.",
+    "language": "C#",
+    "star": "172"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "description": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "language": "Python",
+    "star": "222"
+  },
+  {
+    "title": "aws/amazon-sagemaker-examples",
+    "url": "https://github.com/aws/amazon-sagemaker-examples",
+    "description": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+    "language": "Jupyter Notebook",
+    "star": "31"
+  },
+  {
+    "title": "jomjol/AI-on-the-edge-device",
+    "url": "https://github.com/jomjol/AI-on-the-edge-device",
+    "description": "",
+    "language": "C++",
+    "star": "62"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (February 2021)",
+    "language": "JavaScript",
+    "star": "205"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "star": "65"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "132"
+  },
+  {
+    "title": "charliegerard/gaze-detection",
+    "url": "https://github.com/charliegerard/gaze-detection",
+    "description": "👀 Use machine learning in JavaScript to detect eye movements and build gaze-controlled experiences.",
+    "language": "JavaScript",
+    "star": "74"
+  },
+  {
+    "title": "mozilla-mobile/firefox-ios",
+    "url": "https://github.com/mozilla-mobile/firefox-ios",
+    "description": "Firefox for iOS",
+    "language": "Swift",
+    "star": "12"
+  },
+  {
+    "title": "dkhamsing/open-source-ios-apps",
+    "url": "https://github.com/dkhamsing/open-source-ios-apps",
+    "description": "📱 Collaborative List of Open-Source iOS Apps",
+    "language": "Swift",
+    "star": "118"
+  },
+  {
+    "title": "justjavac/1s",
+    "url": "https://github.com/justjavac/1s",
+    "description": "天若有情天亦老，我为网站加一秒",
+    "language": "none",
+    "star": "109"
+  },
+  {
+    "title": "nandorojo/moti",
+    "url": "https://github.com/nandorojo/moti",
+    "description": "🐼 The universal React Native animation library, powered by Reanimated 2.",
+    "language": "TypeScript",
+    "star": "75"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "TypeScript",
+    "star": "36"
+  },
+  {
+    "title": "googlesamples/mlkit",
+    "url": "https://github.com/googlesamples/mlkit",
+    "description": "A collection of sample apps to demonstrate how to use Google's ML Kit APIs on Android and iOS",
+    "language": "Java",
+    "star": "4"
+  },
+  {
+    "title": "ansible/awx",
+    "url": "https://github.com/ansible/awx",
+    "description": "AWX Project",
+    "language": "Python",
+    "star": "10"
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "description": "A Curated List of Awesome Facebook Libra Resources",
+    "language": "none",
+    "star": "226"
+  },
+  {
+    "title": "abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+    "url": "https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+    "description": "We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.",
+    "language": "Dart",
+    "star": "298"
+  },
+  {
+    "title": "Lolliedieb/lolMiner-releases",
+    "url": "https://github.com/Lolliedieb/lolMiner-releases",
+    "description": "",
+    "language": "none",
+    "star": "8"
+  }
+]
