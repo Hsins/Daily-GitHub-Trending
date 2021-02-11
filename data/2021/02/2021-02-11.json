@@ -11,14 +11,14 @@
     "url": "https://github.com/Azure/azure-quickstart-templates",
     "description": "Azure Quickstart Templates",
     "language": "PowerShell",
-    "star": "33"
+    "star": "29"
   },
   {
     "title": "iam-abbas/Reddit-Stock-Trends",
     "url": "https://github.com/iam-abbas/Reddit-Stock-Trends",
     "description": "Fetch currently trending stocks on Reddit",
     "language": "Python",
-    "star": "193"
+    "star": "229"
   },
   {
     "title": "Azure/azure-rest-api-specs",
@@ -32,21 +32,21 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "240"
+    "star": "248"
   },
   {
     "title": "JonnyBurger/remotion",
     "url": "https://github.com/JonnyBurger/remotion",
     "description": "🎥 Create videos programmatically in React",
     "language": "TypeScript",
-    "star": "1"
+    "star": "996"
   },
   {
     "title": "hashicorp/vault",
     "url": "https://github.com/hashicorp/vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "226"
+    "star": "235"
   },
   {
     "title": "aws/amazon-sagemaker-examples",
@@ -60,21 +60,21 @@
     "url": "https://github.com/felixge/go-profiler-notes",
     "description": "My notes on the various go profiling methods that are available.",
     "language": "Jupyter Notebook",
-    "star": "41"
+    "star": "40"
   },
   {
     "title": "JonnyBurger/remotion-trailer",
     "url": "https://github.com/JonnyBurger/remotion-trailer",
     "description": "A video written in React",
     "language": "TypeScript",
-    "star": "220"
+    "star": "216"
   },
   {
     "title": "mozilla-mobile/firefox-ios",
     "url": "https://github.com/mozilla-mobile/firefox-ios",
     "description": "Firefox for iOS",
     "language": "Swift",
-    "star": "28"
+    "star": "29"
   },
   {
     "title": "Azure/azure-powershell",
@@ -88,7 +88,7 @@
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "124"
+    "star": "109"
   },
   {
     "title": "excalidraw/excalidraw",
@@ -109,7 +109,7 @@
     "url": "https://github.com/streamich/react-use",
     "description": "React Hooks — 👍",
     "language": "TypeScript",
-    "star": "61"
+    "star": "60"
   },
   {
     "title": "hashicorp/terraform-provider-aws",
@@ -123,14 +123,14 @@
     "url": "https://github.com/jomjol/AI-on-the-edge-device",
     "description": "",
     "language": "C++",
-    "star": "84"
+    "star": "75"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (February 2021)",
     "language": "JavaScript",
-    "star": "213"
+    "star": "177"
   },
   {
     "title": "Seagate/cortx",
@@ -144,14 +144,14 @@
     "url": "https://github.com/reed-hong/awesome-libra",
     "description": "A Curated List of Awesome Facebook Libra Resources",
     "language": "none",
-    "star": "217"
+    "star": "232"
   },
   {
     "title": "inancgumus/learngo",
     "url": "https://github.com/inancgumus/learngo",
     "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
     "language": "Go",
-    "star": "103"
+    "star": "98"
   },
   {
     "title": "swisskyrepo/PayloadsAllTheThings",
@@ -165,7 +165,7 @@
     "url": "https://github.com/EvotecIT/GPOZaurr",
     "description": "Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.",
     "language": "PowerShell",
-    "star": "9"
+    "star": "10"
   },
   {
     "title": "flybywiresim/a32nx",
