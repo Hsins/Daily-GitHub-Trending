@@ -1,0 +1,177 @@
+[
+  {
+    "title": "conwnet/github1s",
+    "url": "https://github.com/conwnet/github1s",
+    "description": "One second to read GitHub code with VS Code.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "131"
+  },
+  {
+    "title": "iam-abbas/Reddit-Stock-Trends",
+    "url": "https://github.com/iam-abbas/Reddit-Stock-Trends",
+    "description": "Fetch currently trending stocks on Reddit",
+    "language": "Python",
+    "star": "181"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "language": "TypeScript",
+    "star": "13"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "327"
+  },
+  {
+    "title": "JonnyBurger/remotion",
+    "url": "https://github.com/JonnyBurger/remotion",
+    "description": "🎥 Create videos programmatically in React",
+    "language": "TypeScript",
+    "star": "540"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "187"
+  },
+  {
+    "title": "aws/amazon-sagemaker-examples",
+    "url": "https://github.com/aws/amazon-sagemaker-examples",
+    "description": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+    "language": "Jupyter Notebook",
+    "star": "78"
+  },
+  {
+    "title": "DataDog/go-profiler-notes",
+    "url": "https://github.com/DataDog/go-profiler-notes",
+    "description": "My notes on the various go profiling methods that are available.",
+    "language": "Jupyter Notebook",
+    "star": "38"
+  },
+  {
+    "title": "JonnyBurger/remotion-trailer",
+    "url": "https://github.com/JonnyBurger/remotion-trailer",
+    "description": "A video written in React",
+    "language": "TypeScript",
+    "star": "91"
+  },
+  {
+    "title": "mozilla-mobile/firefox-ios",
+    "url": "https://github.com/mozilla-mobile/firefox-ios",
+    "description": "Firefox for iOS",
+    "language": "Swift",
+    "star": "79"
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "description": "Microsoft Azure PowerShell",
+    "language": "C#",
+    "star": "17"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "TypeScript",
+    "star": "263"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "language": "TypeScript",
+    "star": "79"
+  },
+  {
+    "title": "engindemirog/KampFinalProject",
+    "url": "https://github.com/engindemirog/KampFinalProject",
+    "description": "Yazılım Geliştirici Yetiştirme Kampı Büyük Proje",
+    "language": "C#",
+    "star": "32"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "star": "107"
+  },
+  {
+    "title": "hashicorp/terraform-provider-aws",
+    "url": "https://github.com/hashicorp/terraform-provider-aws",
+    "description": "Terraform AWS provider",
+    "language": "Go",
+    "star": "27"
+  },
+  {
+    "title": "jomjol/AI-on-the-edge-device",
+    "url": "https://github.com/jomjol/AI-on-the-edge-device",
+    "description": "",
+    "language": "C++",
+    "star": "64"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (February 2021)",
+    "language": "JavaScript",
+    "star": "137"
+  },
+  {
+    "title": "Seagate/cortx",
+    "url": "https://github.com/Seagate/cortx",
+    "description": "CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.",
+    "language": "Jupyter Notebook",
+    "star": "21"
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "description": "A Curated List of Awesome Facebook Libra Resources",
+    "language": "none",
+    "star": "209"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "star": "53"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "star": "83"
+  },
+  {
+    "title": "EvotecIT/GPOZaurr",
+    "url": "https://github.com/EvotecIT/GPOZaurr",
+    "description": "Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.",
+    "language": "PowerShell",
+    "star": "23"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "language": "JavaScript",
+    "star": "98"
+  }
+]
