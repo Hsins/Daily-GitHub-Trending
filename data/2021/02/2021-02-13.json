@@ -1,0 +1,177 @@
+[
+  {
+    "title": "libsdl-org/SDL",
+    "url": "https://github.com/libsdl-org/SDL",
+    "description": "Simple Directmedia Layer",
+    "language": "C",
+    "star": "93"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "PowerShell",
+    "star": "98"
+  },
+  {
+    "title": "system76/launch",
+    "url": "https://github.com/system76/launch",
+    "description": "System76 Launch Configurable Keyboard",
+    "language": "Shell",
+    "star": "173"
+  },
+  {
+    "title": "benbjohnson/litestream",
+    "url": "https://github.com/benbjohnson/litestream",
+    "description": "Streaming S3 replication for SQLite.",
+    "language": "Go",
+    "star": "475"
+  },
+  {
+    "title": "mbround18/valheim-docker",
+    "url": "https://github.com/mbround18/valheim-docker",
+    "description": "Valheim Docker server with Odin the CLI tool.",
+    "language": "Rust",
+    "star": "20"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "language": "Jupyter Notebook",
+    "star": "144"
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "description": "What the f*ck Python? 😱",
+    "language": "Python",
+    "star": "285"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "star": "58"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "description": "🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps",
+    "language": "Swift",
+    "star": "94"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "24"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "73"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "301"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "star": "105"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "language": "TypeScript",
+    "star": "61"
+  },
+  {
+    "title": "adityatelange/hugo-PaperMod",
+    "url": "https://github.com/adityatelange/hugo-PaperMod",
+    "description": "A fast, clean, responsive Hugo theme",
+    "language": "HTML",
+    "star": "19"
+  },
+  {
+    "title": "reactend/reactend-express",
+    "url": "https://github.com/reactend/reactend-express",
+    "description": "React renderer to build Node.js server",
+    "language": "JavaScript",
+    "star": "43"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "language": "JavaScript",
+    "star": "190"
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData",
+    "description": "Repository containing the game data for the game Genshin Impact.",
+    "language": "none",
+    "star": "13"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "149"
+  },
+  {
+    "title": "abhishekkrthakur/colabcode",
+    "url": "https://github.com/abhishekkrthakur/colabcode",
+    "description": "Run VSCode (codeserver) on Google Colab or Kaggle Notebooks",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "florisboard/florisboard",
+    "url": "https://github.com/florisboard/florisboard",
+    "description": "An open-source keyboard for Android. Currently in alpha/early-beta stage.",
+    "language": "Kotlin",
+    "star": "9"
+  },
+  {
+    "title": "goreleaser/goreleaser",
+    "url": "https://github.com/goreleaser/goreleaser",
+    "description": "Deliver Go binaries as fast and easily as possible",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "87"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "language": "C#",
+    "star": "21"
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "description": "A Curated List of Awesome Facebook Libra Resources",
+    "language": "none",
+    "star": "262"
+  }
+]
