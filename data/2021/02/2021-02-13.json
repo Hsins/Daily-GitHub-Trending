@@ -11,21 +11,21 @@
     "url": "https://github.com/Azure/azure-quickstart-templates",
     "description": "Azure Quickstart Templates",
     "language": "PowerShell",
-    "star": "98"
+    "star": "102"
   },
   {
     "title": "system76/launch",
     "url": "https://github.com/system76/launch",
     "description": "System76 Launch Configurable Keyboard",
     "language": "Shell",
-    "star": "173"
+    "star": "171"
   },
   {
     "title": "benbjohnson/litestream",
     "url": "https://github.com/benbjohnson/litestream",
     "description": "Streaming S3 replication for SQLite.",
     "language": "Go",
-    "star": "475"
+    "star": "476"
   },
   {
     "title": "mbround18/valheim-docker",
@@ -46,14 +46,14 @@
     "url": "https://github.com/satwikkansal/wtfpython",
     "description": "What the f*ck Python? 😱",
     "language": "Python",
-    "star": "285"
+    "star": "488"
   },
   {
     "title": "vlang/v",
     "url": "https://github.com/vlang/v",
     "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
     "language": "V",
-    "star": "58"
+    "star": "59"
   },
   {
     "title": "serhii-londar/open-source-mac-os-apps",
@@ -67,7 +67,7 @@
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "24"
+    "star": "29"
   },
   {
     "title": "ossu/computer-science",
@@ -81,7 +81,7 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "301"
+    "star": "466"
   },
   {
     "title": "streamich/react-use",
@@ -95,7 +95,7 @@
     "url": "https://github.com/Azure/azure-rest-api-specs",
     "description": "The source for REST API specifications for Microsoft Azure.",
     "language": "TypeScript",
-    "star": "61"
+    "star": "65"
   },
   {
     "title": "adityatelange/hugo-PaperMod",
@@ -116,7 +116,7 @@
     "url": "https://github.com/flybywiresim/a32nx",
     "description": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
     "language": "JavaScript",
-    "star": "190"
+    "star": "218"
   },
   {
     "title": "Dimbreath/GenshinData",
@@ -130,7 +130,7 @@
     "url": "https://github.com/hashicorp/vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "149"
+    "star": "158"
   },
   {
     "title": "abhishekkrthakur/colabcode",
@@ -158,7 +158,7 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "87"
+    "star": "95"
   },
   {
     "title": "dotnet/aspnetcore",
