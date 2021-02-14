@@ -18,7 +18,7 @@
     "url": "https://github.com/flameshot-org/flameshot",
     "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
     "language": "C++",
-    "star": "780"
+    "star": "706"
   },
   {
     "title": "ratfactor/ziglings",
@@ -39,28 +39,28 @@
     "url": "https://github.com/libsdl-org/SDL",
     "description": "Simple Directmedia Layer",
     "language": "C",
-    "star": "277"
+    "star": "243"
   },
   {
     "title": "satwikkansal/wtfpython",
     "url": "https://github.com/satwikkansal/wtfpython",
     "description": "What the f*ck Python? 😱",
     "language": "Python",
-    "star": "698"
+    "star": "701"
   },
   {
     "title": "mbround18/valheim-docker",
     "url": "https://github.com/mbround18/valheim-docker",
     "description": "Valheim Docker server with Odin the CLI tool.",
     "language": "Rust",
-    "star": "35"
+    "star": "74"
   },
   {
     "title": "deepmind/deepmind-research",
     "url": "https://github.com/deepmind/deepmind-research",
     "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
     "language": "Jupyter Notebook",
-    "star": "387"
+    "star": "273"
   },
   {
     "title": "TheAlgorithms/Java",
@@ -81,14 +81,14 @@
     "url": "https://github.com/skerkour/bloom",
     "description": "The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more",
     "language": "Rust",
-    "star": "197"
+    "star": "255"
   },
   {
     "title": "serhii-londar/open-source-mac-os-apps",
     "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
     "description": "🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps",
     "language": "Swift",
-    "star": "286"
+    "star": "135"
   },
   {
     "title": "PojavLauncherTeam/PojavLauncher_iOS",
@@ -109,14 +109,14 @@
     "url": "https://github.com/florisboard/florisboard",
     "description": "An open-source keyboard for Android. Currently in alpha/early-beta stage.",
     "language": "Kotlin",
-    "star": "36"
+    "star": "29"
   },
   {
     "title": "vlang/v",
     "url": "https://github.com/vlang/v",
     "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
     "language": "V",
-    "star": "222"
+    "star": "144"
   },
   {
     "title": "engindemirog/KampFinalProject",
@@ -158,7 +158,7 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "503"
+    "star": "499"
   },
   {
     "title": "loseys/BlackMamba",
@@ -172,6 +172,6 @@
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "99"
+    "star": "89"
   }
 ]
