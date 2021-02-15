@@ -11,28 +11,28 @@
     "url": "https://github.com/benawad/dogehouse",
     "description": "The home for voice conversations.",
     "language": "TypeScript",
-    "star": "382"
+    "star": "362"
   },
   {
     "title": "ratfactor/ziglings",
     "url": "https://github.com/ratfactor/ziglings",
     "description": "Learn the Zig programming language by fixing tiny broken programs.",
     "language": "Zig",
-    "star": "133"
+    "star": "130"
   },
   {
     "title": "bevyengine/bevy",
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "246"
+    "star": "229"
   },
   {
     "title": "adityatelange/hugo-PaperMod",
     "url": "https://github.com/adityatelange/hugo-PaperMod",
     "description": "A fast, clean, responsive Hugo theme",
     "language": "HTML",
-    "star": "235"
+    "star": "225"
   },
   {
     "title": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
@@ -53,7 +53,7 @@
     "url": "https://github.com/vlang/v",
     "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
     "language": "V",
-    "star": "146"
+    "star": "145"
   },
   {
     "title": "flameshot-org/flameshot",
@@ -67,21 +67,21 @@
     "url": "https://github.com/skerkour/bloom",
     "description": "The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more",
     "language": "Rust",
-    "star": "196"
+    "star": "201"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "306"
+    "star": "288"
   },
   {
     "title": "eriklindernoren/ML-From-Scratch",
     "url": "https://github.com/eriklindernoren/ML-From-Scratch",
     "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
     "language": "Python",
-    "star": "238"
+    "star": "237"
   },
   {
     "title": "SebLague/Chess-AI",
@@ -95,21 +95,21 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "198"
+    "star": "367"
   },
   {
     "title": "sorrycc/awesome-javascript",
     "url": "https://github.com/sorrycc/awesome-javascript",
     "description": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
     "language": "none",
-    "star": "118"
+    "star": "114"
   },
   {
     "title": "arslanbilal/git-cheat-sheet",
     "url": "https://github.com/arslanbilal/git-cheat-sheet",
     "description": "git and git flow cheat sheet",
     "language": "none",
-    "star": "186"
+    "star": "178"
   },
   {
     "title": "iluwatar/java-design-patterns",
@@ -130,7 +130,7 @@
     "url": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
     "description": "Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.",
     "language": "JavaScript",
-    "star": "106"
+    "star": "108"
   },
   {
     "title": "abhishekkrthakur/approachingalmost",
@@ -144,34 +144,34 @@
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "222"
+    "star": "139"
   },
   {
     "title": "TheAlgorithms/Java",
     "url": "https://github.com/TheAlgorithms/Java",
     "description": "All Algorithms implemented in Java",
     "language": "Java",
-    "star": "99"
+    "star": "97"
   },
   {
     "title": "deepfence/SecretScanner",
     "url": "https://github.com/deepfence/SecretScanner",
     "description": "Find secrets and passwords in container images and file systems",
     "language": "Go",
-    "star": "74"
+    "star": "79"
   },
   {
     "title": "orangetw/My-Presentation-Slides",
     "url": "https://github.com/orangetw/My-Presentation-Slides",
     "description": "Collections of Orange Tsai's public presentation slides.",
     "language": "none",
-    "star": "78"
+    "star": "79"
   },
   {
     "title": "akullpp/awesome-java",
     "url": "https://github.com/akullpp/awesome-java",
     "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
     "language": "none",
-    "star": "39"
+    "star": "38"
   }
 ]
