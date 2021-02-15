@@ -1,0 +1,177 @@
+[
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "description": "GTA III, Vice City",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "description": "The home for voice conversations.",
+    "language": "TypeScript",
+    "star": "382"
+  },
+  {
+    "title": "ratfactor/ziglings",
+    "url": "https://github.com/ratfactor/ziglings",
+    "description": "Learn the Zig programming language by fixing tiny broken programs.",
+    "language": "Zig",
+    "star": "133"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "246"
+  },
+  {
+    "title": "adityatelange/hugo-PaperMod",
+    "url": "https://github.com/adityatelange/hugo-PaperMod",
+    "description": "A fast, clean, responsive Hugo theme",
+    "language": "HTML",
+    "star": "235"
+  },
+  {
+    "title": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "description": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
+    "language": "JavaScript",
+    "star": "230"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "star": "23"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "star": "146"
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "language": "C++",
+    "star": "445"
+  },
+  {
+    "title": "skerkour/bloom",
+    "url": "https://github.com/skerkour/bloom",
+    "description": "The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more",
+    "language": "Rust",
+    "star": "196"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "306"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "language": "Python",
+    "star": "238"
+  },
+  {
+    "title": "SebLague/Chess-AI",
+    "url": "https://github.com/SebLague/Chess-AI",
+    "description": "",
+    "language": "C#",
+    "star": "27"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "198"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "description": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+    "language": "none",
+    "star": "118"
+  },
+  {
+    "title": "arslanbilal/git-cheat-sheet",
+    "url": "https://github.com/arslanbilal/git-cheat-sheet",
+    "description": "git and git flow cheat sheet",
+    "language": "none",
+    "star": "186"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "70"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "star": "36"
+  },
+  {
+    "title": "dolevf/Damn-Vulnerable-GraphQL-Application",
+    "url": "https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application",
+    "description": "Damn Vulnerable GraphQL Application is an intentionally vulnerable implementation of Facebook's GraphQL technology, to learn and practice GraphQL Security.",
+    "language": "JavaScript",
+    "star": "106"
+  },
+  {
+    "title": "abhishekkrthakur/approachingalmost",
+    "url": "https://github.com/abhishekkrthakur/approachingalmost",
+    "description": "Approaching (Almost) Any Machine Learning Problem",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "222"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "99"
+  },
+  {
+    "title": "deepfence/SecretScanner",
+    "url": "https://github.com/deepfence/SecretScanner",
+    "description": "Find secrets and passwords in container images and file systems",
+    "language": "Go",
+    "star": "74"
+  },
+  {
+    "title": "orangetw/My-Presentation-Slides",
+    "url": "https://github.com/orangetw/My-Presentation-Slides",
+    "description": "Collections of Orange Tsai's public presentation slides.",
+    "language": "none",
+    "star": "78"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+    "language": "none",
+    "star": "39"
+  }
+]
