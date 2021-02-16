@@ -11,7 +11,7 @@
     "url": "https://github.com/rand-net/khan-dl",
     "description": "Download courses from khanacademy.org",
     "language": "Python",
-    "star": "147"
+    "star": "148"
   },
   {
     "title": "TeamNewPipe/NewPipe",
@@ -32,7 +32,7 @@
     "url": "https://github.com/deepmind/deepmind-research",
     "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
     "language": "Jupyter Notebook",
-    "star": "88"
+    "star": "81"
   },
   {
     "title": "MarlinFirmware/Marlin",
@@ -46,21 +46,21 @@
     "url": "https://github.com/TheAlgorithms/Java",
     "description": "All Algorithms implemented in Java",
     "language": "Java",
-    "star": "139"
+    "star": "140"
   },
   {
     "title": "OWASP/CheatSheetSeries",
     "url": "https://github.com/OWASP/CheatSheetSeries",
     "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
     "language": "Python",
-    "star": "156"
+    "star": "158"
   },
   {
     "title": "deepfence/SecretScanner",
     "url": "https://github.com/deepfence/SecretScanner",
     "description": "Find secrets and passwords in container images and file systems",
     "language": "Go",
-    "star": "237"
+    "star": "251"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
@@ -74,21 +74,21 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2021",
     "language": "none",
-    "star": "140"
+    "star": "117"
   },
   {
     "title": "benawad/dogehouse",
     "url": "https://github.com/benawad/dogehouse",
     "description": "The home for voice conversations.",
     "language": "TypeScript",
-    "star": "228"
+    "star": "205"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "160"
+    "star": "133"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
@@ -102,14 +102,14 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "47"
+    "star": "32"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "340"
+    "star": "335"
   },
   {
     "title": "aaronwangy/Data-Science-Cheatsheet",
@@ -123,7 +123,7 @@
     "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
     "description": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
     "language": "JavaScript",
-    "star": "147"
+    "star": "149"
   },
   {
     "title": "ant-design/ant-design-pro",
@@ -137,14 +137,14 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "49"
+    "star": "53"
   },
   {
     "title": "skerkour/bloom",
     "url": "https://github.com/skerkour/bloom",
     "description": "The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more",
     "language": "Rust",
-    "star": "207"
+    "star": "202"
   },
   {
     "title": "kenwheeler/slick",
@@ -158,14 +158,14 @@
     "url": "https://github.com/edeng23/binance-trade-bot",
     "description": "Automated cryptocurrency trading bot",
     "language": "Python",
-    "star": "22"
+    "star": "35"
   },
   {
     "title": "eriklindernoren/ML-From-Scratch",
     "url": "https://github.com/eriklindernoren/ML-From-Scratch",
     "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
     "language": "Python",
-    "star": "84"
+    "star": "81"
   },
   {
     "title": "trekhleb/javascript-algorithms",
