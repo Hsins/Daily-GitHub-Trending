@@ -1,0 +1,177 @@
+[
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "description": "GTA III, Vice City",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "rand-net/khan-dl",
+    "url": "https://github.com/rand-net/khan-dl",
+    "description": "Download courses from khanacademy.org",
+    "language": "Python",
+    "star": "147"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "23"
+  },
+  {
+    "title": "kubernetes/website",
+    "url": "https://github.com/kubernetes/website",
+    "description": "Kubernetes website and documentation repo:",
+    "language": "HTML",
+    "star": "6"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "language": "Jupyter Notebook",
+    "star": "88"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "star": "57"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "139"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "language": "Python",
+    "star": "156"
+  },
+  {
+    "title": "deepfence/SecretScanner",
+    "url": "https://github.com/deepfence/SecretScanner",
+    "description": "Find secrets and passwords in container images and file systems",
+    "language": "Go",
+    "star": "237"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "star": "114"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "none",
+    "star": "140"
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "description": "The home for voice conversations.",
+    "language": "TypeScript",
+    "star": "228"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "160"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "47"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "340"
+  },
+  {
+    "title": "aaronwangy/Data-Science-Cheatsheet",
+    "url": "https://github.com/aaronwangy/Data-Science-Cheatsheet",
+    "description": "A helpful 4-page data science cheatsheet to assist with exam reviews, interview prep, and anything in-between.",
+    "language": "TeX",
+    "star": "115"
+  },
+  {
+    "title": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "description": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
+    "language": "JavaScript",
+    "star": "147"
+  },
+  {
+    "title": "ant-design/ant-design-pro",
+    "url": "https://github.com/ant-design/ant-design-pro",
+    "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "49"
+  },
+  {
+    "title": "skerkour/bloom",
+    "url": "https://github.com/skerkour/bloom",
+    "description": "The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more",
+    "language": "Rust",
+    "star": "207"
+  },
+  {
+    "title": "kenwheeler/slick",
+    "url": "https://github.com/kenwheeler/slick",
+    "description": "the last carousel you'll ever need",
+    "language": "JavaScript",
+    "star": "6"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "description": "Automated cryptocurrency trading bot",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "language": "Python",
+    "star": "84"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "113"
+  }
+]
