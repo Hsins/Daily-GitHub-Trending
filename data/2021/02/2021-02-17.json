@@ -4,21 +4,21 @@
     "url": "https://github.com/GTAmodding/re3",
     "description": "GTA III, Vice City",
     "language": "C++",
-    "star": "852"
+    "star": "841"
   },
   {
     "title": "willmcgugan/rich",
     "url": "https://github.com/willmcgugan/rich",
     "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
     "language": "Python",
-    "star": "747"
+    "star": "389"
   },
   {
     "title": "edeng23/binance-trade-bot",
     "url": "https://github.com/edeng23/binance-trade-bot",
     "description": "Automated cryptocurrency trading bot",
     "language": "Python",
-    "star": "113"
+    "star": "117"
   },
   {
     "title": "nodejs/undici",
@@ -32,7 +32,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "223"
+    "star": "149"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
@@ -46,7 +46,7 @@
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "description": "⭐️ Companies that don't have a broken hiring process",
     "language": "JavaScript",
-    "star": "190"
+    "star": "179"
   },
   {
     "title": "CoatiSoftware/Sourcetrail",
@@ -60,7 +60,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "228"
+    "star": "301"
   },
   {
     "title": "orpatashnik/StyleCLIP",
@@ -81,21 +81,21 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2021",
     "language": "none",
-    "star": "228"
+    "star": "299"
   },
   {
     "title": "thedaviddias/Front-End-Checklist",
     "url": "https://github.com/thedaviddias/Front-End-Checklist",
     "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
     "language": "none",
-    "star": "85"
+    "star": "86"
   },
   {
     "title": "surfcodes/surf",
     "url": "https://github.com/surfcodes/surf",
     "description": "surf GitHub code with VS Code. (with CLI, chrome extensions)",
     "language": "TypeScript",
-    "star": "118"
+    "star": "119"
   },
   {
     "title": "ossu/computer-science",
@@ -109,14 +109,14 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "177"
+    "star": "279"
   },
   {
     "title": "deepfence/SecretScanner",
     "url": "https://github.com/deepfence/SecretScanner",
     "description": "Find secrets and passwords in container images and file systems",
     "language": "Go",
-    "star": "220"
+    "star": "205"
   },
   {
     "title": "BlackOtton/RedStar-Media",
@@ -130,14 +130,14 @@
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "134"
+    "star": "139"
   },
   {
     "title": "activeloopai/Hub",
     "url": "https://github.com/activeloopai/Hub",
     "description": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
     "language": "Python",
-    "star": "74"
+    "star": "75"
   },
   {
     "title": "open-guides/og-aws",
@@ -158,7 +158,7 @@
     "url": "https://github.com/aaronwangy/Data-Science-Cheatsheet",
     "description": "A helpful 4-page data science cheatsheet to assist with exam reviews, interview prep, and anything in-between.",
     "language": "TeX",
-    "star": "182"
+    "star": "214"
   },
   {
     "title": "huiyadanli/RevokeMsgPatcher",
