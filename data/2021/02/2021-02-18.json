@@ -4,28 +4,28 @@
     "url": "https://github.com/edeng23/binance-trade-bot",
     "description": "Automated cryptocurrency trading bot",
     "language": "Python",
-    "star": "225"
+    "star": "220"
   },
   {
     "title": "activeloopai/Hub",
     "url": "https://github.com/activeloopai/Hub",
     "description": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
     "language": "Python",
-    "star": "154"
+    "star": "164"
   },
   {
     "title": "Bugswriter/tuxi",
     "url": "https://github.com/Bugswriter/tuxi",
     "description": "Tuxi is a cli assistant. Get answers of your questions instantly.",
     "language": "Shell",
-    "star": "86"
+    "star": "95"
   },
   {
     "title": "surfcodes/surf",
     "url": "https://github.com/surfcodes/surf",
     "description": "surf GitHub code with VS Code. (with CLI, chrome extensions)",
     "language": "TypeScript",
-    "star": "255"
+    "star": "252"
   },
   {
     "title": "salesforce/cloudsplaining",
@@ -39,7 +39,7 @@
     "url": "https://github.com/willmcgugan/rich",
     "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
     "language": "Python",
-    "star": "405"
+    "star": "376"
   },
   {
     "title": "davidfowl/DotNetCodingPatterns",
@@ -60,7 +60,7 @@
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "description": "⭐️ Companies that don't have a broken hiring process",
     "language": "JavaScript",
-    "star": "246"
+    "star": "240"
   },
   {
     "title": "VITA-Group/TransGAN",
@@ -74,14 +74,14 @@
     "url": "https://github.com/nodejs/undici",
     "description": "An HTTP/1.1 client, written from scratch for Node.js",
     "language": "JavaScript",
-    "star": "98"
+    "star": "105"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "248"
+    "star": "253"
   },
   {
     "title": "dapr/dapr",
@@ -95,7 +95,7 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "284"
+    "star": "281"
   },
   {
     "title": "beurtschipper/Depix",
@@ -116,14 +116,14 @@
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
     "language": "Java",
-    "star": "95"
+    "star": "94"
   },
   {
     "title": "thedaviddias/Front-End-Checklist",
     "url": "https://github.com/thedaviddias/Front-End-Checklist",
     "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
     "language": "none",
-    "star": "213"
+    "star": "245"
   },
   {
     "title": "mitmath/18S191",
@@ -144,14 +144,14 @@
     "url": "https://github.com/CoatiSoftware/Sourcetrail",
     "description": "Sourcetrail - free and open-source interactive source explorer",
     "language": "C++",
-    "star": "173"
+    "star": "154"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "349"
+    "star": "356"
   },
   {
     "title": "dani-garcia/bitwarden_rs",
@@ -165,13 +165,13 @@
     "url": "https://github.com/ant-design/ant-design",
     "description": "🌈 A UI Design Language and React UI library",
     "language": "TypeScript",
-    "star": "398"
+    "star": "728"
   },
   {
     "title": "evanw/esbuild",
     "url": "https://github.com/evanw/esbuild",
     "description": "An extremely fast JavaScript bundler and minifier",
     "language": "Go",
-    "star": "152"
+    "star": "146"
   }
 ]
