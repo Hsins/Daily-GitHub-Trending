@@ -1,0 +1,170 @@
+[
+  {
+    "title": "stypr/clubhouse-py",
+    "url": "https://github.com/stypr/clubhouse-py",
+    "description": "Clubhouse API written in Python. Standalone client included. For reference and education purposes only.",
+    "language": "Python",
+    "star": "94"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "🌈 A UI Design Language and React UI library",
+    "language": "TypeScript",
+    "star": "800"
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "language": "Go",
+    "star": "332"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "language": "JavaScript",
+    "star": "89"
+  },
+  {
+    "title": "surfcodes/surf",
+    "url": "https://github.com/surfcodes/surf",
+    "description": "🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)",
+    "language": "TypeScript",
+    "star": "452"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "94"
+  },
+  {
+    "title": "elixir-nx/nx",
+    "url": "https://github.com/elixir-nx/nx",
+    "description": "Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU",
+    "language": "Elixir",
+    "star": "142"
+  },
+  {
+    "title": "nodejs/undici",
+    "url": "https://github.com/nodejs/undici",
+    "description": "An HTTP/1.1 client, written from scratch for Node.js",
+    "language": "JavaScript",
+    "star": "174"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "language": "TypeScript",
+    "star": "207"
+  },
+  {
+    "title": "dani-garcia/bitwarden_rs",
+    "url": "https://github.com/dani-garcia/bitwarden_rs",
+    "description": "Unofficial Bitwarden compatible server written in Rust",
+    "language": "JavaScript",
+    "star": "160"
+  },
+  {
+    "title": "activeloopai/Hub",
+    "url": "https://github.com/activeloopai/Hub",
+    "description": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
+    "language": "Python",
+    "star": "247"
+  },
+  {
+    "title": "zhangdaiscott/jeecg-boot",
+    "url": "https://github.com/zhangdaiscott/jeecg-boot",
+    "description": "基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新低代码开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。",
+    "language": "Java",
+    "star": "47"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "100"
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "description": "Roadmap to becoming a data engineer in 2021",
+    "language": "none",
+    "star": "150"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "description": "Automated cryptocurrency trading bot",
+    "language": "Python",
+    "star": "272"
+  },
+  {
+    "title": "TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection",
+    "url": "https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection",
+    "description": "The ultimate collection of scripts for YouTube-DL.",
+    "language": "Shell",
+    "star": "78"
+  },
+  {
+    "title": "raycast/script-commands",
+    "url": "https://github.com/raycast/script-commands",
+    "description": "Script Commands lets you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.",
+    "language": "Shell",
+    "star": "37"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "description": "编程电子书下载，电子书下载，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "language": "none",
+    "star": "85"
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "description": "Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:",
+    "language": "Julia",
+    "star": "48"
+  },
+  {
+    "title": "Azure/bicep",
+    "url": "https://github.com/Azure/bicep",
+    "description": "Bicep is a declarative language for describing and deploying Azure resources",
+    "language": "C#",
+    "star": "10"
+  },
+  {
+    "title": "Bugswriter/tuxi",
+    "url": "https://github.com/Bugswriter/tuxi",
+    "description": "Tuxi is a cli assistant. Get answers of your questions instantly.",
+    "language": "Shell",
+    "star": "140"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "language": "Java",
+    "star": "122"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "247"
+  },
+  {
+    "title": "pavlobu/deskreen",
+    "url": "https://github.com/pavlobu/deskreen",
+    "description": "Deskreen turns any device with a web browser into a secondary screen for your computer",
+    "language": "TypeScript",
+    "star": "136"
+  }
+]
