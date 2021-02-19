@@ -11,14 +11,14 @@
     "url": "https://github.com/ant-design/ant-design",
     "description": "🌈 A UI Design Language and React UI library",
     "language": "TypeScript",
-    "star": "800"
+    "star": "826"
   },
   {
     "title": "dapr/dapr",
     "url": "https://github.com/dapr/dapr",
     "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
     "language": "Go",
-    "star": "332"
+    "star": "341"
   },
   {
     "title": "scutan90/DeepLearning-500-questions",
@@ -32,7 +32,7 @@
     "url": "https://github.com/surfcodes/surf",
     "description": "🏄‍♂️ Surf GitHub code with VS Code. (with CLI, chrome extensions, also works for Gitlab)",
     "language": "TypeScript",
-    "star": "452"
+    "star": "458"
   },
   {
     "title": "Snailclimb/JavaGuide",
@@ -46,42 +46,42 @@
     "url": "https://github.com/elixir-nx/nx",
     "description": "Numerical Elixir and Elixir XLA bindings for CPU/GPU/TPU",
     "language": "Elixir",
-    "star": "142"
+    "star": "141"
   },
   {
     "title": "nodejs/undici",
     "url": "https://github.com/nodejs/undici",
     "description": "An HTTP/1.1 client, written from scratch for Node.js",
     "language": "JavaScript",
-    "star": "174"
+    "star": "191"
   },
   {
     "title": "vitejs/vite",
     "url": "https://github.com/vitejs/vite",
     "description": "Next generation frontend tooling. It's fast!",
     "language": "TypeScript",
-    "star": "207"
+    "star": "208"
   },
   {
     "title": "dani-garcia/bitwarden_rs",
     "url": "https://github.com/dani-garcia/bitwarden_rs",
     "description": "Unofficial Bitwarden compatible server written in Rust",
     "language": "JavaScript",
-    "star": "160"
+    "star": "156"
   },
   {
     "title": "activeloopai/Hub",
     "url": "https://github.com/activeloopai/Hub",
     "description": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
     "language": "Python",
-    "star": "247"
+    "star": "250"
   },
   {
     "title": "zhangdaiscott/jeecg-boot",
     "url": "https://github.com/zhangdaiscott/jeecg-boot",
     "description": "基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新低代码开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。",
     "language": "Java",
-    "star": "47"
+    "star": "46"
   },
   {
     "title": "labuladong/fucking-algorithm",
@@ -95,21 +95,21 @@
     "url": "https://github.com/datastacktv/data-engineer-roadmap",
     "description": "Roadmap to becoming a data engineer in 2021",
     "language": "none",
-    "star": "150"
+    "star": "151"
   },
   {
     "title": "edeng23/binance-trade-bot",
     "url": "https://github.com/edeng23/binance-trade-bot",
     "description": "Automated cryptocurrency trading bot",
     "language": "Python",
-    "star": "272"
+    "star": "279"
   },
   {
     "title": "TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection",
     "url": "https://github.com/TheFrenchGhosty/TheFrenchGhostys-Ultimate-YouTube-DL-Scripts-Collection",
     "description": "The ultimate collection of scripts for YouTube-DL.",
     "language": "Shell",
-    "star": "78"
+    "star": "81"
   },
   {
     "title": "raycast/script-commands",
@@ -130,7 +130,7 @@
     "url": "https://github.com/mitmath/18S191",
     "description": "Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:",
     "language": "Julia",
-    "star": "48"
+    "star": "59"
   },
   {
     "title": "Azure/bicep",
@@ -144,21 +144,21 @@
     "url": "https://github.com/Bugswriter/tuxi",
     "description": "Tuxi is a cli assistant. Get answers of your questions instantly.",
     "language": "Shell",
-    "star": "140"
+    "star": "156"
   },
   {
     "title": "CyC2018/CS-Notes",
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
     "language": "Java",
-    "star": "122"
+    "star": "126"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "247"
+    "star": "254"
   },
   {
     "title": "pavlobu/deskreen",
