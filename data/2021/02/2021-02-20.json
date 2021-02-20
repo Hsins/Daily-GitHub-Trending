@@ -11,49 +11,49 @@
     "url": "https://github.com/stypr/clubhouse-py",
     "description": "Clubhouse API written in Python. Standalone client included. For reference and education purposes only.",
     "language": "Python",
-    "star": "192"
+    "star": "188"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "124"
+    "star": "129"
   },
   {
     "title": "CyC2018/CS-Notes",
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
     "language": "Java",
-    "star": "188"
+    "star": "187"
   },
   {
     "title": "vuejs/vue-next",
     "url": "https://github.com/vuejs/vue-next",
     "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
     "language": "TypeScript",
-    "star": "30"
+    "star": "43"
   },
   {
     "title": "scutan90/DeepLearning-500-questions",
     "url": "https://github.com/scutan90/DeepLearning-500-questions",
     "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
     "language": "JavaScript",
-    "star": "108"
+    "star": "111"
   },
   {
     "title": "vitejs/vite",
     "url": "https://github.com/vitejs/vite",
     "description": "Next generation frontend tooling. It's fast!",
     "language": "TypeScript",
-    "star": "339"
+    "star": "373"
   },
   {
     "title": "activeloopai/Hub",
     "url": "https://github.com/activeloopai/Hub",
     "description": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
     "language": "Python",
-    "star": "276"
+    "star": "273"
   },
   {
     "title": "tauri-apps/tauri",
@@ -67,14 +67,14 @@
     "url": "https://github.com/dapr/dapr",
     "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
     "language": "Go",
-    "star": "503"
+    "star": "504"
   },
   {
     "title": "edeng23/binance-trade-bot",
     "url": "https://github.com/edeng23/binance-trade-bot",
     "description": "Automated cryptocurrency trading bot",
     "language": "Python",
-    "star": "278"
+    "star": "264"
   },
   {
     "title": "electron/electron",
@@ -88,7 +88,7 @@
     "url": "https://github.com/ant-design/ant-design",
     "description": "🌈 A UI Design Language and React UI library",
     "language": "TypeScript",
-    "star": "691"
+    "star": "683"
   },
   {
     "title": "nuxt/nuxt.js",
@@ -123,28 +123,28 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "87"
+    "star": "86"
   },
   {
     "title": "joaoh82/rust_sqlite",
     "url": "https://github.com/joaoh82/rust_sqlite",
     "description": "SQLite clone from scratch in Rust",
     "language": "Rust",
-    "star": "93"
+    "star": "83"
   },
   {
     "title": "pavlobu/deskreen",
     "url": "https://github.com/pavlobu/deskreen",
     "description": "Deskreen turns any device with a web browser into a secondary screen for your computer",
     "language": "TypeScript",
-    "star": "237"
+    "star": "273"
   },
   {
     "title": "datastacktv/data-engineer-roadmap",
     "url": "https://github.com/datastacktv/data-engineer-roadmap",
     "description": "Roadmap to becoming a data engineer in 2021",
     "language": "none",
-    "star": "291"
+    "star": "318"
   },
   {
     "title": "LaravelDaily/laravel-tips",
@@ -172,6 +172,6 @@
     "url": "https://github.com/xuxueli/xxl-job",
     "description": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
     "language": "Java",
-    "star": "33"
+    "star": "21"
   }
 ]
