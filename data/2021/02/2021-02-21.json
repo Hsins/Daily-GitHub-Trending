@@ -25,7 +25,7 @@
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "292"
+    "star": "293"
   },
   {
     "title": "ai-eks/OpenClubhouse",
@@ -39,14 +39,14 @@
     "url": "https://github.com/activeloopai/Hub",
     "description": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
     "language": "Python",
-    "star": "400"
+    "star": "402"
   },
   {
     "title": "electron/electron",
     "url": "https://github.com/electron/electron",
     "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
     "language": "C++",
-    "star": "164"
+    "star": "185"
   },
   {
     "title": "mrdoob/three.js",
@@ -60,21 +60,21 @@
     "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
     "description": "Mostly adequate guide to FP (in javascript)",
     "language": "JavaScript",
-    "star": "61"
+    "star": "58"
   },
   {
     "title": "dapr/dapr",
     "url": "https://github.com/dapr/dapr",
     "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
     "language": "Go",
-    "star": "677"
+    "star": "685"
   },
   {
     "title": "edeng23/binance-trade-bot",
     "url": "https://github.com/edeng23/binance-trade-bot",
     "description": "Automated cryptocurrency trading bot",
     "language": "Python",
-    "star": "355"
+    "star": "211"
   },
   {
     "title": "cobaltdisco/Google-Chinese-Results-Blocklist",
@@ -88,21 +88,21 @@
     "url": "https://github.com/pavlobu/deskreen",
     "description": "Deskreen turns any device with a web browser into a secondary screen for your computer",
     "language": "TypeScript",
-    "star": "540"
+    "star": "467"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "184"
+    "star": "175"
   },
   {
     "title": "chrislgarry/Apollo-11",
     "url": "https://github.com/chrislgarry/Apollo-11",
     "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
     "language": "Assembly",
-    "star": "105"
+    "star": "106"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
@@ -116,21 +116,21 @@
     "url": "https://github.com/mrcodedev/frontend-developer-resources",
     "description": "Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos",
     "language": "none",
-    "star": "252"
+    "star": "255"
   },
   {
     "title": "vitejs/vite",
     "url": "https://github.com/vitejs/vite",
     "description": "Next generation frontend tooling. It's fast!",
     "language": "TypeScript",
-    "star": "716"
+    "star": "530"
   },
   {
     "title": "davidcallanan/os-series",
     "url": "https://github.com/davidcallanan/os-series",
     "description": "",
     "language": "Assembly",
-    "star": "25"
+    "star": "26"
   },
   {
     "title": "zhangdaiscott/jeecg-boot",
@@ -144,7 +144,7 @@
     "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
     "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
     "language": "Python",
-    "star": "98"
+    "star": "100"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
@@ -165,7 +165,7 @@
     "url": "https://github.com/scutan90/DeepLearning-500-questions",
     "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
     "language": "JavaScript",
-    "star": "324"
+    "star": "329"
   },
   {
     "title": "data-science-on-aws/workshop",
