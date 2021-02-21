@@ -1,0 +1,177 @@
+[
+  {
+    "title": "nasa/fprime",
+    "url": "https://github.com/nasa/fprime",
+    "description": "F' - A flight software and embedded systems framework",
+    "language": "C++",
+    "star": "2"
+  },
+  {
+    "title": "stypr/clubhouse-py",
+    "url": "https://github.com/stypr/clubhouse-py",
+    "description": "Clubhouse API written in Python. Standalone client included. For reference and education purposes only.",
+    "language": "Python",
+    "star": "390"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "964"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "292"
+  },
+  {
+    "title": "ai-eks/OpenClubhouse",
+    "url": "https://github.com/ai-eks/OpenClubhouse",
+    "description": "A third-part web application based on flask to play Clubhouse audio.",
+    "language": "JavaScript",
+    "star": "194"
+  },
+  {
+    "title": "activeloopai/Hub",
+    "url": "https://github.com/activeloopai/Hub",
+    "description": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
+    "language": "Python",
+    "star": "400"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "language": "C++",
+    "star": "164"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D library.",
+    "language": "JavaScript",
+    "star": "44"
+  },
+  {
+    "title": "MostlyAdequate/mostly-adequate-guide",
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+    "description": "Mostly adequate guide to FP (in javascript)",
+    "language": "JavaScript",
+    "star": "61"
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "language": "Go",
+    "star": "677"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "description": "Automated cryptocurrency trading bot",
+    "language": "Python",
+    "star": "355"
+  },
+  {
+    "title": "cobaltdisco/Google-Chinese-Results-Blocklist",
+    "url": "https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist",
+    "description": "他妈的我终于能用谷歌搜中文了",
+    "language": "none",
+    "star": "197"
+  },
+  {
+    "title": "pavlobu/deskreen",
+    "url": "https://github.com/pavlobu/deskreen",
+    "description": "Deskreen turns any device with a web browser into a secondary screen for your computer",
+    "language": "TypeScript",
+    "star": "540"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "184"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "star": "105"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
+    "language": "JavaScript",
+    "star": "133"
+  },
+  {
+    "title": "mrcodedev/frontend-developer-resources",
+    "url": "https://github.com/mrcodedev/frontend-developer-resources",
+    "description": "Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos",
+    "language": "none",
+    "star": "252"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "language": "TypeScript",
+    "star": "716"
+  },
+  {
+    "title": "davidcallanan/os-series",
+    "url": "https://github.com/davidcallanan/os-series",
+    "description": "",
+    "language": "Assembly",
+    "star": "25"
+  },
+  {
+    "title": "zhangdaiscott/jeecg-boot",
+    "url": "https://github.com/zhangdaiscott/jeecg-boot",
+    "description": "基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新低代码开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。",
+    "language": "Java",
+    "star": "248"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "language": "Python",
+    "star": "98"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step by step guide to learn the Python programming language in 30 days. This challenge may take up to 100 days, follow your own pace.",
+    "language": "Python",
+    "star": "145"
+  },
+  {
+    "title": "FranckNdame/swiftui.builds",
+    "url": "https://github.com/FranckNdame/swiftui.builds",
+    "description": "building cool stuff with swiftui",
+    "language": "Swift",
+    "star": "64"
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "language": "JavaScript",
+    "star": "324"
+  },
+  {
+    "title": "data-science-on-aws/workshop",
+    "url": "https://github.com/data-science-on-aws/workshop",
+    "description": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker",
+    "language": "Jupyter Notebook",
+    "star": "43"
+  }
+]
