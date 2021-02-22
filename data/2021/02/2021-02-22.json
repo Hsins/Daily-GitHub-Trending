@@ -4,35 +4,35 @@
     "url": "https://github.com/ai-eks/OpenClubhouse",
     "description": "A third-part web application based on flask to play Clubhouse audio.",
     "language": "JavaScript",
-    "star": "296"
+    "star": "294"
   },
   {
     "title": "grishka/Houseclub",
     "url": "https://github.com/grishka/Houseclub",
     "description": "A barebones unofficial Android app for Clubhouse",
     "language": "Java",
-    "star": "337"
+    "star": "333"
   },
   {
     "title": "WerWolv/ImHex",
     "url": "https://github.com/WerWolv/ImHex",
     "description": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
     "language": "C++",
-    "star": "285"
+    "star": "271"
   },
   {
     "title": "Sairyss/domain-driven-hexagon",
     "url": "https://github.com/Sairyss/domain-driven-hexagon",
     "description": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
     "language": "TypeScript",
-    "star": "116"
+    "star": "115"
   },
   {
     "title": "MostlyAdequate/mostly-adequate-guide",
     "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
     "description": "Mostly adequate guide to FP (in javascript)",
     "language": "JavaScript",
-    "star": "105"
+    "star": "64"
   },
   {
     "title": "Seia-Soto/clubhouse-api",
@@ -46,7 +46,7 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "918"
+    "star": "840"
   },
   {
     "title": "jasontaylordev/CleanArchitecture",
@@ -88,14 +88,14 @@
     "url": "https://github.com/google/model_search",
     "description": "",
     "language": "Python",
-    "star": "488"
+    "star": "486"
   },
   {
     "title": "stypr/clubhouse-py",
     "url": "https://github.com/stypr/clubhouse-py",
     "description": "Clubhouse API written in Python. Standalone client included. For reference and education purposes only.",
     "language": "Python",
-    "star": "381"
+    "star": "324"
   },
   {
     "title": "justinamiller/DotNet-Coding-Guidelines",
@@ -123,21 +123,21 @@
     "url": "https://github.com/yongxinw/GSDT",
     "description": "Official PyTorch implementation of \"Joint Object Detection and Multi-Object Tracking with Graph Neural Networks\"",
     "language": "Python",
-    "star": "53"
+    "star": "50"
   },
   {
     "title": "avelino/awesome-go",
     "url": "https://github.com/avelino/awesome-go",
     "description": "A curated list of awesome Go frameworks, libraries and software",
     "language": "Go",
-    "star": "41"
+    "star": "54"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "178"
+    "star": "192"
   },
   {
     "title": "dogecoin/dogecoin",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "218"
+    "star": "201"
   },
   {
     "title": "Loyalsoldier/v2ray-rules-dat",
