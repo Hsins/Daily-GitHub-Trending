@@ -1,0 +1,177 @@
+[
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+    "language": "none",
+    "star": "269"
+  },
+  {
+    "title": "google/model_search",
+    "url": "https://github.com/google/model_search",
+    "description": "",
+    "language": "Python",
+    "star": "609"
+  },
+  {
+    "title": "ai-eks/OpenClubhouse",
+    "url": "https://github.com/ai-eks/OpenClubhouse",
+    "description": "A third-part web application based on flask to play Clubhouse audio.",
+    "language": "JavaScript",
+    "star": "271"
+  },
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "description": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "language": "C",
+    "star": "112"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "description": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "language": "TypeScript",
+    "star": "314"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "description": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "language": "C++",
+    "star": "541"
+  },
+  {
+    "title": "zhuowei/hipster.house",
+    "url": "https://github.com/zhuowei/hipster.house",
+    "description": "",
+    "language": "HTML",
+    "star": "16"
+  },
+  {
+    "title": "grishka/Houseclub",
+    "url": "https://github.com/grishka/Houseclub",
+    "description": "A barebones unofficial Android app for Clubhouse",
+    "language": "Java",
+    "star": "294"
+  },
+  {
+    "title": "dotnet-architecture/eShopOnDapr",
+    "url": "https://github.com/dotnet-architecture/eShopOnDapr",
+    "description": "A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.",
+    "language": "C#",
+    "star": "45"
+  },
+  {
+    "title": "ai-eks/OpenClubhouse-Worker",
+    "url": "https://github.com/ai-eks/OpenClubhouse-Worker",
+    "description": "A simple worker for OpenClubhouse to sync data.",
+    "language": "Python",
+    "star": "14"
+  },
+  {
+    "title": "davidcallanan/os-series",
+    "url": "https://github.com/davidcallanan/os-series",
+    "description": "",
+    "language": "Assembly",
+    "star": "17"
+  },
+  {
+    "title": "pystardust/ytfzf",
+    "url": "https://github.com/pystardust/ytfzf",
+    "description": "A posix script to find and watch youtube videos from the terminal. (With out API)",
+    "language": "Shell",
+    "star": "31"
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "description": "A list of engineering manager resource links.",
+    "language": "JavaScript",
+    "star": "160"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "description": "Comprehensive Python Cheatsheet",
+    "language": "Python",
+    "star": "159"
+  },
+  {
+    "title": "MostlyAdequate/mostly-adequate-guide",
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+    "description": "Mostly adequate guide to FP (in javascript)",
+    "language": "JavaScript",
+    "star": "199"
+  },
+  {
+    "title": "exadel-inc/CompreFace",
+    "url": "https://github.com/exadel-inc/CompreFace",
+    "description": "Free and open-source face recognition system from Exadel",
+    "language": "Python",
+    "star": "86"
+  },
+  {
+    "title": "Immediate-Mode-UI/Nuklear",
+    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
+    "description": "A single-header ANSI C immediate mode cross-platform GUI library",
+    "language": "C",
+    "star": "809"
+  },
+  {
+    "title": "therealsreehari/Learn-Data-Science-For-Free",
+    "url": "https://github.com/therealsreehari/Learn-Data-Science-For-Free",
+    "description": "This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in …",
+    "language": "none",
+    "star": "40"
+  },
+  {
+    "title": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "description": "A curated list of awesome Go frameworks, libraries and software",
+    "language": "Go",
+    "star": "161"
+  },
+  {
+    "title": "SuperManito/JD-FreeFuck",
+    "url": "https://github.com/SuperManito/JD-FreeFuck",
+    "description": "《JD薅羊毛》一键部署 For Linux",
+    "language": "Shell",
+    "star": "32"
+  },
+  {
+    "title": "Snowtrack/SnowFS",
+    "url": "https://github.com/Snowtrack/SnowFS",
+    "description": "👋 [Looking for maintainers] SnowFS - a fast, scalable version control file storage for graphic files 🎨",
+    "language": "TypeScript",
+    "star": "34"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "description": "🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）",
+    "language": "Java",
+    "star": "74"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "language": "Python",
+    "star": "64"
+  },
+  {
+    "title": "qeeqbox/social-analyzer",
+    "url": "https://github.com/qeeqbox/social-analyzer",
+    "description": "API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)",
+    "language": "JavaScript",
+    "star": "998"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "648"
+  }
+]
