@@ -4,42 +4,42 @@
     "url": "https://github.com/liamg/traitor",
     "description": "Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins ⬆️ ☠️",
     "language": "Go",
-    "star": "392"
+    "star": "394"
   },
   {
     "title": "google/model_search",
     "url": "https://github.com/google/model_search",
     "description": "",
     "language": "Python",
-    "star": "431"
+    "star": "438"
   },
   {
     "title": "gto76/python-cheatsheet",
     "url": "https://github.com/gto76/python-cheatsheet",
     "description": "Comprehensive Python Cheatsheet",
     "language": "Python",
-    "star": "375"
+    "star": "478"
   },
   {
     "title": "tree-sitter/tree-sitter",
     "url": "https://github.com/tree-sitter/tree-sitter",
     "description": "An incremental parsing system for programming tools",
     "language": "Rust",
-    "star": "89"
+    "star": "83"
   },
   {
     "title": "appium/appium",
     "url": "https://github.com/appium/appium",
     "description": "📱 Automation for iOS, Android, and Windows Apps.",
     "language": "JavaScript",
-    "star": "17"
+    "star": "18"
   },
   {
     "title": "dotnet-architecture/eShopOnDapr",
     "url": "https://github.com/dotnet-architecture/eShopOnDapr",
     "description": "A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.",
     "language": "C#",
-    "star": "70"
+    "star": "91"
   },
   {
     "title": "ripienaar/free-for-dev",
@@ -53,42 +53,42 @@
     "url": "https://github.com/pystardust/ytfzf",
     "description": "A posix script to find and watch youtube videos from the terminal. (With out API)",
     "language": "Shell",
-    "star": "102"
+    "star": "147"
   },
   {
     "title": "airbnb/javascript",
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "142"
+    "star": "141"
   },
   {
     "title": "kettanaito/naming-cheatsheet",
     "url": "https://github.com/kettanaito/naming-cheatsheet",
     "description": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
     "language": "none",
-    "star": "192"
+    "star": "186"
   },
   {
     "title": "imgcook/imove",
     "url": "https://github.com/imgcook/imove",
     "description": "Move your mouse, generate code from flow chart",
     "language": "TypeScript",
-    "star": "96"
+    "star": "136"
   },
   {
     "title": "Sairyss/domain-driven-hexagon",
     "url": "https://github.com/Sairyss/domain-driven-hexagon",
     "description": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
     "language": "TypeScript",
-    "star": "334"
+    "star": "322"
   },
   {
     "title": "geekxh/hello-algorithm",
     "url": "https://github.com/geekxh/hello-algorithm",
     "description": "🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）",
     "language": "Java",
-    "star": "107"
+    "star": "131"
   },
   {
     "title": "terraform-aws-modules/terraform-aws-eks",
@@ -102,14 +102,14 @@
     "url": "https://github.com/grishka/Houseclub",
     "description": "A barebones unofficial Android app for Clubhouse",
     "language": "Java",
-    "star": "221"
+    "star": "206"
   },
   {
     "title": "nextcloud/server",
     "url": "https://github.com/nextcloud/server",
     "description": "☁️ Nextcloud server, a safe home for all your data",
     "language": "PHP",
-    "star": "33"
+    "star": "31"
   },
   {
     "title": "dockere/jd-base",
@@ -123,28 +123,28 @@
     "url": "https://github.com/avelino/awesome-go",
     "description": "A curated list of awesome Go frameworks, libraries and software",
     "language": "Go",
-    "star": "195"
+    "star": "188"
   },
   {
     "title": "MostlyAdequate/mostly-adequate-guide",
     "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
     "description": "Mostly adequate guide to FP (in javascript)",
     "language": "JavaScript",
-    "star": "175"
+    "star": "160"
   },
   {
     "title": "golang/go",
     "url": "https://github.com/golang/go",
     "description": "The Go programming language",
     "language": "Go",
-    "star": "92"
+    "star": "89"
   },
   {
     "title": "SuperManito/JD-FreeFuck",
     "url": "https://github.com/SuperManito/JD-FreeFuck",
     "description": "《JD薅羊毛》一键部署 For Linux",
     "language": "Shell",
-    "star": "48"
+    "star": "96"
   },
   {
     "title": "VeryGoodOpenSource/very_good_cli",
@@ -158,14 +158,14 @@
     "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
     "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
     "language": "Jupyter Notebook",
-    "star": "18"
+    "star": "17"
   },
   {
     "title": "davidcallanan/os-series",
     "url": "https://github.com/davidcallanan/os-series",
     "description": "",
     "language": "Assembly",
-    "star": "50"
+    "star": "61"
   },
   {
     "title": "elastic/kibana",
