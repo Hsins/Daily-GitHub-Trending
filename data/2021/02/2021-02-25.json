@@ -11,7 +11,7 @@
     "url": "https://github.com/imgcook/imove",
     "description": "Move your mouse, generate code from flow chart",
     "language": "TypeScript",
-    "star": "111"
+    "star": "113"
   },
   {
     "title": "JetBrains/compose-jb",
@@ -39,7 +39,7 @@
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "625"
+    "star": "672"
   },
   {
     "title": "mtytel/vital",
@@ -53,7 +53,7 @@
     "url": "https://github.com/gto76/python-cheatsheet",
     "description": "Comprehensive Python Cheatsheet",
     "language": "Python",
-    "star": "602"
+    "star": "607"
   },
   {
     "title": "ossu/computer-science",
@@ -74,21 +74,21 @@
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "212"
+    "star": "209"
   },
   {
     "title": "pystardust/ytfzf",
     "url": "https://github.com/pystardust/ytfzf",
     "description": "A posix script to find and watch youtube videos from the terminal. (With out API)",
     "language": "Shell",
-    "star": "188"
+    "star": "183"
   },
   {
     "title": "appium/appium",
     "url": "https://github.com/appium/appium",
     "description": "📱 Automation for iOS, Android, and Windows Apps.",
     "language": "JavaScript",
-    "star": "103"
+    "star": "104"
   },
   {
     "title": "hasura/graphql-engine",
@@ -102,28 +102,28 @@
     "url": "https://github.com/Sairyss/domain-driven-hexagon",
     "description": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
     "language": "TypeScript",
-    "star": "242"
+    "star": "245"
   },
   {
     "title": "athensresearch/athens",
     "url": "https://github.com/athensresearch/athens",
     "description": "Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens",
     "language": "Clojure",
-    "star": "28"
+    "star": "29"
   },
   {
     "title": "kettanaito/naming-cheatsheet",
     "url": "https://github.com/kettanaito/naming-cheatsheet",
     "description": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
     "language": "none",
-    "star": "204"
+    "star": "203"
   },
   {
     "title": "geekxh/hello-algorithm",
     "url": "https://github.com/geekxh/hello-algorithm",
     "description": "🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）",
     "language": "Java",
-    "star": "232"
+    "star": "236"
   },
   {
     "title": "data-science-on-aws/workshop",
@@ -137,14 +137,14 @@
     "url": "https://github.com/ryanburgess/engineer-manager",
     "description": "A list of engineering manager resource links.",
     "language": "JavaScript",
-    "star": "198"
+    "star": "197"
   },
   {
     "title": "davidcallanan/os-series",
     "url": "https://github.com/davidcallanan/os-series",
     "description": "",
     "language": "Assembly",
-    "star": "93"
+    "star": "87"
   },
   {
     "title": "rui314/mold",
@@ -158,7 +158,7 @@
     "url": "https://github.com/google/model_search",
     "description": "",
     "language": "Python",
-    "star": "355"
+    "star": "357"
   },
   {
     "title": "topjohnwu/Magisk",
@@ -172,6 +172,6 @@
     "url": "https://github.com/therealsreehari/Learn-Data-Science-For-Free",
     "description": "This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in …",
     "language": "none",
-    "star": "79"
+    "star": "64"
   }
 ]
