@@ -4,14 +4,14 @@
     "url": "https://github.com/openai/DALL-E",
     "description": "PyTorch package for the discrete VAE used for DALL·E.",
     "language": "Python",
-    "star": "384"
+    "star": "385"
   },
   {
     "title": "android/compose-samples",
     "url": "https://github.com/android/compose-samples",
     "description": "Official Jetpack Compose samples.",
     "language": "Kotlin",
-    "star": "165"
+    "star": "168"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
@@ -25,21 +25,21 @@
     "url": "https://github.com/OpenScanEu/OpenScan",
     "description": "All you need to build your 3D Scanner",
     "language": "JavaScript",
-    "star": "50"
+    "star": "51"
   },
   {
     "title": "microsoft/playwright",
     "url": "https://github.com/microsoft/playwright",
     "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
     "language": "TypeScript",
-    "star": "43"
+    "star": "44"
   },
   {
     "title": "airbnb/javascript",
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "309"
+    "star": "305"
   },
   {
     "title": "andyzys/jd_seckill",
@@ -53,21 +53,21 @@
     "url": "https://github.com/alievk/avatarify",
     "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
     "language": "Python",
-    "star": "205"
+    "star": "206"
   },
   {
     "title": "mtytel/vital",
     "url": "https://github.com/mtytel/vital",
     "description": "Spectral warping wavetable synth",
     "language": "C++",
-    "star": "104"
+    "star": "99"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "331"
+    "star": "371"
   },
   {
     "title": "eugeneyan/applied-ml",
@@ -88,21 +88,21 @@
     "url": "https://github.com/thanos-io/thanos",
     "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
     "language": "Go",
-    "star": "75"
+    "star": "73"
   },
   {
     "title": "appium/appium",
     "url": "https://github.com/appium/appium",
     "description": "📱 Automation for iOS, Android, and Windows Apps.",
     "language": "JavaScript",
-    "star": "192"
+    "star": "193"
   },
   {
     "title": "hasura/graphql-engine",
     "url": "https://github.com/hasura/graphql-engine",
     "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
     "language": "Haskell",
-    "star": "178"
+    "star": "173"
   },
   {
     "title": "valheimPlus/ValheimPlus",
@@ -130,7 +130,7 @@
     "url": "https://github.com/miekg/dns",
     "description": "DNS library in Go",
     "language": "Go",
-    "star": "8"
+    "star": "7"
   },
   {
     "title": "caddyserver/caddy",
@@ -151,7 +151,7 @@
     "url": "https://github.com/geekxh/hello-algorithm",
     "description": "🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）",
     "language": "Java",
-    "star": "197"
+    "star": "201"
   },
   {
     "title": "FirebaseExtended/flutterfire",
@@ -165,7 +165,7 @@
     "url": "https://github.com/react-hook-form/react-hook-form",
     "description": "📋 React Hooks for forms validation (Web + React Native)",
     "language": "TypeScript",
-    "star": "28"
+    "star": "37"
   },
   {
     "title": "donnemartin/system-design-primer",
