@@ -1,0 +1,177 @@
+[
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "VBA",
+    "star": "386"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "description": "DeepFaceLab is the leading software for creating deepfakes.",
+    "language": "Python",
+    "star": "290"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "description": "fast portable static native textmode containers",
+    "language": "C",
+    "star": "669"
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "language": "Python",
+    "star": "523"
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "description": "Taking voice conversations to the moon 🚀",
+    "language": "TypeScript",
+    "star": "176"
+  },
+  {
+    "title": "input-output-hk/cardano-node",
+    "url": "https://github.com/input-output-hk/cardano-node",
+    "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "language": "Haskell",
+    "star": "33"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "description": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "language": "Jupyter Notebook",
+    "star": "175"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "language": "TypeScript",
+    "star": "261"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+    "language": "none",
+    "star": "893"
+  },
+  {
+    "title": "deepjyoti30/ytmdl-web-v2",
+    "url": "https://github.com/deepjyoti30/ytmdl-web-v2",
+    "description": "Web version of ytmdl. Allows downloading songs with metadata embedded from various sources like itunes, gaana, LastFM etc.",
+    "language": "Vue",
+    "star": "106"
+  },
+  {
+    "title": "jopohl/urh",
+    "url": "https://github.com/jopohl/urh",
+    "description": "Universal Radio Hacker: Investigate Wireless Protocols Like A Boss",
+    "language": "Python",
+    "star": "400"
+  },
+  {
+    "title": "google/monster-mash",
+    "url": "https://github.com/google/monster-mash",
+    "description": "",
+    "language": "C++",
+    "star": "103"
+  },
+  {
+    "title": "chriswalz/bit",
+    "url": "https://github.com/chriswalz/bit",
+    "description": "Bit is a modern Git CLI",
+    "language": "Go",
+    "star": "309"
+  },
+  {
+    "title": "orkestral/venom",
+    "url": "https://github.com/orkestral/venom",
+    "description": "Venom the more complete javascript library for Whatsapp, 100% Open Source.",
+    "language": "JavaScript",
+    "star": "326"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "language": "none",
+    "star": "410"
+  },
+  {
+    "title": "vosen/ZLUDA",
+    "url": "https://github.com/vosen/ZLUDA",
+    "description": "CUDA on Intel GPUs",
+    "language": "C++",
+    "star": "113"
+  },
+  {
+    "title": "AI4Finance-LLC/FinRL-Library",
+    "url": "https://github.com/AI4Finance-LLC/FinRL-Library",
+    "description": "A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020. Please star. 🔥",
+    "language": "Jupyter Notebook",
+    "star": "63"
+  },
+  {
+    "title": "BillDietrich/fake_contacts",
+    "url": "https://github.com/BillDietrich/fake_contacts",
+    "description": "Create fake phone contacts, to do data-poisoning.",
+    "language": "Dart",
+    "star": "64"
+  },
+  {
+    "title": "apparition47/MailTrackerBlocker",
+    "url": "https://github.com/apparition47/MailTrackerBlocker",
+    "description": "An email tracker, read receipt and spy pixel blocker plugin for macOS Apple Mail.",
+    "language": "Objective-C",
+    "star": "94"
+  },
+  {
+    "title": "dwelcaslu/machine-learning-books",
+    "url": "https://github.com/dwelcaslu/machine-learning-books",
+    "description": "",
+    "language": "none",
+    "star": "31"
+  },
+  {
+    "title": "bitcoinbook/bitcoinbook",
+    "url": "https://github.com/bitcoinbook/bitcoinbook",
+    "description": "Mastering Bitcoin 2nd Edition - Programming the Open Blockchain",
+    "language": "Python",
+    "star": "180"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "45"
+  },
+  {
+    "title": "engindemirog/NetCoreBackend",
+    "url": "https://github.com/engindemirog/NetCoreBackend",
+    "description": "",
+    "language": "C#",
+    "star": "83"
+  },
+  {
+    "title": "dypsilon/frontend-dev-bookmarks",
+    "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+    "description": "Manually curated collection of resources for frontend web developers.",
+    "language": "none",
+    "star": "254"
+  },
+  {
+    "title": "vitejs/awesome-vite",
+    "url": "https://github.com/vitejs/awesome-vite",
+    "description": "⚡️ A curated list of awesome things related to Vite.js",
+    "language": "none",
+    "star": "60"
+  }
+]
