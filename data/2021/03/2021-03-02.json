@@ -18,63 +18,63 @@
     "url": "https://github.com/coding-horror/basic-computer-games",
     "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
     "language": "VBA",
-    "star": "369"
+    "star": "333"
   },
   {
     "title": "NationalSecurityAgency/ghidra",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "language": "Java",
-    "star": "102"
+    "star": "101"
   },
   {
     "title": "stellar/go",
     "url": "https://github.com/stellar/go",
     "description": "Stellar's public monorepo of go code",
     "language": "Go",
-    "star": "38"
+    "star": "6"
   },
   {
     "title": "vinceliuice/Vimix-cursors",
     "url": "https://github.com/vinceliuice/Vimix-cursors",
     "description": "Vimix-cursors for linux desktop",
     "language": "Shell",
-    "star": "22"
+    "star": "4"
   },
   {
     "title": "DroidKaigi/conference-app-2021",
     "url": "https://github.com/DroidKaigi/conference-app-2021",
     "description": "The Official App for DroidKaigi 2021",
     "language": "Kotlin",
-    "star": "36"
+    "star": "44"
   },
   {
     "title": "shirou/gopsutil",
     "url": "https://github.com/shirou/gopsutil",
     "description": "psutil for golang",
     "language": "Go",
-    "star": "7"
+    "star": "34"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "44"
+    "star": "19"
   },
   {
     "title": "adjust/ios_sdk",
     "url": "https://github.com/adjust/ios_sdk",
     "description": "This is the iOS SDK of",
     "language": "Objective-C",
-    "star": "11"
+    "star": "0"
   },
   {
     "title": "argoproj/argo-workflows",
     "url": "https://github.com/argoproj/argo-workflows",
     "description": "Workflow engine for Kubernetes",
     "language": "Go",
-    "star": "46"
+    "star": "32"
   },
   {
     "title": "demisto/content",
@@ -88,35 +88,35 @@
     "url": "https://github.com/ReactiveX/RxSwift",
     "description": "Reactive Programming in Swift",
     "language": "Swift",
-    "star": "44"
+    "star": "5"
   },
   {
     "title": "flow-typed/flow-typed",
     "url": "https://github.com/flow-typed/flow-typed",
     "description": "A central repository for Flow library definitions",
     "language": "JavaScript",
-    "star": "64"
+    "star": "7"
   },
   {
     "title": "pytorch/ignite",
     "url": "https://github.com/pytorch/ignite",
     "description": "High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.",
     "language": "Python",
-    "star": "38"
+    "star": "4"
   },
   {
     "title": "vinceliuice/Tela-circle-icon-theme",
     "url": "https://github.com/vinceliuice/Tela-circle-icon-theme",
     "description": "Tela-circle-icon-theme",
     "language": "Shell",
-    "star": "8"
+    "star": "1"
   },
   {
     "title": "firebase/firebase-ios-sdk",
     "url": "https://github.com/firebase/firebase-ios-sdk",
     "description": "Firebase iOS SDK",
     "language": "Objective-C",
-    "star": "12"
+    "star": "19"
   },
   {
     "title": "fireice-uk/xmr-stak",
@@ -130,48 +130,48 @@
     "url": "https://github.com/alievk/avatarify",
     "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
     "language": "Python",
-    "star": "380"
+    "star": "495"
   },
   {
     "title": "aws/aws-sdk-go",
     "url": "https://github.com/aws/aws-sdk-go",
     "description": "AWS SDK for the Go programming language.",
     "language": "Go",
-    "star": "32"
+    "star": "6"
   },
   {
     "title": "influxdata/influxdb",
     "url": "https://github.com/influxdata/influxdb",
     "description": "Scalable datastore for metrics, events, and real-time analytics",
     "language": "Go",
-    "star": "8"
+    "star": "21"
   },
   {
     "title": "DATA-DOG/go-sqlmock",
     "url": "https://github.com/DATA-DOG/go-sqlmock",
     "description": "Sql mock driver for golang to test database interactions",
     "language": "Go",
-    "star": "34"
+    "star": "8"
   },
   {
     "title": "mongodb/mongo-go-driver",
     "url": "https://github.com/mongodb/mongo-go-driver",
     "description": "The Go driver for MongoDB",
     "language": "Go",
-    "star": "35"
+    "star": "46"
   },
   {
     "title": "WenchaoD/FSCalendar",
     "url": "https://github.com/WenchaoD/FSCalendar",
     "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
     "language": "Objective-C",
-    "star": "14"
+    "star": "7"
   },
   {
     "title": "flyerhzm/bullet",
     "url": "https://github.com/flyerhzm/bullet",
     "description": "help to kill N+1 queries and unused eager loading",
     "language": "Ruby",
-    "star": "2"
+    "star": "17"
   }
 ]
