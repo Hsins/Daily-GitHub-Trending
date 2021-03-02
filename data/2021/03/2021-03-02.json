@@ -60,7 +60,7 @@
     "url": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "39"
+    "star": "44"
   },
   {
     "title": "adjust/ios_sdk",
@@ -123,14 +123,14 @@
     "url": "https://github.com/fireice-uk/xmr-stak",
     "description": "Free Monero RandomX Miner and unified CryptoNight miner",
     "language": "C++",
-    "star": "56"
+    "star": "55"
   },
   {
     "title": "alievk/avatarify",
     "url": "https://github.com/alievk/avatarify",
     "description": "Avatars for Zoom, Skype and other video-conferencing apps.",
     "language": "Python",
-    "star": "382"
+    "star": "380"
   },
   {
     "title": "aws/aws-sdk-go",
