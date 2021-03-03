@@ -1,0 +1,177 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleGAN",
+    "url": "https://github.com/PaddlePaddle/PaddleGAN",
+    "description": "PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.",
+    "language": "Python",
+    "star": "235"
+  },
+  {
+    "title": "tone-row/flowchart-fun",
+    "url": "https://github.com/tone-row/flowchart-fun",
+    "description": "A small app for making quick flowcharts from text ⿻",
+    "language": "TypeScript",
+    "star": "142"
+  },
+  {
+    "title": "tostercx/GTAO_Booster_PoC",
+    "url": "https://github.com/tostercx/GTAO_Booster_PoC",
+    "description": "",
+    "language": "C",
+    "star": "499"
+  },
+  {
+    "title": "athensresearch/athens",
+    "url": "https://github.com/athensresearch/athens",
+    "description": "Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens",
+    "language": "Clojure",
+    "star": "220"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "description": "AWS SDK for the Go programming language.",
+    "language": "Go",
+    "star": "84"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "description": "Firebase iOS SDK",
+    "language": "Objective-C",
+    "star": "35"
+  },
+  {
+    "title": "WenchaoD/FSCalendar",
+    "url": "https://github.com/WenchaoD/FSCalendar",
+    "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
+    "language": "Objective-C",
+    "star": "42"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "14"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "VBA",
+    "star": "203"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "description": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "language": "HTML",
+    "star": "14"
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "description": "DeepFaceLab is the leading software for creating deepfakes.",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "pyroscope-io/pyroscope",
+    "url": "https://github.com/pyroscope-io/pyroscope",
+    "description": "🔥 Continuous Profiling Platform 🔥 Debug performance issues down to a single line of code",
+    "language": "Go",
+    "star": "180"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "language": "TypeScript",
+    "star": "65"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "language": "Shell",
+    "star": "66"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "263"
+  },
+  {
+    "title": "muguruzawang/jd_maotai_seckill",
+    "url": "https://github.com/muguruzawang/jd_maotai_seckill",
+    "description": "优化版本的京东茅台抢购神器",
+    "language": "Python",
+    "star": "171"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "137"
+  },
+  {
+    "title": "yangshun/front-end-interview-handbook",
+    "url": "https://github.com/yangshun/front-end-interview-handbook",
+    "description": "🕸 No-bullshit answers to the famous h5bp \"Front-end Job Interview Questions\"",
+    "language": "JavaScript",
+    "star": "53"
+  },
+  {
+    "title": "POSTECH-CVLab/PyTorch-StudioGAN",
+    "url": "https://github.com/POSTECH-CVLab/PyTorch-StudioGAN",
+    "description": "StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.",
+    "language": "Python",
+    "star": "128"
+  },
+  {
+    "title": "laravel-filament/filament",
+    "url": "https://github.com/laravel-filament/filament",
+    "description": "The elegant TALL stack admin for Laravel artisans.",
+    "language": "PHP",
+    "star": "146"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "star": "196"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+    "language": "none",
+    "star": "42"
+  },
+  {
+    "title": "extreme-assistant/CVPR2021-Paper-Code-Interpretation",
+    "url": "https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation",
+    "description": "cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理",
+    "language": "none",
+    "star": "48"
+  },
+  {
+    "title": "adobe/brackets",
+    "url": "https://github.com/adobe/brackets",
+    "description": "An open source code editor for the web, written in JavaScript, HTML and CSS.",
+    "language": "JavaScript",
+    "star": "48"
+  },
+  {
+    "title": "influxdata/influxdb",
+    "url": "https://github.com/influxdata/influxdb",
+    "description": "Scalable datastore for metrics, events, and real-time analytics",
+    "language": "Go",
+    "star": "143"
+  }
+]
