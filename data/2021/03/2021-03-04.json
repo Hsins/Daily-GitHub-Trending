@@ -4,77 +4,77 @@
     "url": "https://github.com/muguruzawang/jd_maotai_seckill",
     "description": "优化版本的京东茅台抢购神器",
     "language": "Python",
-    "star": "68"
+    "star": "71"
   },
   {
     "title": "tostercx/GTAO_Booster_PoC",
     "url": "https://github.com/tostercx/GTAO_Booster_PoC",
     "description": "",
     "language": "C",
-    "star": "249"
+    "star": "467"
   },
   {
     "title": "laravel-filament/filament",
     "url": "https://github.com/laravel-filament/filament",
     "description": "The elegant TALL stack admin for Laravel artisans.",
     "language": "PHP",
-    "star": "135"
+    "star": "126"
   },
   {
     "title": "PaddlePaddle/PaddleGAN",
     "url": "https://github.com/PaddlePaddle/PaddleGAN",
     "description": "PaddlePaddle GAN library, including lots of interesting applications like DeepFake First-Order motion transfer, Mai-ha-hi（蚂蚁呀嘿), faceswap wav2lip, picture repair, image editing, photo2cartoon, image style transfer, and so on.",
     "language": "Python",
-    "star": "607"
+    "star": "324"
   },
   {
     "title": "pystardust/ytfzf",
     "url": "https://github.com/pystardust/ytfzf",
     "description": "A posix script to find and watch youtube videos from the terminal. (With out API)",
     "language": "Shell",
-    "star": "227"
+    "star": "220"
   },
   {
     "title": "aws/aws-sdk-go",
     "url": "https://github.com/aws/aws-sdk-go",
     "description": "AWS SDK for the Go programming language.",
     "language": "Go",
-    "star": "81"
+    "star": "83"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "108"
+    "star": "122"
   },
   {
     "title": "demisto/content",
     "url": "https://github.com/demisto/content",
     "description": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
     "language": "Python",
-    "star": "5"
+    "star": "8"
   },
   {
     "title": "microsoft/Power-Fx",
     "url": "https://github.com/microsoft/Power-Fx",
     "description": "Power Fx low-code programming language",
     "language": "none",
-    "star": "412"
+    "star": "267"
   },
   {
     "title": "bytemaster/clarion",
     "url": "https://github.com/bytemaster/clarion",
     "description": "",
     "language": "C++",
-    "star": "55"
+    "star": "70"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "621"
+    "star": "435"
   },
   {
     "title": "adobe/brackets",
@@ -88,21 +88,21 @@
     "url": "https://github.com/kilimchoi/engineering-blogs",
     "description": "A curated list of engineering blogs",
     "language": "Ruby",
-    "star": "57"
+    "star": "33"
   },
   {
     "title": "influxdata/influxdb",
     "url": "https://github.com/influxdata/influxdb",
     "description": "Scalable datastore for metrics, events, and real-time analytics",
     "language": "Go",
-    "star": "107"
+    "star": "126"
   },
   {
     "title": "hyunwoongko/openchat",
     "url": "https://github.com/hyunwoongko/openchat",
     "description": "Opensource chatting framework for generative models",
     "language": "Python",
-    "star": "43"
+    "star": "51"
   },
   {
     "title": "yangshun/front-end-interview-handbook",
@@ -116,56 +116,56 @@
     "url": "https://github.com/austintgriffith/scaffold-eth",
     "description": "🏗 forkable Ethereum dev stack focused on fast product iterations",
     "language": "JavaScript",
-    "star": "17"
+    "star": "12"
   },
   {
     "title": "firebase/firebase-ios-sdk",
     "url": "https://github.com/firebase/firebase-ios-sdk",
     "description": "Firebase iOS SDK",
     "language": "Objective-C",
-    "star": "53"
+    "star": "47"
   },
   {
     "title": "POSTECH-CVLab/PyTorch-StudioGAN",
     "url": "https://github.com/POSTECH-CVLab/PyTorch-StudioGAN",
     "description": "StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation.",
     "language": "Python",
-    "star": "246"
+    "star": "319"
   },
   {
     "title": "SigmaHQ/sigma",
     "url": "https://github.com/SigmaHQ/sigma",
     "description": "Generic Signature Format for SIEM Systems",
     "language": "Python",
-    "star": "15"
+    "star": "26"
   },
   {
     "title": "extreme-assistant/CVPR2021-Paper-Code-Interpretation",
     "url": "https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation",
     "description": "cvpr2021/cvpr2020/cvpr2019/cvpr2018/cvpr2017 论文/代码/解读/直播合集，极市团队整理",
     "language": "none",
-    "star": "68"
+    "star": "108"
   },
   {
     "title": "jepsen-io/maelstrom",
     "url": "https://github.com/jepsen-io/maelstrom",
     "description": "A workbench for writing toy implementations of distributed systems.",
     "language": "Clojure",
-    "star": "54"
+    "star": "62"
   },
   {
     "title": "vercel/next.js",
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "64"
+    "star": "65"
   },
   {
     "title": "nomi-sec/PoC-in-GitHub",
     "url": "https://github.com/nomi-sec/PoC-in-GitHub",
     "description": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
     "language": "none",
-    "star": "63"
+    "star": "31"
   },
   {
     "title": "prometheus/client_golang",
