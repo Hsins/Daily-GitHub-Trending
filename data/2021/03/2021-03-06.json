@@ -1,0 +1,177 @@
+[
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "description": "Dolt – It's Git for Data",
+    "language": "Go",
+    "star": "366"
+  },
+  {
+    "title": "openai/CLIP",
+    "url": "https://github.com/openai/CLIP",
+    "description": "Contrastive Language-Image Pretraining",
+    "language": "Jupyter Notebook",
+    "star": "49"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "Googletest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "100"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "436"
+  },
+  {
+    "title": "git/git",
+    "url": "https://github.com/git/git",
+    "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "language": "C",
+    "star": "294"
+  },
+  {
+    "title": "dwisiswant0/apkleaks",
+    "url": "https://github.com/dwisiswant0/apkleaks",
+    "description": "Scanning APK file for URIs, endpoints & secrets.",
+    "language": "Python",
+    "star": "197"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "34"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "420"
+  },
+  {
+    "title": "gskinnerTeam/flutter-folio",
+    "url": "https://github.com/gskinnerTeam/flutter-folio",
+    "description": "A platform adaptive Flutter app for desktop, mobile and web.",
+    "language": "Dart",
+    "star": "285"
+  },
+  {
+    "title": "connor-create/wsbtrades",
+    "url": "https://github.com/connor-create/wsbtrades",
+    "description": "",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "facebookresearch/d2go",
+    "url": "https://github.com/facebookresearch/d2go",
+    "description": "D2Go is a toolkit for efficient deep learning",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "microsoft/CSS-Exchange",
+    "url": "https://github.com/microsoft/CSS-Exchange",
+    "description": "Exchange Server support tools and scripts",
+    "language": "PowerShell",
+    "star": "40"
+  },
+  {
+    "title": "sarven/unit-testing-tips",
+    "url": "https://github.com/sarven/unit-testing-tips",
+    "description": "Unit testing tips by examples in PHP",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "kilimchoi/engineering-blogs",
+    "url": "https://github.com/kilimchoi/engineering-blogs",
+    "description": "A curated list of engineering blogs",
+    "language": "Ruby",
+    "star": "301"
+  },
+  {
+    "title": "MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
+    "url": "https://github.com/MicrosoftLearning/AZ-104-MicrosoftAzureAdministrator",
+    "description": "AZ-104 Microsoft Azure Administrator",
+    "language": "PowerShell",
+    "star": "18"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "73"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "261"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "70"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "language": "Rust",
+    "star": "25"
+  },
+  {
+    "title": "Shopify/upgrow",
+    "url": "https://github.com/Shopify/upgrow",
+    "description": "A sustainable architecture for Ruby on Rails.",
+    "language": "Ruby",
+    "star": "69"
+  },
+  {
+    "title": "thunlp/GNNPapers",
+    "url": "https://github.com/thunlp/GNNPapers",
+    "description": "Must-read papers on graph neural networks (GNN)",
+    "language": "none",
+    "star": "69"
+  },
+  {
+    "title": "getzola/zola",
+    "url": "https://github.com/getzola/zola",
+    "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+    "language": "Rust",
+    "star": "127"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "star": "94"
+  },
+  {
+    "title": "muguruzawang/jd_maotai_seckill",
+    "url": "https://github.com/muguruzawang/jd_maotai_seckill",
+    "description": "优化版本的京东茅台抢购神器",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "description": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "language": "Shell",
+    "star": "10"
+  }
+]
