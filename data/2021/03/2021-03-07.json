@@ -1,0 +1,177 @@
+[
+  {
+    "title": "getzola/zola",
+    "url": "https://github.com/getzola/zola",
+    "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+    "language": "Rust",
+    "star": "167"
+  },
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "description": "Dolt – It's Git for Data",
+    "language": "Go",
+    "star": "797"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "language": "Rust",
+    "star": "159"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "star": "87"
+  },
+  {
+    "title": "openai/CLIP",
+    "url": "https://github.com/openai/CLIP",
+    "description": "Contrastive Language-Image Pretraining",
+    "language": "Jupyter Notebook",
+    "star": "171"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "38"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "star": "14"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "git/git",
+    "url": "https://github.com/git/git",
+    "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+    "language": "C",
+    "star": "279"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find a security vulnerability in the application.",
+    "language": "Python",
+    "star": "24"
+  },
+  {
+    "title": "dwisiswant0/apkleaks",
+    "url": "https://github.com/dwisiswant0/apkleaks",
+    "description": "Scanning APK file for URIs, endpoints & secrets.",
+    "language": "Python",
+    "star": "234"
+  },
+  {
+    "title": "SmartThingsCommunity/SmartThingsPublic",
+    "url": "https://github.com/SmartThingsCommunity/SmartThingsPublic",
+    "description": "SmartThings open-source DeviceTypeHandlers and SmartApps code",
+    "language": "Groovy",
+    "star": "3"
+  },
+  {
+    "title": "microsoft/CSS-Exchange",
+    "url": "https://github.com/microsoft/CSS-Exchange",
+    "description": "Exchange Server support tools and scripts",
+    "language": "PowerShell",
+    "star": "96"
+  },
+  {
+    "title": "nodegui/svelte-nodegui",
+    "url": "https://github.com/nodegui/svelte-nodegui",
+    "description": "Build performant, native and cross-platform desktop applications with native Svelte + powerful CSS-like styling.🚀",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "thunlp/GNNPapers",
+    "url": "https://github.com/thunlp/GNNPapers",
+    "description": "Must-read papers on graph neural networks (GNN)",
+    "language": "none",
+    "star": "176"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "80"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "557"
+  },
+  {
+    "title": "qmk/qmk_firmware",
+    "url": "https://github.com/qmk/qmk_firmware",
+    "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+    "language": "C",
+    "star": "19"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "description": "A collection of awesome things regarding React ecosystem",
+    "language": "none",
+    "star": "74"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "star": "216"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "A sandbox tower defense game",
+    "language": "Java",
+    "star": "17"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "description": "A curated list of references for MLOps",
+    "language": "none",
+    "star": "29"
+  },
+  {
+    "title": "brillout/awesome-react-components",
+    "url": "https://github.com/brillout/awesome-react-components",
+    "description": "Curated List of React Components & Libraries.",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "ninechapter-algorithm/linghu-algorithm-templete",
+    "url": "https://github.com/ninechapter-algorithm/linghu-algorithm-templete",
+    "description": "",
+    "language": "none",
+    "star": "89"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Solidity",
+    "star": "25"
+  }
+]
