@@ -4,21 +4,21 @@
     "url": "https://github.com/getzola/zola",
     "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
     "language": "Rust",
-    "star": "167"
+    "star": "163"
   },
   {
     "title": "dolthub/dolt",
     "url": "https://github.com/dolthub/dolt",
     "description": "Dolt – It's Git for Data",
     "language": "Go",
-    "star": "797"
+    "star": "688"
   },
   {
     "title": "nushell/nushell",
     "url": "https://github.com/nushell/nushell",
     "description": "A new type of shell",
     "language": "Rust",
-    "star": "159"
+    "star": "145"
   },
   {
     "title": "torvalds/linux",
@@ -60,7 +60,7 @@
     "url": "https://github.com/git/git",
     "description": "Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
     "language": "C",
-    "star": "279"
+    "star": "283"
   },
   {
     "title": "projectdiscovery/nuclei-templates",
@@ -74,7 +74,7 @@
     "url": "https://github.com/dwisiswant0/apkleaks",
     "description": "Scanning APK file for URIs, endpoints & secrets.",
     "language": "Python",
-    "star": "234"
+    "star": "231"
   },
   {
     "title": "SmartThingsCommunity/SmartThingsPublic",
@@ -88,7 +88,7 @@
     "url": "https://github.com/microsoft/CSS-Exchange",
     "description": "Exchange Server support tools and scripts",
     "language": "PowerShell",
-    "star": "189"
+    "star": "96"
   },
   {
     "title": "nodegui/svelte-nodegui",
@@ -102,7 +102,7 @@
     "url": "https://github.com/thunlp/GNNPapers",
     "description": "Must-read papers on graph neural networks (GNN)",
     "language": "none",
-    "star": "176"
+    "star": "168"
   },
   {
     "title": "TheAlgorithms/Javascript",
@@ -116,7 +116,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "557"
+    "star": "545"
   },
   {
     "title": "qmk/qmk_firmware",
@@ -137,7 +137,7 @@
     "url": "https://github.com/microsoft/vscode",
     "description": "Visual Studio Code",
     "language": "TypeScript",
-    "star": "216"
+    "star": "211"
   },
   {
     "title": "Anuken/Mindustry",
@@ -165,7 +165,7 @@
     "url": "https://github.com/ninechapter-algorithm/linghu-algorithm-templete",
     "description": "",
     "language": "none",
-    "star": "100"
+    "star": "87"
   },
   {
     "title": "ethereum/EIPs",
