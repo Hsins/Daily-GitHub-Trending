@@ -4,174 +4,174 @@
     "url": "https://github.com/dolthub/dolt",
     "description": "Dolt – It's Git for Data",
     "language": "Go",
-    "star": "2"
+    "star": "1"
   },
   {
     "title": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "427"
+    "star": "371"
   },
   {
     "title": "nushell/nushell",
     "url": "https://github.com/nushell/nushell",
     "description": "A new type of shell",
     "language": "Rust",
-    "star": "333"
+    "star": "401"
   },
   {
     "title": "getzola/zola",
     "url": "https://github.com/getzola/zola",
     "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
     "language": "Rust",
-    "star": "413"
+    "star": "414"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "35"
+    "star": "40"
   },
   {
     "title": "openai/CLIP",
     "url": "https://github.com/openai/CLIP",
     "description": "Contrastive Language-Image Pretraining",
     "language": "Jupyter Notebook",
-    "star": "149"
+    "star": "162"
   },
   {
     "title": "nasa/fprime",
     "url": "https://github.com/nasa/fprime",
     "description": "F' - A flight software and embedded systems framework",
     "language": "C++",
-    "star": "282"
+    "star": "279"
   },
   {
     "title": "ziglang/zig",
     "url": "https://github.com/ziglang/zig",
     "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
     "language": "Zig",
-    "star": "107"
+    "star": "103"
   },
   {
     "title": "TheAlgorithms/Javascript",
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "269"
+    "star": "273"
   },
   {
     "title": "microsoft/CSS-Exchange",
     "url": "https://github.com/microsoft/CSS-Exchange",
     "description": "Exchange Server support tools and scripts",
     "language": "PowerShell",
-    "star": "131"
+    "star": "138"
   },
   {
     "title": "josephmisiti/awesome-machine-learning",
     "url": "https://github.com/josephmisiti/awesome-machine-learning",
     "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "language": "Python",
-    "star": "142"
+    "star": "156"
   },
   {
     "title": "thunlp/GNNPapers",
     "url": "https://github.com/thunlp/GNNPapers",
     "description": "Must-read papers on graph neural networks (GNN)",
     "language": "none",
-    "star": "173"
+    "star": "402"
   },
   {
     "title": "threat9/routersploit",
     "url": "https://github.com/threat9/routersploit",
     "description": "Exploitation Framework for Embedded Devices",
     "language": "Python",
-    "star": "14"
+    "star": "46"
   },
   {
     "title": "visenger/awesome-mlops",
     "url": "https://github.com/visenger/awesome-mlops",
     "description": "A curated list of references for MLOps",
     "language": "none",
-    "star": "104"
+    "star": "85"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "209"
+    "star": "199"
   },
   {
     "title": "qmk/qmk_firmware",
     "url": "https://github.com/qmk/qmk_firmware",
     "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
     "language": "C",
-    "star": "162"
+    "star": "169"
   },
   {
     "title": "brillout/awesome-react-components",
     "url": "https://github.com/brillout/awesome-react-components",
     "description": "Curated List of React Components & Libraries.",
     "language": "none",
-    "star": "178"
+    "star": "175"
   },
   {
     "title": "torvalds/linux",
     "url": "https://github.com/torvalds/linux",
     "description": "Linux kernel source tree",
     "language": "C",
-    "star": "327"
+    "star": "337"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "305"
+    "star": "308"
   },
   {
     "title": "nodegui/react-nodegui",
     "url": "https://github.com/nodegui/react-nodegui",
     "description": "Build performant, native and cross-platform desktop applications with native React + powerful CSS like styling.🚀",
     "language": "TypeScript",
-    "star": "104"
+    "star": "91"
   },
   {
     "title": "diasurgical/devilutionX",
     "url": "https://github.com/diasurgical/devilutionX",
     "description": "Diablo build for modern operating systems",
     "language": "C++",
-    "star": "9"
+    "star": "67"
   },
   {
     "title": "projectdiscovery/nuclei-templates",
     "url": "https://github.com/projectdiscovery/nuclei-templates",
     "description": "Community curated list of templates for the nuclei engine to find a security vulnerability in the application.",
     "language": "Python",
-    "star": "103"
+    "star": "104"
   },
   {
     "title": "abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme",
     "url": "https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme",
     "description": "",
     "language": "Dart",
-    "star": "15"
+    "star": "54"
   },
   {
     "title": "monero-project/monero",
     "url": "https://github.com/monero-project/monero",
     "description": "Monero: the secure, private, untraceable cryptocurrency",
     "language": "C++",
-    "star": "33"
+    "star": "43"
   },
   {
     "title": "ageron/handson-ml2",
     "url": "https://github.com/ageron/handson-ml2",
     "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
     "language": "Jupyter Notebook",
-    "star": "30"
+    "star": "23"
   }
 ]
