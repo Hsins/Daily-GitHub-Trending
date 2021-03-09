@@ -4,119 +4,119 @@
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "446"
+    "star": "408"
   },
   {
     "title": "dolthub/dolt",
     "url": "https://github.com/dolthub/dolt",
     "description": "Dolt – It's Git for Data",
     "language": "Go",
-    "star": "863"
+    "star": "1"
   },
   {
     "title": "projectdiscovery/nuclei-templates",
     "url": "https://github.com/projectdiscovery/nuclei-templates",
     "description": "Community curated list of templates for the nuclei engine to find a security vulnerability in the application.",
     "language": "Python",
-    "star": "87"
+    "star": "95"
   },
   {
     "title": "microsoft/CSS-Exchange",
     "url": "https://github.com/microsoft/CSS-Exchange",
     "description": "Exchange Server support tools and scripts",
     "language": "PowerShell",
-    "star": "120"
+    "star": "111"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "451"
+    "star": "458"
   },
   {
     "title": "KathanP19/HowToHunt",
     "url": "https://github.com/KathanP19/HowToHunt",
     "description": "Tutorials and Things to Do while Hunting Vulnerability.",
     "language": "none",
-    "star": "87"
+    "star": "92"
   },
   {
     "title": "ageron/handson-ml2",
     "url": "https://github.com/ageron/handson-ml2",
     "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
     "language": "Jupyter Notebook",
-    "star": "121"
+    "star": "122"
   },
   {
     "title": "ziglang/zig",
     "url": "https://github.com/ziglang/zig",
     "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
     "language": "Zig",
-    "star": "105"
+    "star": "112"
   },
   {
     "title": "nasa/fprime",
     "url": "https://github.com/nasa/fprime",
     "description": "F' - A flight software and embedded systems framework",
     "language": "C++",
-    "star": "186"
+    "star": "178"
   },
   {
     "title": "GitSquared/edex-ui",
     "url": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "star": "223"
+    "star": "267"
   },
   {
     "title": "epezent/implot",
     "url": "https://github.com/epezent/implot",
     "description": "Advanced 2D Plotting for Dear ImGui",
     "language": "C++",
-    "star": "50"
+    "star": "49"
   },
   {
     "title": "nushell/nushell",
     "url": "https://github.com/nushell/nushell",
     "description": "A new type of shell",
     "language": "Rust",
-    "star": "270"
+    "star": "260"
   },
   {
     "title": "josephmisiti/awesome-machine-learning",
     "url": "https://github.com/josephmisiti/awesome-machine-learning",
     "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "language": "Python",
-    "star": "246"
+    "star": "256"
   },
   {
     "title": "diasurgical/devilutionX",
     "url": "https://github.com/diasurgical/devilutionX",
     "description": "Diablo build for modern operating systems",
     "language": "C++",
-    "star": "268"
+    "star": "260"
   },
   {
     "title": "plausible/analytics",
     "url": "https://github.com/plausible/analytics",
     "description": "Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics.",
     "language": "Elixir",
-    "star": "194"
+    "star": "197"
   },
   {
     "title": "italia/covid19-opendata-vaccini",
     "url": "https://github.com/italia/covid19-opendata-vaccini",
     "description": "Open Data su consegna e somministrazione dei vaccini anti COVID-19 in Italia - Commissario straordinario per l'emergenza Covid-19",
     "language": "none",
-    "star": "9"
+    "star": "11"
   },
   {
     "title": "angular/angular",
     "url": "https://github.com/angular/angular",
     "description": "One framework. Mobile & desktop.",
     "language": "TypeScript",
-    "star": "85"
+    "star": "92"
   },
   {
     "title": "SeleniumHQ/selenium",
@@ -130,48 +130,48 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "123"
+    "star": "115"
   },
   {
     "title": "qier222/YesPlayMusic",
     "url": "https://github.com/qier222/YesPlayMusic",
     "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
     "language": "JavaScript",
-    "star": "87"
+    "star": "108"
   },
   {
     "title": "torvalds/linux",
     "url": "https://github.com/torvalds/linux",
     "description": "Linux kernel source tree",
     "language": "C",
-    "star": "254"
+    "star": "256"
   },
   {
     "title": "dwisiswant0/apkleaks",
     "url": "https://github.com/dwisiswant0/apkleaks",
     "description": "Scanning APK file for URIs, endpoints & secrets.",
     "language": "Python",
-    "star": "89"
+    "star": "175"
   },
   {
     "title": "brillout/awesome-react-components",
     "url": "https://github.com/brillout/awesome-react-components",
     "description": "Curated List of React Components & Libraries.",
     "language": "none",
-    "star": "149"
+    "star": "177"
   },
   {
     "title": "abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme",
     "url": "https://github.com/abuanwar072/Chat-Messaging-App-Light-and-Dark-Theme",
     "description": "",
     "language": "Dart",
-    "star": "323"
+    "star": "315"
   },
   {
     "title": "felangel/bloc",
     "url": "https://github.com/felangel/bloc",
     "description": "A predictable state management library that helps implement the BLoC design pattern",
     "language": "Dart",
-    "star": "21"
+    "star": "23"
   }
 ]
