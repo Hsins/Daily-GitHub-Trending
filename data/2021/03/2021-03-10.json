@@ -1,0 +1,177 @@
+[
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "452"
+  },
+  {
+    "title": "microsoft/CSS-Exchange",
+    "url": "https://github.com/microsoft/CSS-Exchange",
+    "description": "Exchange Server support tools and scripts",
+    "language": "PowerShell",
+    "star": "119"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "501"
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "language": "JavaScript",
+    "star": "71"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "language": "JavaScript",
+    "star": "123"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 concepts every JavaScript developer should know.",
+    "language": "JavaScript",
+    "star": "72"
+  },
+  {
+    "title": "kootenpv/whereami",
+    "url": "https://github.com/kootenpv/whereami",
+    "description": "Uses WiFi signals 📶 and machine learning to predict where you are",
+    "language": "Python",
+    "star": "241"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "SeleniumHQ/selenium",
+    "url": "https://github.com/SeleniumHQ/selenium",
+    "description": "A browser automation framework and ecosystem.",
+    "language": "Java",
+    "star": "63"
+  },
+  {
+    "title": "diasurgical/devilutionX",
+    "url": "https://github.com/diasurgical/devilutionX",
+    "description": "Diablo build for modern operating systems",
+    "language": "C++",
+    "star": "244"
+  },
+  {
+    "title": "pavlobu/deskreen",
+    "url": "https://github.com/pavlobu/deskreen",
+    "description": "Deskreen turns any device with a web browser into a secondary screen for your computer",
+    "language": "TypeScript",
+    "star": "57"
+  },
+  {
+    "title": "srcrs/UnicomTask",
+    "url": "https://github.com/srcrs/UnicomTask",
+    "description": "联通手机营业厅自动做任务、签到、领流量、领积分等。",
+    "language": "Python",
+    "star": "61"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "134"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "star": "141"
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "description": "An extremely fast JavaScript bundler and minifier",
+    "language": "Go",
+    "star": "296"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "56"
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "11"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "140"
+  },
+  {
+    "title": "vmware-tanzu/octant",
+    "url": "https://github.com/vmware-tanzu/octant",
+    "description": "Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.",
+    "language": "Go",
+    "star": "23"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "104"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "language": "C#",
+    "star": "5"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "One framework. Mobile & desktop.",
+    "language": "TypeScript",
+    "star": "116"
+  },
+  {
+    "title": "MrXujiang/h5-Dooring",
+    "url": "https://github.com/MrXujiang/h5-Dooring",
+    "description": "H5 Page Maker, H5 Editor. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 致力于提供一套简单方便、专业可靠、无限可能的H5/PC落地页解决方案.",
+    "language": "JavaScript",
+    "star": "12"
+  }
+]
