@@ -1,0 +1,177 @@
+[
+  {
+    "title": "uutils/coreutils",
+    "url": "https://github.com/uutils/coreutils",
+    "description": "Cross-platform Rust rewrite of the GNU coreutils",
+    "language": "Rust",
+    "star": "84"
+  },
+  {
+    "title": "microsoft/CSS-Exchange",
+    "url": "https://github.com/microsoft/CSS-Exchange",
+    "description": "Exchange Server support tools and scripts",
+    "language": "PowerShell",
+    "star": "106"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "description": "The Free Software Media System",
+    "language": "C#",
+    "star": "12"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "28"
+  },
+  {
+    "title": "tuist/tuist",
+    "url": "https://github.com/tuist/tuist",
+    "description": "🚀 Create, maintain, and interact with Xcode projects at scale",
+    "language": "Swift",
+    "star": "8"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "language": "C++",
+    "star": "8"
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "language": "JavaScript",
+    "star": "301"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "language": "JavaScript",
+    "star": "250"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "description": "70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+    "language": "none",
+    "star": "269"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "399"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "2368693074/49shouting",
+    "url": "https://github.com/2368693074/49shouting",
+    "description": "联通挂机任务积分脚本",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "542"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "description": "A modern file explorer that pushes the boundaries of the platform.",
+    "language": "C#",
+    "star": "42"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "language": "Go",
+    "star": "75"
+  },
+  {
+    "title": "mobilecoinfoundation/mobilecoin",
+    "url": "https://github.com/mobilecoinfoundation/mobilecoin",
+    "description": "Private payments for mobile devices.",
+    "language": "Rust",
+    "star": "7"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "85"
+  },
+  {
+    "title": "fuck-xuexiqiangguo/Fuck-XueXiQiangGuo",
+    "url": "https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo",
+    "description": "学习强国 懒人刷分工具 自动学习",
+    "language": "none",
+    "star": "31"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "129"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 concepts every JavaScript developer should know.",
+    "language": "JavaScript",
+    "star": "141"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "language": "Python",
+    "star": "73"
+  },
+  {
+    "title": "felangel/bloc",
+    "url": "https://github.com/felangel/bloc",
+    "description": "A predictable state management library that helps implement the BLoC design pattern",
+    "language": "Dart",
+    "star": "12"
+  },
+  {
+    "title": "ampproject/amphtml",
+    "url": "https://github.com/ampproject/amphtml",
+    "description": "The AMP web component framework.",
+    "language": "JavaScript",
+    "star": "6"
+  },
+  {
+    "title": "KaLendsi/CVE-2021-1732-Exploit",
+    "url": "https://github.com/KaLendsi/CVE-2021-1732-Exploit",
+    "description": "CVE-2021-1732 Exploit",
+    "language": "C++",
+    "star": "41"
+  },
+  {
+    "title": "pavlobu/deskreen",
+    "url": "https://github.com/pavlobu/deskreen",
+    "description": "Deskreen turns any device with a web browser into a secondary screen for your computer",
+    "language": "TypeScript",
+    "star": "184"
+  }
+]
