@@ -11,14 +11,14 @@
     "url": "https://github.com/sickcodes/Docker-OSX",
     "description": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
     "language": "Shell",
-    "star": "265"
+    "star": "233"
   },
   {
     "title": "docker/awesome-compose",
     "url": "https://github.com/docker/awesome-compose",
     "description": "Awesome Docker Compose samples",
     "language": "HTML",
-    "star": "404"
+    "star": "388"
   },
   {
     "title": "spring-projects-experimental/spring-native",
@@ -32,63 +32,63 @@
     "url": "https://github.com/sickcodes/osx-serial-generator",
     "description": "Mac Serial Generator - Generate complete sets of Serial Numbers for OSX-KVM, Docker-OSX and of course, OpenCore.",
     "language": "Shell",
-    "star": "145"
+    "star": "144"
   },
   {
     "title": "srcrs/UnicomTask",
     "url": "https://github.com/srcrs/UnicomTask",
     "description": "联通手机营业厅自动做任务、签到、领流量、领积分等。",
     "language": "Python",
-    "star": "115"
+    "star": "116"
   },
   {
     "title": "mobilecoinfoundation/mobilecoin",
     "url": "https://github.com/mobilecoinfoundation/mobilecoin",
     "description": "Private payments for mobile devices.",
     "language": "Rust",
-    "star": "129"
+    "star": "127"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "27"
+    "star": "33"
   },
   {
     "title": "angular/components",
     "url": "https://github.com/angular/components",
     "description": "Component infrastructure and Material Design components for Angular",
     "language": "TypeScript",
-    "star": "55"
+    "star": "41"
   },
   {
     "title": "authelia/authelia",
     "url": "https://github.com/authelia/authelia",
     "description": "The Single Sign-On Multi-Factor portal for web apps",
     "language": "Go",
-    "star": "400"
+    "star": "353"
   },
   {
     "title": "dotnet/net6-mobile-samples",
     "url": "https://github.com/dotnet/net6-mobile-samples",
     "description": "Xamarin .NET 6 *early* preview. Not for production use.",
     "language": "C#",
-    "star": "44"
+    "star": "30"
   },
   {
     "title": "MustangYM/WeChatExtension-ForMac",
     "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
     "description": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
     "language": "Objective-C",
-    "star": "49"
+    "star": "20"
   },
   {
     "title": "strapi/strapi",
     "url": "https://github.com/strapi/strapi",
     "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
     "language": "JavaScript",
-    "star": "138"
+    "star": "129"
   },
   {
     "title": "wuye999/49shouting",
@@ -109,21 +109,21 @@
     "url": "https://github.com/GorvGoyl/Clone-Wars",
     "description": "70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
     "language": "none",
-    "star": "657"
+    "star": "717"
   },
   {
     "title": "LeCoupa/awesome-cheatsheets",
     "url": "https://github.com/LeCoupa/awesome-cheatsheets",
     "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
     "language": "JavaScript",
-    "star": "330"
+    "star": "321"
   },
   {
     "title": "epi052/feroxbuster",
     "url": "https://github.com/epi052/feroxbuster",
     "description": "A fast, simple, recursive content discovery tool written in Rust.",
     "language": "Rust",
-    "star": "71"
+    "star": "82"
   },
   {
     "title": "JetBrains/projector-client",
@@ -165,7 +165,7 @@
     "url": "https://github.com/microsoft/onnxruntime",
     "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
     "language": "C++",
-    "star": "46"
+    "star": "47"
   },
   {
     "title": "EbookFoundation/free-programming-books",
