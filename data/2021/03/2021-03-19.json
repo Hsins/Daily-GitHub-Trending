@@ -32,7 +32,7 @@
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "118"
+    "star": "117"
   },
   {
     "title": "ChartsCSS/charts.css",
@@ -53,7 +53,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "64"
+    "star": "71"
   },
   {
     "title": "paulgp/applied-methods-phd",
@@ -67,7 +67,7 @@
     "url": "https://github.com/tuvtran/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "273"
+    "star": "263"
   },
   {
     "title": "simo8102/88-AutoSignMachine",
@@ -88,7 +88,7 @@
     "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
     "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
     "language": "Jupyter Notebook",
-    "star": "297"
+    "star": "300"
   },
   {
     "title": "backstage/backstage",
@@ -109,7 +109,7 @@
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "131"
+    "star": "130"
   },
   {
     "title": "florinpop17/app-ideas",
@@ -151,14 +151,14 @@
     "url": "https://github.com/lucidrains/big-sleep",
     "description": "A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN",
     "language": "Python",
-    "star": "20"
+    "star": "11"
   },
   {
     "title": "sudheerj/reactjs-interview-questions",
     "url": "https://github.com/sudheerj/reactjs-interview-questions",
     "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
     "language": "JavaScript",
-    "star": "140"
+    "star": "143"
   },
   {
     "title": "input-output-hk/cardano-node",
@@ -172,6 +172,6 @@
     "url": "https://github.com/TheAlgorithms/C",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
     "language": "C",
-    "star": "152"
+    "star": "150"
   }
 ]
