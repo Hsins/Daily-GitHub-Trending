@@ -1,0 +1,177 @@
+[
+  {
+    "title": "DavidBuchanan314/tweetable-polyglot-png",
+    "url": "https://github.com/DavidBuchanan314/tweetable-polyglot-png",
+    "description": "Pack up to 3MB of data into a tweetable PNG polyglot file.",
+    "language": "Python",
+    "star": "240"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "star": "259"
+  },
+  {
+    "title": "cisagov/CHIRP",
+    "url": "https://github.com/cisagov/CHIRP",
+    "description": "A forensic collection tool written in Python.",
+    "language": "Python",
+    "star": "142"
+  },
+  {
+    "title": "Overv/outrun",
+    "url": "https://github.com/Overv/outrun",
+    "description": "Execute a local command using the processing power of another Linux machine.",
+    "language": "Python",
+    "star": "664"
+  },
+  {
+    "title": "pointfreeco/isowords",
+    "url": "https://github.com/pointfreeco/isowords",
+    "description": "Open source game built in SwiftUI and the Composable Architecture.",
+    "language": "Swift",
+    "star": "206"
+  },
+  {
+    "title": "paulgp/applied-methods-phd",
+    "url": "https://github.com/paulgp/applied-methods-phd",
+    "description": "Repo for Yale Applied Empirical Methods PHD Course",
+    "language": "TeX",
+    "star": "45"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "language": "Swift",
+    "star": "68"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "157"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "187"
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "description": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。",
+    "language": "Python",
+    "star": "135"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "language": "JavaScript",
+    "star": "212"
+  },
+  {
+    "title": "lucidrains/big-sleep",
+    "url": "https://github.com/lucidrains/big-sleep",
+    "description": "A simple command line tool for text to image generation, using OpenAI's CLIP and a BigGAN",
+    "language": "Python",
+    "star": "69"
+  },
+  {
+    "title": "matryer/xbar",
+    "url": "https://github.com/matryer/xbar",
+    "description": "Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)",
+    "language": "Go",
+    "star": "94"
+  },
+  {
+    "title": "simo8102/88-AutoSignMachine",
+    "url": "https://github.com/simo8102/88-AutoSignMachine",
+    "description": "联通挂机任务积分脚本",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "adamschwartz/magic-of-css",
+    "url": "https://github.com/adamschwartz/magic-of-css",
+    "description": "A CSS course to turn you into a magician.",
+    "language": "CSS",
+    "star": "79"
+  },
+  {
+    "title": "onnx/onnx-tensorrt",
+    "url": "https://github.com/onnx/onnx-tensorrt",
+    "description": "ONNX-TensorRT: TensorRT backend for ONNX",
+    "language": "C++",
+    "star": "7"
+  },
+  {
+    "title": "mathiasbynens/dotfiles",
+    "url": "https://github.com/mathiasbynens/dotfiles",
+    "description": "🔧 .files, including ~/.macos — sensible hacker defaults for macOS",
+    "language": "Shell",
+    "star": "554"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "description": "My Python Examples",
+    "language": "Python",
+    "star": "53"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "shomali11/go-interview",
+    "url": "https://github.com/shomali11/go-interview",
+    "description": "Collection of Technical Interview Questions solved with Go",
+    "language": "Go",
+    "star": "34"
+  },
+  {
+    "title": "wg/wrk",
+    "url": "https://github.com/wg/wrk",
+    "description": "Modern HTTP benchmarking tool",
+    "language": "C",
+    "star": "53"
+  },
+  {
+    "title": "backstage/backstage",
+    "url": "https://github.com/backstage/backstage",
+    "description": "Backstage is an open platform for building developer portals",
+    "language": "TypeScript",
+    "star": "126"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "14"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Java",
+    "star": "58"
+  },
+  {
+    "title": "meetecho/janus-gateway",
+    "url": "https://github.com/meetecho/janus-gateway",
+    "description": "Janus WebRTC Server",
+    "language": "C",
+    "star": "8"
+  }
+]
