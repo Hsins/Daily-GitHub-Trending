@@ -11,28 +11,28 @@
     "url": "https://github.com/mathiasbynens/dotfiles",
     "description": "🔧 .files, including ~/.macos — sensible hacker defaults for macOS",
     "language": "Shell",
-    "star": "689"
+    "star": "687"
   },
   {
     "title": "DrKLO/Telegram",
     "url": "https://github.com/DrKLO/Telegram",
     "description": "Telegram for Android source",
     "language": "C++",
-    "star": "17"
+    "star": "18"
   },
   {
     "title": "521xueweihan/GitHub520",
     "url": "https://github.com/521xueweihan/GitHub520",
     "description": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装软件）",
     "language": "Python",
-    "star": "232"
+    "star": "229"
   },
   {
     "title": "cisagov/CHIRP",
     "url": "https://github.com/cisagov/CHIRP",
     "description": "A forensic collection tool written in Python.",
     "language": "Python",
-    "star": "222"
+    "star": "212"
   },
   {
     "title": "pointfreeco/swift-composable-architecture",
@@ -46,7 +46,7 @@
     "url": "https://github.com/chatwoot/chatwoot",
     "description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
     "language": "Ruby",
-    "star": "401"
+    "star": "397"
   },
   {
     "title": "edeng23/binance-trade-bot",
@@ -74,28 +74,28 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "487"
+    "star": "478"
   },
   {
     "title": "florinpop17/app-ideas",
     "url": "https://github.com/florinpop17/app-ideas",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "language": "none",
-    "star": "364"
+    "star": "354"
   },
   {
     "title": "adamschwartz/magic-of-css",
     "url": "https://github.com/adamschwartz/magic-of-css",
     "description": "A CSS course to turn you into a magician.",
     "language": "CSS",
-    "star": "160"
+    "star": "153"
   },
   {
     "title": "Defi-Cartel/salmonella",
     "url": "https://github.com/Defi-Cartel/salmonella",
     "description": "Wrecking sandwich traders for fun and profit",
     "language": "none",
-    "star": "70"
+    "star": "69"
   },
   {
     "title": "blazorhero/CleanArchitecture",
@@ -109,21 +109,21 @@
     "url": "https://github.com/DavidBuchanan314/tweetable-polyglot-png",
     "description": "Pack up to 3MB of data into a tweetable PNG polyglot file.",
     "language": "Python",
-    "star": "487"
+    "star": "481"
   },
   {
     "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
     "language": "Java",
-    "star": "100"
+    "star": "99"
   },
   {
     "title": "backstage/backstage",
     "url": "https://github.com/backstage/backstage",
     "description": "Backstage is an open platform for building developer portals",
     "language": "TypeScript",
-    "star": "315"
+    "star": "311"
   },
   {
     "title": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
@@ -137,7 +137,7 @@
     "url": "https://github.com/Overv/outrun",
     "description": "Execute a local command using the processing power of another Linux machine.",
     "language": "Python",
-    "star": "617"
+    "star": "608"
   },
   {
     "title": "XTLS/Xray-core",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "76"
+    "star": "73"
   },
   {
     "title": "kkoomen/qbr",
@@ -165,13 +165,13 @@
     "url": "https://github.com/openwrt/openwrt",
     "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
     "language": "C",
-    "star": "11"
+    "star": "10"
   },
   {
     "title": "Hari-Nagarajan/fairgame",
     "url": "https://github.com/Hari-Nagarajan/fairgame",
     "description": "Tool to help us buy hard to find items.",
     "language": "Python",
-    "star": "26"
+    "star": "27"
   }
 ]
