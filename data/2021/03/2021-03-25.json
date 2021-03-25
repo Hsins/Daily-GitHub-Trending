@@ -18,42 +18,42 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "535"
+    "star": "538"
   },
   {
     "title": "lux-org/lux",
     "url": "https://github.com/lux-org/lux",
     "description": "Python API for Intelligent Visual Data Discovery",
     "language": "Python",
-    "star": "242"
+    "star": "234"
   },
   {
     "title": "rails/rails",
     "url": "https://github.com/rails/rails",
     "description": "Ruby on Rails",
     "language": "Ruby",
-    "star": "37"
+    "star": "36"
   },
   {
     "title": "geekcomputers/Python",
     "url": "https://github.com/geekcomputers/Python",
     "description": "My Python Examples",
     "language": "Python",
-    "star": "226"
+    "star": "230"
   },
   {
     "title": "ZENALC/algobot",
     "url": "https://github.com/ZENALC/algobot",
     "description": "Cryptocurrency trading bot with a graphical user interface.",
     "language": "Python",
-    "star": "94"
+    "star": "90"
   },
   {
     "title": "livewire/livewire",
     "url": "https://github.com/livewire/livewire",
     "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
     "language": "Blade",
-    "star": "82"
+    "star": "83"
   },
   {
     "title": "ansible/awx",
@@ -67,14 +67,14 @@
     "url": "https://github.com/ErickWendel/semana-js-expert30",
     "description": "Aulas da Semana JS Expert 3.0 - Construindo um chat multiplataforma usando linha de comando e JavaScript Avançado",
     "language": "JavaScript",
-    "star": "108"
+    "star": "101"
   },
   {
     "title": "crystal-lang/crystal",
     "url": "https://github.com/crystal-lang/crystal",
     "description": "The Crystal Programming Language",
     "language": "Crystal",
-    "star": "112"
+    "star": "117"
   },
   {
     "title": "alexgurr/react-coding-challenges",
@@ -88,7 +88,7 @@
     "url": "https://github.com/appwrite/appwrite",
     "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
     "language": "JavaScript",
-    "star": "375"
+    "star": "393"
   },
   {
     "title": "Kenzie-Academy-Brasil/portfolio-start-sua-carreira",
@@ -102,21 +102,21 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "238"
+    "star": "245"
   },
   {
     "title": "HolyBugx/HolyTips",
     "url": "https://github.com/HolyBugx/HolyTips",
     "description": "Tips and Tutorials on Bug Bounty Hunting and Web App Security.",
     "language": "none",
-    "star": "117"
+    "star": "111"
   },
   {
     "title": "globalaihub/introduction-to-machine-learning",
     "url": "https://github.com/globalaihub/introduction-to-machine-learning",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "68"
+    "star": "72"
   },
   {
     "title": "sveltejs/kit",
@@ -130,14 +130,14 @@
     "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "description": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.",
     "language": "none",
-    "star": "194"
+    "star": "200"
   },
   {
     "title": "iPERDance/iPERCore",
     "url": "https://github.com/iPERDance/iPERCore",
     "description": "Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis",
     "language": "Python",
-    "star": "115"
+    "star": "117"
   },
   {
     "title": "hasherezade/malware_training_vol1",
@@ -151,14 +151,14 @@
     "url": "https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS-7-DAYS",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "107"
+    "star": "106"
   },
   {
     "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
     "language": "Java",
-    "star": "224"
+    "star": "225"
   },
   {
     "title": "androidmalware/android_hid",
@@ -172,6 +172,6 @@
     "url": "https://github.com/facebookresearch/faiss",
     "description": "A library for efficient similarity search and clustering of dense vectors.",
     "language": "C++",
-    "star": "22"
+    "star": "16"
   }
 ]
