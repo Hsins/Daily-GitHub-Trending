@@ -60,7 +60,7 @@
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "77"
+    "star": "66"
   },
   {
     "title": "signalapp/Signal-iOS",
@@ -74,7 +74,7 @@
     "url": "https://github.com/ageron/handson-ml2",
     "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
     "language": "Jupyter Notebook",
-    "star": "18"
+    "star": "19"
   },
   {
     "title": "Ryujinx/Ryujinx",
@@ -109,14 +109,14 @@
     "url": "https://github.com/storm-devs/storm-engine",
     "description": "Game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.",
     "language": "C++",
-    "star": "232"
+    "star": "244"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "370"
+    "star": "369"
   },
   {
     "title": "sherlock-project/sherlock",
@@ -137,14 +137,14 @@
     "url": "https://github.com/benawad/dogehouse",
     "description": "Taking voice conversations to the moon 🚀",
     "language": "TypeScript",
-    "star": "400"
+    "star": "398"
   },
   {
     "title": "monosans/vk-slaves-bot",
     "url": "https://github.com/monosans/vk-slaves-bot",
     "description": "Бот для мини-игры \"Рабы\" (\"Рабство\") ВКонтакте.",
     "language": "Python",
-    "star": "18"
+    "star": "41"
   },
   {
     "title": "davepl/Primes",
