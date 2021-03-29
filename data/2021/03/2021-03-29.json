@@ -1,0 +1,177 @@
+[
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "832"
+  },
+  {
+    "title": "vueschool/vue-masterclass",
+    "url": "https://github.com/vueschool/vue-masterclass",
+    "description": "🗂 Source code for The Vue 3 Masterclass",
+    "language": "CSS",
+    "star": "25"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "star": "97"
+  },
+  {
+    "title": "fogleman/physarum",
+    "url": "https://github.com/fogleman/physarum",
+    "description": "Physarum polycephalum slime mold simulation",
+    "language": "Go",
+    "star": "208"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot",
+    "language": "Python",
+    "star": "55"
+  },
+  {
+    "title": "NoahFetz/F1AppleTV",
+    "url": "https://github.com/NoahFetz/F1AppleTV",
+    "description": "F1TV Client for AppleTV",
+    "language": "Swift",
+    "star": "10"
+  },
+  {
+    "title": "john-smilga/javascript-basic-projects",
+    "url": "https://github.com/john-smilga/javascript-basic-projects",
+    "description": "",
+    "language": "CSS",
+    "star": "115"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "JavaScript",
+    "star": "53"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "77"
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "description": "A private messenger for iOS.",
+    "language": "Swift",
+    "star": "79"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "star": "18"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "description": "Experimental Nintendo Switch Emulator written in C#",
+    "language": "C#",
+    "star": "512"
+  },
+  {
+    "title": "harryheman/React-Total",
+    "url": "https://github.com/harryheman/React-Total",
+    "description": "Ресурс для изучения React.js и связанных с ним технологий на русском языке",
+    "language": "JavaScript",
+    "star": "94"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
+    "language": "JavaScript",
+    "star": "161"
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "description": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "storm-devs/storm-engine",
+    "url": "https://github.com/storm-devs/storm-engine",
+    "description": "Game engine behind Sea Dogs, Pirates of the Caribbean and Age of Pirates games.",
+    "language": "C++",
+    "star": "232"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "370"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "82"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "72"
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "description": "Taking voice conversations to the moon 🚀",
+    "language": "TypeScript",
+    "star": "400"
+  },
+  {
+    "title": "monosans/vk-slaves-bot",
+    "url": "https://github.com/monosans/vk-slaves-bot",
+    "description": "Бот для мини-игры \"Рабы\" (\"Рабство\") ВКонтакте.",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "davepl/Primes",
+    "url": "https://github.com/davepl/Primes",
+    "description": "Prime Number Projects in C#/C++/Python",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "ramitsurana/awesome-kubernetes",
+    "url": "https://github.com/ramitsurana/awesome-kubernetes",
+    "description": "A curated list for awesome kubernetes sources 🚢🎉",
+    "language": "Shell",
+    "star": "11"
+  },
+  {
+    "title": "donnemartin/data-science-ipython-notebooks",
+    "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+    "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.",
+    "language": "Python",
+    "star": "657"
+  }
+]
