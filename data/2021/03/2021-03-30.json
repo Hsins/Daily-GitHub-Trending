@@ -11,7 +11,7 @@
     "url": "https://github.com/php/php-src",
     "description": "The PHP Interpreter",
     "language": "C",
-    "star": "215"
+    "star": "198"
   },
   {
     "title": "Datalux/Osintgram",
@@ -32,7 +32,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "583"
+    "star": "574"
   },
   {
     "title": "nuxt/nuxt.js",
@@ -46,7 +46,7 @@
     "url": "https://github.com/intel-isl/DPT",
     "description": "Dense Prediction Transformers",
     "language": "Python",
-    "star": "40"
+    "star": "42"
   },
   {
     "title": "randallkanna/awesome-job-list",
@@ -67,14 +67,14 @@
     "url": "https://github.com/thedaviddias/Front-End-Checklist",
     "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
     "language": "none",
-    "star": "273"
+    "star": "266"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs such as http://ipstack.com, http://fixer.io/, https://numverify.com/, etc. for use in software and web development.",
     "language": "Python",
-    "star": "455"
+    "star": "459"
   },
   {
     "title": "1ndianl33t/Bug-Bounty-Roadmaps",
@@ -88,7 +88,7 @@
     "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
     "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
     "language": "Python",
-    "star": "85"
+    "star": "83"
   },
   {
     "title": "3096/genshin_scripts",
@@ -130,14 +130,14 @@
     "url": "https://github.com/harryheman/React-Total",
     "description": "Ресурс для изучения React.js и связанных с ним технологий на русском языке",
     "language": "JavaScript",
-    "star": "86"
+    "star": "88"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
     "language": "JavaScript",
-    "star": "189"
+    "star": "192"
   },
   {
     "title": "dromara/sa-token",
