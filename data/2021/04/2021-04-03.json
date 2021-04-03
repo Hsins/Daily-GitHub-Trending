@@ -1,0 +1,177 @@
+[
+  {
+    "title": "johnBuffer/AntSimulator",
+    "url": "https://github.com/johnBuffer/AntSimulator",
+    "description": "Simple Ants simulator",
+    "language": "C++",
+    "star": "195"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "star": "93"
+  },
+  {
+    "title": "KevinOConnor/klipper",
+    "url": "https://github.com/KevinOConnor/klipper",
+    "description": "Klipper is a 3d-printer firmware",
+    "language": "C++",
+    "star": "6"
+  },
+  {
+    "title": "pinterest/querybook",
+    "url": "https://github.com/pinterest/querybook",
+    "description": "Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface.",
+    "language": "TypeScript",
+    "star": "127"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "description": "Simple HTML5 Charts using the <canvas> tag",
+    "language": "JavaScript",
+    "star": "17"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "92"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "466"
+  },
+  {
+    "title": "AcalaNetwork/Acala",
+    "url": "https://github.com/AcalaNetwork/Acala",
+    "description": "Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.",
+    "language": "Rust",
+    "star": "3"
+  },
+  {
+    "title": "nicehash/NiceHashQuickMiner",
+    "url": "https://github.com/nicehash/NiceHashQuickMiner",
+    "description": "Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.",
+    "language": "HTML",
+    "star": "57"
+  },
+  {
+    "title": "btcpayserver/btcpayserver",
+    "url": "https://github.com/btcpayserver/btcpayserver",
+    "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+    "language": "C#",
+    "star": "182"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Use Appsmith to build and self-host your internal apps. Create UI that connects to any database or API.",
+    "language": "TypeScript",
+    "star": "104"
+  },
+  {
+    "title": "orpatashnik/StyleCLIP",
+    "url": "https://github.com/orpatashnik/StyleCLIP",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "95"
+  },
+  {
+    "title": "john-smilga/node-express-course",
+    "url": "https://github.com/john-smilga/node-express-course",
+    "description": "",
+    "language": "JavaScript",
+    "star": "14"
+  },
+  {
+    "title": "RiotVanguard/Vanguard",
+    "url": "https://github.com/RiotVanguard/Vanguard",
+    "description": "Official Vanguard Anti-Cheat source code.",
+    "language": "C",
+    "star": "56"
+  },
+  {
+    "title": "archlinux/archinstall",
+    "url": "https://github.com/archlinux/archinstall",
+    "description": "Arch Linux installer - guided, templates etc.",
+    "language": "Python",
+    "star": "133"
+  },
+  {
+    "title": "merry75/educative.io_courses",
+    "url": "https://github.com/merry75/educative.io_courses",
+    "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "language": "none",
+    "star": "85"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "language": "C#",
+    "star": "13"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "68"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "description": "A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "language": "C",
+    "star": "190"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "23"
+  },
+  {
+    "title": "jvns/dnspeep",
+    "url": "https://github.com/jvns/dnspeep",
+    "description": "spy on the DNS queries your computer is making",
+    "language": "Rust",
+    "star": "80"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "78"
+  },
+  {
+    "title": "facebookresearch/madgrad",
+    "url": "https://github.com/facebookresearch/madgrad",
+    "description": "MADGRAD Optimization Method",
+    "language": "Python",
+    "star": "105"
+  },
+  {
+    "title": "GUI/covid-vaccine-spotter",
+    "url": "https://github.com/GUI/covid-vaccine-spotter",
+    "description": "",
+    "language": "JavaScript",
+    "star": "24"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "description": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "language": "none",
+    "star": "279"
+  }
+]
