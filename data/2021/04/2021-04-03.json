@@ -4,7 +4,7 @@
     "url": "https://github.com/johnBuffer/AntSimulator",
     "description": "Simple Ants simulator",
     "language": "C++",
-    "star": "195"
+    "star": "202"
   },
   {
     "title": "catchorg/Catch2",
@@ -46,7 +46,7 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "466"
+    "star": "455"
   },
   {
     "title": "AcalaNetwork/Acala",
@@ -60,19 +60,19 @@
     "url": "https://github.com/nicehash/NiceHashQuickMiner",
     "description": "Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.",
     "language": "HTML",
-    "star": "57"
+    "star": "58"
   },
   {
     "title": "btcpayserver/btcpayserver",
     "url": "https://github.com/btcpayserver/btcpayserver",
     "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
     "language": "C#",
-    "star": "182"
+    "star": "184"
   },
   {
     "title": "appsmithorg/appsmith",
     "url": "https://github.com/appsmithorg/appsmith",
-    "description": "Use Appsmith to build and self-host your internal apps. Create UI that connects to any database or API.",
+    "description": "Build beautiful admin panels and CRUD apps. Connects to any database or API. One-click docker installation.",
     "language": "TypeScript",
     "star": "104"
   },
@@ -130,7 +130,7 @@
     "url": "https://github.com/mytechnotalent/Reverse-Engineering",
     "description": "A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
     "language": "C",
-    "star": "190"
+    "star": "189"
   },
   {
     "title": "discordjs/discord.js",
