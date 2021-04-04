@@ -4,7 +4,7 @@
     "url": "https://github.com/johnBuffer/AntSimulator",
     "description": "Simple Ants simulator",
     "language": "C++",
-    "star": "333"
+    "star": "331"
   },
   {
     "title": "discordjs/discord.js",
@@ -39,7 +39,7 @@
     "url": "https://github.com/acidanthera/OpenCorePkg",
     "description": "OpenCore bootloader",
     "language": "C",
-    "star": "21"
+    "star": "32"
   },
   {
     "title": "willmcgugan/rich",
@@ -60,7 +60,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "334"
+    "star": "348"
   },
   {
     "title": "appsmithorg/appsmith",
@@ -88,21 +88,21 @@
     "url": "https://github.com/BetterDiscord/Installer",
     "description": "Installer for BetterDiscord",
     "language": "Svelte",
-    "star": "105"
+    "star": "104"
   },
   {
     "title": "john-smilga/node-express-course",
     "url": "https://github.com/john-smilga/node-express-course",
     "description": "",
     "language": "JavaScript",
-    "star": "37"
+    "star": "40"
   },
   {
     "title": "nicehash/NiceHashQuickMiner",
     "url": "https://github.com/nicehash/NiceHashQuickMiner",
     "description": "Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.",
     "language": "HTML",
-    "star": "156"
+    "star": "158"
   },
   {
     "title": "catchorg/Catch2",
@@ -116,7 +116,7 @@
     "url": "https://github.com/btcpayserver/btcpayserver",
     "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
     "language": "C#",
-    "star": "282"
+    "star": "281"
   },
   {
     "title": "Lolliedieb/lolMiner-releases",
@@ -130,7 +130,7 @@
     "url": "https://github.com/mytechnotalent/Reverse-Engineering",
     "description": "A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
     "language": "C",
-    "star": "358"
+    "star": "355"
   },
   {
     "title": "ValveSoftware/Proton",
@@ -151,7 +151,7 @@
     "url": "https://github.com/chartjs/Chart.js",
     "description": "Simple HTML5 Charts using the <canvas> tag",
     "language": "JavaScript",
-    "star": "136"
+    "star": "141"
   },
   {
     "title": "coolsnowwolf/lede",
@@ -172,6 +172,6 @@
     "url": "https://github.com/jvns/dnspeep",
     "description": "spy on the DNS queries your computer is making",
     "language": "Rust",
-    "star": "153"
+    "star": "154"
   }
 ]
