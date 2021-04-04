@@ -1,0 +1,177 @@
+[
+  {
+    "title": "johnBuffer/AntSimulator",
+    "url": "https://github.com/johnBuffer/AntSimulator",
+    "description": "Simple Ants simulator",
+    "language": "C++",
+    "star": "329"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "96"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "93"
+  },
+  {
+    "title": "climech/grit",
+    "url": "https://github.com/climech/grit",
+    "description": "A multitree-based personal task manager",
+    "language": "Go",
+    "star": "565"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "97"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "21"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "157"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "356"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Build beautiful admin panels, dashboards, and CRUD apps. One-click docker installation. Try it at: https://app.appsmith.com",
+    "language": "TypeScript",
+    "star": "516"
+  },
+  {
+    "title": "orpatashnik/StyleCLIP",
+    "url": "https://github.com/orpatashnik/StyleCLIP",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "141"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+    "language": "none",
+    "star": "125"
+  },
+  {
+    "title": "BetterDiscord/Installer",
+    "url": "https://github.com/BetterDiscord/Installer",
+    "description": "Installer for BetterDiscord",
+    "language": "Svelte",
+    "star": "105"
+  },
+  {
+    "title": "john-smilga/node-express-course",
+    "url": "https://github.com/john-smilga/node-express-course",
+    "description": "",
+    "language": "JavaScript",
+    "star": "39"
+  },
+  {
+    "title": "nicehash/NiceHashQuickMiner",
+    "url": "https://github.com/nicehash/NiceHashQuickMiner",
+    "description": "Super simple & easy Windows 10 cryptocurrency miner made by NiceHash.",
+    "language": "HTML",
+    "star": "156"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "star": "151"
+  },
+  {
+    "title": "btcpayserver/btcpayserver",
+    "url": "https://github.com/btcpayserver/btcpayserver",
+    "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+    "language": "C#",
+    "star": "290"
+  },
+  {
+    "title": "Lolliedieb/lolMiner-releases",
+    "url": "https://github.com/Lolliedieb/lolMiner-releases",
+    "description": "",
+    "language": "none",
+    "star": "22"
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering",
+    "description": "A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "language": "C",
+    "star": "348"
+  },
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "description": "Compatibility tool for Steam Play based on Wine and additional components",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "KevinOConnor/klipper",
+    "url": "https://github.com/KevinOConnor/klipper",
+    "description": "Klipper is a 3d-printer firmware",
+    "language": "C++",
+    "star": "59"
+  },
+  {
+    "title": "chartjs/Chart.js",
+    "url": "https://github.com/chartjs/Chart.js",
+    "description": "Simple HTML5 Charts using the <canvas> tag",
+    "language": "JavaScript",
+    "star": "152"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "42"
+  },
+  {
+    "title": "esp8266/Arduino",
+    "url": "https://github.com/esp8266/Arduino",
+    "description": "ESP8266 core for Arduino",
+    "language": "C++",
+    "star": "10"
+  },
+  {
+    "title": "jvns/dnspeep",
+    "url": "https://github.com/jvns/dnspeep",
+    "description": "spy on the DNS queries your computer is making",
+    "language": "Rust",
+    "star": "157"
+  }
+]
