@@ -1,0 +1,177 @@
+[
+  {
+    "title": "davepl/Primes",
+    "url": "https://github.com/davepl/Primes",
+    "description": "Prime Number Projects in C#/C++/Python",
+    "language": "C++",
+    "star": "70"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "202"
+  },
+  {
+    "title": "climech/grit",
+    "url": "https://github.com/climech/grit",
+    "description": "A multitree-based personal task manager",
+    "language": "Go",
+    "star": "326"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "hagopj13/node-express-boilerplate",
+    "url": "https://github.com/hagopj13/node-express-boilerplate",
+    "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
+    "language": "JavaScript",
+    "star": "142"
+  },
+  {
+    "title": "johnBuffer/AntSimulator",
+    "url": "https://github.com/johnBuffer/AntSimulator",
+    "description": "Simple Ants simulator",
+    "language": "C++",
+    "star": "143"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "185"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "213"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "13"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Build beautiful admin panels, dashboards, and CRUD apps that connect to any API or database. Try it at: https://app.appsmith.com Open source and self-hosting friendly.",
+    "language": "TypeScript",
+    "star": "597"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "66"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "695"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability",
+    "language": "Vim script",
+    "star": "40"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "433"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "384"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+    "language": "none",
+    "star": "273"
+  },
+  {
+    "title": "charmbracelet/lipgloss",
+    "url": "https://github.com/charmbracelet/lipgloss",
+    "description": "Style definitions for nice terminal layouts 👄",
+    "language": "Go",
+    "star": "462"
+  },
+  {
+    "title": "Hameds/GoogleBackup",
+    "url": "https://github.com/Hameds/GoogleBackup",
+    "description": "بکاپ از گوگل: چه اتفاقی افتاده و چه باید کرد؟",
+    "language": "none",
+    "star": "79"
+  },
+  {
+    "title": "BetterDiscord/Installer",
+    "url": "https://github.com/BetterDiscord/Installer",
+    "description": "A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.",
+    "language": "Svelte",
+    "star": "285"
+  },
+  {
+    "title": "shashank88/system_design",
+    "url": "https://github.com/shashank88/system_design",
+    "description": "Preparation links and resources for system design questions",
+    "language": "none",
+    "star": "61"
+  },
+  {
+    "title": "Open4Es/Open4Es-Shader-Android",
+    "url": "https://github.com/Open4Es/Open4Es-Shader-Android",
+    "description": "This shader can running on moblie device......",
+    "language": "GLSL",
+    "star": "10"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "description": "An API wrapper for Discord written in Python.",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "174"
+  },
+  {
+    "title": "archlinux/archinstall",
+    "url": "https://github.com/archlinux/archinstall",
+    "description": "Arch Linux installer - guided, templates etc.",
+    "language": "Python",
+    "star": "116"
+  }
+]
