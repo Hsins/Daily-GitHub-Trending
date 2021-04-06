@@ -4,14 +4,14 @@
     "url": "https://github.com/davepl/Primes",
     "description": "Prime Number Projects in C#/C++/Python",
     "language": "C++",
-    "star": "95"
+    "star": "79"
   },
   {
     "title": "charmbracelet/lipgloss",
     "url": "https://github.com/charmbracelet/lipgloss",
     "description": "Style definitions for nice terminal layouts 👄",
     "language": "Go",
-    "star": "549"
+    "star": "582"
   },
   {
     "title": "discordjs/discord.js",
@@ -32,14 +32,14 @@
     "url": "https://github.com/archlinux/archinstall",
     "description": "Arch Linux installer - guided, templates etc.",
     "language": "Python",
-    "star": "239"
+    "star": "229"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "752"
+    "star": "626"
   },
   {
     "title": "binhnguyennus/awesome-scalability",
@@ -53,21 +53,21 @@
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first",
     "language": "Python",
-    "star": "130"
+    "star": "178"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "159"
+    "star": "129"
   },
   {
     "title": "securitybunker/databunker",
     "url": "https://github.com/securitybunker/databunker",
     "description": "Secure storage for personal records built to comply with GDPR",
     "language": "Go",
-    "star": "89"
+    "star": "110"
   },
   {
     "title": "iptv-org/iptv",
@@ -102,28 +102,28 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "278"
+    "star": "266"
   },
   {
     "title": "Rapptz/discord.py",
     "url": "https://github.com/Rapptz/discord.py",
     "description": "An API wrapper for Discord written in Python.",
     "language": "Python",
-    "star": "80"
+    "star": "87"
   },
   {
     "title": "Pierian-Data/Complete-Python-3-Bootcamp",
     "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
     "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
     "language": "Jupyter Notebook",
-    "star": "29"
+    "star": "34"
   },
   {
     "title": "dypsilon/frontend-dev-bookmarks",
     "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
     "description": "Manually curated collection of resources for frontend web developers.",
     "language": "none",
-    "star": "100"
+    "star": "106"
   },
   {
     "title": "benawad/dogehouse",
@@ -137,35 +137,35 @@
     "url": "https://github.com/Hameds/GoogleBackup",
     "description": "بکاپ از گوگل: چه اتفاقی افتاده و چه باید کرد؟",
     "language": "none",
-    "star": "85"
+    "star": "64"
   },
   {
     "title": "climech/grit",
     "url": "https://github.com/climech/grit",
     "description": "A multitree-based personal task manager",
     "language": "Go",
-    "star": "329"
+    "star": "278"
   },
   {
     "title": "rebecca-vickery/data-science-learning-resources",
     "url": "https://github.com/rebecca-vickery/data-science-learning-resources",
     "description": "A comprehensive list of free resources for learning data science",
     "language": "none",
-    "star": "18"
+    "star": "40"
   },
   {
     "title": "florinpop17/app-ideas",
     "url": "https://github.com/florinpop17/app-ideas",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "language": "none",
-    "star": "45"
+    "star": "105"
   },
   {
     "title": "BetterDiscord/Installer",
     "url": "https://github.com/BetterDiscord/Installer",
     "description": "A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.",
     "language": "Svelte",
-    "star": "266"
+    "star": "213"
   },
   {
     "title": "oppia/oppia",
