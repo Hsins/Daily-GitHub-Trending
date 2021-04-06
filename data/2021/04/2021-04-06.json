@@ -1,0 +1,177 @@
+[
+  {
+    "title": "davepl/Primes",
+    "url": "https://github.com/davepl/Primes",
+    "description": "Prime Number Projects in C#/C++/Python",
+    "language": "C++",
+    "star": "80"
+  },
+  {
+    "title": "charmbracelet/lipgloss",
+    "url": "https://github.com/charmbracelet/lipgloss",
+    "description": "Style definitions for nice terminal layouts 👄",
+    "language": "Go",
+    "star": "592"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "143"
+  },
+  {
+    "title": "hagopj13/node-express-boilerplate",
+    "url": "https://github.com/hagopj13/node-express-boilerplate",
+    "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
+    "language": "JavaScript",
+    "star": "286"
+  },
+  {
+    "title": "archlinux/archinstall",
+    "url": "https://github.com/archlinux/archinstall",
+    "description": "Arch Linux installer - guided, templates etc.",
+    "language": "Python",
+    "star": "223"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "624"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "language": "none",
+    "star": "142"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "176"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "130"
+  },
+  {
+    "title": "securitybunker/databunker",
+    "url": "https://github.com/securitybunker/databunker",
+    "description": "Secure storage for personal records built to comply with GDPR",
+    "language": "Go",
+    "star": "62"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "232"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+    "language": "none",
+    "star": "452"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability",
+    "language": "Vim script",
+    "star": "102"
+  },
+  {
+    "title": "slushiegoose/Town-Of-Us",
+    "url": "https://github.com/slushiegoose/Town-Of-Us",
+    "description": "An Among Us mod containing a bunch of roles",
+    "language": "C#",
+    "star": "21"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "267"
+  },
+  {
+    "title": "Rapptz/discord.py",
+    "url": "https://github.com/Rapptz/discord.py",
+    "description": "An API wrapper for Discord written in Python.",
+    "language": "Python",
+    "star": "90"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "33"
+  },
+  {
+    "title": "dypsilon/frontend-dev-bookmarks",
+    "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
+    "description": "Manually curated collection of resources for frontend web developers.",
+    "language": "none",
+    "star": "97"
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "description": "Taking voice conversations to the moon 🚀",
+    "language": "TypeScript",
+    "star": "57"
+  },
+  {
+    "title": "Hameds/GoogleBackup",
+    "url": "https://github.com/Hameds/GoogleBackup",
+    "description": "بکاپ از گوگل: چه اتفاقی افتاده و چه باید کرد؟",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "climech/grit",
+    "url": "https://github.com/climech/grit",
+    "description": "A multitree-based personal task manager",
+    "language": "Go",
+    "star": "284"
+  },
+  {
+    "title": "rebecca-vickery/data-science-learning-resources",
+    "url": "https://github.com/rebecca-vickery/data-science-learning-resources",
+    "description": "A comprehensive list of free resources for learning data science",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "91"
+  },
+  {
+    "title": "BetterDiscord/Installer",
+    "url": "https://github.com/BetterDiscord/Installer",
+    "description": "A simple standalone program which automates the installation, removal and maintenance of BetterDiscord.",
+    "language": "Svelte",
+    "star": "216"
+  },
+  {
+    "title": "oppia/oppia",
+    "url": "https://github.com/oppia/oppia",
+    "description": "A free, online learning platform to make quality education accessible for all.",
+    "language": "Python",
+    "star": "75"
+  }
+]
