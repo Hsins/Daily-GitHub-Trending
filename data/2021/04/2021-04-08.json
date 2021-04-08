@@ -4,35 +4,35 @@
     "url": "https://github.com/google/lyra",
     "description": "A Very Low-Bitrate Codec for Speech Compression",
     "language": "C++",
-    "star": "412"
+    "star": "370"
   },
   {
     "title": "laravel/octane",
     "url": "https://github.com/laravel/octane",
     "description": "",
     "language": "PHP",
-    "star": "314"
+    "star": "344"
   },
   {
     "title": "bevyengine/bevy",
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "95"
+    "star": "82"
   },
   {
     "title": "signalapp/Signal-Server",
     "url": "https://github.com/signalapp/Signal-Server",
     "description": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
     "language": "Java",
-    "star": "236"
+    "star": "234"
   },
   {
     "title": "apple/swift-collections",
     "url": "https://github.com/apple/swift-collections",
     "description": "A package of production grade Swift data structures",
     "language": "Swift",
-    "star": "111"
+    "star": "121"
   },
   {
     "title": "cypress-io/cypress",
@@ -46,14 +46,14 @@
     "url": "https://github.com/oppia/oppia",
     "description": "A free, online learning platform to make quality education accessible for all.",
     "language": "Python",
-    "star": "264"
+    "star": "254"
   },
   {
     "title": "binhnguyennus/awesome-scalability",
     "url": "https://github.com/binhnguyennus/awesome-scalability",
     "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
     "language": "none",
-    "star": "471"
+    "star": "533"
   },
   {
     "title": "ripienaar/free-for-dev",
@@ -67,70 +67,70 @@
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "235"
+    "star": "344"
   },
   {
     "title": "elastic/beats",
     "url": "https://github.com/elastic/beats",
     "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
     "language": "Go",
-    "star": "19"
+    "star": "18"
   },
   {
     "title": "mobilecoinfoundation/mobilecoin",
     "url": "https://github.com/mobilecoinfoundation/mobilecoin",
     "description": "Private payments for mobile devices.",
     "language": "Rust",
-    "star": "53"
+    "star": "55"
   },
   {
     "title": "google/wuffs",
     "url": "https://github.com/google/wuffs",
     "description": "Wrangling Untrusted File Formats Safely",
     "language": "C",
-    "star": "136"
+    "star": "123"
   },
   {
     "title": "edeng23/binance-trade-bot",
     "url": "https://github.com/edeng23/binance-trade-bot",
     "description": "Automated cryptocurrency trading bot",
     "language": "Python",
-    "star": "130"
+    "star": "85"
   },
   {
     "title": "textflint/textflint",
     "url": "https://github.com/textflint/textflint",
     "description": "Text Robustness Evaluation Platform",
     "language": "Python",
-    "star": "60"
+    "star": "56"
   },
   {
     "title": "hagopj13/node-express-boilerplate",
     "url": "https://github.com/hagopj13/node-express-boilerplate",
     "description": "A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose",
     "language": "JavaScript",
-    "star": "166"
+    "star": "162"
   },
   {
     "title": "huangrt01/CS-Notes",
     "url": "https://github.com/huangrt01/CS-Notes",
     "description": "我的自学笔记，终身更新。",
     "language": "Python",
-    "star": "37"
+    "star": "31"
   },
   {
     "title": "dypsilon/frontend-dev-bookmarks",
     "url": "https://github.com/dypsilon/frontend-dev-bookmarks",
     "description": "Manually curated collection of resources for frontend web developers.",
     "language": "none",
-    "star": "140"
+    "star": "143"
   },
   {
     "title": "Open-Smartwatch/open-smartwatch-os",
     "url": "https://github.com/Open-Smartwatch/open-smartwatch-os",
     "description": "The Open-Smartwatch Operating System.",
     "language": "C",
-    "star": "116"
+    "star": "123"
   },
   {
     "title": "Atmosphere-NX/Atmosphere",
@@ -151,27 +151,27 @@
     "url": "https://github.com/Azure/azure-quickstart-templates",
     "description": "Azure Quickstart Templates",
     "language": "PowerShell",
-    "star": "39"
+    "star": "44"
   },
   {
     "title": "codeedu/imersao-fsfc2",
     "url": "https://github.com/codeedu/imersao-fsfc2",
     "description": "",
     "language": "TypeScript",
-    "star": "70"
+    "star": "59"
   },
   {
     "title": "input-output-hk/plutus",
     "url": "https://github.com/input-output-hk/plutus",
     "description": "The Plutus language implementation and tools",
     "language": "HTML",
-    "star": "18"
+    "star": "17"
   },
   {
     "title": "elastic/kibana",
     "url": "https://github.com/elastic/kibana",
     "description": "Your window into the Elastic Stack",
     "language": "TypeScript",
-    "star": "16"
+    "star": "22"
   }
 ]
