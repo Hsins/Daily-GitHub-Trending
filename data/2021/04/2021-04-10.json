@@ -1,0 +1,177 @@
+[
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "description": "Taking voice conversations to the moon 🚀",
+    "language": "TypeScript",
+    "star": "133"
+  },
+  {
+    "title": "ory/keto",
+    "url": "https://github.com/ory/keto",
+    "description": "Open Source (Go) implementation of \"Zanzibar: Google's Consistent, Global Authorization System\". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",
+    "language": "Go",
+    "star": "291"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "Python",
+    "star": "318"
+  },
+  {
+    "title": "input-output-hk/plutus-pioneer-program",
+    "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+    "description": "",
+    "language": "Haskell",
+    "star": "32"
+  },
+  {
+    "title": "Unity-Technologies/com.unity.multiplayer.samples.coop",
+    "url": "https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop",
+    "description": "A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.",
+    "language": "C#",
+    "star": "63"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "255"
+  },
+  {
+    "title": "apache/incubator-dolphinscheduler",
+    "url": "https://github.com/apache/incubator-dolphinscheduler",
+    "description": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.",
+    "language": "Java",
+    "star": "67"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "137"
+  },
+  {
+    "title": "microsoft/CyberBattleSim",
+    "url": "https://github.com/microsoft/CyberBattleSim",
+    "description": "An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.",
+    "language": "Jupyter Notebook",
+    "star": "250"
+  },
+  {
+    "title": "Layout-Parser/layout-parser",
+    "url": "https://github.com/Layout-Parser/layout-parser",
+    "description": "A Python Library for Document Layout Understanding",
+    "language": "Python",
+    "star": "408"
+  },
+  {
+    "title": "androidmalware/android_hid",
+    "url": "https://github.com/androidmalware/android_hid",
+    "description": "Use Android as Rubber Ducky against another Android device",
+    "language": "Shell",
+    "star": "80"
+  },
+  {
+    "title": "sebastianbergmann/phpunit",
+    "url": "https://github.com/sebastianbergmann/phpunit",
+    "description": "The PHP Unit Testing framework.",
+    "language": "PHP",
+    "star": "69"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "description": "Automated cryptocurrency trading bot",
+    "language": "Python",
+    "star": "106"
+  },
+  {
+    "title": "adonovan/spaghetti",
+    "url": "https://github.com/adonovan/spaghetti",
+    "description": "Spaghetti: a dependency analysis tool for Go packages",
+    "language": "Go",
+    "star": "58"
+  },
+  {
+    "title": "zhangdaiscott/JimuReport",
+    "url": "https://github.com/zhangdaiscott/JimuReport",
+    "description": "一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！",
+    "language": "Java",
+    "star": "74"
+  },
+  {
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "description": "Educational blog posts for Rust beginners",
+    "language": "Rust",
+    "star": "85"
+  },
+  {
+    "title": "urbanadventurer/Android-PIN-Bruteforce",
+    "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce",
+    "description": "Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",
+    "language": "Shell",
+    "star": "20"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "star": "102"
+  },
+  {
+    "title": "martin-ger/esp_wifi_repeater",
+    "url": "https://github.com/martin-ger/esp_wifi_repeater",
+    "description": "A full functional WiFi Repeater (correctly: a WiFi NAT Router)",
+    "language": "C",
+    "star": "27"
+  },
+  {
+    "title": "sivel/speedtest-cli",
+    "url": "https://github.com/sivel/speedtest-cli",
+    "description": "Command line interface for testing internet bandwidth using speedtest.net",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "117"
+  },
+  {
+    "title": "bridgecrewio/checkov",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "description": "Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew.",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "elixir-nx/axon",
+    "url": "https://github.com/elixir-nx/axon",
+    "description": "Nx-powered Neural Networks.",
+    "language": "Elixir",
+    "star": "120"
+  },
+  {
+    "title": "bilibili/ijkplayer",
+    "url": "https://github.com/bilibili/ijkplayer",
+    "description": "Android/iOS video player based on FFmpeg n3.4, with MediaCodec, VideoToolbox support.",
+    "language": "C",
+    "star": "18"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "198"
+  }
+]
