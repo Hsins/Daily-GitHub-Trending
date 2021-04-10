@@ -11,14 +11,14 @@
     "url": "https://github.com/ory/keto",
     "description": "Open Source (Go) implementation of \"Zanzibar: Google's Consistent, Global Authorization System\". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.",
     "language": "Go",
-    "star": "228"
+    "star": "291"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "star": "313"
+    "star": "318"
   },
   {
     "title": "input-output-hk/plutus-pioneer-program",
@@ -32,14 +32,14 @@
     "url": "https://github.com/Unity-Technologies/com.unity.multiplayer.samples.coop",
     "description": "A small-scale cooperative game sample built on the new, Unity networking framework to teach developers about creating a similar multiplayer game.",
     "language": "C#",
-    "star": "66"
+    "star": "63"
   },
   {
     "title": "bevyengine/bevy",
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "254"
+    "star": "255"
   },
   {
     "title": "apache/incubator-dolphinscheduler",
@@ -53,7 +53,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "138"
+    "star": "137"
   },
   {
     "title": "microsoft/CyberBattleSim",
@@ -74,21 +74,21 @@
     "url": "https://github.com/androidmalware/android_hid",
     "description": "Use Android as Rubber Ducky against another Android device",
     "language": "Shell",
-    "star": "82"
+    "star": "80"
   },
   {
     "title": "sebastianbergmann/phpunit",
     "url": "https://github.com/sebastianbergmann/phpunit",
     "description": "The PHP Unit Testing framework.",
     "language": "PHP",
-    "star": "76"
+    "star": "69"
   },
   {
     "title": "edeng23/binance-trade-bot",
     "url": "https://github.com/edeng23/binance-trade-bot",
     "description": "Automated cryptocurrency trading bot",
     "language": "Python",
-    "star": "100"
+    "star": "106"
   },
   {
     "title": "adonovan/spaghetti",
@@ -109,7 +109,7 @@
     "url": "https://github.com/pretzelhammer/rust-blog",
     "description": "Educational blog posts for Rust beginners",
     "language": "Rust",
-    "star": "78"
+    "star": "85"
   },
   {
     "title": "urbanadventurer/Android-PIN-Bruteforce",
@@ -123,7 +123,7 @@
     "url": "https://github.com/streamich/react-use",
     "description": "React Hooks — 👍",
     "language": "TypeScript",
-    "star": "100"
+    "star": "102"
   },
   {
     "title": "martin-ger/esp_wifi_repeater",
