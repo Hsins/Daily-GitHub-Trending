@@ -4,21 +4,21 @@
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "286"
+    "star": "276"
   },
   {
     "title": "DualCoder/vgpu_unlock",
     "url": "https://github.com/DualCoder/vgpu_unlock",
     "description": "Unlock vGPU functionality for consumer grade GPUs.",
     "language": "C",
-    "star": "476"
+    "star": "475"
   },
   {
     "title": "microsoft/CyberBattleSim",
     "url": "https://github.com/microsoft/CyberBattleSim",
     "description": "An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.",
     "language": "Jupyter Notebook",
-    "star": "249"
+    "star": "218"
   },
   {
     "title": "bradtraversy/vanillawebprojects",
@@ -46,7 +46,7 @@
     "url": "https://github.com/edeng23/binance-trade-bot",
     "description": "Automated cryptocurrency trading bot",
     "language": "Python",
-    "star": "97"
+    "star": "114"
   },
   {
     "title": "google/monster-mash",
@@ -67,14 +67,14 @@
     "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce",
     "description": "Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",
     "language": "Shell",
-    "star": "71"
+    "star": "84"
   },
   {
     "title": "apache/incubator-dolphinscheduler",
     "url": "https://github.com/apache/incubator-dolphinscheduler",
     "description": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.",
     "language": "Java",
-    "star": "58"
+    "star": "91"
   },
   {
     "title": "martin-ger/esp_wifi_repeater",
@@ -88,14 +88,14 @@
     "url": "https://github.com/lydiahallie/javascript-questions",
     "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
     "language": "none",
-    "star": "167"
+    "star": "168"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "star": "268"
+    "star": "310"
   },
   {
     "title": "leonardomso/33-js-concepts",
@@ -109,7 +109,7 @@
     "url": "https://github.com/tailwindlabs/headlessui",
     "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
     "language": "TypeScript",
-    "star": "70"
+    "star": "71"
   },
   {
     "title": "lindelof/awesome-web-effect",
@@ -123,7 +123,7 @@
     "url": "https://github.com/Layout-Parser/layout-parser",
     "description": "A Python Library for Document Layout Understanding",
     "language": "Python",
-    "star": "207"
+    "star": "209"
   },
   {
     "title": "beurtschipper/Depix",
@@ -144,7 +144,7 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "130"
+    "star": "117"
   },
   {
     "title": "FirebaseExtended/flutterfire",
@@ -172,6 +172,6 @@
     "url": "https://github.com/PeiQi0/PeiQi-WIKI-POC",
     "description": "鹿不在侧，鲸不予游🐋",
     "language": "HTML",
-    "star": "41"
+    "star": "37"
   }
 ]
