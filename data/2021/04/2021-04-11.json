@@ -4,7 +4,7 @@
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "276"
+    "star": "205"
   },
   {
     "title": "DualCoder/vgpu_unlock",
@@ -67,35 +67,35 @@
     "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce",
     "description": "Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",
     "language": "Shell",
-    "star": "84"
+    "star": "76"
   },
   {
     "title": "apache/incubator-dolphinscheduler",
     "url": "https://github.com/apache/incubator-dolphinscheduler",
     "description": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.",
     "language": "Java",
-    "star": "91"
+    "star": "59"
   },
   {
     "title": "martin-ger/esp_wifi_repeater",
     "url": "https://github.com/martin-ger/esp_wifi_repeater",
     "description": "A full functional WiFi Repeater (correctly: a WiFi NAT Router)",
     "language": "C",
-    "star": "44"
+    "star": "36"
   },
   {
     "title": "lydiahallie/javascript-questions",
     "url": "https://github.com/lydiahallie/javascript-questions",
     "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
     "language": "none",
-    "star": "168"
+    "star": "174"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "Python",
-    "star": "310"
+    "star": "297"
   },
   {
     "title": "leonardomso/33-js-concepts",
@@ -123,7 +123,7 @@
     "url": "https://github.com/Layout-Parser/layout-parser",
     "description": "A Python Library for Document Layout Understanding",
     "language": "Python",
-    "star": "209"
+    "star": "239"
   },
   {
     "title": "beurtschipper/Depix",
@@ -144,7 +144,7 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "117"
+    "star": "170"
   },
   {
     "title": "FirebaseExtended/flutterfire",
@@ -172,6 +172,6 @@
     "url": "https://github.com/PeiQi0/PeiQi-WIKI-POC",
     "description": "鹿不在侧，鲸不予游🐋",
     "language": "HTML",
-    "star": "37"
+    "star": "36"
   }
 ]
