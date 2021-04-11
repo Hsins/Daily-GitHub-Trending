@@ -1,0 +1,177 @@
+[
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "276"
+  },
+  {
+    "title": "DualCoder/vgpu_unlock",
+    "url": "https://github.com/DualCoder/vgpu_unlock",
+    "description": "Unlock vGPU functionality for consumer grade GPUs.",
+    "language": "C",
+    "star": "475"
+  },
+  {
+    "title": "microsoft/CyberBattleSim",
+    "url": "https://github.com/microsoft/CyberBattleSim",
+    "description": "An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.",
+    "language": "Jupyter Notebook",
+    "star": "218"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "30"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "language": "C",
+    "star": "14"
+  },
+  {
+    "title": "hostolab/covidliste",
+    "url": "https://github.com/hostolab/covidliste",
+    "description": "0 doses perdues.",
+    "language": "Ruby",
+    "star": "24"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "description": "Automated cryptocurrency trading bot",
+    "language": "Python",
+    "star": "114"
+  },
+  {
+    "title": "google/monster-mash",
+    "url": "https://github.com/google/monster-mash",
+    "description": "",
+    "language": "C++",
+    "star": "55"
+  },
+  {
+    "title": "Yang0615777/PocList",
+    "url": "https://github.com/Yang0615777/PocList",
+    "description": "Alibaba-Nacos-Unauthorized/ApacheDruid-RCE_CVE-2021-25646/MS-Exchange-SSRF-CVE-2021-26885/Oracle-WebLogic-CVE-2021-2109_RCE/RG-CNVD-2021-14536/RJ-SSL-VPN-UltraVires/Redis-Unauthorized-RCE/TDOA-V11.7-GetOnlineCookie/VMware-vCenter-GetAnyFile/yongyou-GRP-U8-XXE/Oracle-WebLogic-CVE-2020-14883/Oracle-WebLogic-CVE-2020-14882/Apache-Solr-GetAnyFile/F5…",
+    "language": "Java",
+    "star": "45"
+  },
+  {
+    "title": "urbanadventurer/Android-PIN-Bruteforce",
+    "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce",
+    "description": "Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",
+    "language": "Shell",
+    "star": "84"
+  },
+  {
+    "title": "apache/incubator-dolphinscheduler",
+    "url": "https://github.com/apache/incubator-dolphinscheduler",
+    "description": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available `out of the box`.",
+    "language": "Java",
+    "star": "91"
+  },
+  {
+    "title": "martin-ger/esp_wifi_repeater",
+    "url": "https://github.com/martin-ger/esp_wifi_repeater",
+    "description": "A full functional WiFi Repeater (correctly: a WiFi NAT Router)",
+    "language": "C",
+    "star": "44"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "168"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "Python",
+    "star": "310"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 concepts every JavaScript developer should know.",
+    "language": "JavaScript",
+    "star": "82"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "language": "TypeScript",
+    "star": "71"
+  },
+  {
+    "title": "lindelof/awesome-web-effect",
+    "url": "https://github.com/lindelof/awesome-web-effect",
+    "description": "A series of exquisite and compact web page cool effects",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "Layout-Parser/layout-parser",
+    "url": "https://github.com/Layout-Parser/layout-parser",
+    "description": "A Python Library for Document Layout Understanding",
+    "language": "Python",
+    "star": "209"
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "description": "Recovers passwords from pixelized screenshots",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "nordicgiant2/awesome-landing-page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page",
+    "description": "A series of beautiful and practical landing page templates",
+    "language": "none",
+    "star": "46"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "description": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "language": "Dart",
+    "star": "27"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "26"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "25"
+  },
+  {
+    "title": "PeiQi0/PeiQi-WIKI-POC",
+    "url": "https://github.com/PeiQi0/PeiQi-WIKI-POC",
+    "description": "鹿不在侧，鲸不予游🐋",
+    "language": "HTML",
+    "star": "37"
+  }
+]
