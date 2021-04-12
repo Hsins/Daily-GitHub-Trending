@@ -1,0 +1,177 @@
+[
+  {
+    "title": "DualCoder/vgpu_unlock",
+    "url": "https://github.com/DualCoder/vgpu_unlock",
+    "description": "Unlock vGPU functionality for consumer grade GPUs.",
+    "language": "C",
+    "star": "405"
+  },
+  {
+    "title": "Kethku/neovide",
+    "url": "https://github.com/Kethku/neovide",
+    "description": "No Nonsense Neovim Client in Rust",
+    "language": "Rust",
+    "star": "155"
+  },
+  {
+    "title": "DidierRLopes/GamestonkTerminal",
+    "url": "https://github.com/DidierRLopes/GamestonkTerminal",
+    "description": "The next best thing after Bloomberg Terminal",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "114"
+  },
+  {
+    "title": "open-mmlab/mmocr",
+    "url": "https://github.com/open-mmlab/mmocr",
+    "description": "OpenMMLab Text Detection, Recognition and Understanding Toolbox",
+    "language": "Python",
+    "star": "129"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "110"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "99"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "star": "51"
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "description": "scikit-learn: machine learning in Python",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "pamoroso/free-python-books",
+    "url": "https://github.com/pamoroso/free-python-books",
+    "description": "Python books free to read online or download",
+    "language": "none",
+    "star": "135"
+  },
+  {
+    "title": "RUSH-LAB/SLIDE",
+    "url": "https://github.com/RUSH-LAB/SLIDE",
+    "description": "",
+    "language": "none",
+    "star": "156"
+  },
+  {
+    "title": "microsoft/CyberBattleSim",
+    "url": "https://github.com/microsoft/CyberBattleSim",
+    "description": "An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.",
+    "language": "Jupyter Notebook",
+    "star": "213"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "395"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "language": "C++",
+    "star": "93"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "language": "C",
+    "star": "40"
+  },
+  {
+    "title": "urbanadventurer/Android-PIN-Bruteforce",
+    "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce",
+    "description": "Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",
+    "language": "Shell",
+    "star": "177"
+  },
+  {
+    "title": "nordicgiant2/awesome-landing-page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page",
+    "description": "A series of beautiful and practical landing page templates",
+    "language": "none",
+    "star": "165"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "206"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 concepts every JavaScript developer should know.",
+    "language": "JavaScript",
+    "star": "152"
+  },
+  {
+    "title": "mrcodedev/frontend-developer-resources",
+    "url": "https://github.com/mrcodedev/frontend-developer-resources",
+    "description": "Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos",
+    "language": "none",
+    "star": "79"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "191"
+  },
+  {
+    "title": "PeiQi0/PeiQi-WIKI-POC",
+    "url": "https://github.com/PeiQi0/PeiQi-WIKI-POC",
+    "description": "鹿不在侧，鲸不予游🐋",
+    "language": "HTML",
+    "star": "58"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "language": "TypeScript",
+    "star": "167"
+  },
+  {
+    "title": "assetnote/kiterunner",
+    "url": "https://github.com/assetnote/kiterunner",
+    "description": "Contextual Content Discovery Tool",
+    "language": "Go",
+    "star": "67"
+  },
+  {
+    "title": "lindelof/awesome-web-effect",
+    "url": "https://github.com/lindelof/awesome-web-effect",
+    "description": "A series of exquisite and compact web page cool effects",
+    "language": "none",
+    "star": "81"
+  }
+]
