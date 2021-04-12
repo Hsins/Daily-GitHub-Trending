@@ -4,7 +4,7 @@
     "url": "https://github.com/DualCoder/vgpu_unlock",
     "description": "Unlock vGPU functionality for consumer grade GPUs.",
     "language": "C",
-    "star": "471"
+    "star": "404"
   },
   {
     "title": "Kethku/neovide",
@@ -25,14 +25,14 @@
     "url": "https://github.com/bradtraversy/vanillawebprojects",
     "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
     "language": "JavaScript",
-    "star": "124"
+    "star": "101"
   },
   {
     "title": "open-mmlab/mmocr",
     "url": "https://github.com/open-mmlab/mmocr",
     "description": "OpenMMLab Text Detection, Recognition and Understanding Toolbox",
     "language": "Python",
-    "star": "129"
+    "star": "128"
   },
   {
     "title": "airbnb/javascript",
@@ -46,7 +46,7 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "106"
+    "star": "87"
   },
   {
     "title": "Light-City/CPlusPlusThings",
@@ -74,63 +74,63 @@
     "url": "https://github.com/RUSH-LAB/SLIDE",
     "description": "",
     "language": "none",
-    "star": "156"
+    "star": "155"
   },
   {
     "title": "microsoft/CyberBattleSim",
     "url": "https://github.com/microsoft/CyberBattleSim",
     "description": "An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.",
     "language": "Jupyter Notebook",
-    "star": "213"
+    "star": "187"
   },
   {
     "title": "lydiahallie/javascript-questions",
     "url": "https://github.com/lydiahallie/javascript-questions",
     "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
     "language": "none",
-    "star": "482"
+    "star": "480"
   },
   {
     "title": "google/leveldb",
     "url": "https://github.com/google/leveldb",
     "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
     "language": "C++",
-    "star": "93"
+    "star": "88"
   },
   {
     "title": "openwrt/openwrt",
     "url": "https://github.com/openwrt/openwrt",
     "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
     "language": "C",
-    "star": "58"
+    "star": "40"
   },
   {
     "title": "urbanadventurer/Android-PIN-Bruteforce",
     "url": "https://github.com/urbanadventurer/Android-PIN-Bruteforce",
     "description": "Unlock an Android phone (or device) by bruteforcing the lockscreen PIN. Turn your Kali Nethunter phone into a bruteforce PIN cracker for Android devices! (no root, no adb)",
     "language": "Shell",
-    "star": "223"
+    "star": "219"
   },
   {
     "title": "nordicgiant2/awesome-landing-page",
     "url": "https://github.com/nordicgiant2/awesome-landing-page",
     "description": "A series of beautiful and practical landing page templates",
     "language": "none",
-    "star": "192"
+    "star": "106"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "219"
+    "star": "251"
   },
   {
     "title": "leonardomso/33-js-concepts",
     "url": "https://github.com/leonardomso/33-js-concepts",
     "description": "📜 33 concepts every JavaScript developer should know.",
     "language": "JavaScript",
-    "star": "165"
+    "star": "139"
   },
   {
     "title": "mrcodedev/frontend-developer-resources",
@@ -144,7 +144,7 @@
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "173"
+    "star": "252"
   },
   {
     "title": "PeiQi0/PeiQi-WIKI-POC",
@@ -158,7 +158,7 @@
     "url": "https://github.com/tailwindlabs/headlessui",
     "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
     "language": "TypeScript",
-    "star": "183"
+    "star": "145"
   },
   {
     "title": "assetnote/kiterunner",
@@ -172,6 +172,6 @@
     "url": "https://github.com/lindelof/awesome-web-effect",
     "description": "A series of exquisite and compact web page cool effects",
     "language": "none",
-    "star": "107"
+    "star": "99"
   }
 ]
