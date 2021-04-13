@@ -1,0 +1,177 @@
+[
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "language": "Shell",
+    "star": "72"
+  },
+  {
+    "title": "Kethku/neovide",
+    "url": "https://github.com/Kethku/neovide",
+    "description": "No Nonsense Neovim Client in Rust",
+    "language": "Rust",
+    "star": "262"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "language": "C++",
+    "star": "237"
+  },
+  {
+    "title": "Layout-Parser/layout-parser",
+    "url": "https://github.com/Layout-Parser/layout-parser",
+    "description": "A Python Library for Document Layout Understanding",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "81"
+  },
+  {
+    "title": "DidierRLopes/GamestonkTerminal",
+    "url": "https://github.com/DidierRLopes/GamestonkTerminal",
+    "description": "The next best thing after Bloomberg Terminal",
+    "language": "Python",
+    "star": "150"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。",
+    "language": "Python",
+    "star": "169"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "142"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "254"
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "description": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "language": "TypeScript",
+    "star": "437"
+  },
+  {
+    "title": "pamoroso/free-python-books",
+    "url": "https://github.com/pamoroso/free-python-books",
+    "description": "Python books free to read online or download",
+    "language": "none",
+    "star": "448"
+  },
+  {
+    "title": "easychen/one-person-businesses-methodology",
+    "url": "https://github.com/easychen/one-person-businesses-methodology",
+    "description": "一人公司方法论",
+    "language": "none",
+    "star": "130"
+  },
+  {
+    "title": "PeiQi0/PeiQi-WIKI-POC",
+    "url": "https://github.com/PeiQi0/PeiQi-WIKI-POC",
+    "description": "鹿不在侧，鲸不予游🐋",
+    "language": "HTML",
+    "star": "134"
+  },
+  {
+    "title": "lindelof/awesome-web-effect",
+    "url": "https://github.com/lindelof/awesome-web-effect",
+    "description": "A series of exquisite and compact web page cool effects",
+    "language": "none",
+    "star": "408"
+  },
+  {
+    "title": "DualCoder/vgpu_unlock",
+    "url": "https://github.com/DualCoder/vgpu_unlock",
+    "description": "Unlock vGPU functionality for consumer grade GPUs.",
+    "language": "C",
+    "star": "246"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "language": "C",
+    "star": "90"
+  },
+  {
+    "title": "nordicgiant2/awesome-landing-page",
+    "url": "https://github.com/nordicgiant2/awesome-landing-page",
+    "description": "A series of beautiful and practical landing page templates",
+    "language": "none",
+    "star": "379"
+  },
+  {
+    "title": "microsoft/CyberBattleSim",
+    "url": "https://github.com/microsoft/CyberBattleSim",
+    "description": "An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.",
+    "language": "Jupyter Notebook",
+    "star": "137"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 concepts every JavaScript developer should know.",
+    "language": "JavaScript",
+    "star": "177"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "339"
+  },
+  {
+    "title": "mrcodedev/frontend-developer-resources",
+    "url": "https://github.com/mrcodedev/frontend-developer-resources",
+    "description": "Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos",
+    "language": "none",
+    "star": "49"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "Python",
+    "star": "114"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "description": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "language": "none",
+    "star": "74"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "description": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "language": "Dart",
+    "star": "25"
+  },
+  {
+    "title": "josevalim/nested-data-structure-traversal",
+    "url": "https://github.com/josevalim/nested-data-structure-traversal",
+    "description": "",
+    "language": "Clojure",
+    "star": "166"
+  }
+]
