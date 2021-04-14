@@ -4,28 +4,28 @@
     "url": "https://github.com/r4j0x00/exploits",
     "description": "",
     "language": "JavaScript",
-    "star": "275"
+    "star": "280"
   },
   {
     "title": "microsoft/Swin-Transformer",
     "url": "https://github.com/microsoft/Swin-Transformer",
     "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
     "language": "Python",
-    "star": "144"
+    "star": "149"
   },
   {
     "title": "Light-City/CPlusPlusThings",
     "url": "https://github.com/Light-City/CPlusPlusThings",
     "description": "C++那些事",
     "language": "C++",
-    "star": "66"
+    "star": "70"
   },
   {
     "title": "opensearch-project/OpenSearch",
     "url": "https://github.com/opensearch-project/OpenSearch",
     "description": "Open source distributed and RESTful search engine.",
     "language": "Java",
-    "star": "325"
+    "star": "333"
   },
   {
     "title": "tailwindlabs/headlessui",
@@ -46,49 +46,49 @@
     "url": "https://github.com/bradtraversy/vanillawebprojects",
     "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
     "language": "JavaScript",
-    "star": "175"
+    "star": "183"
   },
   {
     "title": "tauri-apps/tauri",
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "305"
+    "star": "315"
   },
   {
     "title": "opensearch-project/OpenSearch-Dashboards",
     "url": "https://github.com/opensearch-project/OpenSearch-Dashboards",
     "description": "Open source visualization dashboards for OpenSearch.",
     "language": "TypeScript",
-    "star": "93"
+    "star": "96"
   },
   {
     "title": "DidierRLopes/GamestonkTerminal",
     "url": "https://github.com/DidierRLopes/GamestonkTerminal",
     "description": "The next best thing after Bloomberg Terminal",
     "language": "Python",
-    "star": "80"
+    "star": "81"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
     "language": "Python",
-    "star": "41"
+    "star": "39"
   },
   {
     "title": "pamoroso/free-python-books",
     "url": "https://github.com/pamoroso/free-python-books",
     "description": "Python books free to read online or download",
     "language": "none",
-    "star": "286"
+    "star": "299"
   },
   {
     "title": "thedevdojo/wave",
     "url": "https://github.com/thedevdojo/wave",
     "description": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰",
     "language": "PHP",
-    "star": "144"
+    "star": "111"
   },
   {
     "title": "easychen/one-person-businesses-methodology",
@@ -102,14 +102,14 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "194"
+    "star": "195"
   },
   {
     "title": "nordicgiant2/awesome-landing-page",
     "url": "https://github.com/nordicgiant2/awesome-landing-page",
     "description": "A series of beautiful and practical landing page templates",
     "language": "none",
-    "star": "282"
+    "star": "289"
   },
   {
     "title": "mikepound/enigma",
@@ -123,55 +123,55 @@
     "url": "https://github.com/academind/react-complete-guide-code",
     "description": "Code snapshots and materials for our \"React - The Complete Guide\" course (https://acad.link/reactjs)",
     "language": "none",
-    "star": "18"
+    "star": "19"
   },
   {
     "title": "lindelof/awesome-web-effect",
     "url": "https://github.com/lindelof/awesome-web-effect",
     "description": "A series of exquisite and compact web page cool effects",
     "language": "none",
-    "star": "304"
+    "star": "314"
   },
   {
     "title": "semi-technologies/weaviate",
     "url": "https://github.com/semi-technologies/weaviate",
     "description": "Weaviate is a cloud-native, modular, real-time vector search engine",
     "language": "Go",
-    "star": "105"
+    "star": "90"
   },
   {
     "title": "qiurunze123/miaosha",
     "url": "https://github.com/qiurunze123/miaosha",
     "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
     "language": "Java",
-    "star": "47"
+    "star": "46"
   },
   {
     "title": "Serial-Studio/Serial-Studio",
     "url": "https://github.com/Serial-Studio/Serial-Studio",
     "description": "Multi-purpose serial data visualization & processing program",
     "language": "C++",
-    "star": "40"
+    "star": "68"
   },
   {
     "title": "huggingface/transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
     "language": "Python",
-    "star": "146"
+    "star": "159"
   },
   {
     "title": "nlohmann/json",
     "url": "https://github.com/nlohmann/json",
     "description": "JSON for Modern C++",
     "language": "C++",
-    "star": "25"
+    "star": "44"
   },
   {
     "title": "foxlet/macOS-Simple-KVM",
     "url": "https://github.com/foxlet/macOS-Simple-KVM",
     "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
     "language": "Shell",
-    "star": "170"
+    "star": "167"
   }
 ]
