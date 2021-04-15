@@ -11,7 +11,7 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "216"
+    "star": "218"
   },
   {
     "title": "denoland/deno",
@@ -32,28 +32,28 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "257"
+    "star": "259"
   },
   {
     "title": "r4j0x00/exploits",
     "url": "https://github.com/r4j0x00/exploits",
     "description": "",
     "language": "JavaScript",
-    "star": "283"
+    "star": "285"
   },
   {
     "title": "GorvGoyl/Clone-Wars",
     "url": "https://github.com/GorvGoyl/Clone-Wars",
     "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
     "language": "none",
-    "star": "553"
+    "star": "561"
   },
   {
     "title": "EvgSkv/logica",
     "url": "https://github.com/EvgSkv/logica",
     "description": "Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.",
     "language": "Jupyter Notebook",
-    "star": "200"
+    "star": "190"
   },
   {
     "title": "itdevbooks/pdf",
@@ -88,14 +88,14 @@
     "url": "https://github.com/opensearch-project/OpenSearch",
     "description": "Open source distributed and RESTful search engine.",
     "language": "Java",
-    "star": "339"
+    "star": "344"
   },
   {
     "title": "microsoft/Swin-Transformer",
     "url": "https://github.com/microsoft/Swin-Transformer",
     "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
     "language": "Python",
-    "star": "277"
+    "star": "278"
   },
   {
     "title": "mozilla/TTS",
@@ -109,21 +109,21 @@
     "url": "https://github.com/FirebaseExtended/flutterfire",
     "description": "🔥 A collection of Firebase plugins for Flutter apps.",
     "language": "Dart",
-    "star": "27"
+    "star": "28"
   },
   {
     "title": "google/leveldb",
     "url": "https://github.com/google/leveldb",
     "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
     "language": "C++",
-    "star": "68"
+    "star": "69"
   },
   {
     "title": "foxlet/macOS-Simple-KVM",
     "url": "https://github.com/foxlet/macOS-Simple-KVM",
     "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
     "language": "Shell",
-    "star": "111"
+    "star": "110"
   },
   {
     "title": "ChartsCSS/charts.css",
@@ -151,14 +151,14 @@
     "url": "https://github.com/bradtraversy/vanillawebprojects",
     "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
     "language": "JavaScript",
-    "star": "139"
+    "star": "140"
   },
   {
     "title": "huggingface/transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
     "language": "Python",
-    "star": "359"
+    "star": "363"
   },
   {
     "title": "dogecoin/dogecoin",
@@ -172,6 +172,6 @@
     "url": "https://github.com/pixeltris/TwitchAdSolutions",
     "description": "",
     "language": "JavaScript",
-    "star": "19"
+    "star": "21"
   }
 ]
