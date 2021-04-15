@@ -1,0 +1,177 @@
+[
+  {
+    "title": "elixir-nx/livebook",
+    "url": "https://github.com/elixir-nx/livebook",
+    "description": "Interactive and collaborative code notebooks - made with Phoenix LiveView.",
+    "language": "Elixir",
+    "star": "188"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "218"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "Rust",
+    "star": "100"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "description": "Powerful, Extensible Dev Tools",
+    "language": "TypeScript",
+    "star": "30"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "253"
+  },
+  {
+    "title": "r4j0x00/exploits",
+    "url": "https://github.com/r4j0x00/exploits",
+    "description": "",
+    "language": "JavaScript",
+    "star": "294"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+    "language": "none",
+    "star": "621"
+  },
+  {
+    "title": "EvgSkv/logica",
+    "url": "https://github.com/EvgSkv/logica",
+    "description": "Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.",
+    "language": "Jupyter Notebook",
+    "star": "231"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "description": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "language": "none",
+    "star": "137"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "description": "Offline build planner for Path of Exile.",
+    "language": "Lua",
+    "star": "22"
+  },
+  {
+    "title": "easychen/one-person-businesses-methodology",
+    "url": "https://github.com/easychen/one-person-businesses-methodology",
+    "description": "一人公司方法论",
+    "language": "none",
+    "star": "246"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球175所大学采用教学。",
+    "language": "Python",
+    "star": "253"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "description": "Open source distributed and RESTful search engine.",
+    "language": "Java",
+    "star": "354"
+  },
+  {
+    "title": "microsoft/Swin-Transformer",
+    "url": "https://github.com/microsoft/Swin-Transformer",
+    "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
+    "language": "Python",
+    "star": "256"
+  },
+  {
+    "title": "mozilla/TTS",
+    "url": "https://github.com/mozilla/TTS",
+    "description": "🤖 💬 Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)",
+    "language": "Jupyter Notebook",
+    "star": "728"
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "description": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "language": "Dart",
+    "star": "28"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "language": "C++",
+    "star": "107"
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "language": "Shell",
+    "star": "113"
+  },
+  {
+    "title": "ChartsCSS/charts.css",
+    "url": "https://github.com/ChartsCSS/charts.css",
+    "description": "Open source CSS framework for data visualization.",
+    "language": "HTML",
+    "star": "156"
+  },
+  {
+    "title": "umputun/reproxy",
+    "url": "https://github.com/umputun/reproxy",
+    "description": "Simple edge server / reverse proxy",
+    "language": "Go",
+    "star": "66"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "description": "Production-Grade Container Scheduling and Management",
+    "language": "Go",
+    "star": "77"
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "language": "JavaScript",
+    "star": "145"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "language": "Python",
+    "star": "252"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "description": "very currency",
+    "language": "C++",
+    "star": "47"
+  },
+  {
+    "title": "pixeltris/TwitchAdSolutions",
+    "url": "https://github.com/pixeltris/TwitchAdSolutions",
+    "description": "",
+    "language": "JavaScript",
+    "star": "17"
+  }
+]
