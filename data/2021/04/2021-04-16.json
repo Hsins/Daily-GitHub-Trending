@@ -11,63 +11,63 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "300"
+    "star": "299"
   },
   {
     "title": "Forescout/project-memoria-detector",
     "url": "https://github.com/Forescout/project-memoria-detector",
     "description": "",
     "language": "Python",
-    "star": "19"
+    "star": "29"
   },
   {
     "title": "ChristianChiarulli/LunarVim",
     "url": "https://github.com/ChristianChiarulli/LunarVim",
     "description": "A Neovim config made with sane defaults",
     "language": "Lua",
-    "star": "49"
+    "star": "31"
   },
   {
     "title": "ferib/D2R-Offline",
     "url": "https://github.com/ferib/D2R-Offline",
     "description": "Diablo II: Resurrected, Offline-mode patcher",
     "language": "C#",
-    "star": "59"
+    "star": "79"
   },
   {
     "title": "PathOfBuildingCommunity/PathOfBuilding",
     "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
     "description": "Offline build planner for Path of Exile.",
     "language": "Lua",
-    "star": "64"
+    "star": "63"
   },
   {
     "title": "avboy1337/1195777-chrome0day",
     "url": "https://github.com/avboy1337/1195777-chrome0day",
     "description": "",
     "language": "HTML",
-    "star": "64"
+    "star": "55"
   },
   {
     "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
     "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
     "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
     "language": "none",
-    "star": "122"
+    "star": "118"
   },
   {
     "title": "qiurunze123/miaosha",
     "url": "https://github.com/qiurunze123/miaosha",
     "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
     "language": "Java",
-    "star": "63"
+    "star": "66"
   },
   {
     "title": "coqui-ai/TTS",
     "url": "https://github.com/coqui-ai/TTS",
     "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
     "language": "Python",
-    "star": "120"
+    "star": "123"
   },
   {
     "title": "hhroot/2021_Hvv",
@@ -81,14 +81,14 @@
     "url": "https://github.com/MohamedYoussouf/Design-Resources",
     "description": "A curated list of design resources from design templates, stock photos, icons, colors, and much more.",
     "language": "none",
-    "star": "57"
+    "star": "91"
   },
   {
     "title": "EvgSkv/logica",
     "url": "https://github.com/EvgSkv/logica",
     "description": "Logica is a logic programming language that compiles to StandardSQL and runs on Google BigQuery.",
     "language": "Jupyter Notebook",
-    "star": "128"
+    "star": "130"
   },
   {
     "title": "rby90/project-based-tutorials-in-c",
@@ -102,14 +102,14 @@
     "url": "https://github.com/encoredev/encore",
     "description": "The Go backend framework with superpowers",
     "language": "Go",
-    "star": "188"
+    "star": "182"
   },
   {
     "title": "louisfb01/start-machine-learning-in-2020",
     "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
     "description": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
     "language": "none",
-    "star": "43"
+    "star": "42"
   },
   {
     "title": "nlohmann/json",
@@ -123,42 +123,42 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "279"
+    "star": "262"
   },
   {
     "title": "GorvGoyl/Clone-Wars",
     "url": "https://github.com/GorvGoyl/Clone-Wars",
     "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
     "language": "none",
-    "star": "923"
+    "star": "933"
   },
   {
     "title": "huggingface/transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
     "language": "Python",
-    "star": "320"
+    "star": "316"
   },
   {
     "title": "elixir-nx/livebook",
     "url": "https://github.com/elixir-nx/livebook",
     "description": "Interactive and collaborative code notebooks - made with Phoenix LiveView.",
     "language": "Elixir",
-    "star": "305"
+    "star": "299"
   },
   {
     "title": "dogecoin/dogecoin",
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "281"
+    "star": "300"
   },
   {
     "title": "easychen/one-person-businesses-methodology",
     "url": "https://github.com/easychen/one-person-businesses-methodology",
     "description": "一人公司方法论",
     "language": "none",
-    "star": "226"
+    "star": "248"
   },
   {
     "title": "alberteije/T2Ti-Pegasus-PDV-Lite",
@@ -172,6 +172,6 @@
     "url": "https://github.com/opensearch-project/OpenSearch",
     "description": "Open source distributed and RESTful search engine.",
     "language": "Java",
-    "star": "200"
+    "star": "202"
   }
 ]
