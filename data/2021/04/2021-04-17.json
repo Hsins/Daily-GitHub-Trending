@@ -1,0 +1,177 @@
+[
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "description": "very currency",
+    "language": "C++",
+    "star": "461"
+  },
+  {
+    "title": "calendso/calendso",
+    "url": "https://github.com/calendso/calendso",
+    "description": "The open-source Calendly alternative.",
+    "language": "TypeScript",
+    "star": "503"
+  },
+  {
+    "title": "facebookresearch/pytorchvideo",
+    "url": "https://github.com/facebookresearch/pytorchvideo",
+    "description": "A deep learning library for video understanding research.",
+    "language": "Python",
+    "star": "122"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "200"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "description": "Offline build planner for Path of Exile.",
+    "language": "Lua",
+    "star": "66"
+  },
+  {
+    "title": "flashlight/flashlight",
+    "url": "https://github.com/flashlight/flashlight",
+    "description": "A C++ standalone library for machine learning",
+    "language": "C++",
+    "star": "594"
+  },
+  {
+    "title": "ferib/D2R-Offline",
+    "url": "https://github.com/ferib/D2R-Offline",
+    "description": "Diablo II: Resurrected, Offline-mode patcher",
+    "language": "C#",
+    "star": "142"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "358"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "language": "none",
+    "star": "253"
+  },
+  {
+    "title": "kgrzybek/modular-monolith-with-ddd",
+    "url": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+    "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+    "language": "C#",
+    "star": "55"
+  },
+  {
+    "title": "openethereum/openethereum",
+    "url": "https://github.com/openethereum/openethereum",
+    "description": "The fast, light, and robust client for the Ethereum mainnet.",
+    "language": "Rust",
+    "star": "165"
+  },
+  {
+    "title": "microsoft/Swin-Transformer",
+    "url": "https://github.com/microsoft/Swin-Transformer",
+    "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
+    "language": "Python",
+    "star": "179"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "language": "Go",
+    "star": "50"
+  },
+  {
+    "title": "everestpipkin/tools-list",
+    "url": "https://github.com/everestpipkin/tools-list",
+    "description": "Open source, experimental, and tiny tools roundup",
+    "language": "HTML",
+    "star": "94"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "description": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "language": "none",
+    "star": "181"
+  },
+  {
+    "title": "Forescout/project-memoria-detector",
+    "url": "https://github.com/Forescout/project-memoria-detector",
+    "description": "",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "ChristianChiarulli/LunarVim",
+    "url": "https://github.com/ChristianChiarulli/LunarVim",
+    "description": "A Neovim config made with sane defaults",
+    "language": "Lua",
+    "star": "164"
+  },
+  {
+    "title": "shalzuth/D2RModding",
+    "url": "https://github.com/shalzuth/D2RModding",
+    "description": "Modding for Diablo 2 Resurrected",
+    "language": "C#",
+    "star": "19"
+  },
+  {
+    "title": "ekzhang/graphics-workshop",
+    "url": "https://github.com/ekzhang/graphics-workshop",
+    "description": "Learn computer graphics by writing GPU shaders!",
+    "language": "GLSL",
+    "star": "80"
+  },
+  {
+    "title": "avboy1337/1195777-chrome0day",
+    "url": "https://github.com/avboy1337/1195777-chrome0day",
+    "description": "",
+    "language": "HTML",
+    "star": "86"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "description": "Terraform provider for Azure Resource Manager",
+    "language": "Go",
+    "star": "10"
+  },
+  {
+    "title": "llvm/llvm-project",
+    "url": "https://github.com/llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "Headless Chrome Node.js API",
+    "language": "TypeScript",
+    "star": "55"
+  },
+  {
+    "title": "hhroot/2021_Hvv",
+    "url": "https://github.com/hhroot/2021_Hvv",
+    "description": "2021 hw",
+    "language": "none",
+    "star": "107"
+  },
+  {
+    "title": "louisfb01/start-machine-learning-in-2020",
+    "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
+    "description": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
+    "language": "none",
+    "star": "152"
+  }
+]
