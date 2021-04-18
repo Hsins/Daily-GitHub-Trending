@@ -4,7 +4,7 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "832"
+    "star": "842"
   },
   {
     "title": "dogecoin/dogecoin",
@@ -25,7 +25,7 @@
     "url": "https://github.com/testerSunshine/12306",
     "description": "12306智能刷票，订票",
     "language": "Python",
-    "star": "48"
+    "star": "55"
   },
   {
     "title": "ferib/D2R-Offline",
@@ -46,7 +46,7 @@
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "48"
+    "star": "49"
   },
   {
     "title": "flashlight/flashlight",
@@ -74,7 +74,7 @@
     "url": "https://github.com/facebookresearch/pytorchvideo",
     "description": "A deep learning library for video understanding research.",
     "language": "Python",
-    "star": "318"
+    "star": "314"
   },
   {
     "title": "microg/GmsCore",
@@ -88,7 +88,7 @@
     "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
     "description": "Offline build planner for Path of Exile.",
     "language": "Lua",
-    "star": "124"
+    "star": "125"
   },
   {
     "title": "Datalux/Osintgram",
@@ -102,7 +102,7 @@
     "url": "https://github.com/ChristianChiarulli/LunarVim",
     "description": "A Neovim config made with sane defaults",
     "language": "Lua",
-    "star": "232"
+    "star": "239"
   },
   {
     "title": "SerenityOS/serenity",
@@ -123,21 +123,21 @@
     "url": "https://github.com/mpv-player/mpv",
     "description": "🎥 Command line video player",
     "language": "C",
-    "star": "94"
+    "star": "96"
   },
   {
     "title": "louisfb01/start-machine-learning-in-2020",
     "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
     "description": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
     "language": "none",
-    "star": "283"
+    "star": "312"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "306"
+    "star": "308"
   },
   {
     "title": "github/docs",
@@ -158,7 +158,7 @@
     "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
     "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
     "language": "none",
-    "star": "414"
+    "star": "421"
   },
   {
     "title": "qiurunze123/miaosha",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "64"
+    "star": "68"
   }
 ]
