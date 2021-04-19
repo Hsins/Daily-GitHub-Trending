@@ -11,42 +11,42 @@
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "278"
+    "star": "277"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "165"
+    "star": "260"
   },
   {
     "title": "Chia-Network/chia-blockchain",
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "435"
+    "star": "438"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "243"
+    "star": "241"
   },
   {
     "title": "Datalux/Osintgram",
     "url": "https://github.com/Datalux/Osintgram",
     "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
     "language": "Python",
-    "star": "132"
+    "star": "130"
   },
   {
     "title": "dogecoin/dogecoin",
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "360"
+    "star": "345"
   },
   {
     "title": "sveltejs/kit",
@@ -60,21 +60,21 @@
     "url": "https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot",
     "description": "This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds.",
     "language": "Python",
-    "star": "130"
+    "star": "135"
   },
   {
     "title": "git-tips/tips",
     "url": "https://github.com/git-tips/tips",
     "description": "Most commonly used git tips and tricks.",
     "language": "JavaScript",
-    "star": "138"
+    "star": "165"
   },
   {
     "title": "XJP-GIT/AntiZhaPian",
     "url": "https://github.com/XJP-GIT/AntiZhaPian",
     "description": "假的国家反诈中心",
     "language": "none",
-    "star": "52"
+    "star": "48"
   },
   {
     "title": "topjohnwu/Magisk",
@@ -95,14 +95,14 @@
     "url": "https://github.com/mpv-player/mpv",
     "description": "🎥 Command line video player",
     "language": "C",
-    "star": "157"
+    "star": "156"
   },
   {
     "title": "supabase/supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "149"
+    "star": "165"
   },
   {
     "title": "safemoonprotocol/Safemoon.sol",
@@ -123,55 +123,55 @@
     "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
     "description": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
     "language": "none",
-    "star": "178"
+    "star": "179"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "112"
+    "star": "103"
   },
   {
     "title": "Olshansk/interview",
     "url": "https://github.com/Olshansk/interview",
     "description": "Everything you need to prepare for your technical interview",
     "language": "none",
-    "star": "50"
+    "star": "56"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "270"
+    "star": "247"
   },
   {
     "title": "ekzhang/graphics-workshop",
     "url": "https://github.com/ekzhang/graphics-workshop",
     "description": "Learn computer graphics by writing GPU shaders!",
     "language": "GLSL",
-    "star": "333"
+    "star": "337"
   },
   {
     "title": "calendso/calendso",
     "url": "https://github.com/calendso/calendso",
     "description": "The open-source Calendly alternative.",
     "language": "TypeScript",
-    "star": "418"
+    "star": "422"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "81"
+    "star": "73"
   },
   {
     "title": "flashlight/flashlight",
     "url": "https://github.com/flashlight/flashlight",
     "description": "A C++ standalone library for machine learning",
     "language": "C++",
-    "star": "235"
+    "star": "224"
   }
 ]
