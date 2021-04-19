@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "79"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "281"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "165"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "451"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "181"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "language": "Python",
+    "star": "130"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "description": "very currency",
+    "language": "C++",
+    "star": "347"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "description": "A monorepo for SvelteKit and friends",
+    "language": "JavaScript",
+    "star": "27"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-News-Sentiment-Bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot",
+    "description": "This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds.",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "git-tips/tips",
+    "url": "https://github.com/git-tips/tips",
+    "description": "Most commonly used git tips and tricks.",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "XJP-GIT/AntiZhaPian",
+    "url": "https://github.com/XJP-GIT/AntiZhaPian",
+    "description": "假的国家反诈中心",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "star": "32"
+  },
+  {
+    "title": "microg/GmsCore",
+    "url": "https://github.com/microg/GmsCore",
+    "description": "Free implementation of Play Services",
+    "language": "Java",
+    "star": "142"
+  },
+  {
+    "title": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "description": "🎥 Command line video player",
+    "language": "C",
+    "star": "168"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "161"
+  },
+  {
+    "title": "safemoonprotocol/Safemoon.sol",
+    "url": "https://github.com/safemoonprotocol/Safemoon.sol",
+    "description": "safemoon contract",
+    "language": "Solidity",
+    "star": "14"
+  },
+  {
+    "title": "lucidrains/DALLE-pytorch",
+    "url": "https://github.com/lucidrains/DALLE-pytorch",
+    "description": "Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "louisfb01/start-machine-learning-in-2020",
+    "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
+    "description": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
+    "language": "none",
+    "star": "179"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "120"
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "description": "Everything you need to prepare for your technical interview",
+    "language": "none",
+    "star": "51"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "250"
+  },
+  {
+    "title": "ekzhang/graphics-workshop",
+    "url": "https://github.com/ekzhang/graphics-workshop",
+    "description": "Learn computer graphics by writing GPU shaders!",
+    "language": "GLSL",
+    "star": "342"
+  },
+  {
+    "title": "calendso/calendso",
+    "url": "https://github.com/calendso/calendso",
+    "description": "The open-source Calendly alternative.",
+    "language": "TypeScript",
+    "star": "412"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "73"
+  },
+  {
+    "title": "flashlight/flashlight",
+    "url": "https://github.com/flashlight/flashlight",
+    "description": "A C++ standalone library for machine learning",
+    "language": "C++",
+    "star": "224"
+  }
+]
