@@ -4,7 +4,7 @@
     "url": "https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot",
     "description": "This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds.",
     "language": "Python",
-    "star": "209"
+    "star": "199"
   },
   {
     "title": "testerSunshine/12306",
@@ -18,98 +18,98 @@
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "297"
+    "star": "305"
   },
   {
     "title": "sharkdp/bat",
     "url": "https://github.com/sharkdp/bat",
     "description": "A cat(1) clone with wings.",
     "language": "Rust",
-    "star": "85"
+    "star": "97"
   },
   {
     "title": "scottbez1/splitflap",
     "url": "https://github.com/scottbez1/splitflap",
     "description": "DIY split-flap display",
     "language": "Python",
-    "star": "215"
+    "star": "205"
   },
   {
     "title": "chefyuan/algorithm-base",
     "url": "https://github.com/chefyuan/algorithm-base",
     "description": "专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！",
     "language": "Java",
-    "star": "134"
+    "star": "132"
   },
   {
     "title": "Chia-Network/chia-blockchain",
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "430"
+    "star": "417"
   },
   {
     "title": "Rog3rSm1th/Profil3r",
     "url": "https://github.com/Rog3rSm1th/Profil3r",
     "description": "OSINT tool that allows you to find a person's accounts and emails + breached emails 🕵️",
     "language": "Python",
-    "star": "48"
+    "star": "55"
   },
   {
     "title": "Chia-Network/chia-blockchain-gui",
     "url": "https://github.com/Chia-Network/chia-blockchain-gui",
     "description": "Chia blockchain GUI in electron/react",
     "language": "TypeScript",
-    "star": "22"
+    "star": "23"
   },
   {
     "title": "Netflix/consoleme",
     "url": "https://github.com/Netflix/consoleme",
     "description": "A Central Control Plane for AWS Permissions and Access",
     "language": "Python",
-    "star": "101"
+    "star": "102"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "430"
+    "star": "421"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "201"
+    "star": "197"
   },
   {
     "title": "recastnavigation/recastnavigation",
     "url": "https://github.com/recastnavigation/recastnavigation",
     "description": "Navigation-mesh Toolset for Games",
     "language": "C++",
-    "star": "28"
+    "star": "44"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "100"
+    "star": "116"
   },
   {
     "title": "ekzhang/graphics-workshop",
     "url": "https://github.com/ekzhang/graphics-workshop",
     "description": "Learn computer graphics by writing GPU shaders!",
     "language": "GLSL",
-    "star": "212"
+    "star": "215"
   },
   {
     "title": "speechbrain/speechbrain",
     "url": "https://github.com/speechbrain/speechbrain",
     "description": "A PyTorch-based Speech Toolkit",
     "language": "Python",
-    "star": "60"
+    "star": "69"
   },
   {
     "title": "mpv-player/mpv",
@@ -123,21 +123,21 @@
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "42"
+    "star": "63"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "839"
+    "star": "831"
   },
   {
     "title": "louisfb01/start-machine-learning-in-2020",
     "url": "https://github.com/louisfb01/start-machine-learning-in-2020",
     "description": "A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
     "language": "none",
-    "star": "142"
+    "star": "155"
   },
   {
     "title": "croccio/CarTube",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Datalux/Osintgram",
     "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
     "language": "Python",
-    "star": "126"
+    "star": "137"
   },
   {
     "title": "jasontaylordev/CleanArchitecture",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Minhluu2911/Machine_Learning_2_months",
     "description": "I'm challenging to myself to learn Machine Learning Algorithms, as much as I can within 2 months",
     "language": "Jupyter Notebook",
-    "star": "4"
+    "star": "23"
   },
   {
     "title": "onnx/onnx",
     "url": "https://github.com/onnx/onnx",
     "description": "Open standard for machine learning interoperability",
     "language": "C++",
-    "star": "28"
+    "star": "33"
   }
 ]
