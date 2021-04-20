@@ -25,7 +25,7 @@
     "url": "https://github.com/sharkdp/bat",
     "description": "A cat(1) clone with wings.",
     "language": "Rust",
-    "star": "97"
+    "star": "114"
   },
   {
     "title": "scottbez1/splitflap",
@@ -39,7 +39,7 @@
     "url": "https://github.com/chefyuan/algorithm-base",
     "description": "专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！",
     "language": "Java",
-    "star": "140"
+    "star": "142"
   },
   {
     "title": "Chia-Network/chia-blockchain",
@@ -81,7 +81,7 @@
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "197"
+    "star": "199"
   },
   {
     "title": "recastnavigation/recastnavigation",
@@ -95,7 +95,7 @@
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "116"
+    "star": "118"
   },
   {
     "title": "ekzhang/graphics-workshop",
@@ -109,7 +109,7 @@
     "url": "https://github.com/speechbrain/speechbrain",
     "description": "A PyTorch-based Speech Toolkit",
     "language": "Python",
-    "star": "69"
+    "star": "86"
   },
   {
     "title": "mpv-player/mpv",
@@ -123,7 +123,7 @@
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "63"
+    "star": "72"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Datalux/Osintgram",
     "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
     "language": "Python",
-    "star": "121"
+    "star": "122"
   },
   {
     "title": "jasontaylordev/CleanArchitecture",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Minhluu2911/Machine_Learning_2_months",
     "description": "I'm challenging to myself to learn Machine Learning Algorithms, as much as I can within 2 months",
     "language": "Jupyter Notebook",
-    "star": "23"
+    "star": "30"
   },
   {
     "title": "onnx/onnx",
     "url": "https://github.com/onnx/onnx",
     "description": "Open standard for machine learning interoperability",
     "language": "C++",
-    "star": "33"
+    "star": "40"
   }
 ]
