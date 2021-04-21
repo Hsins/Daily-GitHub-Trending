@@ -4,7 +4,7 @@
     "url": "https://github.com/nasa/fprime",
     "description": "F' - A flight software and embedded systems framework",
     "language": "C++",
-    "star": "149"
+    "star": "151"
   },
   {
     "title": "flaneur2020/pua-lang",
@@ -18,49 +18,49 @@
     "url": "https://github.com/wbkd/react-flow",
     "description": "Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams",
     "language": "TypeScript",
-    "star": "289"
+    "star": "295"
   },
   {
     "title": "supabase/supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "134"
+    "star": "135"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "220"
+    "star": "207"
   },
   {
     "title": "chefyuan/algorithm-base",
     "url": "https://github.com/chefyuan/algorithm-base",
     "description": "专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！",
     "language": "Java",
-    "star": "161"
+    "star": "526"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "799"
+    "star": "791"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "214"
+    "star": "187"
   },
   {
     "title": "labuladong/fucking-algorithm",
     "url": "https://github.com/labuladong/fucking-algorithm",
     "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
     "language": "none",
-    "star": "106"
+    "star": "110"
   },
   {
     "title": "storj/storj",
@@ -74,7 +74,7 @@
     "url": "https://github.com/ossrs/srs",
     "description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181/RTSP.",
     "language": "C++",
-    "star": "48"
+    "star": "13"
   },
   {
     "title": "jdah/tetris-os",
@@ -95,21 +95,21 @@
     "url": "https://github.com/microsoft/cascadia-code",
     "description": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
     "language": "Python",
-    "star": "30"
+    "star": "32"
   },
   {
     "title": "Chia-Network/chia-blockchain",
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "434"
+    "star": "398"
   },
   {
     "title": "981011512/--",
     "url": "https://github.com/981011512/--",
     "description": "停车场系统源码，停车场小程序【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理…",
     "language": "Java",
-    "star": "125"
+    "star": "126"
   },
   {
     "title": "tevador/RandomX",
@@ -130,14 +130,14 @@
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "402"
+    "star": "429"
   },
   {
     "title": "git-tips/tips",
     "url": "https://github.com/git-tips/tips",
     "description": "Most commonly used git tips and tricks.",
     "language": "JavaScript",
-    "star": "242"
+    "star": "148"
   },
   {
     "title": "karlhadwen/instagram",
@@ -151,14 +151,14 @@
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "191"
+    "star": "85"
   },
   {
     "title": "torvalds/linux",
     "url": "https://github.com/torvalds/linux",
     "description": "Linux kernel source tree",
     "language": "C",
-    "star": "113"
+    "star": "109"
   },
   {
     "title": "argoproj/argo-workflows",
