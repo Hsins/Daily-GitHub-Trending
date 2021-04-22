@@ -4,42 +4,42 @@
     "url": "https://github.com/jdah/tetris-os",
     "description": "An operating system, but it only plays Tetris.",
     "language": "C",
-    "star": "592"
+    "star": "595"
   },
   {
     "title": "taichi-dev/taichi",
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs",
     "language": "C++",
-    "star": "81"
+    "star": "86"
   },
   {
     "title": "netdata/netdata",
     "url": "https://github.com/netdata/netdata",
     "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
     "language": "C",
-    "star": "362"
+    "star": "350"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "476"
+    "star": "506"
   },
   {
     "title": "vitling/acid-banger",
     "url": "https://github.com/vitling/acid-banger",
     "description": "The Endless Acid Banger",
     "language": "TypeScript",
-    "star": "98"
+    "star": "97"
   },
   {
     "title": "CyberPunkMetalHead/Binance-News-Sentiment-Bot",
     "url": "https://github.com/CyberPunkMetalHead/Binance-News-Sentiment-Bot",
     "description": "This is a fully functioning Binance trading bot that takes into account the news sentiment for the top 100 crypto feeds.",
     "language": "Python",
-    "star": "146"
+    "star": "193"
   },
   {
     "title": "zhangdaiscott/jeecg-boot",
@@ -53,21 +53,21 @@
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "228"
+    "star": "240"
   },
   {
     "title": "chefyuan/algorithm-base",
     "url": "https://github.com/chefyuan/algorithm-base",
     "description": "专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！",
     "language": "Java",
-    "star": "504"
+    "star": "505"
   },
   {
     "title": "ascoders/weekly",
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "257"
+    "star": "245"
   },
   {
     "title": "zellij-org/zellij",
@@ -81,14 +81,14 @@
     "url": "https://github.com/nasa/fprime",
     "description": "F' - A flight software and embedded systems framework",
     "language": "C++",
-    "star": "178"
+    "star": "181"
   },
   {
     "title": "safemoonprotocol/Safemoon.sol",
     "url": "https://github.com/safemoonprotocol/Safemoon.sol",
     "description": "safemoon contract",
     "language": "Solidity",
-    "star": "38"
+    "star": "37"
   },
   {
     "title": "luong-komorebi/Awesome-Linux-Software",
@@ -109,7 +109,7 @@
     "url": "https://github.com/youngyangyang04/leetcode-master",
     "description": "LeetCode 刷题攻略：配思维导图，将近200道经典算法题目刷题顺序、经典算法模板、共60w字的详细图解，以及难点视频题解。按照刷题攻略上的顺序来刷题，让你在算法学习上不再迷茫！🔥🔥给个star支持一下吧！🚀",
     "language": "none",
-    "star": "92"
+    "star": "90"
   },
   {
     "title": "CleverProgrammers/cp-disney-plus-clone",
@@ -123,7 +123,7 @@
     "url": "https://github.com/corona-warn-app/cwa-app-android",
     "description": "Native Android app using the Apple/Google exposure notification API.",
     "language": "Kotlin",
-    "star": "4"
+    "star": "3"
   },
   {
     "title": "AvaloniaUI/Avalonia",
@@ -137,7 +137,7 @@
     "url": "https://github.com/981011512/--",
     "description": "停车场系统源码，停车场小程序【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理…",
     "language": "Java",
-    "star": "165"
+    "star": "157"
   },
   {
     "title": "RaminNietzsche/jobguy",
@@ -158,20 +158,20 @@
     "url": "https://github.com/torvalds/linux",
     "description": "Linux kernel source tree",
     "language": "C",
-    "star": "196"
+    "star": "299"
   },
   {
     "title": "storj/storj",
     "url": "https://github.com/storj/storj",
     "description": "Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.",
     "language": "Go",
-    "star": "125"
+    "star": "152"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "65"
+    "star": "73"
   }
 ]
