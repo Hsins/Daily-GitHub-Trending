@@ -4,77 +4,77 @@
     "url": "https://github.com/eva-engine/eva.js",
     "description": "Eva.js is a front-end game engine specifically for creating interactive game projects.",
     "language": "JavaScript",
-    "star": "167"
+    "star": "171"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "209"
+    "star": "210"
   },
   {
     "title": "981011512/--",
     "url": "https://github.com/981011512/--",
     "description": "停车场系统源码，停车场小程序【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架netty4，安卓和ios均为原生开发，后台管理…",
     "language": "Java",
-    "star": "188"
+    "star": "191"
   },
   {
     "title": "ueberdosis/tiptap",
     "url": "https://github.com/ueberdosis/tiptap",
     "description": "The headless editor framework for web artisans.",
     "language": "TypeScript",
-    "star": "482"
+    "star": "486"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "Googletest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "73"
+    "star": "75"
   },
   {
     "title": "microsoft/wslg",
     "url": "https://github.com/microsoft/wslg",
     "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios",
     "language": "C++",
-    "star": "571"
+    "star": "572"
   },
   {
     "title": "facebook/react-native",
     "url": "https://github.com/facebook/react-native",
     "description": "A framework for building native apps with React.",
     "language": "JavaScript",
-    "star": "74"
+    "star": "68"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "384"
+    "star": "393"
   },
   {
     "title": "photoprism/photoprism",
     "url": "https://github.com/photoprism/photoprism",
     "description": "Personal Photo Management powered by Go and Google TensorFlow",
     "language": "Go",
-    "star": "477"
+    "star": "472"
   },
   {
     "title": "TixiaoShan/LVI-SAM",
     "url": "https://github.com/TixiaoShan/LVI-SAM",
     "description": "LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping",
     "language": "C++",
-    "star": "86"
+    "star": "85"
   },
   {
     "title": "jdah/tetris-os",
     "url": "https://github.com/jdah/tetris-os",
     "description": "An operating system, but it only plays Tetris.",
     "language": "C",
-    "star": "587"
+    "star": "589"
   },
   {
     "title": "openkraken/kraken",
@@ -88,14 +88,14 @@
     "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
     "description": "A list of awesome applications, software, tools and other materials for Linux distros.",
     "language": "Python",
-    "star": "144"
+    "star": "151"
   },
   {
     "title": "gh0stkey/Binary-Learning",
     "url": "https://github.com/gh0stkey/Binary-Learning",
     "description": "滴水逆向初、中级学习笔记，不定时更新，自用仓库，不喜勿喷；感谢滴水，有如此完整体系的学习视频，白嫖党嫖了一波...感谢海东老师，听课受益匪浅。",
     "language": "none",
-    "star": "61"
+    "star": "62"
   },
   {
     "title": "ossu/computer-science",
@@ -109,14 +109,14 @@
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs",
     "language": "C++",
-    "star": "249"
+    "star": "251"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "111"
+    "star": "114"
   },
   {
     "title": "openvinotoolkit/openvino_notebooks",
@@ -130,28 +130,28 @@
     "url": "https://github.com/rrweb-io/rrweb",
     "description": "record and replay the web",
     "language": "TypeScript",
-    "star": "111"
+    "star": "115"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "282"
+    "star": "293"
   },
   {
     "title": "chefyuan/algorithm-base",
     "url": "https://github.com/chefyuan/algorithm-base",
     "description": "专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！",
     "language": "Java",
-    "star": "347"
+    "star": "346"
   },
   {
     "title": "RH12503/triangula",
     "url": "https://github.com/RH12503/triangula",
     "description": "Generate high-quality triangulated art from images.",
     "language": "Go",
-    "star": "792"
+    "star": "796"
   },
   {
     "title": "youngyangyang04/leetcode-master",
@@ -165,13 +165,13 @@
     "url": "https://github.com/PrestaShop/PrestaShop",
     "description": "PrestaShop is a fully scalable open source e-commerce solution.",
     "language": "PHP",
-    "star": "119"
+    "star": "125"
   },
   {
     "title": "josepholiveira/podcastr",
     "url": "https://github.com/josepholiveira/podcastr",
     "description": "A platform built for podcast broadcasting. Developed during @Rocketseat NLW#05 free training.",
     "language": "TypeScript",
-    "star": "56"
+    "star": "58"
   }
 ]
