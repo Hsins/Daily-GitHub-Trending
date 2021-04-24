@@ -11,7 +11,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "205"
+    "star": "209"
   },
   {
     "title": "981011512/--",
@@ -25,7 +25,7 @@
     "url": "https://github.com/ueberdosis/tiptap",
     "description": "The headless editor framework for web artisans.",
     "language": "TypeScript",
-    "star": "477"
+    "star": "482"
   },
   {
     "title": "google/googletest",
@@ -60,21 +60,21 @@
     "url": "https://github.com/photoprism/photoprism",
     "description": "Personal Photo Management powered by Go and Google TensorFlow",
     "language": "Go",
-    "star": "467"
+    "star": "477"
   },
   {
     "title": "TixiaoShan/LVI-SAM",
     "url": "https://github.com/TixiaoShan/LVI-SAM",
     "description": "LVI-SAM: Tightly-coupled Lidar-Visual-Inertial Odometry via Smoothing and Mapping",
     "language": "C++",
-    "star": "85"
+    "star": "86"
   },
   {
     "title": "jdah/tetris-os",
     "url": "https://github.com/jdah/tetris-os",
     "description": "An operating system, but it only plays Tetris.",
     "language": "C",
-    "star": "576"
+    "star": "587"
   },
   {
     "title": "openkraken/kraken",
@@ -109,7 +109,7 @@
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Productive & portable programming language for high-performance, sparse & differentiable computing on CPUs & GPUs",
     "language": "C++",
-    "star": "248"
+    "star": "249"
   },
   {
     "title": "jackfrued/Python-100-Days",
@@ -165,13 +165,13 @@
     "url": "https://github.com/PrestaShop/PrestaShop",
     "description": "PrestaShop is a fully scalable open source e-commerce solution.",
     "language": "PHP",
-    "star": "103"
+    "star": "119"
   },
   {
     "title": "josepholiveira/podcastr",
     "url": "https://github.com/josepholiveira/podcastr",
     "description": "A platform built for podcast broadcasting. Developed during @Rocketseat NLW#05 free training.",
     "language": "TypeScript",
-    "star": "54"
+    "star": "56"
   }
 ]
