@@ -11,14 +11,14 @@
     "url": "https://github.com/chrisleekr/binance-trading-bot",
     "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
     "language": "JavaScript",
-    "star": "69"
+    "star": "82"
   },
   {
     "title": "photoprism/photoprism",
     "url": "https://github.com/photoprism/photoprism",
     "description": "Personal Photo Management powered by Go and Google TensorFlow",
     "language": "Go",
-    "star": "334"
+    "star": "346"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -46,7 +46,7 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "241"
+    "star": "210"
   },
   {
     "title": "ornicar/lila",
@@ -60,14 +60,14 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2021",
     "language": "none",
-    "star": "431"
+    "star": "449"
   },
   {
     "title": "v2fly/v2ray-core",
     "url": "https://github.com/v2fly/v2ray-core",
     "description": "A platform for building proxies to bypass network restrictions.",
     "language": "Go",
-    "star": "56"
+    "star": "61"
   },
   {
     "title": "public-apis/public-apis",
@@ -95,7 +95,7 @@
     "url": "https://github.com/ml-tooling/opyrator",
     "description": "🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.",
     "language": "Python",
-    "star": "148"
+    "star": "159"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -144,7 +144,7 @@
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "322"
+    "star": "336"
   },
   {
     "title": "DidierRLopes/GamestonkTerminal",
