@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/wslg",
+    "url": "https://github.com/microsoft/wslg",
+    "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios",
+    "language": "C++",
+    "star": "451"
+  },
+  {
+    "title": "chrisleekr/binance-trading-bot",
+    "url": "https://github.com/chrisleekr/binance-trading-bot",
+    "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
+    "language": "JavaScript",
+    "star": "323"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "description": "Personal Photo Management powered by Go and Google TensorFlow",
+    "language": "Go",
+    "star": "466"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "476"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "181"
+  },
+  {
+    "title": "chefyuan/algorithm-base",
+    "url": "https://github.com/chefyuan/algorithm-base",
+    "description": "专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！",
+    "language": "Java",
+    "star": "334"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "512"
+  },
+  {
+    "title": "ornicar/lila",
+    "url": "https://github.com/ornicar/lila",
+    "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "language": "Scala",
+    "star": "249"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "none",
+    "star": "717"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "star": "143"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "553"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "732"
+  },
+  {
+    "title": "josepholiveira/podcastr",
+    "url": "https://github.com/josepholiveira/podcastr",
+    "description": "A platform built for podcast broadcasting. Developed during @Rocketseat NLW#05 free training.",
+    "language": "TypeScript",
+    "star": "153"
+  },
+  {
+    "title": "ml-tooling/opyrator",
+    "url": "https://github.com/ml-tooling/opyrator",
+    "description": "🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.",
+    "language": "Python",
+    "star": "453"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "530"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "464"
+  },
+  {
+    "title": "bmorelli25/Become-A-Full-Stack-Web-Developer",
+    "url": "https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer",
+    "description": "Free resources for learning Full Stack Web Development",
+    "language": "none",
+    "star": "230"
+  },
+  {
+    "title": "mahmoud-eskandari/vuemastery-dl",
+    "url": "https://github.com/mahmoud-eskandari/vuemastery-dl",
+    "description": "vuemastery video downloader",
+    "language": "JavaScript",
+    "star": "61"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "Shell",
+    "star": "409"
+  },
+  {
+    "title": "Emadabdelhamied/Eng-Mohamed-Hammad-Posts",
+    "url": "https://github.com/Emadabdelhamied/Eng-Mohamed-Hammad-Posts",
+    "description": "",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "344"
+  },
+  {
+    "title": "DidierRLopes/GamestonkTerminal",
+    "url": "https://github.com/DidierRLopes/GamestonkTerminal",
+    "description": "The next best thing after Bloomberg Terminal",
+    "language": "Python",
+    "star": "107"
+  },
+  {
+    "title": "RH12503/triangula",
+    "url": "https://github.com/RH12503/triangula",
+    "description": "Generate high-quality triangulated art from images.",
+    "language": "Go",
+    "star": "363"
+  },
+  {
+    "title": "you-dont-need/You-Dont-Need-JavaScript",
+    "url": "https://github.com/you-dont-need/You-Dont-Need-JavaScript",
+    "description": "CSS is powerful, you can do a lot of things without JS.",
+    "language": "CSS",
+    "star": "449"
+  },
+  {
+    "title": "aladinyo/WhatsappyApp",
+    "url": "https://github.com/aladinyo/WhatsappyApp",
+    "description": "A whatsapp clone progressive web application built with react nodejs and firebase",
+    "language": "JavaScript",
+    "star": "115"
+  }
+]
