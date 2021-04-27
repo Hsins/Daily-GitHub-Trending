@@ -4,42 +4,42 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "828"
+    "star": "741"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (April 2021)",
     "language": "JavaScript",
-    "star": "186"
+    "star": "201"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "259"
+    "star": "235"
   },
   {
     "title": "chrisleekr/binance-trading-bot",
     "url": "https://github.com/chrisleekr/binance-trading-bot",
     "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
     "language": "JavaScript",
-    "star": "216"
+    "star": "209"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "201"
+    "star": "205"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2021",
     "language": "none",
-    "star": "551"
+    "star": "554"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -53,125 +53,125 @@
     "url": "https://github.com/tuvtran/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "243"
+    "star": "241"
   },
   {
     "title": "bradtraversy/design-resources-for-developers",
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "350"
+    "star": "345"
   },
   {
     "title": "lettier/3d-game-shaders-for-beginners",
     "url": "https://github.com/lettier/3d-game-shaders-for-beginners",
     "description": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
     "language": "C++",
-    "star": "164"
+    "star": "170"
   },
   {
     "title": "juliourena/SharpNoPSExec",
     "url": "https://github.com/juliourena/SharpNoPSExec",
     "description": "Get file less command execution for lateral movement.",
     "language": "C#",
-    "star": "68"
+    "star": "70"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "155"
+    "star": "162"
   },
   {
     "title": "danistefanovic/build-your-own-x",
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "564"
+    "star": "544"
   },
   {
     "title": "aladinyo/WhatsappyApp",
     "url": "https://github.com/aladinyo/WhatsappyApp",
     "description": "A whatsapp clone progressive web application built with react nodejs and firebase",
     "language": "JavaScript",
-    "star": "35"
+    "star": "50"
   },
   {
     "title": "photoprism/photoprism",
     "url": "https://github.com/photoprism/photoprism",
     "description": "Personal Photo Management powered by Go and Google TensorFlow",
     "language": "Go",
-    "star": "344"
+    "star": "347"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "319"
+    "star": "320"
   },
   {
     "title": "laurent22/joplin",
     "url": "https://github.com/laurent22/joplin",
     "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
     "language": "JavaScript",
-    "star": "145"
+    "star": "143"
   },
   {
     "title": "psf/black",
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "112"
+    "star": "113"
   },
   {
     "title": "bmorelli25/Become-A-Full-Stack-Web-Developer",
     "url": "https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer",
     "description": "Free resources for learning Full Stack Web Development",
     "language": "none",
-    "star": "71"
+    "star": "76"
   },
   {
     "title": "you-dont-need/You-Dont-Need-JavaScript",
     "url": "https://github.com/you-dont-need/You-Dont-Need-JavaScript",
     "description": "CSS is powerful, you can do a lot of things without JS.",
     "language": "CSS",
-    "star": "218"
+    "star": "197"
   },
   {
     "title": "pointfreeco/swift-composable-architecture",
     "url": "https://github.com/pointfreeco/swift-composable-architecture",
     "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
     "language": "Swift",
-    "star": "25"
+    "star": "22"
   },
   {
     "title": "microsoft/wslg",
     "url": "https://github.com/microsoft/wslg",
     "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios",
     "language": "C++",
-    "star": "334"
+    "star": "321"
   },
   {
     "title": "getify/You-Dont-Know-JS",
     "url": "https://github.com/getify/You-Dont-Know-JS",
     "description": "A book series on JavaScript. @YDKJS on twitter.",
     "language": "none",
-    "star": "179"
+    "star": "169"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "312"
+    "star": "285"
   },
   {
     "title": "ml-tooling/opyrator",
     "url": "https://github.com/ml-tooling/opyrator",
     "description": "🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.",
     "language": "Python",
-    "star": "245"
+    "star": "254"
   }
 ]
