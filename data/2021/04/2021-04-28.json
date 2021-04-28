@@ -4,28 +4,28 @@
     "url": "https://github.com/nekohasekai/SagerNet",
     "description": "The universal proxy toolchain for Android.",
     "language": "Kotlin",
-    "star": "154"
+    "star": "153"
   },
   {
     "title": "chrisleekr/binance-trading-bot",
     "url": "https://github.com/chrisleekr/binance-trading-bot",
     "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
     "language": "JavaScript",
-    "star": "205"
+    "star": "248"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "653"
+    "star": "692"
   },
   {
     "title": "xinliangnote/go-gin-api",
     "url": "https://github.com/xinliangnote/go-gin-api",
     "description": "基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。",
     "language": "Go",
-    "star": "157"
+    "star": "113"
   },
   {
     "title": "johnBuffer/NoCol",
@@ -39,21 +39,21 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "446"
+    "star": "335"
   },
   {
     "title": "acidanthera/OpenCorePkg",
     "url": "https://github.com/acidanthera/OpenCorePkg",
     "description": "OpenCore bootloader",
     "language": "C",
-    "star": "18"
+    "star": "17"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "455"
+    "star": "449"
   },
   {
     "title": "UnityTechnologies/open-project-1",
@@ -67,42 +67,42 @@
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "TypeScript",
-    "star": "9"
+    "star": "15"
   },
   {
     "title": "tuvtran/project-based-learning",
     "url": "https://github.com/tuvtran/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "294"
+    "star": "290"
   },
   {
     "title": "rust-embedded/rust-raspberrypi-OS-tutorials",
     "url": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
     "description": "📚 Learn to write an embedded OS in Rust 🦀",
     "language": "Rust",
-    "star": "29"
+    "star": "37"
   },
   {
     "title": "airbus-seclab/qemu_blog",
     "url": "https://github.com/airbus-seclab/qemu_blog",
     "description": "A series of posts about QEMU internals",
     "language": "none",
-    "star": "78"
+    "star": "89"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "197"
+    "star": "212"
   },
   {
     "title": "SebLague/Slime-Simulation",
     "url": "https://github.com/SebLague/Slime-Simulation",
     "description": "",
     "language": "C#",
-    "star": "32"
+    "star": "30"
   },
   {
     "title": "nianyuguai/longzhuzhu",
@@ -116,14 +116,14 @@
     "url": "https://github.com/deepcam-cn/yolov5-face",
     "description": "",
     "language": "Python",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "plan9foundation/plan9",
     "url": "https://github.com/plan9foundation/plan9",
     "description": "Plan 9 History, from 1992-09-21 to 2015-01-10.",
     "language": "C",
-    "star": "28"
+    "star": "25"
   },
   {
     "title": "mlflow/mlflow",
@@ -137,28 +137,28 @@
     "url": "https://github.com/tensorflow/tensorboard",
     "description": "TensorFlow's Visualization Toolkit",
     "language": "TypeScript",
-    "star": "11"
+    "star": "22"
   },
   {
     "title": "doocs/leetcode",
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "72"
+    "star": "56"
   },
   {
     "title": "nextapps-de/winbox",
     "url": "https://github.com/nextapps-de/winbox",
     "description": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
     "language": "JavaScript",
-    "star": "41"
+    "star": "37"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (April 2021)",
     "language": "JavaScript",
-    "star": "370"
+    "star": "344"
   },
   {
     "title": "singularseclab/Slides",
@@ -172,6 +172,6 @@
     "url": "https://github.com/airbnb/lottie-ios",
     "description": "An iOS library to natively render After Effects vector animations",
     "language": "Swift",
-    "star": "8"
+    "star": "12"
   }
 ]
