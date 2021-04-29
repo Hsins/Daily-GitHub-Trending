@@ -18,7 +18,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "468"
+    "star": "443"
   },
   {
     "title": "openssl/openssl",
@@ -32,7 +32,7 @@
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "268"
+    "star": "160"
   },
   {
     "title": "Developer-Y/cs-video-courses",
@@ -46,28 +46,28 @@
     "url": "https://github.com/nextapps-de/winbox",
     "description": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
     "language": "JavaScript",
-    "star": "746"
+    "star": "671"
   },
   {
     "title": "golang-standards/project-layout",
     "url": "https://github.com/golang-standards/project-layout",
     "description": "Standard Go Project Layout",
     "language": "Makefile",
-    "star": "97"
+    "star": "117"
   },
   {
     "title": "nekohasekai/SagerNet",
     "url": "https://github.com/nekohasekai/SagerNet",
     "description": "The universal proxy toolchain for Android.",
     "language": "Kotlin",
-    "star": "169"
+    "star": "157"
   },
   {
     "title": "chrisleekr/binance-trading-bot",
     "url": "https://github.com/chrisleekr/binance-trading-bot",
     "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
     "language": "JavaScript",
-    "star": "240"
+    "star": "236"
   },
   {
     "title": "johnBuffer/AntSimulator",
@@ -81,21 +81,21 @@
     "url": "https://github.com/UnityTechnologies/open-project-1",
     "description": "Unity Open Project #1: Chop Chop",
     "language": "C#",
-    "star": "122"
+    "star": "85"
   },
   {
     "title": "vuetifyjs/vuetify",
     "url": "https://github.com/vuetifyjs/vuetify",
     "description": "🐉 Material Component Framework for Vue",
     "language": "TypeScript",
-    "star": "15"
+    "star": "16"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "167"
+    "star": "175"
   },
   {
     "title": "ansible/ansible",
@@ -109,7 +109,7 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "151"
+    "star": "116"
   },
   {
     "title": "terraform-providers/terraform-provider-azurerm",
@@ -123,21 +123,21 @@
     "url": "https://github.com/tuvtran/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "220"
+    "star": "222"
   },
   {
     "title": "wuyouzhuguli/SpringAll",
     "url": "https://github.com/wuyouzhuguli/SpringAll",
     "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
     "language": "Java",
-    "star": "19"
+    "star": "20"
   },
   {
     "title": "airbus-seclab/qemu_blog",
     "url": "https://github.com/airbus-seclab/qemu_blog",
     "description": "A series of posts about QEMU internals",
     "language": "none",
-    "star": "124"
+    "star": "126"
   },
   {
     "title": "pointfreeco/swift-composable-architecture",
@@ -158,13 +158,13 @@
     "url": "https://github.com/tensorflow/tensorflow",
     "description": "An Open Source Machine Learning Framework for Everyone",
     "language": "C++",
-    "star": "51"
+    "star": "55"
   },
   {
     "title": "acidanthera/OpenCorePkg",
     "url": "https://github.com/acidanthera/OpenCorePkg",
     "description": "OpenCore bootloader",
     "language": "C",
-    "star": "45"
+    "star": "19"
   }
 ]
