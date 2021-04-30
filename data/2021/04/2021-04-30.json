@@ -4,14 +4,14 @@
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "270"
+    "star": "271"
   },
   {
     "title": "livewire/livewire",
     "url": "https://github.com/livewire/livewire",
     "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
     "language": "Blade",
-    "star": "26"
+    "star": "27"
   },
   {
     "title": "johnBuffer/NoCol",
@@ -25,49 +25,49 @@
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目",
     "language": "Python",
-    "star": "58"
+    "star": "53"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "211"
+    "star": "219"
   },
   {
     "title": "PaddlePaddle/PaddleDetection",
     "url": "https://github.com/PaddlePaddle/PaddleDetection",
     "description": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
     "language": "Python",
-    "star": "87"
+    "star": "92"
   },
   {
     "title": "nextapps-de/winbox",
     "url": "https://github.com/nextapps-de/winbox",
     "description": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
     "language": "JavaScript",
-    "star": "678"
+    "star": "666"
   },
   {
     "title": "UnityTechnologies/open-project-1",
     "url": "https://github.com/UnityTechnologies/open-project-1",
     "description": "Unity Open Project #1: Chop Chop",
     "language": "C#",
-    "star": "156"
+    "star": "148"
   },
   {
     "title": "flashlight/flashlight",
     "url": "https://github.com/flashlight/flashlight",
     "description": "A C++ standalone library for machine learning",
     "language": "C++",
-    "star": "79"
+    "star": "83"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "468"
+    "star": "482"
   },
   {
     "title": "dani-garcia/vaultwarden",
@@ -81,35 +81,35 @@
     "url": "https://github.com/nvbn/thefuck",
     "description": "Magnificent app which corrects your previous console command.",
     "language": "Python",
-    "star": "69"
+    "star": "81"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "372"
+    "star": "358"
   },
   {
     "title": "doocs/leetcode",
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "307"
+    "star": "351"
   },
   {
     "title": "mlflow/mlflow",
     "url": "https://github.com/mlflow/mlflow",
     "description": "Open source platform for the machine learning lifecycle",
     "language": "Python",
-    "star": "17"
+    "star": "23"
   },
   {
     "title": "xinliangnote/go-gin-api",
     "url": "https://github.com/xinliangnote/go-gin-api",
     "description": "基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gRPC 的使用 等等。",
     "language": "Go",
-    "star": "32"
+    "star": "41"
   },
   {
     "title": "gitflai/Semana-do-Iniciante-em-Data-Science",
@@ -137,21 +137,21 @@
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "C++",
-    "star": "22"
+    "star": "25"
   },
   {
     "title": "chrisleekr/binance-trading-bot",
     "url": "https://github.com/chrisleekr/binance-trading-bot",
     "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
     "language": "JavaScript",
-    "star": "191"
+    "star": "187"
   },
   {
     "title": "storj/drpc",
     "url": "https://github.com/storj/drpc",
     "description": "drpc is a lightweight, drop-in replacement for gRPC",
     "language": "Go",
-    "star": "66"
+    "star": "67"
   },
   {
     "title": "airbnb/lottie-ios",
@@ -172,6 +172,6 @@
     "url": "https://github.com/huggingface/datasets",
     "description": "🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
     "language": "Python",
-    "star": "11"
+    "star": "12"
   }
 ]
