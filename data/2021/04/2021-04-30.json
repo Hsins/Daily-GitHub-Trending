@@ -25,14 +25,14 @@
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目",
     "language": "Python",
-    "star": "53"
+    "star": "59"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "219"
+    "star": "212"
   },
   {
     "title": "PaddlePaddle/PaddleDetection",
@@ -46,28 +46,28 @@
     "url": "https://github.com/nextapps-de/winbox",
     "description": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
     "language": "JavaScript",
-    "star": "666"
+    "star": "601"
   },
   {
     "title": "UnityTechnologies/open-project-1",
     "url": "https://github.com/UnityTechnologies/open-project-1",
     "description": "Unity Open Project #1: Chop Chop",
     "language": "C#",
-    "star": "148"
+    "star": "143"
   },
   {
     "title": "flashlight/flashlight",
     "url": "https://github.com/flashlight/flashlight",
     "description": "A C++ standalone library for machine learning",
     "language": "C++",
-    "star": "83"
+    "star": "78"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "482"
+    "star": "463"
   },
   {
     "title": "dani-garcia/vaultwarden",
@@ -88,14 +88,14 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "358"
+    "star": "382"
   },
   {
     "title": "doocs/leetcode",
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "351"
+    "star": "367"
   },
   {
     "title": "mlflow/mlflow",
@@ -123,14 +123,14 @@
     "url": "https://github.com/tensorflow/tensorboard",
     "description": "TensorFlow's Visualization Toolkit",
     "language": "TypeScript",
-    "star": "10"
+    "star": "11"
   },
   {
     "title": "SagerNet/SagerNet",
     "url": "https://github.com/SagerNet/SagerNet",
     "description": "The universal proxy toolchain for Android.",
     "language": "Kotlin",
-    "star": "125"
+    "star": "169"
   },
   {
     "title": "commaai/openpilot",
@@ -144,7 +144,7 @@
     "url": "https://github.com/chrisleekr/binance-trading-bot",
     "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
     "language": "JavaScript",
-    "star": "187"
+    "star": "183"
   },
   {
     "title": "storj/drpc",
