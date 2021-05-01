@@ -81,7 +81,7 @@
     "url": "https://github.com/androidmalware/android_hid",
     "description": "Use Android as Rubber Ducky against another Android device",
     "language": "Shell",
-    "star": "26"
+    "star": "45"
   },
   {
     "title": "doocs/leetcode",
@@ -109,7 +109,7 @@
     "url": "https://github.com/chrisleekr/binance-trading-bot",
     "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
     "language": "JavaScript",
-    "star": "163"
+    "star": "241"
   },
   {
     "title": "trekhleb/javascript-algorithms",
@@ -151,7 +151,7 @@
     "url": "https://github.com/PaddlePaddle/PaddleDetection",
     "description": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
     "language": "Python",
-    "star": "106"
+    "star": "138"
   },
   {
     "title": "yuk1ty/learning-systems-programming-in-rust",
@@ -165,7 +165,7 @@
     "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
     "description": "Terraform provider for Azure Resource Manager",
     "language": "Go",
-    "star": "12"
+    "star": "22"
   },
   {
     "title": "OWASP/CheatSheetSeries",
