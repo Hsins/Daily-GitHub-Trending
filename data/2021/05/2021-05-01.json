@@ -1,0 +1,177 @@
+[
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "504"
+  },
+  {
+    "title": "Kotlin/kmm-production-sample",
+    "url": "https://github.com/Kotlin/kmm-production-sample",
+    "description": "",
+    "language": "Kotlin",
+    "star": "135"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "language": "C++",
+    "star": "265"
+  },
+  {
+    "title": "golang-standards/project-layout",
+    "url": "https://github.com/golang-standards/project-layout",
+    "description": "Standard Go Project Layout",
+    "language": "Makefile",
+    "star": "130"
+  },
+  {
+    "title": "raydium-io/raydium-ui",
+    "url": "https://github.com/raydium-io/raydium-ui",
+    "description": "",
+    "language": "TypeScript",
+    "star": "12"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "wisz2021/jd_docker",
+    "url": "https://github.com/wisz2021/jd_docker",
+    "description": "仅用查看文档",
+    "language": "Shell",
+    "star": "86"
+  },
+  {
+    "title": "passerby-b/JDDJ",
+    "url": "https://github.com/passerby-b/JDDJ",
+    "description": "京东到家果园庄园脚本,电报群:https://t.me/joinchat/wH4Ks3mT6mxiMDg1",
+    "language": "JavaScript",
+    "star": "14"
+  },
+  {
+    "title": "TritonHo/slides",
+    "url": "https://github.com/TritonHo/slides",
+    "description": "it is a repository to store all slides used by Triton Ho's public presentation and course.",
+    "language": "Go",
+    "star": "42"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
+    "language": "Java",
+    "star": "53"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "246"
+  },
+  {
+    "title": "androidmalware/android_hid",
+    "url": "https://github.com/androidmalware/android_hid",
+    "description": "Use Android as Rubber Ducky against another Android device",
+    "language": "Shell",
+    "star": "26"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "language": "Java",
+    "star": "279"
+  },
+  {
+    "title": "flashlight/flashlight",
+    "url": "https://github.com/flashlight/flashlight",
+    "description": "A C++ standalone library for machine learning",
+    "language": "C++",
+    "star": "91"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "chrisleekr/binance-trading-bot",
+    "url": "https://github.com/chrisleekr/binance-trading-bot",
+    "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
+    "language": "JavaScript",
+    "star": "163"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "336"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "description": "Powerful, Extensible Dev Tools",
+    "language": "TypeScript",
+    "star": "21"
+  },
+  {
+    "title": "nextapps-de/winbox",
+    "url": "https://github.com/nextapps-de/winbox",
+    "description": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
+    "language": "JavaScript",
+    "star": "494"
+  },
+  {
+    "title": "thedevdojo/wave",
+    "url": "https://github.com/thedevdojo/wave",
+    "description": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰",
+    "language": "PHP",
+    "star": "25"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目",
+    "language": "Python",
+    "star": "104"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "description": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
+    "language": "Python",
+    "star": "106"
+  },
+  {
+    "title": "yuk1ty/learning-systems-programming-in-rust",
+    "url": "https://github.com/yuk1ty/learning-systems-programming-in-rust",
+    "description": "「Rustでもわかるシステムプログラミング」",
+    "language": "Rust",
+    "star": "76"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "description": "Terraform provider for Azure Resource Manager",
+    "language": "Go",
+    "star": "12"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "language": "Python",
+    "star": "20"
+  }
+]
