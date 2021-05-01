@@ -4,14 +4,14 @@
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "504"
+    "star": "511"
   },
   {
     "title": "Kotlin/kmm-production-sample",
     "url": "https://github.com/Kotlin/kmm-production-sample",
     "description": "",
     "language": "Kotlin",
-    "star": "135"
+    "star": "136"
   },
   {
     "title": "commaai/openpilot",
@@ -25,7 +25,7 @@
     "url": "https://github.com/golang-standards/project-layout",
     "description": "Standard Go Project Layout",
     "language": "Makefile",
-    "star": "130"
+    "star": "131"
   },
   {
     "title": "raydium-io/raydium-ui",
@@ -67,21 +67,21 @@
     "url": "https://github.com/wuyouzhuguli/SpringAll",
     "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
     "language": "Java",
-    "star": "53"
+    "star": "54"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "246"
+    "star": "247"
   },
   {
     "title": "androidmalware/android_hid",
     "url": "https://github.com/androidmalware/android_hid",
     "description": "Use Android as Rubber Ducky against another Android device",
     "language": "Shell",
-    "star": "45"
+    "star": "26"
   },
   {
     "title": "doocs/leetcode",
@@ -102,21 +102,21 @@
     "url": "https://github.com/Datalux/Osintgram",
     "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
     "language": "Python",
-    "star": "18"
+    "star": "19"
   },
   {
     "title": "chrisleekr/binance-trading-bot",
     "url": "https://github.com/chrisleekr/binance-trading-bot",
     "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
     "language": "JavaScript",
-    "star": "241"
+    "star": "163"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "336"
+    "star": "337"
   },
   {
     "title": "nrwl/nx",
@@ -130,7 +130,7 @@
     "url": "https://github.com/nextapps-de/winbox",
     "description": "WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!",
     "language": "JavaScript",
-    "star": "494"
+    "star": "411"
   },
   {
     "title": "thedevdojo/wave",
@@ -144,28 +144,28 @@
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目",
     "language": "Python",
-    "star": "104"
+    "star": "105"
   },
   {
     "title": "PaddlePaddle/PaddleDetection",
     "url": "https://github.com/PaddlePaddle/PaddleDetection",
     "description": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
     "language": "Python",
-    "star": "138"
+    "star": "131"
   },
   {
     "title": "yuk1ty/learning-systems-programming-in-rust",
     "url": "https://github.com/yuk1ty/learning-systems-programming-in-rust",
     "description": "「Rustでもわかるシステムプログラミング」",
     "language": "Rust",
-    "star": "76"
+    "star": "77"
   },
   {
     "title": "terraform-providers/terraform-provider-azurerm",
     "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
     "description": "Terraform provider for Azure Resource Manager",
     "language": "Go",
-    "star": "22"
+    "star": "12"
   },
   {
     "title": "OWASP/CheatSheetSeries",
