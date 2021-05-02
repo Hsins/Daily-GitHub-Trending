@@ -1,0 +1,177 @@
+[
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "description": "Magnificent app which corrects your previous console command.",
+    "language": "Python",
+    "star": "422"
+  },
+  {
+    "title": "raydium-io/raydium-ui",
+    "url": "https://github.com/raydium-io/raydium-ui",
+    "description": "",
+    "language": "TypeScript",
+    "star": "57"
+  },
+  {
+    "title": "thedevdojo/wave",
+    "url": "https://github.com/thedevdojo/wave",
+    "description": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰",
+    "language": "PHP",
+    "star": "266"
+  },
+  {
+    "title": "chrisleekr/binance-trading-bot",
+    "url": "https://github.com/chrisleekr/binance-trading-bot",
+    "description": "Automated Binance trading bot - Buy low/Sell high with stop loss limit/Trade multiple cryptocurrencies",
+    "language": "JavaScript",
+    "star": "277"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "star": "69"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "160"
+  },
+  {
+    "title": "DIGITALCRIMINAL/OnlyFans",
+    "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+    "description": "Scrape all the media from an OnlyFans account - Updated regularly",
+    "language": "Python",
+    "star": "14"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目",
+    "language": "Python",
+    "star": "202"
+  },
+  {
+    "title": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr",
+    "description": "📚 Collaborative cheatsheets for console commands",
+    "language": "Markdown",
+    "star": "96"
+  },
+  {
+    "title": "AFLplusplus/LibAFL",
+    "url": "https://github.com/AFLplusplus/LibAFL",
+    "description": "Advanced Fuzzing Library - Slot your Fuzzer together in Rust! Scales across cores and machines. For Windows, Android, MacOS, Linux, no_std, ...",
+    "language": "Rust",
+    "star": "159"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "facebookresearch/dino",
+    "url": "https://github.com/facebookresearch/dino",
+    "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO",
+    "language": "Python",
+    "star": "624"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 JavaScript concepts every developer should know.",
+    "language": "JavaScript",
+    "star": "111"
+  },
+  {
+    "title": "input-output-hk/essential-cardano",
+    "url": "https://github.com/input-output-hk/essential-cardano",
+    "description": "Repository for the Essential Cardano list",
+    "language": "none",
+    "star": "41"
+  },
+  {
+    "title": "supabase/realtime",
+    "url": "https://github.com/supabase/realtime",
+    "description": "Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.",
+    "language": "Elixir",
+    "star": "555"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "language": "C++",
+    "star": "601"
+  },
+  {
+    "title": "spaceuptech/space-cloud",
+    "url": "https://github.com/spaceuptech/space-cloud",
+    "description": "Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes",
+    "language": "Go",
+    "star": "599"
+  },
+  {
+    "title": "mrdbourke/tensorflow-deep-learning",
+    "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+    "description": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+    "language": "Jupyter Notebook",
+    "star": "31"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "language": "Rust",
+    "star": "151"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "description": "🤗 The largest hub of ready-to-use NLP datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "language": "Python",
+    "star": "392"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "star": "27"
+  },
+  {
+    "title": "git-tips/tips",
+    "url": "https://github.com/git-tips/tips",
+    "description": "Most commonly used git tips and tricks.",
+    "language": "JavaScript",
+    "star": "109"
+  },
+  {
+    "title": "microsoft/Reference-Guide-For-Quantum-Computing-A-Microsoft-Garage-Project",
+    "url": "https://github.com/microsoft/Reference-Guide-For-Quantum-Computing-A-Microsoft-Garage-Project",
+    "description": "This repository hosts the Reference Guide for Quantum Computing, a Microsoft Garage project",
+    "language": "Jupyter Notebook",
+    "star": "48"
+  },
+  {
+    "title": "ericaltendorf/plotman",
+    "url": "https://github.com/ericaltendorf/plotman",
+    "description": "Chia plotting manager",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "popcorn-official/popcorn-desktop",
+    "url": "https://github.com/popcorn-official/popcorn-desktop",
+    "description": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
+    "language": "JavaScript",
+    "star": "13"
+  }
+]
