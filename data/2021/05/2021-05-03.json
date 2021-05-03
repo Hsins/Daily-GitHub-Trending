@@ -4,91 +4,91 @@
     "url": "https://github.com/facebookresearch/dino",
     "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO",
     "language": "Python",
-    "star": "399"
+    "star": "423"
   },
   {
     "title": "kelseyhightower/kubernetes-the-hard-way",
     "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
     "description": "Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.",
     "language": "none",
-    "star": "82"
+    "star": "106"
   },
   {
     "title": "Chia-Network/chia-blockchain",
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "122"
+    "star": "126"
   },
   {
     "title": "supabase/supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "374"
+    "star": "423"
   },
   {
     "title": "bitclout/frontend",
     "url": "https://github.com/bitclout/frontend",
     "description": "bitclout.com frontend",
     "language": "TypeScript",
-    "star": "13"
+    "star": "21"
   },
   {
     "title": "mrdbourke/tensorflow-deep-learning",
     "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
     "description": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
     "language": "Jupyter Notebook",
-    "star": "195"
+    "star": "235"
   },
   {
     "title": "dogecoin/dogecoin",
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "85"
+    "star": "96"
   },
   {
     "title": "thedevdojo/wave",
     "url": "https://github.com/thedevdojo/wave",
     "description": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰",
     "language": "PHP",
-    "star": "249"
+    "star": "243"
   },
   {
     "title": "DIGITALCRIMINAL/OnlyFans",
     "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
     "description": "Scrape all the media from an OnlyFans account - Updated regularly",
     "language": "Python",
-    "star": "102"
+    "star": "155"
   },
   {
     "title": "twintproject/twint",
     "url": "https://github.com/twintproject/twint",
     "description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
     "language": "Python",
-    "star": "66"
+    "star": "61"
   },
   {
     "title": "projectdiscovery/interactsh",
     "url": "https://github.com/projectdiscovery/interactsh",
     "description": "An OOB interaction gathering server and client library",
     "language": "Go",
-    "star": "29"
+    "star": "31"
   },
   {
     "title": "androidmalware/android_hid",
     "url": "https://github.com/androidmalware/android_hid",
     "description": "Use Android as Rubber Ducky against another Android device",
     "language": "Shell",
-    "star": "23"
+    "star": "17"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "C++",
-    "star": "343"
+    "star": "332"
   },
   {
     "title": "TheAlgorithms/Javascript",
@@ -102,76 +102,76 @@
     "url": "https://github.com/Uniswap/uniswap-interface",
     "description": "🦄 An open source interface for the Uniswap protocol",
     "language": "TypeScript",
-    "star": "7"
+    "star": "29"
   },
   {
     "title": "ninjamuffin99/Funkin",
     "url": "https://github.com/ninjamuffin99/Funkin",
     "description": "",
     "language": "Haxe",
-    "star": "23"
+    "star": "28"
   },
   {
     "title": "katherinepeterson/readme.so",
     "url": "https://github.com/katherinepeterson/readme.so",
     "description": "",
     "language": "JavaScript",
-    "star": "81"
+    "star": "42"
   },
   {
     "title": "flashlight/flashlight",
     "url": "https://github.com/flashlight/flashlight",
     "description": "A C++ standalone library for machine learning",
     "language": "C++",
-    "star": "54"
+    "star": "60"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "180"
+    "star": "249"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "46"
+    "star": "10"
   },
   {
     "title": "wisz2021/jd_docker",
     "url": "https://github.com/wisz2021/jd_docker",
     "description": "仅用查看文档",
     "language": "Shell",
-    "star": "31"
+    "star": "22"
   },
   {
     "title": "CSSEGISandData/COVID-19",
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
     "language": "none",
-    "star": "12"
+    "star": "10"
   },
   {
     "title": "vfat-tools/vfat-tools",
     "url": "https://github.com/vfat-tools/vfat-tools",
     "description": "",
     "language": "JavaScript",
-    "star": "7"
+    "star": "11"
   },
   {
     "title": "bhattbhavesh91/cowin-vaccination-slot-availability",
     "url": "https://github.com/bhattbhavesh91/cowin-vaccination-slot-availability",
     "description": "Script to check the available slots for Covid-19 Vaccination Centers from CoWIN API in India",
     "language": "Jupyter Notebook",
-    "star": "14"
+    "star": "11"
   },
   {
     "title": "KOBA789/relly",
     "url": "https://github.com/KOBA789/relly",
     "description": "RDBMS のしくみを学ぶための小さな RDBMS 実装",
     "language": "Rust",
-    "star": "31"
+    "star": "36"
   }
 ]
