@@ -4,35 +4,35 @@
     "url": "https://github.com/kartikey54/VaccineAvailabilityNotifier",
     "description": "",
     "language": "JavaScript",
-    "star": "61"
+    "star": "74"
   },
   {
     "title": "kelseyhightower/kubernetes-the-hard-way",
     "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
     "description": "Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.",
     "language": "none",
-    "star": "188"
+    "star": "183"
   },
   {
     "title": "DIGITALCRIMINAL/OnlyFans",
     "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
     "description": "Scrape all the media from an OnlyFans account - Updated regularly",
     "language": "Python",
-    "star": "109"
+    "star": "111"
   },
   {
     "title": "facebookresearch/dino",
     "url": "https://github.com/facebookresearch/dino",
     "description": "PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO",
     "language": "Python",
-    "star": "257"
+    "star": "253"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "120"
+    "star": "175"
   },
   {
     "title": "bhattbhavesh91/cowin-vaccination-slot-availability",
@@ -46,35 +46,35 @@
     "url": "https://github.com/flashlight/flashlight",
     "description": "A C++ standalone library for machine learning",
     "language": "C++",
-    "star": "86"
+    "star": "115"
   },
   {
     "title": "thedevdojo/wave",
     "url": "https://github.com/thedevdojo/wave",
     "description": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams 🚀 💰",
     "language": "PHP",
-    "star": "219"
+    "star": "175"
   },
   {
     "title": "tldr-pages/tldr",
     "url": "https://github.com/tldr-pages/tldr",
     "description": "📚 Collaborative cheatsheets for console commands",
     "language": "Markdown",
-    "star": "104"
+    "star": "146"
   },
   {
     "title": "pballett/whatfreewords",
     "url": "https://github.com/pballett/whatfreewords",
     "description": "",
     "language": "HTML",
-    "star": "23"
+    "star": "30"
   },
   {
     "title": "TheAlgorithms/Javascript",
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "234"
+    "star": "228"
   },
   {
     "title": "dogecoin/dogecoin",
@@ -88,77 +88,77 @@
     "url": "https://github.com/nvbn/thefuck",
     "description": "Magnificent app which corrects your previous console command.",
     "language": "Python",
-    "star": "110"
+    "star": "113"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "C++",
-    "star": "328"
+    "star": "268"
   },
   {
     "title": "labnol/covid19-vaccine-tracker",
     "url": "https://github.com/labnol/covid19-vaccine-tracker",
     "description": "Covid-19 Vaccines Near me",
     "language": "HTML",
-    "star": "10"
+    "star": "11"
   },
   {
     "title": "vfat-tools/vfat-tools",
     "url": "https://github.com/vfat-tools/vfat-tools",
     "description": "",
     "language": "JavaScript",
-    "star": "36"
+    "star": "41"
   },
   {
     "title": "hsjoberg/fork-explorer",
     "url": "https://github.com/hsjoberg/fork-explorer",
     "description": "Check how a BIP9-like softfork signalling goes",
     "language": "TypeScript",
-    "star": "10"
+    "star": "5"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "221"
+    "star": "266"
   },
   {
     "title": "torvalds/linux",
     "url": "https://github.com/torvalds/linux",
     "description": "Linux kernel source tree",
     "language": "C",
-    "star": "140"
+    "star": "149"
   },
   {
     "title": "git-tips/tips",
     "url": "https://github.com/git-tips/tips",
     "description": "Most commonly used git tips and tricks.",
     "language": "JavaScript",
-    "star": "79"
+    "star": "114"
   },
   {
     "title": "alecthomas/chroma",
     "url": "https://github.com/alecthomas/chroma",
     "description": "A general purpose syntax highlighter in pure Go",
     "language": "Go",
-    "star": "33"
+    "star": "46"
   },
   {
     "title": "aws-amplify/amplify-cli",
     "url": "https://github.com/aws-amplify/amplify-cli",
     "description": "The AWS Amplify CLI is a toolchain for simplifying serverless web and mobile development.",
     "language": "TypeScript",
-    "star": "11"
+    "star": "23"
   },
   {
     "title": "ethereum/solidity",
     "url": "https://github.com/ethereum/solidity",
     "description": "Solidity, the Smart Contract Programming Language",
     "language": "C++",
-    "star": "45"
+    "star": "55"
   },
   {
     "title": "projectdiscovery/interactsh",
@@ -172,6 +172,6 @@
     "url": "https://github.com/ionic-team/ionic-framework",
     "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
     "language": "TypeScript",
-    "star": "61"
+    "star": "104"
   }
 ]
