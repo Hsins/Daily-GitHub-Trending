@@ -18,21 +18,21 @@
     "url": "https://github.com/goharbor/harbor",
     "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
     "language": "Go",
-    "star": "18"
+    "star": "56"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "888"
+    "star": "878"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "578"
+    "star": "564"
   },
   {
     "title": "DIGITALCRIMINAL/OnlyFans",
@@ -46,7 +46,7 @@
     "url": "https://github.com/facebookincubator/cinder",
     "description": "Instagram's performance oriented fork of CPython.",
     "language": "Python",
-    "star": "289"
+    "star": "279"
   },
   {
     "title": "vinta/awesome-python",
@@ -60,14 +60,14 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "596"
+    "star": "606"
   },
   {
     "title": "dogecoin/dogecoin",
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "287"
+    "star": "282"
   },
   {
     "title": "phamdinhkhanh/vnquant",
@@ -88,7 +88,7 @@
     "url": "https://github.com/Uniswap/uniswap-v3-periphery",
     "description": "🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v3",
     "language": "TypeScript",
-    "star": "40"
+    "star": "37"
   },
   {
     "title": "swar/Swar-Chia-Plot-Manager",
@@ -102,14 +102,14 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "89"
+    "star": "95"
   },
   {
     "title": "streamich/react-use",
     "url": "https://github.com/streamich/react-use",
     "description": "React Hooks — 👍",
     "language": "TypeScript",
-    "star": "63"
+    "star": "69"
   },
   {
     "title": "dynamicwebpaige/thinking-in-data",
@@ -144,7 +144,7 @@
     "url": "https://github.com/ionic-team/ionic-framework",
     "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
     "language": "TypeScript",
-    "star": "148"
+    "star": "151"
   },
   {
     "title": "thedevdojo/wave",
@@ -165,7 +165,7 @@
     "url": "https://github.com/angular/angular-cli",
     "description": "CLI tool for Angular",
     "language": "TypeScript",
-    "star": "14"
+    "star": "16"
   },
   {
     "title": "benawad/dogehouse",
