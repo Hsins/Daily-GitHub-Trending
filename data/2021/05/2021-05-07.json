@@ -4,35 +4,35 @@
     "url": "https://github.com/pallupz/covid-vaccine-booking",
     "description": "This very basic script can be used to automate COVID-19 vaccination slot booking on India's Co-WIN Platform.",
     "language": "Python",
-    "star": "101"
+    "star": "104"
   },
   {
     "title": "slidevjs/slidev",
     "url": "https://github.com/slidevjs/slidev",
     "description": "Presentation Slides for Developers (Public Beta 🎉)",
     "language": "TypeScript",
-    "star": "454"
+    "star": "492"
   },
   {
     "title": "Uniswap/uniswap-v3-core",
     "url": "https://github.com/Uniswap/uniswap-v3-core",
     "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3",
     "language": "TypeScript",
-    "star": "73"
+    "star": "75"
   },
   {
     "title": "pixie-labs/pixie",
     "url": "https://github.com/pixie-labs/pixie",
     "description": "Instant Kubernetes-Native Application Observability",
     "language": "C++",
-    "star": "144"
+    "star": "150"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "113"
+    "star": "146"
   },
   {
     "title": "axios/axios",
@@ -46,7 +46,7 @@
     "url": "https://github.com/andymatuschak/orbit",
     "description": "",
     "language": "TypeScript",
-    "star": "126"
+    "star": "140"
   },
   {
     "title": "dogecoin/dogecoin",
@@ -60,118 +60,118 @@
     "url": "https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard",
     "description": "Responsive Admin Panel or Dashboard using Flutter",
     "language": "Dart",
-    "star": "368"
+    "star": "300"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "535"
+    "star": "497"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "717"
+    "star": "654"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "499"
+    "star": "497"
   },
   {
     "title": "kcp-dev/kcp",
     "url": "https://github.com/kcp-dev/kcp",
     "description": "kcp is a prototype of a Kubernetes API server that is not a Kubernetes cluster - a place to create, update, and maintain Kube-like APis with controllers above or without clusters.",
     "language": "Go",
-    "star": "85"
+    "star": "93"
   },
   {
     "title": "LeCoupa/awesome-cheatsheets",
     "url": "https://github.com/LeCoupa/awesome-cheatsheets",
     "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
     "language": "JavaScript",
-    "star": "176"
+    "star": "170"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "181"
+    "star": "110"
   },
   {
     "title": "seemoo-lab/openhaystack",
     "url": "https://github.com/seemoo-lab/openhaystack",
     "description": "Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
     "language": "Swift",
-    "star": "67"
+    "star": "106"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "260"
+    "star": "263"
   },
   {
     "title": "Azure/counterfit",
     "url": "https://github.com/Azure/counterfit",
     "description": "a CLI that provides a generic automation layer for assessing the security of ML models",
     "language": "Python",
-    "star": "93"
+    "star": "73"
   },
   {
     "title": "imarvinle/awesome-cs-books",
     "url": "https://github.com/imarvinle/awesome-cs-books",
     "description": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等",
     "language": "none",
-    "star": "99"
+    "star": "106"
   },
   {
     "title": "audacity/audacity",
     "url": "https://github.com/audacity/audacity",
     "description": "Audio Editor",
     "language": "C",
-    "star": "180"
+    "star": "187"
   },
   {
     "title": "Uniswap/uniswap-v3-periphery",
     "url": "https://github.com/Uniswap/uniswap-v3-periphery",
     "description": "🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v3",
     "language": "TypeScript",
-    "star": "56"
+    "star": "52"
   },
   {
     "title": "itdevbooks/pdf",
     "url": "https://github.com/itdevbooks/pdf",
     "description": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
     "language": "none",
-    "star": "28"
+    "star": "61"
   },
   {
     "title": "tokio-rs/console",
     "url": "https://github.com/tokio-rs/console",
     "description": "tokio-console prototypes",
     "language": "Rust",
-    "star": "74"
+    "star": "71"
   },
   {
     "title": "alibaba/DataX",
     "url": "https://github.com/alibaba/DataX",
     "description": "",
     "language": "Java",
-    "star": "24"
+    "star": "6"
   },
   {
     "title": "storybookjs/storybook",
     "url": "https://github.com/storybookjs/storybook",
     "description": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
     "language": "TypeScript",
-    "star": "56"
+    "star": "153"
   }
 ]
