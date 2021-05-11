@@ -1,0 +1,177 @@
+[
+  {
+    "title": "monk-coder/dust",
+    "url": "https://github.com/monk-coder/dust",
+    "description": "繁华 不过一掬细沙",
+    "language": "JavaScript",
+    "star": "29"
+  },
+  {
+    "title": "Renovamen/playground-macos",
+    "url": "https://github.com/Renovamen/playground-macos",
+    "description": "My portfolio website simulating macOS's GUI, developed with React and tailwindcss.",
+    "language": "JavaScript",
+    "star": "516"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
+    "language": "C++",
+    "star": "211"
+  },
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "description": "Presentation Slides for Developers (Public Beta 🎉)",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "description": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "language": "Python",
+    "star": "50"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "description": "Comprehensive Python Cheatsheet",
+    "language": "Python",
+    "star": "325"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "286"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "description": "A tool for writing better scripts",
+    "language": "JavaScript",
+    "star": "3"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "Java",
+    "star": "104"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "description": "LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "language": "none",
+    "star": "259"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "🔗 Some useful websites for programmers.",
+    "language": "none",
+    "star": "439"
+  },
+  {
+    "title": "matplotlib/cheatsheets",
+    "url": "https://github.com/matplotlib/cheatsheets",
+    "description": "Official Matplotlib cheat sheets",
+    "language": "Python",
+    "star": "59"
+  },
+  {
+    "title": "paulgp/applied-methods-phd",
+    "url": "https://github.com/paulgp/applied-methods-phd",
+    "description": "Repo for Yale Applied Empirical Methods PHD Course",
+    "language": "TeX",
+    "star": "52"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "dromara/shenyu",
+    "url": "https://github.com/dromara/shenyu",
+    "description": "High-Performance Java API Gateway",
+    "language": "Java",
+    "star": "108"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "79"
+  },
+  {
+    "title": "alibaba/nacos",
+    "url": "https://github.com/alibaba/nacos",
+    "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+    "language": "Java",
+    "star": "18"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "273"
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "description": "Apache Pulsar - distributed pub-sub messaging system",
+    "language": "Java",
+    "star": "14"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "star": "100"
+  },
+  {
+    "title": "qarmin/czkawka",
+    "url": "https://github.com/qarmin/czkawka",
+    "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "language": "Rust",
+    "star": "47"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "246"
+  },
+  {
+    "title": "liximomo/vscode-sftp",
+    "url": "https://github.com/liximomo/vscode-sftp",
+    "description": "Super fast sftp/ftp extension for VS Code",
+    "language": "TypeScript",
+    "star": "5"
+  },
+  {
+    "title": "panjf2000/gnet",
+    "url": "https://github.com/panjf2000/gnet",
+    "description": "🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。",
+    "language": "Go",
+    "star": "83"
+  },
+  {
+    "title": "wisz2021/jd_docker",
+    "url": "https://github.com/wisz2021/jd_docker",
+    "description": "借用的github账号，仅用查看环境变量文档与教程，反馈issue使用",
+    "language": "Shell",
+    "star": "63"
+  }
+]
