@@ -4,77 +4,77 @@
     "url": "https://github.com/qarmin/czkawka",
     "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
     "language": "Rust",
-    "star": "376"
+    "star": "384"
   },
   {
     "title": "trustwallet/assets",
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "TypeScript",
-    "star": "85"
+    "star": "86"
   },
   {
     "title": "vanhoefm/fragattacks",
     "url": "https://github.com/vanhoefm/fragattacks",
     "description": "",
     "language": "C",
-    "star": "171"
+    "star": "165"
   },
   {
     "title": "PaddlePaddle/PaddleDetection",
     "url": "https://github.com/PaddlePaddle/PaddleDetection",
     "description": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
     "language": "Python",
-    "star": "208"
+    "star": "173"
   },
   {
     "title": "CyC2018/CS-Notes",
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "Java",
-    "star": "165"
+    "star": "143"
   },
   {
     "title": "ossrs/srs",
     "url": "https://github.com/ossrs/srs",
     "description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
     "language": "C++",
-    "star": "179"
+    "star": "198"
   },
   {
     "title": "cypress-io/cypress",
     "url": "https://github.com/cypress-io/cypress",
     "description": "Fast, easy and reliable testing for anything that runs in a browser.",
     "language": "JavaScript",
-    "star": "63"
+    "star": "18"
   },
   {
     "title": "jszczerbinsky/ptSh",
     "url": "https://github.com/jszczerbinsky/ptSh",
     "description": "Let your shell commands look prettier",
     "language": "Shell",
-    "star": "26"
+    "star": "25"
   },
   {
     "title": "tauri-apps/tauri",
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "51"
+    "star": "84"
   },
   {
     "title": "education/GitHubGraduation-2021",
     "url": "https://github.com/education/GitHubGraduation-2021",
     "description": "Join the GitHub Graduation Yearbook and \"walk the stage\" on June 5.",
     "language": "JavaScript",
-    "star": "159"
+    "star": "187"
   },
   {
     "title": "sidkshatriya/rd",
     "url": "https://github.com/sidkshatriya/rd",
     "description": "rd is a record/replay debugger written in rust",
     "language": "Rust",
-    "star": "73"
+    "star": "70"
   },
   {
     "title": "mbkore/lockup",
@@ -88,7 +88,7 @@
     "url": "https://github.com/openai/guided-diffusion",
     "description": "",
     "language": "Python",
-    "star": "52"
+    "star": "46"
   },
   {
     "title": "TheAlgorithms/C-Plus-Plus",
@@ -102,7 +102,7 @@
     "url": "https://github.com/IBM/Project_CodeNet",
     "description": "This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX",
     "language": "Python",
-    "star": "93"
+    "star": "124"
   },
   {
     "title": "positive-security/send-my",
@@ -116,14 +116,14 @@
     "url": "https://github.com/taowen/awesome-lowcode",
     "description": "国内低代码平台从业者交流",
     "language": "none",
-    "star": "20"
+    "star": "19"
   },
   {
     "title": "zhangdaiscott/JimuReport",
     "url": "https://github.com/zhangdaiscott/JimuReport",
     "description": "一款免费的数据可视化工具，报表与大屏设计！类似于excel操作风格，在线拖拽完成报表设计！功能涵盖: 报表设计、图形报表、打印设计、大屏设计等，永久免费！",
     "language": "Java",
-    "star": "63"
+    "star": "36"
   },
   {
     "title": "intel-isl/PhotorealismEnhancement",
@@ -137,41 +137,41 @@
     "url": "https://github.com/pyodide/pyodide",
     "description": "Python with the scientific stack, compiled to WebAssembly.",
     "language": "Python",
-    "star": "137"
+    "star": "143"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (May 2021)",
     "language": "JavaScript",
-    "star": "122"
+    "star": "155"
   },
   {
     "title": "dromara/sa-token",
     "url": "https://github.com/dromara/sa-token",
     "description": "这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...",
     "language": "Java",
-    "star": "124"
+    "star": "95"
   },
   {
     "title": "tuvtran/project-based-learning",
     "url": "https://github.com/tuvtran/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "179"
+    "star": "175"
   },
   {
     "title": "pallets/flask",
     "url": "https://github.com/pallets/flask",
     "description": "The Python micro framework for building web applications.",
     "language": "Python",
-    "star": "181"
+    "star": "186"
   },
   {
     "title": "sdmg15/Best-websites-a-programmer-should-visit",
     "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
     "description": "🔗 Some useful websites for programmers.",
     "language": "none",
-    "star": "302"
+    "star": "337"
   }
 ]
