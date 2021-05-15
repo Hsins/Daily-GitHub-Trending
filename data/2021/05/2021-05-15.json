@@ -4,161 +4,161 @@
     "url": "https://github.com/syncthing/syncthing",
     "description": "Open Source Continuous File Synchronization",
     "language": "Go",
-    "star": "373"
+    "star": "426"
   },
   {
     "title": "ossrs/srs",
     "url": "https://github.com/ossrs/srs",
     "description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
     "language": "C++",
-    "star": "210"
+    "star": "387"
   },
   {
     "title": "ExpressLRS/ExpressLRS",
     "url": "https://github.com/ExpressLRS/ExpressLRS",
     "description": "STM32/ESP32/ESP8285 based High Performance Radio Link for Quads",
     "language": "C++",
-    "star": "4"
+    "star": "26"
   },
   {
     "title": "trustwallet/assets",
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "TypeScript",
-    "star": "97"
+    "star": "107"
   },
   {
     "title": "positive-security/send-my",
     "url": "https://github.com/positive-security/send-my",
     "description": "Upload arbitrary data via Apple's Find My network.",
     "language": "C",
-    "star": "189"
+    "star": "359"
   },
   {
     "title": "makenotion/notion-sdk-js",
     "url": "https://github.com/makenotion/notion-sdk-js",
     "description": "",
     "language": "TypeScript",
-    "star": "146"
+    "star": "204"
   },
   {
     "title": "AllThingsSmitty/css-protips",
     "url": "https://github.com/AllThingsSmitty/css-protips",
     "description": "A collection of tips to help take your CSS skills pro",
     "language": "none",
-    "star": "107"
+    "star": "178"
   },
   {
     "title": "awslabs/aws-saas-boost",
     "url": "https://github.com/awslabs/aws-saas-boost",
     "description": "",
     "language": "Java",
-    "star": "123"
+    "star": "115"
   },
   {
     "title": "dogecoin/dogecoin",
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "224"
+    "star": "255"
   },
   {
     "title": "thedaviddias/Front-End-Checklist",
     "url": "https://github.com/thedaviddias/Front-End-Checklist",
     "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
     "language": "none",
-    "star": "133"
+    "star": "250"
   },
   {
     "title": "intel-isl/PhotorealismEnhancement",
     "url": "https://github.com/intel-isl/PhotorealismEnhancement",
     "description": "Code & Data for Enhancing Photorealism Enhancement",
     "language": "HTML",
-    "star": "196"
+    "star": "79"
   },
   {
     "title": "darylhjd/mangadesk",
     "url": "https://github.com/darylhjd/mangadesk",
     "description": "Terminal client for MangaDex 📖",
     "language": "Go",
-    "star": "55"
+    "star": "86"
   },
   {
     "title": "monk-coder/dust",
     "url": "https://github.com/monk-coder/dust",
     "description": "繁华 不过一掬细沙",
     "language": "JavaScript",
-    "star": "62"
+    "star": "66"
   },
   {
     "title": "h5bp/html5-boilerplate",
     "url": "https://github.com/h5bp/html5-boilerplate",
     "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
     "language": "JavaScript",
-    "star": "27"
+    "star": "84"
   },
   {
     "title": "apache/shardingsphere",
     "url": "https://github.com/apache/shardingsphere",
     "description": "Distributed Database Ecosphere",
     "language": "Java",
-    "star": "30"
+    "star": "37"
   },
   {
     "title": "OWASP/CheatSheetSeries",
     "url": "https://github.com/OWASP/CheatSheetSeries",
     "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
     "language": "Python",
-    "star": "128"
+    "star": "86"
   },
   {
     "title": "tuvtran/project-based-learning",
     "url": "https://github.com/tuvtran/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "223"
+    "star": "283"
   },
   {
     "title": "dromara/sa-token",
     "url": "https://github.com/dromara/sa-token",
     "description": "这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...",
     "language": "Java",
-    "star": "114"
+    "star": "132"
   },
   {
     "title": "swar/Swar-Chia-Plot-Manager",
     "url": "https://github.com/swar/Swar-Chia-Plot-Manager",
     "description": "This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable.",
     "language": "Python",
-    "star": "84"
+    "star": "75"
   },
   {
     "title": "JanVanRyswyck/awesome-talks",
     "url": "https://github.com/JanVanRyswyck/awesome-talks",
     "description": "Awesome online talks and screencasts",
     "language": "none",
-    "star": "87"
+    "star": "156"
   },
   {
     "title": "google/leveldb",
     "url": "https://github.com/google/leveldb",
     "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
     "language": "C++",
-    "star": "23"
+    "star": "31"
   },
   {
     "title": "paritytech/substrate",
     "url": "https://github.com/paritytech/substrate",
     "description": "Substrate: The platform for blockchain innovators",
     "language": "Rust",
-    "star": "12"
+    "star": "47"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (May 2021)",
     "language": "JavaScript",
-    "star": "184"
+    "star": "211"
   },
   {
     "title": "facebook/folly",
