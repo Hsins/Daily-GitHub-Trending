@@ -1,0 +1,177 @@
+[
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "97"
+  },
+  {
+    "title": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "description": "Open Source Continuous File Synchronization",
+    "language": "Go",
+    "star": "378"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "description": "A SQL linter and auto-formatter for Humans",
+    "language": "Python",
+    "star": "78"
+  },
+  {
+    "title": "input-output-hk/plutus",
+    "url": "https://github.com/input-output-hk/plutus",
+    "description": "The Plutus language implementation and tools",
+    "language": "HTML",
+    "star": "16"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "10"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "star": "92"
+  },
+  {
+    "title": "swar/Swar-Chia-Plot-Manager",
+    "url": "https://github.com/swar/Swar-Chia-Plot-Manager",
+    "description": "This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable.",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "schlae/graphics-gremlin",
+    "url": "https://github.com/schlae/graphics-gremlin",
+    "description": "Open source retro ISA video card",
+    "language": "Verilog",
+    "star": "30"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "425"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "191"
+  },
+  {
+    "title": "ExpressLRS/ExpressLRS",
+    "url": "https://github.com/ExpressLRS/ExpressLRS",
+    "description": "STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications",
+    "language": "C++",
+    "star": "28"
+  },
+  {
+    "title": "JanVanRyswyck/awesome-talks",
+    "url": "https://github.com/JanVanRyswyck/awesome-talks",
+    "description": "Awesome online talks and screencasts",
+    "language": "none",
+    "star": "299"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "language": "C++",
+    "star": "20"
+  },
+  {
+    "title": "tuteng/Best-websites-a-programmer-should-visit-zh",
+    "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh",
+    "description": "程序员应该访问的最佳网站中文版",
+    "language": "none",
+    "star": "342"
+  },
+  {
+    "title": "lockedbyte/CVE-Exploits",
+    "url": "https://github.com/lockedbyte/CVE-Exploits",
+    "description": "PoC exploits for software vulnerabilities",
+    "language": "C",
+    "star": "29"
+  },
+  {
+    "title": "jklepatch/eattheblocks",
+    "url": "https://github.com/jklepatch/eattheblocks",
+    "description": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
+    "language": "JavaScript",
+    "star": "56"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "description": "very currency",
+    "language": "C++",
+    "star": "270"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "66"
+  },
+  {
+    "title": "lucky/bad_actor_poc",
+    "url": "https://github.com/lucky/bad_actor_poc",
+    "description": "",
+    "language": "Rust",
+    "star": "26"
+  },
+  {
+    "title": "solana-labs/solana-season",
+    "url": "https://github.com/solana-labs/solana-season",
+    "description": "",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "AkihiroSuda/lima",
+    "url": "https://github.com/AkihiroSuda/lima",
+    "description": "Lima: Linux-on-Mac (\"macOS subsystem for Linux\", \"containerd for Mac\")",
+    "language": "Go",
+    "star": "480"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "language": "C++",
+    "star": "50"
+  },
+  {
+    "title": "freqtrade/freqtrade-strategies",
+    "url": "https://github.com/freqtrade/freqtrade-strategies",
+    "description": "Free trading strategies for Freqtrade bot",
+    "language": "Python",
+    "star": "40"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "description": "Tracking the impact of COVID-19 in India",
+    "language": "JavaScript",
+    "star": "42"
+  }
+]
