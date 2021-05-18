@@ -1,0 +1,177 @@
+[
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "288"
+  },
+  {
+    "title": "AkihiroSuda/lima",
+    "url": "https://github.com/AkihiroSuda/lima",
+    "description": "Lima: Linux-on-Mac (\"macOS subsystem for Linux\", \"containerd for Mac\")",
+    "language": "Go",
+    "star": "340"
+  },
+  {
+    "title": "Chia-Network/pool-reference",
+    "url": "https://github.com/Chia-Network/pool-reference",
+    "description": "",
+    "language": "Python",
+    "star": "26"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "197"
+  },
+  {
+    "title": "ethersphere/bee",
+    "url": "https://github.com/ethersphere/bee",
+    "description": "Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data.",
+    "language": "Go",
+    "star": "21"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "71"
+  },
+  {
+    "title": "tuteng/Best-websites-a-programmer-should-visit-zh",
+    "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh",
+    "description": "程序员应该访问的最佳网站中文版",
+    "language": "none",
+    "star": "366"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "296"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "351"
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "language": "JavaScript",
+    "star": "501"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+    "language": "C++",
+    "star": "58"
+  },
+  {
+    "title": "JanVanRyswyck/awesome-talks",
+    "url": "https://github.com/JanVanRyswyck/awesome-talks",
+    "description": "Awesome online talks and screencasts",
+    "language": "none",
+    "star": "295"
+  },
+  {
+    "title": "mikecao/umami",
+    "url": "https://github.com/mikecao/umami",
+    "description": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+    "language": "JavaScript",
+    "star": "420"
+  },
+  {
+    "title": "981011512/--",
+    "url": "https://github.com/981011512/--",
+    "description": "停车场系统源码，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架net…",
+    "language": "Java",
+    "star": "48"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "23"
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+    "language": "Jupyter Notebook",
+    "star": "116"
+  },
+  {
+    "title": "thecodeholic/php-developer-roadmap",
+    "url": "https://github.com/thecodeholic/php-developer-roadmap",
+    "description": "This is PHP Developer Roadmap",
+    "language": "none",
+    "star": "28"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "Shell",
+    "star": "119"
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "description": "Terraform provider for Azure Resource Manager",
+    "language": "Go",
+    "star": "16"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "description": "ClickHouse® is a free analytics DBMS for big data",
+    "language": "C++",
+    "star": "28"
+  },
+  {
+    "title": "covid19india/covid19india-react",
+    "url": "https://github.com/covid19india/covid19india-react",
+    "description": "Tracking the impact of COVID-19 in India",
+    "language": "JavaScript",
+    "star": "225"
+  },
+  {
+    "title": "swar/Swar-Chia-Plot-Manager",
+    "url": "https://github.com/swar/Swar-Chia-Plot-Manager",
+    "description": "This is a Cross-Platform Plot Manager for Chia Plotting that is simple, easy-to-use, and reliable.",
+    "language": "Python",
+    "star": "88"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "52"
+  },
+  {
+    "title": "OpenFeign/feign",
+    "url": "https://github.com/OpenFeign/feign",
+    "description": "Feign makes writing java http clients easier",
+    "language": "Java",
+    "star": "7"
+  }
+]
