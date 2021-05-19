@@ -4,35 +4,35 @@
     "url": "https://github.com/iluwatar/java-design-patterns",
     "description": "Design patterns implemented in Java",
     "language": "Java",
-    "star": "276"
+    "star": "293"
   },
   {
     "title": "covid19india/covid19india-react",
     "url": "https://github.com/covid19india/covid19india-react",
     "description": "Tracking the impact of COVID-19 in India",
     "language": "JavaScript",
-    "star": "134"
+    "star": "173"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "88"
+    "star": "56"
   },
   {
     "title": "GitSquared/edex-ui",
     "url": "https://github.com/GitSquared/edex-ui",
     "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
     "language": "JavaScript",
-    "star": "483"
+    "star": "476"
   },
   {
     "title": "0vercl0k/CVE-2021-31166",
     "url": "https://github.com/0vercl0k/CVE-2021-31166",
     "description": "Proof of concept for CVE-2021-31166, a remote HTTP.sys use-after-free triggered remotely.",
     "language": "Python",
-    "star": "90"
+    "star": "108"
   },
   {
     "title": "ErickWendel/semana-javascript-expert04",
@@ -46,49 +46,49 @@
     "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh",
     "description": "程序员应该访问的最佳网站中文版",
     "language": "none",
-    "star": "444"
+    "star": "327"
   },
   {
     "title": "jakevdp/PythonDataScienceHandbook",
     "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
     "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
     "language": "Jupyter Notebook",
-    "star": "175"
+    "star": "184"
   },
   {
     "title": "paritytech/substrate",
     "url": "https://github.com/paritytech/substrate",
     "description": "Substrate: The platform for blockchain innovators",
     "language": "Rust",
-    "star": "96"
+    "star": "95"
   },
   {
     "title": "sqlfluff/sqlfluff",
     "url": "https://github.com/sqlfluff/sqlfluff",
     "description": "A SQL linter and auto-formatter for Humans",
     "language": "Python",
-    "star": "103"
+    "star": "188"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "373"
+    "star": "362"
   },
   {
     "title": "Chia-Network/pool-reference",
     "url": "https://github.com/Chia-Network/pool-reference",
     "description": "",
     "language": "Python",
-    "star": "56"
+    "star": "59"
   },
   {
     "title": "vercel/next.js",
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "398"
+    "star": "437"
   },
   {
     "title": "morpheusthewhite/spicetify-themes",
@@ -123,7 +123,7 @@
     "url": "https://github.com/ClickHouse/ClickHouse",
     "description": "ClickHouse® is a free analytics DBMS for big data",
     "language": "C++",
-    "star": "149"
+    "star": "169"
   },
   {
     "title": "mrdoob/three.js",
@@ -137,14 +137,14 @@
     "url": "https://github.com/fairlearn/fairlearn",
     "description": "A Python package to assess and improve fairness of machine learning models.",
     "language": "Python",
-    "star": "5"
+    "star": "3"
   },
   {
     "title": "thedaviddias/Front-End-Checklist",
     "url": "https://github.com/thedaviddias/Front-End-Checklist",
     "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
     "language": "none",
-    "star": "328"
+    "star": "299"
   },
   {
     "title": "apache/spark",
@@ -158,14 +158,14 @@
     "url": "https://github.com/IBM/Project_CodeNet",
     "description": "This repository is to support contributions for tools for the Project CodeNet dataset hosted in DAX",
     "language": "Python",
-    "star": "124"
+    "star": "79"
   },
   {
     "title": "fastlane/fastlane",
     "url": "https://github.com/fastlane/fastlane",
     "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "language": "Ruby",
-    "star": "63"
+    "star": "10"
   },
   {
     "title": "torvalds/linux",
