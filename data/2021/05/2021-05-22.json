@@ -4,14 +4,14 @@
     "url": "https://github.com/minio/minio",
     "description": "High Performance, Kubernetes Native Object Storage",
     "language": "Go",
-    "star": "51"
+    "star": "64"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "113"
+    "star": "82"
   },
   {
     "title": "dotnet/maui",
@@ -25,133 +25,133 @@
     "url": "https://github.com/mehdihadeli/awesome-software-architecture",
     "description": "A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.",
     "language": "none",
-    "star": "816"
+    "star": "808"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "383"
+    "star": "376"
   },
   {
     "title": "ZLMediaKit/ZLMediaKit",
     "url": "https://github.com/ZLMediaKit/ZLMediaKit",
     "description": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/WebRTC server and client framework based on C++11",
     "language": "C++",
-    "star": "57"
+    "star": "11"
   },
   {
     "title": "carykh/PrisonersDilemmaTournament",
     "url": "https://github.com/carykh/PrisonersDilemmaTournament",
     "description": "Watch This Place's awesome video about iterated Prisoner's Dilemma for context! https://www.youtube.com/watch?v=BOvAbjfJ0x0",
     "language": "Python",
-    "star": "68"
+    "star": "61"
   },
   {
     "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
     "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
     "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
     "language": "none",
-    "star": "141"
+    "star": "218"
   },
   {
     "title": "pytorch/fairseq",
     "url": "https://github.com/pytorch/fairseq",
     "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
     "language": "Python",
-    "star": "196"
+    "star": "211"
   },
   {
     "title": "Aayush9029/Native-Youtube",
     "url": "https://github.com/Aayush9029/Native-Youtube",
     "description": "Personal APp",
     "language": "Swift",
-    "star": "29"
+    "star": "37"
   },
   {
     "title": "juce-framework/JUCE",
     "url": "https://github.com/juce-framework/JUCE",
     "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.",
     "language": "C++",
-    "star": "29"
+    "star": "34"
   },
   {
     "title": "appwrite/appwrite",
     "url": "https://github.com/appwrite/appwrite",
     "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
     "language": "JavaScript",
-    "star": "123"
+    "star": "207"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "109"
+    "star": "119"
   },
   {
     "title": "anncwb/vue-vben-admin",
     "url": "https://github.com/anncwb/vue-vben-admin",
     "description": "✨ ✨ ✨ A vue3 style Admin based on Vite2, vue3.0, ant-design-vue 2.x, typescript，vuex,vue-router,Efforts to update in progress...",
     "language": "Vue",
-    "star": "31"
+    "star": "15"
   },
   {
     "title": "981011512/--",
     "url": "https://github.com/981011512/--",
     "description": "停车场系统源码，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架net…",
     "language": "Java",
-    "star": "113"
+    "star": "135"
   },
   {
     "title": "lyswhut/lx-music-mobile",
     "url": "https://github.com/lyswhut/lx-music-mobile",
     "description": "一个基于 React native 开发的音乐软件。",
     "language": "JavaScript",
-    "star": "48"
+    "star": "36"
   },
   {
     "title": "geekcomputers/Python",
     "url": "https://github.com/geekcomputers/Python",
     "description": "My Python Examples",
     "language": "Python",
-    "star": "41"
+    "star": "28"
   },
   {
     "title": "docker/awesome-compose",
     "url": "https://github.com/docker/awesome-compose",
     "description": "Awesome Docker Compose samples",
     "language": "HTML",
-    "star": "47"
+    "star": "97"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "152"
+    "star": "151"
   },
   {
     "title": "alfonsrv/impf-botpy",
     "url": "https://github.com/alfonsrv/impf-botpy",
     "description": "Impf Bot.py 🐍⚡ – Automatisierung für den Corona ImpfterminService Bot",
     "language": "Python",
-    "star": "27"
+    "star": "17"
   },
   {
     "title": "hashicorp/vault",
     "url": "https://github.com/hashicorp/vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "8"
+    "star": "139"
   },
   {
     "title": "WeChat-Big-Data-Challenge-2021/WeChat_Big_Data_Challenge",
     "url": "https://github.com/WeChat-Big-Data-Challenge-2021/WeChat_Big_Data_Challenge",
     "description": "",
     "language": "Python",
-    "star": "8"
+    "star": "13"
   },
   {
     "title": "golang/go",
@@ -165,13 +165,13 @@
     "url": "https://github.com/facebook/react-native",
     "description": "A framework for building native apps with React.",
     "language": "JavaScript",
-    "star": "27"
+    "star": "78"
   },
   {
     "title": "sonnysangha/Amazon-starter-template-nextjs",
     "url": "https://github.com/sonnysangha/Amazon-starter-template-nextjs",
     "description": "This is the Official Starter template for the AMAZON 5 Day challenge (The SECRET Challenge!) - Next.js | React.js | Tailwind CSS | Redux | Tailwind | Firebase",
     "language": "JavaScript",
-    "star": "8"
+    "star": "28"
   }
 ]
