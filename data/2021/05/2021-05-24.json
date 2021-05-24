@@ -1,0 +1,177 @@
+[
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "429"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "The best open source remote desktop client software",
+    "language": "Rust",
+    "star": "220"
+  },
+  {
+    "title": "utam0k/youki",
+    "url": "https://github.com/utam0k/youki",
+    "description": "An experimental container runtime written in Rust",
+    "language": "Rust",
+    "star": "88"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "description": "VS Code in the browser",
+    "language": "TypeScript",
+    "star": "202"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "205"
+  },
+  {
+    "title": "juce-framework/JUCE",
+    "url": "https://github.com/juce-framework/JUCE",
+    "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.",
+    "language": "C++",
+    "star": "123"
+  },
+  {
+    "title": "gwuhaolin/livego",
+    "url": "https://github.com/gwuhaolin/livego",
+    "description": "live video streaming server in golang",
+    "language": "Go",
+    "star": "190"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "133"
+  },
+  {
+    "title": "mehdihadeli/awesome-software-architecture",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+    "description": "A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.",
+    "language": "none",
+    "star": "536"
+  },
+  {
+    "title": "a327ex/SNKRX",
+    "url": "https://github.com/a327ex/SNKRX",
+    "description": "A replayable arcade shooter where you control a snake of heroes.",
+    "language": "Lua",
+    "star": "335"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "language": "JavaScript",
+    "star": "382"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "17"
+  },
+  {
+    "title": "ethereumbook/ethereumbook",
+    "url": "https://github.com/ethereumbook/ethereumbook",
+    "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "description": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "language": "Python",
+    "star": "180"
+  },
+  {
+    "title": "ZLMediaKit/ZLMediaKit",
+    "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+    "description": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/WebRTC server and client framework based on C++11",
+    "language": "C++",
+    "star": "307"
+  },
+  {
+    "title": "fireship-io/threejs-scroll-animation-demo",
+    "url": "https://github.com/fireship-io/threejs-scroll-animation-demo",
+    "description": "3D Scrolling Portfolio Website with Three.js",
+    "language": "HTML",
+    "star": "128"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "language": "Python",
+    "star": "143"
+  },
+  {
+    "title": "geekcomputers/Python",
+    "url": "https://github.com/geekcomputers/Python",
+    "description": "My Python Examples",
+    "language": "Python",
+    "star": "77"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "description": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "language": "Vue",
+    "star": "96"
+  },
+  {
+    "title": "sonnysangha/Amazon-starter-template-nextjs",
+    "url": "https://github.com/sonnysangha/Amazon-starter-template-nextjs",
+    "description": "This is the Official Starter template for the AMAZON 5 Day challenge (The SECRET Challenge!) - Next.js | React.js | Tailwind CSS | Redux | Tailwind | Firebase",
+    "language": "JavaScript",
+    "star": "68"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "description": "一个基于 electron 的音乐软件",
+    "language": "JavaScript",
+    "star": "36"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "language": "none",
+    "star": "169"
+  }
+]
