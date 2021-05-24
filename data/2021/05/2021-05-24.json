@@ -4,14 +4,14 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "429"
+    "star": "460"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "The best open source remote desktop client software",
     "language": "Rust",
-    "star": "220"
+    "star": "212"
   },
   {
     "title": "utam0k/youki",
@@ -25,42 +25,42 @@
     "url": "https://github.com/cdr/code-server",
     "description": "VS Code in the browser",
     "language": "TypeScript",
-    "star": "202"
+    "star": "313"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "205"
+    "star": "141"
   },
   {
     "title": "juce-framework/JUCE",
     "url": "https://github.com/juce-framework/JUCE",
     "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.",
     "language": "C++",
-    "star": "123"
+    "star": "139"
   },
   {
     "title": "gwuhaolin/livego",
     "url": "https://github.com/gwuhaolin/livego",
     "description": "live video streaming server in golang",
     "language": "Go",
-    "star": "190"
+    "star": "232"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "133"
+    "star": "150"
   },
   {
     "title": "mehdihadeli/awesome-software-architecture",
     "url": "https://github.com/mehdihadeli/awesome-software-architecture",
     "description": "A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.",
     "language": "none",
-    "star": "536"
+    "star": "577"
   },
   {
     "title": "a327ex/SNKRX",
@@ -74,28 +74,28 @@
     "url": "https://github.com/appwrite/appwrite",
     "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
     "language": "JavaScript",
-    "star": "382"
+    "star": "398"
   },
   {
     "title": "discordjs/discord.js",
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "12"
+    "star": "19"
   },
   {
     "title": "Pierian-Data/Complete-Python-3-Bootcamp",
     "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
     "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
     "language": "Jupyter Notebook",
-    "star": "17"
+    "star": "10"
   },
   {
     "title": "ethereumbook/ethereumbook",
     "url": "https://github.com/ethereumbook/ethereumbook",
     "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
     "language": "JavaScript",
-    "star": "12"
+    "star": "19"
   },
   {
     "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
@@ -109,28 +109,28 @@
     "url": "https://github.com/ZLMediaKit/ZLMediaKit",
     "description": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/WebRTC server and client framework based on C++11",
     "language": "C++",
-    "star": "307"
+    "star": "223"
   },
   {
     "title": "fireship-io/threejs-scroll-animation-demo",
     "url": "https://github.com/fireship-io/threejs-scroll-animation-demo",
     "description": "3D Scrolling Portfolio Website with Three.js",
     "language": "HTML",
-    "star": "128"
+    "star": "116"
   },
   {
     "title": "pytorch/fairseq",
     "url": "https://github.com/pytorch/fairseq",
     "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
     "language": "Python",
-    "star": "143"
+    "star": "172"
   },
   {
     "title": "geekcomputers/Python",
     "url": "https://github.com/geekcomputers/Python",
     "description": "My Python Examples",
     "language": "Python",
-    "star": "77"
+    "star": "76"
   },
   {
     "title": "home-assistant/core",
@@ -151,7 +151,7 @@
     "url": "https://github.com/sonnysangha/Amazon-starter-template-nextjs",
     "description": "This is the Official Starter template for the AMAZON 5 Day challenge (The SECRET Challenge!) - Next.js | React.js | Tailwind CSS | Redux | Tailwind | Firebase",
     "language": "JavaScript",
-    "star": "68"
+    "star": "69"
   },
   {
     "title": "lyswhut/lx-music-desktop",
@@ -165,13 +165,13 @@
     "url": "https://github.com/willmcgugan/rich",
     "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
     "language": "Python",
-    "star": "47"
+    "star": "46"
   },
   {
     "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
     "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
     "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
     "language": "none",
-    "star": "169"
+    "star": "234"
   }
 ]
