@@ -4,21 +4,21 @@
     "url": "https://github.com/appwrite/appwrite",
     "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
     "language": "JavaScript",
-    "star": "264"
+    "star": "282"
   },
   {
     "title": "a327ex/SNKRX",
     "url": "https://github.com/a327ex/SNKRX",
     "description": "A replayable arcade shooter where you control a snake of heroes.",
     "language": "Lua",
-    "star": "157"
+    "star": "162"
   },
   {
     "title": "cdr/code-server",
     "url": "https://github.com/cdr/code-server",
     "description": "VS Code in the browser",
     "language": "TypeScript",
-    "star": "307"
+    "star": "297"
   },
   {
     "title": "981011512/--",
@@ -39,7 +39,7 @@
     "url": "https://github.com/gwuhaolin/livego",
     "description": "live video streaming server in golang",
     "language": "Go",
-    "star": "254"
+    "star": "245"
   },
   {
     "title": "RPwnage/pwn-my",
@@ -88,28 +88,28 @@
     "url": "https://github.com/fireship-io/threejs-scroll-animation-demo",
     "description": "3D Scrolling Portfolio Website with Three.js",
     "language": "HTML",
-    "star": "139"
+    "star": "120"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "The best open source remote desktop client software",
     "language": "Rust",
-    "star": "414"
+    "star": "418"
   },
   {
     "title": "mehdihadeli/awesome-software-architecture",
     "url": "https://github.com/mehdihadeli/awesome-software-architecture",
     "description": "A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.",
     "language": "none",
-    "star": "571"
+    "star": "529"
   },
   {
     "title": "acidanthera/OpenCorePkg",
     "url": "https://github.com/acidanthera/OpenCorePkg",
     "description": "OpenCore bootloader",
     "language": "C",
-    "star": "8"
+    "star": "15"
   },
   {
     "title": "doocs/leetcode",
@@ -165,13 +165,13 @@
     "url": "https://github.com/utam0k/youki",
     "description": "An experimental container runtime written in Rust",
     "language": "Rust",
-    "star": "113"
+    "star": "117"
   },
   {
     "title": "JunzhouLiu/BILIBILI-HELPER",
     "url": "https://github.com/JunzhouLiu/BILIBILI-HELPER",
     "description": "B站，哔哩哔哩（Bilibili）自动签到投币工具，每天轻松获取65经验值，支持每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能。呐！赶快和我一起成为Lv6吧！",
     "language": "Java",
-    "star": "54"
+    "star": "55"
   }
 ]
