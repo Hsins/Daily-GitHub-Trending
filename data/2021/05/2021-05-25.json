@@ -1,0 +1,177 @@
+[
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "language": "JavaScript",
+    "star": "264"
+  },
+  {
+    "title": "a327ex/SNKRX",
+    "url": "https://github.com/a327ex/SNKRX",
+    "description": "A replayable arcade shooter where you control a snake of heroes.",
+    "language": "Lua",
+    "star": "157"
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "description": "VS Code in the browser",
+    "language": "TypeScript",
+    "star": "307"
+  },
+  {
+    "title": "981011512/--",
+    "url": "https://github.com/981011512/--",
+    "description": "停车场系统源码，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持app上查询附近停车场(导航，可用车位数，停车场费用，优惠券，评分，评论等)，可预约车位。⑤断电断网支持岗亭人员使用app可接管硬件进行停车记录的录入。 【技术架构】：后端开发语言java，框架oauth2+springboot2+dubble，数据库mysql/mongodb/redis，即时通讯底层框架net…",
+    "language": "Java",
+    "star": "79"
+  },
+  {
+    "title": "EdgeSecurityTeam/Vulnerability",
+    "url": "https://github.com/EdgeSecurityTeam/Vulnerability",
+    "description": "此项目将不定期从棱角社区对外进行公布一些最新漏洞。",
+    "language": "none",
+    "star": "77"
+  },
+  {
+    "title": "gwuhaolin/livego",
+    "url": "https://github.com/gwuhaolin/livego",
+    "description": "live video streaming server in golang",
+    "language": "Go",
+    "star": "254"
+  },
+  {
+    "title": "RPwnage/pwn-my",
+    "url": "https://github.com/RPwnage/pwn-my",
+    "description": "iOS 14.5 WebKit/Safari based Jailbreak",
+    "language": "JavaScript",
+    "star": "31"
+  },
+  {
+    "title": "linkedin/greykite",
+    "url": "https://github.com/linkedin/greykite",
+    "description": "A flexible, intuitive and fast forecasting library",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "vtuanjs/typescript-solid-architecture",
+    "url": "https://github.com/vtuanjs/typescript-solid-architecture",
+    "description": "",
+    "language": "TypeScript",
+    "star": "7"
+  },
+  {
+    "title": "psenough/teach_yourself_demoscene_in_14_days",
+    "url": "https://github.com/psenough/teach_yourself_demoscene_in_14_days",
+    "description": "guidebook idea from http://www.pouet.net/topic.php?which=10882&page=1",
+    "language": "none",
+    "star": "91"
+  },
+  {
+    "title": "majd/ipatool",
+    "url": "https://github.com/majd/ipatool",
+    "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
+    "language": "Swift",
+    "star": "33"
+  },
+  {
+    "title": "plctlab/v8-internals",
+    "url": "https://github.com/plctlab/v8-internals",
+    "description": "面向编译器开发人员的V8内部实现文档",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "fireship-io/threejs-scroll-animation-demo",
+    "url": "https://github.com/fireship-io/threejs-scroll-animation-demo",
+    "description": "3D Scrolling Portfolio Website with Three.js",
+    "language": "HTML",
+    "star": "139"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "The best open source remote desktop client software",
+    "language": "Rust",
+    "star": "414"
+  },
+  {
+    "title": "mehdihadeli/awesome-software-architecture",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+    "description": "A curated list of awesome articles and resources to learn and practice about software architecture, patterns, and principles.",
+    "language": "none",
+    "star": "571"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "8"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "language": "Java",
+    "star": "30"
+  },
+  {
+    "title": "ruicky/jd_sign_bot",
+    "url": "https://github.com/ruicky/jd_sign_bot",
+    "description": "京东签到机器人",
+    "language": "none",
+    "star": "22"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "language": "Go",
+    "star": "5"
+  },
+  {
+    "title": "blazorhero/CleanArchitecture",
+    "url": "https://github.com/blazorhero/CleanArchitecture",
+    "description": "Clean Architecture Template for Blazor WebAssembly Built with MudBlazor Components.",
+    "language": "C#",
+    "star": "25"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "PharkMillups/beautiful-docs",
+    "url": "https://github.com/PharkMillups/beautiful-docs",
+    "description": "Pointers to useful, well-written, and otherwise beautiful documentation.",
+    "language": "none",
+    "star": "50"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "53"
+  },
+  {
+    "title": "utam0k/youki",
+    "url": "https://github.com/utam0k/youki",
+    "description": "An experimental container runtime written in Rust",
+    "language": "Rust",
+    "star": "113"
+  },
+  {
+    "title": "JunzhouLiu/BILIBILI-HELPER",
+    "url": "https://github.com/JunzhouLiu/BILIBILI-HELPER",
+    "description": "B站，哔哩哔哩（Bilibili）自动签到投币工具，每天轻松获取65经验值，支持每日自动投币，银瓜子兑换硬币，领取大会员福利，大会员月底给自己充电等功能。呐！赶快和我一起成为Lv6吧！",
+    "language": "Java",
+    "star": "54"
+  }
+]
