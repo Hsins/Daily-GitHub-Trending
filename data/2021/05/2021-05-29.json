@@ -11,167 +11,167 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "992"
+    "star": "863"
   },
   {
     "title": "Tencent/secguide",
     "url": "https://github.com/Tencent/secguide",
     "description": "面向开发人员梳理的代码安全指南",
     "language": "none",
-    "star": "308"
+    "star": "333"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "324"
+    "star": "330"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "565"
+    "star": "622"
   },
   {
     "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
     "language": "Java",
-    "star": "214"
+    "star": "221"
   },
   {
     "title": "CodingGay/BlackDex",
     "url": "https://github.com/CodingGay/BlackDex",
     "description": "BlackDex is an Android unpack tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.",
     "language": "Java",
-    "star": "176"
+    "star": "188"
   },
   {
     "title": "laxyapahuja/bunken",
     "url": "https://github.com/laxyapahuja/bunken",
     "description": "A chrome extension to download ebooks directly from Goodreads.",
     "language": "JavaScript",
-    "star": "51"
+    "star": "73"
   },
   {
     "title": "doocs/leetcode",
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "259"
+    "star": "214"
   },
   {
     "title": "davidortinau/WeatherTwentyOne",
     "url": "https://github.com/davidortinau/WeatherTwentyOne",
     "description": "",
     "language": "C#",
-    "star": "34"
+    "star": "66"
   },
   {
     "title": "bee-san/pyWhat",
     "url": "https://github.com/bee-san/pyWhat",
     "description": "🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️",
     "language": "Python",
-    "star": "309"
+    "star": "325"
   },
   {
     "title": "netdata/netdata",
     "url": "https://github.com/netdata/netdata",
     "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
     "language": "C",
-    "star": "89"
+    "star": "114"
   },
   {
     "title": "dk-liang/Awesome-Visual-Transformer",
     "url": "https://github.com/dk-liang/Awesome-Visual-Transformer",
     "description": "Collect some papers about transformer with vision. Awesome Transformer with Computer Vision (CV)",
     "language": "none",
-    "star": "34"
+    "star": "47"
   },
   {
     "title": "typescript-cheatsheets/react",
     "url": "https://github.com/typescript-cheatsheets/react",
     "description": "Cheatsheets for experienced React developers getting started with TypeScript",
     "language": "JavaScript",
-    "star": "34"
+    "star": "132"
   },
   {
     "title": "gentilkiwi/mimikatz",
     "url": "https://github.com/gentilkiwi/mimikatz",
     "description": "A little tool to play with Windows security",
     "language": "C",
-    "star": "61"
+    "star": "74"
   },
   {
     "title": "wuyouzhuguli/SpringAll",
     "url": "https://github.com/wuyouzhuguli/SpringAll",
     "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
     "language": "Java",
-    "star": "107"
+    "star": "89"
   },
   {
     "title": "airbytehq/airbyte",
     "url": "https://github.com/airbytehq/airbyte",
     "description": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",
     "language": "Java",
-    "star": "51"
+    "star": "60"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "410"
+    "star": "504"
   },
   {
     "title": "inoyna11/jd28",
     "url": "https://github.com/inoyna11/jd28",
     "description": "",
     "language": "JavaScript",
-    "star": "41"
+    "star": "45"
   },
   {
     "title": "giswqs/leafmap",
     "url": "https://github.com/giswqs/leafmap",
     "description": "A Python package for geospatial analysis and interactive mapping with minimal coding in a Jupyter environment",
     "language": "Python",
-    "star": "248"
+    "star": "210"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "44"
+    "star": "200"
   },
   {
     "title": "pluja/awesome-privacy",
     "url": "https://github.com/pluja/awesome-privacy",
     "description": "Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.",
     "language": "none",
-    "star": "485"
+    "star": "393"
   },
   {
     "title": "slidevjs/slidev",
     "url": "https://github.com/slidevjs/slidev",
     "description": "Presentation Slides for Developers (Beta)",
     "language": "TypeScript",
-    "star": "163"
+    "star": "191"
   },
   {
     "title": "openspug/spug",
     "url": "https://github.com/openspug/spug",
     "description": "开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。",
     "language": "JavaScript",
-    "star": "37"
+    "star": "43"
   },
   {
     "title": "hua1995116/react-resume-site",
     "url": "https://github.com/hua1995116/react-resume-site",
     "description": "木及简历|一款用 `Markdown`就能写出好看简历(resume)的在线工具。",
     "language": "TypeScript",
-    "star": "38"
+    "star": "46"
   }
 ]
