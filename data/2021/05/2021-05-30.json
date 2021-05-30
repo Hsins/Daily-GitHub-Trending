@@ -4,7 +4,7 @@
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "610"
+    "star": "738"
   },
   {
     "title": "nocodb/nocodb",
@@ -18,7 +18,7 @@
     "url": "https://github.com/microsoft/winget-cli",
     "description": "Windows Package Manager CLI (aka winget)",
     "language": "C++",
-    "star": "299"
+    "star": "400"
   },
   {
     "title": "discordjs/discord.js",
@@ -32,7 +32,7 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "563"
+    "star": "675"
   },
   {
     "title": "CyC2018/CS-Notes",
@@ -46,7 +46,7 @@
     "url": "https://github.com/rust-lang/rust",
     "description": "Empowering everyone to build reliable and efficient software.",
     "language": "Rust",
-    "star": "59"
+    "star": "121"
   },
   {
     "title": "microsoft/winget-pkgs",
@@ -88,7 +88,7 @@
     "url": "https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
     "description": "",
     "language": "JavaScript",
-    "star": "76"
+    "star": "148"
   },
   {
     "title": "binji/pokegb",
@@ -116,7 +116,7 @@
     "url": "https://github.com/programthink/books",
     "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
     "language": "none",
-    "star": "32"
+    "star": "61"
   },
   {
     "title": "HaveIBeenPwned/PwnedPasswordsAzureFunction",
@@ -137,35 +137,35 @@
     "url": "https://github.com/CodingGay/BlackDex",
     "description": "BlackDex is an Android unpack tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.",
     "language": "Java",
-    "star": "415"
+    "star": "428"
   },
   {
     "title": "SpacehuhnTech/esp8266_deauther",
     "url": "https://github.com/SpacehuhnTech/esp8266_deauther",
     "description": "Affordable WiFi hacking platform for testing and learning",
     "language": "C",
-    "star": "61"
+    "star": "89"
   },
   {
     "title": "team7katas/sysopsquad",
     "url": "https://github.com/team7katas/sysopsquad",
     "description": "The Sysops Squad Architectural Kata",
     "language": "none",
-    "star": "34"
+    "star": "41"
   },
   {
     "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
     "language": "Java",
-    "star": "409"
+    "star": "415"
   },
   {
     "title": "bee-san/pyWhat",
     "url": "https://github.com/bee-san/pyWhat",
     "description": "🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️",
     "language": "Python",
-    "star": "514"
+    "star": "535"
   },
   {
     "title": "merry75/educative.io_courses",
