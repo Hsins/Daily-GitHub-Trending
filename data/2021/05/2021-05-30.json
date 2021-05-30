@@ -1,0 +1,177 @@
+[
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "610"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 The Open Source Airtable alternative",
+    "language": "Vue",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "299"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "119"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "563"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "Java",
+    "star": "186"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "star": "59"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "description": "The Microsoft community Windows Package Manager manifest repository",
+    "language": "PowerShell",
+    "star": "117"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "language": "C",
+    "star": "18"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "285"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "728"
+  },
+  {
+    "title": "HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
+    "url": "https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
+    "description": "",
+    "language": "JavaScript",
+    "star": "76"
+  },
+  {
+    "title": "binji/pokegb",
+    "url": "https://github.com/binji/pokegb",
+    "description": "A gameboy emulator that only plays Pokemon Blue, in ~70 lines of c++.",
+    "language": "C++",
+    "star": "199"
+  },
+  {
+    "title": "dundee/gdu",
+    "url": "https://github.com/dundee/gdu",
+    "description": "Disk usage analyzer with console interface written in Go",
+    "language": "Go",
+    "star": "113"
+  },
+  {
+    "title": "TaKO8Ki/awesome-alternatives-in-rust",
+    "url": "https://github.com/TaKO8Ki/awesome-alternatives-in-rust",
+    "description": "A curated list of replacements for existing software written in Rust",
+    "language": "Rust",
+    "star": "522"
+  },
+  {
+    "title": "programthink/books",
+    "url": "https://github.com/programthink/books",
+    "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "HaveIBeenPwned/PwnedPasswordsAzureFunction",
+    "url": "https://github.com/HaveIBeenPwned/PwnedPasswordsAzureFunction",
+    "description": "APIs for the k-anonymity Pwned Passwords implementation",
+    "language": "C#",
+    "star": "259"
+  },
+  {
+    "title": "AngeloCore/discord-buttons",
+    "url": "https://github.com/AngeloCore/discord-buttons",
+    "description": "A discord.js api for the discord buttons",
+    "language": "JavaScript",
+    "star": "29"
+  },
+  {
+    "title": "CodingGay/BlackDex",
+    "url": "https://github.com/CodingGay/BlackDex",
+    "description": "BlackDex is an Android unpack tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.",
+    "language": "Java",
+    "star": "415"
+  },
+  {
+    "title": "SpacehuhnTech/esp8266_deauther",
+    "url": "https://github.com/SpacehuhnTech/esp8266_deauther",
+    "description": "Affordable WiFi hacking platform for testing and learning",
+    "language": "C",
+    "star": "61"
+  },
+  {
+    "title": "team7katas/sysopsquad",
+    "url": "https://github.com/team7katas/sysopsquad",
+    "description": "The Sysops Squad Architectural Kata",
+    "language": "none",
+    "star": "34"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Java",
+    "star": "409"
+  },
+  {
+    "title": "bee-san/pyWhat",
+    "url": "https://github.com/bee-san/pyWhat",
+    "description": "🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️",
+    "language": "Python",
+    "star": "514"
+  },
+  {
+    "title": "merry75/educative.io_courses",
+    "url": "https://github.com/merry75/educative.io_courses",
+    "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "language": "none",
+    "star": "45"
+  }
+]
