@@ -4,70 +4,70 @@
     "url": "https://github.com/alibaba/PolarDB-for-PostgreSQL",
     "description": "",
     "language": "C",
-    "star": "335"
+    "star": "334"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "807"
+    "star": "270"
   },
   {
     "title": "microsoft/winget-pkgs",
     "url": "https://github.com/microsoft/winget-pkgs",
     "description": "The Microsoft community Windows Package Manager manifest repository",
     "language": "PowerShell",
-    "star": "140"
+    "star": "235"
   },
   {
     "title": "merry75/educative.io_courses",
     "url": "https://github.com/merry75/educative.io_courses",
     "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
     "language": "none",
-    "star": "130"
+    "star": "136"
   },
   {
     "title": "CyC2018/CS-Notes",
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "Java",
-    "star": "287"
+    "star": "283"
   },
   {
     "title": "CodingGay/BlackDex",
     "url": "https://github.com/CodingGay/BlackDex",
     "description": "BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.",
     "language": "Java",
-    "star": "454"
+    "star": "266"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "837"
+    "star": "714"
   },
   {
     "title": "ytdl-org/youtube-dl",
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "47"
+    "star": "48"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "5"
+    "star": "6"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "740"
+    "star": "727"
   },
   {
     "title": "neuralmagic/sparseml",
@@ -81,7 +81,7 @@
     "url": "https://github.com/microsoft/winget-cli",
     "description": "Windows Package Manager CLI (aka winget)",
     "language": "C++",
-    "star": "330"
+    "star": "477"
   },
   {
     "title": "StarInitial/xpcheck",
@@ -102,35 +102,35 @@
     "url": "https://github.com/deepmind/android_env",
     "description": "",
     "language": "Python",
-    "star": "84"
+    "star": "85"
   },
   {
     "title": "nocodb/nocodb",
     "url": "https://github.com/nocodb/nocodb",
     "description": "🔥 🔥 The Open Source Airtable alternative",
     "language": "Vue",
-    "star": "1"
+    "star": "707"
   },
   {
     "title": "sorenisanerd/gotty",
     "url": "https://github.com/sorenisanerd/gotty",
     "description": "Share your terminal as a web application",
     "language": "Go",
-    "star": "104"
+    "star": "103"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "557"
+    "star": "490"
   },
   {
     "title": "programthink/books",
     "url": "https://github.com/programthink/books",
     "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
     "language": "none",
-    "star": "64"
+    "star": "137"
   },
   {
     "title": "londonappbrewery/Flutter-Course-Resources",
@@ -144,7 +144,7 @@
     "url": "https://github.com/HaveIBeenPwned/PwnedPasswordsCloudflareWorker",
     "description": "",
     "language": "JavaScript",
-    "star": "167"
+    "star": "165"
   },
   {
     "title": "vxunderground/WinAPI-Tricks",
@@ -158,7 +158,7 @@
     "url": "https://github.com/chinnkarahoi/jd_scripts",
     "description": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
     "language": "JavaScript",
-    "star": "17"
+    "star": "22"
   },
   {
     "title": "jtpio/jupyterlite",
@@ -172,6 +172,6 @@
     "url": "https://github.com/jklepatch/eattheblocks",
     "description": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
     "language": "JavaScript",
-    "star": "16"
+    "star": "19"
   }
 ]
