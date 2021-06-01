@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "description": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "language": "Python",
+    "star": "122"
+  },
+  {
+    "title": "binji/pokegb",
+    "url": "https://github.com/binji/pokegb",
+    "description": "A gameboy emulator that only plays Pokemon Blue, in ~70 lines of c++.",
+    "language": "C++",
+    "star": "51"
+  },
+  {
+    "title": "merry75/educative.io_courses",
+    "url": "https://github.com/merry75/educative.io_courses",
+    "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "language": "none",
+    "star": "241"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "Java",
+    "star": "293"
+  },
+  {
+    "title": "alibaba/PolarDB-for-PostgreSQL",
+    "url": "https://github.com/alibaba/PolarDB-for-PostgreSQL",
+    "description": "",
+    "language": "C",
+    "star": "490"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "287"
+  },
+  {
+    "title": "CodingGay/BlackDex",
+    "url": "https://github.com/CodingGay/BlackDex",
+    "description": "BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phones or emulators, you can unpack APK File in several seconds.",
+    "language": "Java",
+    "star": "206"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
+    "language": "C",
+    "star": "7"
+  },
+  {
+    "title": "leecobaby/shortcuts",
+    "url": "https://github.com/leecobaby/shortcuts",
+    "description": "自动养猫|自动淘金币|自动欢乐造|抢购助手|快捷指令",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "microsoft/winget-pkgs",
+    "url": "https://github.com/microsoft/winget-pkgs",
+    "description": "The Microsoft community Windows Package Manager manifest repository",
+    "language": "PowerShell",
+    "star": "143"
+  },
+  {
+    "title": "apache/dubbo",
+    "url": "https://github.com/apache/dubbo",
+    "description": "Apache Dubbo is a high-performance, java based, open source RPC framework.",
+    "language": "Java",
+    "star": "24"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 The Open Source Airtable alternative",
+    "language": "Vue",
+    "star": "1"
+  },
+  {
+    "title": "MonsterNone/tmall-miao",
+    "url": "https://github.com/MonsterNone/tmall-miao",
+    "description": "天猫618/双十一喵币/年货节芭芭农场任务一键完成（绕过淘宝检测，新版淘宝也能用）",
+    "language": "JavaScript",
+    "star": "63"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "408"
+  },
+  {
+    "title": "Tencent/flare",
+    "url": "https://github.com/Tencent/flare",
+    "description": "Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。",
+    "language": "C++",
+    "star": "67"
+  },
+  {
+    "title": "beiliangshizi/China_House",
+    "url": "https://github.com/beiliangshizi/China_House",
+    "description": "中国买房相关资料和项目整理，方便查看，持续更新中...",
+    "language": "none",
+    "star": "250"
+  },
+  {
+    "title": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "language": "Lua",
+    "star": "42"
+  },
+  {
+    "title": "roseduan/rosedb",
+    "url": "https://github.com/roseduan/rosedb",
+    "description": "A simple k-v database in pure Golang, supports string, list, hash, set, sorted set. Go 语言实现的 k-v 数据库项目，简洁易懂，适合新手进阶，欢迎 Pr！",
+    "language": "Go",
+    "star": "21"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "253"
+  },
+  {
+    "title": "Rikj000/MoniGoMani",
+    "url": "https://github.com/Rikj000/MoniGoMani",
+    "description": "Isn't that what we all want? Our money to go many? Well that's what this strategy hopes to do for you! By giving you/HyperOpt a lot of signals to alter the weight from.",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "49"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "description": "Deepfakes Software For All",
+    "language": "Python",
+    "star": "40"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "50"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "91"
+  }
+]
