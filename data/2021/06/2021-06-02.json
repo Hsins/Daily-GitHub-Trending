@@ -1,0 +1,177 @@
+[
+  {
+    "title": "alibaba/PolarDB-for-PostgreSQL",
+    "url": "https://github.com/alibaba/PolarDB-for-PostgreSQL",
+    "description": "",
+    "language": "C",
+    "star": "171"
+  },
+  {
+    "title": "photoprism/photoprism",
+    "url": "https://github.com/photoprism/photoprism",
+    "description": "Open-Source Photo Management powered by Go and Google TensorFlow",
+    "language": "Go",
+    "star": "70"
+  },
+  {
+    "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "description": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
+    "language": "Python",
+    "star": "232"
+  },
+  {
+    "title": "chinnkarahoi/jd_scripts",
+    "url": "https://github.com/chinnkarahoi/jd_scripts",
+    "description": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
+    "language": "JavaScript",
+    "star": "38"
+  },
+  {
+    "title": "binji/pokegb",
+    "url": "https://github.com/binji/pokegb",
+    "description": "A gameboy emulator that only plays Pokemon Blue, in ~70 lines of c++.",
+    "language": "C++",
+    "star": "197"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "238"
+  },
+  {
+    "title": "curtinlv/JD-Script",
+    "url": "https://github.com/curtinlv/JD-Script",
+    "description": "",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "language": "TypeScript",
+    "star": "164"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "description": "A modern file explorer that pushes the boundaries of the platform.",
+    "language": "C#",
+    "star": "159"
+  },
+  {
+    "title": "sarthaksavvy/100DaysOfAWS",
+    "url": "https://github.com/sarthaksavvy/100DaysOfAWS",
+    "description": "",
+    "language": "none",
+    "star": "43"
+  },
+  {
+    "title": "merry75/educative.io_courses",
+    "url": "https://github.com/merry75/educative.io_courses",
+    "description": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "language": "none",
+    "star": "250"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "132"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "description": "Deepfakes Software For All",
+    "language": "Python",
+    "star": "257"
+  },
+  {
+    "title": "GuitarML/NeuralPi",
+    "url": "https://github.com/GuitarML/NeuralPi",
+    "description": "Raspberry Pi guitar pedal using neural networks to emulate real amps and pedals.",
+    "language": "C++",
+    "star": "74"
+  },
+  {
+    "title": "pmndrs/racing-game",
+    "url": "https://github.com/pmndrs/racing-game",
+    "description": "🏎 Open source racing game developed by everyone willing",
+    "language": "JavaScript",
+    "star": "121"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "language": "TypeScript",
+    "star": "53"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "127"
+  },
+  {
+    "title": "koreader/koreader",
+    "url": "https://github.com/koreader/koreader",
+    "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+    "language": "Lua",
+    "star": "170"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 JavaScript concepts every developer should know.",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "206"
+  },
+  {
+    "title": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "language": "C",
+    "star": "26"
+  },
+  {
+    "title": "admin-ch/CovidCertificate-Documents",
+    "url": "https://github.com/admin-ch/CovidCertificate-Documents",
+    "description": "Documents related to covid certificate system in Switzerland",
+    "language": "none",
+    "star": "43"
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "language": "C",
+    "star": "328"
+  },
+  {
+    "title": "datasciencemasters/go",
+    "url": "https://github.com/datasciencemasters/go",
+    "description": "The Open Source Data Science Masters",
+    "language": "none",
+    "star": "77"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "star": "29"
+  }
+]
