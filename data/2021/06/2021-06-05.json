@@ -11,28 +11,28 @@
     "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
     "description": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
     "language": "C",
-    "star": "246"
+    "star": "223"
   },
   {
     "title": "prisma/prisma",
     "url": "https://github.com/prisma/prisma",
     "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
     "language": "TypeScript",
-    "star": "393"
+    "star": "366"
   },
   {
     "title": "deepfakes/faceswap",
     "url": "https://github.com/deepfakes/faceswap",
     "description": "Deepfakes Software For All",
     "language": "Python",
-    "star": "153"
+    "star": "144"
   },
   {
     "title": "black7375/Firefox-UI-Fix",
     "url": "https://github.com/black7375/Firefox-UI-Fix",
     "description": "🦊 I respect proton UI and aim to improve it.",
     "language": "CSS",
-    "star": "533"
+    "star": "525"
   },
   {
     "title": "zooPanda/zoo",
@@ -53,14 +53,14 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "225"
+    "star": "227"
   },
   {
     "title": "norvig/pytudes",
     "url": "https://github.com/norvig/pytudes",
     "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
     "language": "Jupyter Notebook",
-    "star": "143"
+    "star": "206"
   },
   {
     "title": "pmndrs/racing-game",
@@ -74,35 +74,35 @@
     "url": "https://github.com/kzl/decision-transformer",
     "description": "Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.",
     "language": "Python",
-    "star": "140"
+    "star": "86"
   },
   {
     "title": "fabionoth/awesome-cyber-security",
     "url": "https://github.com/fabionoth/awesome-cyber-security",
     "description": "A collection of awesome software, libraries, documents, books, resources and cools stuffs about security.",
     "language": "none",
-    "star": "56"
+    "star": "132"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "128"
+    "star": "75"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "Shell",
-    "star": "159"
+    "star": "227"
   },
   {
     "title": "googleapis/googleapis",
     "url": "https://github.com/googleapis/googleapis",
     "description": "Public interface definitions of Google APIs.",
     "language": "Starlark",
-    "star": "16"
+    "star": "17"
   },
   {
     "title": "yqchilde/JDMemberCloseAccount",
@@ -116,14 +116,14 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "269"
+    "star": "327"
   },
   {
     "title": "chinnkarahoi/jd_scripts",
     "url": "https://github.com/chinnkarahoi/jd_scripts",
     "description": "lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合。",
     "language": "JavaScript",
-    "star": "48"
+    "star": "46"
   },
   {
     "title": "flutter/flutter",
@@ -144,7 +144,7 @@
     "url": "https://github.com/Advanced-Frontend/Daily-Interview-Question",
     "description": "我是依扬（木易杨），公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，祝大家天天进步，一年后会看到不一样的自己。",
     "language": "JavaScript",
-    "star": "17"
+    "star": "12"
   },
   {
     "title": "plotly/plotly.js",
@@ -158,7 +158,7 @@
     "url": "https://github.com/cilium/cilium",
     "description": "eBPF-based Networking, Security, and Observability",
     "language": "Go",
-    "star": "5"
+    "star": "8"
   },
   {
     "title": "rahuldkjain/github-profile-readme-generator",
@@ -172,6 +172,6 @@
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "32"
+    "star": "209"
   }
 ]
