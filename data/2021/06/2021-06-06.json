@@ -1,0 +1,177 @@
+[
+  {
+    "title": "slidevjs/slidev",
+    "url": "https://github.com/slidevjs/slidev",
+    "description": "Presentation Slides for Developers (Beta)",
+    "language": "TypeScript",
+    "star": "565"
+  },
+  {
+    "title": "KranX/Perimeter",
+    "url": "https://github.com/KranX/Perimeter",
+    "description": "",
+    "language": "C++",
+    "star": "146"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "178"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "857"
+  },
+  {
+    "title": "animate-css/animate.css",
+    "url": "https://github.com/animate-css/animate.css",
+    "description": "🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.",
+    "language": "CSS",
+    "star": "202"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "description": "Deepfakes Software For All",
+    "language": "Python",
+    "star": "163"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "280"
+  },
+  {
+    "title": "kzl/decision-transformer",
+    "url": "https://github.com/kzl/decision-transformer",
+    "description": "Official codebase for Decision Transformer: Reinforcement Learning via Sequence Modeling.",
+    "language": "Python",
+    "star": "176"
+  },
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "description": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "language": "C",
+    "star": "277"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "Shell",
+    "star": "375"
+  },
+  {
+    "title": "thevinter/styli.sh",
+    "url": "https://github.com/thevinter/styli.sh",
+    "description": "A CLI tool for easy wallpaper management and image fetching",
+    "language": "Shell",
+    "star": "40"
+  },
+  {
+    "title": "luong-komorebi/Awesome-Linux-Software",
+    "url": "https://github.com/luong-komorebi/Awesome-Linux-Software",
+    "description": "A list of awesome applications, software, tools and other materials for Linux distros.",
+    "language": "Python",
+    "star": "251"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "language": "TypeScript",
+    "star": "567"
+  },
+  {
+    "title": "osintbrazuca/OSINT-Brazuca",
+    "url": "https://github.com/osintbrazuca/OSINT-Brazuca",
+    "description": "Repositório criado com intuito de reunir informações, fontes(websites/portais) e tricks de OSINT dentro do contexto Brasil.",
+    "language": "none",
+    "star": "83"
+  },
+  {
+    "title": "black7375/Firefox-UI-Fix",
+    "url": "https://github.com/black7375/Firefox-UI-Fix",
+    "description": "🦊 I respect proton UI and aim to improve it.",
+    "language": "CSS",
+    "star": "680"
+  },
+  {
+    "title": "geerlingguy/mac-dev-playbook",
+    "url": "https://github.com/geerlingguy/mac-dev-playbook",
+    "description": "Mac setup and configuration via Ansible.",
+    "language": "Shell",
+    "star": "131"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "301"
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "language": "none",
+    "star": "116"
+  },
+  {
+    "title": "rahuldkjain/github-profile-readme-generator",
+    "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+    "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
+    "language": "JavaScript",
+    "star": "617"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "zooPanda/zoo",
+    "url": "https://github.com/zooPanda/zoo",
+    "description": "你我本是动物，我不该责怪你动物的本性，但请你给我足够的尊重，谢谢，共勉。",
+    "language": "none",
+    "star": "60"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "67"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "language": "C++",
+    "star": "117"
+  },
+  {
+    "title": "jhu-ep-coursera/fullstack-course4",
+    "url": "https://github.com/jhu-ep-coursera/fullstack-course4",
+    "description": "Example code for HTML, CSS, and Javascript for Web Developers Coursera Course",
+    "language": "JavaScript",
+    "star": "22"
+  }
+]
