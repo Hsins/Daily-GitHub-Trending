@@ -4,35 +4,35 @@
     "url": "https://github.com/madMAx43v3r/chia-plotter",
     "description": "",
     "language": "C",
-    "star": "259"
+    "star": "219"
   },
   {
     "title": "TuSimple/naive-ui",
     "url": "https://github.com/TuSimple/naive-ui",
     "description": "A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.",
     "language": "TypeScript",
-    "star": "1"
+    "star": "943"
   },
   {
     "title": "maaslalani/slides",
     "url": "https://github.com/maaslalani/slides",
     "description": "Terminal based presentation tool",
     "language": "Go",
-    "star": "491"
+    "star": "495"
   },
   {
     "title": "hashicorp/terraform",
     "url": "https://github.com/hashicorp/terraform",
     "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
     "language": "Go",
-    "star": "54"
+    "star": "55"
   },
   {
     "title": "Charmve/computer-vision-in-action",
     "url": "https://github.com/Charmve/computer-vision-in-action",
     "description": "《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star）",
     "language": "Jupyter Notebook",
-    "star": "195"
+    "star": "185"
   },
   {
     "title": "chinnkarahoi/jd_scripts",
@@ -46,7 +46,7 @@
     "url": "https://github.com/apple/swift-algorithms",
     "description": "Commonly used sequence and collection algorithms for Swift",
     "language": "Swift",
-    "star": "26"
+    "star": "28"
   },
   {
     "title": "protocolbuffers/protobuf",
@@ -60,7 +60,7 @@
     "url": "https://github.com/escape2020/school2021",
     "description": "ESCAPE Summer School 2021",
     "language": "Jupyter Notebook",
-    "star": "67"
+    "star": "69"
   },
   {
     "title": "microsoft/playwright",
@@ -81,14 +81,14 @@
     "url": "https://github.com/PaddlePaddle/PaddleHub",
     "description": "Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)",
     "language": "Python",
-    "star": "283"
+    "star": "287"
   },
   {
     "title": "danistefanovic/build-your-own-x",
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "334"
+    "star": "349"
   },
   {
     "title": "fmeringdal/nettu-meet",
@@ -102,7 +102,7 @@
     "url": "https://github.com/snowpackjs/astro",
     "description": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
     "language": "TypeScript",
-    "star": "584"
+    "star": "583"
   },
   {
     "title": "PaperMC/Paper",
@@ -130,7 +130,7 @@
     "url": "https://github.com/CaffeineMC/sodium-fabric",
     "description": "A Fabric mod designed to improve frame rates and reduce micro-stutter",
     "language": "Java",
-    "star": "13"
+    "star": "15"
   },
   {
     "title": "OATML/non-parametric-transformers",
@@ -144,14 +144,14 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "333"
+    "star": "332"
   },
   {
     "title": "iamadamdev/bypass-paywalls-chrome",
     "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
     "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
     "language": "JavaScript",
-    "star": "172"
+    "star": "167"
   },
   {
     "title": "facebook/folly",
@@ -165,13 +165,13 @@
     "url": "https://github.com/PaddlePaddle/PaddleNLP",
     "description": "An NLP library with Awesome pre-trained Transformer models and easy-to-use interface, supporting wide-range of NLP tasks from research to industrial applications.",
     "language": "Python",
-    "star": "268"
+    "star": "271"
   },
   {
     "title": "peng-zhihui/HoloCubic",
     "url": "https://github.com/peng-zhihui/HoloCubic",
     "description": "带网络功能的伪全息透明显示桌面站",
     "language": "C",
-    "star": "25"
+    "star": "23"
   }
 ]
