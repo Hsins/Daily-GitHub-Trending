@@ -4,14 +4,14 @@
     "url": "https://github.com/madMAx43v3r/chia-plotter",
     "description": "",
     "language": "C",
-    "star": "408"
+    "star": "396"
   },
   {
     "title": "peng-zhihui/XUAN-Bike",
     "url": "https://github.com/peng-zhihui/XUAN-Bike",
     "description": "",
     "language": "none",
-    "star": "651"
+    "star": "537"
   },
   {
     "title": "kingoflolz/mesh-transformer-jax",
@@ -25,14 +25,14 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "745"
+    "star": "623"
   },
   {
     "title": "microsoft/playwright",
     "url": "https://github.com/microsoft/playwright",
     "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
     "language": "TypeScript",
-    "star": "202"
+    "star": "158"
   },
   {
     "title": "zzanehip/The-OldOS-Project",
@@ -46,7 +46,7 @@
     "url": "https://github.com/TuSimple/naive-ui",
     "description": "A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.",
     "language": "TypeScript",
-    "star": "573"
+    "star": "413"
   },
   {
     "title": "drawrowfly/tiktok-scraper",
@@ -60,7 +60,7 @@
     "url": "https://github.com/reactwg/react-18",
     "description": "Workgroup for React 18 release.",
     "language": "none",
-    "star": "181"
+    "star": "182"
   },
   {
     "title": "chinnkarahoi/jd_scripts",
@@ -74,7 +74,7 @@
     "url": "https://github.com/lan-tianxiang/jd_shell",
     "description": "Node网页开发工具",
     "language": "JavaScript",
-    "star": "80"
+    "star": "118"
   },
   {
     "title": "spring-projects/spring-boot",
@@ -88,7 +88,7 @@
     "url": "https://github.com/Charmve/computer-vision-in-action",
     "description": "《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（更新中，可以先 star）",
     "language": "Jupyter Notebook",
-    "star": "246"
+    "star": "200"
   },
   {
     "title": "google/googletest",
@@ -102,21 +102,21 @@
     "url": "https://github.com/maaslalani/slides",
     "description": "Terminal based presentation tool",
     "language": "Go",
-    "star": "505"
+    "star": "499"
   },
   {
     "title": "actions/virtual-environments",
     "url": "https://github.com/actions/virtual-environments",
     "description": "GitHub Actions virtual environments",
     "language": "PowerShell",
-    "star": "82"
+    "star": "63"
   },
   {
     "title": "lan-tianxiang/JS_TOOL",
     "url": "https://github.com/lan-tianxiang/JS_TOOL",
     "description": "Node网页开发工具",
     "language": "Shell",
-    "star": "37"
+    "star": "36"
   },
   {
     "title": "whyour/qinglong",
@@ -130,21 +130,21 @@
     "url": "https://github.com/mechaniac/Map-of-Javascript",
     "description": "Javascript on one sheet. (and one for algorithms)",
     "language": "JavaScript",
-    "star": "148"
+    "star": "114"
   },
   {
     "title": "GuoxianSong/AgileGAN",
     "url": "https://github.com/GuoxianSong/AgileGAN",
     "description": "Official repo for paper \"AgileGAN: Stylizing Portraits by Inversion-Consistent Transfer Learning\"",
     "language": "none",
-    "star": "33"
+    "star": "34"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (June 2021)",
     "language": "JavaScript",
-    "star": "40"
+    "star": "41"
   },
   {
     "title": "hasura/graphql-engine",
@@ -172,6 +172,6 @@
     "url": "https://github.com/PaperMC/Paper",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
     "language": "Shell",
-    "star": "71"
+    "star": "75"
   }
 ]
