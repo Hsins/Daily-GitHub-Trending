@@ -1,0 +1,177 @@
+[
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "language": "Shell",
+    "star": "212"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "language": "Haskell",
+    "star": "437"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability",
+    "language": "Vim script",
+    "star": "64"
+  },
+  {
+    "title": "udacity/nd064_course_1",
+    "url": "https://github.com/udacity/nd064_course_1",
+    "description": "",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "description": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "language": "HTML",
+    "star": "99"
+  },
+  {
+    "title": "madMAx43v3r/chia-plotter",
+    "url": "https://github.com/madMAx43v3r/chia-plotter",
+    "description": "",
+    "language": "C",
+    "star": "572"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "221"
+  },
+  {
+    "title": "zzanehip/The-OldOS-Project",
+    "url": "https://github.com/zzanehip/The-OldOS-Project",
+    "description": "Recreating a fully functional version of iOS 4 in SwiftUI.",
+    "language": "Swift",
+    "star": "988"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "102"
+  },
+  {
+    "title": "biancangming/wtv",
+    "url": "https://github.com/biancangming/wtv",
+    "description": "解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站",
+    "language": "Python",
+    "star": "308"
+  },
+  {
+    "title": "maziarraissi/Applied-Deep-Learning",
+    "url": "https://github.com/maziarraissi/Applied-Deep-Learning",
+    "description": "Applied Deep Learning",
+    "language": "none",
+    "star": "370"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "chrxh/alien",
+    "url": "https://github.com/chrxh/alien",
+    "description": "alien is a GPU-accelerated artificial life simulation program.",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "the-hyp0cr1t3/DSA-Training-2021",
+    "url": "https://github.com/the-hyp0cr1t3/DSA-Training-2021",
+    "description": "",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "wuzhi04/MyActions",
+    "url": "https://github.com/wuzhi04/MyActions",
+    "description": "",
+    "language": "JavaScript",
+    "star": "60"
+  },
+  {
+    "title": "yangtingxiao/QuantumultX",
+    "url": "https://github.com/yangtingxiao/QuantumultX",
+    "description": "脚本，自用",
+    "language": "none",
+    "star": "91"
+  },
+  {
+    "title": "MuriungiPatrick/Bootstrap-5-portfolio-template",
+    "url": "https://github.com/MuriungiPatrick/Bootstrap-5-portfolio-template",
+    "description": "Learning Bootstrap 5 with SASS",
+    "language": "JavaScript",
+    "star": "23"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "language": "none",
+    "star": "66"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "description": "An easier way to build neural search on the cloud",
+    "language": "Python",
+    "star": "440"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "700"
+  },
+  {
+    "title": "hlissner/doom-emacs",
+    "url": "https://github.com/hlissner/doom-emacs",
+    "description": "An Emacs framework for the stubborn martian hacker",
+    "language": "Emacs Lisp",
+    "star": "38"
+  },
+  {
+    "title": "drawrowfly/tiktok-scraper",
+    "url": "https://github.com/drawrowfly/tiktok-scraper",
+    "description": "TikTok Scraper. Download video posts, collect user/trend/hashtag/music feed metadata, sign URL and etc.",
+    "language": "TypeScript",
+    "star": "191"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "star": "92"
+  },
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "description": "The hackable text editor",
+    "language": "JavaScript",
+    "star": "35"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "language": "Rust",
+    "star": "30"
+  }
+]
