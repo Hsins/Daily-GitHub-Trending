@@ -1,0 +1,177 @@
+[
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "description": "An easier way to build neural search on the cloud",
+    "language": "Python",
+    "star": "460"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "monyhar/monyhar-lite",
+    "url": "https://github.com/monyhar/monyhar-lite",
+    "description": "梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。",
+    "language": "C",
+    "star": "242"
+  },
+  {
+    "title": "programthink/books",
+    "url": "https://github.com/programthink/books",
+    "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
+    "language": "none",
+    "star": "34"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "767"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "description": "React Hooks — 👍",
+    "language": "TypeScript",
+    "star": "61"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "language": "Haskell",
+    "star": "32"
+  },
+  {
+    "title": "walidshaari/Certified-Kubernetes-Security-Specialist",
+    "url": "https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist",
+    "description": "Curated resources help you prepare for the CNCF/Linux Foundation CKS 2021 \"Kubernetes Certified Security Specialist\" Certification exam. Please provide feedback or requests by raising issues, or making a pull request. All feedback for improvements are welcome. thank you.",
+    "language": "AGS Script",
+    "star": "6"
+  },
+  {
+    "title": "siduck76/NvChad",
+    "url": "https://github.com/siduck76/NvChad",
+    "description": "beautiful neovim setup configured in lua",
+    "language": "Lua",
+    "star": "132"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "56"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "63"
+  },
+  {
+    "title": "IlanKalendarov/SharpHook",
+    "url": "https://github.com/IlanKalendarov/SharpHook",
+    "description": "",
+    "language": "C#",
+    "star": "26"
+  },
+  {
+    "title": "SuMaiKaDe/bot",
+    "url": "https://github.com/SuMaiKaDe/bot",
+    "description": "",
+    "language": "Python",
+    "star": "40"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "120"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "language": "Rust",
+    "star": "199"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability",
+    "language": "Vim script",
+    "star": "109"
+  },
+  {
+    "title": "smokeme/payloadGenerator",
+    "url": "https://github.com/smokeme/payloadGenerator",
+    "description": "Generate obfuscated meterpreter shells",
+    "language": "Python",
+    "star": "8"
+  },
+  {
+    "title": "RPwnage/pwn-my",
+    "url": "https://github.com/RPwnage/pwn-my",
+    "description": "iOS 14.5 WebKit/Safari based Jailbreak",
+    "language": "JavaScript",
+    "star": "5"
+  },
+  {
+    "title": "BurntSushi/ripgrep",
+    "url": "https://github.com/BurntSushi/ripgrep",
+    "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+    "language": "Rust",
+    "star": "223"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "description": "Your window into the Elastic Stack",
+    "language": "TypeScript",
+    "star": "6"
+  },
+  {
+    "title": "CyberPunkMetalHead/backtesting-for-cryptocurrency-trading",
+    "url": "https://github.com/CyberPunkMetalHead/backtesting-for-cryptocurrency-trading",
+    "description": "This is a simple backtesting framework to help you test your crypto currency trading. It includes a way to download and store historical crypto data and to execute a trading strategy.",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "23"
+  },
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "description": "The hackable text editor",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "language": "Go",
+    "star": "6"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "95"
+  }
+]
