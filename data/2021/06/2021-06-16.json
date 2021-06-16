@@ -4,14 +4,14 @@
     "url": "https://github.com/siduck76/NvChad",
     "description": "beautiful neovim setup configured in lua",
     "language": "Lua",
-    "star": "225"
+    "star": "219"
   },
   {
     "title": "star261/jd",
     "url": "https://github.com/star261/jd",
     "description": "",
     "language": "JavaScript",
-    "star": "39"
+    "star": "38"
   },
   {
     "title": "sqfmi/Watchy",
@@ -25,7 +25,7 @@
     "url": "https://github.com/jina-ai/jina",
     "description": "An easier way to build neural search on the cloud",
     "language": "Python",
-    "star": "402"
+    "star": "429"
   },
   {
     "title": "geohot/tinygrad",
@@ -53,14 +53,14 @@
     "url": "https://github.com/chriskiehl/Gooey",
     "description": "Turn (almost) any Python command line program into a full GUI application with one line",
     "language": "Python",
-    "star": "538"
+    "star": "384"
   },
   {
     "title": "monyhar/monyhar-lite",
     "url": "https://github.com/monyhar/monyhar-lite",
     "description": "梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。",
     "language": "C",
-    "star": "261"
+    "star": "260"
   },
   {
     "title": "chromium/chromium",
@@ -74,21 +74,21 @@
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "208"
+    "star": "304"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "146"
+    "star": "221"
   },
   {
     "title": "lydiahallie/javascript-questions",
     "url": "https://github.com/lydiahallie/javascript-questions",
     "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
     "language": "none",
-    "star": "183"
+    "star": "160"
   },
   {
     "title": "neon-age/Smart-Inspector",
@@ -116,7 +116,7 @@
     "url": "https://github.com/yunjey/pytorch-tutorial",
     "description": "PyTorch Tutorial for Deep Learning Researchers",
     "language": "Python",
-    "star": "27"
+    "star": "28"
   },
   {
     "title": "vercel/next.js",
@@ -130,7 +130,7 @@
     "url": "https://github.com/programthink/books",
     "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
     "language": "none",
-    "star": "76"
+    "star": "81"
   },
   {
     "title": "ethersphere/bee",
@@ -144,14 +144,14 @@
     "url": "https://github.com/willmcgugan/rich",
     "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
     "language": "Python",
-    "star": "180"
+    "star": "175"
   },
   {
     "title": "jdah/jdh-8",
     "url": "https://github.com/jdah/jdh-8",
     "description": "An 8-bit minicomputer with a fully custom architecture",
     "language": "C",
-    "star": "30"
+    "star": "50"
   },
   {
     "title": "NVlabs/SegFormer",
@@ -165,7 +165,7 @@
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "An open source remote desktop client software",
     "language": "Rust",
-    "star": "73"
+    "star": "74"
   },
   {
     "title": "adrianhajdin/portfolio_website",
