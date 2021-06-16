@@ -1,0 +1,177 @@
+[
+  {
+    "title": "siduck76/NvChad",
+    "url": "https://github.com/siduck76/NvChad",
+    "description": "beautiful neovim setup configured in lua",
+    "language": "Lua",
+    "star": "225"
+  },
+  {
+    "title": "star261/jd",
+    "url": "https://github.com/star261/jd",
+    "description": "",
+    "language": "JavaScript",
+    "star": "39"
+  },
+  {
+    "title": "sqfmi/Watchy",
+    "url": "https://github.com/sqfmi/Watchy",
+    "description": "Watchy - An Open Source E-Ink Smartwatch",
+    "language": "C",
+    "star": "6"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "description": "An easier way to build neural search on the cloud",
+    "language": "Python",
+    "star": "402"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "language": "Python",
+    "star": "24"
+  },
+  {
+    "title": "hotwired/turbo-rails",
+    "url": "https://github.com/hotwired/turbo-rails",
+    "description": "Use Turbo in your Ruby on Rails app",
+    "language": "JavaScript",
+    "star": "5"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "description": "Turn (almost) any Python command line program into a full GUI application with one line",
+    "language": "Python",
+    "star": "538"
+  },
+  {
+    "title": "monyhar/monyhar-lite",
+    "url": "https://github.com/monyhar/monyhar-lite",
+    "description": "梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。",
+    "language": "C",
+    "star": "261"
+  },
+  {
+    "title": "chromium/chromium",
+    "url": "https://github.com/chromium/chromium",
+    "description": "The official GitHub mirror of the Chromium source",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "208"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "146"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "183"
+  },
+  {
+    "title": "neon-age/Smart-Inspector",
+    "url": "https://github.com/neon-age/Smart-Inspector",
+    "description": "Keeps your screen real-estate clean with refined, compact UX.",
+    "language": "C#",
+    "star": "37"
+  },
+  {
+    "title": "alibaba/formily",
+    "url": "https://github.com/alibaba/formily",
+    "description": "Alibaba Group Unified Form Solution -- Support React/Vue2/Vue3",
+    "language": "TypeScript",
+    "star": "33"
+  },
+  {
+    "title": "JDHelloWorld/jd_scripts",
+    "url": "https://github.com/JDHelloWorld/jd_scripts",
+    "description": "",
+    "language": "JavaScript",
+    "star": "58"
+  },
+  {
+    "title": "yunjey/pytorch-tutorial",
+    "url": "https://github.com/yunjey/pytorch-tutorial",
+    "description": "PyTorch Tutorial for Deep Learning Researchers",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "134"
+  },
+  {
+    "title": "programthink/books",
+    "url": "https://github.com/programthink/books",
+    "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
+    "language": "none",
+    "star": "76"
+  },
+  {
+    "title": "ethersphere/bee",
+    "url": "https://github.com/ethersphere/bee",
+    "description": "Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; censorship-resistant and self-sustaining network for storing your (application) data.",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "180"
+  },
+  {
+    "title": "jdah/jdh-8",
+    "url": "https://github.com/jdah/jdh-8",
+    "description": "An 8-bit minicomputer with a fully custom architecture",
+    "language": "C",
+    "star": "30"
+  },
+  {
+    "title": "NVlabs/SegFormer",
+    "url": "https://github.com/NVlabs/SegFormer",
+    "description": "Official implementation of \"SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers\"",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "An open source remote desktop client software",
+    "language": "Rust",
+    "star": "73"
+  },
+  {
+    "title": "adrianhajdin/portfolio_website",
+    "url": "https://github.com/adrianhajdin/portfolio_website",
+    "description": "Tutorial created by Enyel Sequeira, taught by JavaScript Mastery",
+    "language": "JavaScript",
+    "star": "53"
+  }
+]
