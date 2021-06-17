@@ -4,7 +4,7 @@
     "url": "https://github.com/nushell/nushell",
     "description": "A new type of shell",
     "language": "Rust",
-    "star": "1"
+    "star": "773"
   },
   {
     "title": "thanos-io/thanos",
@@ -18,63 +18,63 @@
     "url": "https://github.com/keras-team/keras",
     "description": "Deep Learning for humans",
     "language": "Python",
-    "star": "39"
+    "star": "32"
   },
   {
     "title": "vercel/next.js",
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "380"
+    "star": "448"
   },
   {
     "title": "chromium/chromium",
     "url": "https://github.com/chromium/chromium",
     "description": "The official GitHub mirror of the Chromium source",
     "language": "none",
-    "star": "205"
+    "star": "206"
   },
   {
     "title": "google/fully-homomorphic-encryption",
     "url": "https://github.com/google/fully-homomorphic-encryption",
     "description": "Libraries and tools to perform fully homomorphic encryption operations on an encrypted data set.",
     "language": "C++",
-    "star": "366"
+    "star": "380"
   },
   {
     "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
     "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
     "description": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…",
     "language": "Jupyter Notebook",
-    "star": "402"
+    "star": "382"
   },
   {
     "title": "programthink/books",
     "url": "https://github.com/programthink/books",
     "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
     "language": "none",
-    "star": "224"
+    "star": "221"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "38"
+    "star": "36"
   },
   {
     "title": "monyhar/monyhar-lite",
     "url": "https://github.com/monyhar/monyhar-lite",
     "description": "梦弘浏览器 自主研发版本 - 完全自主研发，打破国外垄断，比 Chrome 快 600%。缺少上网功能。",
     "language": "C",
-    "star": "365"
+    "star": "366"
   },
   {
     "title": "lydiahallie/javascript-questions",
     "url": "https://github.com/lydiahallie/javascript-questions",
     "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
     "language": "none",
-    "star": "315"
+    "star": "302"
   },
   {
     "title": "ibraheemdev/modern-unix",
@@ -88,70 +88,70 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "203"
+    "star": "179"
   },
   {
     "title": "massgravel/Microsoft-Activation-Scripts",
     "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "description": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
     "language": "Batchfile",
-    "star": "106"
+    "star": "125"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "288"
+    "star": "275"
   },
   {
     "title": "neuralchen/SimSwap",
     "url": "https://github.com/neuralchen/SimSwap",
     "description": "The official project of SimSwap (ACM MM 2020)",
     "language": "Python",
-    "star": "56"
+    "star": "54"
   },
   {
     "title": "programthink/zhao",
     "url": "https://github.com/programthink/zhao",
     "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
     "language": "Python",
-    "star": "46"
+    "star": "45"
   },
   {
     "title": "jina-ai/jina",
     "url": "https://github.com/jina-ai/jina",
     "description": "Cloud-native neural search framework for any kind of data",
     "language": "Python",
-    "star": "290"
+    "star": "263"
   },
   {
     "title": "hotwired/turbo-rails",
     "url": "https://github.com/hotwired/turbo-rails",
     "description": "Use Turbo in your Ruby on Rails app",
     "language": "JavaScript",
-    "star": "27"
+    "star": "30"
   },
   {
     "title": "seata/seata",
     "url": "https://github.com/seata/seata",
     "description": "🔥 Seata is an easy-to-use, high-performance, open source distributed transaction solution.",
     "language": "Java",
-    "star": "24"
+    "star": "31"
   },
   {
     "title": "allenai/allennlp",
     "url": "https://github.com/allenai/allennlp",
     "description": "An open-source NLP research library, built on PyTorch.",
     "language": "Python",
-    "star": "20"
+    "star": "17"
   },
   {
     "title": "siduck76/NvChad",
     "url": "https://github.com/siduck76/NvChad",
     "description": "beautiful neovim setup configured in lua",
     "language": "Lua",
-    "star": "348"
+    "star": "331"
   },
   {
     "title": "dotnet/AspNetCore.Docs",
@@ -165,13 +165,13 @@
     "url": "https://github.com/yunjey/pytorch-tutorial",
     "description": "PyTorch Tutorial for Deep Learning Researchers",
     "language": "Python",
-    "star": "83"
+    "star": "92"
   },
   {
     "title": "neon-age/Smart-Inspector",
     "url": "https://github.com/neon-age/Smart-Inspector",
     "description": "Keeps your screen real-estate clean with refined, compact UX.",
     "language": "C#",
-    "star": "66"
+    "star": "96"
   }
 ]
