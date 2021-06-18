@@ -4,7 +4,7 @@
     "url": "https://github.com/programthink/zhao",
     "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
     "language": "Python",
-    "star": "68"
+    "star": "84"
   },
   {
     "title": "megaease/easegress",
@@ -32,63 +32,63 @@
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "233"
+    "star": "382"
   },
   {
     "title": "geohot/tinygrad",
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "30"
+    "star": "35"
   },
   {
     "title": "concrete-utopia/utopia",
     "url": "https://github.com/concrete-utopia/utopia",
     "description": "Design ❤️ Code",
     "language": "TypeScript",
-    "star": "247"
+    "star": "271"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Yet another remote desktop software",
     "language": "Rust",
-    "star": "788"
+    "star": "477"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "210"
+    "star": "240"
   },
   {
     "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
     "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
     "description": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…",
     "language": "Jupyter Notebook",
-    "star": "395"
+    "star": "450"
   },
   {
     "title": "harvester/harvester",
     "url": "https://github.com/harvester/harvester",
     "description": "Open source hyperconverged infrastructure (HCI) software",
     "language": "Go",
-    "star": "87"
+    "star": "95"
   },
   {
     "title": "kubernetes/kubernetes",
     "url": "https://github.com/kubernetes/kubernetes",
     "description": "Production-Grade Container Scheduling and Management",
     "language": "Go",
-    "star": "121"
+    "star": "126"
   },
   {
     "title": "microsoft/TypeScript",
     "url": "https://github.com/microsoft/TypeScript",
     "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
     "language": "TypeScript",
-    "star": "41"
+    "star": "55"
   },
   {
     "title": "tunguz/ML_Resources",
@@ -102,76 +102,76 @@
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "426"
+    "star": "385"
   },
   {
     "title": "rancher/rancher",
     "url": "https://github.com/rancher/rancher",
     "description": "Complete container management platform",
     "language": "Go",
-    "star": "80"
+    "star": "81"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "290"
+    "star": "293"
   },
   {
     "title": "bee-san/pyWhat",
     "url": "https://github.com/bee-san/pyWhat",
     "description": "🐸 Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it'll tell you what it is! 🧙‍♀️",
     "language": "Python",
-    "star": "255"
+    "star": "257"
   },
   {
     "title": "sqfmi/Watchy",
     "url": "https://github.com/sqfmi/Watchy",
     "description": "Watchy - An Open Source E-Ink Smartwatch",
     "language": "C",
-    "star": "15"
+    "star": "19"
   },
   {
     "title": "prisma/prisma",
     "url": "https://github.com/prisma/prisma",
     "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
     "language": "TypeScript",
-    "star": "49"
+    "star": "51"
   },
   {
     "title": "mentebinaria/retoolkit",
     "url": "https://github.com/mentebinaria/retoolkit",
     "description": "Reverse Engineer's Toolkit",
     "language": "Inno Setup",
-    "star": "25"
+    "star": "36"
   },
   {
     "title": "willmcgugan/textual",
     "url": "https://github.com/willmcgugan/textual",
     "description": "A Text User Interface with Rich as the renderer",
     "language": "Python",
-    "star": "268"
+    "star": "256"
   },
   {
     "title": "dotnet/AspNetCore.Docs",
     "url": "https://github.com/dotnet/AspNetCore.Docs",
     "description": "Documentation for ASP.NET Core",
     "language": "C#",
-    "star": "78"
+    "star": "146"
   },
   {
     "title": "longhorn/longhorn",
     "url": "https://github.com/longhorn/longhorn",
     "description": "Cloud-Native distributed block storage built on and for Kubernetes",
     "language": "Shell",
-    "star": "102"
+    "star": "79"
   },
   {
     "title": "programthink/books",
     "url": "https://github.com/programthink/books",
     "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
     "language": "none",
-    "star": "161"
+    "star": "145"
   }
 ]
