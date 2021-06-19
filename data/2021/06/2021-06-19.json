@@ -4,28 +4,28 @@
     "url": "https://github.com/facebookresearch/AugLy",
     "description": "A data augmentations library for audio, image, text, and video.",
     "language": "Python",
-    "star": "731"
+    "star": "747"
   },
   {
     "title": "programthink/zhao",
     "url": "https://github.com/programthink/zhao",
     "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
     "language": "Python",
-    "star": "143"
+    "star": "201"
   },
   {
     "title": "megaease/easegress",
     "url": "https://github.com/megaease/easegress",
     "description": "A Cloud Native traffic orchestration system",
     "language": "Go",
-    "star": "266"
+    "star": "193"
   },
   {
     "title": "keras-team/keras",
     "url": "https://github.com/keras-team/keras",
     "description": "Deep Learning for humans",
     "language": "Python",
-    "star": "123"
+    "star": "126"
   },
   {
     "title": "ibraheemdev/modern-unix",
@@ -39,139 +39,139 @@
     "url": "https://github.com/tailwindlabs/tailwindcss",
     "description": "A utility-first CSS framework for rapid UI development.",
     "language": "JavaScript",
-    "star": "150"
+    "star": "65"
   },
   {
     "title": "n8n-io/n8n",
     "url": "https://github.com/n8n-io/n8n",
     "description": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
     "language": "TypeScript",
-    "star": "85"
+    "star": "125"
   },
   {
     "title": "harvester/harvester",
     "url": "https://github.com/harvester/harvester",
     "description": "Open source hyperconverged infrastructure (HCI) software",
     "language": "Go",
-    "star": "115"
+    "star": "123"
   },
   {
     "title": "organicmaps/organicmaps",
     "url": "https://github.com/organicmaps/organicmaps",
     "description": "🍃 Organic Maps is a better fork of MAPS.ME, an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MAPS.ME founders. No ads, no tracking, no data collection, no crapware.",
     "language": "C++",
-    "star": "510"
+    "star": "515"
   },
   {
     "title": "longhorn/longhorn",
     "url": "https://github.com/longhorn/longhorn",
     "description": "Cloud-Native distributed block storage built on and for Kubernetes",
     "language": "Shell",
-    "star": "123"
+    "star": "121"
   },
   {
     "title": "rancher/rancher",
     "url": "https://github.com/rancher/rancher",
     "description": "Complete container management platform",
     "language": "Go",
-    "star": "160"
+    "star": "168"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Yet another remote desktop software",
     "language": "Rust",
-    "star": "488"
+    "star": "498"
   },
   {
     "title": "kwai/DouZero",
     "url": "https://github.com/kwai/DouZero",
     "description": "[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI",
     "language": "Python",
-    "star": "222"
+    "star": "202"
   },
   {
     "title": "cariboulabs/cariboulite",
     "url": "https://github.com/cariboulabs/cariboulite",
     "description": "CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR",
     "language": "C",
-    "star": "120"
+    "star": "128"
   },
   {
     "title": "willmcgugan/textual",
     "url": "https://github.com/willmcgugan/textual",
     "description": "A Text User Interface with Rich as the renderer",
     "language": "Python",
-    "star": "374"
+    "star": "288"
   },
   {
     "title": "prisma/prisma",
     "url": "https://github.com/prisma/prisma",
     "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
     "language": "TypeScript",
-    "star": "379"
+    "star": "383"
   },
   {
     "title": "apache/incubator-shenyu",
     "url": "https://github.com/apache/incubator-shenyu",
     "description": "ShenYu is High-Performance Java API Gateway.",
     "language": "Java",
-    "star": "32"
+    "star": "36"
   },
   {
     "title": "academic/awesome-datascience",
     "url": "https://github.com/academic/awesome-datascience",
     "description": "📝 An awesome Data Science repository to learn and apply for real world problems.",
     "language": "none",
-    "star": "69"
+    "star": "122"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "425"
+    "star": "393"
   },
   {
     "title": "bats3c/DarkLoadLibrary",
     "url": "https://github.com/bats3c/DarkLoadLibrary",
     "description": "LoadLibrary for offensive operations",
     "language": "C",
-    "star": "64"
+    "star": "70"
   },
   {
     "title": "EssayKillerBrain/EssayKiller_V2",
     "url": "https://github.com/EssayKillerBrain/EssayKiller_V2",
     "description": "基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化",
     "language": "Python",
-    "star": "288"
+    "star": "266"
   },
   {
     "title": "gohugoio/hugo",
     "url": "https://github.com/gohugoio/hugo",
     "description": "The world’s fastest framework for building websites.",
     "language": "Go",
-    "star": "105"
+    "star": "28"
   },
   {
     "title": "thanos-io/thanos",
     "url": "https://github.com/thanos-io/thanos",
     "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
     "language": "Go",
-    "star": "51"
+    "star": "98"
   },
   {
     "title": "benthecoder/yt-channels-DS-AI-ML-CS",
     "url": "https://github.com/benthecoder/yt-channels-DS-AI-ML-CS",
     "description": "A comprehensive list of YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.",
     "language": "none",
-    "star": "81"
+    "star": "37"
   },
   {
     "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
     "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
     "description": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…",
     "language": "Jupyter Notebook",
-    "star": "485"
+    "star": "434"
   }
 ]
