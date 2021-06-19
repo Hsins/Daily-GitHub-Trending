@@ -67,7 +67,7 @@
     "url": "https://github.com/longhorn/longhorn",
     "description": "Cloud-Native distributed block storage built on and for Kubernetes",
     "language": "Shell",
-    "star": "122"
+    "star": "123"
   },
   {
     "title": "rancher/rancher",
@@ -109,7 +109,7 @@
     "url": "https://github.com/prisma/prisma",
     "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
     "language": "TypeScript",
-    "star": "373"
+    "star": "379"
   },
   {
     "title": "apache/incubator-shenyu",
@@ -151,7 +151,7 @@
     "url": "https://github.com/gohugoio/hugo",
     "description": "The world’s fastest framework for building websites.",
     "language": "Go",
-    "star": "102"
+    "star": "105"
   },
   {
     "title": "thanos-io/thanos",
