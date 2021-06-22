@@ -4,28 +4,28 @@
     "url": "https://github.com/six-ddc/plow",
     "description": "A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying",
     "language": "Go",
-    "star": "317"
+    "star": "307"
   },
   {
     "title": "n8n-io/n8n",
     "url": "https://github.com/n8n-io/n8n",
     "description": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
     "language": "TypeScript",
-    "star": "314"
+    "star": "354"
   },
   {
     "title": "maaslalani/slides",
     "url": "https://github.com/maaslalani/slides",
     "description": "Terminal based presentation tool",
     "language": "Go",
-    "star": "107"
+    "star": "80"
   },
   {
     "title": "OffcierCia/DeFi-Developer-Road-Map",
     "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
     "description": "DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.",
     "language": "none",
-    "star": "93"
+    "star": "61"
   },
   {
     "title": "rwightman/pytorch-image-models",
@@ -39,14 +39,14 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "249"
+    "star": "259"
   },
   {
     "title": "PaddlePaddle/PaddleClas",
     "url": "https://github.com/PaddlePaddle/PaddleClas",
     "description": "A treasure chest for visual recognition powered by PaddlePaddle",
     "language": "Python",
-    "star": "160"
+    "star": "173"
   },
   {
     "title": "tstewart161/Reddit_Sentiment_Trader",
@@ -60,56 +60,56 @@
     "url": "https://github.com/facebookresearch/AugLy",
     "description": "A data augmentations library for audio, image, text, and video.",
     "language": "Python",
-    "star": "483"
+    "star": "596"
   },
   {
     "title": "madebygps/self-taught-guide-to-cloud-computing",
     "url": "https://github.com/madebygps/self-taught-guide-to-cloud-computing",
     "description": "My self taught guide to cloud computing.",
     "language": "none",
-    "star": "133"
+    "star": "124"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "248"
+    "star": "209"
   },
   {
     "title": "algorithm-visualizer/algorithm-visualizer",
     "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
     "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
     "language": "JavaScript",
-    "star": "259"
+    "star": "300"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first",
     "language": "Python",
-    "star": "158"
+    "star": "126"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "Shell",
-    "star": "181"
+    "star": "168"
   },
   {
     "title": "benthecoder/yt-channels-DS-AI-ML-CS",
     "url": "https://github.com/benthecoder/yt-channels-DS-AI-ML-CS",
     "description": "A comprehensive list of 160+ YouTube Channels for Data Science, Data Engineering, Machine Learning, Deep learning, Computer Science, programming, software engineering, etc.",
     "language": "none",
-    "star": "130"
+    "star": "65"
   },
   {
     "title": "KarenOk/whatsapp-web-clone",
     "url": "https://github.com/KarenOk/whatsapp-web-clone",
     "description": "Clone of Whatsapp Web's current UI.",
     "language": "JavaScript",
-    "star": "41"
+    "star": "43"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
@@ -123,7 +123,7 @@
     "url": "https://github.com/kwai/DouZero",
     "description": "[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning | 斗地主AI",
     "language": "Python",
-    "star": "261"
+    "star": "209"
   },
   {
     "title": "danistefanovic/build-your-own-x",
@@ -137,7 +137,7 @@
     "url": "https://github.com/kdn251/interviews",
     "description": "Everything you need to know to get the job.",
     "language": "Java",
-    "star": "113"
+    "star": "96"
   },
   {
     "title": "bradtraversy/design-resources-for-developers",
@@ -151,27 +151,27 @@
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "275"
+    "star": "293"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2021",
     "language": "none",
-    "star": "194"
+    "star": "191"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "68"
+    "star": "78"
   },
   {
     "title": "CyC2018/CS-Notes",
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "Java",
-    "star": "160"
+    "star": "196"
   }
 ]
