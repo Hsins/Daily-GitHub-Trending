@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ThakeeNathees/pocketlang",
+    "url": "https://github.com/ThakeeNathees/pocketlang",
+    "description": "A small and fast programming language.",
+    "language": "C",
+    "star": "142"
+  },
+  {
+    "title": "rocketseat-education/nlw-06-reactjs",
+    "url": "https://github.com/rocketseat-education/nlw-06-reactjs",
+    "description": "Projeto desenvolvido na missão ReactJS no NLW #06",
+    "language": "TypeScript",
+    "star": "6"
+  },
+  {
+    "title": "maaslalani/slides",
+    "url": "https://github.com/maaslalani/slides",
+    "description": "Terminal based presentation tool",
+    "language": "Go",
+    "star": "354"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "none",
+    "star": "47"
+  },
+  {
+    "title": "OpenXiangShan/XiangShan",
+    "url": "https://github.com/OpenXiangShan/XiangShan",
+    "description": "Open-source high-performance RISC-V processor",
+    "language": "Scala",
+    "star": "187"
+  },
+  {
+    "title": "calendso/calendso",
+    "url": "https://github.com/calendso/calendso",
+    "description": "The open-source Calendly alternative.",
+    "language": "TypeScript",
+    "star": "55"
+  },
+  {
+    "title": "rocketseat-education/nlw-06-nodejs",
+    "url": "https://github.com/rocketseat-education/nlw-06-nodejs",
+    "description": "",
+    "language": "TypeScript",
+    "star": "27"
+  },
+  {
+    "title": "google-research/deeplab2",
+    "url": "https://github.com/google-research/deeplab2",
+    "description": "DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks.",
+    "language": "Python",
+    "star": "45"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "310"
+  },
+  {
+    "title": "six-ddc/plow",
+    "url": "https://github.com/six-ddc/plow",
+    "description": "A high-performance HTTP benchmarking tool with real-time web UI and terminal displaying",
+    "language": "Go",
+    "star": "604"
+  },
+  {
+    "title": "OffcierCia/DeFi-Developer-Road-Map",
+    "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
+    "description": "DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add.",
+    "language": "none",
+    "star": "491"
+  },
+  {
+    "title": "facebookresearch/Kats",
+    "url": "https://github.com/facebookresearch/Kats",
+    "description": "Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.",
+    "language": "Jupyter Notebook",
+    "star": "335"
+  },
+  {
+    "title": "PaddlePaddle/PaddleClas",
+    "url": "https://github.com/PaddlePaddle/PaddleClas",
+    "description": "A treasure chest for visual recognition powered by PaddlePaddle",
+    "language": "Python",
+    "star": "263"
+  },
+  {
+    "title": "dfeneyrou/palanteer",
+    "url": "https://github.com/dfeneyrou/palanteer",
+    "description": "High performance visual profiler, debugger, tests enabler for C++ and Python",
+    "language": "C++",
+    "star": "241"
+  },
+  {
+    "title": "tuteng/Best-websites-a-programmer-should-visit-zh",
+    "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh",
+    "description": "程序员应该访问的最佳网站中文版",
+    "language": "none",
+    "star": "192"
+  },
+  {
+    "title": "rodrigorgtic/gameplay-nlw-together",
+    "url": "https://github.com/rodrigorgtic/gameplay-nlw-together",
+    "description": "Organize suas jogatinas facilmente. Crie grupos para jogar seus games favoritos com seus amigos",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "thangchung/clean-architecture-dotnet",
+    "url": "https://github.com/thangchung/clean-architecture-dotnet",
+    "description": "🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻",
+    "language": "C#",
+    "star": "128"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "71"
+  },
+  {
+    "title": "KarenOk/whatsapp-web-clone",
+    "url": "https://github.com/KarenOk/whatsapp-web-clone",
+    "description": "Clone of Whatsapp Web's current UI.",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "ninechapter-algorithm/linghu-algorithm-templete",
+    "url": "https://github.com/ninechapter-algorithm/linghu-algorithm-templete",
+    "description": "",
+    "language": "none",
+    "star": "27"
+  },
+  {
+    "title": "fmeringdal/nettu-meet",
+    "url": "https://github.com/fmeringdal/nettu-meet",
+    "description": "Open source video conferencing system for tutors.",
+    "language": "TypeScript",
+    "star": "26"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "🔗 Some useful websites for programmers.",
+    "language": "none",
+    "star": "195"
+  },
+  {
+    "title": "toly1994328/FlutterUnit",
+    "url": "https://github.com/toly1994328/FlutterUnit",
+    "description": "【Flutter 集录指南 App】The unity of flutter, The unity of coder.",
+    "language": "Dart",
+    "star": "52"
+  },
+  {
+    "title": "kris-nova/naml",
+    "url": "https://github.com/kris-nova/naml",
+    "description": "Not another markup language. Framework for replacing Kubernetes YAML with Go.",
+    "language": "Go",
+    "star": "73"
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "language": "Rust",
+    "star": "11"
+  }
+]
