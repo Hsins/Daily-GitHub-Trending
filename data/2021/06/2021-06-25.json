@@ -4,14 +4,14 @@
     "url": "https://github.com/OpenXiangShan/XiangShan",
     "description": "Open-source high-performance RISC-V processor",
     "language": "Scala",
-    "star": "221"
+    "star": "214"
   },
   {
     "title": "fent/node-ytdl-core",
     "url": "https://github.com/fent/node-ytdl-core",
     "description": "YouTube video downloader in javascript.",
     "language": "JavaScript",
-    "star": "18"
+    "star": "13"
   },
   {
     "title": "chiphuyen/ml-interviews-book",
@@ -25,21 +25,21 @@
     "url": "https://github.com/labuladong/fucking-algorithm",
     "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
     "language": "none",
-    "star": "218"
+    "star": "170"
   },
   {
     "title": "thangchung/clean-architecture-dotnet",
     "url": "https://github.com/thangchung/clean-architecture-dotnet",
     "description": "🕸 Yet Another .NET Clean Architecture, but for Microservices project. It uses Minimal Clean Architecture with DDD-lite, CQRS-lite, and just enough Cloud-native patterns apply on the simple eCommerce sample and run on Tye with Dapr extension 🍻",
     "language": "C#",
-    "star": "111"
+    "star": "119"
   },
   {
     "title": "solana-labs/solana",
     "url": "https://github.com/solana-labs/solana",
     "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
     "language": "Rust",
-    "star": "81"
+    "star": "83"
   },
   {
     "title": "NationalSecurityAgency/ghidra",
@@ -67,7 +67,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "445"
+    "star": "433"
   },
   {
     "title": "geerlingguy/internet-pi",
@@ -102,14 +102,14 @@
     "url": "https://github.com/dfeneyrou/palanteer",
     "description": "High performance visual profiler, debugger, tests enabler for C++ and Python",
     "language": "C++",
-    "star": "266"
+    "star": "256"
   },
   {
     "title": "tuteng/Best-websites-a-programmer-should-visit-zh",
     "url": "https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh",
     "description": "程序员应该访问的最佳网站中文版",
     "language": "none",
-    "star": "326"
+    "star": "322"
   },
   {
     "title": "apache/airflow",
@@ -144,7 +144,7 @@
     "url": "https://github.com/PaddlePaddle/PaddleClas",
     "description": "A treasure chest for visual recognition powered by PaddlePaddle",
     "language": "Python",
-    "star": "343"
+    "star": "352"
   },
   {
     "title": "kris-nova/naml",
