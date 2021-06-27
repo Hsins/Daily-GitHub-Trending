@@ -4,35 +4,35 @@
     "url": "https://github.com/SigNoz/signoz",
     "description": "SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥",
     "language": "TypeScript",
-    "star": "319"
+    "star": "227"
   },
   {
     "title": "godotengine/godot",
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "69"
+    "star": "121"
   },
   {
     "title": "sudheerj/reactjs-interview-questions",
     "url": "https://github.com/sudheerj/reactjs-interview-questions",
     "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
     "language": "JavaScript",
-    "star": "211"
+    "star": "226"
   },
   {
     "title": "freefq/free",
     "url": "https://github.com/freefq/free",
     "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
     "language": "none",
-    "star": "226"
+    "star": "180"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "125"
+    "star": "102"
   },
   {
     "title": "coolsnowwolf/lede",
@@ -46,7 +46,7 @@
     "url": "https://github.com/binhnguyennus/awesome-scalability",
     "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
     "language": "none",
-    "star": "808"
+    "star": "828"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
@@ -60,7 +60,7 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "618"
+    "star": "615"
   },
   {
     "title": "rcmaehl/WhyNotWin11",
@@ -74,7 +74,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "959"
+    "star": "956"
   },
   {
     "title": "JetBrains/kotlin",
@@ -95,42 +95,42 @@
     "url": "https://github.com/florinpop17/app-ideas",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "language": "none",
-    "star": "362"
+    "star": "391"
   },
   {
     "title": "geerlingguy/internet-pi",
     "url": "https://github.com/geerlingguy/internet-pi",
     "description": "Raspberry Pi config for all things Internet.",
     "language": "Jinja",
-    "star": "414"
+    "star": "410"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
     "url": "https://github.com/dair-ai/ML-YouTube-Courses",
     "description": "A repository to index and organize the latest machine learning courses found on YouTube.",
     "language": "none",
-    "star": "321"
+    "star": "103"
   },
   {
     "title": "chiphuyen/ml-interviews-book",
     "url": "https://github.com/chiphuyen/ml-interviews-book",
     "description": "https://huyenchip.com/ml-interviews-book/",
     "language": "HTML",
-    "star": "326"
+    "star": "96"
   },
   {
     "title": "OpenXiangShan/XiangShan",
     "url": "https://github.com/OpenXiangShan/XiangShan",
     "description": "Open-source high-performance RISC-V processor",
     "language": "Scala",
-    "star": "519"
+    "star": "447"
   },
   {
     "title": "labuladong/fucking-algorithm",
     "url": "https://github.com/labuladong/fucking-algorithm",
     "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
     "language": "none",
-    "star": "470"
+    "star": "413"
   },
   {
     "title": "github/docs",
@@ -144,34 +144,34 @@
     "url": "https://github.com/diasurgical/devilutionX",
     "description": "Diablo build for modern operating systems",
     "language": "C++",
-    "star": "78"
+    "star": "35"
   },
   {
     "title": "curtinlv/JD-Script",
     "url": "https://github.com/curtinlv/JD-Script",
     "description": "",
     "language": "Python",
-    "star": "55"
+    "star": "42"
   },
   {
     "title": "rocketseat-education/nlw-06-flutter",
     "url": "https://github.com/rocketseat-education/nlw-06-flutter",
     "description": "",
     "language": "Dart",
-    "star": "74"
+    "star": "37"
   },
   {
     "title": "AllThingsSmitty/css-protips",
     "url": "https://github.com/AllThingsSmitty/css-protips",
     "description": "A collection of tips to help take your CSS skills pro",
     "language": "none",
-    "star": "237"
+    "star": "186"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "540"
+    "star": "592"
   }
 ]
