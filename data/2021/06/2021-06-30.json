@@ -1,0 +1,177 @@
+[
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "description": "GTA III, Vice City",
+    "language": "C++",
+    "star": "320"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "description": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "language": "Python",
+    "star": "373"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "description": "The Kotlin Programming Language.",
+    "language": "none",
+    "star": "263"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/ssr/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "438"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
+    "language": "TypeScript",
+    "star": "41"
+  },
+  {
+    "title": "rcmaehl/WhyNotWin11",
+    "url": "https://github.com/rcmaehl/WhyNotWin11",
+    "description": "Detection Script to help identify why your PC isn't Windows 11 Release Ready",
+    "language": "AutoIt",
+    "star": "646"
+  },
+  {
+    "title": "bytedance/lightseq",
+    "url": "https://github.com/bytedance/lightseq",
+    "description": "LightSeq: A High Performance Library for Sequence Processing and Generation",
+    "language": "Cuda",
+    "star": "27"
+  },
+  {
+    "title": "covidpass-org/covidpass",
+    "url": "https://github.com/covidpass-org/covidpass",
+    "description": "Web app for adding EU COVID-19 Vaccination Certificates to your wallets",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "pi-apps/pi-platform-docs",
+    "url": "https://github.com/pi-apps/pi-platform-docs",
+    "description": "",
+    "language": "none",
+    "star": "170"
+  },
+  {
+    "title": "yangshun/front-end-interview-handbook",
+    "url": "https://github.com/yangshun/front-end-interview-handbook",
+    "description": "🕸 No-bullshit answers to the famous h5bp \"Front-end Job Interview Questions\"",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "amit-davidson/awesome-golang-workshops",
+    "url": "https://github.com/amit-davidson/awesome-golang-workshops",
+    "description": "A curated list of awesome golang workshops.",
+    "language": "none",
+    "star": "49"
+  },
+  {
+    "title": "mhadidg/software-architecture-books",
+    "url": "https://github.com/mhadidg/software-architecture-books",
+    "description": "A curated list of books on Software Architecture.",
+    "language": "none",
+    "star": "297"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "194"
+  },
+  {
+    "title": "GokuMohandas/MadeWithML",
+    "url": "https://github.com/GokuMohandas/MadeWithML",
+    "description": "Learn how to responsibly deliver value with ML.",
+    "language": "Jupyter Notebook",
+    "star": "214"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "description": "人人可用的开源数据可视化分析工具。",
+    "language": "Java",
+    "star": "34"
+  },
+  {
+    "title": "ffffffff0x/Digital-Privacy",
+    "url": "https://github.com/ffffffff0x/Digital-Privacy",
+    "description": "一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗",
+    "language": "none",
+    "star": "220"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "210"
+  },
+  {
+    "title": "PaddlePaddle/PaddleX",
+    "url": "https://github.com/PaddlePaddle/PaddleX",
+    "description": "PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）",
+    "language": "Python",
+    "star": "126"
+  },
+  {
+    "title": "SigNoz/signoz",
+    "url": "https://github.com/SigNoz/signoz",
+    "description": "SigNoz helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥",
+    "language": "TypeScript",
+    "star": "362"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "language": "JavaScript",
+    "star": "281"
+  },
+  {
+    "title": "EdgeSecurityTeam/Vulnerability",
+    "url": "https://github.com/EdgeSecurityTeam/Vulnerability",
+    "description": "此项目将不定期从棱角社区对外进行公布一些最新漏洞。",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "dastergon/awesome-sre",
+    "url": "https://github.com/dastergon/awesome-sre",
+    "description": "A curated list of Site Reliability and Production Engineering resources.",
+    "language": "none",
+    "star": "31"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "15"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "star": "82"
+  },
+  {
+    "title": "csseky/cskaoyan",
+    "url": "https://github.com/csseky/cskaoyan",
+    "description": "提供计算机考研和软件工程考研专业的各个学校 考研真题",
+    "language": "none",
+    "star": "25"
+  }
+]
