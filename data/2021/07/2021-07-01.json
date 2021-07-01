@@ -4,49 +4,49 @@
     "url": "https://github.com/Shopify/dawn",
     "description": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
     "language": "Liquid",
-    "star": "103"
+    "star": "105"
   },
   {
     "title": "PaddlePaddle/PaddleX",
     "url": "https://github.com/PaddlePaddle/PaddleX",
     "description": "PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）",
     "language": "Python",
-    "star": "78"
+    "star": "75"
   },
   {
     "title": "CorentinJ/Real-Time-Voice-Cloning",
     "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
     "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "479"
+    "star": "481"
   },
   {
     "title": "chinese-poetry/chinese-poetry",
     "url": "https://github.com/chinese-poetry/chinese-poetry",
     "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
     "language": "JavaScript",
-    "star": "75"
+    "star": "77"
   },
   {
     "title": "mhadidg/software-architecture-books",
     "url": "https://github.com/mhadidg/software-architecture-books",
     "description": "A comprehensive list of books on Software Architecture.",
     "language": "none",
-    "star": "715"
+    "star": "721"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "34"
+    "star": "33"
   },
   {
     "title": "pi-apps/pi-platform-docs",
     "url": "https://github.com/pi-apps/pi-platform-docs",
     "description": "",
     "language": "none",
-    "star": "115"
+    "star": "105"
   },
   {
     "title": "freefq/free",
@@ -60,49 +60,49 @@
     "url": "https://github.com/stong/CVE-2020-15368",
     "description": "How to exploit a vulnerable windows driver. Exploit for AsrDrv104.sys",
     "language": "C++",
-    "star": "47"
+    "star": "54"
   },
   {
     "title": "mgechev/google-interview-preparation-problems",
     "url": "https://github.com/mgechev/google-interview-preparation-problems",
     "description": "leetcode problems I solved during my Google interview preparation.",
     "language": "JavaScript",
-    "star": "67"
+    "star": "49"
   },
   {
     "title": "solidjs/solid",
     "url": "https://github.com/solidjs/solid",
     "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "language": "TypeScript",
-    "star": "195"
+    "star": "205"
   },
   {
     "title": "ffffffff0x/Digital-Privacy",
     "url": "https://github.com/ffffffff0x/Digital-Privacy",
     "description": "一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗",
     "language": "none",
-    "star": "201"
+    "star": "282"
   },
   {
     "title": "TrevorAttema/OTGMessenger",
     "url": "https://github.com/TrevorAttema/OTGMessenger",
     "description": "Off The Grid Messenger",
     "language": "C",
-    "star": "48"
+    "star": "59"
   },
   {
     "title": "irsl/gcp-dhcp-takeover-code-exec",
     "url": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
     "description": "Google Compute Engine (GCE) VM takeover via DHCP flood - gain root access by getting SSH keys added by google_guest_agent",
     "language": "Go",
-    "star": "43"
+    "star": "45"
   },
   {
     "title": "dexidp/dex",
     "url": "https://github.com/dexidp/dex",
     "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
     "language": "Go",
-    "star": "30"
+    "star": "38"
   },
   {
     "title": "GTAmodding/re3",
@@ -116,21 +116,21 @@
     "url": "https://github.com/csseky/cskaoyan",
     "description": "提供计算机考研和软件工程考研专业的各个学校 考研真题",
     "language": "none",
-    "star": "166"
+    "star": "163"
   },
   {
     "title": "mrdoob/three.js",
     "url": "https://github.com/mrdoob/three.js",
     "description": "JavaScript 3D Library.",
     "language": "JavaScript",
-    "star": "122"
+    "star": "106"
   },
   {
     "title": "dataease/dataease",
     "url": "https://github.com/dataease/dataease",
     "description": "人人可用的开源数据可视化分析工具。",
     "language": "Java",
-    "star": "137"
+    "star": "138"
   },
   {
     "title": "jina-ai/jina",
@@ -144,34 +144,34 @@
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "433"
+    "star": "396"
   },
   {
     "title": "ORCA666/Cobalt-Wipe",
     "url": "https://github.com/ORCA666/Cobalt-Wipe",
     "description": "Cobalt wipe is the non-commercial version of Cobalt-Strike 4.3 (May 2021 Release)",
     "language": "PowerShell",
-    "star": "16"
+    "star": "25"
   },
   {
     "title": "PX4/PX4-Autopilot",
     "url": "https://github.com/PX4/PX4-Autopilot",
     "description": "PX4 Autopilot Software",
     "language": "C++",
-    "star": "23"
+    "star": "22"
   },
   {
     "title": "quarkusio/quarkus",
     "url": "https://github.com/quarkusio/quarkus",
     "description": "Quarkus: Supersonic Subatomic Java.",
     "language": "Java",
-    "star": "22"
+    "star": "10"
   },
   {
     "title": "ossrs/srs",
     "url": "https://github.com/ossrs/srs",
     "description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
     "language": "C++",
-    "star": "89"
+    "star": "91"
   }
 ]
