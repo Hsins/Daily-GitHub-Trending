@@ -4,77 +4,77 @@
     "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
     "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "510"
+    "star": "525"
   },
   {
     "title": "cube0x0/CVE-2021-1675",
     "url": "https://github.com/cube0x0/CVE-2021-1675",
     "description": "C# and Impacket implementation of CVE-2021-1675/PrintNightmare",
     "language": "C#",
-    "star": "168"
+    "star": "228"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "49"
+    "star": "96"
   },
   {
     "title": "input-output-hk/plutus-pioneer-program",
     "url": "https://github.com/input-output-hk/plutus-pioneer-program",
     "description": "",
     "language": "Haskell",
-    "star": "67"
+    "star": "80"
   },
   {
     "title": "openppl-public/ppl.nn",
     "url": "https://github.com/openppl-public/ppl.nn",
     "description": "A primitive library for neural network",
     "language": "C++",
-    "star": "34"
+    "star": "42"
   },
   {
     "title": "CITF-Malaysia/citf-public",
     "url": "https://github.com/CITF-Malaysia/citf-public",
     "description": "Official data on the National Covid-​19 Immunisation Programme (PICK) in Malaysia. Powered by MySejahtera.",
     "language": "none",
-    "star": "25"
+    "star": "22"
   },
   {
     "title": "Shopify/dawn",
     "url": "https://github.com/Shopify/dawn",
     "description": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
     "language": "Liquid",
-    "star": "208"
+    "star": "202"
   },
   {
     "title": "riskscanner/riskscanner",
     "url": "https://github.com/riskscanner/riskscanner",
     "description": "RiskScanner 是开源的多云安全合规扫描平台，通过 Cloud Custodian 的 YAML DSL 定义扫描规则，实现对主流公(私)有云资源的安全合规扫描及使用优化建议。",
     "language": "Java",
-    "star": "28"
+    "star": "26"
   },
   {
     "title": "datastaxdevs/workshop-graphql-netflix",
     "url": "https://github.com/datastaxdevs/workshop-graphql-netflix",
     "description": "Workshop to illustrate how to use GraphQL",
     "language": "JavaScript",
-    "star": "46"
+    "star": "52"
   },
   {
     "title": "sqshq/piggymetrics",
     "url": "https://github.com/sqshq/piggymetrics",
     "description": "Microservice Architecture with Spring Boot, Spring Cloud and Docker",
     "language": "Java",
-    "star": "31"
+    "star": "62"
   },
   {
     "title": "input-output-hk/plutus",
     "url": "https://github.com/input-output-hk/plutus",
     "description": "The Plutus language implementation and tools",
     "language": "HTML",
-    "star": "13"
+    "star": "19"
   },
   {
     "title": "namndwebdev/tang-crush",
@@ -88,90 +88,90 @@
     "url": "https://github.com/dataease/dataease",
     "description": "人人可用的开源数据可视化分析工具。",
     "language": "Java",
-    "star": "115"
+    "star": "103"
   },
   {
     "title": "csseky/cskaoyan",
     "url": "https://github.com/csseky/cskaoyan",
     "description": "提供计算机考研和软件工程考研专业的各个学校 考研真题",
     "language": "none",
-    "star": "159"
+    "star": "109"
   },
   {
     "title": "mirumee/saleor",
     "url": "https://github.com/mirumee/saleor",
     "description": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
     "language": "Python",
-    "star": "101"
+    "star": "7"
   },
   {
     "title": "mhadidg/software-architecture-books",
     "url": "https://github.com/mhadidg/software-architecture-books",
     "description": "A comprehensive list of books on Software Architecture.",
     "language": "none",
-    "star": "572"
+    "star": "472"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "182"
+    "star": "178"
   },
   {
     "title": "FrontEndGitHub/FrontEndGitHub",
     "url": "https://github.com/FrontEndGitHub/FrontEndGitHub",
     "description": "GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）",
     "language": "none",
-    "star": "14"
+    "star": "43"
   },
   {
     "title": "prisma/prisma",
     "url": "https://github.com/prisma/prisma",
     "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server & SQLite",
     "language": "TypeScript",
-    "star": "48"
+    "star": "60"
   },
   {
     "title": "doocs/jvm",
     "url": "https://github.com/doocs/jvm",
     "description": "🤗 JVM 底层原理最全知识总结",
     "language": "Java",
-    "star": "38"
+    "star": "41"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "72"
+    "star": "48"
   },
   {
     "title": "wtsxDev/reverse-engineering",
     "url": "https://github.com/wtsxDev/reverse-engineering",
     "description": "List of awesome reverse engineering resources",
     "language": "none",
-    "star": "84"
+    "star": "87"
   },
   {
     "title": "microsoft/MixedRealityToolkit-Unity",
     "url": "https://github.com/microsoft/MixedRealityToolkit-Unity",
     "description": "Mixed Reality Toolkit (MRTK) provides a set of components and features to accelerate cross-platform MR app development in Unity.",
     "language": "C#",
-    "star": "3"
+    "star": "32"
   },
   {
     "title": "dotnet-architecture/eShopOnContainers",
     "url": "https://github.com/dotnet-architecture/eShopOnContainers",
     "description": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET 5, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
     "language": "C#",
-    "star": "20"
+    "star": "19"
   },
   {
     "title": "solidjs/solid",
     "url": "https://github.com/solidjs/solid",
     "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "language": "TypeScript",
-    "star": "454"
+    "star": "442"
   }
 ]
