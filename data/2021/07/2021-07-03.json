@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 24 lessons, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "star": "524"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "TypeScript",
+    "star": "506"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "184"
+  },
+  {
+    "title": "Th3Wall/Fakeflix",
+    "url": "https://github.com/Th3Wall/Fakeflix",
+    "description": "Not the usual clone that you can find on the web.",
+    "language": "JavaScript",
+    "star": "169"
+  },
+  {
+    "title": "input-output-hk/plutus-pioneer-program",
+    "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+    "description": "",
+    "language": "Haskell",
+    "star": "55"
+  },
+  {
+    "title": "ossf/scorecard",
+    "url": "https://github.com/ossf/scorecard",
+    "description": "Security Scorecards - Security health metrics for Open Source",
+    "language": "Go",
+    "star": "206"
+  },
+  {
+    "title": "hlldz/CVE-2021-1675-LPE",
+    "url": "https://github.com/hlldz/CVE-2021-1675-LPE",
+    "description": "Local Privilege Escalation Edition for CVE-2021-1675",
+    "language": "C",
+    "star": "97"
+  },
+  {
+    "title": "input-output-hk/plutus",
+    "url": "https://github.com/input-output-hk/plutus",
+    "description": "The Plutus language implementation and tools",
+    "language": "HTML",
+    "star": "47"
+  },
+  {
+    "title": "LaresLLC/CVE-2021-1675",
+    "url": "https://github.com/LaresLLC/CVE-2021-1675",
+    "description": "CVE-2021-1675 Detection Info",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "EssayKillerBrain/EssayKiller_V2",
+    "url": "https://github.com/EssayKillerBrain/EssayKiller_V2",
+    "description": "基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化",
+    "language": "Python",
+    "star": "359"
+  },
+  {
+    "title": "ashemery/exploitation-course",
+    "url": "https://github.com/ashemery/exploitation-course",
+    "description": "Offensive Software Exploitation Course",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "cube0x0/CVE-2021-1675",
+    "url": "https://github.com/cube0x0/CVE-2021-1675",
+    "description": "C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
+    "language": "C#",
+    "star": "168"
+  },
+  {
+    "title": "RosettaCommons/RoseTTAFold",
+    "url": "https://github.com/RosettaCommons/RoseTTAFold",
+    "description": "This package contains deep learning models and related scripts for RoseTTAFold",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "none",
+    "star": "154"
+  },
+  {
+    "title": "wtsxDev/reverse-engineering",
+    "url": "https://github.com/wtsxDev/reverse-engineering",
+    "description": "List of awesome reverse engineering resources",
+    "language": "none",
+    "star": "159"
+  },
+  {
+    "title": "dexidp/dex",
+    "url": "https://github.com/dexidp/dex",
+    "description": "OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors",
+    "language": "Go",
+    "star": "60"
+  },
+  {
+    "title": "cisagov/cset",
+    "url": "https://github.com/cisagov/cset",
+    "description": "Cybersecurity Evaluation Tool",
+    "language": "TSQL",
+    "star": "43"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "description": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "language": "Java",
+    "star": "35"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "178"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "105"
+  },
+  {
+    "title": "neovim/nvim-lspconfig",
+    "url": "https://github.com/neovim/nvim-lspconfig",
+    "description": "Quickstart configurations for the Nvim LSP client",
+    "language": "Lua",
+    "star": "32"
+  },
+  {
+    "title": "chinese-poetry/chinese-poetry",
+    "url": "https://github.com/chinese-poetry/chinese-poetry",
+    "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+    "language": "JavaScript",
+    "star": "240"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "93"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "star": "39"
+  }
+]
