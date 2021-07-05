@@ -4,63 +4,63 @@
     "url": "https://github.com/kingoflolz/mesh-transformer-jax",
     "description": "Model parallel transformers in JAX and Haiku",
     "language": "Python",
-    "star": "354"
+    "star": "393"
   },
   {
     "title": "PlummersSoftwareLLC/Primes",
     "url": "https://github.com/PlummersSoftwareLLC/Primes",
     "description": "Prime Number Projects in C#/C++/Python",
     "language": "C",
-    "star": "180"
+    "star": "116"
   },
   {
     "title": "Th3Wall/Fakeflix",
     "url": "https://github.com/Th3Wall/Fakeflix",
     "description": "Not the usual clone that you can find on the web.",
     "language": "JavaScript",
-    "star": "879"
+    "star": "566"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "670"
+    "star": "673"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 24 lessons, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "3"
+    "star": "2"
   },
   {
     "title": "input-output-hk/plutus-pioneer-program",
     "url": "https://github.com/input-output-hk/plutus-pioneer-program",
     "description": "",
     "language": "Haskell",
-    "star": "137"
+    "star": "120"
   },
   {
     "title": "ChristianChiarulli/LunarVim",
     "url": "https://github.com/ChristianChiarulli/LunarVim",
     "description": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
     "language": "Lua",
-    "star": "186"
+    "star": "178"
   },
   {
     "title": "ossf/scorecard",
     "url": "https://github.com/ossf/scorecard",
     "description": "Security Scorecards - Security health metrics for Open Source",
     "language": "Go",
-    "star": "495"
+    "star": "205"
   },
   {
     "title": "vuejs/petite-vue",
     "url": "https://github.com/vuejs/petite-vue",
     "description": "5kb subset of Vue optimized for progressive enhancement",
     "language": "TypeScript",
-    "star": "1"
+    "star": "612"
   },
   {
     "title": "programthink/books",
@@ -74,7 +74,7 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "26"
+    "star": "11"
   },
   {
     "title": "ossu/computer-science",
@@ -88,42 +88,42 @@
     "url": "https://github.com/solidjs/solid",
     "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "language": "TypeScript",
-    "star": "1"
+    "star": "562"
   },
   {
     "title": "OpenXiangShan/XiangShan",
     "url": "https://github.com/OpenXiangShan/XiangShan",
     "description": "Open-source high-performance RISC-V processor",
     "language": "Scala",
-    "star": "77"
+    "star": "113"
   },
   {
     "title": "cmuratori/refterm",
     "url": "https://github.com/cmuratori/refterm",
     "description": "Reference monospace terminal renderer",
     "language": "C",
-    "star": "124"
+    "star": "135"
   },
   {
     "title": "ProgrammingHero1/developer-portfolio",
     "url": "https://github.com/ProgrammingHero1/developer-portfolio",
     "description": "Live site",
     "language": "HTML",
-    "star": "8"
+    "star": "19"
   },
   {
     "title": "neovim/neovim",
     "url": "https://github.com/neovim/neovim",
     "description": "Vim-fork focused on extensibility and usability",
     "language": "Vim script",
-    "star": "108"
+    "star": "122"
   },
   {
     "title": "ashemery/exploitation-course",
     "url": "https://github.com/ashemery/exploitation-course",
     "description": "Offensive Software Exploitation Course",
     "language": "Python",
-    "star": "30"
+    "star": "57"
   },
   {
     "title": "PojavLauncherTeam/PojavLauncher",
@@ -137,41 +137,41 @@
     "url": "https://github.com/awesome-ctf/TCTF2021-Guthib",
     "description": "",
     "language": "none",
-    "star": "0"
+    "star": "7"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "578"
+    "star": "322"
   },
   {
     "title": "ethereum/solidity",
     "url": "https://github.com/ethereum/solidity",
     "description": "Solidity, the Smart Contract Programming Language",
     "language": "C++",
-    "star": "12"
+    "star": "49"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first",
     "language": "Python",
-    "star": "173"
+    "star": "237"
   },
   {
     "title": "CorentinJ/Real-Time-Voice-Cloning",
     "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
     "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "412"
+    "star": "447"
   },
   {
     "title": "input-output-hk/plutus",
     "url": "https://github.com/input-output-hk/plutus",
     "description": "The Plutus language implementation and tools",
     "language": "HTML",
-    "star": "40"
+    "star": "42"
   }
 ]
