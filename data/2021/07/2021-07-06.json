@@ -11,21 +11,21 @@
     "url": "https://github.com/audacity/audacity",
     "description": "Audio Editor",
     "language": "C",
-    "star": "181"
+    "star": "211"
   },
   {
     "title": "ChristianChiarulli/LunarVim",
     "url": "https://github.com/ChristianChiarulli/LunarVim",
     "description": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
     "language": "Lua",
-    "star": "320"
+    "star": "326"
   },
   {
     "title": "yusufyilmazfr/tasarim-desenleri-turkce-kaynak",
     "url": "https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak",
     "description": "Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımın yanı sıra C# ve Java gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir.",
     "language": "HTML",
-    "star": "385"
+    "star": "441"
   },
   {
     "title": "microsoft/ML-For-Beginners",
@@ -39,84 +39,84 @@
     "url": "https://github.com/Th3Wall/Fakeflix",
     "description": "Not the usual clone that you can find on the web.",
     "language": "JavaScript",
-    "star": "965"
+    "star": "959"
   },
   {
     "title": "mirumee/saleor",
     "url": "https://github.com/mirumee/saleor",
     "description": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
     "language": "Python",
-    "star": "457"
+    "star": "552"
   },
   {
     "title": "cado-security/DFIR_Resources_REvil_Kaseya",
     "url": "https://github.com/cado-security/DFIR_Resources_REvil_Kaseya",
     "description": "Resources for DFIR Professionals Responding to the REvil Ransomware Kaseya Supply Chain Attack",
     "language": "C",
-    "star": "60"
+    "star": "63"
   },
   {
     "title": "tiangolo/fastapi",
     "url": "https://github.com/tiangolo/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "star": "162"
+    "star": "190"
   },
   {
     "title": "vuejs/petite-vue",
     "url": "https://github.com/vuejs/petite-vue",
     "description": "5kb subset of Vue optimized for progressive enhancement",
     "language": "TypeScript",
-    "star": "878"
+    "star": "892"
   },
   {
     "title": "chrisbanes/tivi",
     "url": "https://github.com/chrisbanes/tivi",
     "description": "Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",
     "language": "Kotlin",
-    "star": "83"
+    "star": "90"
   },
   {
     "title": "0voice/campus_recruitmen_questions",
     "url": "https://github.com/0voice/campus_recruitmen_questions",
     "description": "2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。持续更新中",
     "language": "none",
-    "star": "459"
+    "star": "470"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "704"
+    "star": "714"
   },
   {
     "title": "Lotus6/ThinkphpGUI",
     "url": "https://github.com/Lotus6/ThinkphpGUI",
     "description": "Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。",
     "language": "none",
-    "star": "49"
+    "star": "51"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "166"
+    "star": "178"
   },
   {
     "title": "PlummersSoftwareLLC/Primes",
     "url": "https://github.com/PlummersSoftwareLLC/Primes",
     "description": "Prime Number Projects in C#/C++/Python",
     "language": "C",
-    "star": "252"
+    "star": "257"
   },
   {
     "title": "zero205/JD_tencent_scf",
     "url": "https://github.com/zero205/JD_tencent_scf",
     "description": "京东腾讯云函数版，低调使用，不要fork！！",
     "language": "JavaScript",
-    "star": "77"
+    "star": "80"
   },
   {
     "title": "ossu/computer-science",
@@ -130,48 +130,48 @@
     "url": "https://github.com/lewagon/setup",
     "description": "Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp",
     "language": "Ruby",
-    "star": "192"
+    "star": "198"
   },
   {
     "title": "ultralytics/yolov5",
     "url": "https://github.com/ultralytics/yolov5",
     "description": "YOLOv5 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "142"
+    "star": "172"
   },
   {
     "title": "huiyadanli/RevokeMsgPatcher",
     "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
     "description": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
     "language": "C#",
-    "star": "82"
+    "star": "85"
   },
   {
     "title": "shopizer-ecommerce/shopizer",
     "url": "https://github.com/shopizer-ecommerce/shopizer",
     "description": "Shopizer java e-commerce software",
     "language": "Java",
-    "star": "99"
+    "star": "102"
   },
   {
     "title": "wang-xinyu/tensorrtx",
     "url": "https://github.com/wang-xinyu/tensorrtx",
     "description": "Implementation of popular deep learning networks with TensorRT network definition API",
     "language": "C++",
-    "star": "47"
+    "star": "51"
   },
   {
     "title": "gentilkiwi/mimikatz",
     "url": "https://github.com/gentilkiwi/mimikatz",
     "description": "A little tool to play with Windows security",
     "language": "C",
-    "star": "87"
+    "star": "105"
   },
   {
     "title": "rust-analyzer/rust-analyzer",
     "url": "https://github.com/rust-analyzer/rust-analyzer",
     "description": "A Rust compiler front-end for IDEs",
     "language": "Rust",
-    "star": "45"
+    "star": "56"
   }
 ]
