@@ -11,7 +11,7 @@
     "url": "https://github.com/audacity/audacity",
     "description": "Audio Editor",
     "language": "C",
-    "star": "211"
+    "star": "213"
   },
   {
     "title": "ChristianChiarulli/LunarVim",
@@ -25,7 +25,7 @@
     "url": "https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak",
     "description": "Türkçe kaynağa destek olması amacıyla oluşturulmuş bir kaynaktır. Konu anlatımın yanı sıra C# ve Java gibi birçok dilde tasarım desenlerinin uygulamasını içermektedir.",
     "language": "HTML",
-    "star": "441"
+    "star": "443"
   },
   {
     "title": "microsoft/ML-For-Beginners",
@@ -39,7 +39,7 @@
     "url": "https://github.com/Th3Wall/Fakeflix",
     "description": "Not the usual clone that you can find on the web.",
     "language": "JavaScript",
-    "star": "959"
+    "star": "996"
   },
   {
     "title": "mirumee/saleor",
@@ -60,21 +60,21 @@
     "url": "https://github.com/tiangolo/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "star": "190"
+    "star": "162"
   },
   {
     "title": "vuejs/petite-vue",
     "url": "https://github.com/vuejs/petite-vue",
     "description": "5kb subset of Vue optimized for progressive enhancement",
     "language": "TypeScript",
-    "star": "892"
+    "star": "896"
   },
   {
     "title": "chrisbanes/tivi",
     "url": "https://github.com/chrisbanes/tivi",
     "description": "Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",
     "language": "Kotlin",
-    "star": "90"
+    "star": "92"
   },
   {
     "title": "0voice/campus_recruitmen_questions",
@@ -88,7 +88,7 @@
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "714"
+    "star": "716"
   },
   {
     "title": "Lotus6/ThinkphpGUI",
@@ -116,7 +116,7 @@
     "url": "https://github.com/zero205/JD_tencent_scf",
     "description": "京东腾讯云函数版，低调使用，不要fork！！",
     "language": "JavaScript",
-    "star": "80"
+    "star": "77"
   },
   {
     "title": "ossu/computer-science",
@@ -130,14 +130,14 @@
     "url": "https://github.com/lewagon/setup",
     "description": "Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp",
     "language": "Ruby",
-    "star": "198"
+    "star": "199"
   },
   {
     "title": "ultralytics/yolov5",
     "url": "https://github.com/ultralytics/yolov5",
     "description": "YOLOv5 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "172"
+    "star": "179"
   },
   {
     "title": "huiyadanli/RevokeMsgPatcher",
@@ -158,7 +158,7 @@
     "url": "https://github.com/wang-xinyu/tensorrtx",
     "description": "Implementation of popular deep learning networks with TensorRT network definition API",
     "language": "C++",
-    "star": "51"
+    "star": "52"
   },
   {
     "title": "gentilkiwi/mimikatz",
@@ -172,6 +172,6 @@
     "url": "https://github.com/rust-analyzer/rust-analyzer",
     "description": "A Rust compiler front-end for IDEs",
     "language": "Rust",
-    "star": "56"
+    "star": "45"
   }
 ]
