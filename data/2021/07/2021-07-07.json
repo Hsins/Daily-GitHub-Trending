@@ -18,14 +18,14 @@
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "346"
+    "star": "578"
   },
   {
     "title": "tuplex/tuplex",
     "url": "https://github.com/tuplex/tuplex",
     "description": "Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set.",
     "language": "C++",
-    "star": "126"
+    "star": "127"
   },
   {
     "title": "firebase/firebase-ios-sdk",
@@ -39,7 +39,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "314"
+    "star": "315"
   },
   {
     "title": "ossu/computer-science",
@@ -60,28 +60,28 @@
     "url": "https://github.com/tiangolo/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "star": "399"
+    "star": "403"
   },
   {
     "title": "ChrisTitusTech/win10script",
     "url": "https://github.com/ChrisTitusTech/win10script",
     "description": "This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.",
     "language": "PowerShell",
-    "star": "97"
+    "star": "103"
   },
   {
     "title": "SmartKeyerror/Psyduck",
     "url": "https://github.com/SmartKeyerror/Psyduck",
     "description": "Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计",
     "language": "Go",
-    "star": "401"
+    "star": "427"
   },
   {
     "title": "dutchcoders/transfer.sh",
     "url": "https://github.com/dutchcoders/transfer.sh",
     "description": "Easy and fast file sharing from the command-line.",
     "language": "Go",
-    "star": "186"
+    "star": "248"
   },
   {
     "title": "Tencent/Taitank",
@@ -95,7 +95,7 @@
     "url": "https://github.com/shashank88/system_design",
     "description": "Preparation links and resources for system design questions",
     "language": "none",
-    "star": "153"
+    "star": "156"
   },
   {
     "title": "programthink/books",
@@ -109,49 +109,49 @@
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "138"
+    "star": "212"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "698"
+    "star": "1"
   },
   {
     "title": "adamschwartz/magic-of-css",
     "url": "https://github.com/adamschwartz/magic-of-css",
     "description": "A CSS course to turn you into a magician.",
     "language": "CSS",
-    "star": "99"
+    "star": "101"
   },
   {
     "title": "ultralytics/yolov5",
     "url": "https://github.com/ultralytics/yolov5",
     "description": "YOLOv5 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "419"
+    "star": "422"
   },
   {
     "title": "nccgroup/exploit_mitigations",
     "url": "https://github.com/nccgroup/exploit_mitigations",
     "description": "Knowledge base of exploit mitigations available across numerous operating systems, architectures and applications and versions.",
     "language": "none",
-    "star": "98"
+    "star": "118"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "162"
+    "star": "206"
   },
   {
     "title": "mqyqingfeng/Blog",
     "url": "https://github.com/mqyqingfeng/Blog",
     "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
     "language": "none",
-    "star": "49"
+    "star": "62"
   },
   {
     "title": "PlummersSoftwareLLC/Primes",
@@ -172,6 +172,6 @@
     "url": "https://github.com/ethereum/solidity",
     "description": "Solidity, the Smart Contract Programming Language",
     "language": "C++",
-    "star": "93"
+    "star": "94"
   }
 ]
