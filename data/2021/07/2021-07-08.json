@@ -46,7 +46,7 @@
     "url": "https://github.com/returntocorp/semgrep",
     "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
     "language": "Java",
-    "star": "122"
+    "star": "128"
   },
   {
     "title": "ethereum/solidity",
@@ -60,7 +60,7 @@
     "url": "https://github.com/codeedu/imersao-fullcycle-3",
     "description": "",
     "language": "TypeScript",
-    "star": "160"
+    "star": "161"
   },
   {
     "title": "edk2-porting/edk2-sdm845",
@@ -74,21 +74,21 @@
     "url": "https://github.com/ultralytics/yolov5",
     "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "635"
+    "star": "639"
   },
   {
     "title": "ankurchavda/SparkLearning",
     "url": "https://github.com/ankurchavda/SparkLearning",
     "description": "A comprehensive Spark guide collated from multiple sources that can be referred to learn more about Spark or as an interview refresher.",
     "language": "none",
-    "star": "84"
+    "star": "87"
   },
   {
     "title": "MustangYM/WeChatExtension-ForMac",
     "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
     "description": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
     "language": "Objective-C",
-    "star": "420"
+    "star": "424"
   },
   {
     "title": "public-apis/public-apis",
