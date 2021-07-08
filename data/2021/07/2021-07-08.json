@@ -11,14 +11,14 @@
     "url": "https://github.com/kean/Pulse",
     "description": "Logger and Network Inspector for Apple Platforms",
     "language": "Swift",
-    "star": "740"
+    "star": "746"
   },
   {
     "title": "SmartKeyerror/Psyduck",
     "url": "https://github.com/SmartKeyerror/Psyduck",
     "description": "Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计",
     "language": "Go",
-    "star": "803"
+    "star": "807"
   },
   {
     "title": "tenacityteam/tenacity",
@@ -32,49 +32,49 @@
     "url": "https://github.com/Sneeds-Feed-and-Seed/sneedacity",
     "description": "Audio Editor",
     "language": "C",
-    "star": "425"
+    "star": "427"
   },
   {
     "title": "byt3bl33d3r/ItWasAllADream",
     "url": "https://github.com/byt3bl33d3r/ItWasAllADream",
     "description": "A PrintNightmare (CVE-2021-34527) Python Scanner. Scan entire subnets for hosts vulnerable to the PrintNightmare RCE",
     "language": "Python",
-    "star": "407"
+    "star": "412"
   },
   {
     "title": "returntocorp/semgrep",
     "url": "https://github.com/returntocorp/semgrep",
     "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
     "language": "Java",
-    "star": "116"
+    "star": "122"
   },
   {
     "title": "ethereum/solidity",
     "url": "https://github.com/ethereum/solidity",
     "description": "Solidity, the Smart Contract Programming Language",
     "language": "C++",
-    "star": "231"
+    "star": "232"
   },
   {
     "title": "codeedu/imersao-fullcycle-3",
     "url": "https://github.com/codeedu/imersao-fullcycle-3",
     "description": "",
     "language": "TypeScript",
-    "star": "159"
+    "star": "160"
   },
   {
     "title": "edk2-porting/edk2-sdm845",
     "url": "https://github.com/edk2-porting/edk2-sdm845",
     "description": "Broken edk2 port for sdm845 xD",
     "language": "ASL",
-    "star": "233"
+    "star": "234"
   },
   {
     "title": "ultralytics/yolov5",
     "url": "https://github.com/ultralytics/yolov5",
     "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "633"
+    "star": "635"
   },
   {
     "title": "ankurchavda/SparkLearning",
@@ -88,7 +88,7 @@
     "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
     "description": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
     "language": "Objective-C",
-    "star": "418"
+    "star": "420"
   },
   {
     "title": "public-apis/public-apis",
@@ -102,21 +102,21 @@
     "url": "https://github.com/0voice/campus_recruitmen_questions",
     "description": "2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。持续更新中",
     "language": "none",
-    "star": "416"
+    "star": "496"
   },
   {
     "title": "mirumee/saleor",
     "url": "https://github.com/mirumee/saleor",
     "description": "A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.",
     "language": "Python",
-    "star": "626"
+    "star": "631"
   },
   {
     "title": "gentilkiwi/mimikatz",
     "url": "https://github.com/gentilkiwi/mimikatz",
     "description": "A little tool to play with Windows security",
     "language": "C",
-    "star": "281"
+    "star": "284"
   },
   {
     "title": "firebase/firebase-ios-sdk",
@@ -130,14 +130,14 @@
     "url": "https://github.com/Tsukasa007/my_script",
     "description": "自用各项目签到脚本（jd...）其他脚本修复",
     "language": "JavaScript",
-    "star": "45"
+    "star": "46"
   },
   {
     "title": "adamschwartz/magic-of-css",
     "url": "https://github.com/adamschwartz/magic-of-css",
     "description": "A CSS course to turn you into a magician.",
     "language": "CSS",
-    "star": "341"
+    "star": "342"
   },
   {
     "title": "catchorg/Catch2",
@@ -151,7 +151,7 @@
     "url": "https://github.com/spring-projects/spring-graphql",
     "description": "Spring integration for GraphQL",
     "language": "Java",
-    "star": "130"
+    "star": "126"
   },
   {
     "title": "facebook/react-native",
