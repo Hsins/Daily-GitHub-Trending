@@ -4,7 +4,7 @@
     "url": "https://github.com/spring-projects/spring-graphql",
     "description": "Spring integration for GraphQL",
     "language": "Java",
-    "star": "225"
+    "star": "239"
   },
   {
     "title": "madMAx43v3r/chia-plotter",
@@ -18,7 +18,7 @@
     "url": "https://github.com/puppeteer/puppeteer",
     "description": "Headless Chrome Node.js API",
     "language": "TypeScript",
-    "star": "144"
+    "star": "79"
   },
   {
     "title": "SmartKeyerror/Psyduck",
@@ -32,7 +32,7 @@
     "url": "https://github.com/Sneeds-Feed-and-Seed/sneedacity",
     "description": "Audio Editor",
     "language": "C",
-    "star": "563"
+    "star": "491"
   },
   {
     "title": "o3de/o3de",
@@ -46,14 +46,14 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "461"
+    "star": "509"
   },
   {
     "title": "adamschwartz/magic-of-css",
     "url": "https://github.com/adamschwartz/magic-of-css",
     "description": "A CSS course to turn you into a magician.",
     "language": "CSS",
-    "star": "426"
+    "star": "566"
   },
   {
     "title": "kean/Pulse",
@@ -81,97 +81,97 @@
     "url": "https://github.com/dutchcoders/transfer.sh",
     "description": "Easy and fast file sharing from the command-line.",
     "language": "Go",
-    "star": "461"
+    "star": "511"
   },
   {
     "title": "ultralytics/yolov5",
     "url": "https://github.com/ultralytics/yolov5",
     "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "764"
+    "star": "633"
   },
   {
     "title": "firebase/firebase-ios-sdk",
     "url": "https://github.com/firebase/firebase-ios-sdk",
     "description": "Firebase iOS SDK",
     "language": "Objective-C",
-    "star": "117"
+    "star": "124"
   },
   {
     "title": "ankurchavda/SparkLearning",
     "url": "https://github.com/ankurchavda/SparkLearning",
     "description": "A comprehensive Spark guide collated from multiple sources that can be referred to learn more about Spark or as an interview refresher.",
     "language": "none",
-    "star": "139"
+    "star": "207"
   },
   {
     "title": "angular/angular",
     "url": "https://github.com/angular/angular",
     "description": "The modern web developer’s platform",
     "language": "TypeScript",
-    "star": "118"
+    "star": "157"
   },
   {
     "title": "ninechapter-algorithm/linghu-algorithm-templete",
     "url": "https://github.com/ninechapter-algorithm/linghu-algorithm-templete",
     "description": "",
     "language": "none",
-    "star": "52"
+    "star": "43"
   },
   {
     "title": "RevenueCat/purchases-ios",
     "url": "https://github.com/RevenueCat/purchases-ios",
     "description": "Simple in-app purchases and subscriptions for iOS.",
     "language": "Swift",
-    "star": "39"
+    "star": "38"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "369"
+    "star": "380"
   },
   {
     "title": "swisskyrepo/PayloadsAllTheThings",
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "257"
+    "star": "227"
   },
   {
     "title": "MustangYM/WeChatExtension-ForMac",
     "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
     "description": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
     "language": "Objective-C",
-    "star": "514"
+    "star": "560"
   },
   {
     "title": "Chia-Network/pool-reference",
     "url": "https://github.com/Chia-Network/pool-reference",
     "description": "Reference python implementation of Chia pool operations for pool operators",
     "language": "Python",
-    "star": "22"
+    "star": "25"
   },
   {
     "title": "ripienaar/free-for-dev",
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "83"
+    "star": "70"
   },
   {
     "title": "mui-org/material-ui",
     "url": "https://github.com/mui-org/material-ui",
     "description": "Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.",
     "language": "JavaScript",
-    "star": "109"
+    "star": "206"
   },
   {
     "title": "OAI/OpenAPI-Specification",
     "url": "https://github.com/OAI/OpenAPI-Specification",
     "description": "The OpenAPI Specification Repository",
     "language": "JavaScript",
-    "star": "35"
+    "star": "62"
   }
 ]
