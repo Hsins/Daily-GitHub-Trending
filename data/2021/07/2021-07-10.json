@@ -4,7 +4,7 @@
     "url": "https://github.com/YMFE/yapi",
     "description": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
     "language": "JavaScript",
-    "star": "119"
+    "star": "131"
   },
   {
     "title": "SmartKeyerror/Psyduck",
@@ -18,14 +18,14 @@
     "url": "https://github.com/returntocorp/semgrep",
     "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
     "language": "Java",
-    "star": "274"
+    "star": "305"
   },
   {
     "title": "laynH/Anime-Girls-Holding-Programming-Books",
     "url": "https://github.com/laynH/Anime-Girls-Holding-Programming-Books",
     "description": "Anime Girls Holding Programming Books",
     "language": "none",
-    "star": "267"
+    "star": "293"
   },
   {
     "title": "danistefanovic/build-your-own-x",
@@ -39,49 +39,49 @@
     "url": "https://github.com/catchorg/Catch2",
     "description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
     "language": "C++",
-    "star": "112"
+    "star": "119"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "825"
+    "star": "813"
   },
   {
     "title": "swisskyrepo/PayloadsAllTheThings",
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "723"
+    "star": "734"
   },
   {
     "title": "ankurchavda/SparkLearning",
     "url": "https://github.com/ankurchavda/SparkLearning",
     "description": "A comprehensive Spark guide collated from multiple sources that can be referred to learn more about Spark or as an interview refresher.",
     "language": "none",
-    "star": "271"
+    "star": "287"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (June 2021)",
     "language": "JavaScript",
-    "star": "303"
+    "star": "286"
   },
   {
     "title": "Gaboros/VenturePlan",
     "url": "https://github.com/Gaboros/VenturePlan",
     "description": "",
     "language": "Lua",
-    "star": "48"
+    "star": "49"
   },
   {
     "title": "sorrycc/awesome-javascript",
     "url": "https://github.com/sorrycc/awesome-javascript",
     "description": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
     "language": "none",
-    "star": "164"
+    "star": "181"
   },
   {
     "title": "kean/Pulse",
@@ -102,42 +102,42 @@
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "107"
+    "star": "109"
   },
   {
     "title": "shufflewzc/faker2",
     "url": "https://github.com/shufflewzc/faker2",
     "description": "不知名大佬备份",
     "language": "JavaScript",
-    "star": "102"
+    "star": "94"
   },
   {
     "title": "spring-projects/spring-graphql",
     "url": "https://github.com/spring-projects/spring-graphql",
     "description": "Spring integration for GraphQL",
     "language": "Java",
-    "star": "331"
+    "star": "332"
   },
   {
     "title": "chefyuan/algorithm-base",
     "url": "https://github.com/chefyuan/algorithm-base",
     "description": "专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！",
     "language": "Java",
-    "star": "295"
+    "star": "281"
   },
   {
     "title": "star261/jd",
     "url": "https://github.com/star261/jd",
     "description": "",
     "language": "JavaScript",
-    "star": "65"
+    "star": "63"
   },
   {
     "title": "microsoft/vscode",
     "url": "https://github.com/microsoft/vscode",
     "description": "Visual Studio Code",
     "language": "TypeScript",
-    "star": "319"
+    "star": "321"
   },
   {
     "title": "puppeteer/puppeteer",
@@ -151,27 +151,27 @@
     "url": "https://github.com/zero205/JD_tencent_scf",
     "description": "京东腾讯云函数版，低调使用，不要fork！！",
     "language": "JavaScript",
-    "star": "253"
+    "star": "258"
   },
   {
     "title": "ClickHouse/ClickHouse",
     "url": "https://github.com/ClickHouse/ClickHouse",
     "description": "ClickHouse® is a free analytics DBMS for big data",
     "language": "C++",
-    "star": "152"
+    "star": "180"
   },
   {
     "title": "madMAx43v3r/chia-plotter",
     "url": "https://github.com/madMAx43v3r/chia-plotter",
     "description": "",
     "language": "C",
-    "star": "114"
+    "star": "108"
   },
   {
     "title": "emqx/emqx",
     "url": "https://github.com/emqx/emqx",
     "description": "An Open-Source, Cloud-Native, distributed MQTT Message Broker for Large-scale IoT Applications.",
     "language": "Erlang",
-    "star": "34"
+    "star": "83"
   }
 ]
