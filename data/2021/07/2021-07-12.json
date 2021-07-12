@@ -4,42 +4,42 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "532"
+    "star": "535"
   },
   {
     "title": "swisskyrepo/PayloadsAllTheThings",
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "950"
+    "star": "891"
   },
   {
     "title": "microsoft/IoT-For-Beginners",
     "url": "https://github.com/microsoft/IoT-For-Beginners",
     "description": "12 Weeks, 24 Lessons, IoT for All!",
     "language": "C++",
-    "star": "1"
+    "star": "961"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "362"
+    "star": "337"
   },
   {
     "title": "laynH/Anime-Girls-Holding-Programming-Books",
     "url": "https://github.com/laynH/Anime-Girls-Holding-Programming-Books",
     "description": "Anime Girls Holding Programming Books",
     "language": "none",
-    "star": "555"
+    "star": "518"
   },
   {
     "title": "airbnb/javascript",
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "398"
+    "star": "364"
   },
   {
     "title": "ocornut/imgui",
@@ -53,63 +53,63 @@
     "url": "https://github.com/shufflewzc/faker2",
     "description": "不知名大佬备份",
     "language": "JavaScript",
-    "star": "92"
+    "star": "81"
   },
   {
     "title": "elsewhencode/project-guidelines",
     "url": "https://github.com/elsewhencode/project-guidelines",
     "description": "A set of best practices for JavaScript projects",
     "language": "JavaScript",
-    "star": "213"
+    "star": "219"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "362"
+    "star": "310"
   },
   {
     "title": "lydiahallie/javascript-questions",
     "url": "https://github.com/lydiahallie/javascript-questions",
     "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
     "language": "none",
-    "star": "346"
+    "star": "309"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (June 2021)",
     "language": "JavaScript",
-    "star": "217"
+    "star": "477"
   },
   {
     "title": "sorrycc/awesome-javascript",
     "url": "https://github.com/sorrycc/awesome-javascript",
     "description": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
     "language": "none",
-    "star": "431"
+    "star": "429"
   },
   {
     "title": "chefyuan/algorithm-base",
     "url": "https://github.com/chefyuan/algorithm-base",
     "description": "专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！",
     "language": "Java",
-    "star": "289"
+    "star": "517"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "188"
+    "star": "109"
   },
   {
     "title": "nikolaydubina/go-recipes",
     "url": "https://github.com/nikolaydubina/go-recipes",
     "description": "Handy commands to run in Go projects",
     "language": "none",
-    "star": "182"
+    "star": "171"
   },
   {
     "title": "CaffeineMC/sodium-fabric",
@@ -123,7 +123,7 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "694"
+    "star": "661"
   },
   {
     "title": "rosinality/alias-free-gan-pytorch",
@@ -151,7 +151,7 @@
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "92"
+    "star": "86"
   },
   {
     "title": "topjohnwu/Magisk",
@@ -172,6 +172,6 @@
     "url": "https://github.com/austinsonger/Incident-Playbook",
     "description": "GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]",
     "language": "Python",
-    "star": "29"
+    "star": "32"
   }
 ]
