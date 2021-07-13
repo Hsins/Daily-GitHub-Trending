@@ -1,0 +1,177 @@
+[
+  {
+    "title": "chefyuan/algorithm-base",
+    "url": "https://github.com/chefyuan/algorithm-base",
+    "description": "专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！",
+    "language": "Java",
+    "star": "506"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "383"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "273"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "392"
+  },
+  {
+    "title": "earthly/earthly",
+    "url": "https://github.com/earthly/earthly",
+    "description": "Build automation for the container era",
+    "language": "Go",
+    "star": "206"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "25"
+  },
+  {
+    "title": "microsoft/IoT-For-Beginners",
+    "url": "https://github.com/microsoft/IoT-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, IoT for All!",
+    "language": "C++",
+    "star": "825"
+  },
+  {
+    "title": "bndw/wifi-card",
+    "url": "https://github.com/bndw/wifi-card",
+    "description": "📶 Print a QR code for connecting to your WiFi",
+    "language": "JavaScript",
+    "star": "237"
+  },
+  {
+    "title": "austinsonger/Incident-Playbook",
+    "url": "https://github.com/austinsonger/Incident-Playbook",
+    "description": "GOAL: Incident Response Playbooks Mapped to MITRE Attack Tactics and Techniques. [Contributors Friendly]",
+    "language": "Python",
+    "star": "97"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "265"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "370"
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "description": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+    "language": "none",
+    "star": "205"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "language": "JavaScript",
+    "star": "95"
+  },
+  {
+    "title": "go-kratos/kratos",
+    "url": "https://github.com/go-kratos/kratos",
+    "description": "A Go framework for microservices.",
+    "language": "Go",
+    "star": "62"
+  },
+  {
+    "title": "laynH/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/laynH/Anime-Girls-Holding-Programming-Books",
+    "description": "Anime Girls Holding Programming Books",
+    "language": "none",
+    "star": "358"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "star": "416"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (June 2021)",
+    "language": "JavaScript",
+    "star": "254"
+  },
+  {
+    "title": "shufflewzc/faker2",
+    "url": "https://github.com/shufflewzc/faker2",
+    "description": "不知名大佬备份",
+    "language": "JavaScript",
+    "star": "105"
+  },
+  {
+    "title": "rosinality/alias-free-gan-pytorch",
+    "url": "https://github.com/rosinality/alias-free-gan-pytorch",
+    "description": "Unofficial implementation of Alias-Free Generative Adversarial Networks. (https://arxiv.org/abs/2106.12423) in PyTorch",
+    "language": "Python",
+    "star": "55"
+  },
+  {
+    "title": "fenixsoft/awesome-fenix",
+    "url": "https://github.com/fenixsoft/awesome-fenix",
+    "description": "讨论如何构建一套可靠的大型分布式系统",
+    "language": "Vue",
+    "star": "227"
+  },
+  {
+    "title": "mikel-brostrom/Yolov5_DeepSort_Pytorch",
+    "url": "https://github.com/mikel-brostrom/Yolov5_DeepSort_Pytorch",
+    "description": "Real-time multi-object tracker using YOLO v5 and deep sort",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "TheAlphamerc/flutter_ecommerce_app",
+    "url": "https://github.com/TheAlphamerc/flutter_ecommerce_app",
+    "description": "E-Commerce App built in flutter",
+    "language": "Dart",
+    "star": "50"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "ailabstw/social-distancing-ios",
+    "url": "https://github.com/ailabstw/social-distancing-ios",
+    "description": "Taiwan Social Distancing App - iOS",
+    "language": "Swift",
+    "star": "11"
+  },
+  {
+    "title": "Vishal-raj-1/Awesome-JavaScript-Projects",
+    "url": "https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects",
+    "description": "This Repository contain awesome vanilla JavaScript projects.",
+    "language": "JavaScript",
+    "star": "34"
+  }
+]
