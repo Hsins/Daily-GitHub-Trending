@@ -4,14 +4,14 @@
     "url": "https://github.com/cloudwego/kitex",
     "description": "",
     "language": "Go",
-    "star": "130"
+    "star": "133"
   },
   {
     "title": "dromara/Sa-Token",
     "url": "https://github.com/dromara/Sa-Token",
     "description": "这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...",
     "language": "Java",
-    "star": "297"
+    "star": "359"
   },
   {
     "title": "microsoft/terminal",
@@ -25,7 +25,7 @@
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "104"
+    "star": "130"
   },
   {
     "title": "grpc/grpc",
@@ -39,14 +39,14 @@
     "url": "https://github.com/aws-amplify/amplify-js",
     "description": "A declarative JavaScript library for application development using cloud services.",
     "language": "TypeScript",
-    "star": "5"
+    "star": "8"
   },
   {
     "title": "microsoft/IoT-For-Beginners",
     "url": "https://github.com/microsoft/IoT-For-Beginners",
     "description": "12 Weeks, 24 Lessons, IoT for All!",
     "language": "C++",
-    "star": "952"
+    "star": "1"
   },
   {
     "title": "prathyvsh/pl-catalog",
@@ -60,14 +60,14 @@
     "url": "https://github.com/AstraZeneca/awesome-explainable-graph-reasoning",
     "description": "A collection of research papers and software related to explainability in graph machine learning.",
     "language": "none",
-    "star": "107"
+    "star": "108"
   },
   {
     "title": "typesense/typesense",
     "url": "https://github.com/typesense/typesense",
     "description": "Fast, typo tolerant, fuzzy search engine for building delightful search experiences ⚡ 🔍",
     "language": "C++",
-    "star": "183"
+    "star": "174"
   },
   {
     "title": "cloudwego/netpoll",
@@ -81,42 +81,42 @@
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "87"
+    "star": "88"
   },
   {
     "title": "cdr/code-server",
     "url": "https://github.com/cdr/code-server",
     "description": "VS Code in the browser",
     "language": "TypeScript",
-    "star": "51"
+    "star": "52"
   },
   {
     "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
     "language": "Java",
-    "star": "145"
+    "star": "245"
   },
   {
     "title": "jaywcjlove/awesome-mac",
     "url": "https://github.com/jaywcjlove/awesome-mac",
     "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
     "language": "JavaScript",
-    "star": "489"
+    "star": "482"
   },
   {
     "title": "opensearch-project/OpenSearch",
     "url": "https://github.com/opensearch-project/OpenSearch",
     "description": "Open source distributed and RESTful search engine.",
     "language": "Java",
-    "star": "124"
+    "star": "144"
   },
   {
     "title": "bndw/wifi-card",
     "url": "https://github.com/bndw/wifi-card",
     "description": "📶 Print a QR code for connecting to your WiFi (wificard.io)",
     "language": "JavaScript",
-    "star": "490"
+    "star": "639"
   },
   {
     "title": "uzh-rpg/rpg_svo_pro_open",
@@ -130,21 +130,21 @@
     "url": "https://github.com/smiek2221/scripts",
     "description": "",
     "language": "JavaScript",
-    "star": "47"
+    "star": "40"
   },
   {
     "title": "Aaron-lv/sync",
     "url": "https://github.com/Aaron-lv/sync",
     "description": "",
     "language": "none",
-    "star": "25"
+    "star": "29"
   },
   {
     "title": "Jack-Cherish/Machine-Learning",
     "url": "https://github.com/Jack-Cherish/Machine-Learning",
     "description": "⚡机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
     "language": "Python",
-    "star": "144"
+    "star": "25"
   },
   {
     "title": "Sangwan5688/BlackHole",
@@ -158,7 +158,7 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "175"
+    "star": "108"
   },
   {
     "title": "Tencent/TNN",
@@ -172,6 +172,6 @@
     "url": "https://github.com/diekmann/wasm-fizzbuzz",
     "description": "WebAssembly from Scratch: From FizzBuzz to DooM.",
     "language": "C++",
-    "star": "133"
+    "star": "135"
   }
 ]
