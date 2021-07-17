@@ -4,7 +4,7 @@
     "url": "https://github.com/deepmind/alphafold",
     "description": "Open source code for AlphaFold.",
     "language": "Python",
-    "star": "887"
+    "star": "877"
   },
   {
     "title": "GPUOpen-Effects/FidelityFX-FSR",
@@ -18,160 +18,160 @@
     "url": "https://github.com/google/security-research",
     "description": "This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.",
     "language": "C",
-    "star": "58"
+    "star": "52"
   },
   {
     "title": "paritytech/substrate",
     "url": "https://github.com/paritytech/substrate",
     "description": "Substrate: The platform for blockchain innovators",
     "language": "Rust",
-    "star": "15"
+    "star": "32"
   },
   {
     "title": "bradtraversy/hulu-webpage-clone",
     "url": "https://github.com/bradtraversy/hulu-webpage-clone",
     "description": "Hulu webpage clone",
     "language": "CSS",
-    "star": "16"
+    "star": "15"
   },
   {
     "title": "milvus-io/milvus",
     "url": "https://github.com/milvus-io/milvus",
     "description": "An open source vector database powered by Faiss, NMSLIB and Annoy",
     "language": "Go",
-    "star": "38"
+    "star": "48"
   },
   {
     "title": "tiangolo/fastapi",
     "url": "https://github.com/tiangolo/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "star": "92"
+    "star": "62"
   },
   {
     "title": "dromara/Sa-Token",
     "url": "https://github.com/dromara/Sa-Token",
     "description": "这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...",
     "language": "Java",
-    "star": "125"
+    "star": "234"
   },
   {
     "title": "cdr/code-server",
     "url": "https://github.com/cdr/code-server",
     "description": "VS Code in the browser",
     "language": "TypeScript",
-    "star": "213"
+    "star": "151"
   },
   {
     "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
     "language": "Java",
-    "star": "174"
+    "star": "165"
   },
   {
     "title": "snowpackjs/astro",
     "url": "https://github.com/snowpackjs/astro",
     "description": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
     "language": "TypeScript",
-    "star": "514"
+    "star": "504"
   },
   {
     "title": "workos-inc/awesome-developer-experience",
     "url": "https://github.com/workos-inc/awesome-developer-experience",
     "description": "🤘 A curated list of DX (Developer Experience) resources",
     "language": "none",
-    "star": "72"
+    "star": "111"
   },
   {
     "title": "bndw/wifi-card",
     "url": "https://github.com/bndw/wifi-card",
     "description": "📶 Print a QR code for connecting to your WiFi (wificard.io)",
     "language": "JavaScript",
-    "star": "330"
+    "star": "372"
   },
   {
     "title": "grpc/grpc",
     "url": "https://github.com/grpc/grpc",
     "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
     "language": "C++",
-    "star": "174"
+    "star": "156"
   },
   {
     "title": "facebookresearch/ParlAI",
     "url": "https://github.com/facebookresearch/ParlAI",
     "description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
     "language": "Python",
-    "star": "50"
+    "star": "37"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "261"
+    "star": "264"
   },
   {
     "title": "CyberPunkMetalHead/Binance-volatility-trading-bot",
     "url": "https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot",
     "description": "This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.",
     "language": "Python",
-    "star": "52"
+    "star": "69"
   },
   {
     "title": "ArchiveBox/ArchiveBox",
     "url": "https://github.com/ArchiveBox/ArchiveBox",
     "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
     "language": "Python",
-    "star": "311"
+    "star": "351"
   },
   {
     "title": "GokuMohandas/MadeWithML",
     "url": "https://github.com/GokuMohandas/MadeWithML",
     "description": "Learn how to responsibly deliver value with ML.",
     "language": "Jupyter Notebook",
-    "star": "98"
+    "star": "118"
   },
   {
     "title": "ascoders/weekly",
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "51"
+    "star": "25"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "100"
+    "star": "126"
   },
   {
     "title": "Lets-Code-Br/Santander-Ciencia-de-Dados",
     "url": "https://github.com/Lets-Code-Br/Santander-Ciencia-de-Dados",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "8"
+    "star": "9"
   },
   {
     "title": "microsoft/IoT-For-Beginners",
     "url": "https://github.com/microsoft/IoT-For-Beginners",
     "description": "12 Weeks, 24 Lessons, IoT for All!",
     "language": "C++",
-    "star": "578"
+    "star": "756"
   },
   {
     "title": "opensearch-project/OpenSearch",
     "url": "https://github.com/opensearch-project/OpenSearch",
     "description": "Open source distributed and RESTful search engine.",
     "language": "Java",
-    "star": "214"
+    "star": "204"
   },
   {
     "title": "Thmen/EGVSR",
     "url": "https://github.com/Thmen/EGVSR",
     "description": "Efficient & Generic Video Super-Resolution",
     "language": "Python",
-    "star": "49"
+    "star": "75"
   }
 ]
