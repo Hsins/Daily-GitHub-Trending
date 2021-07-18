@@ -4,49 +4,49 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "368"
+    "star": "308"
   },
   {
     "title": "paritytech/substrate",
     "url": "https://github.com/paritytech/substrate",
     "description": "Substrate: The platform for blockchain innovators",
     "language": "Rust",
-    "star": "81"
+    "star": "77"
   },
   {
     "title": "discordjs/discord.js",
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "113"
+    "star": "33"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "69"
+    "star": "30"
   },
   {
     "title": "livekit/livekit-server",
     "url": "https://github.com/livekit/livekit-server",
     "description": "Distributed audio/video rooms over WebRTC",
     "language": "Go",
-    "star": "164"
+    "star": "165"
   },
   {
     "title": "ManimCommunity/manim",
     "url": "https://github.com/ManimCommunity/manim",
     "description": "A community-maintained Python framework for creating mathematical animations.",
     "language": "Python",
-    "star": "276"
+    "star": "172"
   },
   {
     "title": "snowpackjs/astro",
     "url": "https://github.com/snowpackjs/astro",
     "description": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
     "language": "TypeScript",
-    "star": "433"
+    "star": "439"
   },
   {
     "title": "deepmind/alphafold",
@@ -60,21 +60,21 @@
     "url": "https://github.com/facebookresearch/ParlAI",
     "description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
     "language": "Python",
-    "star": "170"
+    "star": "178"
   },
   {
     "title": "GPUOpen-Effects/FidelityFX-FSR",
     "url": "https://github.com/GPUOpen-Effects/FidelityFX-FSR",
     "description": "FidelityFX Super Resolution",
     "language": "C",
-    "star": "371"
+    "star": "354"
   },
   {
     "title": "GokuMohandas/MadeWithML",
     "url": "https://github.com/GokuMohandas/MadeWithML",
     "description": "Learn how to responsibly deliver value with ML.",
     "language": "Jupyter Notebook",
-    "star": "287"
+    "star": "281"
   },
   {
     "title": "coolsnowwolf/lede",
@@ -88,49 +88,49 @@
     "url": "https://github.com/hit-thusz-RookieCJ/CSYuTuiMian2021",
     "description": "关于2021年CS保研预推免通知公告的汇总",
     "language": "none",
-    "star": "25"
+    "star": "17"
   },
   {
     "title": "jonasschmedtmann/html-css-course",
     "url": "https://github.com/jonasschmedtmann/html-css-course",
     "description": "Starter files, final projects, and FAQ for my HTML + CSS course",
     "language": "HTML",
-    "star": "20"
+    "star": "22"
   },
   {
     "title": "RosettaCommons/RoseTTAFold",
     "url": "https://github.com/RosettaCommons/RoseTTAFold",
     "description": "This package contains deep learning models and related scripts for RoseTTAFold",
     "language": "Python",
-    "star": "241"
+    "star": "197"
   },
   {
     "title": "lxgw/LxgwWenKai",
     "url": "https://github.com/lxgw/LxgwWenKai",
     "description": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。",
     "language": "none",
-    "star": "146"
+    "star": "149"
   },
   {
     "title": "bradtraversy/hulu-webpage-clone",
     "url": "https://github.com/bradtraversy/hulu-webpage-clone",
     "description": "Hulu webpage clone",
     "language": "CSS",
-    "star": "51"
+    "star": "56"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "60"
+    "star": "98"
   },
   {
     "title": "vuejs/vue-next",
     "url": "https://github.com/vuejs/vue-next",
     "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
     "language": "TypeScript",
-    "star": "41"
+    "star": "63"
   },
   {
     "title": "CaffeineMC/sodium-fabric",
@@ -144,7 +144,7 @@
     "url": "https://github.com/megaease/easegress",
     "description": "A Cloud Native traffic orchestration system",
     "language": "Go",
-    "star": "67"
+    "star": "70"
   },
   {
     "title": "adiwajshing/Baileys",
@@ -158,20 +158,20 @@
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "80"
+    "star": "62"
   },
   {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "189"
+    "star": "237"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "439"
+    "star": "292"
   }
 ]
