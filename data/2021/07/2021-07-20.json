@@ -1,0 +1,177 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "723"
+  },
+  {
+    "title": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "description": "A community-maintained Python framework for creating mathematical animations.",
+    "language": "Python",
+    "star": "389"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "94"
+  },
+  {
+    "title": "yedf/dtm",
+    "url": "https://github.com/yedf/dtm",
+    "description": "🔥go语言分布式事务管理器 a lightweight distributed transaction management service, support xa tcc saga",
+    "language": "Go",
+    "star": "84"
+  },
+  {
+    "title": "megaease/easegress",
+    "url": "https://github.com/megaease/easegress",
+    "description": "A Cloud Native traffic orchestration system",
+    "language": "Go",
+    "star": "43"
+  },
+  {
+    "title": "livekit/livekit-server",
+    "url": "https://github.com/livekit/livekit-server",
+    "description": "Distributed audio/video rooms over WebRTC",
+    "language": "Go",
+    "star": "349"
+  },
+  {
+    "title": "zhenghaoz/gorse",
+    "url": "https://github.com/zhenghaoz/gorse",
+    "description": "An open source recommender system service written in Go",
+    "language": "Go",
+    "star": "493"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "278"
+  },
+  {
+    "title": "Aircoin-official/AirCash",
+    "url": "https://github.com/Aircoin-official/AirCash",
+    "description": "Cash system for AIR.",
+    "language": "none",
+    "star": "375"
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "165"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "language": "TypeScript",
+    "star": "118"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "424"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "language": "JavaScript",
+    "star": "305"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "179"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "language": "Python",
+    "star": "64"
+  },
+  {
+    "title": "yanirs/established-remote",
+    "url": "https://github.com/yanirs/established-remote",
+    "description": "A list of established remote companies",
+    "language": "none",
+    "star": "28"
+  },
+  {
+    "title": "avinassh/fast-sqlite3-inserts",
+    "url": "https://github.com/avinassh/fast-sqlite3-inserts",
+    "description": "Some bunch of test scripts to generate a SQLite DB with 1B rows in fastest possible way",
+    "language": "Rust",
+    "star": "24"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "126"
+  },
+  {
+    "title": "erikgrinaker/toydb",
+    "url": "https://github.com/erikgrinaker/toydb",
+    "description": "Distributed SQL database in Rust, written as a learning project",
+    "language": "Rust",
+    "star": "169"
+  },
+  {
+    "title": "emadshanab/Acomplete-guide-to-dir-brute-force-admin-panel-and-API-endpoints",
+    "url": "https://github.com/emadshanab/Acomplete-guide-to-dir-brute-force-admin-panel-and-API-endpoints",
+    "description": "",
+    "language": "none",
+    "star": "10"
+  },
+  {
+    "title": "FASTSHIFT/X-TRACK",
+    "url": "https://github.com/FASTSHIFT/X-TRACK",
+    "description": "A GPS bicycle speedometer that supports offline maps and track recording",
+    "language": "C",
+    "star": "84"
+  },
+  {
+    "title": "OWASP/wstg",
+    "url": "https://github.com/OWASP/wstg",
+    "description": "The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.",
+    "language": "Shell",
+    "star": "48"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "JavaScript",
+    "star": "13"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "336"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "language": "Go",
+    "star": "37"
+  }
+]
