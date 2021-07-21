@@ -4,56 +4,56 @@
     "url": "https://github.com/mvt-project/mvt",
     "description": "MVT is a forensic tool to look for signs of infection in smartphone devices",
     "language": "Python",
-    "star": "830"
+    "star": "766"
   },
   {
     "title": "microsoft/CBL-Mariner",
     "url": "https://github.com/microsoft/CBL-Mariner",
     "description": "Linux OS for Azure 1P services and edge appliances",
     "language": "Go",
-    "star": "268"
+    "star": "270"
   },
   {
     "title": "zhenghaoz/gorse",
     "url": "https://github.com/zhenghaoz/gorse",
     "description": "An open source recommender system service written in Go",
     "language": "Go",
-    "star": "530"
+    "star": "515"
   },
   {
     "title": "AmnestyTech/investigations",
     "url": "https://github.com/AmnestyTech/investigations",
     "description": "Indicators from Amnesty International's investigations",
     "language": "Python",
-    "star": "107"
+    "star": "139"
   },
   {
     "title": "blueedgetechno/windows11",
     "url": "https://github.com/blueedgetechno/windows11",
     "description": "windows 11 in react 💻🌈⚡",
     "language": "CSS",
-    "star": "121"
+    "star": "120"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "624"
+    "star": "635"
   },
   {
     "title": "alan2207/bulletproof-react",
     "url": "https://github.com/alan2207/bulletproof-react",
     "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "language": "TypeScript",
-    "star": "219"
+    "star": "180"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "389"
+    "star": "353"
   },
   {
     "title": "CryptoBlades/cryptoblades",
@@ -67,21 +67,21 @@
     "url": "https://github.com/facebookresearch/ParlAI",
     "description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
     "language": "Python",
-    "star": "30"
+    "star": "101"
   },
   {
     "title": "tal-tech/go-zero",
     "url": "https://github.com/tal-tech/go-zero",
     "description": "go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.",
     "language": "Go",
-    "star": "39"
+    "star": "40"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "108"
+    "star": "109"
   },
   {
     "title": "kawalcovid19/wargabantuwarga.com",
@@ -95,21 +95,21 @@
     "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path",
     "description": "",
     "language": "none",
-    "star": "81"
+    "star": "91"
   },
   {
     "title": "taylorotwell/next-example-frontend",
     "url": "https://github.com/taylorotwell/next-example-frontend",
     "description": "",
     "language": "JavaScript",
-    "star": "39"
+    "star": "45"
   },
   {
     "title": "taylorotwell/next-example-backend",
     "url": "https://github.com/taylorotwell/next-example-backend",
     "description": "",
     "language": "PHP",
-    "star": "25"
+    "star": "30"
   },
   {
     "title": "visenger/awesome-mlops",
@@ -123,7 +123,7 @@
     "url": "https://github.com/Xmader/musescore-downloader",
     "description": "Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | Installation: https://msdl.librescore.org/install.user.js",
     "language": "TypeScript",
-    "star": "76"
+    "star": "79"
   },
   {
     "title": "yedf/dtm",
@@ -137,35 +137,35 @@
     "url": "https://github.com/lxgw/LxgwWenKai",
     "description": "An open-source Chinese font derived from Fontworks' Klee One. 一款基于 FONTWORKS 的 Klee One 的开源中文字体。",
     "language": "none",
-    "star": "158"
+    "star": "169"
   },
   {
     "title": "Aircoin-official/AirCash",
     "url": "https://github.com/Aircoin-official/AirCash",
     "description": "Cash system for AIR.",
     "language": "none",
-    "star": "242"
+    "star": "237"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "289"
+    "star": "291"
   },
   {
     "title": "trekhleb/learn-python",
     "url": "https://github.com/trekhleb/learn-python",
     "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
     "language": "Python",
-    "star": "238"
+    "star": "244"
   },
   {
     "title": "oslabs-beta/SvelteStorm",
     "url": "https://github.com/oslabs-beta/SvelteStorm",
     "description": "A Svelte IDE like no other. Embrace the storm. Embrace the Svelte.",
     "language": "Svelte",
-    "star": "47"
+    "star": "48"
   },
   {
     "title": "envoyproxy/envoy",
