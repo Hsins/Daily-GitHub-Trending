@@ -4,7 +4,7 @@
     "url": "https://github.com/mvt-project/mvt",
     "description": "MVT is a forensic tool to look for signs of infection in smartphone devices",
     "language": "Python",
-    "star": "889"
+    "star": "876"
   },
   {
     "title": "Megvii-BaseDetection/YOLOX",
@@ -18,7 +18,7 @@
     "url": "https://github.com/AmnestyTech/investigations",
     "description": "Indicators from Amnesty International's investigations",
     "language": "Python",
-    "star": "188"
+    "star": "212"
   },
   {
     "title": "flutter/flutter",
@@ -32,14 +32,14 @@
     "url": "https://github.com/doocs/source-code-hunter",
     "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
     "language": "Java",
-    "star": "119"
+    "star": "122"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "682"
+    "star": "702"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -53,7 +53,7 @@
     "url": "https://github.com/microsoft/CBL-Mariner",
     "description": "Linux OS for Azure 1P services and edge appliances",
     "language": "Go",
-    "star": "254"
+    "star": "260"
   },
   {
     "title": "nocodb/nocodb",
@@ -67,28 +67,28 @@
     "url": "https://github.com/tinode/chat",
     "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
     "language": "Go",
-    "star": "65"
+    "star": "50"
   },
   {
     "title": "blueedgetechno/windows11",
     "url": "https://github.com/blueedgetechno/windows11",
     "description": "windows 11 in react 💻🌈⚡",
     "language": "CSS",
-    "star": "289"
+    "star": "425"
   },
   {
     "title": "CryptoBlades/cryptoblades",
     "url": "https://github.com/CryptoBlades/cryptoblades",
     "description": "",
     "language": "Vue",
-    "star": "45"
+    "star": "32"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "550"
+    "star": "563"
   },
   {
     "title": "topotam/PetitPotam",
@@ -109,14 +109,14 @@
     "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path",
     "description": "",
     "language": "none",
-    "star": "67"
+    "star": "74"
   },
   {
     "title": "trekhleb/learn-python",
     "url": "https://github.com/trekhleb/learn-python",
     "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
     "language": "Python",
-    "star": "369"
+    "star": "372"
   },
   {
     "title": "verymeticulous/wikAPEdia",
@@ -137,21 +137,21 @@
     "url": "https://github.com/Xmader/musescore-downloader",
     "description": "Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | Installation: https://msdl.librescore.org/install.user.js",
     "language": "TypeScript",
-    "star": "111"
+    "star": "128"
   },
   {
     "title": "JuliaLang/julia",
     "url": "https://github.com/JuliaLang/julia",
     "description": "The Julia Programming Language",
     "language": "Julia",
-    "star": "40"
+    "star": "41"
   },
   {
     "title": "zhenghaoz/gorse",
     "url": "https://github.com/zhenghaoz/gorse",
     "description": "An open source recommender system service written in Go",
     "language": "Go",
-    "star": "315"
+    "star": "320"
   },
   {
     "title": "capt-meelo/Beaconator",
