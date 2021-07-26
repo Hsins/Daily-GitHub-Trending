@@ -1,0 +1,177 @@
+[
+  {
+    "title": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "description": "MVT is a forensic tool to look for signs of infection in smartphone devices",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "Megvii-BaseDetection/YOLOX",
+    "url": "https://github.com/Megvii-BaseDetection/YOLOX",
+    "description": "YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported.",
+    "language": "Python",
+    "star": "664"
+  },
+  {
+    "title": "AmnestyTech/investigations",
+    "url": "https://github.com/AmnestyTech/investigations",
+    "description": "Indicators from Amnesty International's investigations",
+    "language": "Python",
+    "star": "270"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "194"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "language": "Java",
+    "star": "740"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/CBL-Mariner",
+    "url": "https://github.com/microsoft/CBL-Mariner",
+    "description": "Linux OS for Azure 1P services and edge appliances",
+    "language": "Go",
+    "star": "259"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀",
+    "language": "Vue",
+    "star": "191"
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "description": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "language": "Go",
+    "star": "579"
+  },
+  {
+    "title": "blueedgetechno/windows11",
+    "url": "https://github.com/blueedgetechno/windows11",
+    "description": "windows 11 in react 💻🌈⚡",
+    "language": "CSS",
+    "star": "268"
+  },
+  {
+    "title": "CryptoBlades/cryptoblades",
+    "url": "https://github.com/CryptoBlades/cryptoblades",
+    "description": "",
+    "language": "Vue",
+    "star": "113"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "229"
+  },
+  {
+    "title": "topotam/PetitPotam",
+    "url": "https://github.com/topotam/PetitPotam",
+    "description": "",
+    "language": "C",
+    "star": "84"
+  },
+  {
+    "title": "forem/selfhost",
+    "url": "https://github.com/forem/selfhost",
+    "description": "Selfhost your Forem Community on your own infrastructure 🎉",
+    "language": "Jinja",
+    "star": "195"
+  },
+  {
+    "title": "LaravelDaily/Laravel-Roadmap-Learning-Path",
+    "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path",
+    "description": "",
+    "language": "none",
+    "star": "189"
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "description": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "language": "Python",
+    "star": "506"
+  },
+  {
+    "title": "verymeticulous/wikAPEdia",
+    "url": "https://github.com/verymeticulous/wikAPEdia",
+    "description": "A central place for apes to learn about stonks. This is not financial advice.",
+    "language": "none",
+    "star": "142"
+  },
+  {
+    "title": "loong132/autojs-script",
+    "url": "https://github.com/loong132/autojs-script",
+    "description": "autojs脚本程序,用于完成安卓设备上的重复性操作.包含脚本: 1.2021年京东618任务脚本 2.2021年京东燃动夏季活动脚本",
+    "language": "JavaScript",
+    "star": "23"
+  },
+  {
+    "title": "Xmader/musescore-downloader",
+    "url": "https://github.com/Xmader/musescore-downloader",
+    "description": "Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required | 免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱 | Installation: https://msdl.librescore.org/install.user.js",
+    "language": "TypeScript",
+    "star": "156"
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "description": "The Julia Programming Language",
+    "language": "Julia",
+    "star": "566"
+  },
+  {
+    "title": "zhenghaoz/gorse",
+    "url": "https://github.com/zhenghaoz/gorse",
+    "description": "An open source recommender system service written in Go",
+    "language": "Go",
+    "star": "380"
+  },
+  {
+    "title": "capt-meelo/Beaconator",
+    "url": "https://github.com/capt-meelo/Beaconator",
+    "description": "A beacon generator using Cobalt Strike and PEzor.",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "Universidade-Livre/ciencia-da-computacao",
+    "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
+    "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
+    "language": "none",
+    "star": "186"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "62"
+  }
+]
