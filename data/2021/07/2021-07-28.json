@@ -39,7 +39,7 @@
     "url": "https://github.com/doocs/source-code-hunter",
     "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
     "language": "Java",
-    "star": "391"
+    "star": "332"
   },
   {
     "title": "golang-jwt/jwt",
@@ -53,28 +53,28 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "538"
+    "star": "543"
   },
   {
     "title": "CryptoBlades/cryptoblades",
     "url": "https://github.com/CryptoBlades/cryptoblades",
     "description": "",
     "language": "Vue",
-    "star": "50"
+    "star": "49"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "237"
+    "star": "239"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "81"
+    "star": "87"
   },
   {
     "title": "nvm-sh/nvm",
