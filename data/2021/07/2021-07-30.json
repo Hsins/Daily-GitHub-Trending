@@ -4,7 +4,7 @@
     "url": "https://github.com/SJang1/korea-covid-19-remaining-vaccine-macro",
     "description": "잔여백신 조회 및 예약 매크로",
     "language": "Python",
-    "star": "90"
+    "star": "77"
   },
   {
     "title": "bradtraversy/50projects50days",
@@ -18,21 +18,21 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "243"
+    "star": "227"
   },
   {
     "title": "bytedance/flutter_ume",
     "url": "https://github.com/bytedance/flutter_ume",
     "description": "UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance",
     "language": "Dart",
-    "star": "219"
+    "star": "223"
   },
   {
     "title": "MoonBegonia/ninja",
     "url": "https://github.com/MoonBegonia/ninja",
     "description": "",
     "language": "JavaScript",
-    "star": "56"
+    "star": "48"
   },
   {
     "title": "dataease/dataease",
@@ -46,63 +46,63 @@
     "url": "https://github.com/fuzhengwei/small-spring",
     "description": "🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。",
     "language": "Java",
-    "star": "211"
+    "star": "240"
   },
   {
     "title": "myspaghetti/macos-virtualbox",
     "url": "https://github.com/myspaghetti/macos-virtualbox",
     "description": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
     "language": "Shell",
-    "star": "251"
+    "star": "348"
   },
   {
     "title": "timb-machine/linux-malware",
     "url": "https://github.com/timb-machine/linux-malware",
     "description": "Tracking interesting Linux (and UNIX) malware. Send PRs",
     "language": "none",
-    "star": "197"
+    "star": "242"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "468"
+    "star": "439"
   },
   {
     "title": "ucla-mobility/OpenCDA",
     "url": "https://github.com/ucla-mobility/OpenCDA",
     "description": "A generalized framework for prototyping full-stack cooperative driving automation applications under CARLA+SUMO.",
     "language": "Python",
-    "star": "52"
+    "star": "46"
   },
   {
     "title": "supabase/supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "321"
+    "star": "310"
   },
   {
     "title": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "87"
+    "star": "85"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "47"
+    "star": "42"
   },
   {
     "title": "angular/angular",
     "url": "https://github.com/angular/angular",
     "description": "The modern web developer’s platform",
     "language": "TypeScript",
-    "star": "151"
+    "star": "166"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
@@ -116,62 +116,62 @@
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目",
     "language": "Python",
-    "star": "80"
+    "star": "81"
   },
   {
     "title": "pittcsc/Summer2022-Internships",
     "url": "https://github.com/pittcsc/Summer2022-Internships",
     "description": "Collection of Summer 2022 tech internships!",
     "language": "Python",
-    "star": "102"
+    "star": "101"
   },
   {
     "title": "covidpass-org/covidpass",
     "url": "https://github.com/covidpass-org/covidpass",
     "description": "Web app for adding EU Digital COVID Certificates to your wallet apps",
     "language": "TypeScript",
-    "star": "93"
+    "star": "108"
   },
   {
     "title": "microsoft/playwright",
     "url": "https://github.com/microsoft/playwright",
     "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
     "language": "TypeScript",
-    "star": "133"
+    "star": "131"
   },
   {
     "title": "iotexproject/iotex-core",
     "url": "https://github.com/iotexproject/iotex-core",
     "description": "Official implementation of IoTeX blockchain protocol in Go.",
     "language": "Go",
-    "star": "143"
+    "star": "138"
   },
   {
     "title": "axios/axios",
     "url": "https://github.com/axios/axios",
     "description": "Promise based HTTP client for the browser and node.js",
     "language": "JavaScript",
-    "star": "127"
+    "star": "111"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "262"
+    "star": "252"
   },
   {
     "title": "tailscale/tailscale",
     "url": "https://github.com/tailscale/tailscale",
     "description": "The easiest, most secure way to use WireGuard and 2FA.",
     "language": "Go",
-    "star": "105"
+    "star": "126"
   },
   {
     "title": "erda-project/erda",
     "url": "https://github.com/erda-project/erda",
     "description": "An enterprise-grade Cloud-Native application platform for Kubernetes.",
     "language": "Go",
-    "star": "146"
+    "star": "139"
   }
 ]
