@@ -25,7 +25,7 @@
     "url": "https://github.com/dataease/dataease",
     "description": "人人可用的开源数据可视化分析工具。",
     "language": "Java",
-    "star": "311"
+    "star": "321"
   },
   {
     "title": "google/googletest",
@@ -53,7 +53,7 @@
     "url": "https://github.com/electron/electron",
     "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
     "language": "C++",
-    "star": "174"
+    "star": "195"
   },
   {
     "title": "Satsuoni/widevine-l3-guesser",
@@ -88,7 +88,7 @@
     "url": "https://github.com/covidpass-org/covidpass",
     "description": "Web app for adding EU Digital COVID Certificates to your wallet apps",
     "language": "TypeScript",
-    "star": "211"
+    "star": "215"
   },
   {
     "title": "mschweiger/orbiter",
@@ -102,7 +102,7 @@
     "url": "https://github.com/ed3ath/cbtracker",
     "description": "Please do not use this tracker to scam anyone! This is free and will be forever free. This tracking will never ask for seed phrases nor private keys. Keep safe!",
     "language": "JavaScript",
-    "star": "48"
+    "star": "54"
   },
   {
     "title": "521xueweihan/HelloGitHub",
@@ -123,14 +123,14 @@
     "url": "https://github.com/PyTorchLightning/pytorch-lightning",
     "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
     "language": "Python",
-    "star": "51"
+    "star": "66"
   },
   {
     "title": "google/accompanist",
     "url": "https://github.com/google/accompanist",
     "description": "A collection of extension libraries for Jetpack Compose",
     "language": "Kotlin",
-    "star": "55"
+    "star": "61"
   },
   {
     "title": "rafaballerini/rafaballerini",
@@ -144,7 +144,7 @@
     "url": "https://github.com/Anbox-halium/anbox-halium",
     "description": "",
     "language": "Shell",
-    "star": "118"
+    "star": "123"
   },
   {
     "title": "timb-machine/linux-malware",
