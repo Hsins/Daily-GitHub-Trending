@@ -11,7 +11,7 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "318"
+    "star": "342"
   },
   {
     "title": "Tib3rius/AutoRecon",
@@ -32,7 +32,7 @@
     "url": "https://github.com/tokio-rs/axum",
     "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
     "language": "Rust",
-    "star": "185"
+    "star": "186"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -46,14 +46,14 @@
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "38"
+    "star": "51"
   },
   {
     "title": "CleverRaven/Cataclysm-DDA",
     "url": "https://github.com/CleverRaven/Cataclysm-DDA",
     "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
     "language": "C++",
-    "star": "26"
+    "star": "46"
   },
   {
     "title": "github/docs",
@@ -67,7 +67,7 @@
     "url": "https://github.com/freqtrade/freqtrade",
     "description": "Free, open source crypto trading bot",
     "language": "Python",
-    "star": "80"
+    "star": "87"
   },
   {
     "title": "home-assistant/core",
@@ -144,7 +144,7 @@
     "url": "https://github.com/unoplatform/uno",
     "description": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
     "language": "C#",
-    "star": "152"
+    "star": "151"
   },
   {
     "title": "apple/swift-algorithms",
