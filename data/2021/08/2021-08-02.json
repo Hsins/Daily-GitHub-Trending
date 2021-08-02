@@ -25,14 +25,14 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "178"
+    "star": "175"
   },
   {
     "title": "tokio-rs/axum",
     "url": "https://github.com/tokio-rs/axum",
     "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
     "language": "Rust",
-    "star": "187"
+    "star": "185"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -67,7 +67,7 @@
     "url": "https://github.com/freqtrade/freqtrade",
     "description": "Free, open source crypto trading bot",
     "language": "Python",
-    "star": "57"
+    "star": "80"
   },
   {
     "title": "home-assistant/core",
@@ -102,7 +102,7 @@
     "url": "https://github.com/SagerNet/SagerNet",
     "description": "The universal proxy toolchain for Android",
     "language": "Kotlin",
-    "star": "127"
+    "star": "129"
   },
   {
     "title": "microsoft/ML-For-Beginners",
@@ -144,14 +144,14 @@
     "url": "https://github.com/unoplatform/uno",
     "description": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
     "language": "C#",
-    "star": "153"
+    "star": "152"
   },
   {
     "title": "apple/swift-algorithms",
     "url": "https://github.com/apple/swift-algorithms",
     "description": "Commonly used sequence and collection algorithms for Swift",
     "language": "Swift",
-    "star": "33"
+    "star": "39"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
@@ -172,6 +172,6 @@
     "url": "https://github.com/telegramdesktop/tdesktop",
     "description": "Telegram Desktop messaging app",
     "language": "C++",
-    "star": "151"
+    "star": "152"
   }
 ]
