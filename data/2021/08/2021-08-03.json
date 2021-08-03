@@ -1,0 +1,177 @@
+[
+  {
+    "title": "mitmproxy/mitmproxy",
+    "url": "https://github.com/mitmproxy/mitmproxy",
+    "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+    "language": "Python",
+    "star": "214"
+  },
+  {
+    "title": "Hiroshiba/voicevox",
+    "url": "https://github.com/Hiroshiba/voicevox",
+    "description": "",
+    "language": "TypeScript",
+    "star": "81"
+  },
+  {
+    "title": "sysprog21/lkmpg",
+    "url": "https://github.com/sysprog21/lkmpg",
+    "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
+    "language": "TeX",
+    "star": "514"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "description": "人人可用的开源数据可视化分析工具。",
+    "language": "Java",
+    "star": "127"
+  },
+  {
+    "title": "facebookresearch/droidlet",
+    "url": "https://github.com/facebookresearch/droidlet",
+    "description": "A modular embodied agent architecture and platform for building embodied agents",
+    "language": "Jupyter Notebook",
+    "star": "33"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "language": "C++",
+    "star": "198"
+  },
+  {
+    "title": "org-roam/org-roam-ui",
+    "url": "https://github.com/org-roam/org-roam-ui",
+    "description": "A graphical frontend for exploring your org-roam Zettelkasten",
+    "language": "JavaScript",
+    "star": "51"
+  },
+  {
+    "title": "apollographql/apollo-client",
+    "url": "https://github.com/apollographql/apollo-client",
+    "description": "🚀  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.",
+    "language": "TypeScript",
+    "star": "15"
+  },
+  {
+    "title": "tokio-rs/axum",
+    "url": "https://github.com/tokio-rs/axum",
+    "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "language": "Rust",
+    "star": "232"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "849"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix",
+    "description": "A collection of modern/faster/saner alternatives to common unix commands.",
+    "language": "none",
+    "star": "245"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "description": "A list of awesome beginners-friendly projects.",
+    "language": "none",
+    "star": "71"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "49"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "language": "C++",
+    "star": "349"
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "description": "🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）",
+    "language": "Java",
+    "star": "24"
+  },
+  {
+    "title": "doocs/jvm",
+    "url": "https://github.com/doocs/jvm",
+    "description": "🤗 JVM 底层原理最全知识总结",
+    "language": "Java",
+    "star": "51"
+  },
+  {
+    "title": "ed3ath/cbtracker",
+    "url": "https://github.com/ed3ath/cbtracker",
+    "description": "Please do not use this tracker to scam anyone! This is free and will be forever free. This tracking will never ask for seed phrases nor private keys. Keep safe!",
+    "language": "JavaScript",
+    "star": "15"
+  },
+  {
+    "title": "Tib3rius/AutoRecon",
+    "url": "https://github.com/Tib3rius/AutoRecon",
+    "description": "AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.",
+    "language": "Python",
+    "star": "150"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "A sandbox tower defense game",
+    "language": "Java",
+    "star": "169"
+  },
+  {
+    "title": "mhadidg/software-architecture-books",
+    "url": "https://github.com/mhadidg/software-architecture-books",
+    "description": "A comprehensive list of books on Software Architecture.",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "prometheus/alertmanager",
+    "url": "https://github.com/prometheus/alertmanager",
+    "description": "Prometheus Alertmanager",
+    "language": "Go",
+    "star": "13"
+  },
+  {
+    "title": "bytebase/bytebase",
+    "url": "https://github.com/bytebase/bytebase",
+    "description": "Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com",
+    "language": "Vue",
+    "star": "60"
+  },
+  {
+    "title": "AlexandreRouma/SDRPlusPlus",
+    "url": "https://github.com/AlexandreRouma/SDRPlusPlus",
+    "description": "Cross-Platform SDR Software",
+    "language": "C++",
+    "star": "34"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "496"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "description": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "language": "Vue",
+    "star": "91"
+  }
+]
