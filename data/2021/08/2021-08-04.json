@@ -11,14 +11,14 @@
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "C++",
-    "star": "225"
+    "star": "211"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "632"
+    "star": "601"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -53,7 +53,7 @@
     "url": "https://github.com/reviewdog/reviewdog",
     "description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
     "language": "Go",
-    "star": "111"
+    "star": "132"
   },
   {
     "title": "0x727/ShuiZe_0x727",
@@ -67,14 +67,14 @@
     "url": "https://github.com/tokio-rs/axum",
     "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
     "language": "Rust",
-    "star": "163"
+    "star": "153"
   },
   {
     "title": "krishnaik06/Python-Practise-Problems",
     "url": "https://github.com/krishnaik06/Python-Practise-Problems",
     "description": "",
     "language": "none",
-    "star": "31"
+    "star": "30"
   },
   {
     "title": "chuzhixin/vue-admin-beautiful-pro",
@@ -88,7 +88,7 @@
     "url": "https://github.com/MunGell/awesome-for-beginners",
     "description": "A list of awesome beginners-friendly projects.",
     "language": "none",
-    "star": "182"
+    "star": "170"
   },
   {
     "title": "prometheus/alertmanager",
@@ -102,7 +102,7 @@
     "url": "https://github.com/freqtrade/freqtrade",
     "description": "Free, open source crypto trading bot",
     "language": "Python",
-    "star": "69"
+    "star": "86"
   },
   {
     "title": "gin-gonic/gin",
@@ -144,21 +144,21 @@
     "url": "https://github.com/open-mmlab/mmcv",
     "description": "OpenMMLab Computer Vision Foundation",
     "language": "Python",
-    "star": "6"
+    "star": "20"
   },
   {
     "title": "Azure/azure-sdk-for-net",
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "C#",
-    "star": "36"
+    "star": "40"
   },
   {
     "title": "Hiroshiba/voicevox",
     "url": "https://github.com/Hiroshiba/voicevox",
     "description": "",
     "language": "TypeScript",
-    "star": "66"
+    "star": "57"
   },
   {
     "title": "akullpp/awesome-java",
@@ -172,6 +172,6 @@
     "url": "https://github.com/GhostPack/Rubeus",
     "description": "Trying to tame the three-headed dog.",
     "language": "C#",
-    "star": "41"
+    "star": "40"
   }
 ]
