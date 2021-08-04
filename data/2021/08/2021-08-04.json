@@ -1,0 +1,177 @@
+[
+  {
+    "title": "sysprog21/lkmpg",
+    "url": "https://github.com/sysprog21/lkmpg",
+    "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
+    "language": "TeX",
+    "star": "424"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "language": "C++",
+    "star": "225"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "632"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "146"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "299"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "38"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix",
+    "description": "A collection of modern/faster/saner alternatives to common unix commands.",
+    "language": "none",
+    "star": "383"
+  },
+  {
+    "title": "reviewdog/reviewdog",
+    "url": "https://github.com/reviewdog/reviewdog",
+    "description": "🐶 Automated code review tool integrated with any code analysis tools regardless of programming language",
+    "language": "Go",
+    "star": "111"
+  },
+  {
+    "title": "0x727/ShuiZe_0x727",
+    "url": "https://github.com/0x727/ShuiZe_0x727",
+    "description": "信息收集自动化工具",
+    "language": "Python",
+    "star": "90"
+  },
+  {
+    "title": "tokio-rs/axum",
+    "url": "https://github.com/tokio-rs/axum",
+    "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "language": "Rust",
+    "star": "163"
+  },
+  {
+    "title": "krishnaik06/Python-Practise-Problems",
+    "url": "https://github.com/krishnaik06/Python-Practise-Problems",
+    "description": "",
+    "language": "none",
+    "star": "31"
+  },
+  {
+    "title": "chuzhixin/vue-admin-beautiful-pro",
+    "url": "https://github.com/chuzhixin/vue-admin-beautiful-pro",
+    "description": "🚀🚀🚀vue3,vue3.0,vue,vue3.x,vue.js,vue后台管理,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三者并行开发维护，同时支持电脑，手机，平板，切换分支查看不同的vue版本，element-plus版本已发布(vue3,vue3.0,vue,vue3.x,vue.js)程序无国界，但程序员有国界，中国国家尊严不容挑衅，如果您在特殊时期继续购买HM、耐克、阿迪达斯等品牌那么您将无权继续使用Vab",
+    "language": "Vue",
+    "star": "19"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "description": "A list of awesome beginners-friendly projects.",
+    "language": "none",
+    "star": "182"
+  },
+  {
+    "title": "prometheus/alertmanager",
+    "url": "https://github.com/prometheus/alertmanager",
+    "description": "Prometheus Alertmanager",
+    "language": "Go",
+    "star": "79"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot",
+    "language": "Python",
+    "star": "69"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "language": "Go",
+    "star": "55"
+  },
+  {
+    "title": "SheetJS/sheetjs",
+    "url": "https://github.com/SheetJS/sheetjs",
+    "description": "📗 SheetJS Community Edition -- Spreadsheet Data Toolkit",
+    "language": "JavaScript",
+    "star": "87"
+  },
+  {
+    "title": "toniblyx/prowler",
+    "url": "https://github.com/toniblyx/prowler",
+    "description": "Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains all CIS controls listed here https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf and more than 100 additional checks that help on GDPR, HIPAA…",
+    "language": "Shell",
+    "star": "20"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "11"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "description": "Generic Signature Format for SIEM Systems",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "open-mmlab/mmcv",
+    "url": "https://github.com/open-mmlab/mmcv",
+    "description": "OpenMMLab Computer Vision Foundation",
+    "language": "Python",
+    "star": "6"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "language": "C#",
+    "star": "36"
+  },
+  {
+    "title": "Hiroshiba/voicevox",
+    "url": "https://github.com/Hiroshiba/voicevox",
+    "description": "",
+    "language": "TypeScript",
+    "star": "66"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "description": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+    "language": "none",
+    "star": "42"
+  },
+  {
+    "title": "GhostPack/Rubeus",
+    "url": "https://github.com/GhostPack/Rubeus",
+    "description": "Trying to tame the three-headed dog.",
+    "language": "C#",
+    "star": "41"
+  }
+]
