@@ -4,49 +4,49 @@
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "C++",
-    "star": "321"
+    "star": "333"
   },
   {
     "title": "Azure/azure-sdk-for-net",
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "C#",
-    "star": "105"
+    "star": "106"
   },
   {
     "title": "bytedance/Fastbot_iOS",
     "url": "https://github.com/bytedance/Fastbot_iOS",
     "description": "About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems",
     "language": "Objective-C",
-    "star": "34"
+    "star": "36"
   },
   {
     "title": "clouDr-f2e/rubick",
     "url": "https://github.com/clouDr-f2e/rubick",
     "description": "🔧 基于 electron 的开源工具箱，自由集成丰富插件。",
     "language": "JavaScript",
-    "star": "112"
+    "star": "113"
   },
   {
     "title": "MoienTajik/AspNetCore-Developer-Roadmap",
     "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
     "description": "Roadmap to becoming an ASP.NET Core developer in 2021",
     "language": "none",
-    "star": "155"
+    "star": "157"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "488"
+    "star": "504"
   },
   {
     "title": "apache/pinot",
     "url": "https://github.com/apache/pinot",
     "description": "Apache Pinot (Incubating) - A realtime distributed OLAP datastore",
     "language": "Java",
-    "star": "58"
+    "star": "60"
   },
   {
     "title": "SigmaHQ/sigma",
@@ -60,7 +60,7 @@
     "url": "https://github.com/ibraheemdev/modern-unix",
     "description": "A collection of modern/faster/saner alternatives to common unix commands.",
     "language": "none",
-    "star": "374"
+    "star": "376"
   },
   {
     "title": "klezVirus/inceptor",
@@ -81,35 +81,35 @@
     "url": "https://github.com/mytechnotalent/Reverse-Engineering",
     "description": "A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
     "language": "C",
-    "star": "173"
+    "star": "179"
   },
   {
     "title": "sysprog21/lkmpg",
     "url": "https://github.com/sysprog21/lkmpg",
     "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
     "language": "TeX",
-    "star": "419"
+    "star": "425"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "105"
+    "star": "109"
   },
   {
     "title": "RasaHQ/rasa",
     "url": "https://github.com/RasaHQ/rasa",
     "description": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
     "language": "Python",
-    "star": "110"
+    "star": "113"
   },
   {
     "title": "geekxh/hello-algorithm",
     "url": "https://github.com/geekxh/hello-algorithm",
     "description": "🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）",
     "language": "Java",
-    "star": "87"
+    "star": "90"
   },
   {
     "title": "terraform-aws-modules/terraform-aws-eks",
@@ -123,7 +123,7 @@
     "url": "https://github.com/riscv2os/riscv2os",
     "description": "從 RISC-V 處理器到 UNIX 作業系統",
     "language": "none",
-    "star": "29"
+    "star": "32"
   },
   {
     "title": "0x727/ShuiZe_0x727",
@@ -137,7 +137,7 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "74"
+    "star": "76"
   },
   {
     "title": "vlang/v",
@@ -151,27 +151,27 @@
     "url": "https://github.com/MunGell/awesome-for-beginners",
     "description": "A list of awesome beginners-friendly projects.",
     "language": "none",
-    "star": "153"
+    "star": "158"
   },
   {
     "title": "doocs/jvm",
     "url": "https://github.com/doocs/jvm",
     "description": "🤗 JVM 底层原理最全知识总结",
     "language": "Java",
-    "star": "74"
+    "star": "75"
   },
   {
     "title": "JetBrains/compose-jb",
     "url": "https://github.com/JetBrains/compose-jb",
     "description": "Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
     "language": "Kotlin",
-    "star": "116"
+    "star": "123"
   },
   {
     "title": "eugenp/tutorials",
     "url": "https://github.com/eugenp/tutorials",
     "description": "Just Announced - \"Learn Spring Security OAuth\":",
     "language": "Java",
-    "star": "51"
+    "star": "52"
   }
 ]
