@@ -11,14 +11,14 @@
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "C#",
-    "star": "108"
+    "star": "107"
   },
   {
     "title": "bytedance/Fastbot_iOS",
     "url": "https://github.com/bytedance/Fastbot_iOS",
     "description": "About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems",
     "language": "Objective-C",
-    "star": "31"
+    "star": "33"
   },
   {
     "title": "clouDr-f2e/rubick",
@@ -32,7 +32,7 @@
     "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
     "description": "Roadmap to becoming an ASP.NET Core developer in 2021",
     "language": "none",
-    "star": "135"
+    "star": "156"
   },
   {
     "title": "microsoft/ML-For-Beginners",
@@ -46,14 +46,14 @@
     "url": "https://github.com/apache/pinot",
     "description": "Apache Pinot (Incubating) - A realtime distributed OLAP datastore",
     "language": "Java",
-    "star": "26"
+    "star": "56"
   },
   {
     "title": "SigmaHQ/sigma",
     "url": "https://github.com/SigmaHQ/sigma",
     "description": "Generic Signature Format for SIEM Systems",
     "language": "Python",
-    "star": "64"
+    "star": "65"
   },
   {
     "title": "ibraheemdev/modern-unix",
@@ -95,7 +95,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "103"
+    "star": "107"
   },
   {
     "title": "RasaHQ/rasa",
@@ -109,7 +109,7 @@
     "url": "https://github.com/geekxh/hello-algorithm",
     "description": "🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）",
     "language": "Java",
-    "star": "77"
+    "star": "84"
   },
   {
     "title": "terraform-aws-modules/terraform-aws-eks",
@@ -151,7 +151,7 @@
     "url": "https://github.com/MunGell/awesome-for-beginners",
     "description": "A list of awesome beginners-friendly projects.",
     "language": "none",
-    "star": "133"
+    "star": "156"
   },
   {
     "title": "doocs/jvm",
@@ -172,6 +172,6 @@
     "url": "https://github.com/eugenp/tutorials",
     "description": "Just Announced - \"Learn Spring Security OAuth\":",
     "language": "Java",
-    "star": "27"
+    "star": "49"
   }
 ]
