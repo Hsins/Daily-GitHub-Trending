@@ -4,7 +4,7 @@
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "C#",
-    "star": "140"
+    "star": "141"
   },
   {
     "title": "microsoft/vscode",
@@ -18,7 +18,7 @@
     "url": "https://github.com/apache/pinot",
     "description": "Apache Pinot (Incubating) - A realtime distributed OLAP datastore",
     "language": "Java",
-    "star": "134"
+    "star": "149"
   },
   {
     "title": "tannerlinsley/react-query",
@@ -67,7 +67,7 @@
     "url": "https://github.com/kubernetes/kompose",
     "description": "Go from Docker Compose to Kubernetes",
     "language": "Go",
-    "star": "61"
+    "star": "82"
   },
   {
     "title": "0voice/linux_kernel_wiki",
@@ -81,14 +81,14 @@
     "url": "https://github.com/JetBrains/compose-jb",
     "description": "Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
     "language": "Kotlin",
-    "star": "377"
+    "star": "381"
   },
   {
     "title": "alyssaxuu/mapus",
     "url": "https://github.com/alyssaxuu/mapus",
     "description": "A map tool with real-time collaboration 🗺️",
     "language": "JavaScript",
-    "star": "685"
+    "star": "686"
   },
   {
     "title": "prometheus/prometheus",
@@ -102,28 +102,28 @@
     "url": "https://github.com/mytechnotalent/Reverse-Engineering",
     "description": "A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
     "language": "C",
-    "star": "261"
+    "star": "318"
   },
   {
     "title": "testjavascript/nodejs-integration-tests-best-practices",
     "url": "https://github.com/testjavascript/nodejs-integration-tests-best-practices",
     "description": "✅ Master the art of the most powerful testing technique for Node.js: Component tests. Including super-comprehensive best practices list and an example app (August 2021)",
     "language": "JavaScript",
-    "star": "326"
+    "star": "381"
   },
   {
     "title": "metabase/metabase",
     "url": "https://github.com/metabase/metabase",
     "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
     "language": "Clojure",
-    "star": "29"
+    "star": "42"
   },
   {
     "title": "Blinue/Magpie",
     "url": "https://github.com/Blinue/Magpie",
     "description": "使游戏窗口全屏显示",
     "language": "HLSL",
-    "star": "55"
+    "star": "72"
   },
   {
     "title": "dataease/dataease",
@@ -151,14 +151,14 @@
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "C++",
-    "star": "755"
+    "star": "754"
   },
   {
     "title": "eugenp/tutorials",
     "url": "https://github.com/eugenp/tutorials",
     "description": "Just Announced - \"Learn Spring Security OAuth\":",
     "language": "Java",
-    "star": "114"
+    "star": "121"
   },
   {
     "title": "RasaHQ/rasa",
