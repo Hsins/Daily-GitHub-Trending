@@ -1,0 +1,177 @@
+[
+  {
+    "title": "badtuxx/DescomplicandoDocker",
+    "url": "https://github.com/badtuxx/DescomplicandoDocker",
+    "description": "Descomplicando o Docker, o livro.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "RPCS3/rpcs3",
+    "url": "https://github.com/RPCS3/rpcs3",
+    "description": "PS3 emulator/debugger",
+    "language": "C++",
+    "star": "103"
+  },
+  {
+    "title": "badtuxx/DescomplicandoKubernetes",
+    "url": "https://github.com/badtuxx/DescomplicandoKubernetes",
+    "description": "",
+    "language": "Shell",
+    "star": "272"
+  },
+  {
+    "title": "nadimkobeissi/appleprivacyletter",
+    "url": "https://github.com/nadimkobeissi/appleprivacyletter",
+    "description": "An open letter against Apple's new privacy-invasive client-side content scanning.",
+    "language": "JavaScript",
+    "star": "287"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "language": "C#",
+    "star": "198"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "description": "Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "language": "Kotlin",
+    "star": "288"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "mrlt8/docker-wyze-bridge",
+    "url": "https://github.com/mrlt8/docker-wyze-bridge",
+    "description": "RTMP/RTSP/HLS bridge for Wyze cams in a docker container",
+    "language": "Python",
+    "star": "90"
+  },
+  {
+    "title": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "description": "Flax Engine – multi-platform 3D game engine",
+    "language": "C++",
+    "star": "54"
+  },
+  {
+    "title": "yuzu-emu/yuzu",
+    "url": "https://github.com/yuzu-emu/yuzu",
+    "description": "Nintendo Switch Emulator",
+    "language": "C++",
+    "star": "46"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "description": "Model parallel transformers in JAX and Haiku",
+    "language": "Python",
+    "star": "145"
+  },
+  {
+    "title": "datafuselabs/datafuse",
+    "url": "https://github.com/datafuselabs/datafuse",
+    "description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy",
+    "language": "Rust",
+    "star": "640"
+  },
+  {
+    "title": "kubernetes/kompose",
+    "url": "https://github.com/kubernetes/kompose",
+    "description": "Go from Docker Compose to Kubernetes",
+    "language": "Go",
+    "star": "182"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
+    "language": "C++",
+    "star": "63"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "yifeikong/reverse-interview-zh",
+    "url": "https://github.com/yifeikong/reverse-interview-zh",
+    "description": "技术面试最后反问面试官的话",
+    "language": "none",
+    "star": "419"
+  },
+  {
+    "title": "mszoek/airyx",
+    "url": "https://github.com/mszoek/airyx",
+    "description": "A BSD-based OS project that aims to provide an experience like and some compatibility with macOS",
+    "language": "Objective-C",
+    "star": "698"
+  },
+  {
+    "title": "VoronDesign/Voron-2",
+    "url": "https://github.com/VoronDesign/Voron-2",
+    "description": "Voron 2 CoreXY 3D Printer design",
+    "language": "none",
+    "star": "22"
+  },
+  {
+    "title": "microsoft/gctoolkit",
+    "url": "https://github.com/microsoft/gctoolkit",
+    "description": "Tool for parsing GC logs",
+    "language": "Java",
+    "star": "124"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 JavaScript concepts every developer should know.",
+    "language": "JavaScript",
+    "star": "188"
+  },
+  {
+    "title": "abbodi1406/KMS_VL_ALL_AIO",
+    "url": "https://github.com/abbodi1406/KMS_VL_ALL_AIO",
+    "description": "Smart Activation Script",
+    "language": "Batchfile",
+    "star": "47"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "395"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "star": "16"
+  },
+  {
+    "title": "trufflesuite/truffle",
+    "url": "https://github.com/trufflesuite/truffle",
+    "description": "A tool for developing smart contracts. Crafted with the finest cacaos.",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "codebasics/py",
+    "url": "https://github.com/codebasics/py",
+    "description": "Repository to store sample python programs for python learning",
+    "language": "Jupyter Notebook",
+    "star": "10"
+  }
+]
