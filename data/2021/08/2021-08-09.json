@@ -4,77 +4,77 @@
     "url": "https://github.com/microsoft/gctoolkit",
     "description": "Tool for parsing GC logs",
     "language": "Java",
-    "star": "143"
+    "star": "139"
   },
   {
     "title": "badtuxx/DescomplicandoDocker",
     "url": "https://github.com/badtuxx/DescomplicandoDocker",
     "description": "Descomplicando o Docker, o livro.",
     "language": "CSS",
-    "star": "274"
+    "star": "277"
   },
   {
     "title": "Chia-Network/chia-blockchain",
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "19"
+    "star": "29"
   },
   {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "66"
+    "star": "73"
   },
   {
     "title": "leonardomso/33-js-concepts",
     "url": "https://github.com/leonardomso/33-js-concepts",
     "description": "📜 33 JavaScript concepts every developer should know.",
     "language": "JavaScript",
-    "star": "193"
+    "star": "202"
   },
   {
     "title": "dogecoin/dogecoin",
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "33"
+    "star": "39"
   },
   {
     "title": "RPCS3/rpcs3",
     "url": "https://github.com/RPCS3/rpcs3",
     "description": "PS3 emulator/debugger",
     "language": "C++",
-    "star": "186"
+    "star": "185"
   },
   {
     "title": "nadimkobeissi/appleprivacyletter",
     "url": "https://github.com/nadimkobeissi/appleprivacyletter",
     "description": "An open letter against Apple's new privacy-invasive client-side content scanning.",
     "language": "JavaScript",
-    "star": "169"
+    "star": "167"
   },
   {
     "title": "ManimCommunity/manim",
     "url": "https://github.com/ManimCommunity/manim",
     "description": "A community-maintained Python framework for creating mathematical animations.",
     "language": "Python",
-    "star": "43"
+    "star": "62"
   },
   {
     "title": "codebasics/py",
     "url": "https://github.com/codebasics/py",
     "description": "Repository to store sample python programs for python learning",
     "language": "Jupyter Notebook",
-    "star": "161"
+    "star": "157"
   },
   {
     "title": "aria2/aria2",
     "url": "https://github.com/aria2/aria2",
     "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
     "language": "C++",
-    "star": "46"
+    "star": "49"
   },
   {
     "title": "KevinOConnor/klipper",
@@ -88,90 +88,90 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "221"
+    "star": "219"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "C++",
-    "star": "240"
+    "star": "236"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "101"
+    "star": "106"
   },
   {
     "title": "TrinityCore/TrinityCore",
     "url": "https://github.com/TrinityCore/TrinityCore",
     "description": "TrinityCore Open Source MMO Framework (master = 9.1.0.39653, 3.3.5 = 3.3.5a.12340)",
     "language": "C++",
-    "star": "16"
+    "star": "25"
   },
   {
     "title": "willmcgugan/textual",
     "url": "https://github.com/willmcgugan/textual",
     "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
     "language": "Python",
-    "star": "703"
+    "star": "707"
   },
   {
     "title": "timlrx/tailwind-nextjs-starter-blog",
     "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
     "description": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
     "language": "JavaScript",
-    "star": "56"
+    "star": "95"
   },
   {
     "title": "kingoflolz/mesh-transformer-jax",
     "url": "https://github.com/kingoflolz/mesh-transformer-jax",
     "description": "Model parallel transformers in JAX and Haiku",
     "language": "Python",
-    "star": "78"
+    "star": "76"
   },
   {
     "title": "No-Github/1earn",
     "url": "https://github.com/No-Github/1earn",
     "description": "个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup",
     "language": "C++",
-    "star": "98"
+    "star": "100"
   },
   {
     "title": "VoronDesign/Voron-2",
     "url": "https://github.com/VoronDesign/Voron-2",
     "description": "Voron 2 CoreXY 3D Printer design",
     "language": "none",
-    "star": "104"
+    "star": "98"
   },
   {
     "title": "FlaxEngine/FlaxEngine",
     "url": "https://github.com/FlaxEngine/FlaxEngine",
     "description": "Flax Engine – multi-platform 3D game engine",
     "language": "C++",
-    "star": "197"
+    "star": "194"
   },
   {
     "title": "yuzu-emu/yuzu",
     "url": "https://github.com/yuzu-emu/yuzu",
     "description": "Nintendo Switch Emulator",
     "language": "C++",
-    "star": "276"
+    "star": "270"
   },
   {
     "title": "hora-search/hora",
     "url": "https://github.com/hora-search/hora",
     "description": "🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .",
     "language": "Rust",
-    "star": "229"
+    "star": "238"
   },
   {
     "title": "iterativv/NostalgiaForInfinity",
     "url": "https://github.com/iterativv/NostalgiaForInfinity",
     "description": "Trading strategy for the Freqtrade crypto bot",
     "language": "Python",
-    "star": "11"
+    "star": "18"
   }
 ]
