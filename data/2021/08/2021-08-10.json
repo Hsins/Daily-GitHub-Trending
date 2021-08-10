@@ -4,21 +4,21 @@
     "url": "https://github.com/microsoft/gctoolkit",
     "description": "Tool for parsing GC logs",
     "language": "Java",
-    "star": "188"
+    "star": "146"
   },
   {
     "title": "willmcgugan/textual",
     "url": "https://github.com/willmcgugan/textual",
     "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
     "language": "Python",
-    "star": "638"
+    "star": "649"
   },
   {
     "title": "trufflesuite/truffle",
     "url": "https://github.com/trufflesuite/truffle",
     "description": "A tool for developing smart contracts. Crafted with the finest cacaos.",
     "language": "JavaScript",
-    "star": "10"
+    "star": "9"
   },
   {
     "title": "yifeikong/reverse-interview-zh",
@@ -32,7 +32,7 @@
     "url": "https://github.com/codebasics/py",
     "description": "Repository to store sample python programs for python learning",
     "language": "Jupyter Notebook",
-    "star": "149"
+    "star": "141"
   },
   {
     "title": "expo/expo",
@@ -46,14 +46,14 @@
     "url": "https://github.com/hora-search/hora",
     "description": "🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .",
     "language": "Rust",
-    "star": "338"
+    "star": "322"
   },
   {
     "title": "RPCS3/rpcs3",
     "url": "https://github.com/RPCS3/rpcs3",
     "description": "PS3 emulator/debugger",
     "language": "C++",
-    "star": "167"
+    "star": "169"
   },
   {
     "title": "sharkdp/fd",
@@ -67,14 +67,14 @@
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "75"
+    "star": "74"
   },
   {
     "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
     "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
     "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
     "language": "Python",
-    "star": "58"
+    "star": "56"
   },
   {
     "title": "brettwooldridge/HikariCP",
@@ -88,7 +88,7 @@
     "url": "https://github.com/sdushantha/snaprecovery",
     "description": "Recover old Snaps that have “disappeared” from Snapchat",
     "language": "Shell",
-    "star": "99"
+    "star": "98"
   },
   {
     "title": "PeterWang512/GANSketching",
@@ -102,14 +102,14 @@
     "url": "https://github.com/arendst/Tasmota",
     "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
     "language": "C",
-    "star": "24"
+    "star": "8"
   },
   {
     "title": "fholger/openvr_fsr",
     "url": "https://github.com/fholger/openvr_fsr",
     "description": "Add FidelityFX SuperResolution to SteamVR games",
     "language": "C++",
-    "star": "55"
+    "star": "53"
   },
   {
     "title": "Aircoin-official/AirCash",
@@ -123,7 +123,7 @@
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "99"
+    "star": "98"
   },
   {
     "title": "kubernetes/kubernetes",
@@ -137,7 +137,7 @@
     "url": "https://github.com/kingoflolz/mesh-transformer-jax",
     "description": "Model parallel transformers in JAX and Haiku",
     "language": "Python",
-    "star": "80"
+    "star": "79"
   },
   {
     "title": "uzh-rpg/rpg_timelens",
@@ -151,7 +151,7 @@
     "url": "https://github.com/badtuxx/DescomplicandoDocker",
     "description": "Descomplicando o Docker, o livro.",
     "language": "CSS",
-    "star": "282"
+    "star": "287"
   },
   {
     "title": "tmrts/go-patterns",
@@ -165,7 +165,7 @@
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "148"
+    "star": "142"
   },
   {
     "title": "trekhleb/javascript-algorithms",
