@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/gctoolkit",
+    "url": "https://github.com/microsoft/gctoolkit",
+    "description": "Tool for parsing GC logs",
+    "language": "Java",
+    "star": "188"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "638"
+  },
+  {
+    "title": "trufflesuite/truffle",
+    "url": "https://github.com/trufflesuite/truffle",
+    "description": "A tool for developing smart contracts. Crafted with the finest cacaos.",
+    "language": "JavaScript",
+    "star": "10"
+  },
+  {
+    "title": "yifeikong/reverse-interview-zh",
+    "url": "https://github.com/yifeikong/reverse-interview-zh",
+    "description": "技术面试最后反问面试官的话",
+    "language": "none",
+    "star": "99"
+  },
+  {
+    "title": "codebasics/py",
+    "url": "https://github.com/codebasics/py",
+    "description": "Repository to store sample python programs for python learning",
+    "language": "Jupyter Notebook",
+    "star": "149"
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "language": "Objective-C",
+    "star": "13"
+  },
+  {
+    "title": "hora-search/hora",
+    "url": "https://github.com/hora-search/hora",
+    "description": "🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .",
+    "language": "Rust",
+    "star": "338"
+  },
+  {
+    "title": "RPCS3/rpcs3",
+    "url": "https://github.com/RPCS3/rpcs3",
+    "description": "PS3 emulator/debugger",
+    "language": "C++",
+    "star": "167"
+  },
+  {
+    "title": "sharkdp/fd",
+    "url": "https://github.com/sharkdp/fd",
+    "description": "A simple, fast and user-friendly alternative to 'find'",
+    "language": "Rust",
+    "star": "36"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "75"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "language": "Python",
+    "star": "58"
+  },
+  {
+    "title": "brettwooldridge/HikariCP",
+    "url": "https://github.com/brettwooldridge/HikariCP",
+    "description": "光 HikariCP・A solid, high-performance, JDBC connection pool at last.",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "sdushantha/snaprecovery",
+    "url": "https://github.com/sdushantha/snaprecovery",
+    "description": "Recover old Snaps that have “disappeared” from Snapchat",
+    "language": "Shell",
+    "star": "99"
+  },
+  {
+    "title": "PeterWang512/GANSketching",
+    "url": "https://github.com/PeterWang512/GANSketching",
+    "description": "Code for the paper: Sketch Your Own GAN https://peterwang512.github.io/GANSketching",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "star": "24"
+  },
+  {
+    "title": "fholger/openvr_fsr",
+    "url": "https://github.com/fholger/openvr_fsr",
+    "description": "Add FidelityFX SuperResolution to SteamVR games",
+    "language": "C++",
+    "star": "55"
+  },
+  {
+    "title": "Aircoin-official/AirCash",
+    "url": "https://github.com/Aircoin-official/AirCash",
+    "description": "Cash system for AIR.",
+    "language": "none",
+    "star": "70"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "99"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "description": "Production-Grade Container Scheduling and Management",
+    "language": "Go",
+    "star": "48"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "description": "Model parallel transformers in JAX and Haiku",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "uzh-rpg/rpg_timelens",
+    "url": "https://github.com/uzh-rpg/rpg_timelens",
+    "description": "Repository relating to the CVPR21 paper TimeLens: Event-based Video Frame Interpolation",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "badtuxx/DescomplicandoDocker",
+    "url": "https://github.com/badtuxx/DescomplicandoDocker",
+    "description": "Descomplicando o Docker, o livro.",
+    "language": "CSS",
+    "star": "282"
+  },
+  {
+    "title": "tmrts/go-patterns",
+    "url": "https://github.com/tmrts/go-patterns",
+    "description": "Curated list of Go design patterns, recipes and idioms",
+    "language": "Go",
+    "star": "29"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "148"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "146"
+  }
+]
