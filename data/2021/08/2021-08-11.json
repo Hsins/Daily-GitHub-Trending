@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/gctoolkit",
+    "url": "https://github.com/microsoft/gctoolkit",
+    "description": "Tool for parsing GC logs",
+    "language": "Java",
+    "star": "208"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "411"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "kingoflolz/mesh-transformer-jax",
+    "url": "https://github.com/kingoflolz/mesh-transformer-jax",
+    "description": "Model parallel transformers in JAX and Haiku",
+    "language": "Python",
+    "star": "89"
+  },
+  {
+    "title": "codebasics/py",
+    "url": "https://github.com/codebasics/py",
+    "description": "Repository to store sample python programs for python learning",
+    "language": "Jupyter Notebook",
+    "star": "192"
+  },
+  {
+    "title": "sniptt-official/ots",
+    "url": "https://github.com/sniptt-official/ots",
+    "description": "🔐 Share end-to-end encrypted secrets with others via a one-time URL",
+    "language": "Go",
+    "star": "227"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "236"
+  },
+  {
+    "title": "Aircoin-official/AirCash",
+    "url": "https://github.com/Aircoin-official/AirCash",
+    "description": "Cash system for AIR.",
+    "language": "none",
+    "star": "94"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "language": "Python",
+    "star": "147"
+  },
+  {
+    "title": "Letscoder/PlayCover",
+    "url": "https://github.com/Letscoder/PlayCover",
+    "description": "PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.",
+    "language": "Objective-C",
+    "star": "46"
+  },
+  {
+    "title": "No-Github/1earn",
+    "url": "https://github.com/No-Github/1earn",
+    "description": "个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "description": "🕵️‍♂️ Investigate Google emails and documents.",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "description": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "language": "C#",
+    "star": "43"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "description": "very currency",
+    "language": "C++",
+    "star": "14"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "93"
+  },
+  {
+    "title": "hora-search/hora",
+    "url": "https://github.com/hora-search/hora",
+    "description": "🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .",
+    "language": "Rust",
+    "star": "424"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A secure JavaScript and TypeScript runtime",
+    "language": "Rust",
+    "star": "35"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "17"
+  },
+  {
+    "title": "raspberrypi/documentation",
+    "url": "https://github.com/raspberrypi/documentation",
+    "description": "The official documentation for Raspberry Pi computers and microcontrollers",
+    "language": "HTML",
+    "star": "14"
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "language": "TypeScript",
+    "star": "44"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.",
+    "language": "Python",
+    "star": "53"
+  },
+  {
+    "title": "slundberg/shap",
+    "url": "https://github.com/slundberg/shap",
+    "description": "A game theoretic approach to explain the output of any machine learning model.",
+    "language": "Jupyter Notebook",
+    "star": "19"
+  },
+  {
+    "title": "artf/grapesjs",
+    "url": "https://github.com/artf/grapesjs",
+    "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+    "language": "JavaScript",
+    "star": "27"
+  },
+  {
+    "title": "github/super-linter",
+    "url": "https://github.com/github/super-linter",
+    "description": "Combination of multiple linters to install as a GitHub Action",
+    "language": "Shell",
+    "star": "9"
+  },
+  {
+    "title": "SortableJS/Vue.Draggable",
+    "url": "https://github.com/SortableJS/Vue.Draggable",
+    "description": "Vue drag-and-drop component based on Sortable.js",
+    "language": "JavaScript",
+    "star": "15"
+  }
+]
