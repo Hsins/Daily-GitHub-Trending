@@ -1,0 +1,177 @@
+[
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "50"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "587"
+  },
+  {
+    "title": "netless-io/flat",
+    "url": "https://github.com/netless-io/flat",
+    "description": "Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.",
+    "language": "TypeScript",
+    "star": "155"
+  },
+  {
+    "title": "Aircoin-official/AirCash",
+    "url": "https://github.com/Aircoin-official/AirCash",
+    "description": "Cash system for AIR.",
+    "language": "none",
+    "star": "245"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "language": "Python",
+    "star": "241"
+  },
+  {
+    "title": "input-output-hk/essential-cardano",
+    "url": "https://github.com/input-output-hk/essential-cardano",
+    "description": "Repository for the Essential Cardano list",
+    "language": "none",
+    "star": "9"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Java",
+    "star": "64"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "description": "A repository to index and organize the latest machine learning courses found on YouTube.",
+    "language": "none",
+    "star": "61"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "language": "Python",
+    "star": "242"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "star": "37"
+  },
+  {
+    "title": "microsoft/gctoolkit",
+    "url": "https://github.com/microsoft/gctoolkit",
+    "description": "Tool for parsing GC logs",
+    "language": "Java",
+    "star": "144"
+  },
+  {
+    "title": "Huage001/PaintTransformer",
+    "url": "https://github.com/Huage001/PaintTransformer",
+    "description": "Homepage of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.",
+    "language": "none",
+    "star": "35"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.",
+    "language": "Python",
+    "star": "204"
+  },
+  {
+    "title": "xxlllq/system_architect",
+    "url": "https://github.com/xxlllq/system_architect",
+    "description": "💯高质量、最全面、完全免费的系统架构设计师（软考高级）备考资源库。QQ群：系统架构设计师（④群：910582038），系统分析师（②群：699260558），信息系统项目管理师（217144315），纯备考群，非培训群。",
+    "language": "HTML",
+    "star": "7"
+  },
+  {
+    "title": "juju2013/MPFA",
+    "url": "https://github.com/juju2013/MPFA",
+    "description": "Make your Pass (sanitaire) Fun Again",
+    "language": "Python",
+    "star": "8"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "412"
+  },
+  {
+    "title": "tmrts/go-patterns",
+    "url": "https://github.com/tmrts/go-patterns",
+    "description": "Curated list of Go design patterns, recipes and idioms",
+    "language": "Go",
+    "star": "49"
+  },
+  {
+    "title": "sniptt-official/ots",
+    "url": "https://github.com/sniptt-official/ots",
+    "description": "🔐 Share end-to-end encrypted secrets with others via a one-time URL",
+    "language": "Go",
+    "star": "354"
+  },
+  {
+    "title": "microsoft/IoT-For-Beginners",
+    "url": "https://github.com/microsoft/IoT-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, IoT for All!",
+    "language": "C++",
+    "star": "54"
+  },
+  {
+    "title": "Letscoder/PlayCover",
+    "url": "https://github.com/Letscoder/PlayCover",
+    "description": "PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.",
+    "language": "Objective-C",
+    "star": "96"
+  },
+  {
+    "title": "hora-search/hora",
+    "url": "https://github.com/hora-search/hora",
+    "description": "🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .",
+    "language": "Rust",
+    "star": "275"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "125"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "star": "46"
+  },
+  {
+    "title": "MintCN/linux-insides-zh",
+    "url": "https://github.com/MintCN/linux-insides-zh",
+    "description": "Linux 内核揭秘",
+    "language": "none",
+    "star": "21"
+  }
+]
