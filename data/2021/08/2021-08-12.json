@@ -4,35 +4,35 @@
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "50"
+    "star": "48"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "587"
+    "star": "582"
   },
   {
     "title": "netless-io/flat",
     "url": "https://github.com/netless-io/flat",
     "description": "Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.",
     "language": "TypeScript",
-    "star": "155"
+    "star": "144"
   },
   {
     "title": "Aircoin-official/AirCash",
     "url": "https://github.com/Aircoin-official/AirCash",
     "description": "Cash system for AIR.",
     "language": "none",
-    "star": "245"
+    "star": "244"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
     "language": "Python",
-    "star": "241"
+    "star": "190"
   },
   {
     "title": "input-output-hk/essential-cardano",
@@ -46,7 +46,7 @@
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
     "language": "Java",
-    "star": "64"
+    "star": "61"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
@@ -60,7 +60,7 @@
     "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
     "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
     "language": "Python",
-    "star": "242"
+    "star": "232"
   },
   {
     "title": "strapi/strapi",
@@ -74,21 +74,21 @@
     "url": "https://github.com/microsoft/gctoolkit",
     "description": "Tool for parsing GC logs",
     "language": "Java",
-    "star": "144"
+    "star": "156"
   },
   {
     "title": "Huage001/PaintTransformer",
     "url": "https://github.com/Huage001/PaintTransformer",
     "description": "Homepage of paper: Paint Transformer: Feed Forward Neural Painting with Stroke Prediction, ICCV 2021.",
     "language": "none",
-    "star": "35"
+    "star": "34"
   },
   {
     "title": "huggingface/transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "🤗 Transformers: State-of-the-art Natural Language Processing for Pytorch, TensorFlow, and JAX.",
     "language": "Python",
-    "star": "204"
+    "star": "203"
   },
   {
     "title": "xxlllq/system_architect",
@@ -109,21 +109,21 @@
     "url": "https://github.com/willmcgugan/textual",
     "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
     "language": "Python",
-    "star": "412"
+    "star": "409"
   },
   {
     "title": "tmrts/go-patterns",
     "url": "https://github.com/tmrts/go-patterns",
     "description": "Curated list of Go design patterns, recipes and idioms",
     "language": "Go",
-    "star": "49"
+    "star": "43"
   },
   {
     "title": "sniptt-official/ots",
     "url": "https://github.com/sniptt-official/ots",
     "description": "🔐 Share end-to-end encrypted secrets with others via a one-time URL",
     "language": "Go",
-    "star": "354"
+    "star": "358"
   },
   {
     "title": "microsoft/IoT-For-Beginners",
@@ -137,14 +137,14 @@
     "url": "https://github.com/Letscoder/PlayCover",
     "description": "PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.",
     "language": "Objective-C",
-    "star": "96"
+    "star": "93"
   },
   {
     "title": "hora-search/hora",
     "url": "https://github.com/hora-search/hora",
     "description": "🚀 efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 .",
     "language": "Rust",
-    "star": "275"
+    "star": "278"
   },
   {
     "title": "localstack/localstack",
@@ -172,6 +172,6 @@
     "url": "https://github.com/MintCN/linux-insides-zh",
     "description": "Linux 内核揭秘",
     "language": "none",
-    "star": "21"
+    "star": "20"
   }
 ]
