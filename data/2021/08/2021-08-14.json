@@ -4,147 +4,147 @@
     "url": "https://github.com/Letscoder/PlayCover",
     "description": "PlayCover is a project that allows you to sideload iOS apps on macOS( currently arm, Intel support will be tested.",
     "language": "Objective-C",
-    "star": "382"
+    "star": "390"
   },
   {
     "title": "LingDong-/fishdraw",
     "url": "https://github.com/LingDong-/fishdraw",
     "description": "procedurally generated fish drawings",
     "language": "JavaScript",
-    "star": "282"
+    "star": "257"
   },
   {
     "title": "bytedance/bhook",
     "url": "https://github.com/bytedance/bhook",
     "description": "🔥 bhook is a PLT hook framework for Android app.",
     "language": "C",
-    "star": "57"
+    "star": "61"
   },
   {
     "title": "unit8co/darts",
     "url": "https://github.com/unit8co/darts",
     "description": "A python library for easy manipulation and forecasting of time series.",
     "language": "Python",
-    "star": "419"
+    "star": "396"
   },
   {
     "title": "jlongster/absurd-sql",
     "url": "https://github.com/jlongster/absurd-sql",
     "description": "sqlite3 in ur indexeddb (hopefully a better backend soon)",
     "language": "JavaScript",
-    "star": "994"
+    "star": "1"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "45"
+    "star": "42"
   },
   {
     "title": "tharsis/ethermint",
     "url": "https://github.com/tharsis/ethermint",
     "description": "Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.",
     "language": "JavaScript",
-    "star": "534"
+    "star": "609"
   },
   {
     "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
     "language": "Java",
-    "star": "356"
+    "star": "314"
   },
   {
     "title": "localstack/localstack",
     "url": "https://github.com/localstack/localstack",
     "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
     "language": "Python",
-    "star": "508"
+    "star": "970"
   },
   {
     "title": "emilk/egui",
     "url": "https://github.com/emilk/egui",
     "description": "egui: an easy-to-use immediate mode GUI in pure Rust",
     "language": "Rust",
-    "star": "520"
+    "star": "544"
   },
   {
     "title": "tmrts/go-patterns",
     "url": "https://github.com/tmrts/go-patterns",
     "description": "Curated list of Go design patterns, recipes and idioms",
     "language": "Go",
-    "star": "198"
+    "star": "151"
   },
   {
     "title": "mike1k/VMPImportFixer",
     "url": "https://github.com/mike1k/VMPImportFixer",
     "description": "Fix VMProtect Import Protection",
     "language": "C++",
-    "star": "55"
+    "star": "45"
   },
   {
     "title": "ossf/allstar",
     "url": "https://github.com/ossf/allstar",
     "description": "GitHub App to set and enforce security policies",
     "language": "Go",
-    "star": "114"
+    "star": "152"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "761"
+    "star": "661"
   },
   {
     "title": "strapi/strapi",
     "url": "https://github.com/strapi/strapi",
     "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
     "language": "JavaScript",
-    "star": "350"
+    "star": "288"
   },
   {
     "title": "securego/gosec",
     "url": "https://github.com/securego/gosec",
     "description": "Golang security checker",
     "language": "Go",
-    "star": "99"
+    "star": "119"
   },
   {
     "title": "swc-project/swc",
     "url": "https://github.com/swc-project/swc",
     "description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.",
     "language": "TypeScript",
-    "star": "351"
+    "star": "332"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "95"
+    "star": "144"
   },
   {
     "title": "tensorflow/tensorflow",
     "url": "https://github.com/tensorflow/tensorflow",
     "description": "An Open Source Machine Learning Framework for Everyone",
     "language": "C++",
-    "star": "130"
+    "star": "156"
   },
   {
     "title": "0xAX/linux-insides",
     "url": "https://github.com/0xAX/linux-insides",
     "description": "A little bit about a linux kernel",
     "language": "Python",
-    "star": "32"
+    "star": "49"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "243"
+    "star": "376"
   },
   {
     "title": "xxlllq/system_architect",
@@ -158,20 +158,20 @@
     "url": "https://github.com/rg3dengine/rg3d",
     "description": "3D and 2D game engine written in Rust",
     "language": "Rust",
-    "star": "81"
+    "star": "99"
   },
   {
     "title": "airbnb/javascript",
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "124"
+    "star": "113"
   },
   {
     "title": "mrthetkhine/PythonFreeCourse",
     "url": "https://github.com/mrthetkhine/PythonFreeCourse",
     "description": "Code for Python Course",
     "language": "Python",
-    "star": "16"
+    "star": "15"
   }
 ]
