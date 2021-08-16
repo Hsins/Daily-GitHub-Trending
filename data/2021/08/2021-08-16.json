@@ -4,7 +4,7 @@
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "223"
+    "star": "205"
   },
   {
     "title": "NvChad/NvChad",
@@ -39,14 +39,14 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "620"
+    "star": "569"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "182"
+    "star": "256"
   },
   {
     "title": "termux/termux-packages",
@@ -102,7 +102,7 @@
     "url": "https://github.com/tharsis/ethermint",
     "description": "Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.",
     "language": "JavaScript",
-    "star": "239"
+    "star": "240"
   },
   {
     "title": "MhankBarBar/whatsapp-bot",
@@ -116,7 +116,7 @@
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "84"
+    "star": "100"
   },
   {
     "title": "Morganamilo/paru",
