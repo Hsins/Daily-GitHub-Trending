@@ -4,7 +4,7 @@
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "205"
+    "star": "202"
   },
   {
     "title": "NvChad/NvChad",
@@ -39,14 +39,14 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "569"
+    "star": "607"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "256"
+    "star": "182"
   },
   {
     "title": "termux/termux-packages",
@@ -95,14 +95,14 @@
     "url": "https://github.com/e-maxx-eng/e-maxx-eng",
     "description": "Translation of http://e-maxx.ru into English",
     "language": "C++",
-    "star": "14"
+    "star": "29"
   },
   {
     "title": "tharsis/ethermint",
     "url": "https://github.com/tharsis/ethermint",
     "description": "Ethermint is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality using the Cosmos SDK.",
     "language": "JavaScript",
-    "star": "240"
+    "star": "233"
   },
   {
     "title": "MhankBarBar/whatsapp-bot",
@@ -116,7 +116,7 @@
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "100"
+    "star": "87"
   },
   {
     "title": "Morganamilo/paru",
@@ -158,14 +158,14 @@
     "url": "https://github.com/pancakeswap/pancake-frontend",
     "description": "🥞 Pancake main features (farms, pools, IFO, lottery, profiles)",
     "language": "TypeScript",
-    "star": "2"
+    "star": "18"
   },
   {
     "title": "webtorrent/webtorrent",
     "url": "https://github.com/webtorrent/webtorrent",
     "description": "⚡️ Streaming torrent client for the web",
     "language": "JavaScript",
-    "star": "8"
+    "star": "45"
   },
   {
     "title": "Chatterino/chatterino2",
