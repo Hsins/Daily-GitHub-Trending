@@ -4,7 +4,7 @@
     "url": "https://github.com/NvChad/NvChad",
     "description": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
     "language": "Lua",
-    "star": "468"
+    "star": "480"
   },
   {
     "title": "dotnet/aspnetcore",
@@ -25,14 +25,14 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "169"
+    "star": "151"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "199"
+    "star": "203"
   },
   {
     "title": "LaravelDaily/laravel-tips",
@@ -46,21 +46,21 @@
     "url": "https://github.com/0voice/Introduction-to-Golang",
     "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
     "language": "none",
-    "star": "291"
+    "star": "285"
   },
   {
     "title": "alan2207/bulletproof-react",
     "url": "https://github.com/alan2207/bulletproof-react",
     "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "language": "TypeScript",
-    "star": "243"
+    "star": "237"
   },
   {
     "title": "frkngksl/Huan",
     "url": "https://github.com/frkngksl/Huan",
     "description": "Encrypted PE Loader Generator",
     "language": "C",
-    "star": "53"
+    "star": "50"
   },
   {
     "title": "Dairongpeng/algorithm-note",
@@ -109,7 +109,7 @@
     "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "191"
+    "star": "185"
   },
   {
     "title": "Koenkk/zigbee2mqtt",
@@ -123,14 +123,14 @@
     "url": "https://github.com/Qv2ray/Qv2ray",
     "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
     "language": "C++",
-    "star": "74"
+    "star": "73"
   },
   {
     "title": "GuidoBartoli/sherloq",
     "url": "https://github.com/GuidoBartoli/sherloq",
     "description": "An open-source digital image forensic toolset",
     "language": "Perl",
-    "star": "249"
+    "star": "252"
   },
   {
     "title": "kunal-kushwaha/DSA-Bootcamp-Java",
@@ -144,14 +144,14 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "234"
+    "star": "246"
   },
   {
     "title": "freqtrade/freqtrade",
     "url": "https://github.com/freqtrade/freqtrade",
     "description": "Free, open source crypto trading bot",
     "language": "Python",
-    "star": "59"
+    "star": "22"
   },
   {
     "title": "Alamofire/Alamofire",
