@@ -1,0 +1,177 @@
+[
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "description": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
+    "language": "Lua",
+    "star": "447"
+  },
+  {
+    "title": "spring-projects/spring-authorization-server",
+    "url": "https://github.com/spring-projects/spring-authorization-server",
+    "description": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
+    "language": "Java",
+    "star": "27"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "234"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "265"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "118"
+  },
+  {
+    "title": "samuelmarina/is-even",
+    "url": "https://github.com/samuelmarina/is-even",
+    "description": "Is a number even?",
+    "language": "none",
+    "star": "207"
+  },
+  {
+    "title": "0voice/Introduction-to-Golang",
+    "url": "https://github.com/0voice/Introduction-to-Golang",
+    "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
+    "language": "none",
+    "star": "379"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
+    "language": "C++",
+    "star": "100"
+  },
+  {
+    "title": "ms-jpq/coq_nvim",
+    "url": "https://github.com/ms-jpq/coq_nvim",
+    "description": "Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization.",
+    "language": "Python",
+    "star": "258"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "description": "🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠",
+    "language": "Jupyter Notebook",
+    "star": "234"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "star": "380"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "description": "Awesome tips for Laravel",
+    "language": "none",
+    "star": "118"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "star": "36"
+  },
+  {
+    "title": "joswha/Secure-Coding-Handbook",
+    "url": "https://github.com/joswha/Secure-Coding-Handbook",
+    "description": "Web Application Secure Coding Handbook resource.",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "star": "60"
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "description": "Google Research",
+    "language": "Jupyter Notebook",
+    "star": "24"
+  },
+  {
+    "title": "open-metadata/OpenMetadata",
+    "url": "https://github.com/open-metadata/OpenMetadata",
+    "description": "Open Standard for Metadata. A Single place to Discover, Collaborate and Get your data right.",
+    "language": "Java",
+    "star": "19"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "language": "JavaScript",
+    "star": "61"
+  },
+  {
+    "title": "Dairongpeng/algorithm-note",
+    "url": "https://github.com/Dairongpeng/algorithm-note",
+    "description": "该系列包括数组，链表，树，图，递归，DP，有序表等相关数据结构与算法的讲解及代码实现。",
+    "language": "Java",
+    "star": "87"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "354"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "88"
+  },
+  {
+    "title": "wuyouzhuguli/SpringAll",
+    "url": "https://github.com/wuyouzhuguli/SpringAll",
+    "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
+    "language": "Java",
+    "star": "15"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "25"
+  },
+  {
+    "title": "go-sql-driver/mysql",
+    "url": "https://github.com/go-sql-driver/mysql",
+    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "description": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "language": "Java",
+    "star": "55"
+  }
+]
