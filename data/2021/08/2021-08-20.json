@@ -4,21 +4,21 @@
     "url": "https://github.com/praetorian-inc/gokart",
     "description": "A static analysis tool for securing Go code",
     "language": "Go",
-    "star": "499"
+    "star": "500"
   },
   {
     "title": "AsuharietYgvar/AppleNeuralHash2ONNX",
     "url": "https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX",
     "description": "Convert Apple NeuralHash model for CSAM Detection to ONNX.",
     "language": "Python",
-    "star": "380"
+    "star": "382"
   },
   {
     "title": "babysor/Realtime-Voice-Clone-Chinese",
     "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "392"
+    "star": "396"
   },
   {
     "title": "spring-projects/spring-authorization-server",
@@ -32,21 +32,21 @@
     "url": "https://github.com/NvChad/NvChad",
     "description": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
     "language": "Lua",
-    "star": "727"
+    "star": "751"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "131"
+    "star": "139"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "220"
+    "star": "222"
   },
   {
     "title": "doocs/source-code-hunter",
@@ -67,7 +67,7 @@
     "url": "https://github.com/public-api-lists/public-api-lists",
     "description": "A collective list of free APIs for use in software and web development 🚀",
     "language": "Python",
-    "star": "194"
+    "star": "195"
   },
   {
     "title": "jonaslejon/malicious-pdf",
@@ -81,21 +81,21 @@
     "url": "https://github.com/YehLi/xmodaler",
     "description": "X-modaler is a versatile and high-performance codebase for cross-modal analytics.",
     "language": "Python",
-    "star": "98"
+    "star": "99"
   },
   {
     "title": "Qv2ray/Qv2ray",
     "url": "https://github.com/Qv2ray/Qv2ray",
     "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
     "language": "C++",
-    "star": "108"
+    "star": "112"
   },
   {
     "title": "0voice/Introduction-to-Golang",
     "url": "https://github.com/0voice/Introduction-to-Golang",
     "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
     "language": "none",
-    "star": "264"
+    "star": "269"
   },
   {
     "title": "reuven/oreilly-2021-q3-first-steps",
@@ -109,7 +109,7 @@
     "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
     "description": "🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠",
     "language": "Jupyter Notebook",
-    "star": "346"
+    "star": "350"
   },
   {
     "title": "cncf/mentoring",
@@ -123,14 +123,14 @@
     "url": "https://github.com/nlohmann/json",
     "description": "JSON for Modern C++",
     "language": "C++",
-    "star": "174"
+    "star": "197"
   },
   {
     "title": "lutzroeder/netron",
     "url": "https://github.com/lutzroeder/netron",
     "description": "Visualizer for neural network, deep learning, and machine learning models",
     "language": "JavaScript",
-    "star": "55"
+    "star": "65"
   },
   {
     "title": "sachaos/viddy",
@@ -165,7 +165,7 @@
     "url": "https://github.com/LaravelDaily/laravel-tips",
     "description": "Awesome tips for Laravel",
     "language": "none",
-    "star": "121"
+    "star": "124"
   },
   {
     "title": "go-sql-driver/mysql",
