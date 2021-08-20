@@ -1,0 +1,177 @@
+[
+  {
+    "title": "praetorian-inc/gokart",
+    "url": "https://github.com/praetorian-inc/gokart",
+    "description": "A static analysis tool for securing Go code",
+    "language": "Go",
+    "star": "500"
+  },
+  {
+    "title": "AsuharietYgvar/AppleNeuralHash2ONNX",
+    "url": "https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX",
+    "description": "Convert Apple NeuralHash model for CSAM Detection to ONNX.",
+    "language": "Python",
+    "star": "382"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "star": "396"
+  },
+  {
+    "title": "spring-projects/spring-authorization-server",
+    "url": "https://github.com/spring-projects/spring-authorization-server",
+    "description": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
+    "language": "Java",
+    "star": "93"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "description": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
+    "language": "Lua",
+    "star": "751"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "139"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "222"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "language": "Java",
+    "star": "53"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "description": "Open standard for machine learning interoperability",
+    "language": "C++",
+    "star": "22"
+  },
+  {
+    "title": "public-api-lists/public-api-lists",
+    "url": "https://github.com/public-api-lists/public-api-lists",
+    "description": "A collective list of free APIs for use in software and web development 🚀",
+    "language": "Python",
+    "star": "195"
+  },
+  {
+    "title": "jonaslejon/malicious-pdf",
+    "url": "https://github.com/jonaslejon/malicious-pdf",
+    "description": "Generate a bunch of malicious pdf files with phone-home functionality. Can be used with Burp Collaborator",
+    "language": "Python",
+    "star": "119"
+  },
+  {
+    "title": "YehLi/xmodaler",
+    "url": "https://github.com/YehLi/xmodaler",
+    "description": "X-modaler is a versatile and high-performance codebase for cross-modal analytics.",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "Qv2ray/Qv2ray",
+    "url": "https://github.com/Qv2ray/Qv2ray",
+    "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
+    "language": "C++",
+    "star": "112"
+  },
+  {
+    "title": "0voice/Introduction-to-Golang",
+    "url": "https://github.com/0voice/Introduction-to-Golang",
+    "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
+    "language": "none",
+    "star": "269"
+  },
+  {
+    "title": "reuven/oreilly-2021-q3-first-steps",
+    "url": "https://github.com/reuven/oreilly-2021-q3-first-steps",
+    "description": "",
+    "language": "HTML",
+    "star": "4"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "description": "🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠",
+    "language": "Jupyter Notebook",
+    "star": "350"
+  },
+  {
+    "title": "cncf/mentoring",
+    "url": "https://github.com/cncf/mentoring",
+    "description": "👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + CommunityBridge + Summer of Code",
+    "language": "none",
+    "star": "15"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "197"
+  },
+  {
+    "title": "lutzroeder/netron",
+    "url": "https://github.com/lutzroeder/netron",
+    "description": "Visualizer for neural network, deep learning, and machine learning models",
+    "language": "JavaScript",
+    "star": "65"
+  },
+  {
+    "title": "sachaos/viddy",
+    "url": "https://github.com/sachaos/viddy",
+    "description": "👀 Modern watch command. Time machine and pager etc.",
+    "language": "Go",
+    "star": "120"
+  },
+  {
+    "title": "dromara/Sa-Token",
+    "url": "https://github.com/dromara/Sa-Token",
+    "description": "这可能是史上功能最全的Java权限认证框架，权限架构设计的绝佳实践！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...",
+    "language": "Java",
+    "star": "45"
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "description": "ClickHouse® is a free analytics DBMS for big data",
+    "language": "C++",
+    "star": "24"
+  },
+  {
+    "title": "tenacityteam/tenacity",
+    "url": "https://github.com/tenacityteam/tenacity",
+    "description": "Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!",
+    "language": "C++",
+    "star": "62"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "description": "Awesome tips for Laravel",
+    "language": "none",
+    "star": "124"
+  },
+  {
+    "title": "go-sql-driver/mysql",
+    "url": "https://github.com/go-sql-driver/mysql",
+    "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
+    "language": "Go",
+    "star": "53"
+  }
+]
