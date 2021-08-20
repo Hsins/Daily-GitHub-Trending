@@ -18,42 +18,42 @@
     "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "396"
+    "star": "397"
   },
   {
     "title": "spring-projects/spring-authorization-server",
     "url": "https://github.com/spring-projects/spring-authorization-server",
     "description": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
     "language": "Java",
-    "star": "93"
+    "star": "92"
   },
   {
     "title": "NvChad/NvChad",
     "url": "https://github.com/NvChad/NvChad",
     "description": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
     "language": "Lua",
-    "star": "751"
+    "star": "739"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "139"
+    "star": "134"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "222"
+    "star": "223"
   },
   {
     "title": "doocs/source-code-hunter",
     "url": "https://github.com/doocs/source-code-hunter",
     "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
     "language": "Java",
-    "star": "53"
+    "star": "52"
   },
   {
     "title": "onnx/onnx",
@@ -67,7 +67,7 @@
     "url": "https://github.com/public-api-lists/public-api-lists",
     "description": "A collective list of free APIs for use in software and web development 🚀",
     "language": "Python",
-    "star": "195"
+    "star": "193"
   },
   {
     "title": "jonaslejon/malicious-pdf",
@@ -81,21 +81,21 @@
     "url": "https://github.com/YehLi/xmodaler",
     "description": "X-modaler is a versatile and high-performance codebase for cross-modal analytics.",
     "language": "Python",
-    "star": "99"
+    "star": "97"
   },
   {
     "title": "Qv2ray/Qv2ray",
     "url": "https://github.com/Qv2ray/Qv2ray",
     "description": "⭐ Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 ⭐",
     "language": "C++",
-    "star": "112"
+    "star": "113"
   },
   {
     "title": "0voice/Introduction-to-Golang",
     "url": "https://github.com/0voice/Introduction-to-Golang",
     "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
     "language": "none",
-    "star": "269"
+    "star": "266"
   },
   {
     "title": "reuven/oreilly-2021-q3-first-steps",
@@ -109,7 +109,7 @@
     "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
     "description": "🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠",
     "language": "Jupyter Notebook",
-    "star": "350"
+    "star": "357"
   },
   {
     "title": "cncf/mentoring",
@@ -123,7 +123,7 @@
     "url": "https://github.com/nlohmann/json",
     "description": "JSON for Modern C++",
     "language": "C++",
-    "star": "197"
+    "star": "180"
   },
   {
     "title": "lutzroeder/netron",
@@ -165,13 +165,13 @@
     "url": "https://github.com/LaravelDaily/laravel-tips",
     "description": "Awesome tips for Laravel",
     "language": "none",
-    "star": "124"
+    "star": "125"
   },
   {
     "title": "go-sql-driver/mysql",
     "url": "https://github.com/go-sql-driver/mysql",
     "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
     "language": "Go",
-    "star": "53"
+    "star": "60"
   }
 ]
