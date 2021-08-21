@@ -4,7 +4,7 @@
     "url": "https://github.com/ManimCommunity/manim",
     "description": "A community-maintained Python framework for creating mathematical animations.",
     "language": "Python",
-    "star": "572"
+    "star": "590"
   },
   {
     "title": "public-apis/public-apis",
@@ -18,70 +18,70 @@
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "269"
+    "star": "183"
   },
   {
     "title": "babysor/Realtime-Voice-Clone-Chinese",
     "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "591"
+    "star": "506"
   },
   {
     "title": "tenacityteam/tenacity",
     "url": "https://github.com/tenacityteam/tenacity",
     "description": "Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!",
     "language": "C++",
-    "star": "241"
+    "star": "330"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "284"
+    "star": "290"
   },
   {
     "title": "praetorian-inc/gokart",
     "url": "https://github.com/praetorian-inc/gokart",
     "description": "A static analysis tool for securing Go code",
     "language": "Go",
-    "star": "436"
+    "star": "521"
   },
   {
     "title": "Lux-AI-Challenge/Lux-Design-2021",
     "url": "https://github.com/Lux-AI-Challenge/Lux-Design-2021",
     "description": "Home to the design and engine of the Lux AI Challenge Season 1",
     "language": "C++",
-    "star": "54"
+    "star": "57"
   },
   {
     "title": "go-sql-driver/mysql",
     "url": "https://github.com/go-sql-driver/mysql",
     "description": "Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package",
     "language": "Go",
-    "star": "116"
+    "star": "96"
   },
   {
     "title": "NvChad/NvChad",
     "url": "https://github.com/NvChad/NvChad",
     "description": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast.",
     "language": "Lua",
-    "star": "641"
+    "star": "703"
   },
   {
     "title": "LiveOverflow/ctf-screenshotter",
     "url": "https://github.com/LiveOverflow/ctf-screenshotter",
     "description": "a CTF web challenge about making screenshots",
     "language": "Python",
-    "star": "41"
+    "star": "34"
   },
   {
     "title": "wuyouzhuguli/SpringAll",
     "url": "https://github.com/wuyouzhuguli/SpringAll",
     "description": "循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc",
     "language": "Java",
-    "star": "65"
+    "star": "60"
   },
   {
     "title": "DIGITALCRIMINAL/OnlyFans",
@@ -95,7 +95,7 @@
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "246"
+    "star": "218"
   },
   {
     "title": "vandadnp/flutter-tips-and-tricks",
@@ -109,7 +109,7 @@
     "url": "https://github.com/spring-projects/spring-authorization-server",
     "description": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
     "language": "Java",
-    "star": "110"
+    "star": "131"
   },
   {
     "title": "open-metadata/OpenMetadata",
@@ -144,21 +144,21 @@
     "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
     "description": "🧑‍🏫 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit), optimizers (adam, radam, adabelief), gans(dcgan, cyclegan, stylegan2), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, etc. 🧠",
     "language": "Jupyter Notebook",
-    "star": "231"
+    "star": "272"
   },
   {
     "title": "samuelmarina/is-even",
     "url": "https://github.com/samuelmarina/is-even",
     "description": "Is a number even?",
     "language": "none",
-    "star": "279"
+    "star": "282"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "224"
+    "star": "205"
   },
   {
     "title": "armosec/kubescape",
