@@ -4,7 +4,7 @@
     "url": "https://github.com/ManimCommunity/manim",
     "description": "A community-maintained Python framework for creating mathematical animations.",
     "language": "Python",
-    "star": "852"
+    "star": "880"
   },
   {
     "title": "langjam/jam0001",
@@ -18,35 +18,35 @@
     "url": "https://github.com/doocs/source-code-hunter",
     "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
     "language": "Java",
-    "star": "171"
+    "star": "173"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "313"
+    "star": "330"
   },
   {
     "title": "babysor/Realtime-Voice-Clone-Chinese",
     "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "766"
+    "star": "818"
   },
   {
     "title": "ocornut/imgui",
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "49"
+    "star": "45"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "367"
+    "star": "515"
   },
   {
     "title": "dogecoin/dogecoin",
@@ -67,49 +67,49 @@
     "url": "https://github.com/visenger/awesome-mlops",
     "description": "A curated list of references for MLOps",
     "language": "none",
-    "star": "127"
+    "star": "149"
   },
   {
     "title": "minhealthnz/nz-covid-data",
     "url": "https://github.com/minhealthnz/nz-covid-data",
     "description": "COVID-19 locations of interest",
     "language": "none",
-    "star": "111"
+    "star": "106"
   },
   {
     "title": "Lux-AI-Challenge/Lux-Design-2021",
     "url": "https://github.com/Lux-AI-Challenge/Lux-Design-2021",
     "description": "Home to the design and engine of the Lux AI Challenge Season 1",
     "language": "C++",
-    "star": "145"
+    "star": "130"
   },
   {
     "title": "orico/www.mlcompendium.com",
     "url": "https://github.com/orico/www.mlcompendium.com",
     "description": "The Machine Learning & Deep Learning Compendium is an open-source knowledge-sharing project compiled using Gitbook.",
     "language": "none",
-    "star": "248"
+    "star": "249"
   },
   {
     "title": "DIGITALCRIMINAL/OnlyFans",
     "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
     "description": "Scrape all the media from an OnlyFans account - Updated regularly",
     "language": "Python",
-    "star": "69"
+    "star": "89"
   },
   {
     "title": "topjohnwu/Magisk",
     "url": "https://github.com/topjohnwu/Magisk",
     "description": "The Magic Mask for Android",
     "language": "C++",
-    "star": "50"
+    "star": "51"
   },
   {
     "title": "aria2/aria2",
     "url": "https://github.com/aria2/aria2",
     "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
     "language": "C++",
-    "star": "45"
+    "star": "42"
   },
   {
     "title": "cabaletta/baritone",
@@ -123,35 +123,35 @@
     "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
     "description": "FFmpeg for browser and node, powered by WebAssembly",
     "language": "JavaScript",
-    "star": "218"
+    "star": "236"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "111"
+    "star": "115"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "C++",
-    "star": "56"
+    "star": "57"
   },
   {
     "title": "DrKLO/Telegram",
     "url": "https://github.com/DrKLO/Telegram",
     "description": "Telegram for Android source",
     "language": "Java",
-    "star": "24"
+    "star": "26"
   },
   {
     "title": "ClickHouse/ClickHouse",
     "url": "https://github.com/ClickHouse/ClickHouse",
     "description": "ClickHouse® is a free analytics DBMS for big data",
     "language": "C++",
-    "star": "319"
+    "star": "322"
   },
   {
     "title": "apache/arrow-datafusion",
@@ -165,13 +165,13 @@
     "url": "https://github.com/xmrig/xmrig",
     "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
     "language": "C++",
-    "star": "8"
+    "star": "10"
   },
   {
     "title": "godotengine/godot",
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "80"
+    "star": "79"
   }
 ]
