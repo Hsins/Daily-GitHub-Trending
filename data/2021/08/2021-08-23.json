@@ -11,14 +11,14 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "241"
+    "star": "252"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "620"
+    "star": "644"
   },
   {
     "title": "RustPython/RustPython",
@@ -39,7 +39,7 @@
     "url": "https://github.com/Lux-AI-Challenge/Lux-Design-2021",
     "description": "Home to the design and engine of the Lux AI Challenge Season 1",
     "language": "C++",
-    "star": "174"
+    "star": "178"
   },
   {
     "title": "CSSEGISandData/COVID-19",
@@ -53,7 +53,7 @@
     "url": "https://github.com/dogecoin/dogecoin",
     "description": "very currency",
     "language": "C++",
-    "star": "113"
+    "star": "107"
   },
   {
     "title": "shufflewzc/faker2",
@@ -88,28 +88,28 @@
     "url": "https://github.com/MonitorControl/MonitorControl",
     "description": "🖥 Control your external monitor brightness & volume on your Mac",
     "language": "Swift",
-    "star": "62"
+    "star": "81"
   },
   {
     "title": "DIGITALCRIMINAL/OnlyFans",
     "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
     "description": "Scrape all the media from an OnlyFans account - Updated regularly",
     "language": "Python",
-    "star": "142"
+    "star": "149"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "C++",
-    "star": "226"
+    "star": "259"
   },
   {
     "title": "doocs/source-code-hunter",
     "url": "https://github.com/doocs/source-code-hunter",
     "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
     "language": "Java",
-    "star": "242"
+    "star": "237"
   },
   {
     "title": "cabaletta/baritone",
@@ -130,14 +130,14 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "89"
+    "star": "116"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "112"
+    "star": "111"
   },
   {
     "title": "topjohnwu/Magisk",
@@ -165,7 +165,7 @@
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C",
-    "star": "9"
+    "star": "8"
   },
   {
     "title": "mmistakes/minimal-mistakes",
