@@ -1,0 +1,177 @@
+[
+  {
+    "title": "armosec/kubescape",
+    "url": "https://github.com/armosec/kubescape",
+    "description": "kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)",
+    "language": "Go",
+    "star": "225"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "262"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "630"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "description": "A Python Interpreter written in Rust",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "ManimCommunity/manim",
+    "url": "https://github.com/ManimCommunity/manim",
+    "description": "A community-maintained Python framework for creating mathematical animations.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "Lux-AI-Challenge/Lux-Design-2021",
+    "url": "https://github.com/Lux-AI-Challenge/Lux-Design-2021",
+    "description": "Home to the design and engine of the Lux AI Challenge Season 1",
+    "language": "C++",
+    "star": "178"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "description": "very currency",
+    "language": "C++",
+    "star": "110"
+  },
+  {
+    "title": "shufflewzc/faker2",
+    "url": "https://github.com/shufflewzc/faker2",
+    "description": "不知名大佬备份",
+    "language": "JavaScript",
+    "star": "29"
+  },
+  {
+    "title": "Code-Pop/Real-World_Vue-3",
+    "url": "https://github.com/Code-Pop/Real-World_Vue-3",
+    "description": "Example app for Vue Mastery's Real World Vue 3 course",
+    "language": "Vue",
+    "star": "5"
+  },
+  {
+    "title": "langjam/jam0001",
+    "url": "https://github.com/langjam/jam0001",
+    "description": "",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "orico/www.mlcompendium.com",
+    "url": "https://github.com/orico/www.mlcompendium.com",
+    "description": "The Machine Learning & Deep Learning Compendium is an open-source knowledge-sharing project compiled using Gitbook.",
+    "language": "none",
+    "star": "333"
+  },
+  {
+    "title": "MonitorControl/MonitorControl",
+    "url": "https://github.com/MonitorControl/MonitorControl",
+    "description": "🖥 Control your external monitor brightness & volume on your Mac",
+    "language": "Swift",
+    "star": "61"
+  },
+  {
+    "title": "DIGITALCRIMINAL/OnlyFans",
+    "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+    "description": "Scrape all the media from an OnlyFans account - Updated regularly",
+    "language": "Python",
+    "star": "148"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
+    "language": "C++",
+    "star": "253"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "language": "Java",
+    "star": "241"
+  },
+  {
+    "title": "cabaletta/baritone",
+    "url": "https://github.com/cabaletta/baritone",
+    "description": "google maps for block game",
+    "language": "Java",
+    "star": "50"
+  },
+  {
+    "title": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "description": "Git with a cup of tea, painless self-hosted git service",
+    "language": "Go",
+    "star": "34"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "116"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "112"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "star": "92"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "star": "982"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "language": "Python",
+    "star": "58"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!",
+    "language": "C",
+    "star": "8"
+  },
+  {
+    "title": "mmistakes/minimal-mistakes",
+    "url": "https://github.com/mmistakes/minimal-mistakes",
+    "description": "📐 Jekyll theme for building a personal site, blog, project documentation, or portfolio.",
+    "language": "HTML",
+    "star": "13"
+  }
+]
