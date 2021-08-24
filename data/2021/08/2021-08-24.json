@@ -1,0 +1,177 @@
+[
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "213"
+  },
+  {
+    "title": "armosec/kubescape",
+    "url": "https://github.com/armosec/kubescape",
+    "description": "kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)",
+    "language": "Go",
+    "star": "362"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "364"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "297"
+  },
+  {
+    "title": "DIGITALCRIMINAL/OnlyFans",
+    "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
+    "description": "Scrape all the media from an OnlyFans account - Updated regularly",
+    "language": "Python",
+    "star": "157"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "language": "Java",
+    "star": "236"
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "glushchenko/fsnotes",
+    "url": "https://github.com/glushchenko/fsnotes",
+    "description": "Notes manager for macOS/iOS",
+    "language": "Swift",
+    "star": "89"
+  },
+  {
+    "title": "babysor/Realtime-Voice-Clone-Chinese",
+    "url": "https://github.com/babysor/Realtime-Voice-Clone-Chinese",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "star": "621"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (August 2021)",
+    "language": "JavaScript",
+    "star": "50"
+  },
+  {
+    "title": "netero1010/ServiceMove-BOF",
+    "url": "https://github.com/netero1010/ServiceMove-BOF",
+    "description": "New lateral movement technique by abusing Windows Perception Simulation Service to achieve DLL hijacking code execution.",
+    "language": "C",
+    "star": "25"
+  },
+  {
+    "title": "hrsh7th/nvim-cmp",
+    "url": "https://github.com/hrsh7th/nvim-cmp",
+    "description": "A completion plugin for neovim coded by Lua.",
+    "language": "Lua",
+    "star": "30"
+  },
+  {
+    "title": "aria2/aria2",
+    "url": "https://github.com/aria2/aria2",
+    "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+    "language": "C++",
+    "star": "17"
+  },
+  {
+    "title": "chokcoco/iCSS",
+    "url": "https://github.com/chokcoco/iCSS",
+    "description": "不止于 CSS",
+    "language": "none",
+    "star": "30"
+  },
+  {
+    "title": "eastlakeside/awesome-productivity-cn",
+    "url": "https://github.com/eastlakeside/awesome-productivity-cn",
+    "description": "绝妙的个人生产力（Awesome Productivity 中文版）",
+    "language": "none",
+    "star": "220"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "description": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "language": "C#",
+    "star": "56"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "description": "A Python Interpreter written in Rust",
+    "language": "Python",
+    "star": "160"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "39"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "49"
+  },
+  {
+    "title": "basarat/typescript-book",
+    "url": "https://github.com/basarat/typescript-book",
+    "description": "📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹",
+    "language": "TypeScript",
+    "star": "23"
+  },
+  {
+    "title": "hak5darren/USB-Rubber-Ducky",
+    "url": "https://github.com/hak5darren/USB-Rubber-Ducky",
+    "description": "",
+    "language": "C",
+    "star": "22"
+  },
+  {
+    "title": "filebrowser/filebrowser",
+    "url": "https://github.com/filebrowser/filebrowser",
+    "description": "📂 Web File Browser",
+    "language": "Go",
+    "star": "70"
+  },
+  {
+    "title": "isl-org/Open3D",
+    "url": "https://github.com/isl-org/Open3D",
+    "description": "Open3D: A Modern Library for 3D Data Processing",
+    "language": "C++",
+    "star": "5"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "41"
+  },
+  {
+    "title": "MonitorControl/MonitorControl",
+    "url": "https://github.com/MonitorControl/MonitorControl",
+    "description": "🖥 Control your external monitor brightness & volume on your Mac",
+    "language": "Swift",
+    "star": "166"
+  }
+]
