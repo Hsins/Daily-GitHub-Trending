@@ -11,21 +11,21 @@
     "url": "https://github.com/armosec/kubescape",
     "description": "kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)",
     "language": "Go",
-    "star": "360"
+    "star": "362"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "363"
+    "star": "364"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "298"
+    "star": "297"
   },
   {
     "title": "DIGITALCRIMINAL/OnlyFans",
@@ -46,14 +46,14 @@
     "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
     "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "47"
+    "star": "48"
   },
   {
     "title": "glushchenko/fsnotes",
     "url": "https://github.com/glushchenko/fsnotes",
     "description": "Notes manager for macOS/iOS",
     "language": "Swift",
-    "star": "163"
+    "star": "89"
   },
   {
     "title": "babysor/Realtime-Voice-Clone-Chinese",
@@ -88,7 +88,7 @@
     "url": "https://github.com/aria2/aria2",
     "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
     "language": "C++",
-    "star": "26"
+    "star": "17"
   },
   {
     "title": "chokcoco/iCSS",
@@ -102,21 +102,21 @@
     "url": "https://github.com/eastlakeside/awesome-productivity-cn",
     "description": "绝妙的个人生产力（Awesome Productivity 中文版）",
     "language": "none",
-    "star": "189"
+    "star": "220"
   },
   {
     "title": "dotnetcore/FastGithub",
     "url": "https://github.com/dotnetcore/FastGithub",
     "description": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
     "language": "C#",
-    "star": "55"
+    "star": "56"
   },
   {
     "title": "RustPython/RustPython",
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Python",
-    "star": "157"
+    "star": "160"
   },
   {
     "title": "godotengine/godot",
@@ -130,7 +130,7 @@
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "48"
+    "star": "49"
   },
   {
     "title": "basarat/typescript-book",
@@ -165,13 +165,13 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "51"
+    "star": "41"
   },
   {
     "title": "MonitorControl/MonitorControl",
     "url": "https://github.com/MonitorControl/MonitorControl",
     "description": "🖥 Control your external monitor brightness & volume on your Mac",
     "language": "Swift",
-    "star": "165"
+    "star": "166"
   }
 ]
