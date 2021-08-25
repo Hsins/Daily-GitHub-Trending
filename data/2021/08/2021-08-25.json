@@ -4,14 +4,14 @@
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Python",
-    "star": "265"
+    "star": "271"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "494"
+    "star": "498"
   },
   {
     "title": "google/zx",
@@ -32,21 +32,21 @@
     "url": "https://github.com/filebrowser/filebrowser",
     "description": "📂 Web File Browser",
     "language": "Go",
-    "star": "220"
+    "star": "223"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "356"
+    "star": "357"
   },
   {
     "title": "basarat/typescript-book",
     "url": "https://github.com/basarat/typescript-book",
     "description": "📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹",
     "language": "TypeScript",
-    "star": "115"
+    "star": "120"
   },
   {
     "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
@@ -81,7 +81,7 @@
     "url": "https://github.com/eastlakeside/awesome-productivity-cn",
     "description": "绝妙的个人生产力（Awesome Productivity 中文版）",
     "language": "none",
-    "star": "289"
+    "star": "290"
   },
   {
     "title": "shenzhengfang/kkndme_tianya",
@@ -95,14 +95,14 @@
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "88"
+    "star": "82"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "361"
+    "star": "360"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
@@ -137,14 +137,14 @@
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "78"
+    "star": "79"
   },
   {
     "title": "doocs/source-code-hunter",
     "url": "https://github.com/doocs/source-code-hunter",
     "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
     "language": "Java",
-    "star": "191"
+    "star": "190"
   },
   {
     "title": "careercup/CtCI-6th-Edition-JavaScript",
@@ -158,20 +158,20 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "281"
+    "star": "333"
   },
   {
     "title": "DIGITALCRIMINAL/OnlyFans",
     "url": "https://github.com/DIGITALCRIMINAL/OnlyFans",
     "description": "Scrape all the media from an OnlyFans account - Updated regularly",
     "language": "Python",
-    "star": "132"
+    "star": "127"
   },
   {
     "title": "dotnetcore/FastGithub",
     "url": "https://github.com/dotnetcore/FastGithub",
     "description": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
     "language": "C#",
-    "star": "88"
+    "star": "91"
   }
 ]
