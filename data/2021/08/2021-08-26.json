@@ -25,21 +25,21 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "465"
+    "star": "469"
   },
   {
     "title": "basarat/typescript-book",
     "url": "https://github.com/basarat/typescript-book",
     "description": "📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹",
     "language": "TypeScript",
-    "star": "271"
+    "star": "269"
   },
   {
     "title": "sysprog21/lkmpg",
     "url": "https://github.com/sysprog21/lkmpg",
     "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
     "language": "TeX",
-    "star": "188"
+    "star": "177"
   },
   {
     "title": "eugeneyan/applied-ml",
@@ -53,14 +53,14 @@
     "url": "https://github.com/tiangolo/sqlmodel",
     "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
     "language": "Python",
-    "star": "816"
+    "star": "817"
   },
   {
     "title": "ryanburgess/engineer-manager",
     "url": "https://github.com/ryanburgess/engineer-manager",
     "description": "A list of engineering manager resource links.",
     "language": "JavaScript",
-    "star": "100"
+    "star": "115"
   },
   {
     "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
@@ -74,14 +74,14 @@
     "url": "https://github.com/poem-web/poem",
     "description": "A full-featured and easy-to-use web framework with the Rust programming language.",
     "language": "Rust",
-    "star": "30"
+    "star": "31"
   },
   {
     "title": "eastlakeside/awesome-productivity-cn",
     "url": "https://github.com/eastlakeside/awesome-productivity-cn",
     "description": "绝妙的个人生产力（Awesome Productivity 中文版）",
     "language": "none",
-    "star": "390"
+    "star": "393"
   },
   {
     "title": "bregman-arie/devops-exercises",
@@ -102,7 +102,7 @@
     "url": "https://github.com/filebrowser/filebrowser",
     "description": "📂 Web File Browser",
     "language": "Go",
-    "star": "332"
+    "star": "341"
   },
   {
     "title": "ascoders/weekly",
@@ -123,14 +123,14 @@
     "url": "https://github.com/google/zx",
     "description": "A tool for writing better scripts",
     "language": "JavaScript",
-    "star": "379"
+    "star": "365"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "500"
+    "star": "489"
   },
   {
     "title": "louislam/uptime-kuma",
@@ -151,7 +151,7 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "232"
+    "star": "229"
   },
   {
     "title": "dotnetcore/FastGithub",
@@ -172,6 +172,6 @@
     "url": "https://github.com/meilisearch/MeiliSearch",
     "description": "Powerful, fast, and an easy to use search engine",
     "language": "Rust",
-    "star": "295"
+    "star": "280"
   }
 ]
