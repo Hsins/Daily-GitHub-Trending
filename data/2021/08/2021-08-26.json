@@ -18,14 +18,14 @@
     "url": "https://github.com/cli/cli",
     "description": "GitHub’s official command line tool",
     "language": "Go",
-    "star": "30"
+    "star": "29"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "458"
+    "star": "465"
   },
   {
     "title": "basarat/typescript-book",
@@ -39,7 +39,7 @@
     "url": "https://github.com/sysprog21/lkmpg",
     "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
     "language": "TeX",
-    "star": "179"
+    "star": "188"
   },
   {
     "title": "eugeneyan/applied-ml",
@@ -53,7 +53,7 @@
     "url": "https://github.com/tiangolo/sqlmodel",
     "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
     "language": "Python",
-    "star": "817"
+    "star": "816"
   },
   {
     "title": "ryanburgess/engineer-manager",
@@ -67,21 +67,21 @@
     "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
     "description": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…",
     "language": "Jupyter Notebook",
-    "star": "262"
+    "star": "258"
   },
   {
     "title": "poem-web/poem",
     "url": "https://github.com/poem-web/poem",
     "description": "A full-featured and easy-to-use web framework with the Rust programming language.",
     "language": "Rust",
-    "star": "31"
+    "star": "30"
   },
   {
     "title": "eastlakeside/awesome-productivity-cn",
     "url": "https://github.com/eastlakeside/awesome-productivity-cn",
     "description": "绝妙的个人生产力（Awesome Productivity 中文版）",
     "language": "none",
-    "star": "391"
+    "star": "390"
   },
   {
     "title": "bregman-arie/devops-exercises",
@@ -102,7 +102,7 @@
     "url": "https://github.com/filebrowser/filebrowser",
     "description": "📂 Web File Browser",
     "language": "Go",
-    "star": "334"
+    "star": "332"
   },
   {
     "title": "ascoders/weekly",
@@ -123,14 +123,14 @@
     "url": "https://github.com/google/zx",
     "description": "A tool for writing better scripts",
     "language": "JavaScript",
-    "star": "371"
+    "star": "379"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "501"
+    "star": "500"
   },
   {
     "title": "louislam/uptime-kuma",
@@ -151,7 +151,7 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "230"
+    "star": "232"
   },
   {
     "title": "dotnetcore/FastGithub",
@@ -172,6 +172,6 @@
     "url": "https://github.com/meilisearch/MeiliSearch",
     "description": "Powerful, fast, and an easy to use search engine",
     "language": "Rust",
-    "star": "368"
+    "star": "295"
   }
 ]
