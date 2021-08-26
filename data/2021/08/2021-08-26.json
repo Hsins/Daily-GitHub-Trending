@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "61"
+  },
+  {
+    "title": "hrsh7th/nvim-cmp",
+    "url": "https://github.com/hrsh7th/nvim-cmp",
+    "description": "A completion plugin for neovim coded in Lua.",
+    "language": "Lua",
+    "star": "49"
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "description": "GitHub’s official command line tool",
+    "language": "Go",
+    "star": "30"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "458"
+  },
+  {
+    "title": "basarat/typescript-book",
+    "url": "https://github.com/basarat/typescript-book",
+    "description": "📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹",
+    "language": "TypeScript",
+    "star": "271"
+  },
+  {
+    "title": "sysprog21/lkmpg",
+    "url": "https://github.com/sysprog21/lkmpg",
+    "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
+    "language": "TeX",
+    "star": "179"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "416"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+    "language": "Python",
+    "star": "817"
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "description": "A list of engineering manager resource links.",
+    "language": "JavaScript",
+    "star": "115"
+  },
+  {
+    "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
+    "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
+    "description": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…",
+    "language": "Jupyter Notebook",
+    "star": "262"
+  },
+  {
+    "title": "poem-web/poem",
+    "url": "https://github.com/poem-web/poem",
+    "description": "A full-featured and easy-to-use web framework with the Rust programming language.",
+    "language": "Rust",
+    "star": "31"
+  },
+  {
+    "title": "eastlakeside/awesome-productivity-cn",
+    "url": "https://github.com/eastlakeside/awesome-productivity-cn",
+    "description": "绝妙的个人生产力（Awesome Productivity 中文版）",
+    "language": "none",
+    "star": "391"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "chokcoco/iCSS",
+    "url": "https://github.com/chokcoco/iCSS",
+    "description": "不止于 CSS",
+    "language": "none",
+    "star": "35"
+  },
+  {
+    "title": "filebrowser/filebrowser",
+    "url": "https://github.com/filebrowser/filebrowser",
+    "description": "📂 Web File Browser",
+    "language": "Go",
+    "star": "334"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "14"
+  },
+  {
+    "title": "optiv/Registry-Recon",
+    "url": "https://github.com/optiv/Registry-Recon",
+    "description": "Cobalt Strike Aggressor Script that Performs System/AV/EDR Recon",
+    "language": "none",
+    "star": "29"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "description": "A tool for writing better scripts",
+    "language": "JavaScript",
+    "star": "371"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "501"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "star": "244"
+  },
+  {
+    "title": "isl-org/Open3D",
+    "url": "https://github.com/isl-org/Open3D",
+    "description": "Open3D: A Modern Library for 3D Data Processing",
+    "language": "C++",
+    "star": "17"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "230"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "description": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "language": "C#",
+    "star": "138"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "14"
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "description": "Powerful, fast, and an easy to use search engine",
+    "language": "Rust",
+    "star": "368"
+  }
+]
