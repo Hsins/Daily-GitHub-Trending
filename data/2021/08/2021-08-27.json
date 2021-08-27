@@ -11,14 +11,14 @@
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "134"
+    "star": "130"
   },
   {
     "title": "basarat/typescript-book",
     "url": "https://github.com/basarat/typescript-book",
     "description": "📚 The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹",
     "language": "TypeScript",
-    "star": "271"
+    "star": "265"
   },
   {
     "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
@@ -32,28 +32,28 @@
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Python",
-    "star": "46"
+    "star": "36"
   },
   {
     "title": "meilisearch/MeiliSearch",
     "url": "https://github.com/meilisearch/MeiliSearch",
     "description": "Powerful, fast, and an easy to use search engine",
     "language": "Rust",
-    "star": "512"
+    "star": "513"
   },
   {
     "title": "sysprog21/lkmpg",
     "url": "https://github.com/sysprog21/lkmpg",
     "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
     "language": "TeX",
-    "star": "394"
+    "star": "370"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "341"
+    "star": "403"
   },
   {
     "title": "hashicorp/terraform-provider-aws",
@@ -88,28 +88,28 @@
     "url": "https://github.com/filebrowser/filebrowser",
     "description": "📂 Web File Browser",
     "language": "Go",
-    "star": "336"
+    "star": "337"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "207"
+    "star": "222"
   },
   {
     "title": "tiangolo/sqlmodel",
     "url": "https://github.com/tiangolo/sqlmodel",
     "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
     "language": "Python",
-    "star": "743"
+    "star": "760"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "349"
+    "star": "517"
   },
   {
     "title": "hrsh7th/nvim-cmp",
@@ -123,14 +123,14 @@
     "url": "https://github.com/ReactiveX/RxSwift",
     "description": "Reactive Programming in Swift",
     "language": "Swift",
-    "star": "93"
+    "star": "86"
   },
   {
     "title": "eugeneyan/applied-ml",
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "369"
+    "star": "370"
   },
   {
     "title": "eastlakeside/awesome-productivity-cn",
@@ -144,7 +144,7 @@
     "url": "https://github.com/element-plus/element-plus",
     "description": "🎉 A Vue.js 3.0 UI Library made by Element team",
     "language": "Vue",
-    "star": "24"
+    "star": "23"
   },
   {
     "title": "benyaminahmed/nft-image-generator",
@@ -165,7 +165,7 @@
     "url": "https://github.com/ryanburgess/engineer-manager",
     "description": "A list of engineering manager resource links.",
     "language": "JavaScript",
-    "star": "158"
+    "star": "125"
   },
   {
     "title": "nodejs/node",
