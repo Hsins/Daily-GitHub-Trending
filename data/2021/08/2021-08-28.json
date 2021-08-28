@@ -4,49 +4,49 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "387"
+    "star": "1"
   },
   {
     "title": "benyaminahmed/nft-image-generator",
     "url": "https://github.com/benyaminahmed/nft-image-generator",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "88"
+    "star": "69"
   },
   {
     "title": "Chia-Network/chia-blockchain",
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "13"
+    "star": "6"
   },
   {
     "title": "binance-chain/bsc",
     "url": "https://github.com/binance-chain/bsc",
     "description": "A Binance Smart Chain client based on the go-ethereum fork",
     "language": "Go",
-    "star": "9"
+    "star": "25"
   },
   {
     "title": "tiangolo/sqlmodel",
     "url": "https://github.com/tiangolo/sqlmodel",
     "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
     "language": "Python",
-    "star": "575"
+    "star": "607"
   },
   {
     "title": "benbusby/whoogle-search",
     "url": "https://github.com/benbusby/whoogle-search",
     "description": "A self-hosted, ad-free, privacy-respecting metasearch engine",
     "language": "Python",
-    "star": "279"
+    "star": "277"
   },
   {
     "title": "nextcloud/server",
     "url": "https://github.com/nextcloud/server",
     "description": "☁️ Nextcloud server, a safe home for all your data",
     "language": "PHP",
-    "star": "39"
+    "star": "37"
   },
   {
     "title": "ant-design/ant-design-mobile",
@@ -60,21 +60,21 @@
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "108"
+    "star": "111"
   },
   {
     "title": "hustvl/YOLOP",
     "url": "https://github.com/hustvl/YOLOP",
     "description": "You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250）",
     "language": "Python",
-    "star": "45"
+    "star": "56"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "292"
+    "star": "307"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -88,21 +88,21 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "322"
+    "star": "307"
   },
   {
     "title": "ascoders/weekly",
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "25"
+    "star": "34"
   },
   {
     "title": "microsoft/IoT-For-Beginners",
     "url": "https://github.com/microsoft/IoT-For-Beginners",
     "description": "12 Weeks, 24 Lessons, IoT for All!",
     "language": "C++",
-    "star": "108"
+    "star": "36"
   },
   {
     "title": "blueedgetechno/windows11",
@@ -116,62 +116,62 @@
     "url": "https://github.com/DannyBen/bashly",
     "description": "Bash command line framework and CLI generator",
     "language": "Ruby",
-    "star": "119"
+    "star": "100"
   },
   {
     "title": "cli/cli",
     "url": "https://github.com/cli/cli",
     "description": "GitHub’s official command line tool",
     "language": "Go",
-    "star": "75"
+    "star": "50"
   },
   {
     "title": "sysprog21/lkmpg",
     "url": "https://github.com/sysprog21/lkmpg",
     "description": "The Linux Kernel Module Programming Guide (updated for 5.x kernels)",
     "language": "TeX",
-    "star": "216"
+    "star": "262"
   },
   {
     "title": "meilisearch/MeiliSearch",
     "url": "https://github.com/meilisearch/MeiliSearch",
     "description": "Powerful, fast, and an easy to use search engine",
     "language": "Rust",
-    "star": "325"
+    "star": "329"
   },
   {
     "title": "whyour/qinglong",
     "url": "https://github.com/whyour/qinglong",
     "description": "Python/JavaScript/Shell/Typescript 定时任务管理",
     "language": "TypeScript",
-    "star": "64"
+    "star": "58"
   },
   {
     "title": "lite-xl/lite-xl",
     "url": "https://github.com/lite-xl/lite-xl",
     "description": "A lightweight text editor written in Lua",
     "language": "Lua",
-    "star": "82"
+    "star": "94"
   },
   {
     "title": "HashLips/generative-art-node",
     "url": "https://github.com/HashLips/generative-art-node",
     "description": "Create generative art by using the canvas api and node js",
     "language": "JavaScript",
-    "star": "14"
+    "star": "12"
   },
   {
     "title": "AkashSingh3031/The-Complete-FAANG-Preparation",
     "url": "https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation",
     "description": "This repository contains all the DSA (Data-Structures, Algorithms, 450 DSA by Love Babbar Bhaiya, FAANG Questions), Technical Subjects (OS + DBMS + SQL + CN + OOPs) Theory+Questions, FAANG Interview questions, and Miscellaneous Stuff (Programming MCQs, Puzzles, Aptitude, Reasoning). The Programming languages used for demonstration are C++, Pytho…",
     "language": "Jupyter Notebook",
-    "star": "227"
+    "star": "228"
   },
   {
     "title": "myspaghetti/macos-virtualbox",
     "url": "https://github.com/myspaghetti/macos-virtualbox",
     "description": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
     "language": "Shell",
-    "star": "67"
+    "star": "41"
   }
 ]
