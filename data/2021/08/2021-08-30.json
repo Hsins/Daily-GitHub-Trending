@@ -4,28 +4,28 @@
     "url": "https://github.com/nextcloud/server",
     "description": "☁️ Nextcloud server, a safe home for all your data",
     "language": "PHP",
-    "star": "333"
+    "star": "340"
   },
   {
     "title": "myspaghetti/macos-virtualbox",
     "url": "https://github.com/myspaghetti/macos-virtualbox",
     "description": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
     "language": "Shell",
-    "star": "218"
+    "star": "221"
   },
   {
     "title": "CyberPunkMetalHead/binance-trading-bot-new-coins",
     "url": "https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins",
     "description": "This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave.",
     "language": "Python",
-    "star": "101"
+    "star": "100"
   },
   {
     "title": "jina-ai/jina",
     "url": "https://github.com/jina-ai/jina",
     "description": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
     "language": "Python",
-    "star": "344"
+    "star": "305"
   },
   {
     "title": "topjohnwu/Magisk",
@@ -39,56 +39,56 @@
     "url": "https://github.com/benyaminahmed/nft-image-generator",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "102"
+    "star": "100"
   },
   {
     "title": "PeterL1n/RobustVideoMatting",
     "url": "https://github.com/PeterL1n/RobustVideoMatting",
     "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
     "language": "Python",
-    "star": "250"
+    "star": "210"
   },
   {
     "title": "Chia-Network/chia-blockchain",
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "85"
+    "star": "77"
   },
   {
     "title": "anuraghazra/github-readme-stats",
     "url": "https://github.com/anuraghazra/github-readme-stats",
     "description": "⚡ Dynamically generated stats for your github readmes",
     "language": "JavaScript",
-    "star": "79"
+    "star": "53"
   },
   {
     "title": "benbusby/whoogle-search",
     "url": "https://github.com/benbusby/whoogle-search",
     "description": "A self-hosted, ad-free, privacy-respecting metasearch engine",
     "language": "Python",
-    "star": "251"
+    "star": "250"
   },
   {
     "title": "Rapptz/discord.py",
     "url": "https://github.com/Rapptz/discord.py",
     "description": "An API wrapper for Discord written in Python.",
     "language": "Python",
-    "star": "85"
+    "star": "81"
   },
   {
     "title": "HashLips/generative-art-node",
     "url": "https://github.com/HashLips/generative-art-node",
     "description": "Create generative art by using the canvas api and node js",
     "language": "JavaScript",
-    "star": "81"
+    "star": "86"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "433"
+    "star": "467"
   },
   {
     "title": "TheAlgorithms/C-Plus-Plus",
@@ -109,7 +109,7 @@
     "url": "https://github.com/lite-xl/lite-xl",
     "description": "A lightweight text editor written in Lua",
     "language": "Lua",
-    "star": "173"
+    "star": "196"
   },
   {
     "title": "discordjs/discord.js",
@@ -130,7 +130,7 @@
     "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
     "description": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
     "language": "Java",
-    "star": "71"
+    "star": "84"
   },
   {
     "title": "KevinOConnor/klipper",
@@ -158,7 +158,7 @@
     "url": "https://github.com/whyour/qinglong",
     "description": "Python/JavaScript/Shell/Typescript 定时任务管理",
     "language": "TypeScript",
-    "star": "72"
+    "star": "80"
   },
   {
     "title": "htr-tech/zphisher",
