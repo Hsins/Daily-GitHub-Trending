@@ -11,14 +11,14 @@
     "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "star": "127"
+    "star": "123"
   },
   {
     "title": "netbox-community/netbox",
     "url": "https://github.com/netbox-community/netbox",
     "description": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
     "language": "Python",
-    "star": "63"
+    "star": "66"
   },
   {
     "title": "CyberPunkMetalHead/binance-trading-bot-new-coins",
@@ -32,77 +32,77 @@
     "url": "https://github.com/ClassmateLin/jd_scripts",
     "description": "Scripts",
     "language": "Python",
-    "star": "82"
+    "star": "80"
   },
   {
     "title": "coqui-ai/TTS",
     "url": "https://github.com/coqui-ai/TTS",
     "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
     "language": "Jupyter Notebook",
-    "star": "66"
+    "star": "72"
   },
   {
     "title": "madebygps/self-taught-guide-to-cloud-computing",
     "url": "https://github.com/madebygps/self-taught-guide-to-cloud-computing",
     "description": "Self-taught guide to cloud computing.",
     "language": "none",
-    "star": "85"
+    "star": "87"
   },
   {
     "title": "TencentARC/GFPGAN",
     "url": "https://github.com/TencentARC/GFPGAN",
     "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
     "language": "Python",
-    "star": "351"
+    "star": "355"
   },
   {
     "title": "solana-labs/solana",
     "url": "https://github.com/solana-labs/solana",
     "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
     "language": "Rust",
-    "star": "47"
+    "star": "49"
   },
   {
     "title": "myspaghetti/macos-virtualbox",
     "url": "https://github.com/myspaghetti/macos-virtualbox",
     "description": "Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS",
     "language": "Shell",
-    "star": "151"
+    "star": "145"
   },
   {
     "title": "nextcloud/server",
     "url": "https://github.com/nextcloud/server",
     "description": "☁️ Nextcloud server, a safe home for all your data",
     "language": "PHP",
-    "star": "332"
+    "star": "331"
   },
   {
     "title": "HashLips/generative-art-opensource",
     "url": "https://github.com/HashLips/generative-art-opensource",
     "description": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
     "language": "JavaScript",
-    "star": "21"
+    "star": "23"
   },
   {
     "title": "discordjs/discord.js",
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "184"
+    "star": "185"
   },
   {
     "title": "primefaces/primeng",
     "url": "https://github.com/primefaces/primeng",
     "description": "The Most Complete Angular UI Component Library",
     "language": "CSS",
-    "star": "21"
+    "star": "23"
   },
   {
     "title": "xinntao/Real-ESRGAN",
     "url": "https://github.com/xinntao/Real-ESRGAN",
     "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
     "language": "Python",
-    "star": "96"
+    "star": "94"
   },
   {
     "title": "cckuailong/vulbase",
@@ -116,7 +116,7 @@
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "87"
+    "star": "83"
   },
   {
     "title": "metaplex-foundation/metaplex",
@@ -130,7 +130,7 @@
     "url": "https://github.com/lucent-sea/Remotely",
     "description": "A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.",
     "language": "C#",
-    "star": "68"
+    "star": "69"
   },
   {
     "title": "HashLips/generative-art-node",
@@ -144,21 +144,21 @@
     "url": "https://github.com/facebookexperimental/Recoil",
     "description": "Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.",
     "language": "JavaScript",
-    "star": "29"
+    "star": "30"
   },
   {
     "title": "withfig/autocomplete",
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "102"
+    "star": "111"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "36"
+    "star": "39"
   },
   {
     "title": "rcmaehl/WhyNotWin11",
@@ -172,6 +172,6 @@
     "url": "https://github.com/angular/components",
     "description": "Component infrastructure and Material Design components for Angular",
     "language": "TypeScript",
-    "star": "54"
+    "star": "65"
   }
 ]
