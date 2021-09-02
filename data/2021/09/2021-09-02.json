@@ -18,7 +18,7 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "253"
+    "star": "256"
   },
   {
     "title": "jina-ai/jina",
@@ -39,49 +39,49 @@
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "86"
+    "star": "94"
   },
   {
     "title": "doocs/jvm",
     "url": "https://github.com/doocs/jvm",
     "description": "🤗 JVM 底层原理最全知识总结",
     "language": "Java",
-    "star": "73"
+    "star": "74"
   },
   {
     "title": "withfig/autocomplete",
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "271"
+    "star": "257"
   },
   {
     "title": "containers/podman",
     "url": "https://github.com/containers/podman",
     "description": "Podman: A tool for managing OCI containers and pods.",
     "language": "Go",
-    "star": "223"
+    "star": "259"
   },
   {
     "title": "PeterL1n/RobustVideoMatting",
     "url": "https://github.com/PeterL1n/RobustVideoMatting",
     "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
     "language": "none",
-    "star": "103"
+    "star": "106"
   },
   {
-    "title": "narze/THIS_REPO_HAS_1296_STARS",
-    "url": "https://github.com/narze/THIS_REPO_HAS_1296_STARS",
+    "title": "narze/THIS_REPO_HAS_1307_STARS",
+    "url": "https://github.com/narze/THIS_REPO_HAS_1307_STARS",
     "description": "Click Star ⭐️ to see it in action",
     "language": "JavaScript",
-    "star": "309"
+    "star": "317"
   },
   {
     "title": "pedroslopez/whatsapp-web.js",
     "url": "https://github.com/pedroslopez/whatsapp-web.js",
     "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
     "language": "JavaScript",
-    "star": "71"
+    "star": "76"
   },
   {
     "title": "doocs/advanced-java",
@@ -95,28 +95,28 @@
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "292"
+    "star": "283"
   },
   {
     "title": "Universidade-Livre/ciencia-da-computacao",
     "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
     "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
     "language": "none",
-    "star": "70"
+    "star": "65"
   },
   {
     "title": "amark/gun",
     "url": "https://github.com/amark/gun",
     "description": "An open source cybersecurity protocol for syncing decentralized graph data.",
     "language": "JavaScript",
-    "star": "96"
+    "star": "99"
   },
   {
     "title": "metaplex-foundation/metaplex",
     "url": "https://github.com/metaplex-foundation/metaplex",
     "description": "The Metaplex protocol",
     "language": "Rust",
-    "star": "81"
+    "star": "77"
   },
   {
     "title": "facebookincubator/Glean",
@@ -158,20 +158,20 @@
     "url": "https://github.com/Alamofire/Alamofire",
     "description": "Elegant HTTP Networking in Swift",
     "language": "Swift",
-    "star": "22"
+    "star": "25"
   },
   {
     "title": "apache/dolphinscheduler",
     "url": "https://github.com/apache/dolphinscheduler",
     "description": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.",
     "language": "Java",
-    "star": "31"
+    "star": "36"
   },
   {
     "title": "facebookexperimental/skybison",
     "url": "https://github.com/facebookexperimental/skybison",
     "description": "Instagram's experimental performance oriented greenfield implementation of Python.",
     "language": "C++",
-    "star": "37"
+    "star": "35"
   }
 ]
