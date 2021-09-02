@@ -4,77 +4,77 @@
     "url": "https://github.com/ClassmateLin/jd_scripts",
     "description": "Scripts",
     "language": "Python",
-    "star": "56"
+    "star": "58"
   },
   {
     "title": "projectdiscovery/nuclei-templates",
     "url": "https://github.com/projectdiscovery/nuclei-templates",
     "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
     "language": "Python",
-    "star": "31"
+    "star": "28"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "249"
+    "star": "253"
   },
   {
     "title": "jina-ai/jina",
     "url": "https://github.com/jina-ai/jina",
     "description": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
     "language": "Python",
-    "star": "295"
+    "star": "306"
   },
   {
     "title": "TencentARC/GFPGAN",
     "url": "https://github.com/TencentARC/GFPGAN",
     "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
     "language": "Python",
-    "star": "291"
+    "star": "300"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "92"
+    "star": "86"
   },
   {
     "title": "doocs/jvm",
     "url": "https://github.com/doocs/jvm",
     "description": "🤗 JVM 底层原理最全知识总结",
     "language": "Java",
-    "star": "71"
+    "star": "73"
   },
   {
     "title": "withfig/autocomplete",
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "263"
+    "star": "271"
   },
   {
     "title": "containers/podman",
     "url": "https://github.com/containers/podman",
     "description": "Podman: A tool for managing OCI containers and pods.",
     "language": "Go",
-    "star": "243"
+    "star": "223"
   },
   {
     "title": "PeterL1n/RobustVideoMatting",
     "url": "https://github.com/PeterL1n/RobustVideoMatting",
     "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
     "language": "none",
-    "star": "101"
+    "star": "103"
   },
   {
-    "title": "narze/THIS_REPO_HAS_1280_STARS",
-    "url": "https://github.com/narze/THIS_REPO_HAS_1280_STARS",
+    "title": "narze/THIS_REPO_HAS_1296_STARS",
+    "url": "https://github.com/narze/THIS_REPO_HAS_1296_STARS",
     "description": "Click Star ⭐️ to see it in action",
     "language": "JavaScript",
-    "star": "310"
+    "star": "309"
   },
   {
     "title": "pedroslopez/whatsapp-web.js",
@@ -88,28 +88,28 @@
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "117"
+    "star": "116"
   },
   {
     "title": "TheAlgorithms/Javascript",
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "293"
+    "star": "292"
   },
   {
     "title": "Universidade-Livre/ciencia-da-computacao",
     "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
     "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
     "language": "none",
-    "star": "68"
+    "star": "70"
   },
   {
     "title": "amark/gun",
     "url": "https://github.com/amark/gun",
     "description": "An open source cybersecurity protocol for syncing decentralized graph data.",
     "language": "JavaScript",
-    "star": "94"
+    "star": "96"
   },
   {
     "title": "metaplex-foundation/metaplex",
@@ -123,7 +123,7 @@
     "url": "https://github.com/facebookincubator/Glean",
     "description": "System for collecting, deriving and working with facts about source code.",
     "language": "Haskell",
-    "star": "88"
+    "star": "89"
   },
   {
     "title": "NielsRogge/Transformers-Tutorials",
@@ -137,14 +137,14 @@
     "url": "https://github.com/probml/pml-book",
     "description": "\"Probabilistic Machine Learning\" - a book series by Kevin Murphy",
     "language": "Jupyter Notebook",
-    "star": "68"
+    "star": "80"
   },
   {
     "title": "nextcloud/server",
     "url": "https://github.com/nextcloud/server",
     "description": "☁️ Nextcloud server, a safe home for all your data",
     "language": "PHP",
-    "star": "296"
+    "star": "301"
   },
   {
     "title": "dotnet/maui",
@@ -158,20 +158,20 @@
     "url": "https://github.com/Alamofire/Alamofire",
     "description": "Elegant HTTP Networking in Swift",
     "language": "Swift",
-    "star": "23"
+    "star": "22"
   },
   {
     "title": "apache/dolphinscheduler",
     "url": "https://github.com/apache/dolphinscheduler",
     "description": "Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.",
     "language": "Java",
-    "star": "33"
+    "star": "31"
   },
   {
     "title": "facebookexperimental/skybison",
     "url": "https://github.com/facebookexperimental/skybison",
     "description": "Instagram's experimental performance oriented greenfield implementation of Python.",
     "language": "C++",
-    "star": "36"
+    "star": "37"
   }
 ]
