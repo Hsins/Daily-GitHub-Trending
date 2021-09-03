@@ -4,28 +4,28 @@
     "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "star": "71"
+    "star": "63"
   },
   {
     "title": "aws/aws-cdk",
     "url": "https://github.com/aws/aws-cdk",
     "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
     "language": "TypeScript",
-    "star": "27"
+    "star": "41"
   },
   {
     "title": "rwightman/pytorch-image-models",
     "url": "https://github.com/rwightman/pytorch-image-models",
     "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
     "language": "Python",
-    "star": "41"
+    "star": "56"
   },
   {
     "title": "GokuMohandas/MadeWithML",
     "url": "https://github.com/GokuMohandas/MadeWithML",
     "description": "Learn how to responsibly deliver value with ML.",
     "language": "Jupyter Notebook",
-    "star": "132"
+    "star": "133"
   },
   {
     "title": "terrarier2111/Leafish",
@@ -39,112 +39,112 @@
     "url": "https://github.com/dblalock/bolt",
     "description": "10x faster matrix and vector operations.",
     "language": "C++",
-    "star": "199"
+    "star": "195"
   },
   {
     "title": "TheAlgorithms/Javascript",
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "214"
+    "star": "215"
   },
   {
     "title": "lucent-sea/Remotely",
     "url": "https://github.com/lucent-sea/Remotely",
     "description": "A remote control and remote scripting solution, built with .NET 5, Blazor, SignalR Core, and WebRTC.",
     "language": "C#",
-    "star": "40"
+    "star": "38"
   },
   {
     "title": "h3v0x/CVE-2021-26084_Confluence",
     "url": "https://github.com/h3v0x/CVE-2021-26084_Confluence",
     "description": "Confluence Server Webwork OGNL injection",
     "language": "Python",
-    "star": "30"
+    "star": "27"
   },
   {
     "title": "ThoughtfulDev/EagleEye",
     "url": "https://github.com/ThoughtfulDev/EagleEye",
     "description": "Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.",
     "language": "Python",
-    "star": "141"
+    "star": "142"
   },
   {
     "title": "angular/components",
     "url": "https://github.com/angular/components",
     "description": "Component infrastructure and Material Design components for Angular",
     "language": "TypeScript",
-    "star": "40"
+    "star": "48"
   },
   {
     "title": "doocs/advanced-java",
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "243"
+    "star": "239"
   },
   {
     "title": "openvinotoolkit/openvino",
     "url": "https://github.com/openvinotoolkit/openvino",
     "description": "OpenVINO™ Toolkit repository",
     "language": "C++",
-    "star": "24"
+    "star": "28"
   },
   {
     "title": "aaronwangy/Data-Science-Cheatsheet",
     "url": "https://github.com/aaronwangy/Data-Science-Cheatsheet",
     "description": "A helpful 5-page machine learning cheatsheet to assist with exam reviews, interview prep, and anything in-between.",
     "language": "TeX",
-    "star": "46"
+    "star": "49"
   },
   {
     "title": "metaplex-foundation/metaplex",
     "url": "https://github.com/metaplex-foundation/metaplex",
     "description": "The Metaplex protocol",
     "language": "Rust",
-    "star": "61"
+    "star": "60"
   },
   {
     "title": "HashLips/generative-art-opensource",
     "url": "https://github.com/HashLips/generative-art-opensource",
     "description": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
     "language": "JavaScript",
-    "star": "13"
+    "star": "22"
   },
   {
     "title": "Vonng/ddia",
     "url": "https://github.com/Vonng/ddia",
     "description": "《Designing Data-Intensive Application》DDIA中文翻译",
     "language": "Python",
-    "star": "69"
+    "star": "65"
   },
   {
     "title": "doocs/jvm",
     "url": "https://github.com/doocs/jvm",
     "description": "🤗 JVM 底层原理最全知识总结",
     "language": "Java",
-    "star": "141"
+    "star": "144"
   },
   {
     "title": "containers/podman",
     "url": "https://github.com/containers/podman",
     "description": "Podman: A tool for managing OCI containers and pods.",
     "language": "Go",
-    "star": "338"
+    "star": "347"
   },
   {
     "title": "erikalu/omnimatte",
     "url": "https://github.com/erikalu/omnimatte",
     "description": "",
     "language": "Python",
-    "star": "64"
+    "star": "71"
   },
   {
     "title": "jina-ai/jina",
     "url": "https://github.com/jina-ai/jina",
     "description": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
     "language": "Python",
-    "star": "286"
+    "star": "308"
   },
   {
     "title": "pedroslopez/whatsapp-web.js",
@@ -158,13 +158,13 @@
     "url": "https://github.com/netbox-community/netbox",
     "description": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
     "language": "Python",
-    "star": "31"
+    "star": "45"
   },
   {
     "title": "HowProgrammingWorks/Index",
     "url": "https://github.com/HowProgrammingWorks/Index",
     "description": "Metarhia educational program index 📖",
     "language": "JavaScript",
-    "star": "26"
+    "star": "28"
   }
 ]
