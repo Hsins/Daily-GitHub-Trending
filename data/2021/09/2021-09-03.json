@@ -60,7 +60,7 @@
     "url": "https://github.com/h3v0x/CVE-2021-26084_Confluence",
     "description": "Confluence Server Webwork OGNL injection",
     "language": "Python",
-    "star": "27"
+    "star": "30"
   },
   {
     "title": "ThoughtfulDev/EagleEye",
@@ -74,7 +74,7 @@
     "url": "https://github.com/angular/components",
     "description": "Component infrastructure and Material Design components for Angular",
     "language": "TypeScript",
-    "star": "48"
+    "star": "55"
   },
   {
     "title": "doocs/advanced-java",
@@ -116,7 +116,7 @@
     "url": "https://github.com/Vonng/ddia",
     "description": "《Designing Data-Intensive Application》DDIA中文翻译",
     "language": "Python",
-    "star": "65"
+    "star": "67"
   },
   {
     "title": "doocs/jvm",
@@ -165,6 +165,6 @@
     "url": "https://github.com/HowProgrammingWorks/Index",
     "description": "Metarhia educational program index 📖",
     "language": "JavaScript",
-    "star": "28"
+    "star": "33"
   }
 ]
