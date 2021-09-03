@@ -18,7 +18,7 @@
     "url": "https://github.com/rwightman/pytorch-image-models",
     "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
     "language": "Python",
-    "star": "56"
+    "star": "63"
   },
   {
     "title": "GokuMohandas/MadeWithML",
@@ -39,7 +39,7 @@
     "url": "https://github.com/dblalock/bolt",
     "description": "10x faster matrix and vector operations.",
     "language": "C++",
-    "star": "195"
+    "star": "206"
   },
   {
     "title": "TheAlgorithms/Javascript",
@@ -67,14 +67,14 @@
     "url": "https://github.com/ThoughtfulDev/EagleEye",
     "description": "Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.",
     "language": "Python",
-    "star": "142"
+    "star": "156"
   },
   {
     "title": "angular/components",
     "url": "https://github.com/angular/components",
     "description": "Component infrastructure and Material Design components for Angular",
     "language": "TypeScript",
-    "star": "55"
+    "star": "56"
   },
   {
     "title": "doocs/advanced-java",
@@ -88,7 +88,7 @@
     "url": "https://github.com/openvinotoolkit/openvino",
     "description": "OpenVINO™ Toolkit repository",
     "language": "C++",
-    "star": "28"
+    "star": "36"
   },
   {
     "title": "aaronwangy/Data-Science-Cheatsheet",
@@ -116,21 +116,21 @@
     "url": "https://github.com/Vonng/ddia",
     "description": "《Designing Data-Intensive Application》DDIA中文翻译",
     "language": "Python",
-    "star": "67"
+    "star": "68"
   },
   {
     "title": "doocs/jvm",
     "url": "https://github.com/doocs/jvm",
     "description": "🤗 JVM 底层原理最全知识总结",
     "language": "Java",
-    "star": "144"
+    "star": "141"
   },
   {
     "title": "containers/podman",
     "url": "https://github.com/containers/podman",
     "description": "Podman: A tool for managing OCI containers and pods.",
     "language": "Go",
-    "star": "347"
+    "star": "314"
   },
   {
     "title": "erikalu/omnimatte",
@@ -144,14 +144,14 @@
     "url": "https://github.com/jina-ai/jina",
     "description": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
     "language": "Python",
-    "star": "308"
+    "star": "314"
   },
   {
     "title": "pedroslopez/whatsapp-web.js",
     "url": "https://github.com/pedroslopez/whatsapp-web.js",
     "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
     "language": "JavaScript",
-    "star": "163"
+    "star": "170"
   },
   {
     "title": "netbox-community/netbox",
