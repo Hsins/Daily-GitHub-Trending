@@ -11,7 +11,7 @@
     "url": "https://github.com/GTAmodding/re3",
     "description": "GTA III, Vice City",
     "language": "C++",
-    "star": "93"
+    "star": "68"
   },
   {
     "title": "doocs/jvm",
@@ -25,7 +25,7 @@
     "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "star": "246"
+    "star": "241"
   },
   {
     "title": "microsoft/PowerToys",
@@ -53,7 +53,7 @@
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "200"
+    "star": "245"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
@@ -74,42 +74,42 @@
     "url": "https://github.com/Anish-Agnihotri/dhof-loot",
     "description": "Scripts to collect statistics about the LOOT + derivative projects.",
     "language": "JavaScript",
-    "star": "10"
+    "star": "11"
   },
   {
     "title": "dblalock/bolt",
     "url": "https://github.com/dblalock/bolt",
     "description": "10x faster matrix and vector operations.",
     "language": "C++",
-    "star": "235"
+    "star": "159"
   },
   {
     "title": "projectdiscovery/nuclei-templates",
     "url": "https://github.com/projectdiscovery/nuclei-templates",
     "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
     "language": "Python",
-    "star": "13"
+    "star": "8"
   },
   {
     "title": "nlohmann/json",
     "url": "https://github.com/nlohmann/json",
     "description": "JSON for Modern C++",
     "language": "C++",
-    "star": "40"
+    "star": "17"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "32"
+    "star": "11"
   },
   {
     "title": "GrrrDog/weird_proxies",
     "url": "https://github.com/GrrrDog/weird_proxies",
     "description": "Reverse proxies cheatsheet",
     "language": "Python",
-    "star": "22"
+    "star": "33"
   },
   {
     "title": "shenzhengfang/kkndme_tianya",
@@ -123,14 +123,14 @@
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "254"
+    "star": "262"
   },
   {
     "title": "containers/podman",
     "url": "https://github.com/containers/podman",
     "description": "Podman: A tool for managing OCI containers and pods.",
     "language": "Go",
-    "star": "182"
+    "star": "256"
   },
   {
     "title": "metaplex-foundation/metaplex",
@@ -144,7 +144,7 @@
     "url": "https://github.com/ThoughtfulDev/EagleEye",
     "description": "Stalk your Friends. Find their Instagram, FB and Twitter Profiles using Image Recognition and Reverse Image Search.",
     "language": "Python",
-    "star": "245"
+    "star": "268"
   },
   {
     "title": "opencomputeproject/Time-Appliance-Project",
@@ -165,7 +165,7 @@
     "url": "https://github.com/HashLips/generative-art-opensource",
     "description": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
     "language": "JavaScript",
-    "star": "50"
+    "star": "52"
   },
   {
     "title": "astropy/astropy",
