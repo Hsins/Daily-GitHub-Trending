@@ -1,0 +1,177 @@
+[
+  {
+    "title": "VickScarlet/lifeRestart",
+    "url": "https://github.com/VickScarlet/lifeRestart",
+    "description": "やり直すんだ。そして、次はうまくやる。",
+    "language": "JavaScript",
+    "star": "832"
+  },
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "description": "GTA III, Vice City",
+    "language": "C++",
+    "star": "140"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "language": "C++",
+    "star": "188"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "126"
+  },
+  {
+    "title": "bespoyasov/frontend-clean-architecture",
+    "url": "https://github.com/bespoyasov/frontend-clean-architecture",
+    "description": "React + TypeScript app built using clean architecture principles.",
+    "language": "TypeScript",
+    "star": "26"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "243"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "153"
+  },
+  {
+    "title": "khanhas/spicetify-cli",
+    "url": "https://github.com/khanhas/spicetify-cli",
+    "description": "Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "metaplex-foundation/metaplex",
+    "url": "https://github.com/metaplex-foundation/metaplex",
+    "description": "Protocol and application framework for decentralized NFT minting, storefronts, and sales.",
+    "language": "Rust",
+    "star": "77"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "HashLips/generative-art-opensource",
+    "url": "https://github.com/HashLips/generative-art-opensource",
+    "description": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
+    "language": "JavaScript",
+    "star": "67"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "language": "Assembly",
+    "star": "40"
+  },
+  {
+    "title": "AakashKumarNain/annotated_research_papers",
+    "url": "https://github.com/AakashKumarNain/annotated_research_papers",
+    "description": "This repo contains annotated research papers that I found really good and useful",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "mathaou/termdbms",
+    "url": "https://github.com/mathaou/termdbms",
+    "description": "A TUI for viewing and (eventually) editing database files. Only support for SQLite currently. MySQL support will be added soon.",
+    "language": "Go",
+    "star": "147"
+  },
+  {
+    "title": "DiegoVicen/som-tsp",
+    "url": "https://github.com/DiegoVicen/som-tsp",
+    "description": "Solving the Traveling Salesman Problem using Self-Organizing Maps",
+    "language": "Python",
+    "star": "66"
+  },
+  {
+    "title": "bpierre/loot-rarity",
+    "url": "https://github.com/bpierre/loot-rarity",
+    "description": "💠 Rarity levels for Loot.",
+    "language": "TypeScript",
+    "star": "13"
+  },
+  {
+    "title": "solana-labs/dapp-scaffold",
+    "url": "https://github.com/solana-labs/dapp-scaffold",
+    "description": "Scaffolding for a dapp built on Solana",
+    "language": "TypeScript",
+    "star": "9"
+  },
+  {
+    "title": "Anish-Agnihotri/dhof-loot",
+    "url": "https://github.com/Anish-Agnihotri/dhof-loot",
+    "description": "Scripts to collect statistics about LOOT + derivative projects.",
+    "language": "JavaScript",
+    "star": "49"
+  },
+  {
+    "title": "SeanDaBlack/AbBOT",
+    "url": "https://github.com/SeanDaBlack/AbBOT",
+    "description": "",
+    "language": "Python",
+    "star": "77"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "HowProgrammingWorks/Index",
+    "url": "https://github.com/HowProgrammingWorks/Index",
+    "description": "Metarhia educational program index 📖",
+    "language": "JavaScript",
+    "star": "8"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "star": "30"
+  },
+  {
+    "title": "dblalock/bolt",
+    "url": "https://github.com/dblalock/bolt",
+    "description": "10x faster matrix and vector operations.",
+    "language": "C++",
+    "star": "121"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "description": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "LunarVim/LunarVim",
+    "url": "https://github.com/LunarVim/LunarVim",
+    "description": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
+    "language": "Lua",
+    "star": "15"
+  }
+]
