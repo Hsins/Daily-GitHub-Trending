@@ -11,21 +11,21 @@
     "url": "https://github.com/GTAmodding/re3",
     "description": "GTA III, Vice City",
     "language": "C++",
-    "star": "140"
+    "star": "143"
   },
   {
     "title": "TheAlgorithms/C-Plus-Plus",
     "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "star": "188"
+    "star": "202"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "126"
+    "star": "125"
   },
   {
     "title": "bespoyasov/frontend-clean-architecture",
@@ -39,14 +39,14 @@
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "243"
+    "star": "244"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "153"
+    "star": "135"
   },
   {
     "title": "khanhas/spicetify-cli",
@@ -74,7 +74,7 @@
     "url": "https://github.com/HashLips/generative-art-opensource",
     "description": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
     "language": "JavaScript",
-    "star": "67"
+    "star": "65"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
@@ -102,7 +102,7 @@
     "url": "https://github.com/DiegoVicen/som-tsp",
     "description": "Solving the Traveling Salesman Problem using Self-Organizing Maps",
     "language": "Python",
-    "star": "66"
+    "star": "65"
   },
   {
     "title": "bpierre/loot-rarity",
@@ -123,14 +123,14 @@
     "url": "https://github.com/Anish-Agnihotri/dhof-loot",
     "description": "Scripts to collect statistics about LOOT + derivative projects.",
     "language": "JavaScript",
-    "star": "49"
+    "star": "33"
   },
   {
     "title": "SeanDaBlack/AbBOT",
     "url": "https://github.com/SeanDaBlack/AbBOT",
     "description": "",
     "language": "Python",
-    "star": "77"
+    "star": "70"
   },
   {
     "title": "willmcgugan/textual",
@@ -158,14 +158,14 @@
     "url": "https://github.com/dblalock/bolt",
     "description": "10x faster matrix and vector operations.",
     "language": "C++",
-    "star": "121"
+    "star": "128"
   },
   {
     "title": "Vonng/ddia",
     "url": "https://github.com/Vonng/ddia",
     "description": "《Designing Data-Intensive Application》DDIA中文翻译",
     "language": "Python",
-    "star": "25"
+    "star": "26"
   },
   {
     "title": "LunarVim/LunarVim",
