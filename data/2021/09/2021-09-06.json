@@ -18,7 +18,7 @@
     "url": "https://github.com/lootproject/website",
     "description": "Loot Project website",
     "language": "TypeScript",
-    "star": "37"
+    "star": "43"
   },
   {
     "title": "TheAlgorithms/Python",
@@ -32,49 +32,49 @@
     "url": "https://github.com/Anish-Agnihotri/dhof-loot",
     "description": "Scripts to collect statistics about LOOT + derivative projects.",
     "language": "JavaScript",
-    "star": "42"
+    "star": "38"
   },
   {
     "title": "TheAlgorithms/C-Plus-Plus",
     "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "star": "256"
+    "star": "254"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "246"
+    "star": "249"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "249"
+    "star": "240"
   },
   {
     "title": "openwrt/openwrt",
     "url": "https://github.com/openwrt/openwrt",
     "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org",
     "language": "C",
-    "star": "33"
+    "star": "36"
   },
   {
     "title": "v2fly/v2ray-core",
     "url": "https://github.com/v2fly/v2ray-core",
     "description": "A platform for building proxies to bypass network restrictions.",
     "language": "Go",
-    "star": "155"
+    "star": "149"
   },
   {
     "title": "MarlinFirmware/Marlin",
     "url": "https://github.com/MarlinFirmware/Marlin",
     "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "star": "22"
+    "star": "27"
   },
   {
     "title": "HashLips/generative-art-opensource",
@@ -88,7 +88,7 @@
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "378"
+    "star": "365"
   },
   {
     "title": "metaplex-foundation/metaplex",
@@ -102,35 +102,35 @@
     "url": "https://github.com/armosec/kubescape",
     "description": "kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)",
     "language": "Go",
-    "star": "200"
+    "star": "210"
   },
   {
     "title": "wrfree/free",
     "url": "https://github.com/wrfree/free",
     "description": "freefq账号已恢复！翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 -- free proxy node configuration, let programmers from China freely access the global network. Regular updates every 4 hours.",
     "language": "none",
-    "star": "50"
+    "star": "43"
   },
   {
     "title": "bespoyasov/frontend-clean-architecture",
     "url": "https://github.com/bespoyasov/frontend-clean-architecture",
     "description": "React + TypeScript app built using clean architecture principles.",
     "language": "TypeScript",
-    "star": "221"
+    "star": "213"
   },
   {
     "title": "TheAlgorithms/Javascript",
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "288"
+    "star": "289"
   },
   {
     "title": "0voice/Introduction-to-Golang",
     "url": "https://github.com/0voice/Introduction-to-Golang",
     "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
     "language": "none",
-    "star": "103"
+    "star": "109"
   },
   {
     "title": "iptv-org/iptv",
@@ -151,7 +151,7 @@
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "258"
+    "star": "264"
   },
   {
     "title": "NotLuksus/nft-art-generator",
@@ -165,7 +165,7 @@
     "url": "https://github.com/vnpy/vnpy",
     "description": "基于Python的开源量化交易平台开发框架",
     "language": "C++",
-    "star": "70"
+    "star": "73"
   },
   {
     "title": "jackfrued/Python-100-Days",
