@@ -18,14 +18,14 @@
     "url": "https://github.com/lootproject/website",
     "description": "Loot Project website",
     "language": "TypeScript",
-    "star": "43"
+    "star": "44"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "326"
+    "star": "325"
   },
   {
     "title": "Anish-Agnihotri/dhof-loot",
@@ -39,21 +39,21 @@
     "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "star": "254"
+    "star": "252"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "249"
+    "star": "250"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "240"
+    "star": "239"
   },
   {
     "title": "openwrt/openwrt",
@@ -74,21 +74,21 @@
     "url": "https://github.com/MarlinFirmware/Marlin",
     "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "star": "27"
+    "star": "30"
   },
   {
     "title": "HashLips/generative-art-opensource",
     "url": "https://github.com/HashLips/generative-art-opensource",
     "description": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
     "language": "JavaScript",
-    "star": "117"
+    "star": "114"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "365"
+    "star": "358"
   },
   {
     "title": "metaplex-foundation/metaplex",
@@ -109,69 +109,69 @@
     "url": "https://github.com/wrfree/free",
     "description": "freefq账号已恢复！翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子 -- free proxy node configuration, let programmers from China freely access the global network. Regular updates every 4 hours.",
     "language": "none",
-    "star": "43"
+    "star": "44"
   },
   {
     "title": "bespoyasov/frontend-clean-architecture",
     "url": "https://github.com/bespoyasov/frontend-clean-architecture",
     "description": "React + TypeScript app built using clean architecture principles.",
     "language": "TypeScript",
-    "star": "213"
+    "star": "210"
   },
   {
     "title": "TheAlgorithms/Javascript",
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "289"
+    "star": "285"
   },
   {
     "title": "0voice/Introduction-to-Golang",
     "url": "https://github.com/0voice/Introduction-to-Golang",
     "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
     "language": "none",
-    "star": "109"
+    "star": "110"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "83"
+    "star": "92"
   },
   {
     "title": "Anuken/Mindustry",
     "url": "https://github.com/Anuken/Mindustry",
     "description": "A sandbox tower defense game",
     "language": "Java",
-    "star": "94"
+    "star": "125"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "264"
+    "star": "266"
   },
   {
     "title": "NotLuksus/nft-art-generator",
     "url": "https://github.com/NotLuksus/nft-art-generator",
     "description": "A tool to generate generative NFT art projects.",
     "language": "JavaScript",
-    "star": "36"
+    "star": "41"
   },
   {
     "title": "vnpy/vnpy",
     "url": "https://github.com/vnpy/vnpy",
     "description": "基于Python的开源量化交易平台开发框架",
     "language": "C++",
-    "star": "73"
+    "star": "76"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "66"
+    "star": "75"
   }
 ]
