@@ -4,7 +4,7 @@
     "url": "https://github.com/ErickWendel/semana-javascript-expert05",
     "description": "Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone",
     "language": "JavaScript",
-    "star": "218"
+    "star": "220"
   },
   {
     "title": "wangdoc/clang-tutorial",
@@ -18,14 +18,14 @@
     "url": "https://github.com/0voice/Introduction-to-Golang",
     "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
     "language": "none",
-    "star": "223"
+    "star": "224"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "370"
+    "star": "359"
   },
   {
     "title": "andrecronje/rarity",
@@ -39,7 +39,7 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "165"
+    "star": "172"
   },
   {
     "title": "FiloSottile/age",
@@ -53,28 +53,28 @@
     "url": "https://github.com/xfangfang/Macast",
     "description": "Macast is a cross-platform application which using mpv as DLNA Media Renderer.",
     "language": "Python",
-    "star": "129"
+    "star": "140"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
     "language": "Python",
-    "star": "229"
+    "star": "230"
   },
   {
     "title": "kurogai/100-redteam-projects",
     "url": "https://github.com/kurogai/100-redteam-projects",
     "description": "Projects for security students",
     "language": "none",
-    "star": "70"
+    "star": "71"
   },
   {
     "title": "cockroachdb/cockroach",
     "url": "https://github.com/cockroachdb/cockroach",
     "description": "CockroachDB - the open source, cloud-native distributed SQL database.",
     "language": "Go",
-    "star": "73"
+    "star": "86"
   },
   {
     "title": "girliemac/a-picture-is-worth-a-1000-words",
@@ -88,7 +88,7 @@
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "285"
+    "star": "280"
   },
   {
     "title": "alibaba/nacos",
@@ -109,7 +109,7 @@
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "454"
+    "star": "448"
   },
   {
     "title": "orico/www.mlcompendium.com",
@@ -123,55 +123,55 @@
     "url": "https://github.com/WorldQL/mammoth",
     "description": "",
     "language": "Java",
-    "star": "71"
+    "star": "73"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "87"
+    "star": "86"
   },
   {
     "title": "bespoyasov/frontend-clean-architecture",
     "url": "https://github.com/bespoyasov/frontend-clean-architecture",
     "description": "React + TypeScript app built using clean architecture principles.",
     "language": "TypeScript",
-    "star": "227"
+    "star": "228"
   },
   {
     "title": "dankamongmen/notcurses",
     "url": "https://github.com/dankamongmen/notcurses",
     "description": "blingful character graphics/TUI library. definitely not curses.",
     "language": "C",
-    "star": "79"
+    "star": "81"
   },
   {
     "title": "HashLips/generative-art-opensource",
     "url": "https://github.com/HashLips/generative-art-opensource",
     "description": "Create generative art by using the canvas api and node js, feel free to contribute to this repo with new ideas.",
     "language": "JavaScript",
-    "star": "121"
+    "star": "120"
   },
   {
     "title": "countercept/chainsaw",
     "url": "https://github.com/countercept/chainsaw",
     "description": "Rapidly Search and Hunt through Windows Event Logs",
     "language": "Rust",
-    "star": "86"
+    "star": "87"
   },
   {
     "title": "alexeygrigorev/mlbookcamp-code",
     "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
     "description": "The code from the Machine Learning Bookcamp book and a free course based on the book",
     "language": "Jupyter Notebook",
-    "star": "161"
+    "star": "162"
   },
   {
     "title": "Anuken/Mindustry",
     "url": "https://github.com/Anuken/Mindustry",
     "description": "A sandbox tower defense game",
     "language": "Java",
-    "star": "311"
+    "star": "315"
   }
 ]
