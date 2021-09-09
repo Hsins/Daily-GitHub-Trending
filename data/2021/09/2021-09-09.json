@@ -4,174 +4,174 @@
     "url": "https://github.com/wangdoc/clang-tutorial",
     "description": "C 语言教程",
     "language": "none",
-    "star": "149"
+    "star": "147"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
     "language": "Python",
-    "star": "247"
+    "star": "242"
   },
   {
     "title": "0voice/Introduction-to-Golang",
     "url": "https://github.com/0voice/Introduction-to-Golang",
     "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
     "language": "none",
-    "star": "277"
+    "star": "281"
   },
   {
     "title": "cloudwego/kitex",
     "url": "https://github.com/cloudwego/kitex",
     "description": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
     "language": "Go",
-    "star": "265"
+    "star": "268"
   },
   {
     "title": "exiled-apes/candy-machine-mint",
     "url": "https://github.com/exiled-apes/candy-machine-mint",
     "description": "Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.",
     "language": "TypeScript",
-    "star": "19"
+    "star": "36"
   },
   {
     "title": "XTLS/Xray-core",
     "url": "https://github.com/XTLS/Xray-core",
     "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
     "language": "Go",
-    "star": "40"
+    "star": "42"
   },
   {
     "title": "cockroachdb/cockroach",
     "url": "https://github.com/cockroachdb/cockroach",
     "description": "CockroachDB - the open source, cloud-native distributed SQL database.",
     "language": "Go",
-    "star": "236"
+    "star": "239"
   },
   {
     "title": "mgdm/htmlq",
     "url": "https://github.com/mgdm/htmlq",
     "description": "Like jq, but for HTML.",
     "language": "Rust",
-    "star": "565"
+    "star": "581"
   },
   {
     "title": "andrecronje/rarity",
     "url": "https://github.com/andrecronje/rarity",
     "description": "d20srd reference implementation codified in solidity",
     "language": "Solidity",
-    "star": "66"
+    "star": "62"
   },
   {
     "title": "geemion/Khepri",
     "url": "https://github.com/geemion/Khepri",
     "description": "🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.",
     "language": "C++",
-    "star": "196"
+    "star": "198"
   },
   {
     "title": "doctorray117/minecraft-ondemand",
     "url": "https://github.com/doctorray117/minecraft-ondemand",
     "description": "Templates to deploy a serverless Minecraft Server on demand in AWS",
     "language": "Shell",
-    "star": "350"
+    "star": "329"
   },
   {
     "title": "iperov/DeepFaceLive",
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "",
     "language": "Python",
-    "star": "125"
+    "star": "127"
   },
   {
     "title": "freefq/free",
     "url": "https://github.com/freefq/free",
     "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
     "language": "none",
-    "star": "141"
+    "star": "140"
   },
   {
     "title": "rammcodes/Dopefolio",
     "url": "https://github.com/rammcodes/Dopefolio",
     "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
     "language": "HTML",
-    "star": "154"
+    "star": "158"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "132"
+    "star": "139"
   },
   {
     "title": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "51"
+    "star": "50"
   },
   {
     "title": "abseil/abseil-cpp",
     "url": "https://github.com/abseil/abseil-cpp",
     "description": "Abseil Common Libraries (C++)",
     "language": "C++",
-    "star": "42"
+    "star": "43"
   },
   {
     "title": "xinntao/Real-ESRGAN",
     "url": "https://github.com/xinntao/Real-ESRGAN",
     "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
     "language": "Python",
-    "star": "208"
+    "star": "217"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "297"
+    "star": "301"
   },
   {
     "title": "ghealer/GUI_Tools",
     "url": "https://github.com/ghealer/GUI_Tools",
     "description": "一个由各种图形化渗透工具组成的工具集",
     "language": "Python",
-    "star": "26"
+    "star": "29"
   },
   {
     "title": "huggingface/datasets",
     "url": "https://github.com/huggingface/datasets",
     "description": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
     "language": "Python",
-    "star": "200"
+    "star": "214"
   },
   {
     "title": "aaaddress1/PR0CESS",
     "url": "https://github.com/aaaddress1/PR0CESS",
     "description": "some gadgets about windows process and ready to use :)",
     "language": "C",
-    "star": "23"
+    "star": "24"
   },
   {
     "title": "ErickWendel/semana-javascript-expert05",
     "url": "https://github.com/ErickWendel/semana-javascript-expert05",
     "description": "Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone",
     "language": "JavaScript",
-    "star": "236"
+    "star": "228"
   },
   {
     "title": "DayBreak-u/chineseocr_lite",
     "url": "https://github.com/DayBreak-u/chineseocr_lite",
     "description": "超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M",
     "language": "C++",
-    "star": "31"
+    "star": "43"
   },
   {
     "title": "devsuperior/sds4",
     "url": "https://github.com/devsuperior/sds4",
     "description": "",
     "language": "none",
-    "star": "23"
+    "star": "25"
   }
 ]
