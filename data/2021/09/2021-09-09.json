@@ -11,56 +11,56 @@
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
     "language": "Python",
-    "star": "242"
+    "star": "240"
   },
   {
     "title": "0voice/Introduction-to-Golang",
     "url": "https://github.com/0voice/Introduction-to-Golang",
     "description": "【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt",
     "language": "none",
-    "star": "281"
+    "star": "279"
   },
   {
     "title": "cloudwego/kitex",
     "url": "https://github.com/cloudwego/kitex",
     "description": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
     "language": "Go",
-    "star": "268"
+    "star": "274"
   },
   {
     "title": "exiled-apes/candy-machine-mint",
     "url": "https://github.com/exiled-apes/candy-machine-mint",
     "description": "Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.",
     "language": "TypeScript",
-    "star": "36"
+    "star": "39"
   },
   {
     "title": "XTLS/Xray-core",
     "url": "https://github.com/XTLS/Xray-core",
     "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
     "language": "Go",
-    "star": "42"
+    "star": "44"
   },
   {
     "title": "cockroachdb/cockroach",
     "url": "https://github.com/cockroachdb/cockroach",
     "description": "CockroachDB - the open source, cloud-native distributed SQL database.",
     "language": "Go",
-    "star": "239"
+    "star": "233"
   },
   {
     "title": "mgdm/htmlq",
     "url": "https://github.com/mgdm/htmlq",
     "description": "Like jq, but for HTML.",
     "language": "Rust",
-    "star": "581"
+    "star": "542"
   },
   {
     "title": "andrecronje/rarity",
     "url": "https://github.com/andrecronje/rarity",
     "description": "d20srd reference implementation codified in solidity",
     "language": "Solidity",
-    "star": "62"
+    "star": "63"
   },
   {
     "title": "geemion/Khepri",
@@ -81,7 +81,7 @@
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "",
     "language": "Python",
-    "star": "127"
+    "star": "126"
   },
   {
     "title": "freefq/free",
@@ -95,14 +95,14 @@
     "url": "https://github.com/rammcodes/Dopefolio",
     "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
     "language": "HTML",
-    "star": "158"
+    "star": "156"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "139"
+    "star": "141"
   },
   {
     "title": "nvm-sh/nvm",
@@ -116,7 +116,7 @@
     "url": "https://github.com/abseil/abseil-cpp",
     "description": "Abseil Common Libraries (C++)",
     "language": "C++",
-    "star": "43"
+    "star": "44"
   },
   {
     "title": "xinntao/Real-ESRGAN",
@@ -144,7 +144,7 @@
     "url": "https://github.com/huggingface/datasets",
     "description": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
     "language": "Python",
-    "star": "214"
+    "star": "213"
   },
   {
     "title": "aaaddress1/PR0CESS",
@@ -158,7 +158,7 @@
     "url": "https://github.com/ErickWendel/semana-javascript-expert05",
     "description": "Todas as aulas da Semana JS Expert 5.0 - Google Drive Clone",
     "language": "JavaScript",
-    "star": "228"
+    "star": "226"
   },
   {
     "title": "DayBreak-u/chineseocr_lite",
