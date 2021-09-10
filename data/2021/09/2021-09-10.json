@@ -11,14 +11,14 @@
     "url": "https://github.com/cloudwego/kitex",
     "description": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
     "language": "Go",
-    "star": "303"
+    "star": "306"
   },
   {
     "title": "exiled-apes/candy-machine-mint",
     "url": "https://github.com/exiled-apes/candy-machine-mint",
     "description": "Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.",
     "language": "TypeScript",
-    "star": "43"
+    "star": "44"
   },
   {
     "title": "Azure/azure-cli",
@@ -46,7 +46,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "161"
+    "star": "166"
   },
   {
     "title": "protocolbuffers/protobuf",
@@ -60,7 +60,7 @@
     "url": "https://github.com/OWASP/Top10",
     "description": "Official OWASP Top 10 Document Repository",
     "language": "HTML",
-    "star": "67"
+    "star": "66"
   },
   {
     "title": "spiceai/spiceai",
@@ -81,28 +81,28 @@
     "url": "https://github.com/geemion/Khepri",
     "description": "🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.",
     "language": "C++",
-    "star": "213"
+    "star": "214"
   },
   {
     "title": "apache/incubator-doris",
     "url": "https://github.com/apache/incubator-doris",
     "description": "Apache Doris (Incubating)",
     "language": "Java",
-    "star": "49"
+    "star": "51"
   },
   {
     "title": "rammcodes/Dopefolio",
     "url": "https://github.com/rammcodes/Dopefolio",
     "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
     "language": "HTML",
-    "star": "195"
+    "star": "197"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
     "language": "Python",
-    "star": "270"
+    "star": "289"
   },
   {
     "title": "freefq/free",
@@ -130,7 +130,7 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "46"
+    "star": "84"
   },
   {
     "title": "AshishJangra27/Skill-India-AI-ML-Scholarship",
@@ -151,21 +151,21 @@
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "66"
+    "star": "92"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "302"
+    "star": "307"
   },
   {
     "title": "spikecodes/libreddit",
     "url": "https://github.com/spikecodes/libreddit",
     "description": "Private front-end for Reddit written in Rust",
     "language": "Rust",
-    "star": "47"
+    "star": "48"
   },
   {
     "title": "flipperdevices/flipperzero-firmware",
