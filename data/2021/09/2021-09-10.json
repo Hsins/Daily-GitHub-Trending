@@ -11,14 +11,14 @@
     "url": "https://github.com/cloudwego/kitex",
     "description": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
     "language": "Go",
-    "star": "306"
+    "star": "303"
   },
   {
     "title": "exiled-apes/candy-machine-mint",
     "url": "https://github.com/exiled-apes/candy-machine-mint",
     "description": "Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.",
     "language": "TypeScript",
-    "star": "45"
+    "star": "43"
   },
   {
     "title": "Azure/azure-cli",
@@ -46,7 +46,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "166"
+    "star": "161"
   },
   {
     "title": "protocolbuffers/protobuf",
@@ -81,28 +81,28 @@
     "url": "https://github.com/geemion/Khepri",
     "description": "🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.",
     "language": "C++",
-    "star": "215"
+    "star": "213"
   },
   {
     "title": "apache/incubator-doris",
     "url": "https://github.com/apache/incubator-doris",
     "description": "Apache Doris (Incubating)",
     "language": "Java",
-    "star": "51"
+    "star": "49"
   },
   {
     "title": "rammcodes/Dopefolio",
     "url": "https://github.com/rammcodes/Dopefolio",
     "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
     "language": "HTML",
-    "star": "230"
+    "star": "195"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
     "language": "Python",
-    "star": "291"
+    "star": "270"
   },
   {
     "title": "freefq/free",
@@ -130,7 +130,7 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "52"
+    "star": "46"
   },
   {
     "title": "AshishJangra27/Skill-India-AI-ML-Scholarship",
@@ -151,14 +151,14 @@
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "65"
+    "star": "66"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "306"
+    "star": "302"
   },
   {
     "title": "spikecodes/libreddit",
