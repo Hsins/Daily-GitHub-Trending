@@ -1,0 +1,177 @@
+[
+  {
+    "title": "cloudwego/netpoll",
+    "url": "https://github.com/cloudwego/netpoll",
+    "description": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
+    "language": "Go",
+    "star": "56"
+  },
+  {
+    "title": "cloudwego/kitex",
+    "url": "https://github.com/cloudwego/kitex",
+    "description": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
+    "language": "Go",
+    "star": "306"
+  },
+  {
+    "title": "exiled-apes/candy-machine-mint",
+    "url": "https://github.com/exiled-apes/candy-machine-mint",
+    "description": "Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.",
+    "language": "TypeScript",
+    "star": "45"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "description": "Azure Command-Line Interface",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "spotify/pedalboard",
+    "url": "https://github.com/spotify/pedalboard",
+    "description": "🎛 🔊 A Python library for adding effects to audio.",
+    "language": "C++",
+    "star": "275"
+  },
+  {
+    "title": "polarismesh/polaris",
+    "url": "https://github.com/polarismesh/polaris",
+    "description": "Service Discovery and Governance Center for Distributed and Microservice Architecture",
+    "language": "Go",
+    "star": "48"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "166"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "26"
+  },
+  {
+    "title": "OWASP/Top10",
+    "url": "https://github.com/OWASP/Top10",
+    "description": "Official OWASP Top 10 Document Repository",
+    "language": "HTML",
+    "star": "67"
+  },
+  {
+    "title": "spiceai/spiceai",
+    "url": "https://github.com/spiceai/spiceai",
+    "description": "Time series AI for developers",
+    "language": "Go",
+    "star": "108"
+  },
+  {
+    "title": "alex000kim/nsfw_data_scraper",
+    "url": "https://github.com/alex000kim/nsfw_data_scraper",
+    "description": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "language": "Shell",
+    "star": "10"
+  },
+  {
+    "title": "geemion/Khepri",
+    "url": "https://github.com/geemion/Khepri",
+    "description": "🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.",
+    "language": "C++",
+    "star": "215"
+  },
+  {
+    "title": "apache/incubator-doris",
+    "url": "https://github.com/apache/incubator-doris",
+    "description": "Apache Doris (Incubating)",
+    "language": "Java",
+    "star": "51"
+  },
+  {
+    "title": "rammcodes/Dopefolio",
+    "url": "https://github.com/rammcodes/Dopefolio",
+    "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
+    "language": "HTML",
+    "star": "230"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "language": "Python",
+    "star": "291"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "141"
+  },
+  {
+    "title": "ABZ-Aaron/CheatSheets",
+    "url": "https://github.com/ABZ-Aaron/CheatSheets",
+    "description": "Just a place to store cheatsheets",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "MoH-Malaysia/covid19-public",
+    "url": "https://github.com/MoH-Malaysia/covid19-public",
+    "description": "Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.",
+    "language": "none",
+    "star": "27"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "52"
+  },
+  {
+    "title": "AshishJangra27/Skill-India-AI-ML-Scholarship",
+    "url": "https://github.com/AshishJangra27/Skill-India-AI-ML-Scholarship",
+    "description": "This repository is having all the codes used in AI/ML Skill India Scholarship by Elite Techno Groups.",
+    "language": "Jupyter Notebook",
+    "star": "20"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "72"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "65"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "306"
+  },
+  {
+    "title": "spikecodes/libreddit",
+    "url": "https://github.com/spikecodes/libreddit",
+    "description": "Private front-end for Reddit written in Rust",
+    "language": "Rust",
+    "star": "47"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "description": "Flipper Zero Firmware",
+    "language": "C",
+    "star": "39"
+  }
+]
