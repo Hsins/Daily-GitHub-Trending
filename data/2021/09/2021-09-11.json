@@ -4,14 +4,14 @@
     "url": "https://github.com/cloudwego/netpoll",
     "description": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
     "language": "Go",
-    "star": "202"
+    "star": "176"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "232"
+    "star": "231"
   },
   {
     "title": "Azure/azure-cli",
@@ -25,7 +25,7 @@
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "132"
+    "star": "138"
   },
   {
     "title": "ChoiceCoin/ChoiceCoin.github.io",
@@ -39,49 +39,49 @@
     "url": "https://github.com/MoH-Malaysia/covid19-public",
     "description": "Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.",
     "language": "none",
-    "star": "42"
+    "star": "40"
   },
   {
     "title": "cloudwego/kitex",
     "url": "https://github.com/cloudwego/kitex",
     "description": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
     "language": "Go",
-    "star": "173"
+    "star": "170"
   },
   {
     "title": "ffffffff0x/Digital-Privacy",
     "url": "https://github.com/ffffffff0x/Digital-Privacy",
     "description": "一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗",
     "language": "none",
-    "star": "73"
+    "star": "36"
   },
   {
     "title": "DataDog/go-profiler-notes",
     "url": "https://github.com/DataDog/go-profiler-notes",
     "description": "felixge's notes on the various go profiling methods that are available.",
     "language": "Jupyter Notebook",
-    "star": "104"
+    "star": "83"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "62"
+    "star": "69"
   },
   {
     "title": "rammcodes/Dopefolio",
     "url": "https://github.com/rammcodes/Dopefolio",
     "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
     "language": "HTML",
-    "star": "391"
+    "star": "218"
   },
   {
     "title": "apache/incubator-doris",
     "url": "https://github.com/apache/incubator-doris",
     "description": "Apache Doris (Incubating)",
     "language": "Java",
-    "star": "85"
+    "star": "77"
   },
   {
     "title": "dotnet/csharplang",
@@ -95,14 +95,14 @@
     "url": "https://github.com/diegolnasc/kubernetes-best-practices",
     "description": "A cookbook with the best practices for working with kubernetes.",
     "language": "none",
-    "star": "169"
+    "star": "94"
   },
   {
     "title": "spotify/pedalboard",
     "url": "https://github.com/spotify/pedalboard",
     "description": "🎛 🔊 A Python library for adding effects to audio.",
     "language": "C++",
-    "star": "523"
+    "star": "431"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
@@ -116,21 +116,21 @@
     "url": "https://github.com/OWASP/Top10",
     "description": "Official OWASP Top 10 Document Repository",
     "language": "HTML",
-    "star": "159"
+    "star": "168"
   },
   {
     "title": "huggingface/datasets",
     "url": "https://github.com/huggingface/datasets",
     "description": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
     "language": "Python",
-    "star": "67"
+    "star": "71"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "21"
+    "star": "10"
   },
   {
     "title": "ReactiveX/RxJava",
@@ -158,7 +158,7 @@
     "url": "https://github.com/HashLips/generative-art-node",
     "description": "Create generative art by using the canvas api and node js",
     "language": "JavaScript",
-    "star": "39"
+    "star": "42"
   },
   {
     "title": "microsoft/qlib",
@@ -172,6 +172,6 @@
     "url": "https://github.com/abseil/abseil-cpp",
     "description": "Abseil Common Libraries (C++)",
     "language": "C++",
-    "star": "7"
+    "star": "23"
   }
 ]
