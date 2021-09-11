@@ -4,21 +4,21 @@
     "url": "https://github.com/cloudwego/netpoll",
     "description": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
     "language": "Go",
-    "star": "99"
+    "star": "202"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "227"
+    "star": "232"
   },
   {
     "title": "Azure/azure-cli",
     "url": "https://github.com/Azure/azure-cli",
     "description": "Azure Command-Line Interface",
     "language": "Python",
-    "star": "101"
+    "star": "100"
   },
   {
     "title": "yangshun/tech-interview-handbook",
@@ -39,21 +39,21 @@
     "url": "https://github.com/MoH-Malaysia/covid19-public",
     "description": "Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.",
     "language": "none",
-    "star": "40"
+    "star": "42"
   },
   {
     "title": "cloudwego/kitex",
     "url": "https://github.com/cloudwego/kitex",
     "description": "A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.",
     "language": "Go",
-    "star": "155"
+    "star": "173"
   },
   {
     "title": "ffffffff0x/Digital-Privacy",
     "url": "https://github.com/ffffffff0x/Digital-Privacy",
     "description": "一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗",
     "language": "none",
-    "star": "39"
+    "star": "73"
   },
   {
     "title": "DataDog/go-profiler-notes",
@@ -67,70 +67,70 @@
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "51"
+    "star": "62"
   },
   {
     "title": "rammcodes/Dopefolio",
     "url": "https://github.com/rammcodes/Dopefolio",
     "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
     "language": "HTML",
-    "star": "238"
+    "star": "391"
   },
   {
     "title": "apache/incubator-doris",
     "url": "https://github.com/apache/incubator-doris",
     "description": "Apache Doris (Incubating)",
     "language": "Java",
-    "star": "90"
+    "star": "85"
   },
   {
     "title": "dotnet/csharplang",
     "url": "https://github.com/dotnet/csharplang",
     "description": "The official repo for the design of the C# programming language",
     "language": "C#",
-    "star": "41"
+    "star": "9"
   },
   {
     "title": "diegolnasc/kubernetes-best-practices",
     "url": "https://github.com/diegolnasc/kubernetes-best-practices",
     "description": "A cookbook with the best practices for working with kubernetes.",
     "language": "none",
-    "star": "167"
+    "star": "169"
   },
   {
     "title": "spotify/pedalboard",
     "url": "https://github.com/spotify/pedalboard",
     "description": "🎛 🔊 A Python library for adding effects to audio.",
     "language": "C++",
-    "star": "511"
+    "star": "523"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "179"
+    "star": "191"
   },
   {
     "title": "OWASP/Top10",
     "url": "https://github.com/OWASP/Top10",
     "description": "Official OWASP Top 10 Document Repository",
     "language": "HTML",
-    "star": "156"
+    "star": "159"
   },
   {
     "title": "huggingface/datasets",
     "url": "https://github.com/huggingface/datasets",
     "description": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
     "language": "Python",
-    "star": "31"
+    "star": "67"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "10"
+    "star": "21"
   },
   {
     "title": "ReactiveX/RxJava",
@@ -144,7 +144,7 @@
     "url": "https://github.com/Jack-Cherish/quantitative",
     "description": "",
     "language": "Python",
-    "star": "8"
+    "star": "5"
   },
   {
     "title": "huggingface/transformers",
@@ -158,20 +158,20 @@
     "url": "https://github.com/HashLips/generative-art-node",
     "description": "Create generative art by using the canvas api and node js",
     "language": "JavaScript",
-    "star": "32"
+    "star": "39"
   },
   {
     "title": "microsoft/qlib",
     "url": "https://github.com/microsoft/qlib",
     "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
     "language": "Python",
-    "star": "8"
+    "star": "9"
   },
   {
     "title": "abseil/abseil-cpp",
     "url": "https://github.com/abseil/abseil-cpp",
     "description": "Abseil Common Libraries (C++)",
     "language": "C++",
-    "star": "19"
+    "star": "7"
   }
 ]
