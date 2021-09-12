@@ -4,63 +4,63 @@
     "url": "https://github.com/microsoft/wslg",
     "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios",
     "language": "C++",
-    "star": "247"
+    "star": "264"
   },
   {
     "title": "rammcodes/Dopefolio",
     "url": "https://github.com/rammcodes/Dopefolio",
     "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
     "language": "HTML",
-    "star": "156"
+    "star": "148"
   },
   {
     "title": "TaKO8Ki/gobang",
     "url": "https://github.com/TaKO8Ki/gobang",
     "description": "A cross-platform TUI database management tool written in Rust",
     "language": "Rust",
-    "star": "244"
+    "star": "309"
   },
   {
     "title": "MoH-Malaysia/covid19-public",
     "url": "https://github.com/MoH-Malaysia/covid19-public",
     "description": "Official data on the COVID-19 epidemic in Malaysia. Powered by CPRC, CPRC Hospital System, MKAK, and MySejahtera.",
     "language": "none",
-    "star": "32"
+    "star": "35"
   },
   {
     "title": "exiled-apes/candy-machine-mint",
     "url": "https://github.com/exiled-apes/candy-machine-mint",
     "description": "Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.",
     "language": "TypeScript",
-    "star": "36"
+    "star": "22"
   },
   {
     "title": "smartcontractkit/full-blockchain-solidity-course-py",
     "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
     "description": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition",
     "language": "none",
-    "star": "94"
+    "star": "79"
   },
   {
     "title": "graviraja/MLOps-Basics",
     "url": "https://github.com/graviraja/MLOps-Basics",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "161"
+    "star": "147"
   },
   {
     "title": "supabase/supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "95"
+    "star": "52"
   },
   {
     "title": "cloudwego/netpoll",
     "url": "https://github.com/cloudwego/netpoll",
     "description": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
     "language": "Go",
-    "star": "162"
+    "star": "177"
   },
   {
     "title": "godotengine/godot",
@@ -74,49 +74,49 @@
     "url": "https://github.com/ChoiceCoin/Voting",
     "description": "A repository for voting systems using Choice Coin.",
     "language": "Python",
-    "star": "103"
+    "star": "32"
   },
   {
     "title": "Saul-Mirone/milkdown",
     "url": "https://github.com/Saul-Mirone/milkdown",
     "description": "🍼 Plugin driven WYSIWYG markdown editor framework.",
     "language": "TypeScript",
-    "star": "65"
+    "star": "69"
   },
   {
     "title": "CyberPunkMetalHead/binance-trading-bot-new-coins",
     "url": "https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins",
     "description": "This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave.",
     "language": "Python",
-    "star": "47"
+    "star": "67"
   },
   {
     "title": "AshishJangra27/Skill-India-AI-ML-Scholarship",
     "url": "https://github.com/AshishJangra27/Skill-India-AI-ML-Scholarship",
     "description": "This repository is having all the codes used in AI/ML Skill India Scholarship by Elite Techno Groups.",
     "language": "Jupyter Notebook",
-    "star": "27"
+    "star": "16"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "165"
+    "star": "174"
   },
   {
     "title": "DataDog/go-profiler-notes",
     "url": "https://github.com/DataDog/go-profiler-notes",
     "description": "felixge's notes on the various go profiling methods that are available.",
     "language": "Jupyter Notebook",
-    "star": "113"
+    "star": "105"
   },
   {
     "title": "spulec/moto",
     "url": "https://github.com/spulec/moto",
     "description": "A library that allows you to easily mock out tests based on AWS infrastructure.",
     "language": "Python",
-    "star": "44"
+    "star": "36"
   },
   {
     "title": "coolsnowwolf/lede",
@@ -130,21 +130,21 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "224"
+    "star": "212"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "110"
+    "star": "115"
   },
   {
     "title": "theme-next/hexo-theme-next",
     "url": "https://github.com/theme-next/hexo-theme-next",
     "description": "Elegant and powerful theme for Hexo.",
     "language": "Stylus",
-    "star": "32"
+    "star": "19"
   },
   {
     "title": "Genymobile/scrcpy",
@@ -158,7 +158,7 @@
     "url": "https://github.com/diego3g/umbriel",
     "description": "✉️ Umbriel is a simple mailing platform built with Node.js, TypeScript & Prisma.",
     "language": "TypeScript",
-    "star": "12"
+    "star": "32"
   },
   {
     "title": "bnjbvr/rouille",
@@ -172,6 +172,6 @@
     "url": "https://github.com/HashLips/generative-art-node",
     "description": "Create generative art by using the canvas api and node js",
     "language": "JavaScript",
-    "star": "90"
+    "star": "72"
   }
 ]
