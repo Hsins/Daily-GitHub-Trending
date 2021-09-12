@@ -4,21 +4,21 @@
     "url": "https://github.com/microsoft/wslg",
     "description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios",
     "language": "C++",
-    "star": "241"
+    "star": "247"
   },
   {
     "title": "rammcodes/Dopefolio",
     "url": "https://github.com/rammcodes/Dopefolio",
     "description": "Dopefolio 🔥 - Portfolio Template for Developers 🚀",
     "language": "HTML",
-    "star": "155"
+    "star": "156"
   },
   {
     "title": "TaKO8Ki/gobang",
     "url": "https://github.com/TaKO8Ki/gobang",
     "description": "A cross-platform TUI database management tool written in Rust",
     "language": "Rust",
-    "star": "261"
+    "star": "244"
   },
   {
     "title": "MoH-Malaysia/covid19-public",
@@ -32,35 +32,35 @@
     "url": "https://github.com/exiled-apes/candy-machine-mint",
     "description": "Fork, config, customize and ship your own candy machine mint app on your own domain, ultra fast.",
     "language": "TypeScript",
-    "star": "22"
+    "star": "36"
   },
   {
     "title": "smartcontractkit/full-blockchain-solidity-course-py",
     "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
     "description": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition",
     "language": "none",
-    "star": "79"
+    "star": "94"
   },
   {
     "title": "graviraja/MLOps-Basics",
     "url": "https://github.com/graviraja/MLOps-Basics",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "158"
+    "star": "161"
   },
   {
     "title": "supabase/supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "52"
+    "star": "95"
   },
   {
     "title": "cloudwego/netpoll",
     "url": "https://github.com/cloudwego/netpoll",
     "description": "A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance.",
     "language": "Go",
-    "star": "166"
+    "star": "162"
   },
   {
     "title": "godotengine/godot",
@@ -74,7 +74,7 @@
     "url": "https://github.com/ChoiceCoin/Voting",
     "description": "A repository for voting systems using Choice Coin.",
     "language": "Python",
-    "star": "108"
+    "star": "103"
   },
   {
     "title": "Saul-Mirone/milkdown",
@@ -95,42 +95,42 @@
     "url": "https://github.com/AshishJangra27/Skill-India-AI-ML-Scholarship",
     "description": "This repository is having all the codes used in AI/ML Skill India Scholarship by Elite Techno Groups.",
     "language": "Jupyter Notebook",
-    "star": "16"
+    "star": "27"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "178"
+    "star": "165"
   },
   {
     "title": "DataDog/go-profiler-notes",
     "url": "https://github.com/DataDog/go-profiler-notes",
     "description": "felixge's notes on the various go profiling methods that are available.",
     "language": "Jupyter Notebook",
-    "star": "132"
+    "star": "113"
   },
   {
     "title": "spulec/moto",
     "url": "https://github.com/spulec/moto",
     "description": "A library that allows you to easily mock out tests based on AWS infrastructure.",
     "language": "Python",
-    "star": "48"
+    "star": "44"
   },
   {
     "title": "coolsnowwolf/lede",
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "14"
+    "star": "9"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
     "language": "Dart",
-    "star": "228"
+    "star": "224"
   },
   {
     "title": "microsoft/ML-For-Beginners",
@@ -144,14 +144,14 @@
     "url": "https://github.com/theme-next/hexo-theme-next",
     "description": "Elegant and powerful theme for Hexo.",
     "language": "Stylus",
-    "star": "4"
+    "star": "32"
   },
   {
     "title": "Genymobile/scrcpy",
     "url": "https://github.com/Genymobile/scrcpy",
     "description": "Display and control your Android device",
     "language": "C",
-    "star": "84"
+    "star": "31"
   },
   {
     "title": "diego3g/umbriel",
@@ -165,13 +165,13 @@
     "url": "https://github.com/bnjbvr/rouille",
     "description": "Rust programming, in French.",
     "language": "Rust",
-    "star": "210"
+    "star": "255"
   },
   {
     "title": "HashLips/generative-art-node",
     "url": "https://github.com/HashLips/generative-art-node",
     "description": "Create generative art by using the canvas api and node js",
     "language": "JavaScript",
-    "star": "81"
+    "star": "90"
   }
 ]
