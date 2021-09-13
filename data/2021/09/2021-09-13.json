@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "341"
+  },
+  {
+    "title": "lockedbyte/CVE-2021-40444",
+    "url": "https://github.com/lockedbyte/CVE-2021-40444",
+    "description": "CVE-2021-40444 PoC",
+    "language": "HTML",
+    "star": "213"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "Aircoookie/WLED",
+    "url": "https://github.com/Aircoookie/WLED",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "language": "C++",
+    "star": "11"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "60"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated interview preparation materials for busy engineers",
+    "language": "JavaScript",
+    "star": "155"
+  },
+  {
+    "title": "HashLips/generative-art-node",
+    "url": "https://github.com/HashLips/generative-art-node",
+    "description": "Create generative art by using the canvas api and node js",
+    "language": "JavaScript",
+    "star": "87"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "description": "A collection of simple python mini projects to enhance your python skills",
+    "language": "Python",
+    "star": "52"
+  },
+  {
+    "title": "CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "description": "This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave.",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "brunosimon/my-room-in-3d",
+    "url": "https://github.com/brunosimon/my-room-in-3d",
+    "description": "",
+    "language": "JavaScript",
+    "star": "265"
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "description": "🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps",
+    "language": "Swift",
+    "star": "234"
+  },
+  {
+    "title": "Jam3/math-as-code",
+    "url": "https://github.com/Jam3/math-as-code",
+    "description": "a cheat-sheet for mathematical notation in code form",
+    "language": "none",
+    "star": "296"
+  },
+  {
+    "title": "ChoiceCoin/Voting",
+    "url": "https://github.com/ChoiceCoin/Voting",
+    "description": "A repository for voting systems using Choice Coin.",
+    "language": "Python",
+    "star": "170"
+  },
+  {
+    "title": "jklepatch/eattheblocks",
+    "url": "https://github.com/jklepatch/eattheblocks",
+    "description": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
+    "language": "JavaScript",
+    "star": "7"
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "description": "Based on a true story",
+    "language": "JavaScript",
+    "star": "56"
+  },
+  {
+    "title": "zhongxinghong/PKUAutoElective",
+    "url": "https://github.com/zhongxinghong/PKUAutoElective",
+    "description": "北大选课网补退选阶段自动选课小工具",
+    "language": "Python",
+    "star": "5"
+  },
+  {
+    "title": "nushell/nushell",
+    "url": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "language": "Rust",
+    "star": "16"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "31"
+  },
+  {
+    "title": "TaKO8Ki/gobang",
+    "url": "https://github.com/TaKO8Ki/gobang",
+    "description": "A cross-platform TUI database management tool written in Rust",
+    "language": "Rust",
+    "star": "251"
+  },
+  {
+    "title": "f9webltd/laravel-api-response-helpers",
+    "url": "https://github.com/f9webltd/laravel-api-response-helpers",
+    "description": "🚀 A super simple package allowing for consistent API responses throughout your Laravel application",
+    "language": "PHP",
+    "star": "44"
+  },
+  {
+    "title": "esphome/esphome",
+    "url": "https://github.com/esphome/esphome",
+    "description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "language": "C++",
+    "star": "4"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "12"
+  },
+  {
+    "title": "graviraja/MLOps-Basics",
+    "url": "https://github.com/graviraja/MLOps-Basics",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "204"
+  },
+  {
+    "title": "jupyter-naas/awesome-notebooks",
+    "url": "https://github.com/jupyter-naas/awesome-notebooks",
+    "description": "+100 awesome Jupyter Notebooks templates, organized by tools, published by the Naas community, to kickstart your data projects in minutes. 😎",
+    "language": "Jupyter Notebook",
+    "star": "22"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "description": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "language": "Java",
+    "star": "58"
+  }
+]
