@@ -1,0 +1,177 @@
+[
+  {
+    "title": "input-output-hk/lobster-challenge",
+    "url": "https://github.com/input-output-hk/lobster-challenge",
+    "description": "Simple Plutus contract to help give Charles' stuffed lobster a name",
+    "language": "Haskell",
+    "star": "12"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "description": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition",
+    "language": "none",
+    "star": "60"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "themsaid/ergodnc",
+    "url": "https://github.com/themsaid/ergodnc",
+    "description": "",
+    "language": "PHP",
+    "star": "9"
+  },
+  {
+    "title": "lockedbyte/CVE-2021-40444",
+    "url": "https://github.com/lockedbyte/CVE-2021-40444",
+    "description": "CVE-2021-40444 PoC",
+    "language": "HTML",
+    "star": "251"
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "language": "Assembly",
+    "star": "46"
+  },
+  {
+    "title": "graviraja/MLOps-Basics",
+    "url": "https://github.com/graviraja/MLOps-Basics",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "286"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "777"
+  },
+  {
+    "title": "Saul-Mirone/milkdown",
+    "url": "https://github.com/Saul-Mirone/milkdown",
+    "description": "🍼 Plugin driven WYSIWYG markdown editor framework.",
+    "language": "TypeScript",
+    "star": "129"
+  },
+  {
+    "title": "imarvinle/awesome-cs-books",
+    "url": "https://github.com/imarvinle/awesome-cs-books",
+    "description": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等",
+    "language": "none",
+    "star": "50"
+  },
+  {
+    "title": "jagrosh/MusicBot",
+    "url": "https://github.com/jagrosh/MusicBot",
+    "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
+    "language": "Java",
+    "star": "60"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "description": "A collection of simple python mini projects to enhance your python skills",
+    "language": "Python",
+    "star": "320"
+  },
+  {
+    "title": "AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE",
+    "url": "https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE",
+    "description": "An open source Arduino ESP32 MPPT Charger firmware equipped with charging algorithms, WiFi, LCD menus & more!",
+    "language": "C++",
+    "star": "9"
+  },
+  {
+    "title": "CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins",
+    "description": "This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave.",
+    "language": "Python",
+    "star": "104"
+  },
+  {
+    "title": "TaKO8Ki/gobang",
+    "url": "https://github.com/TaKO8Ki/gobang",
+    "description": "A cross-platform TUI database management tool written in Rust",
+    "language": "Rust",
+    "star": "280"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "236"
+  },
+  {
+    "title": "jupyter-naas/awesome-notebooks",
+    "url": "https://github.com/jupyter-naas/awesome-notebooks",
+    "description": "+100 awesome Jupyter Notebooks templates, organized by tools, published by the Naas community, to kickstart your data projects in minutes. 😎",
+    "language": "Jupyter Notebook",
+    "star": "148"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "language": "Rust",
+    "star": "47"
+  },
+  {
+    "title": "gluesql/gluesql",
+    "url": "https://github.com/gluesql/gluesql",
+    "description": "GlueSQL is quite sticky, it attaches to anywhere.",
+    "language": "Rust",
+    "star": "47"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "pyg-team/pytorch_geometric",
+    "url": "https://github.com/pyg-team/pytorch_geometric",
+    "description": "Graph Neural Network Library for PyTorch",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "144"
+  },
+  {
+    "title": "SudhanPlayz/Discord-MusicBot",
+    "url": "https://github.com/SudhanPlayz/Discord-MusicBot",
+    "description": "An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!",
+    "language": "JavaScript",
+    "star": "13"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "star": "69"
+  },
+  {
+    "title": "cryptosri/SriStrategy1.0",
+    "url": "https://github.com/cryptosri/SriStrategy1.0",
+    "description": "",
+    "language": "none",
+    "star": "2"
+  }
+]
