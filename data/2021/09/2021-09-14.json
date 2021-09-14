@@ -18,21 +18,21 @@
     "url": "https://github.com/microsoft/qlib",
     "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
     "language": "Python",
-    "star": "109"
+    "star": "122"
   },
   {
     "title": "themsaid/ergodnc",
     "url": "https://github.com/themsaid/ergodnc",
     "description": "",
     "language": "PHP",
-    "star": "9"
+    "star": "15"
   },
   {
     "title": "lockedbyte/CVE-2021-40444",
     "url": "https://github.com/lockedbyte/CVE-2021-40444",
     "description": "CVE-2021-40444 PoC",
     "language": "HTML",
-    "star": "251"
+    "star": "255"
   },
   {
     "title": "chrislgarry/Apollo-11",
@@ -46,42 +46,42 @@
     "url": "https://github.com/graviraja/MLOps-Basics",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "286"
+    "star": "297"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "777"
+    "star": "774"
   },
   {
     "title": "Saul-Mirone/milkdown",
     "url": "https://github.com/Saul-Mirone/milkdown",
     "description": "🍼 Plugin driven WYSIWYG markdown editor framework.",
     "language": "TypeScript",
-    "star": "129"
+    "star": "257"
   },
   {
     "title": "imarvinle/awesome-cs-books",
     "url": "https://github.com/imarvinle/awesome-cs-books",
     "description": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等",
     "language": "none",
-    "star": "50"
+    "star": "49"
   },
   {
     "title": "jagrosh/MusicBot",
     "url": "https://github.com/jagrosh/MusicBot",
     "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
     "language": "Java",
-    "star": "60"
+    "star": "61"
   },
   {
     "title": "Python-World/python-mini-projects",
     "url": "https://github.com/Python-World/python-mini-projects",
     "description": "A collection of simple python mini projects to enhance your python skills",
     "language": "Python",
-    "star": "320"
+    "star": "340"
   },
   {
     "title": "AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE",
@@ -95,35 +95,35 @@
     "url": "https://github.com/CyberPunkMetalHead/binance-trading-bot-new-coins",
     "description": "This Binance trading bot detects new coins as soon as they are listed on the Binance exchange and automatically places sell and buy orders. It comes with trailing stop loss and other features. If you like this project please consider donating via Brave.",
     "language": "Python",
-    "star": "104"
+    "star": "103"
   },
   {
     "title": "TaKO8Ki/gobang",
     "url": "https://github.com/TaKO8Ki/gobang",
     "description": "A cross-platform TUI database management tool written in Rust",
     "language": "Rust",
-    "star": "280"
+    "star": "269"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "236"
+    "star": "226"
   },
   {
     "title": "jupyter-naas/awesome-notebooks",
     "url": "https://github.com/jupyter-naas/awesome-notebooks",
     "description": "+100 awesome Jupyter Notebooks templates, organized by tools, published by the Naas community, to kickstart your data projects in minutes. 😎",
     "language": "Jupyter Notebook",
-    "star": "148"
+    "star": "158"
   },
   {
     "title": "rust-lang/rustlings",
     "url": "https://github.com/rust-lang/rustlings",
     "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
     "language": "Rust",
-    "star": "47"
+    "star": "49"
   },
   {
     "title": "gluesql/gluesql",
@@ -151,7 +151,7 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "144"
+    "star": "146"
   },
   {
     "title": "SudhanPlayz/Discord-MusicBot",
