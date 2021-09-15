@@ -4,7 +4,7 @@
     "url": "https://github.com/Python-World/python-mini-projects",
     "description": "A collection of simple python mini projects to enhance your python skills",
     "language": "Python",
-    "star": "575"
+    "star": "576"
   },
   {
     "title": "trekhleb/javascript-algorithms",
@@ -18,21 +18,21 @@
     "url": "https://github.com/SudhanPlayz/Discord-MusicBot",
     "description": "An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!",
     "language": "JavaScript",
-    "star": "53"
+    "star": "58"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "886"
+    "star": "881"
   },
   {
     "title": "graviraja/MLOps-Basics",
     "url": "https://github.com/graviraja/MLOps-Basics",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "375"
+    "star": "383"
   },
   {
     "title": "phoboslab/q1k3",
@@ -67,14 +67,14 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "235"
+    "star": "234"
   },
   {
     "title": "pyg-team/pytorch_geometric",
     "url": "https://github.com/pyg-team/pytorch_geometric",
     "description": "Graph Neural Network Library for PyTorch",
     "language": "Python",
-    "star": "156"
+    "star": "148"
   },
   {
     "title": "microsoft/qlib",
@@ -116,7 +116,7 @@
     "url": "https://github.com/snowpackjs/astro",
     "description": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
     "language": "TypeScript",
-    "star": "57"
+    "star": "59"
   },
   {
     "title": "CyC2018/CS-Notes",
@@ -144,14 +144,14 @@
     "url": "https://github.com/brunosimon/my-room-in-3d",
     "description": "",
     "language": "JavaScript",
-    "star": "104"
+    "star": "90"
   },
   {
     "title": "eritislami/evobot",
     "url": "https://github.com/eritislami/evobot",
     "description": "🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide",
     "language": "JavaScript",
-    "star": "17"
+    "star": "16"
   },
   {
     "title": "revoltchat/revolt",
@@ -172,6 +172,6 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "207"
+    "star": "162"
   }
 ]
