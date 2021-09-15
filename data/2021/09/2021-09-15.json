@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "description": "A collection of simple python mini projects to enhance your python skills",
+    "language": "Python",
+    "star": "575"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "344"
+  },
+  {
+    "title": "SudhanPlayz/Discord-MusicBot",
+    "url": "https://github.com/SudhanPlayz/Discord-MusicBot",
+    "description": "An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!",
+    "language": "JavaScript",
+    "star": "53"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 25 lessons, 50 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "886"
+  },
+  {
+    "title": "graviraja/MLOps-Basics",
+    "url": "https://github.com/graviraja/MLOps-Basics",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "375"
+  },
+  {
+    "title": "phoboslab/q1k3",
+    "url": "https://github.com/phoboslab/q1k3",
+    "description": "A tiny FPS for js13k",
+    "language": "JavaScript",
+    "star": "215"
+  },
+  {
+    "title": "Jack-Cherish/quantitative",
+    "url": "https://github.com/Jack-Cherish/quantitative",
+    "description": "量化交易：python3",
+    "language": "Python",
+    "star": "23"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "198"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "108"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "235"
+  },
+  {
+    "title": "pyg-team/pytorch_geometric",
+    "url": "https://github.com/pyg-team/pytorch_geometric",
+    "description": "Graph Neural Network Library for PyTorch",
+    "language": "Python",
+    "star": "156"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "language": "Python",
+    "star": "257"
+  },
+  {
+    "title": "HZFE/awesome-interview",
+    "url": "https://github.com/HZFE/awesome-interview",
+    "description": "剑指前端 Offer",
+    "language": "HTML",
+    "star": "90"
+  },
+  {
+    "title": "1makarov/binance-nft-buy",
+    "url": "https://github.com/1makarov/binance-nft-buy",
+    "description": "bot for automatic purchase of boxes",
+    "language": "Go",
+    "star": "8"
+  },
+  {
+    "title": "outflanknl/PrintNightmare",
+    "url": "https://github.com/outflanknl/PrintNightmare",
+    "description": "",
+    "language": "C",
+    "star": "18"
+  },
+  {
+    "title": "Just-Some-Bots/MusicBot",
+    "url": "https://github.com/Just-Some-Bots/MusicBot",
+    "description": "🎵 The original MusicBot for Discord (formerly SexualRhinoceros/MusicBot)",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "snowpackjs/astro",
+    "url": "https://github.com/snowpackjs/astro",
+    "description": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
+    "language": "TypeScript",
+    "star": "57"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "Java",
+    "star": "77"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "27"
+  },
+  {
+    "title": "aslitsecurity/CVE-2021-40444_builders",
+    "url": "https://github.com/aslitsecurity/CVE-2021-40444_builders",
+    "description": "This repo contain builders of cab file, html file, and docx file for CVE-2021-40444 exploit",
+    "language": "Python",
+    "star": "20"
+  },
+  {
+    "title": "brunosimon/my-room-in-3d",
+    "url": "https://github.com/brunosimon/my-room-in-3d",
+    "description": "",
+    "language": "JavaScript",
+    "star": "104"
+  },
+  {
+    "title": "eritislami/evobot",
+    "url": "https://github.com/eritislami/evobot",
+    "description": "🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide",
+    "language": "JavaScript",
+    "star": "17"
+  },
+  {
+    "title": "revoltchat/revolt",
+    "url": "https://github.com/revoltchat/revolt",
+    "description": "Repository for miscellaneous repository management and discussions: https://github.com/revoltchat/revolt/discussions",
+    "language": "Shell",
+    "star": "40"
+  },
+  {
+    "title": "jagrosh/MusicBot",
+    "url": "https://github.com/jagrosh/MusicBot",
+    "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
+    "language": "Java",
+    "star": "111"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "207"
+  }
+]
