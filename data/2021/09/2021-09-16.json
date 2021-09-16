@@ -1,0 +1,177 @@
+[
+  {
+    "title": "jagrosh/MusicBot",
+    "url": "https://github.com/jagrosh/MusicBot",
+    "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
+    "language": "Java",
+    "star": "138"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "343"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "23"
+  },
+  {
+    "title": "phoboslab/q1k3",
+    "url": "https://github.com/phoboslab/q1k3",
+    "description": "A tiny FPS for js13k",
+    "language": "JavaScript",
+    "star": "183"
+  },
+  {
+    "title": "HashLips/hashlips_art_engine",
+    "url": "https://github.com/HashLips/hashlips_art_engine",
+    "description": "HashLips Art Engine is a tool used to create multiple different instances of artworks based on provided layers.",
+    "language": "JavaScript",
+    "star": "34"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "description": "A collection of simple python mini projects to enhance your python skills",
+    "language": "Python",
+    "star": "549"
+  },
+  {
+    "title": "jgraph/drawio-desktop",
+    "url": "https://github.com/jgraph/drawio-desktop",
+    "description": "Official electron build of diagrams.net",
+    "language": "JavaScript",
+    "star": "38"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "447"
+  },
+  {
+    "title": "awwbees/BespokeSynth",
+    "url": "https://github.com/awwbees/BespokeSynth",
+    "description": "Software modular synth",
+    "language": "C++",
+    "star": "204"
+  },
+  {
+    "title": "Saul-Mirone/milkdown",
+    "url": "https://github.com/Saul-Mirone/milkdown",
+    "description": "🍼 Plugin driven WYSIWYG markdown editor framework.",
+    "language": "TypeScript",
+    "star": "277"
+  },
+  {
+    "title": "hyperledger/fabric",
+    "url": "https://github.com/hyperledger/fabric",
+    "description": "Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.",
+    "language": "Go",
+    "star": "6"
+  },
+  {
+    "title": "Rigellute/spotify-tui",
+    "url": "https://github.com/Rigellute/spotify-tui",
+    "description": "Spotify for the terminal written in Rust 🚀",
+    "language": "Rust",
+    "star": "82"
+  },
+  {
+    "title": "vuejs/vue-cli",
+    "url": "https://github.com/vuejs/vue-cli",
+    "description": "🛠️ Standard Tooling for Vue.js Development",
+    "language": "JavaScript",
+    "star": "10"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "329"
+  },
+  {
+    "title": "imarvinle/awesome-cs-books",
+    "url": "https://github.com/imarvinle/awesome-cs-books",
+    "description": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等",
+    "language": "none",
+    "star": "37"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "343"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "description": "deep learning for image processing including classification and object-detection etc.",
+    "language": "Python",
+    "star": "14"
+  },
+  {
+    "title": "snowpackjs/astro",
+    "url": "https://github.com/snowpackjs/astro",
+    "description": "🚀🧑‍🚀 Keep your eyes to the skies, astronauts!",
+    "language": "TypeScript",
+    "star": "87"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "152"
+  },
+  {
+    "title": "tensorflow/similarity",
+    "url": "https://github.com/tensorflow/similarity",
+    "description": "TensorFlow Similarity is a python package focused on making similarity learning quick and easy.",
+    "language": "Python",
+    "star": "57"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2021",
+    "language": "JavaScript",
+    "star": "28"
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "language": "C++",
+    "star": "6"
+  },
+  {
+    "title": "LaravelDaily/Laravel-Roadmap-Learning-Path",
+    "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path",
+    "description": "",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "language": "Java",
+    "star": "34"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "25"
+  }
+]
