@@ -1,0 +1,177 @@
+[
+  {
+    "title": "calendso/calendso",
+    "url": "https://github.com/calendso/calendso",
+    "description": "Scheduling infrastructure for absolutely everyone.",
+    "language": "TypeScript",
+    "star": "147"
+  },
+  {
+    "title": "eritislami/evobot",
+    "url": "https://github.com/eritislami/evobot",
+    "description": "🤖 EvoBot is a Discord Music Bot built with discord.js & uses Command Handler from discordjs.guide",
+    "language": "JavaScript",
+    "star": "55"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "477"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "557"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "343"
+  },
+  {
+    "title": "LeCoupa/awesome-cheatsheets",
+    "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+    "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+    "language": "JavaScript",
+    "star": "207"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "559"
+  },
+  {
+    "title": "crossplane/crossplane",
+    "url": "https://github.com/crossplane/crossplane",
+    "description": "Manage any infrastructure your applications need directly from Kubernetes",
+    "language": "Go",
+    "star": "23"
+  },
+  {
+    "title": "SudhanPlayz/Discord-MusicBot",
+    "url": "https://github.com/SudhanPlayz/Discord-MusicBot",
+    "description": "An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "116"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "327"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "description": "Delightful JavaScript Testing.",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "136"
+  },
+  {
+    "title": "DopplerHQ/awesome-interview-questions",
+    "url": "https://github.com/DopplerHQ/awesome-interview-questions",
+    "description": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓",
+    "language": "none",
+    "star": "125"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "219"
+  },
+  {
+    "title": "7kms/react-illustration-series",
+    "url": "https://github.com/7kms/react-illustration-series",
+    "description": "图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.",
+    "language": "TypeScript",
+    "star": "65"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "description": "C++ Parallel Computing and Asynchronous Networking Engine",
+    "language": "C++",
+    "star": "17"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "none",
+    "star": "260"
+  },
+  {
+    "title": "PyTorchLightning/lightning-flash",
+    "url": "https://github.com/PyTorchLightning/lightning-flash",
+    "description": "Your PyTorch AI Factory - Flash enables you to easily configure and run complex AI recipes for over 15 tasks across 7 data domains",
+    "language": "Python",
+    "star": "9"
+  },
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "description": "The Single Sign-On Multi-Factor portal for web apps",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "LaravelDaily/Laravel-Roadmap-Learning-Path",
+    "url": "https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path",
+    "description": "",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "Androz2091/discord-music-bot",
+    "url": "https://github.com/Androz2091/discord-music-bot",
+    "description": "The perfect music bot for your Discord server! 🤘",
+    "language": "JavaScript",
+    "star": "20"
+  },
+  {
+    "title": "jagrosh/MusicBot",
+    "url": "https://github.com/jagrosh/MusicBot",
+    "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
+    "language": "Java",
+    "star": "173"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "134"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "language": "C++",
+    "star": "36"
+  }
+]
