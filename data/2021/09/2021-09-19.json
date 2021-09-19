@@ -4,42 +4,42 @@
     "url": "https://github.com/authelia/authelia",
     "description": "The Single Sign-On Multi-Factor portal for web apps",
     "language": "Go",
-    "star": "422"
+    "star": "481"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "553"
+    "star": "560"
   },
   {
     "title": "7kms/react-illustration-series",
     "url": "https://github.com/7kms/react-illustration-series",
     "description": "图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.",
     "language": "TypeScript",
-    "star": "52"
+    "star": "56"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "285"
+    "star": "275"
   },
   {
     "title": "calendso/calendso",
     "url": "https://github.com/calendso/calendso",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
-    "star": "234"
+    "star": "220"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "318"
+    "star": "365"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
@@ -53,7 +53,7 @@
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "154"
+    "star": "174"
   },
   {
     "title": "sogou/workflow",
@@ -67,56 +67,56 @@
     "url": "https://github.com/girlscript/winter-of-contributing",
     "description": "GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.",
     "language": "Jupyter Notebook",
-    "star": "61"
+    "star": "51"
   },
   {
     "title": "Atmosphere-NX/Atmosphere",
     "url": "https://github.com/Atmosphere-NX/Atmosphere",
     "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
     "language": "C++",
-    "star": "95"
+    "star": "97"
   },
   {
     "title": "PeterL1n/RobustVideoMatting",
     "url": "https://github.com/PeterL1n/RobustVideoMatting",
     "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
     "language": "Python",
-    "star": "33"
+    "star": "11"
   },
   {
     "title": "OpenIMSDK/Open-IM-Server",
     "url": "https://github.com/OpenIMSDK/Open-IM-Server",
     "description": "Open-IM-Server is open source instant messaging Server.Backend in Go.",
     "language": "Go",
-    "star": "22"
+    "star": "54"
   },
   {
     "title": "TheAlgorithms/Java",
     "url": "https://github.com/TheAlgorithms/Java",
     "description": "All Algorithms implemented in Java",
     "language": "Java",
-    "star": "14"
+    "star": "49"
   },
   {
     "title": "orico/www.mlcompendium.com",
     "url": "https://github.com/orico/www.mlcompendium.com",
     "description": "The Machine Learning & Deep Learning Compendium is an open knowledge-sharing project compiled using Gitbook.",
     "language": "none",
-    "star": "119"
+    "star": "114"
   },
   {
     "title": "jumpserver/jumpserver",
     "url": "https://github.com/jumpserver/jumpserver",
     "description": "JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。",
     "language": "Python",
-    "star": "10"
+    "star": "7"
   },
   {
     "title": "LeCoupa/awesome-cheatsheets",
     "url": "https://github.com/LeCoupa/awesome-cheatsheets",
     "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
     "language": "JavaScript",
-    "star": "263"
+    "star": "279"
   },
   {
     "title": "laoshenkaopu/kkndme_tianya",
@@ -130,48 +130,48 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "378"
+    "star": "396"
   },
   {
     "title": "klezVirus/CVE-2021-40444",
     "url": "https://github.com/klezVirus/CVE-2021-40444",
     "description": "CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit",
     "language": "HTML",
-    "star": "75"
+    "star": "60"
   },
   {
     "title": "eugeneyan/applied-ml",
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "34"
+    "star": "103"
   },
   {
     "title": "WZMIAOMIAO/deep-learning-for-image-processing",
     "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
     "description": "deep learning for image processing including classification and object-detection etc.",
     "language": "Python",
-    "star": "30"
+    "star": "56"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "259"
+    "star": "269"
   },
   {
     "title": "seaswalker/spring-analysis",
     "url": "https://github.com/seaswalker/spring-analysis",
     "description": "Spring源码阅读",
     "language": "Java",
-    "star": "23"
+    "star": "19"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "432"
+    "star": "376"
   }
 ]
