@@ -1,0 +1,177 @@
+[
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "290"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "510"
+  },
+  {
+    "title": "openkraken/kraken",
+    "url": "https://github.com/openkraken/kraken",
+    "description": "A high-performance, web standards-compliant rendering engine based on Flutter.",
+    "language": "TypeScript",
+    "star": "83"
+  },
+  {
+    "title": "krayin/laravel-crm",
+    "url": "https://github.com/krayin/laravel-crm",
+    "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+    "language": "PHP",
+    "star": "51"
+  },
+  {
+    "title": "authelia/authelia",
+    "url": "https://github.com/authelia/authelia",
+    "description": "The Single Sign-On Multi-Factor portal for web apps",
+    "language": "Go",
+    "star": "448"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "language": "Python",
+    "star": "73"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "description": "A build system and primary set of packages for Termux.",
+    "language": "Shell",
+    "star": "11"
+  },
+  {
+    "title": "typescript-cheatsheets/react",
+    "url": "https://github.com/typescript-cheatsheets/react",
+    "description": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "language": "JavaScript",
+    "star": "27"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "description": "适用于新系统UI的哔哩",
+    "language": "C#",
+    "star": "256"
+  },
+  {
+    "title": "IrisShaders/Iris",
+    "url": "https://github.com/IrisShaders/Iris",
+    "description": "(WIP) A new shaders mod for Minecraft intended to be compatible with existing ShadersMod/Optifine shaders",
+    "language": "Java",
+    "star": "6"
+  },
+  {
+    "title": "GoTurkiye/training",
+    "url": "https://github.com/GoTurkiye/training",
+    "description": "",
+    "language": "Go",
+    "star": "39"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "184"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "399"
+  },
+  {
+    "title": "girlscript/winter-of-contributing",
+    "url": "https://github.com/girlscript/winter-of-contributing",
+    "description": "GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.",
+    "language": "Jupyter Notebook",
+    "star": "87"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "joehillen/sysz",
+    "url": "https://github.com/joehillen/sysz",
+    "description": "An fzf terminal UI for systemctl",
+    "language": "Shell",
+    "star": "130"
+  },
+  {
+    "title": "jorisschellekens/borb",
+    "url": "https://github.com/jorisschellekens/borb",
+    "description": "borb is a library for reading, creating and manipulating PDF files in python.",
+    "language": "Python",
+    "star": "171"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!",
+    "language": "C",
+    "star": "14"
+  },
+  {
+    "title": "DataWithDanny/sql-masterclass",
+    "url": "https://github.com/DataWithDanny/sql-masterclass",
+    "description": "",
+    "language": "none",
+    "star": "91"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "147"
+  },
+  {
+    "title": "microsoft/PythonProgrammingPuzzles",
+    "url": "https://github.com/microsoft/PythonProgrammingPuzzles",
+    "description": "A Dataset of Python Challenges for AI Research",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "geerlingguy/internet-pi",
+    "url": "https://github.com/geerlingguy/internet-pi",
+    "description": "Raspberry Pi config for all things Internet.",
+    "language": "Jinja",
+    "star": "77"
+  },
+  {
+    "title": "mamun-sec/dfirt",
+    "url": "https://github.com/mamun-sec/dfirt",
+    "description": "Collect information of Windows PC when doing incident response",
+    "language": "PowerShell",
+    "star": "8"
+  },
+  {
+    "title": "input-output-hk/essential-cardano",
+    "url": "https://github.com/input-output-hk/essential-cardano",
+    "description": "Repository for the Essential Cardano list",
+    "language": "none",
+    "star": "9"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "description": "A curated list of software and architecture related design patterns.",
+    "language": "none",
+    "star": "157"
+  }
+]
