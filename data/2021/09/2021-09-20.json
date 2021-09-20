@@ -4,21 +4,21 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "290"
+    "star": "282"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "510"
+    "star": "512"
   },
   {
     "title": "openkraken/kraken",
     "url": "https://github.com/openkraken/kraken",
     "description": "A high-performance, web standards-compliant rendering engine based on Flutter.",
     "language": "TypeScript",
-    "star": "83"
+    "star": "82"
   },
   {
     "title": "krayin/laravel-crm",
@@ -32,14 +32,14 @@
     "url": "https://github.com/authelia/authelia",
     "description": "The Single Sign-On Multi-Factor portal for web apps",
     "language": "Go",
-    "star": "448"
+    "star": "450"
   },
   {
     "title": "willmcgugan/rich",
     "url": "https://github.com/willmcgugan/rich",
     "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
     "language": "Python",
-    "star": "73"
+    "star": "69"
   },
   {
     "title": "termux/termux-packages",
@@ -81,28 +81,28 @@
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "184"
+    "star": "182"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "399"
+    "star": "386"
   },
   {
     "title": "girlscript/winter-of-contributing",
     "url": "https://github.com/girlscript/winter-of-contributing",
     "description": "GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.",
     "language": "Jupyter Notebook",
-    "star": "87"
+    "star": "86"
   },
   {
     "title": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "22"
+    "star": "21"
   },
   {
     "title": "joehillen/sysz",
@@ -137,7 +137,7 @@
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "147"
+    "star": "150"
   },
   {
     "title": "microsoft/PythonProgrammingPuzzles",
@@ -172,6 +172,6 @@
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "157"
+    "star": "135"
   }
 ]
