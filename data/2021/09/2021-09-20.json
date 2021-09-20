@@ -4,21 +4,21 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "280"
+    "star": "290"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "492"
+    "star": "510"
   },
   {
     "title": "openkraken/kraken",
     "url": "https://github.com/openkraken/kraken",
     "description": "A high-performance, web standards-compliant rendering engine based on Flutter.",
     "language": "TypeScript",
-    "star": "82"
+    "star": "83"
   },
   {
     "title": "krayin/laravel-crm",
@@ -32,14 +32,14 @@
     "url": "https://github.com/authelia/authelia",
     "description": "The Single Sign-On Multi-Factor portal for web apps",
     "language": "Go",
-    "star": "445"
+    "star": "448"
   },
   {
     "title": "willmcgugan/rich",
     "url": "https://github.com/willmcgugan/rich",
     "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
     "language": "Python",
-    "star": "69"
+    "star": "73"
   },
   {
     "title": "termux/termux-packages",
@@ -88,21 +88,21 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "384"
+    "star": "399"
   },
   {
     "title": "girlscript/winter-of-contributing",
     "url": "https://github.com/girlscript/winter-of-contributing",
     "description": "GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.",
     "language": "Jupyter Notebook",
-    "star": "97"
+    "star": "87"
   },
   {
     "title": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "joehillen/sysz",
@@ -137,7 +137,7 @@
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "135"
+    "star": "147"
   },
   {
     "title": "microsoft/PythonProgrammingPuzzles",
@@ -172,6 +172,6 @@
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "124"
+    "star": "157"
   }
 ]
