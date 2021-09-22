@@ -4,7 +4,7 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "340"
+    "star": "336"
   },
   {
     "title": "AriaMinaei/theatre",
@@ -18,7 +18,7 @@
     "url": "https://github.com/authelia/authelia",
     "description": "The Single Sign-On Multi-Factor portal for web apps",
     "language": "Go",
-    "star": "352"
+    "star": "351"
   },
   {
     "title": "reacttips-dev/codebases",
@@ -46,21 +46,21 @@
     "url": "https://github.com/cipher387/Dorks-collections-list",
     "description": "List of Github repositories and articles with list of dorks for different search engines",
     "language": "none",
-    "star": "94"
+    "star": "75"
   },
   {
     "title": "angular/angular-cli",
     "url": "https://github.com/angular/angular-cli",
     "description": "CLI tool for Angular",
     "language": "TypeScript",
-    "star": "7"
+    "star": "6"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "385"
+    "star": "387"
   },
   {
     "title": "groue/GRDB.swift",
@@ -81,7 +81,7 @@
     "url": "https://github.com/aristocratos/btop",
     "description": "A monitor of resources",
     "language": "C++",
-    "star": "154"
+    "star": "152"
   },
   {
     "title": "frontendbr/vagas",
@@ -102,7 +102,7 @@
     "url": "https://github.com/Richasy/Bili.Uwp",
     "description": "适用于新系统UI的哔哩",
     "language": "C#",
-    "star": "196"
+    "star": "194"
   },
   {
     "title": "rails/propshaft",
@@ -116,7 +116,7 @@
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "357"
+    "star": "355"
   },
   {
     "title": "containers/buildah",
@@ -151,7 +151,7 @@
     "url": "https://github.com/rust-lang/mdBook",
     "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
     "language": "Rust",
-    "star": "10"
+    "star": "11"
   },
   {
     "title": "software-mansion/react-native-reanimated",
