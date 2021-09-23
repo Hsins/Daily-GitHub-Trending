@@ -11,7 +11,7 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "362"
+    "star": "366"
   },
   {
     "title": "angular/angular-cli",
@@ -32,7 +32,7 @@
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "228"
+    "star": "224"
   },
   {
     "title": "facebookresearch/ic_gan",
@@ -46,35 +46,35 @@
     "url": "https://github.com/aristocratos/btop",
     "description": "A monitor of resources",
     "language": "C++",
-    "star": "274"
+    "star": "273"
   },
   {
     "title": "7eu7d7/genshin_auto_fish",
     "url": "https://github.com/7eu7d7/genshin_auto_fish",
     "description": "基于深度强化学习的原神自动钓鱼AI",
     "language": "Python",
-    "star": "291"
+    "star": "293"
   },
   {
     "title": "AriaMinaei/theatre",
     "url": "https://github.com/AriaMinaei/theatre",
     "description": "Motion design editor for the web",
     "language": "TypeScript",
-    "star": "624"
+    "star": "625"
   },
   {
     "title": "groue/GRDB.swift",
     "url": "https://github.com/groue/GRDB.swift",
     "description": "A toolkit for SQLite databases, with a focus on application development",
     "language": "Swift",
-    "star": "59"
+    "star": "58"
   },
   {
     "title": "kornia/kornia",
     "url": "https://github.com/kornia/kornia",
     "description": "Open Source Differentiable Computer Vision Library",
     "language": "Python",
-    "star": "87"
+    "star": "27"
   },
   {
     "title": "moscow-technologies/blockchain-voting_2021",
@@ -130,14 +130,14 @@
     "url": "https://github.com/juice-shop/juice-shop",
     "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
     "language": "TypeScript",
-    "star": "24"
+    "star": "31"
   },
   {
     "title": "cipher387/Dorks-collections-list",
     "url": "https://github.com/cipher387/Dorks-collections-list",
     "description": "List of Github repositories and articles with list of dorks for different search engines",
     "language": "none",
-    "star": "122"
+    "star": "128"
   },
   {
     "title": "danistefanovic/build-your-own-x",
@@ -165,7 +165,7 @@
     "url": "https://github.com/reacttips-dev/codebases",
     "description": "This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.",
     "language": "TypeScript",
-    "star": "157"
+    "star": "176"
   },
   {
     "title": "7kms/react-illustration-series",
