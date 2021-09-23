@@ -1,0 +1,177 @@
+[
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "367"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
+    "language": "TypeScript",
+    "star": "22"
+  },
+  {
+    "title": "Tencent/secguide",
+    "url": "https://github.com/Tencent/secguide",
+    "description": "面向开发人员梳理的代码安全指南",
+    "language": "none",
+    "star": "193"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "220"
+  },
+  {
+    "title": "facebookresearch/ic_gan",
+    "url": "https://github.com/facebookresearch/ic_gan",
+    "description": "Official repository for the paper \"Instance-Conditioned GAN\" by Arantxa Casanova, Marlene Careil, Jakob Verbeek, Michał Drożdżal, Adriana Romero-Soriano.",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "aristocratos/btop",
+    "url": "https://github.com/aristocratos/btop",
+    "description": "A monitor of resources",
+    "language": "C++",
+    "star": "278"
+  },
+  {
+    "title": "7eu7d7/genshin_auto_fish",
+    "url": "https://github.com/7eu7d7/genshin_auto_fish",
+    "description": "基于深度强化学习的原神自动钓鱼AI",
+    "language": "Python",
+    "star": "262"
+  },
+  {
+    "title": "AriaMinaei/theatre",
+    "url": "https://github.com/AriaMinaei/theatre",
+    "description": "Motion design editor for the web",
+    "language": "TypeScript",
+    "star": "627"
+  },
+  {
+    "title": "groue/GRDB.swift",
+    "url": "https://github.com/groue/GRDB.swift",
+    "description": "A toolkit for SQLite databases, with a focus on application development",
+    "language": "Swift",
+    "star": "58"
+  },
+  {
+    "title": "kornia/kornia",
+    "url": "https://github.com/kornia/kornia",
+    "description": "Open Source Differentiable Computer Vision Library",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "moscow-technologies/blockchain-voting_2021",
+    "url": "https://github.com/moscow-technologies/blockchain-voting_2021",
+    "description": "Moscow city blockchain electronic voting system",
+    "language": "none",
+    "star": "7"
+  },
+  {
+    "title": "bytedance/music_source_separation",
+    "url": "https://github.com/bytedance/music_source_separation",
+    "description": "",
+    "language": "Python",
+    "star": "20"
+  },
+  {
+    "title": "Edubr2020/CVE-2021-40444--CABless",
+    "url": "https://github.com/Edubr2020/CVE-2021-40444--CABless",
+    "description": "Modified code so that we don´t need to rely on CAB archives",
+    "language": "none",
+    "star": "7"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "10"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "4"
+  },
+  {
+    "title": "academind/react-complete-guide-code",
+    "url": "https://github.com/academind/react-complete-guide-code",
+    "description": "Code snapshots and materials for our \"React - The Complete Guide\" course (https://acad.link/reactjs)",
+    "language": "none",
+    "star": "9"
+  },
+  {
+    "title": "juice-shop/juice-shop",
+    "url": "https://github.com/juice-shop/juice-shop",
+    "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+    "language": "TypeScript",
+    "star": "35"
+  },
+  {
+    "title": "cipher387/Dorks-collections-list",
+    "url": "https://github.com/cipher387/Dorks-collections-list",
+    "description": "List of Github repositories and articles with list of dorks for different search engines",
+    "language": "none",
+    "star": "124"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "87"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-go",
+    "url": "https://github.com/open-telemetry/opentelemetry-go",
+    "description": "OpenTelemetry Go API and SDK",
+    "language": "Go",
+    "star": "17"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "53"
+  },
+  {
+    "title": "reacttips-dev/codebases",
+    "url": "https://github.com/reacttips-dev/codebases",
+    "description": "This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.",
+    "language": "TypeScript",
+    "star": "176"
+  },
+  {
+    "title": "7kms/react-illustration-series",
+    "url": "https://github.com/7kms/react-illustration-series",
+    "description": "图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.",
+    "language": "TypeScript",
+    "star": "125"
+  }
+]
