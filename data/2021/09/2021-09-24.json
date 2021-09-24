@@ -4,7 +4,7 @@
     "url": "https://github.com/PeterL1n/RobustVideoMatting",
     "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
     "language": "Python",
-    "star": "353"
+    "star": "340"
   },
   {
     "title": "angular/angular-cli",
@@ -18,7 +18,7 @@
     "url": "https://github.com/facebook/react-native",
     "description": "A framework for building native applications using React",
     "language": "JavaScript",
-    "star": "80"
+    "star": "75"
   },
   {
     "title": "microsoft/unilm",
@@ -32,14 +32,14 @@
     "url": "https://github.com/7eu7d7/genshin_auto_fish",
     "description": "基于深度强化学习的原神自动钓鱼AI",
     "language": "Python",
-    "star": "303"
+    "star": "304"
   },
   {
     "title": "reacttips-dev/codebases",
     "url": "https://github.com/reacttips-dev/codebases",
     "description": "This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.",
     "language": "TypeScript",
-    "star": "272"
+    "star": "271"
   },
   {
     "title": "salesforce/Merlion",
@@ -60,7 +60,7 @@
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "66"
+    "star": "52"
   },
   {
     "title": "lydiahallie/javascript-questions",
@@ -74,7 +74,7 @@
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "279"
+    "star": "273"
   },
   {
     "title": "TryGhost/Ghost",
@@ -88,14 +88,14 @@
     "url": "https://github.com/AriaMinaei/theatre",
     "description": "Motion design editor for the web",
     "language": "TypeScript",
-    "star": "660"
+    "star": "662"
   },
   {
     "title": "Tencent/secguide",
     "url": "https://github.com/Tencent/secguide",
     "description": "面向开发人员梳理的代码安全指南",
     "language": "none",
-    "star": "238"
+    "star": "219"
   },
   {
     "title": "phoenixframework/phoenix_live_view",
@@ -109,28 +109,28 @@
     "url": "https://github.com/chatwoot/chatwoot",
     "description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
     "language": "Ruby",
-    "star": "11"
+    "star": "20"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "356"
+    "star": "355"
   },
   {
     "title": "ultralytics/yolov5",
     "url": "https://github.com/ultralytics/yolov5",
     "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "42"
+    "star": "43"
   },
   {
     "title": "ascoders/weekly",
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "20"
+    "star": "40"
   },
   {
     "title": "lnbook/lnbook",
@@ -172,6 +172,6 @@
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "JavaScript",
-    "star": "86"
+    "star": "84"
   }
 ]
