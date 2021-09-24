@@ -1,0 +1,177 @@
+[
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "language": "Python",
+    "star": "353"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
+    "language": "TypeScript",
+    "star": "49"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "language": "JavaScript",
+    "star": "80"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "description": "UniLM AI - Large-scale Self-supervised Pre-training across Tasks, Languages, and Modalities",
+    "language": "Python",
+    "star": "23"
+  },
+  {
+    "title": "7eu7d7/genshin_auto_fish",
+    "url": "https://github.com/7eu7d7/genshin_auto_fish",
+    "description": "基于深度强化学习的原神自动钓鱼AI",
+    "language": "Python",
+    "star": "303"
+  },
+  {
+    "title": "reacttips-dev/codebases",
+    "url": "https://github.com/reacttips-dev/codebases",
+    "description": "This project is collection of large projects's source code (codebases), built with Reactjs. Eg: Bestbuy, Postman, Trello, Udacity, Coursera, Skillshare, Invision, Intercom, Pipedrive, ... and more.",
+    "language": "TypeScript",
+    "star": "272"
+  },
+  {
+    "title": "salesforce/Merlion",
+    "url": "https://github.com/salesforce/Merlion",
+    "description": "Merlion: A Machine Learning Framework for Time Series Intelligence",
+    "language": "Python",
+    "star": "176"
+  },
+  {
+    "title": "ashellunts/ffmpeg-to-webrtc",
+    "url": "https://github.com/ashellunts/ffmpeg-to-webrtc",
+    "description": "Stream video from ffmpeg to web(rtc)",
+    "language": "Go",
+    "star": "71"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "66"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "279"
+  },
+  {
+    "title": "TryGhost/Ghost",
+    "url": "https://github.com/TryGhost/Ghost",
+    "description": "Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.",
+    "language": "JavaScript",
+    "star": "11"
+  },
+  {
+    "title": "AriaMinaei/theatre",
+    "url": "https://github.com/AriaMinaei/theatre",
+    "description": "Motion design editor for the web",
+    "language": "TypeScript",
+    "star": "660"
+  },
+  {
+    "title": "Tencent/secguide",
+    "url": "https://github.com/Tencent/secguide",
+    "description": "面向开发人员梳理的代码安全指南",
+    "language": "none",
+    "star": "238"
+  },
+  {
+    "title": "phoenixframework/phoenix_live_view",
+    "url": "https://github.com/phoenixframework/phoenix_live_view",
+    "description": "Rich, real-time user experiences with server-rendered HTML",
+    "language": "Elixir",
+    "star": "8"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "star": "11"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "356"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "20"
+  },
+  {
+    "title": "lnbook/lnbook",
+    "url": "https://github.com/lnbook/lnbook",
+    "description": "Mastering the Lightning Network (LN)",
+    "language": "Shell",
+    "star": "9"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "23"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "55"
+  },
+  {
+    "title": "rust-lang/mdBook",
+    "url": "https://github.com/rust-lang/mdBook",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "language": "Rust",
+    "star": "16"
+  },
+  {
+    "title": "waydroid/waydroid",
+    "url": "https://github.com/waydroid/waydroid",
+    "description": "",
+    "language": "Python",
+    "star": "143"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "JavaScript",
+    "star": "86"
+  }
+]
