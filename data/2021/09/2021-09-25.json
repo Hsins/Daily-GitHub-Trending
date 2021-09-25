@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "89"
+  },
+  {
+    "title": "PeterL1n/RobustVideoMatting",
+    "url": "https://github.com/PeterL1n/RobustVideoMatting",
+    "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
+    "language": "Python",
+    "star": "564"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "language": "JavaScript",
+    "star": "129"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "JavaScript",
+    "star": "232"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
+    "language": "TypeScript",
+    "star": "51"
+  },
+  {
+    "title": "will/slacktyping",
+    "url": "https://github.com/will/slacktyping",
+    "description": "i'm typing when you're typing",
+    "language": "Ruby",
+    "star": "101"
+  },
+  {
+    "title": "juice-shop/juice-shop",
+    "url": "https://github.com/juice-shop/juice-shop",
+    "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+    "language": "TypeScript",
+    "star": "70"
+  },
+  {
+    "title": "Tencent/secguide",
+    "url": "https://github.com/Tencent/secguide",
+    "description": "面向开发人员梳理的代码安全指南",
+    "language": "none",
+    "star": "190"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 The Open Source Airtable alternative - Powered by Vue.js 🚀 🚀",
+    "language": "Vue",
+    "star": "60"
+  },
+  {
+    "title": "gmpetrov/ultimate-saas-ts",
+    "url": "https://github.com/gmpetrov/ultimate-saas-ts",
+    "description": "Template to quickstart a SAAS business",
+    "language": "TypeScript",
+    "star": "88"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "language": "Dart",
+    "star": "45"
+  },
+  {
+    "title": "salesforce/Merlion",
+    "url": "https://github.com/salesforce/Merlion",
+    "description": "Merlion: A Machine Learning Framework for Time Series Intelligence",
+    "language": "Python",
+    "star": "302"
+  },
+  {
+    "title": "TryGhost/Ghost",
+    "url": "https://github.com/TryGhost/Ghost",
+    "description": "Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.",
+    "language": "JavaScript",
+    "star": "143"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "🔗 Some useful websites for programmers.",
+    "language": "none",
+    "star": "102"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "82"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
+    "language": "Go",
+    "star": "29"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "description": "UniLM AI - Large-scale Self-supervised Pre-training across Tasks, Languages, and Modalities",
+    "language": "Python",
+    "star": "131"
+  },
+  {
+    "title": "apache/echarts",
+    "url": "https://github.com/apache/echarts",
+    "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+    "language": "TypeScript",
+    "star": "8"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "91"
+  },
+  {
+    "title": "alex000kim/nsfw_data_scraper",
+    "url": "https://github.com/alex000kim/nsfw_data_scraper",
+    "description": "Collection of scripts to aggregate image data for the purposes of training an NSFW Image Classifier",
+    "language": "Shell",
+    "star": "23"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "123"
+  },
+  {
+    "title": "waydroid/waydroid",
+    "url": "https://github.com/waydroid/waydroid",
+    "description": "",
+    "language": "Python",
+    "star": "217"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "language": "JavaScript",
+    "star": "31"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "language": "Python",
+    "star": "215"
+  }
+]
