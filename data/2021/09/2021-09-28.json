@@ -1,0 +1,177 @@
+[
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "language": "JavaScript",
+    "star": "139"
+  },
+  {
+    "title": "kimlimjustin/xplorer",
+    "url": "https://github.com/kimlimjustin/xplorer",
+    "description": "Xplorer, a customizable, modern file manager",
+    "language": "TypeScript",
+    "star": "80"
+  },
+  {
+    "title": "rust-embedded/rust-raspberrypi-OS-tutorials",
+    "url": "https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials",
+    "description": "📚 Learn to write an embedded OS in Rust 🦀",
+    "language": "Rust",
+    "star": "106"
+  },
+  {
+    "title": "BuilderIO/partytown",
+    "url": "https://github.com/BuilderIO/partytown",
+    "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
+    "language": "JavaScript",
+    "star": "402"
+  },
+  {
+    "title": "microsoft/muzic",
+    "url": "https://github.com/microsoft/muzic",
+    "description": "Muzic: Music Understanding and Generation with Artificial Intelligence",
+    "language": "Python",
+    "star": "352"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "JavaScript",
+    "star": "523"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "174"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "description": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "language": "TypeScript",
+    "star": "103"
+  },
+  {
+    "title": "stackgl/shader-school",
+    "url": "https://github.com/stackgl/shader-school",
+    "description": "🎓 A workshopper for GLSL shaders and graphics programming",
+    "language": "JavaScript",
+    "star": "77"
+  },
+  {
+    "title": "tsoding/porth",
+    "url": "https://github.com/tsoding/porth",
+    "description": "It's like Forth but in Python",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "python-engineer/ml-study-plan",
+    "url": "https://github.com/python-engineer/ml-study-plan",
+    "description": "The Ultimate FREE Machine Learning Study Plan",
+    "language": "none",
+    "star": "491"
+  },
+  {
+    "title": "Nyandwi/machine_learning_complete",
+    "url": "https://github.com/Nyandwi/machine_learning_complete",
+    "description": "A comprehensive repository containing 30+ notebooks on learning machine learning!",
+    "language": "Jupyter Notebook",
+    "star": "47"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "401"
+  },
+  {
+    "title": "chithakumar13/FUT-Auto-Buyer",
+    "url": "https://github.com/chithakumar13/FUT-Auto-Buyer",
+    "description": "Fifa 21 AutoBuyer / Snipping Bot for fifa 21 ultimate team web app with captcha solver",
+    "language": "JavaScript",
+    "star": "19"
+  },
+  {
+    "title": "sentsin/layui",
+    "url": "https://github.com/sentsin/layui",
+    "description": "采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。",
+    "language": "JavaScript",
+    "star": "50"
+  },
+  {
+    "title": "speedyg0nz/MagInkCal",
+    "url": "https://github.com/speedyg0nz/MagInkCal",
+    "description": "E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "im2nguyen/rover",
+    "url": "https://github.com/im2nguyen/rover",
+    "description": "Interactive Terraform visualization. State and configuration explorer.",
+    "language": "Go",
+    "star": "100"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "53"
+  },
+  {
+    "title": "RandomThings23/donut",
+    "url": "https://github.com/RandomThings23/donut",
+    "description": "DONUTS DONUTS DONUTS 🍩",
+    "language": "Python",
+    "star": "53"
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "description": "Questions to ask the company during your interview",
+    "language": "none",
+    "star": "83"
+  },
+  {
+    "title": "wangdoc/clang-tutorial",
+    "url": "https://github.com/wangdoc/clang-tutorial",
+    "description": "C 语言教程",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "59"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "276"
+  },
+  {
+    "title": "waydroid/waydroid",
+    "url": "https://github.com/waydroid/waydroid",
+    "description": "",
+    "language": "Python",
+    "star": "209"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "description": "基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统",
+    "language": "Java",
+    "star": "63"
+  }
+]
