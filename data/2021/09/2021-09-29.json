@@ -4,7 +4,7 @@
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "JavaScript",
-    "star": "693"
+    "star": "700"
   },
   {
     "title": "robertdavidgraham/masscan",
@@ -25,14 +25,14 @@
     "url": "https://github.com/python-engineer/ml-study-plan",
     "description": "The Ultimate FREE Machine Learning Study Plan",
     "language": "none",
-    "star": "390"
+    "star": "388"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "66"
+    "star": "79"
   },
   {
     "title": "freefq/free",
@@ -46,7 +46,7 @@
     "url": "https://github.com/flipped-aurora/gin-vue-admin",
     "description": "基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~",
     "language": "Go",
-    "star": "34"
+    "star": "36"
   },
   {
     "title": "github/india",
@@ -67,7 +67,7 @@
     "url": "https://github.com/YunaiV/ruoyi-vue-pro",
     "description": "基于SpringBoot，Spring Security，JWT，Vue & Element 的前后端分离权限管理系统",
     "language": "Java",
-    "star": "133"
+    "star": "134"
   },
   {
     "title": "withfig/autocomplete",
@@ -88,28 +88,28 @@
     "url": "https://github.com/Kaustubh-Natuskar/companies-to-apply",
     "description": "this repository contains opportunities for you to apply to more than 150 product base companies(NOT JUST FAANG ) & good start-up's",
     "language": "none",
-    "star": "94"
+    "star": "95"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "311"
+    "star": "307"
   },
   {
     "title": "Nyandwi/machine_learning_complete",
     "url": "https://github.com/Nyandwi/machine_learning_complete",
     "description": "A comprehensive repository containing 30+ notebooks on learning machine learning!",
     "language": "Jupyter Notebook",
-    "star": "343"
+    "star": "360"
   },
   {
     "title": "chithakumar13/FUT-Auto-Buyer",
     "url": "https://github.com/chithakumar13/FUT-Auto-Buyer",
     "description": "Fifa UT AutoBuyer / Snipping Bot for fifa ultimate team web app with captcha solver",
     "language": "JavaScript",
-    "star": "29"
+    "star": "32"
   },
   {
     "title": "speedyg0nz/MagInkCal",
@@ -151,7 +151,7 @@
     "url": "https://github.com/tsoding/porth",
     "description": "It's like Forth but in Python",
     "language": "Python",
-    "star": "49"
+    "star": "53"
   },
   {
     "title": "Moya/Moya",
@@ -172,6 +172,6 @@
     "url": "https://github.com/spring-projects/spring-boot",
     "description": "Spring Boot",
     "language": "Java",
-    "star": "21"
+    "star": "17"
   }
 ]
