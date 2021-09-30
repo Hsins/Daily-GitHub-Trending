@@ -1,0 +1,177 @@
+[
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "description": "Fig adds autocomplete to your terminal.",
+    "language": "TypeScript",
+    "star": "139"
+  },
+  {
+    "title": "jonataslaw/getx",
+    "url": "https://github.com/jonataslaw/getx",
+    "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+    "language": "Dart",
+    "star": "11"
+  },
+  {
+    "title": "robertdavidgraham/masscan",
+    "url": "https://github.com/robertdavidgraham/masscan",
+    "description": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+    "language": "C",
+    "star": "622"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "mithi/react-philosophies",
+    "url": "https://github.com/mithi/react-philosophies",
+    "description": "🧘 Things I think about when I write React code 🧘",
+    "language": "none",
+    "star": "67"
+  },
+  {
+    "title": "pytorch/data",
+    "url": "https://github.com/pytorch/data",
+    "description": "A PyTorch repo for data loading and utilities to be shared by the PyTorch domain libraries.",
+    "language": "Python",
+    "star": "77"
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "language": "C",
+    "star": "37"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "language": "JavaScript",
+    "star": "41"
+  },
+  {
+    "title": "laoshenkaopu/kkndme_tianya",
+    "url": "https://github.com/laoshenkaopu/kkndme_tianya",
+    "description": "天涯 kkndme 神贴聊房价",
+    "language": "none",
+    "star": "46"
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "language": "Blade",
+    "star": "20"
+  },
+  {
+    "title": "kimlimjustin/xplorer",
+    "url": "https://github.com/kimlimjustin/xplorer",
+    "description": "Xplorer, a customizable, modern file manager",
+    "language": "TypeScript",
+    "star": "83"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "star": "30"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "169"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "language": "JavaScript",
+    "star": "226"
+  },
+  {
+    "title": "python-engineer/ml-study-plan",
+    "url": "https://github.com/python-engineer/ml-study-plan",
+    "description": "The Ultimate FREE Machine Learning Study Plan",
+    "language": "none",
+    "star": "299"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Build custom CRUD apps that talk to any API or database. All without HTML or CSS.",
+    "language": "TypeScript",
+    "star": "14"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "language": "PHP",
+    "star": "14"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "description": "A list of awesome beginners-friendly projects.",
+    "language": "none",
+    "star": "50"
+  },
+  {
+    "title": "docker/compose",
+    "url": "https://github.com/docker/compose",
+    "description": "Define and run multi-container applications with Docker",
+    "language": "Go",
+    "star": "18"
+  },
+  {
+    "title": "tsoding/porth",
+    "url": "https://github.com/tsoding/porth",
+    "description": "It's like Forth but in Python",
+    "language": "Python",
+    "star": "72"
+  },
+  {
+    "title": "knative/serving",
+    "url": "https://github.com/knative/serving",
+    "description": "Kubernetes-based, scale-to-zero, request-driven compute",
+    "language": "Go",
+    "star": "5"
+  },
+  {
+    "title": "knadh/listmonk",
+    "url": "https://github.com/knadh/listmonk",
+    "description": "High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.",
+    "language": "Go",
+    "star": "34"
+  },
+  {
+    "title": "abdumostafa/awesome-in-arabic",
+    "url": "https://github.com/abdumostafa/awesome-in-arabic",
+    "description": "A collection of awesome developer accounts (Twitter, Facebook,...) 👨‍💻 that enrich Arabic content, podcasts, articles, Youtube channels and Some advises and guidelines.",
+    "language": "none",
+    "star": "16"
+  },
+  {
+    "title": "marcel-dempers/docker-development-youtube-series",
+    "url": "https://github.com/marcel-dempers/docker-development-youtube-series",
+    "description": "",
+    "language": "Go",
+    "star": "3"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "description": "Always know what to expect from your data.",
+    "language": "Python",
+    "star": "12"
+  }
+]
