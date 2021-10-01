@@ -4,28 +4,28 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "167"
+    "star": "171"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "203"
+    "star": "212"
   },
   {
     "title": "great-expectations/great_expectations",
     "url": "https://github.com/great-expectations/great_expectations",
     "description": "Always know what to expect from your data.",
     "language": "Python",
-    "star": "142"
+    "star": "144"
   },
   {
     "title": "containers/youki",
     "url": "https://github.com/containers/youki",
     "description": "A container runtime written in Rust",
     "language": "Rust",
-    "star": "109"
+    "star": "113"
   },
   {
     "title": "mgeeky/ShellcodeFluctuation",
@@ -39,7 +39,7 @@
     "url": "https://github.com/willmcgugan/textual",
     "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
     "language": "Python",
-    "star": "119"
+    "star": "127"
   },
   {
     "title": "hashicorp/consul",
@@ -53,35 +53,35 @@
     "url": "https://github.com/jonataslaw/getx",
     "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
     "language": "Dart",
-    "star": "117"
+    "star": "112"
   },
   {
     "title": "TheAlgorithms/Javascript",
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "86"
+    "star": "94"
   },
   {
     "title": "danistefanovic/build-your-own-x",
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "208"
+    "star": "215"
   },
   {
     "title": "ripienaar/free-for-dev",
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "117"
+    "star": "126"
   },
   {
     "title": "mithi/react-philosophies",
     "url": "https://github.com/mithi/react-philosophies",
     "description": "🧘 Things I think about when I write React code 🧘",
     "language": "none",
-    "star": "380"
+    "star": "384"
   },
   {
     "title": "goplus/gop",
@@ -102,7 +102,7 @@
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "334"
+    "star": "355"
   },
   {
     "title": "hashicorp/terraform",
@@ -130,21 +130,21 @@
     "url": "https://github.com/freefq/free",
     "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
     "language": "none",
-    "star": "43"
+    "star": "42"
   },
   {
     "title": "monicahq/monica",
     "url": "https://github.com/monicahq/monica",
     "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
     "language": "PHP",
-    "star": "490"
+    "star": "488"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "160"
+    "star": "168"
   },
   {
     "title": "microsoft/PowerToys",
@@ -158,20 +158,20 @@
     "url": "https://github.com/jina-ai/jina",
     "description": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
     "language": "Python",
-    "star": "77"
+    "star": "79"
   },
   {
     "title": "eclipse/mosquitto",
     "url": "https://github.com/eclipse/mosquitto",
     "description": "Eclipse Mosquitto - An open source MQTT broker",
     "language": "C",
-    "star": "77"
+    "star": "93"
   },
   {
     "title": "swagger-api/swagger-ui",
     "url": "https://github.com/swagger-api/swagger-ui",
     "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
     "language": "JavaScript",
-    "star": "33"
+    "star": "54"
   }
 ]
