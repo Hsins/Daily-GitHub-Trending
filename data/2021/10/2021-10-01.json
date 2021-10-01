@@ -32,7 +32,7 @@
     "url": "https://github.com/mgeeky/ShellcodeFluctuation",
     "description": "An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents",
     "language": "C++",
-    "star": "51"
+    "star": "53"
   },
   {
     "title": "willmcgugan/textual",
