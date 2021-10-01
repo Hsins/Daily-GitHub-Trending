@@ -1,0 +1,177 @@
+[
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "167"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "203"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "description": "Always know what to expect from your data.",
+    "language": "Python",
+    "star": "142"
+  },
+  {
+    "title": "containers/youki",
+    "url": "https://github.com/containers/youki",
+    "description": "A container runtime written in Rust",
+    "language": "Rust",
+    "star": "109"
+  },
+  {
+    "title": "mgeeky/ShellcodeFluctuation",
+    "url": "https://github.com/mgeeky/ShellcodeFluctuation",
+    "description": "An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents",
+    "language": "C++",
+    "star": "51"
+  },
+  {
+    "title": "willmcgugan/textual",
+    "url": "https://github.com/willmcgugan/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "119"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "language": "Go",
+    "star": "31"
+  },
+  {
+    "title": "jonataslaw/getx",
+    "url": "https://github.com/jonataslaw/getx",
+    "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+    "language": "Dart",
+    "star": "117"
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "language": "JavaScript",
+    "star": "86"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "208"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "117"
+  },
+  {
+    "title": "mithi/react-philosophies",
+    "url": "https://github.com/mithi/react-philosophies",
+    "description": "🧘 Things I think about when I write React code 🧘",
+    "language": "none",
+    "star": "380"
+  },
+  {
+    "title": "goplus/gop",
+    "url": "https://github.com/goplus/gop",
+    "description": "GoPlus - The Go+ language for engineering, STEM education, and data science",
+    "language": "Go",
+    "star": "30"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "118"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!",
+    "language": "Jupyter Notebook",
+    "star": "334"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "star": "69"
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "description": "基于vite+vue3+gin搭建的开发基础平台，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能，五分钟一套CURD前后端代码，欢迎issue和pr~",
+    "language": "Go",
+    "star": "26"
+  },
+  {
+    "title": "tsoding/porth",
+    "url": "https://github.com/tsoding/porth",
+    "description": "It's like Forth but in Python",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "43"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "language": "PHP",
+    "star": "490"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "160"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "76"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "description": "Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data",
+    "language": "Python",
+    "star": "77"
+  },
+  {
+    "title": "eclipse/mosquitto",
+    "url": "https://github.com/eclipse/mosquitto",
+    "description": "Eclipse Mosquitto - An open source MQTT broker",
+    "language": "C",
+    "star": "77"
+  },
+  {
+    "title": "swagger-api/swagger-ui",
+    "url": "https://github.com/swagger-api/swagger-ui",
+    "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+    "language": "JavaScript",
+    "star": "33"
+  }
+]
