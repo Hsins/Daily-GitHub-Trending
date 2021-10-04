@@ -4,28 +4,28 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.",
     "language": "TypeScript",
-    "star": "376"
+    "star": "384"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "500"
+    "star": "502"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "265"
+    "star": "257"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "262"
+    "star": "261"
   },
   {
     "title": "Slurmio/school-dev-k8s",
@@ -39,63 +39,63 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "222"
+    "star": "219"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "43"
+    "star": "46"
   },
   {
     "title": "termux/termux-packages",
     "url": "https://github.com/termux/termux-packages",
     "description": "A build system and primary set of packages for Termux.",
     "language": "Shell",
-    "star": "81"
+    "star": "80"
   },
   {
     "title": "authzed/spicedb",
     "url": "https://github.com/authzed/spicedb",
     "description": "A Zanzibar-inspired database that stores, computes, and validates application permissions",
     "language": "Go",
-    "star": "184"
+    "star": "185"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "217"
+    "star": "204"
   },
   {
     "title": "appwrite/appwrite",
     "url": "https://github.com/appwrite/appwrite",
     "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
     "language": "JavaScript",
-    "star": "73"
+    "star": "81"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "427"
+    "star": "430"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "208"
+    "star": "207"
   },
   {
     "title": "googleprojectzero/weggli",
     "url": "https://github.com/googleprojectzero/weggli",
     "description": "weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
     "language": "Rust",
-    "star": "180"
+    "star": "181"
   },
   {
     "title": "girlscript/winter-of-contributing",
@@ -109,49 +109,49 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "52"
+    "star": "55"
   },
   {
     "title": "TheAlgorithms/Javascript",
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
     "language": "JavaScript",
-    "star": "171"
+    "star": "164"
   },
   {
     "title": "tldr-pages/tldr",
     "url": "https://github.com/tldr-pages/tldr",
     "description": "📚 Collaborative cheatsheets for console commands",
     "language": "Markdown",
-    "star": "320"
+    "star": "321"
   },
   {
     "title": "ShameCom/ShameCom",
     "url": "https://github.com/ShameCom/ShameCom",
     "description": "收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！",
     "language": "none",
-    "star": "91"
+    "star": "95"
   },
   {
     "title": "electron/electron",
     "url": "https://github.com/electron/electron",
     "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
     "language": "C++",
-    "star": "352"
+    "star": "353"
   },
   {
     "title": "mmazzarolo/react-native-universal-monorepo",
     "url": "https://github.com/mmazzarolo/react-native-universal-monorepo",
     "description": "React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.",
     "language": "JavaScript",
-    "star": "93"
+    "star": "104"
   },
   {
     "title": "monicahq/monica",
     "url": "https://github.com/monicahq/monica",
     "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
     "language": "PHP",
-    "star": "219"
+    "star": "230"
   },
   {
     "title": "sebastianstarke/AI4Animation",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Siterizer/new-world-fishing-bot",
     "description": "user friendly python script who is able to catch fish in the game New World",
     "language": "Python",
-    "star": "28"
+    "star": "27"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "240"
+    "star": "237"
   }
 ]
