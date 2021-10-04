@@ -4,28 +4,28 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Build completely custom admin panels and internal tools. Use 30+ react components to build pages without HTML/CSS.",
     "language": "TypeScript",
-    "star": "373"
+    "star": "376"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "502"
+    "star": "500"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "264"
+    "star": "265"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "263"
+    "star": "262"
   },
   {
     "title": "Slurmio/school-dev-k8s",
@@ -67,7 +67,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "209"
+    "star": "217"
   },
   {
     "title": "appwrite/appwrite",
@@ -81,7 +81,7 @@
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "433"
+    "star": "427"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
@@ -95,14 +95,14 @@
     "url": "https://github.com/googleprojectzero/weggli",
     "description": "weggli is a fast and robust semantic search tool for C and C++ codebases. It is designed to help security researchers identify interesting functionality in large codebases.",
     "language": "Rust",
-    "star": "183"
+    "star": "180"
   },
   {
     "title": "girlscript/winter-of-contributing",
     "url": "https://github.com/girlscript/winter-of-contributing",
     "description": "GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.",
     "language": "Jupyter Notebook",
-    "star": "24"
+    "star": "23"
   },
   {
     "title": "ocornut/imgui",
@@ -123,55 +123,55 @@
     "url": "https://github.com/tldr-pages/tldr",
     "description": "📚 Collaborative cheatsheets for console commands",
     "language": "Markdown",
-    "star": "330"
+    "star": "320"
   },
   {
     "title": "ShameCom/ShameCom",
     "url": "https://github.com/ShameCom/ShameCom",
     "description": "收集校招污点公司或组织，帮助学弟学妹避雷。互联网不曾遗忘！",
     "language": "none",
-    "star": "89"
+    "star": "91"
   },
   {
     "title": "electron/electron",
     "url": "https://github.com/electron/electron",
     "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
     "language": "C++",
-    "star": "356"
+    "star": "352"
   },
   {
     "title": "mmazzarolo/react-native-universal-monorepo",
     "url": "https://github.com/mmazzarolo/react-native-universal-monorepo",
     "description": "React Native boilerplate supporting multiple platforms: Android, iOS, macOS, Windows, web, browser extensions, Electron.",
     "language": "JavaScript",
-    "star": "97"
+    "star": "93"
   },
   {
     "title": "monicahq/monica",
     "url": "https://github.com/monicahq/monica",
     "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
     "language": "PHP",
-    "star": "210"
+    "star": "219"
   },
   {
     "title": "sebastianstarke/AI4Animation",
     "url": "https://github.com/sebastianstarke/AI4Animation",
     "description": "Bringing Characters to Life with Computer Brains in Unity",
     "language": "C++",
-    "star": "41"
+    "star": "43"
   },
   {
     "title": "Siterizer/new-world-fishing-bot",
     "url": "https://github.com/Siterizer/new-world-fishing-bot",
     "description": "user friendly python script who is able to catch fish in the game New World",
     "language": "Python",
-    "star": "25"
+    "star": "28"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "241"
+    "star": "240"
   }
 ]
