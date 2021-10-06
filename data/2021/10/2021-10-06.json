@@ -11,98 +11,98 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "599"
+    "star": "598"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "62"
+    "star": "72"
   },
   {
     "title": "peregrine-lang/Peregrine",
     "url": "https://github.com/peregrine-lang/Peregrine",
     "description": "An easy to use systems programming language with Python-like syntax.",
     "language": "V",
-    "star": "179"
+    "star": "186"
   },
   {
     "title": "kentcdodds/kentcdodds.com",
     "url": "https://github.com/kentcdodds/kentcdodds.com",
     "description": "My personal website",
     "language": "TypeScript",
-    "star": "99"
+    "star": "109"
   },
   {
     "title": "vmware-tanzu/community-edition",
     "url": "https://github.com/vmware-tanzu/community-edition",
     "description": "VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",
     "language": "Go",
-    "star": "51"
+    "star": "70"
   },
   {
     "title": "louislam/uptime-kuma",
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "star": "207"
+    "star": "105"
   },
   {
     "title": "syncthing/syncthing",
     "url": "https://github.com/syncthing/syncthing",
     "description": "Open Source Continuous File Synchronization",
     "language": "Go",
-    "star": "23"
+    "star": "61"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "231"
+    "star": "236"
   },
   {
     "title": "tiangolo/fastapi",
     "url": "https://github.com/tiangolo/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "star": "96"
+    "star": "99"
   },
   {
     "title": "PrefectHQ/prefect",
     "url": "https://github.com/PrefectHQ/prefect",
     "description": "The easiest way to automate your data",
     "language": "Python",
-    "star": "55"
+    "star": "12"
   },
   {
     "title": "JoeWDavies/geoblender",
     "url": "https://github.com/JoeWDavies/geoblender",
     "description": "Tutorials for making 3D-looking maps with Blender and QGIS",
     "language": "none",
-    "star": "87"
+    "star": "90"
   },
   {
     "title": "opencodeiiita/Collaborative-Web",
     "url": "https://github.com/opencodeiiita/Collaborative-Web",
     "description": "Opencode 21 Collaborative website!",
     "language": "JavaScript",
-    "star": "11"
+    "star": "13"
   },
   {
     "title": "files-community/Files",
     "url": "https://github.com/files-community/Files",
     "description": "A modern file manager that pushes the boundaries of the platform.",
     "language": "C#",
-    "star": "154"
+    "star": "158"
   },
   {
     "title": "oatpp/oatpp",
     "url": "https://github.com/oatpp/oatpp",
     "description": "🌱Light and powerful C++ web framework for highly scalable and resource-efficient web application. It's zero-dependency and easy-portable.",
     "language": "C++",
-    "star": "45"
+    "star": "40"
   },
   {
     "title": "Harsha200105/DesktopAssitant",
@@ -116,49 +116,49 @@
     "url": "https://github.com/abhpd/hacktoberfest2021",
     "description": "🌱 Contribute your favorite 📚 Data Structure implementation, 🕸 Algorithms, and 🎲 Projects. 😊 | Very Active Repository, Star and Share with your friends |",
     "language": "Java",
-    "star": "82"
+    "star": "85"
   },
   {
     "title": "novaspirit/pi-hosted",
     "url": "https://github.com/novaspirit/pi-hosted",
     "description": "Raspberry Pi Self Hosted Server Based on Docker / Portainer.io",
     "language": "Shell",
-    "star": "46"
+    "star": "50"
   },
   {
     "title": "M2Team/NanaZip",
     "url": "https://github.com/M2Team/NanaZip",
     "description": "The 7-Zip derivative intended for the modern Windows experience.",
     "language": "C++",
-    "star": "33"
+    "star": "38"
   },
   {
     "title": "Richasy/Bili.Uwp",
     "url": "https://github.com/Richasy/Bili.Uwp",
     "description": "适用于新系统UI的哔哩",
     "language": "C#",
-    "star": "87"
+    "star": "89"
   },
   {
     "title": "facebook/flipper",
     "url": "https://github.com/facebook/flipper",
     "description": "A desktop debugging platform for mobile developers.",
     "language": "TypeScript",
-    "star": "10"
+    "star": "87"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "241"
+    "star": "245"
   },
   {
     "title": "rwightman/pytorch-image-models",
     "url": "https://github.com/rwightman/pytorch-image-models",
     "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
     "language": "Python",
-    "star": "30"
+    "star": "32"
   },
   {
     "title": "girlscript/winter-of-contributing",
@@ -172,6 +172,6 @@
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "33"
+    "star": "37"
   }
 ]
