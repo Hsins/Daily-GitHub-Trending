@@ -11,7 +11,7 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "598"
+    "star": "590"
   },
   {
     "title": "PowerShell/PowerShell",
@@ -25,7 +25,7 @@
     "url": "https://github.com/peregrine-lang/Peregrine",
     "description": "An easy to use systems programming language with Python-like syntax.",
     "language": "V",
-    "star": "186"
+    "star": "191"
   },
   {
     "title": "kentcdodds/kentcdodds.com",
@@ -39,7 +39,7 @@
     "url": "https://github.com/vmware-tanzu/community-edition",
     "description": "VMware Tanzu Community Edition is a full-featured, easy to manage Kubernetes platform for learners and users on your local workstation or your favorite cloud. Tanzu Community Edition enables the creation of application platforms: infrastructure, tooling, and services providing location to run applications and enable positive developer experiences.",
     "language": "Go",
-    "star": "70"
+    "star": "81"
   },
   {
     "title": "louislam/uptime-kuma",
@@ -60,7 +60,7 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "236"
+    "star": "224"
   },
   {
     "title": "tiangolo/fastapi",
@@ -95,7 +95,7 @@
     "url": "https://github.com/files-community/Files",
     "description": "A modern file manager that pushes the boundaries of the platform.",
     "language": "C#",
-    "star": "158"
+    "star": "163"
   },
   {
     "title": "oatpp/oatpp",
@@ -109,7 +109,7 @@
     "url": "https://github.com/Harsha200105/DesktopAssitant",
     "description": "A Virtual Desktop Assistant Written in Python",
     "language": "Python",
-    "star": "152"
+    "star": "150"
   },
   {
     "title": "abhpd/hacktoberfest2021",
@@ -123,7 +123,7 @@
     "url": "https://github.com/novaspirit/pi-hosted",
     "description": "Raspberry Pi Self Hosted Server Based on Docker / Portainer.io",
     "language": "Shell",
-    "star": "50"
+    "star": "52"
   },
   {
     "title": "M2Team/NanaZip",
@@ -137,14 +137,14 @@
     "url": "https://github.com/Richasy/Bili.Uwp",
     "description": "适用于新系统UI的哔哩",
     "language": "C#",
-    "star": "89"
+    "star": "86"
   },
   {
     "title": "facebook/flipper",
     "url": "https://github.com/facebook/flipper",
     "description": "A desktop debugging platform for mobile developers.",
     "language": "TypeScript",
-    "star": "87"
+    "star": "93"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
@@ -165,7 +165,7 @@
     "url": "https://github.com/girlscript/winter-of-contributing",
     "description": "GirlScript Winter of Contributing is a three-month-long Open-Source Program organized by🧡GirlScript Foundation to create the world's largest multilingual content repository that will be available to everyone.",
     "language": "Jupyter Notebook",
-    "star": "11"
+    "star": "12"
   },
   {
     "title": "nvm-sh/nvm",
