@@ -1,0 +1,177 @@
+[
+  {
+    "title": "raywenderlich/flta-materials",
+    "url": "https://github.com/raywenderlich/flta-materials",
+    "description": "The projects and the materials that accompany the Flutter Apprentice book",
+    "language": "Dart",
+    "star": "150"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "description": "A desktop debugging platform for mobile developers.",
+    "language": "TypeScript",
+    "star": "62"
+  },
+  {
+    "title": "arkenfox/user.js",
+    "url": "https://github.com/arkenfox/user.js",
+    "description": "Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening",
+    "language": "JavaScript",
+    "star": "44"
+  },
+  {
+    "title": "WordPress/twentytwentytwo",
+    "url": "https://github.com/WordPress/twentytwentytwo",
+    "description": "Twenty Twenty-Two, the default WordPress theme that will launch with WordPress 5.9.",
+    "language": "HTML",
+    "star": "30"
+  },
+  {
+    "title": "opencodeiiita/Collaborative-Web",
+    "url": "https://github.com/opencodeiiita/Collaborative-Web",
+    "description": "Opencode 21 Collaborative website!",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "113"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "24"
+  },
+  {
+    "title": "M2Team/NanaZip",
+    "url": "https://github.com/M2Team/NanaZip",
+    "description": "The 7-Zip derivative intended for the modern Windows experience.",
+    "language": "C++",
+    "star": "84"
+  },
+  {
+    "title": "lvgl/lvgl",
+    "url": "https://github.com/lvgl/lvgl",
+    "description": "Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",
+    "language": "C",
+    "star": "119"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "star": "584"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "description": "The easiest way to automate your data",
+    "language": "Python",
+    "star": "166"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "language": "none",
+    "star": "102"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "The modern web developer’s platform",
+    "language": "TypeScript",
+    "star": "58"
+  },
+  {
+    "title": "gnuradio/gnuradio",
+    "url": "https://github.com/gnuradio/gnuradio",
+    "description": "GNU Radio – the Free and Open Software Radio Ecosystem",
+    "language": "C++",
+    "star": "22"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "13"
+  },
+  {
+    "title": "hashicorp/boundary",
+    "url": "https://github.com/hashicorp/boundary",
+    "description": "Boundary enables identity-based access management for dynamic infrastructure.",
+    "language": "Go",
+    "star": "13"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "description": "Declarative continuous deployment for Kubernetes.",
+    "language": "Go",
+    "star": "12"
+  },
+  {
+    "title": "isometimes/rpi4-osdev",
+    "url": "https://github.com/isometimes/rpi4-osdev",
+    "description": "Tutorial: Writing a \"bare metal\" operating system for Raspberry Pi 4",
+    "language": "C",
+    "star": "331"
+  },
+  {
+    "title": "trailofbits/algo",
+    "url": "https://github.com/trailofbits/algo",
+    "description": "Set up a personal VPN in the cloud",
+    "language": "Python",
+    "star": "134"
+  },
+  {
+    "title": "tristanhimmelman/ObjectMapper",
+    "url": "https://github.com/tristanhimmelman/ObjectMapper",
+    "description": "Simple JSON Object mapping written in Swift",
+    "language": "Swift",
+    "star": "1"
+  },
+  {
+    "title": "aws/jsii",
+    "url": "https://github.com/aws/jsii",
+    "description": "jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "syncthing/syncthing",
+    "url": "https://github.com/syncthing/syncthing",
+    "description": "Open Source Continuous File Synchronization",
+    "language": "Go",
+    "star": "23"
+  },
+  {
+    "title": "peregrine-lang/Peregrine",
+    "url": "https://github.com/peregrine-lang/Peregrine",
+    "description": "A blazing fast language for the blazing fast world",
+    "language": "V",
+    "star": "224"
+  },
+  {
+    "title": "wireshark/wireshark",
+    "url": "https://github.com/wireshark/wireshark",
+    "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.",
+    "language": "C",
+    "star": "50"
+  },
+  {
+    "title": "vapor/vapor",
+    "url": "https://github.com/vapor/vapor",
+    "description": "💧 A server-side Swift HTTP web framework.",
+    "language": "Swift",
+    "star": "4"
+  }
+]
