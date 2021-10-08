@@ -4,49 +4,49 @@
     "url": "https://github.com/raywenderlich/flta-materials",
     "description": "The projects and the materials that accompany the Flutter Apprentice book",
     "language": "Dart",
-    "star": "141"
+    "star": "137"
   },
   {
     "title": "facebook/flipper",
     "url": "https://github.com/facebook/flipper",
     "description": "A desktop debugging platform for mobile developers.",
     "language": "TypeScript",
-    "star": "51"
+    "star": "95"
   },
   {
     "title": "arkenfox/user.js",
     "url": "https://github.com/arkenfox/user.js",
     "description": "Firefox privacy, security and anti-fingerprinting: a comprehensive user.js template for configuration and hardening",
     "language": "JavaScript",
-    "star": "44"
+    "star": "93"
   },
   {
     "title": "WordPress/twentytwentytwo",
     "url": "https://github.com/WordPress/twentytwentytwo",
     "description": "Twenty Twenty-Two, the default WordPress theme that will launch with WordPress 5.9.",
     "language": "HTML",
-    "star": "34"
+    "star": "31"
   },
   {
     "title": "opencodeiiita/Collaborative-Web",
     "url": "https://github.com/opencodeiiita/Collaborative-Web",
     "description": "Opencode 21 Collaborative website!",
     "language": "JavaScript",
-    "star": "9"
+    "star": "15"
   },
   {
     "title": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "125"
+    "star": "130"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "32"
+    "star": "56"
   },
   {
     "title": "M2Team/NanaZip",
@@ -60,28 +60,28 @@
     "url": "https://github.com/lvgl/lvgl",
     "description": "Powerful and easy-to-use embedded GUI library with many widgets, advanced visual effects (opacity, antialiasing, animations) and low memory requirements (16K RAM, 64K Flash).",
     "language": "C",
-    "star": "132"
+    "star": "154"
   },
   {
     "title": "louislam/uptime-kuma",
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "star": "527"
+    "star": "559"
   },
   {
     "title": "PrefectHQ/prefect",
     "url": "https://github.com/PrefectHQ/prefect",
     "description": "The easiest way to automate your data",
     "language": "Python",
-    "star": "172"
+    "star": "158"
   },
   {
     "title": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
     "language": "none",
-    "star": "91"
+    "star": "27"
   },
   {
     "title": "angular/angular",
@@ -95,21 +95,21 @@
     "url": "https://github.com/gnuradio/gnuradio",
     "description": "GNU Radio – the Free and Open Software Radio Ecosystem",
     "language": "C++",
-    "star": "16"
+    "star": "2"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "22"
+    "star": "13"
   },
   {
     "title": "hashicorp/boundary",
     "url": "https://github.com/hashicorp/boundary",
     "description": "Boundary enables identity-based access management for dynamic infrastructure.",
     "language": "Go",
-    "star": "10"
+    "star": "2"
   },
   {
     "title": "argoproj/argo-cd",
@@ -123,21 +123,21 @@
     "url": "https://github.com/isometimes/rpi4-osdev",
     "description": "Tutorial: Writing a \"bare metal\" operating system for Raspberry Pi 4",
     "language": "C",
-    "star": "279"
+    "star": "219"
   },
   {
     "title": "trailofbits/algo",
     "url": "https://github.com/trailofbits/algo",
     "description": "Set up a personal VPN in the cloud",
     "language": "Python",
-    "star": "176"
+    "star": "87"
   },
   {
     "title": "tristanhimmelman/ObjectMapper",
     "url": "https://github.com/tristanhimmelman/ObjectMapper",
     "description": "Simple JSON Object mapping written in Swift",
     "language": "Swift",
-    "star": "6"
+    "star": "1"
   },
   {
     "title": "aws/jsii",
@@ -151,27 +151,27 @@
     "url": "https://github.com/syncthing/syncthing",
     "description": "Open Source Continuous File Synchronization",
     "language": "Go",
-    "star": "23"
+    "star": "45"
   },
   {
     "title": "peregrine-lang/Peregrine",
     "url": "https://github.com/peregrine-lang/Peregrine",
     "description": "A blazing fast language for the blazing fast world",
     "language": "V",
-    "star": "224"
+    "star": "160"
   },
   {
     "title": "wireshark/wireshark",
     "url": "https://github.com/wireshark/wireshark",
     "description": "Read-only mirror of Wireshark's Git repository at https://gitlab.com/wireshark/wireshark. GitHub won't let us disable pull requests. ☞ THEY WILL BE IGNORED HERE ☜ Please upload them at GitLab.",
     "language": "C",
-    "star": "25"
+    "star": "1"
   },
   {
     "title": "vapor/vapor",
     "url": "https://github.com/vapor/vapor",
     "description": "💧 A server-side Swift HTTP web framework.",
     "language": "Swift",
-    "star": "43"
+    "star": "4"
   }
 ]
