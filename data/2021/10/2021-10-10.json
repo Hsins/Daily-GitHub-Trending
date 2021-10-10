@@ -11,56 +11,56 @@
     "url": "https://github.com/trailofbits/algo",
     "description": "Set up a personal VPN in the cloud",
     "language": "Python",
-    "star": "354"
+    "star": "414"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "56"
+    "star": "39"
   },
   {
     "title": "louislam/uptime-kuma",
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "star": "498"
+    "star": "495"
   },
   {
     "title": "vuejs/vue-next",
     "url": "https://github.com/vuejs/vue-next",
     "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
     "language": "TypeScript",
-    "star": "57"
+    "star": "58"
   },
   {
     "title": "babysor/MockingBird",
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "JavaScript",
-    "star": "166"
+    "star": "190"
   },
   {
     "title": "facebook/flipper",
     "url": "https://github.com/facebook/flipper",
     "description": "A desktop debugging platform for mobile developers.",
     "language": "TypeScript",
-    "star": "249"
+    "star": "244"
   },
   {
     "title": "fatedier/frp",
     "url": "https://github.com/fatedier/frp",
     "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
     "language": "Go",
-    "star": "35"
+    "star": "28"
   },
   {
     "title": "ossrs/srs",
     "url": "https://github.com/ossrs/srs",
     "description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
     "language": "C++",
-    "star": "20"
+    "star": "16"
   },
   {
     "title": "vinta/awesome-python",
@@ -74,7 +74,7 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "51"
+    "star": "45"
   },
   {
     "title": "ihciah/clean-dns-bpf",
@@ -88,14 +88,14 @@
     "url": "https://github.com/sdras/awesome-actions",
     "description": "A curated list of awesome actions to use on GitHub",
     "language": "none",
-    "star": "194"
+    "star": "193"
   },
   {
     "title": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
     "language": "none",
-    "star": "368"
+    "star": "303"
   },
   {
     "title": "anncwb/vue-vben-admin",
@@ -109,7 +109,7 @@
     "url": "https://github.com/Python-World/Python_and_the_Web",
     "description": "Build Bots, Scrape a website or use an API to solve a problem.",
     "language": "Python",
-    "star": "58"
+    "star": "7"
   },
   {
     "title": "wimpysworld/quickemu",
@@ -123,14 +123,14 @@
     "url": "https://github.com/mattiasgustavsson/dos-like",
     "description": "Engine for making things with a MS-DOS feel, but for modern platforms",
     "language": "C",
-    "star": "117"
+    "star": "115"
   },
   {
     "title": "apache/rocketmq",
     "url": "https://github.com/apache/rocketmq",
     "description": "Mirror of Apache RocketMQ",
     "language": "Java",
-    "star": "15"
+    "star": "11"
   },
   {
     "title": "donet5/WebFirst",
@@ -144,7 +144,7 @@
     "url": "https://github.com/raywenderlich/flta-materials",
     "description": "The projects and the materials that accompany the Flutter Apprentice book",
     "language": "Dart",
-    "star": "159"
+    "star": "102"
   },
   {
     "title": "herosi/CTO",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vuejs/vue",
     "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
     "language": "JavaScript",
-    "star": "41"
+    "star": "42"
   }
 ]
