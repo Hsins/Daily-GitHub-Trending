@@ -1,0 +1,177 @@
+[
+  {
+    "title": "peng-zhihui/Peak",
+    "url": "https://github.com/peng-zhihui/Peak",
+    "description": "Tiny Mobile Terminal Device Kit.",
+    "language": "C",
+    "star": "82"
+  },
+  {
+    "title": "Chakazul/Lenia",
+    "url": "https://github.com/Chakazul/Lenia",
+    "description": "Lenia - Mathematical Life Forms",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography",
+    "language": "HTML",
+    "star": "42"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "66"
+  },
+  {
+    "title": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+    "language": "Go",
+    "star": "44"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "peng-zhihui/Dummy-Robot",
+    "url": "https://github.com/peng-zhihui/Dummy-Robot",
+    "description": "我的超迷你机械臂机器人项目。",
+    "language": "none",
+    "star": "568"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "language": "Python",
+    "star": "190"
+  },
+  {
+    "title": "AveYo/MediaCreationTool.bat",
+    "url": "https://github.com/AveYo/MediaCreationTool.bat",
+    "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
+    "language": "Batchfile",
+    "star": "59"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "63"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "language": "Python",
+    "star": "526"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "description": "An open-source vector database for embedding similarity search and AI applications.",
+    "language": "Go",
+    "star": "18"
+  },
+  {
+    "title": "ossrs/srs",
+    "url": "https://github.com/ossrs/srs",
+    "description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.",
+    "language": "C++",
+    "star": "14"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "144"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "Java",
+    "star": "62"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "language": "Go",
+    "star": "89"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "17"
+  },
+  {
+    "title": "alibaba/Sentinel",
+    "url": "https://github.com/alibaba/Sentinel",
+    "description": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
+    "language": "Java",
+    "star": "8"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "description": "Parallel programming for everyone.",
+    "language": "C++",
+    "star": "19"
+  },
+  {
+    "title": "tihanyin/PSSW100AVB",
+    "url": "https://github.com/tihanyin/PSSW100AVB",
+    "description": "A list of useful Powershell scripts with 100% AV bypass (At the time of publication).",
+    "language": "PowerShell",
+    "star": "19"
+  },
+  {
+    "title": "apache/apisix",
+    "url": "https://github.com/apache/apisix",
+    "description": "The Cloud-Native API Gateway",
+    "language": "Lua",
+    "star": "10"
+  },
+  {
+    "title": "ArduPilot/ardupilot",
+    "url": "https://github.com/ArduPilot/ardupilot",
+    "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+    "language": "C++",
+    "star": "3"
+  },
+  {
+    "title": "raimohanska/ourboard",
+    "url": "https://github.com/raimohanska/ourboard",
+    "description": "An online whiteboard",
+    "language": "TypeScript",
+    "star": "74"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "description": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition",
+    "language": "none",
+    "star": "28"
+  }
+]
