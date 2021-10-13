@@ -1,0 +1,177 @@
+[
+  {
+    "title": "NVlabs/stylegan3",
+    "url": "https://github.com/NVlabs/stylegan3",
+    "description": "Official PyTorch implementation of StyleGAN3",
+    "language": "Python",
+    "star": "560"
+  },
+  {
+    "title": "goplus/gop",
+    "url": "https://github.com/goplus/gop",
+    "description": "GoPlus - The Go+ language for engineering, STEM education, and data science",
+    "language": "Go",
+    "star": "53"
+  },
+  {
+    "title": "fosscord/fosscord-server",
+    "url": "https://github.com/fosscord/fosscord-server",
+    "description": "Fosscord Server (selfhostable open source discord server) (contains api + cdn + gateway + dashboard + voice)",
+    "language": "TypeScript",
+    "star": "5"
+  },
+  {
+    "title": "KieSun/all-of-frontend",
+    "url": "https://github.com/KieSun/all-of-frontend",
+    "description": "你想知道的前端内容都在这",
+    "language": "JavaScript",
+    "star": "139"
+  },
+  {
+    "title": "Chakazul/Lenia",
+    "url": "https://github.com/Chakazul/Lenia",
+    "description": "Lenia - Mathematical Life Forms",
+    "language": "Python",
+    "star": "141"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "27"
+  },
+  {
+    "title": "WebDevSimplified/useful-custom-react-hooks",
+    "url": "https://github.com/WebDevSimplified/useful-custom-react-hooks",
+    "description": "",
+    "language": "JavaScript",
+    "star": "80"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "155"
+  },
+  {
+    "title": "marcelja/facebook-delete",
+    "url": "https://github.com/marcelja/facebook-delete",
+    "description": "Fast facebook activity deletion",
+    "language": "Go",
+    "star": "124"
+  },
+  {
+    "title": "fosscord/fosscord",
+    "url": "https://github.com/fosscord/fosscord",
+    "description": "Fosscord is a free open source selfhostable discord compatible chat, voice and video platform",
+    "language": "JavaScript",
+    "star": "262"
+  },
+  {
+    "title": "ZhangNanBei/WokerLifeMatters",
+    "url": "https://github.com/ZhangNanBei/WokerLifeMatters",
+    "description": "各大公司作息统计",
+    "language": "none",
+    "star": "81"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "162"
+  },
+  {
+    "title": "AveYo/MediaCreationTool.bat",
+    "url": "https://github.com/AveYo/MediaCreationTool.bat",
+    "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
+    "language": "Batchfile",
+    "star": "98"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Solidity",
+    "star": "13"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "language": "Python",
+    "star": "452"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "136"
+  },
+  {
+    "title": "raimohanska/ourboard",
+    "url": "https://github.com/raimohanska/ourboard",
+    "description": "An online whiteboard",
+    "language": "TypeScript",
+    "star": "141"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "description": "An open-source vector database for embedding similarity search and AI applications.",
+    "language": "Go",
+    "star": "89"
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "description": "🌋 Pluggable enterprise-level react application framework.",
+    "language": "TypeScript",
+    "star": "3"
+  },
+  {
+    "title": "thunlp/OpenPrompt",
+    "url": "https://github.com/thunlp/OpenPrompt",
+    "description": "An Open-Source Toolkit for Prompt-Learning.",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "language": "JavaScript",
+    "star": "170"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "language": "Swift",
+    "star": "5"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "none",
+    "star": "118"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "description": "👽 Open source API development ecosystem https://hoppscotch.io",
+    "language": "Vue",
+    "star": "47"
+  }
+]
