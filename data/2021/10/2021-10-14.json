@@ -18,21 +18,21 @@
     "url": "https://github.com/goplus/gop",
     "description": "GoPlus - The Go+ language for engineering, STEM education, and data science",
     "language": "Go",
-    "star": "119"
+    "star": "114"
   },
   {
     "title": "KieSun/all-of-frontend",
     "url": "https://github.com/KieSun/all-of-frontend",
     "description": "你想知道的前端内容都在这",
     "language": "JavaScript",
-    "star": "197"
+    "star": "398"
   },
   {
     "title": "AveYo/MediaCreationTool.bat",
     "url": "https://github.com/AveYo/MediaCreationTool.bat",
     "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
     "language": "Batchfile",
-    "star": "150"
+    "star": "154"
   },
   {
     "title": "twbs/icons",
@@ -46,14 +46,14 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "156"
+    "star": "161"
   },
   {
     "title": "Chakazul/Lenia",
     "url": "https://github.com/Chakazul/Lenia",
     "description": "Lenia - Mathematical Life Forms",
     "language": "Python",
-    "star": "225"
+    "star": "224"
   },
   {
     "title": "microsoft/Swin-Transformer",
@@ -67,14 +67,14 @@
     "url": "https://github.com/NVlabs/stylegan3",
     "description": "Official PyTorch implementation of StyleGAN3",
     "language": "Python",
-    "star": "405"
+    "star": "404"
   },
   {
     "title": "sentsin/layui",
     "url": "https://github.com/sentsin/layui",
     "description": "采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。",
     "language": "JavaScript",
-    "star": "75"
+    "star": "53"
   },
   {
     "title": "electron-userland/electron-builder",
@@ -102,7 +102,7 @@
     "url": "https://github.com/qiurunze123/miaosha",
     "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
     "language": "Java",
-    "star": "46"
+    "star": "47"
   },
   {
     "title": "smartcontractkit/full-blockchain-solidity-course-py",
@@ -116,7 +116,7 @@
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "189"
+    "star": "193"
   },
   {
     "title": "LeCoupa/awesome-cheatsheets",
@@ -144,7 +144,7 @@
     "url": "https://github.com/microsoft/playwright",
     "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
     "language": "JavaScript",
-    "star": "303"
+    "star": "304"
   },
   {
     "title": "ddosify/ddosify",
