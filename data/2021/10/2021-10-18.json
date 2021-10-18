@@ -4,21 +4,21 @@
     "url": "https://github.com/WorkerLivesMatter/WorkingTime",
     "description": "",
     "language": "none",
-    "star": "314"
+    "star": "313"
   },
   {
     "title": "nuxt/framework",
     "url": "https://github.com/nuxt/framework",
     "description": "The Hybrid Vue(3) Framework.",
     "language": "TypeScript",
-    "star": "132"
+    "star": "129"
   },
   {
     "title": "goplus/gop",
     "url": "https://github.com/goplus/gop",
     "description": "GoPlus - The Go+ language for engineering, STEM education, and data science",
     "language": "Go",
-    "star": "210"
+    "star": "199"
   },
   {
     "title": "KieSun/all-of-frontend",
@@ -32,7 +32,7 @@
     "url": "https://github.com/AveYo/MediaCreationTool.bat",
     "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
     "language": "Batchfile",
-    "star": "102"
+    "star": "106"
   },
   {
     "title": "twbs/icons",
@@ -60,28 +60,28 @@
     "url": "https://github.com/microsoft/Swin-Transformer",
     "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
     "language": "Python",
-    "star": "53"
+    "star": "54"
   },
   {
     "title": "NVlabs/stylegan3",
     "url": "https://github.com/NVlabs/stylegan3",
     "description": "Official PyTorch implementation of StyleGAN3",
     "language": "Python",
-    "star": "82"
+    "star": "83"
   },
   {
     "title": "sentsin/layui",
     "url": "https://github.com/sentsin/layui",
     "description": "采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。",
     "language": "JavaScript",
-    "star": "18"
+    "star": "22"
   },
   {
     "title": "electron-userland/electron-builder",
     "url": "https://github.com/electron-userland/electron-builder",
     "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box",
     "language": "TypeScript",
-    "star": "77"
+    "star": "78"
   },
   {
     "title": "3b1b/videos",
@@ -102,21 +102,21 @@
     "url": "https://github.com/qiurunze123/miaosha",
     "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
     "language": "Java",
-    "star": "43"
+    "star": "40"
   },
   {
     "title": "smartcontractkit/full-blockchain-solidity-course-py",
     "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
     "description": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition",
     "language": "none",
-    "star": "96"
+    "star": "98"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "167"
+    "star": "147"
   },
   {
     "title": "LeCoupa/awesome-cheatsheets",
@@ -130,21 +130,21 @@
     "url": "https://github.com/thingsboard/thingsboard",
     "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
     "language": "Java",
-    "star": "124"
+    "star": "125"
   },
   {
     "title": "ascoders/weekly",
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "38"
+    "star": "39"
   },
   {
     "title": "microsoft/playwright",
     "url": "https://github.com/microsoft/playwright",
     "description": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
     "language": "JavaScript",
-    "star": "223"
+    "star": "228"
   },
   {
     "title": "ddosify/ddosify",
@@ -158,20 +158,20 @@
     "url": "https://github.com/apache/apisix",
     "description": "The Cloud-Native API Gateway",
     "language": "Lua",
-    "star": "68"
+    "star": "72"
   },
   {
     "title": "CyC2018/CS-Notes",
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "Java",
-    "star": "81"
+    "star": "77"
   },
   {
     "title": "PanJiaChen/vue-element-admin",
     "url": "https://github.com/PanJiaChen/vue-element-admin",
     "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
     "language": "Vue",
-    "star": "68"
+    "star": "74"
   }
 ]
