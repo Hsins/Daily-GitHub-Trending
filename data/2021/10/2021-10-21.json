@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Dusk-Labs/dim",
+    "url": "https://github.com/Dusk-Labs/dim",
+    "description": "Dim, a media manager fueled by dark forces.",
+    "language": "Rust",
+    "star": "203"
+  },
+  {
+    "title": "deepmind/mujoco",
+    "url": "https://github.com/deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C",
+    "star": "409"
+  },
+  {
+    "title": "Footsiefat/zspotify",
+    "url": "https://github.com/Footsiefat/zspotify",
+    "description": "Spotify song downloader without injecting into the windows client",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "datreeio/datree",
+    "url": "https://github.com/datreeio/datree",
+    "description": "Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io",
+    "language": "Go",
+    "star": "407"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "language": "TypeScript",
+    "star": "29"
+  },
+  {
+    "title": "ApsaraDB/galaxysql",
+    "url": "https://github.com/ApsaraDB/galaxysql",
+    "description": "PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.",
+    "language": "Java",
+    "star": "98"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "T-head-Semi/openc910",
+    "url": "https://github.com/T-head-Semi/openc910",
+    "description": "OpenXuantie - OpenC910 Core",
+    "language": "Verilog",
+    "star": "77"
+  },
+  {
+    "title": "imankgoyal/NonDeepNetworks",
+    "url": "https://github.com/imankgoyal/NonDeepNetworks",
+    "description": "Official Code for \"Non-deep Networks\"",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "saic-mdal/lama",
+    "url": "https://github.com/saic-mdal/lama",
+    "description": "🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
+    "language": "Jupyter Notebook",
+    "star": "118"
+  },
+  {
+    "title": "arthurspk/guiadevbrasil",
+    "url": "https://github.com/arthurspk/guiadevbrasil",
+    "description": "GUIA EXTENSO DE PROGRAMAÇÃO:",
+    "language": "none",
+    "star": "295"
+  },
+  {
+    "title": "AndrewEllis93/Print-Tuning-Guide",
+    "url": "https://github.com/AndrewEllis93/Print-Tuning-Guide",
+    "description": "",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "liuxinyu95/unplugged",
+    "url": "https://github.com/liuxinyu95/unplugged",
+    "description": "Open book about math and programming.",
+    "language": "TeX",
+    "star": "86"
+  },
+  {
+    "title": "VirgilClyne/iRingo",
+    "url": "https://github.com/VirgilClyne/iRingo",
+    "description": "解锁完整的Apple搜索功能和集成服务",
+    "language": "JavaScript",
+    "star": "102"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "description": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "language": "Python",
+    "star": "87"
+  },
+  {
+    "title": "CoinAlpha/hummingbot",
+    "url": "https://github.com/CoinAlpha/hummingbot",
+    "description": "Hummingbot: a client for crypto market making",
+    "language": "Python",
+    "star": "134"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "description": "Awesome tips for Laravel",
+    "language": "none",
+    "star": "49"
+  },
+  {
+    "title": "microsoft/WindowsAppSDK",
+    "url": "https://github.com/microsoft/WindowsAppSDK",
+    "description": "The Windows App SDK empowers all Windows Desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.",
+    "language": "C++",
+    "star": "10"
+  },
+  {
+    "title": "T-head-Semi/openc906",
+    "url": "https://github.com/T-head-Semi/openc906",
+    "description": "OpenXuantie - OpenC906 Core",
+    "language": "Verilog",
+    "star": "12"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "description": "Fig adds autocomplete to your terminal.",
+    "language": "TypeScript",
+    "star": "13"
+  },
+  {
+    "title": "edwardcdev/apollobank",
+    "url": "https://github.com/edwardcdev/apollobank",
+    "description": "A full stack GraphQL banking application using React, Node & TypeScript.",
+    "language": "TypeScript",
+    "star": "9"
+  },
+  {
+    "title": "SheetJS/sheetjs",
+    "url": "https://github.com/SheetJS/sheetjs",
+    "description": "📗 SheetJS Community Edition -- Spreadsheet Data Toolkit",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "language": "Python",
+    "star": "10"
+  },
+  {
+    "title": "sudheerj/javascript-interview-questions",
+    "url": "https://github.com/sudheerj/javascript-interview-questions",
+    "description": "List of 1000 JavaScript Interview Questions",
+    "language": "JavaScript",
+    "star": "69"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "93"
+  }
+]
