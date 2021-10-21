@@ -11,21 +11,21 @@
     "url": "https://github.com/deepmind/mujoco",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "language": "C",
-    "star": "409"
+    "star": "414"
   },
   {
     "title": "Footsiefat/zspotify",
     "url": "https://github.com/Footsiefat/zspotify",
     "description": "Spotify song downloader without injecting into the windows client",
     "language": "Python",
-    "star": "109"
+    "star": "203"
   },
   {
     "title": "datreeio/datree",
     "url": "https://github.com/datreeio/datree",
     "description": "Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io",
     "language": "Go",
-    "star": "407"
+    "star": "467"
   },
   {
     "title": "microsoft/TypeScript",
@@ -39,14 +39,14 @@
     "url": "https://github.com/ApsaraDB/galaxysql",
     "description": "PolarDB-X is a cloud native distributed SQL Database designed for high concurrency, massive storage, complex querying scenarios.",
     "language": "Java",
-    "star": "98"
+    "star": "100"
   },
   {
     "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
     "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
     "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
     "language": "Python",
-    "star": "35"
+    "star": "34"
   },
   {
     "title": "T-head-Semi/openc910",
@@ -74,7 +74,7 @@
     "url": "https://github.com/arthurspk/guiadevbrasil",
     "description": "GUIA EXTENSO DE PROGRAMAÇÃO:",
     "language": "none",
-    "star": "295"
+    "star": "333"
   },
   {
     "title": "AndrewEllis93/Print-Tuning-Guide",
@@ -88,7 +88,7 @@
     "url": "https://github.com/liuxinyu95/unplugged",
     "description": "Open book about math and programming.",
     "language": "TeX",
-    "star": "86"
+    "star": "104"
   },
   {
     "title": "VirgilClyne/iRingo",
@@ -102,21 +102,21 @@
     "url": "https://github.com/TechXueXi/TechXueXi",
     "description": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
     "language": "Python",
-    "star": "87"
+    "star": "80"
   },
   {
     "title": "CoinAlpha/hummingbot",
     "url": "https://github.com/CoinAlpha/hummingbot",
     "description": "Hummingbot: a client for crypto market making",
     "language": "Python",
-    "star": "134"
+    "star": "106"
   },
   {
     "title": "LaravelDaily/laravel-tips",
     "url": "https://github.com/LaravelDaily/laravel-tips",
     "description": "Awesome tips for Laravel",
     "language": "none",
-    "star": "49"
+    "star": "80"
   },
   {
     "title": "microsoft/WindowsAppSDK",
@@ -165,13 +165,13 @@
     "url": "https://github.com/sudheerj/javascript-interview-questions",
     "description": "List of 1000 JavaScript Interview Questions",
     "language": "JavaScript",
-    "star": "69"
+    "star": "63"
   },
   {
     "title": "psf/black",
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "93"
+    "star": "78"
   }
 ]
