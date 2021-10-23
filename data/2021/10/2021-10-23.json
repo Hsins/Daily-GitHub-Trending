@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Footsiefat/zspotify",
+    "url": "https://github.com/Footsiefat/zspotify",
+    "description": "Spotify song downloader without injecting into the windows client",
+    "language": "Python",
+    "star": "247"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "144"
+  },
+  {
+    "title": "reactjs/reactjs.org",
+    "url": "https://github.com/reactjs/reactjs.org",
+    "description": "The React documentation website",
+    "language": "JavaScript",
+    "star": "55"
+  },
+  {
+    "title": "0voice/audio_video_streaming",
+    "url": "https://github.com/0voice/audio_video_streaming",
+    "description": "音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "97"
+  },
+  {
+    "title": "IntelLabs/control-flag",
+    "url": "https://github.com/IntelLabs/control-flag",
+    "description": "A system to flag anomalous source code expressions by learning typical expressions from training data",
+    "language": "C++",
+    "star": "70"
+  },
+  {
+    "title": "BadagalaAdarsh/Super_Mario",
+    "url": "https://github.com/BadagalaAdarsh/Super_Mario",
+    "description": "",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "Dusk-Labs/dim",
+    "url": "https://github.com/Dusk-Labs/dim",
+    "description": "Dim, a media manager fueled by dark forces.",
+    "language": "Rust",
+    "star": "408"
+  },
+  {
+    "title": "Tylous/ZipExec",
+    "url": "https://github.com/Tylous/ZipExec",
+    "description": "A unique technique to execute binaries from a password protected zip",
+    "language": "Go",
+    "star": "64"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "CoinAlpha/hummingbot",
+    "url": "https://github.com/CoinAlpha/hummingbot",
+    "description": "Hummingbot: a client for crypto market making",
+    "language": "Python",
+    "star": "135"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "description": "Awesome tips for Laravel",
+    "language": "none",
+    "star": "107"
+  },
+  {
+    "title": "javascript-obfuscator/javascript-obfuscator",
+    "url": "https://github.com/javascript-obfuscator/javascript-obfuscator",
+    "description": "A powerful obfuscator for JavaScript and Node.js",
+    "language": "TypeScript",
+    "star": "35"
+  },
+  {
+    "title": "tesseract-ocr/tesseract",
+    "url": "https://github.com/tesseract-ocr/tesseract",
+    "description": "Tesseract Open Source OCR Engine (main repository)",
+    "language": "C++",
+    "star": "10"
+  },
+  {
+    "title": "CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
+    "description": "This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio",
+    "language": "Python",
+    "star": "78"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "650"
+  },
+  {
+    "title": "PHPMailer/PHPMailer",
+    "url": "https://github.com/PHPMailer/PHPMailer",
+    "description": "The classic email sending library for PHP",
+    "language": "PHP",
+    "star": "11"
+  },
+  {
+    "title": "TechXueXi/TechXueXi",
+    "url": "https://github.com/TechXueXi/TechXueXi",
+    "description": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
+    "language": "Python",
+    "star": "123"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "star": "21"
+  },
+  {
+    "title": "redisson/redisson",
+    "url": "https://github.com/redisson/redisson",
+    "description": "Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...",
+    "language": "Java",
+    "star": "2"
+  },
+  {
+    "title": "dotnet/sdk",
+    "url": "https://github.com/dotnet/sdk",
+    "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
+    "language": "C#",
+    "star": "26"
+  },
+  {
+    "title": "frappe/erpnext",
+    "url": "https://github.com/frappe/erpnext",
+    "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+    "language": "Python",
+    "star": "7"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "star": "14"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "description": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "language": "Dart",
+    "star": "32"
+  },
+  {
+    "title": "microsoft/rnx-kit",
+    "url": "https://github.com/microsoft/rnx-kit",
+    "description": "Tools which help developers build, deliver, and maintain React Native apps and libraries.",
+    "language": "TypeScript",
+    "star": "26"
+  }
+]
