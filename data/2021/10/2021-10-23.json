@@ -4,7 +4,7 @@
     "url": "https://github.com/Footsiefat/zspotify",
     "description": "Spotify song downloader without injecting into the windows client",
     "language": "Python",
-    "star": "194"
+    "star": "204"
   },
   {
     "title": "TheAlgorithms/Python",
@@ -53,21 +53,21 @@
     "url": "https://github.com/Dusk-Labs/dim",
     "description": "Dim, a media manager fueled by dark forces.",
     "language": "Rust",
-    "star": "305"
+    "star": "290"
   },
   {
     "title": "Tylous/ZipExec",
     "url": "https://github.com/Tylous/ZipExec",
     "description": "A unique technique to execute binaries from a password protected zip",
     "language": "Go",
-    "star": "66"
+    "star": "63"
   },
   {
     "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
     "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
     "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
     "language": "Python",
-    "star": "39"
+    "star": "67"
   },
   {
     "title": "CoinAlpha/hummingbot",
@@ -81,7 +81,7 @@
     "url": "https://github.com/LaravelDaily/laravel-tips",
     "description": "Awesome tips for Laravel",
     "language": "none",
-    "star": "88"
+    "star": "106"
   },
   {
     "title": "javascript-obfuscator/javascript-obfuscator",
@@ -102,7 +102,7 @@
     "url": "https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
     "description": "This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio",
     "language": "Python",
-    "star": "99"
+    "star": "105"
   },
   {
     "title": "trekhleb/javascript-algorithms",
@@ -123,7 +123,7 @@
     "url": "https://github.com/TechXueXi/TechXueXi",
     "description": "强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天",
     "language": "Python",
-    "star": "52"
+    "star": "123"
   },
   {
     "title": "microsoft/terminal",
@@ -165,13 +165,13 @@
     "url": "https://github.com/liupan1890/aliyunpan",
     "description": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
     "language": "Dart",
-    "star": "40"
+    "star": "32"
   },
   {
     "title": "microsoft/rnx-kit",
     "url": "https://github.com/microsoft/rnx-kit",
     "description": "Tools which help developers build, deliver, and maintain React Native apps and libraries.",
     "language": "TypeScript",
-    "star": "31"
+    "star": "26"
   }
 ]
