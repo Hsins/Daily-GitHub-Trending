@@ -4,7 +4,7 @@
     "url": "https://github.com/Footsiefat/zspotify",
     "description": "Spotify song downloader without injecting into the windows client",
     "language": "Python",
-    "star": "440"
+    "star": "485"
   },
   {
     "title": "copy/v86",
@@ -18,14 +18,14 @@
     "url": "https://github.com/IntelLabs/control-flag",
     "description": "A system to flag anomalous source code expressions by learning typical expressions from training data",
     "language": "C++",
-    "star": "80"
+    "star": "81"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "186"
+    "star": "123"
   },
   {
     "title": "bedimcode/responsive-halloween-website",
@@ -39,28 +39,28 @@
     "url": "https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
     "description": "This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio",
     "language": "Python",
-    "star": "62"
+    "star": "64"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "290"
+    "star": "479"
   },
   {
     "title": "dotnet/sdk",
     "url": "https://github.com/dotnet/sdk",
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "language": "C#",
-    "star": "82"
+    "star": "91"
   },
   {
     "title": "reactjs/reactjs.org",
     "url": "https://github.com/reactjs/reactjs.org",
     "description": "The React documentation website",
     "language": "JavaScript",
-    "star": "68"
+    "star": "106"
   },
   {
     "title": "misterokaygo/MapAssist",
@@ -74,14 +74,14 @@
     "url": "https://github.com/solana-labs/solana",
     "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
     "language": "Rust",
-    "star": "17"
+    "star": "19"
   },
   {
     "title": "sudheerj/javascript-interview-questions",
     "url": "https://github.com/sudheerj/javascript-interview-questions",
     "description": "List of 1000 JavaScript Interview Questions",
     "language": "JavaScript",
-    "star": "70"
+    "star": "57"
   },
   {
     "title": "simdjson/simdjson",
@@ -123,7 +123,7 @@
     "url": "https://github.com/0voice/audio_video_streaming",
     "description": "音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。",
     "language": "none",
-    "star": "118"
+    "star": "69"
   },
   {
     "title": "faisalman/ua-parser-js",
@@ -144,7 +144,7 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "124"
+    "star": "132"
   },
   {
     "title": "ngosang/trackerslist",
@@ -165,13 +165,13 @@
     "url": "https://github.com/xmrig/xmrig",
     "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
     "language": "C++",
-    "star": "10"
+    "star": "9"
   },
   {
     "title": "swisskyrepo/PayloadsAllTheThings",
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "69"
+    "star": "43"
   }
 ]
