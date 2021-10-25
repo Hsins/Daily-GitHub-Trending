@@ -4,7 +4,7 @@
     "url": "https://github.com/Footsiefat/zspotify",
     "description": "A Spotify downloader needing only a python interpreter and ffmpeg.",
     "language": "Python",
-    "star": "399"
+    "star": "307"
   },
   {
     "title": "darkrenaissance/darkfi",
@@ -25,7 +25,7 @@
     "url": "https://github.com/ChrisTitusTech/ArchTitus",
     "description": "Automated Arch Linux Install",
     "language": "Shell",
-    "star": "82"
+    "star": "91"
   },
   {
     "title": "ADeltaX/WSAGAScript",
@@ -39,7 +39,7 @@
     "url": "https://github.com/bedimcode/responsive-halloween-website",
     "description": "Responsive Halloween Website Design Using HTML CSS & JavaScript",
     "language": "HTML",
-    "star": "61"
+    "star": "62"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
@@ -53,14 +53,14 @@
     "url": "https://github.com/copy/v86",
     "description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
     "language": "Rust",
-    "star": "160"
+    "star": "234"
   },
   {
     "title": "dotnet/sdk",
     "url": "https://github.com/dotnet/sdk",
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "language": "C#",
-    "star": "78"
+    "star": "67"
   },
   {
     "title": "github/copilot-docs",
@@ -74,7 +74,7 @@
     "url": "https://github.com/jessfraz/dockerfiles",
     "description": "Various Dockerfiles I use on the desktop and on servers.",
     "language": "Dockerfile",
-    "star": "108"
+    "star": "101"
   },
   {
     "title": "KilledByAPixel/LittleJS",
@@ -102,7 +102,7 @@
     "url": "https://github.com/simdjson/simdjson",
     "description": "Parsing gigabytes of JSON per second",
     "language": "C++",
-    "star": "148"
+    "star": "248"
   },
   {
     "title": "dortania/OpenCore-Legacy-Patcher",
@@ -151,7 +151,7 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "147"
+    "star": "151"
   },
   {
     "title": "czj2369/jd_tb_auto",
