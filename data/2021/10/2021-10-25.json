@@ -4,7 +4,7 @@
     "url": "https://github.com/Footsiefat/zspotify",
     "description": "A Spotify downloader needing only a python interpreter and ffmpeg.",
     "language": "Python",
-    "star": "348"
+    "star": "399"
   },
   {
     "title": "darkrenaissance/darkfi",
@@ -39,7 +39,7 @@
     "url": "https://github.com/bedimcode/responsive-halloween-website",
     "description": "Responsive Halloween Website Design Using HTML CSS & JavaScript",
     "language": "HTML",
-    "star": "50"
+    "star": "61"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
@@ -53,14 +53,14 @@
     "url": "https://github.com/copy/v86",
     "description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
     "language": "Rust",
-    "star": "232"
+    "star": "160"
   },
   {
     "title": "dotnet/sdk",
     "url": "https://github.com/dotnet/sdk",
     "description": "Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI",
     "language": "C#",
-    "star": "69"
+    "star": "78"
   },
   {
     "title": "github/copilot-docs",
@@ -74,14 +74,14 @@
     "url": "https://github.com/jessfraz/dockerfiles",
     "description": "Various Dockerfiles I use on the desktop and on servers.",
     "language": "Dockerfile",
-    "star": "145"
+    "star": "108"
   },
   {
     "title": "KilledByAPixel/LittleJS",
     "url": "https://github.com/KilledByAPixel/LittleJS",
     "description": "The Tiny JavaScript Game Engine That Can! 🚂",
     "language": "JavaScript",
-    "star": "60"
+    "star": "59"
   },
   {
     "title": "iptv-org/iptv",
@@ -102,7 +102,7 @@
     "url": "https://github.com/simdjson/simdjson",
     "description": "Parsing gigabytes of JSON per second",
     "language": "C++",
-    "star": "216"
+    "star": "148"
   },
   {
     "title": "dortania/OpenCore-Legacy-Patcher",
@@ -116,7 +116,7 @@
     "url": "https://github.com/reactjs/reactjs.org",
     "description": "The React documentation website",
     "language": "JavaScript",
-    "star": "119"
+    "star": "123"
   },
   {
     "title": "yt-dlp/yt-dlp",
@@ -151,7 +151,7 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "134"
+    "star": "147"
   },
   {
     "title": "czj2369/jd_tb_auto",
