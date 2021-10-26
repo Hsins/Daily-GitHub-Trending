@@ -4,28 +4,28 @@
     "url": "https://github.com/czj2369/jd_tb_auto",
     "description": "基于AutoJs编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币任务自动完成脚本",
     "language": "JavaScript",
-    "star": "85"
+    "star": "86"
   },
   {
     "title": "0voice/audio_video_streaming",
     "url": "https://github.com/0voice/audio_video_streaming",
     "description": "音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。",
     "language": "none",
-    "star": "48"
+    "star": "51"
   },
   {
     "title": "ADeltaX/WSAGAScript",
     "url": "https://github.com/ADeltaX/WSAGAScript",
     "description": "Scripts to install Google Apps into a WSA image. Plus optional root",
     "language": "Shell",
-    "star": "249"
+    "star": "250"
   },
   {
     "title": "jessfraz/dockerfiles",
     "url": "https://github.com/jessfraz/dockerfiles",
     "description": "Various Dockerfiles I use on the desktop and on servers.",
     "language": "Dockerfile",
-    "star": "225"
+    "star": "216"
   },
   {
     "title": "ifzhang/ByteTrack",
@@ -67,14 +67,14 @@
     "url": "https://github.com/KubeOperator/KubePi",
     "description": "KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板",
     "language": "Go",
-    "star": "44"
+    "star": "43"
   },
   {
     "title": "processhacker/processhacker",
     "url": "https://github.com/processhacker/processhacker",
     "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
     "language": "C",
-    "star": "42"
+    "star": "43"
   },
   {
     "title": "matrixorigin/matrixone",
@@ -88,14 +88,14 @@
     "url": "https://github.com/mli/paper-reading",
     "description": "深度学习论文精读",
     "language": "none",
-    "star": "265"
+    "star": "266"
   },
   {
     "title": "simdjson/simdjson",
     "url": "https://github.com/simdjson/simdjson",
     "description": "Parsing gigabytes of JSON per second",
     "language": "C++",
-    "star": "290"
+    "star": "258"
   },
   {
     "title": "ilyas-it83/CloudComparer",
@@ -130,7 +130,7 @@
     "url": "https://github.com/faisalman/ua-parser-js",
     "description": "UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.",
     "language": "JavaScript",
-    "star": "62"
+    "star": "118"
   },
   {
     "title": "spmallick/learnopencv",
@@ -172,6 +172,6 @@
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "90"
+    "star": "111"
   }
 ]
