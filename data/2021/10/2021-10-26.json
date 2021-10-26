@@ -1,0 +1,177 @@
+[
+  {
+    "title": "czj2369/jd_tb_auto",
+    "url": "https://github.com/czj2369/jd_tb_auto",
+    "description": "基于AutoJs编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币任务自动完成脚本",
+    "language": "JavaScript",
+    "star": "86"
+  },
+  {
+    "title": "0voice/audio_video_streaming",
+    "url": "https://github.com/0voice/audio_video_streaming",
+    "description": "音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。",
+    "language": "none",
+    "star": "51"
+  },
+  {
+    "title": "ADeltaX/WSAGAScript",
+    "url": "https://github.com/ADeltaX/WSAGAScript",
+    "description": "Scripts to install Google Apps into a WSA image. Plus optional root",
+    "language": "Shell",
+    "star": "250"
+  },
+  {
+    "title": "jessfraz/dockerfiles",
+    "url": "https://github.com/jessfraz/dockerfiles",
+    "description": "Various Dockerfiles I use on the desktop and on servers.",
+    "language": "Dockerfile",
+    "star": "216"
+  },
+  {
+    "title": "ifzhang/ByteTrack",
+    "url": "https://github.com/ifzhang/ByteTrack",
+    "description": "ByteTrack: Multi-Object Tracking by Associating Every Detection Box",
+    "language": "Python",
+    "star": "158"
+  },
+  {
+    "title": "cheatsheet1999/FrontEndCollection",
+    "url": "https://github.com/cheatsheet1999/FrontEndCollection",
+    "description": "Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.",
+    "language": "JavaScript",
+    "star": "19"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "67"
+  },
+  {
+    "title": "0x727/SpringBootExploit",
+    "url": "https://github.com/0x727/SpringBootExploit",
+    "description": "项目是根据LandGrey/SpringBootVulExploit清单编写，目的hvv期间快速利用漏洞、降低漏洞利用门槛。",
+    "language": "Java",
+    "star": "53"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "87"
+  },
+  {
+    "title": "KubeOperator/KubePi",
+    "url": "https://github.com/KubeOperator/KubePi",
+    "description": "KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板",
+    "language": "Go",
+    "star": "43"
+  },
+  {
+    "title": "processhacker/processhacker",
+    "url": "https://github.com/processhacker/processhacker",
+    "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
+    "language": "C",
+    "star": "43"
+  },
+  {
+    "title": "matrixorigin/matrixone",
+    "url": "https://github.com/matrixorigin/matrixone",
+    "description": "Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads",
+    "language": "Go",
+    "star": "6"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "description": "深度学习论文精读",
+    "language": "none",
+    "star": "266"
+  },
+  {
+    "title": "simdjson/simdjson",
+    "url": "https://github.com/simdjson/simdjson",
+    "description": "Parsing gigabytes of JSON per second",
+    "language": "C++",
+    "star": "258"
+  },
+  {
+    "title": "ilyas-it83/CloudComparer",
+    "url": "https://github.com/ilyas-it83/CloudComparer",
+    "description": "Compare the various managed cloud services offered by the major public cloud providers in the market.",
+    "language": "HTML",
+    "star": "6"
+  },
+  {
+    "title": "jojo2234/GreenPass-Experiments",
+    "url": "https://github.com/jojo2234/GreenPass-Experiments",
+    "description": "It's possible to create a valid and fake green pass? The scope of this project is try to create one.",
+    "language": "HTML",
+    "star": "0"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "162"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "faisalman/ua-parser-js",
+    "url": "https://github.com/faisalman/ua-parser-js",
+    "description": "UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.",
+    "language": "JavaScript",
+    "star": "118"
+  },
+  {
+    "title": "spmallick/learnopencv",
+    "url": "https://github.com/spmallick/learnopencv",
+    "description": "Learn OpenCV : C++ and Python Examples",
+    "language": "Jupyter Notebook",
+    "star": "11"
+  },
+  {
+    "title": "zero205/JD_tencent_scf",
+    "url": "https://github.com/zero205/JD_tencent_scf",
+    "description": "自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！",
+    "language": "JavaScript",
+    "star": "17"
+  },
+  {
+    "title": "oversecured/ovia",
+    "url": "https://github.com/oversecured/ovia",
+    "description": "Oversecured Vulnerable iOS App",
+    "language": "Swift",
+    "star": "2"
+  },
+  {
+    "title": "fffaraz/awesome-cpp",
+    "url": "https://github.com/fffaraz/awesome-cpp",
+    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+    "language": "none",
+    "star": "24"
+  },
+  {
+    "title": "rigtorp/awesome-modern-cpp",
+    "url": "https://github.com/rigtorp/awesome-modern-cpp",
+    "description": "A collection of resources on modern C++",
+    "language": "HTML",
+    "star": "3"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "111"
+  }
+]
