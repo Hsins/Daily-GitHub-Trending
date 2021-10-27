@@ -1,0 +1,177 @@
+[
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "description": "天涯 kkndme 神贴聊房价",
+    "language": "none",
+    "star": "78"
+  },
+  {
+    "title": "KilledByAPixel/LittleJS",
+    "url": "https://github.com/KilledByAPixel/LittleJS",
+    "description": "The Tiny JavaScript Game Engine That Can! 🚂",
+    "language": "JavaScript",
+    "star": "141"
+  },
+  {
+    "title": "czj2369/jd_tb_auto",
+    "url": "https://github.com/czj2369/jd_tb_auto",
+    "description": "基于AutoJs编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币任务自动完成脚本",
+    "language": "JavaScript",
+    "star": "218"
+  },
+  {
+    "title": "nuta/kerla",
+    "url": "https://github.com/nuta/kerla",
+    "description": "A new operating system kernel with Linux binary compatibility written in Rust.",
+    "language": "Rust",
+    "star": "624"
+  },
+  {
+    "title": "momo0853/kkndme",
+    "url": "https://github.com/momo0853/kkndme",
+    "description": "kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。",
+    "language": "HTML",
+    "star": "21"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "description": "深度学习论文精读",
+    "language": "none",
+    "star": "242"
+  },
+  {
+    "title": "htr-tech/zphisher",
+    "url": "https://github.com/htr-tech/zphisher",
+    "description": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
+    "language": "Hack",
+    "star": "19"
+  },
+  {
+    "title": "VirgilClyne/iRingo",
+    "url": "https://github.com/VirgilClyne/iRingo",
+    "description": "解锁完整的 Apple功能和集成服务",
+    "language": "JavaScript",
+    "star": "229"
+  },
+  {
+    "title": "liuhuigmail/GrowingBugRepository",
+    "url": "https://github.com/liuhuigmail/GrowingBugRepository",
+    "description": "A bug repository that keeps growing",
+    "language": "Perl",
+    "star": "17"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "260"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "description": "A Collection of Flutter and Dart Tips and Tricks",
+    "language": "Dart",
+    "star": "25"
+  },
+  {
+    "title": "processhacker/processhacker",
+    "url": "https://github.com/processhacker/processhacker",
+    "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.",
+    "language": "C",
+    "star": "162"
+  },
+  {
+    "title": "deepfakes/faceswap",
+    "url": "https://github.com/deepfakes/faceswap",
+    "description": "Deepfakes Software For All",
+    "language": "Python",
+    "star": "53"
+  },
+  {
+    "title": "KubeOperator/KubePi",
+    "url": "https://github.com/KubeOperator/KubePi",
+    "description": "KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板",
+    "language": "Go",
+    "star": "73"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "115"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "TypeScript",
+    "star": "36"
+  },
+  {
+    "title": "LinusHenze/Fugu14",
+    "url": "https://github.com/LinusHenze/Fugu14",
+    "description": "",
+    "language": "Swift",
+    "star": "70"
+  },
+  {
+    "title": "cheatsheet1999/FrontEndCollection",
+    "url": "https://github.com/cheatsheet1999/FrontEndCollection",
+    "description": "Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.",
+    "language": "JavaScript",
+    "star": "91"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "language": "Java",
+    "star": "32"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "language": "JavaScript",
+    "star": "32"
+  },
+  {
+    "title": "dgiot/dgiot",
+    "url": "https://github.com/dgiot/dgiot",
+    "description": "DG-IoT，Open-source IoT Platform - Connect management,Device management,Data collection, Processing and Visualization.High concurrency, light weight, low code, fast access, free platform. Industry SaaS for IoT Platform.物联网开源平台，物联网平台开发，连接管理、设备管理、多工业协议兼容、数据采集、可视化开发、高并发、轻量级、低代码、快接入、平台免费。",
+    "language": "Erlang",
+    "star": "20"
+  },
+  {
+    "title": "mattleong/CosmicNvim",
+    "url": "https://github.com/mattleong/CosmicNvim",
+    "description": "CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!",
+    "language": "Lua",
+    "star": "2"
+  },
+  {
+    "title": "mltframework/shotcut",
+    "url": "https://github.com/mltframework/shotcut",
+    "description": "cross-platform (Qt), open-source (GPLv3) video editor",
+    "language": "C++",
+    "star": "8"
+  },
+  {
+    "title": "IntelLabs/control-flag",
+    "url": "https://github.com/IntelLabs/control-flag",
+    "description": "A system to flag anomalous source code expressions by learning typical expressions from training data",
+    "language": "C++",
+    "star": "90"
+  },
+  {
+    "title": "slidoooor/computer_book_list",
+    "url": "https://github.com/slidoooor/computer_book_list",
+    "description": "一个综合了豆瓣，goodreads综合评分的计算机书籍书单",
+    "language": "none",
+    "star": "92"
+  }
+]
