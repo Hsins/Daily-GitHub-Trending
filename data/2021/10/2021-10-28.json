@@ -1,0 +1,177 @@
+[
+  {
+    "title": "arco-design/arco-design",
+    "url": "https://github.com/arco-design/arco-design",
+    "description": "A comprehensive React UI components library",
+    "language": "TypeScript",
+    "star": "292"
+  },
+  {
+    "title": "DouyinFE/semi-design",
+    "url": "https://github.com/DouyinFE/semi-design",
+    "description": "A modern, comprehensive, flexible design system and React UI library",
+    "language": "TypeScript",
+    "star": "517"
+  },
+  {
+    "title": "devMEremenko/XcodeBenchmark",
+    "url": "https://github.com/devMEremenko/XcodeBenchmark",
+    "description": "XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro",
+    "language": "Swift",
+    "star": "87"
+  },
+  {
+    "title": "matrixorigin/matrixone",
+    "url": "https://github.com/matrixorigin/matrixone",
+    "description": "Planet scale, cloud-edge native big data engine crafted for heterogeneous workloads",
+    "language": "Go",
+    "star": "6"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "661"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "34"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "15"
+  },
+  {
+    "title": "nuta/kerla",
+    "url": "https://github.com/nuta/kerla",
+    "description": "A new operating system kernel with Linux binary compatibility written in Rust.",
+    "language": "Rust",
+    "star": "641"
+  },
+  {
+    "title": "czj2369/jd_tb_auto",
+    "url": "https://github.com/czj2369/jd_tb_auto",
+    "description": "基于AutoJs编写的618||双十一||淘宝||京东||赚喵币||赚汪汪币任务自动完成脚本",
+    "language": "JavaScript",
+    "star": "211"
+  },
+  {
+    "title": "modern-js-dev/modern.js",
+    "url": "https://github.com/modern-js-dev/modern.js",
+    "description": "The meta-framework suite designed from scratch for frontend-focused modern web development.",
+    "language": "TypeScript",
+    "star": "277"
+  },
+  {
+    "title": "vercel/next-rsc-demo",
+    "url": "https://github.com/vercel/next-rsc-demo",
+    "description": "Demo repository for Next.js + React server components",
+    "language": "JavaScript",
+    "star": "59"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "description": "Integrate Magisk root and OpenGApps into WSA (Windows Subsystem for Android)",
+    "language": "none",
+    "star": "89"
+  },
+  {
+    "title": "jojo2234/GreenPass-Experiments",
+    "url": "https://github.com/jojo2234/GreenPass-Experiments",
+    "description": "It's possible to create a valid and fake green pass? The scope of this project is try to create one.",
+    "language": "HTML",
+    "star": "14"
+  },
+  {
+    "title": "stong/how-to-exploit-a-double-free",
+    "url": "https://github.com/stong/how-to-exploit-a-double-free",
+    "description": "How to exploit a double free vulnerability in 2021. 'Use-After-Free for Dummies'",
+    "language": "Python",
+    "star": "211"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "description": "深度学习论文精读",
+    "language": "none",
+    "star": "377"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "128"
+  },
+  {
+    "title": "0voice/audio_video_streaming",
+    "url": "https://github.com/0voice/audio_video_streaming",
+    "description": "音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "sdras/awesome-actions",
+    "url": "https://github.com/sdras/awesome-actions",
+    "description": "A curated list of awesome actions to use on GitHub",
+    "language": "none",
+    "star": "29"
+  },
+  {
+    "title": "KubeOperator/KubePi",
+    "url": "https://github.com/KubeOperator/KubePi",
+    "description": "KubePi 是一款简单易用的开源 Kubernetes 可视化管理面板",
+    "language": "Go",
+    "star": "126"
+  },
+  {
+    "title": "smknstd/modern-php-cheatsheet",
+    "url": "https://github.com/smknstd/modern-php-cheatsheet",
+    "description": "Cheatsheet for some PHP knowledge you will frequently encounter in modern projects.",
+    "language": "none",
+    "star": "88"
+  },
+  {
+    "title": "mitchellh/nixos-config",
+    "url": "https://github.com/mitchellh/nixos-config",
+    "description": "My NixOS configurations.",
+    "language": "Nix",
+    "star": "30"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "description": "A Collection of Flutter and Dart Tips and Tricks",
+    "language": "Dart",
+    "star": "75"
+  },
+  {
+    "title": "haoziqaq/varlet",
+    "url": "https://github.com/haoziqaq/varlet",
+    "description": "基于Vue3的Material design风格移动端组件库 Material design mobile component library for Vue3",
+    "language": "Vue",
+    "star": "37"
+  },
+  {
+    "title": "cheatsheet1999/FrontEndCollection",
+    "url": "https://github.com/cheatsheet1999/FrontEndCollection",
+    "description": "Notes for Front-end Software Engineers. Covers common data structure and algorithms, basic web concepts, HTML & CSS & Javascript.",
+    "language": "JavaScript",
+    "star": "195"
+  },
+  {
+    "title": "vpncn/vpncn.github.io",
+    "url": "https://github.com/vpncn/vpncn.github.io",
+    "description": "2021中国翻墙软件VPN推荐以及科学上网避坑，稳定好用。对比SSR机场、蓝灯、V2ray、老王VPN、VPS搭建梯子等科学上网与翻墙软件，中国最新科学上网翻墙梯子VPN下载推荐。",
+    "language": "HTML",
+    "star": "9"
+  }
+]
