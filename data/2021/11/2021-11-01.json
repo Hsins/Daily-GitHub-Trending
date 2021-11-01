@@ -4,70 +4,70 @@
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "558"
+    "star": "557"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "214"
+    "star": "213"
   },
   {
     "title": "Koenkk/zigbee2mqtt",
     "url": "https://github.com/Koenkk/zigbee2mqtt",
     "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
     "language": "JavaScript",
-    "star": "35"
+    "star": "36"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "87"
+    "star": "52"
   },
   {
     "title": "WorkerLivesMatter/WorkingTime",
     "url": "https://github.com/WorkerLivesMatter/WorkingTime",
     "description": "",
     "language": "none",
-    "star": "551"
+    "star": "546"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "142"
+    "star": "114"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "175"
+    "star": "174"
   },
   {
     "title": "taichi-dev/taichi",
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Parallel programming for everyone.",
     "language": "C++",
-    "star": "155"
+    "star": "153"
   },
   {
     "title": "EtherDream/http-server-online",
     "url": "https://github.com/EtherDream/http-server-online",
     "description": "Start a local HTTP server without any tools, just open a web page.",
     "language": "JavaScript",
-    "star": "87"
+    "star": "84"
   },
   {
     "title": "KhaosT/MacVM",
     "url": "https://github.com/KhaosT/MacVM",
     "description": "macOS VM for Apple Silicon using Virtualization API",
     "language": "Swift",
-    "star": "48"
+    "star": "47"
   },
   {
     "title": "OpenIMSDK/Open-IM-Server",
@@ -81,97 +81,97 @@
     "url": "https://github.com/BNYMellon/spring-kata",
     "description": "Code katas for learning Spring® and Spring Boot.",
     "language": "Java",
-    "star": "29"
+    "star": "33"
   },
   {
     "title": "notifirehq/notifire",
     "url": "https://github.com/notifirehq/notifire",
     "description": "🚀 The open-source notification infrastructure for products.",
     "language": "TypeScript",
-    "star": "507"
+    "star": "291"
   },
   {
     "title": "Kameldieb/raytracing_demo",
     "url": "https://github.com/Kameldieb/raytracing_demo",
     "description": "",
     "language": "C++",
-    "star": "31"
+    "star": "23"
   },
   {
     "title": "mpv-player/mpv",
     "url": "https://github.com/mpv-player/mpv",
     "description": "🎥 Command line video player",
     "language": "C",
-    "star": "131"
+    "star": "128"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "123"
+    "star": "88"
   },
   {
     "title": "ethereum/solidity",
     "url": "https://github.com/ethereum/solidity",
     "description": "Solidity, the Smart Contract Programming Language",
     "language": "C++",
-    "star": "40"
+    "star": "41"
   },
   {
     "title": "CyC2018/CS-Notes",
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "Java",
-    "star": "60"
+    "star": "44"
   },
   {
     "title": "0x192/universal-android-debloater",
     "url": "https://github.com/0x192/universal-android-debloater",
     "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
     "language": "Rust",
-    "star": "70"
+    "star": "67"
   },
   {
     "title": "esp8266/Arduino",
     "url": "https://github.com/esp8266/Arduino",
     "description": "ESP8266 core for Arduino",
     "language": "C++",
-    "star": "19"
+    "star": "7"
   },
   {
     "title": "schollz/croc",
     "url": "https://github.com/schollz/croc",
     "description": "Easily and securely send things from one computer to another 🐊 📦",
     "language": "Go",
-    "star": "334"
+    "star": "332"
   },
   {
     "title": "laurent22/joplin",
     "url": "https://github.com/laurent22/joplin",
     "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
     "language": "TypeScript",
-    "star": "40"
+    "star": "29"
   },
   {
     "title": "ziglang/zig",
     "url": "https://github.com/ziglang/zig",
     "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
     "language": "Zig",
-    "star": "40"
+    "star": "41"
   },
   {
     "title": "M2Team/NanaZip",
     "url": "https://github.com/M2Team/NanaZip",
     "description": "The 7-Zip derivative intended for the modern Windows experience.",
     "language": "C++",
-    "star": "40"
+    "star": "41"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "60"
+    "star": "59"
   }
 ]
