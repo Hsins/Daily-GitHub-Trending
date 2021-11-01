@@ -4,7 +4,7 @@
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "557"
+    "star": "558"
   },
   {
     "title": "microsoft/PowerToys",
@@ -18,56 +18,56 @@
     "url": "https://github.com/Koenkk/zigbee2mqtt",
     "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
     "language": "JavaScript",
-    "star": "36"
+    "star": "35"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "52"
+    "star": "87"
   },
   {
     "title": "WorkerLivesMatter/WorkingTime",
     "url": "https://github.com/WorkerLivesMatter/WorkingTime",
     "description": "",
     "language": "none",
-    "star": "546"
+    "star": "551"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "114"
+    "star": "142"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "174"
+    "star": "175"
   },
   {
     "title": "taichi-dev/taichi",
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Parallel programming for everyone.",
     "language": "C++",
-    "star": "153"
+    "star": "155"
   },
   {
     "title": "EtherDream/http-server-online",
     "url": "https://github.com/EtherDream/http-server-online",
     "description": "Start a local HTTP server without any tools, just open a web page.",
     "language": "JavaScript",
-    "star": "84"
+    "star": "87"
   },
   {
     "title": "KhaosT/MacVM",
     "url": "https://github.com/KhaosT/MacVM",
     "description": "macOS VM for Apple Silicon using Virtualization API",
     "language": "Swift",
-    "star": "47"
+    "star": "48"
   },
   {
     "title": "OpenIMSDK/Open-IM-Server",
@@ -88,90 +88,90 @@
     "url": "https://github.com/notifirehq/notifire",
     "description": "🚀 The open-source notification infrastructure for products.",
     "language": "TypeScript",
-    "star": "291"
+    "star": "507"
   },
   {
     "title": "Kameldieb/raytracing_demo",
     "url": "https://github.com/Kameldieb/raytracing_demo",
     "description": "",
     "language": "C++",
-    "star": "23"
+    "star": "31"
   },
   {
     "title": "mpv-player/mpv",
     "url": "https://github.com/mpv-player/mpv",
     "description": "🎥 Command line video player",
     "language": "C",
-    "star": "128"
+    "star": "131"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "88"
+    "star": "123"
   },
   {
     "title": "ethereum/solidity",
     "url": "https://github.com/ethereum/solidity",
     "description": "Solidity, the Smart Contract Programming Language",
     "language": "C++",
-    "star": "41"
+    "star": "40"
   },
   {
     "title": "CyC2018/CS-Notes",
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "Java",
-    "star": "44"
+    "star": "60"
   },
   {
     "title": "0x192/universal-android-debloater",
     "url": "https://github.com/0x192/universal-android-debloater",
     "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
     "language": "Rust",
-    "star": "67"
+    "star": "70"
   },
   {
     "title": "esp8266/Arduino",
     "url": "https://github.com/esp8266/Arduino",
     "description": "ESP8266 core for Arduino",
     "language": "C++",
-    "star": "7"
+    "star": "19"
   },
   {
     "title": "schollz/croc",
     "url": "https://github.com/schollz/croc",
     "description": "Easily and securely send things from one computer to another 🐊 📦",
     "language": "Go",
-    "star": "332"
+    "star": "334"
   },
   {
     "title": "laurent22/joplin",
     "url": "https://github.com/laurent22/joplin",
     "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
     "language": "TypeScript",
-    "star": "29"
+    "star": "40"
   },
   {
     "title": "ziglang/zig",
     "url": "https://github.com/ziglang/zig",
     "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
     "language": "Zig",
-    "star": "41"
+    "star": "40"
   },
   {
     "title": "M2Team/NanaZip",
     "url": "https://github.com/M2Team/NanaZip",
     "description": "The 7-Zip derivative intended for the modern Windows experience.",
     "language": "C++",
-    "star": "41"
+    "star": "40"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "59"
+    "star": "60"
   }
 ]
