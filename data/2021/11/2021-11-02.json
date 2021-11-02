@@ -4,14 +4,14 @@
     "url": "https://github.com/OpenIMSDK/Open-IM-Server",
     "description": "OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。",
     "language": "Go",
-    "star": "504"
+    "star": "438"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "542"
+    "star": "547"
   },
   {
     "title": "lihaoyun6/PD-Runner",
@@ -25,7 +25,7 @@
     "url": "https://github.com/WorkerLivesMatter/WorkingTime",
     "description": "",
     "language": "none",
-    "star": "446"
+    "star": "439"
   },
   {
     "title": "hpcaitech/ColossalAI",
@@ -39,21 +39,21 @@
     "url": "https://github.com/notifirehq/notifire",
     "description": "🚀 The open-source notification infrastructure for products.",
     "language": "TypeScript",
-    "star": "559"
+    "star": "502"
   },
   {
     "title": "Koenkk/zigbee2mqtt",
     "url": "https://github.com/Koenkk/zigbee2mqtt",
     "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
     "language": "JavaScript",
-    "star": "60"
+    "star": "110"
   },
   {
     "title": "ethereum-boilerplate/ethereum-boilerplate",
     "url": "https://github.com/ethereum-boilerplate/ethereum-boilerplate",
     "description": "The ultimate full-stack Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called \"Ethereum Boilerplate\" it works with any EVM system and even Solana support is coming soon! Happy BUIDL!👷‍♂️",
     "language": "JavaScript",
-    "star": "62"
+    "star": "51"
   },
   {
     "title": "visenger/awesome-mlops",
@@ -74,35 +74,35 @@
     "url": "https://github.com/BNYMellon/spring-kata",
     "description": "Code katas for learning Spring® and Spring Boot.",
     "language": "Java",
-    "star": "72"
+    "star": "81"
   },
   {
     "title": "klange/toaruos",
     "url": "https://github.com/klange/toaruos",
     "description": "A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.",
     "language": "C",
-    "star": "78"
+    "star": "97"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "48"
+    "star": "23"
   },
   {
     "title": "LaravelDaily/laravel-tips",
     "url": "https://github.com/LaravelDaily/laravel-tips",
     "description": "Awesome tips for Laravel",
     "language": "none",
-    "star": "40"
+    "star": "30"
   },
   {
     "title": "NebuTech/NBMiner",
     "url": "https://github.com/NebuTech/NBMiner",
     "description": "NVIDIA & AMD GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO",
     "language": "none",
-    "star": "33"
+    "star": "18"
   },
   {
     "title": "bregman-arie/devops-resources",
@@ -116,7 +116,7 @@
     "url": "https://github.com/brave/brave-browser",
     "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
     "language": "JavaScript",
-    "star": "7"
+    "star": "55"
   },
   {
     "title": "d2l-ai/d2l-zh",
@@ -130,7 +130,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "193"
+    "star": "194"
   },
   {
     "title": "codebasics/py",
@@ -144,34 +144,34 @@
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Parallel programming for everyone.",
     "language": "C++",
-    "star": "126"
+    "star": "121"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "176"
+    "star": "186"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "410"
+    "star": "239"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "28"
+    "star": "76"
   },
   {
     "title": "justjavac/free-programming-books-zh_CN",
     "url": "https://github.com/justjavac/free-programming-books-zh_CN",
     "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
     "language": "none",
-    "star": "65"
+    "star": "62"
   }
 ]
