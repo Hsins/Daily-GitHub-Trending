@@ -1,0 +1,177 @@
+[
+  {
+    "title": "foxsen/archbase",
+    "url": "https://github.com/foxsen/archbase",
+    "description": "教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本",
+    "language": "TeX",
+    "star": "111"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "123"
+  },
+  {
+    "title": "sberbank-ai/ru-dalle",
+    "url": "https://github.com/sberbank-ai/ru-dalle",
+    "description": "Generate images from texts. In Russian",
+    "language": "Jupyter Notebook",
+    "star": "98"
+  },
+  {
+    "title": "MangoDB-io/MangoDB",
+    "url": "https://github.com/MangoDB-io/MangoDB",
+    "description": "A truly Open Source MongoDB alternative",
+    "language": "Go",
+    "star": "382"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "description": "OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。",
+    "language": "Go",
+    "star": "324"
+  },
+  {
+    "title": "Azure-Samples/container-apps-store-api-microservice",
+    "url": "https://github.com/Azure-Samples/container-apps-store-api-microservice",
+    "description": "Sample microservices solution using Azure Container Apps, Dapr, Cosmos DB, and Azure API Management",
+    "language": "Shell",
+    "star": "32"
+  },
+  {
+    "title": "deepmind/alphafold",
+    "url": "https://github.com/deepmind/alphafold",
+    "description": "Open source code for AlphaFold.",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!",
+    "language": "Jupyter Notebook",
+    "star": "333"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "287"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。",
+    "language": "Python",
+    "star": "87"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "description": "Awesome tips for Laravel",
+    "language": "none",
+    "star": "49"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "star": "127"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "sgoulas/pdpProject",
+    "url": "https://github.com/sgoulas/pdpProject",
+    "description": "A project that is part of my personal development plan at Agile Actors.",
+    "language": "TypeScript",
+    "star": "32"
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "description": "Polkadot Node Implementation",
+    "language": "Rust",
+    "star": "10"
+  },
+  {
+    "title": "motor-admin/motor-admin",
+    "url": "https://github.com/motor-admin/motor-admin",
+    "description": "Deploy a no-code admin panel for your application in less than a minute. Search, create, update, and delete data entries, create custom actions, and build reports.",
+    "language": "Ruby",
+    "star": "96"
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "language": "Go",
+    "star": "4"
+  },
+  {
+    "title": "Shopify/toxiproxy",
+    "url": "https://github.com/Shopify/toxiproxy",
+    "description": "⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing",
+    "language": "Go",
+    "star": "241"
+  },
+  {
+    "title": "darglein/ADOP",
+    "url": "https://github.com/darglein/ADOP",
+    "description": "",
+    "language": "C++",
+    "star": "129"
+  },
+  {
+    "title": "nickboucher/trojan-source",
+    "url": "https://github.com/nickboucher/trojan-source",
+    "description": "Trojan Source: Invisible Vulnerabilities",
+    "language": "SCSS",
+    "star": "169"
+  },
+  {
+    "title": "naganandy/graph-based-deep-learning-literature",
+    "url": "https://github.com/naganandy/graph-based-deep-learning-literature",
+    "description": "links to conference publications in graph-based deep learning",
+    "language": "Jupyter Notebook",
+    "star": "25"
+  },
+  {
+    "title": "CesiumGS/cesium",
+    "url": "https://github.com/CesiumGS/cesium",
+    "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+    "language": "JavaScript",
+    "star": "3"
+  },
+  {
+    "title": "kenp-io/not-for-iphone-usb-c",
+    "url": "https://github.com/kenp-io/not-for-iphone-usb-c",
+    "description": "",
+    "language": "none",
+    "star": "127"
+  },
+  {
+    "title": "Drunkmars/BypassUAC",
+    "url": "https://github.com/Drunkmars/BypassUAC",
+    "description": "By write list bypassuac",
+    "language": "none",
+    "star": "10"
+  },
+  {
+    "title": "h5bp/Front-end-Developer-Interview-Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+    "language": "Nunjucks",
+    "star": "97"
+  }
+]
