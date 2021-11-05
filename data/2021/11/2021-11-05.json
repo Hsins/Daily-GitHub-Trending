@@ -4,7 +4,7 @@
     "url": "https://github.com/knownsec/KCon",
     "description": "KCon is a famous Hacker Con powered by Knownsec Team.",
     "language": "JavaScript",
-    "star": "72"
+    "star": "71"
   },
   {
     "title": "questdb/questdb",
@@ -18,7 +18,7 @@
     "url": "https://github.com/OpenIMSDK/Open-IM-Server",
     "description": "OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。",
     "language": "Go",
-    "star": "300"
+    "star": "301"
   },
   {
     "title": "apple/swift-markdown",
@@ -88,14 +88,14 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "346"
+    "star": "337"
   },
   {
     "title": "kenp-io/not-for-iphone-usb-c",
     "url": "https://github.com/kenp-io/not-for-iphone-usb-c",
     "description": "",
     "language": "none",
-    "star": "102"
+    "star": "112"
   },
   {
     "title": "ossu/computer-science",
@@ -109,7 +109,7 @@
     "url": "https://github.com/extremecodetv/ExtremeCodeOS",
     "description": "New gen. Linux",
     "language": "C",
-    "star": "41"
+    "star": "39"
   },
   {
     "title": "microsoft/TypeScript",
@@ -144,7 +144,7 @@
     "url": "https://github.com/Yin-Hongwei/music-website",
     "description": "🎧 Vue + SpringBoot + MyBatis 音乐网站",
     "language": "Vue",
-    "star": "20"
+    "star": "11"
   },
   {
     "title": "whyour/qinglong",
@@ -165,7 +165,7 @@
     "url": "https://github.com/open-mmlab/mmdetection3d",
     "description": "OpenMMLab's next-generation platform for general 3D object detection.",
     "language": "Python",
-    "star": "19"
+    "star": "10"
   },
   {
     "title": "Azure/azure-cli",
