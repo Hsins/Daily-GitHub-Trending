@@ -11,14 +11,14 @@
     "url": "https://github.com/questdb/questdb",
     "description": "An open source SQL database designed to process time series data, faster",
     "language": "Java",
-    "star": "141"
+    "star": "167"
   },
   {
     "title": "OpenIMSDK/Open-IM-Server",
     "url": "https://github.com/OpenIMSDK/Open-IM-Server",
     "description": "OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。",
     "language": "Go",
-    "star": "301"
+    "star": "300"
   },
   {
     "title": "apple/swift-markdown",
@@ -32,7 +32,7 @@
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "673"
+    "star": "537"
   },
   {
     "title": "Roblox/luau",
@@ -46,7 +46,7 @@
     "url": "https://github.com/PaddlePaddle/PaddleClas",
     "description": "A treasure chest for visual recognition powered by PaddlePaddle",
     "language": "Python",
-    "star": "122"
+    "star": "121"
   },
   {
     "title": "maxvfischer/DIY-CNC-machine",
@@ -67,28 +67,28 @@
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "Java",
-    "star": "68"
+    "star": "67"
   },
   {
     "title": "MangoDB-io/MangoDB",
     "url": "https://github.com/MangoDB-io/MangoDB",
     "description": "A truly Open Source MongoDB alternative",
     "language": "Go",
-    "star": "393"
+    "star": "394"
   },
   {
     "title": "artart222/CodeArt",
     "url": "https://github.com/artart222/CodeArt",
     "description": "Use NeoVim as general purpose IDE",
     "language": "Lua",
-    "star": "41"
+    "star": "64"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "337"
+    "star": "332"
   },
   {
     "title": "kenp-io/not-for-iphone-usb-c",
@@ -109,7 +109,7 @@
     "url": "https://github.com/extremecodetv/ExtremeCodeOS",
     "description": "New gen. Linux",
     "language": "C",
-    "star": "39"
+    "star": "41"
   },
   {
     "title": "microsoft/TypeScript",
@@ -130,7 +130,7 @@
     "url": "https://github.com/microsoft/Power-Fx",
     "description": "Power Fx low-code programming language",
     "language": "C#",
-    "star": "38"
+    "star": "43"
   },
   {
     "title": "ethereum-boilerplate/ethereum-boilerplate",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Azure/azure-cli",
     "description": "Azure Command-Line Interface",
     "language": "Python",
-    "star": "2"
+    "star": "8"
   }
 ]
