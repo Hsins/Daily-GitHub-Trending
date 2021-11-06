@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "310"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "231"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "description": "Telegram for Android source",
+    "language": "Java",
+    "star": "27"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "description": "A Collection of Flutter and Dart Tips and Tricks",
+    "language": "Dart",
+    "star": "93"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "ibraheemdev/modern-unix",
+    "url": "https://github.com/ibraheemdev/modern-unix",
+    "description": "A collection of modern/faster/saner alternatives to common unix commands.",
+    "language": "none",
+    "star": "70"
+  },
+  {
+    "title": "foxsen/archbase",
+    "url": "https://github.com/foxsen/archbase",
+    "description": "教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本",
+    "language": "TeX",
+    "star": "79"
+  },
+  {
+    "title": "TandoorRecipes/recipes",
+    "url": "https://github.com/TandoorRecipes/recipes",
+    "description": "Application for managing recipes, planning meals, building shopping lists and much much more!",
+    "language": "HTML",
+    "star": "78"
+  },
+  {
+    "title": "knownsec/KCon",
+    "url": "https://github.com/knownsec/KCon",
+    "description": "KCon is a famous Hacker Con powered by Knownsec Team.",
+    "language": "JavaScript",
+    "star": "99"
+  },
+  {
+    "title": "insitro/redun",
+    "url": "https://github.com/insitro/redun",
+    "description": "Yet another redundant workflow engine",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "CesiumGS/cesium",
+    "url": "https://github.com/CesiumGS/cesium",
+    "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "github/gitignore",
+    "url": "https://github.com/github/gitignore",
+    "description": "A collection of useful .gitignore templates",
+    "language": "none",
+    "star": "57"
+  },
+  {
+    "title": "WordPress/wordpress-develop",
+    "url": "https://github.com/WordPress/wordpress-develop",
+    "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+    "language": "PHP",
+    "star": "1"
+  },
+  {
+    "title": "FaridSafi/react-native-gifted-chat",
+    "url": "https://github.com/FaridSafi/react-native-gifted-chat",
+    "description": "💬 The most complete chat UI for React Native",
+    "language": "TypeScript",
+    "star": "4"
+  },
+  {
+    "title": "Kholid060/automa",
+    "url": "https://github.com/Kholid060/automa",
+    "description": "A chrome extension for automating your browser by connecting blocks",
+    "language": "Vue",
+    "star": "52"
+  },
+  {
+    "title": "google/re2",
+    "url": "https://github.com/google/re2",
+    "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+    "language": "C++",
+    "star": "5"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "language": "JavaScript",
+    "star": "24"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "146"
+  },
+  {
+    "title": "alibaba/ice",
+    "url": "https://github.com/alibaba/ice",
+    "description": "🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）",
+    "language": "TypeScript",
+    "star": "3"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "description": "A post-modern modal text editor.",
+    "language": "Rust",
+    "star": "33"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "star": "8"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "description": "快速、简单避免OOM的java处理Excel工具",
+    "language": "Java",
+    "star": "3"
+  },
+  {
+    "title": "nnjeim/world",
+    "url": "https://github.com/nnjeim/world",
+    "description": "A Laravel package providing a list of the countries, states, cities, currencies and timezones",
+    "language": "PHP",
+    "star": "24"
+  },
+  {
+    "title": "bombomby/optick",
+    "url": "https://github.com/bombomby/optick",
+    "description": "C++ Profiler For Games",
+    "language": "C#",
+    "star": "76"
+  },
+  {
+    "title": "Roblox/luau",
+    "url": "https://github.com/Roblox/luau",
+    "description": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua",
+    "language": "C++",
+    "star": "263"
+  }
+]
