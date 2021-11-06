@@ -4,14 +4,14 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "312"
+    "star": "310"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "230"
+    "star": "231"
   },
   {
     "title": "DrKLO/Telegram",
@@ -32,7 +32,7 @@
     "url": "https://github.com/d2l-ai/d2l-zh",
     "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被全球200所大学采用教学。",
     "language": "Python",
-    "star": "40"
+    "star": "42"
   },
   {
     "title": "ibraheemdev/modern-unix",
@@ -60,7 +60,7 @@
     "url": "https://github.com/knownsec/KCon",
     "description": "KCon is a famous Hacker Con powered by Knownsec Team.",
     "language": "JavaScript",
-    "star": "98"
+    "star": "99"
   },
   {
     "title": "insitro/redun",
@@ -74,7 +74,7 @@
     "url": "https://github.com/CesiumGS/cesium",
     "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
     "language": "JavaScript",
-    "star": "20"
+    "star": "22"
   },
   {
     "title": "github/gitignore",
@@ -123,7 +123,7 @@
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "148"
+    "star": "146"
   },
   {
     "title": "alibaba/ice",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Roblox/luau",
     "description": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua",
     "language": "C++",
-    "star": "259"
+    "star": "263"
   }
 ]
