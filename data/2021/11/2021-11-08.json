@@ -4,14 +4,14 @@
     "url": "https://github.com/DrKLO/Telegram",
     "description": "Telegram for Android source",
     "language": "Java",
-    "star": "74"
+    "star": "78"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "Python",
-    "star": "193"
+    "star": "85"
   },
   {
     "title": "flutter/flutter",
@@ -25,7 +25,7 @@
     "url": "https://github.com/pi-hole/pi-hole",
     "description": "A black hole for Internet advertisements",
     "language": "Shell",
-    "star": "15"
+    "star": "91"
   },
   {
     "title": "coolsnowwolf/lede",
@@ -46,7 +46,7 @@
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "JavaScript",
-    "star": "216"
+    "star": "220"
   },
   {
     "title": "bevyengine/bevy",
@@ -74,21 +74,21 @@
     "url": "https://github.com/ixartz/Next-js-Boilerplate",
     "description": "🚀 Boilerplate and Starter for Next.js 12+, Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS",
     "language": "TypeScript",
-    "star": "16"
+    "star": "45"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "61"
+    "star": "102"
   },
   {
     "title": "coofcookie/Windows11Upgrade",
     "url": "https://github.com/coofcookie/Windows11Upgrade",
     "description": "Windows 11 Upgrade tool that bypasses Microsoft´s requirements",
     "language": "C#",
-    "star": "38"
+    "star": "28"
   },
   {
     "title": "TheAlgorithms/Python",
@@ -102,7 +102,7 @@
     "url": "https://github.com/Kholid060/automa",
     "description": "A chrome extension for automating your browser by connecting blocks",
     "language": "Vue",
-    "star": "178"
+    "star": "187"
   },
   {
     "title": "3b1b/manim",
@@ -116,14 +116,14 @@
     "url": "https://github.com/freefq/free",
     "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
     "language": "none",
-    "star": "45"
+    "star": "103"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "30"
+    "star": "46"
   },
   {
     "title": "raysan5/raylib",
@@ -144,34 +144,34 @@
     "url": "https://github.com/v2fly/v2ray-core",
     "description": "A platform for building proxies to bypass network restrictions.",
     "language": "Go",
-    "star": "68"
+    "star": "128"
   },
   {
     "title": "obsproject/obs-studio",
     "url": "https://github.com/obsproject/obs-studio",
     "description": "OBS Studio - Free and open source software for live streaming and screen recording",
     "language": "C",
-    "star": "158"
+    "star": "296"
   },
   {
     "title": "solana-labs/solana",
     "url": "https://github.com/solana-labs/solana",
     "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
     "language": "Rust",
-    "star": "63"
+    "star": "64"
   },
   {
     "title": "questdb/questdb",
     "url": "https://github.com/questdb/questdb",
     "description": "An open source SQL database designed to process time series data, faster",
     "language": "Java",
-    "star": "319"
+    "star": "330"
   },
   {
     "title": "CSSEGISandData/COVID-19",
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
     "language": "none",
-    "star": "26"
+    "star": "29"
   }
 ]
