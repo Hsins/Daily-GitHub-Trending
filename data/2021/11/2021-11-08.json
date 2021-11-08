@@ -4,28 +4,28 @@
     "url": "https://github.com/DrKLO/Telegram",
     "description": "Telegram for Android source",
     "language": "Java",
-    "star": "78"
+    "star": "71"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.",
     "language": "Python",
-    "star": "85"
+    "star": "188"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "39"
+    "star": "43"
   },
   {
     "title": "pi-hole/pi-hole",
     "url": "https://github.com/pi-hole/pi-hole",
     "description": "A black hole for Internet advertisements",
     "language": "Shell",
-    "star": "91"
+    "star": "15"
   },
   {
     "title": "coolsnowwolf/lede",
@@ -39,14 +39,14 @@
     "url": "https://github.com/Python-World/python-mini-projects",
     "description": "A collection of simple python mini projects to enhance your python skills",
     "language": "Python",
-    "star": "35"
+    "star": "51"
   },
   {
     "title": "babysor/MockingBird",
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "JavaScript",
-    "star": "220"
+    "star": "416"
   },
   {
     "title": "bevyengine/bevy",
@@ -74,14 +74,14 @@
     "url": "https://github.com/ixartz/Next-js-Boilerplate",
     "description": "🚀 Boilerplate and Starter for Next.js 12+, Tailwind CSS 2.0 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + VSCode + Netlify + PostCSS + Tailwind CSS",
     "language": "TypeScript",
-    "star": "45"
+    "star": "16"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "102"
+    "star": "104"
   },
   {
     "title": "coofcookie/Windows11Upgrade",
@@ -102,76 +102,76 @@
     "url": "https://github.com/Kholid060/automa",
     "description": "A chrome extension for automating your browser by connecting blocks",
     "language": "Vue",
-    "star": "187"
+    "star": "170"
   },
   {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "48"
+    "star": "50"
   },
   {
     "title": "freefq/free",
     "url": "https://github.com/freefq/free",
     "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
     "language": "none",
-    "star": "103"
+    "star": "100"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "46"
+    "star": "30"
   },
   {
     "title": "raysan5/raylib",
     "url": "https://github.com/raysan5/raylib",
     "description": "A simple and easy-to-use library to enjoy videogames programming",
     "language": "C",
-    "star": "46"
+    "star": "47"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "12"
+    "star": "28"
   },
   {
     "title": "v2fly/v2ray-core",
     "url": "https://github.com/v2fly/v2ray-core",
     "description": "A platform for building proxies to bypass network restrictions.",
     "language": "Go",
-    "star": "128"
+    "star": "68"
   },
   {
     "title": "obsproject/obs-studio",
     "url": "https://github.com/obsproject/obs-studio",
     "description": "OBS Studio - Free and open source software for live streaming and screen recording",
     "language": "C",
-    "star": "296"
+    "star": "160"
   },
   {
     "title": "solana-labs/solana",
     "url": "https://github.com/solana-labs/solana",
     "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
     "language": "Rust",
-    "star": "64"
+    "star": "63"
   },
   {
     "title": "questdb/questdb",
     "url": "https://github.com/questdb/questdb",
     "description": "An open source SQL database designed to process time series data, faster",
     "language": "Java",
-    "star": "330"
+    "star": "315"
   },
   {
     "title": "CSSEGISandData/COVID-19",
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
     "language": "none",
-    "star": "29"
+    "star": "26"
   }
 ]
