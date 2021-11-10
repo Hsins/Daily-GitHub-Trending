@@ -11,14 +11,14 @@
     "url": "https://github.com/dotnet/core",
     "description": "Home repository for .NET Core",
     "language": "Shell",
-    "star": "17"
+    "star": "32"
   },
   {
     "title": "bryandlee/animegan2-pytorch",
     "url": "https://github.com/bryandlee/animegan2-pytorch",
     "description": "PyTorch implementation of AnimeGANv2",
     "language": "Jupyter Notebook",
-    "star": "272"
+    "star": "182"
   },
   {
     "title": "dogecoin/dogecoin",
@@ -39,14 +39,14 @@
     "url": "https://github.com/Shopify/hydrogen",
     "description": "React-based framework for building dynamic, Shopify-powered custom storefronts.",
     "language": "TypeScript",
-    "star": "458"
+    "star": "468"
   },
   {
     "title": "minio/minio",
     "url": "https://github.com/minio/minio",
     "description": "High Performance, Kubernetes Native Object Storage",
     "language": "Go",
-    "star": "44"
+    "star": "131"
   },
   {
     "title": "NVIDIA/DeepLearningExamples",
@@ -67,7 +67,7 @@
     "url": "https://github.com/solana-labs/token-list",
     "description": "The community maintained Solana token registry",
     "language": "TypeScript",
-    "star": "8"
+    "star": "10"
   },
   {
     "title": "lwch/natpass",
@@ -81,14 +81,14 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "146"
+    "star": "150"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "29"
+    "star": "83"
   },
   {
     "title": "freefq/free",
@@ -102,7 +102,7 @@
     "url": "https://github.com/louisfb01/best_AI_papers_2021",
     "description": "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress]",
     "language": "none",
-    "star": "126"
+    "star": "124"
   },
   {
     "title": "dotnet/roslyn",
@@ -165,7 +165,7 @@
     "url": "https://github.com/fonoster/fonoster",
     "description": "🚀 The open-source alternative to Twilio",
     "language": "JavaScript",
-    "star": "55"
+    "star": "112"
   },
   {
     "title": "gradle/gradle",
