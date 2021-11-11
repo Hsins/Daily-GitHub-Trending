@@ -11,21 +11,21 @@
     "url": "https://github.com/alan2207/bulletproof-react",
     "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "language": "TypeScript",
-    "star": "60"
+    "star": "63"
   },
   {
     "title": "Kholid060/automa",
     "url": "https://github.com/Kholid060/automa",
     "description": "A chrome extension for automating your browser by connecting blocks",
     "language": "Vue",
-    "star": "98"
+    "star": "97"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "114"
+    "star": "67"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
@@ -46,7 +46,7 @@
     "url": "https://github.com/Shopify/hydrogen",
     "description": "React-based framework for building dynamic, Shopify-powered custom storefronts.",
     "language": "TypeScript",
-    "star": "368"
+    "star": "463"
   },
   {
     "title": "r0eXpeR/supplier",
@@ -67,14 +67,14 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "183"
+    "star": "180"
   },
   {
     "title": "NVIDIA/DeepLearningExamples",
     "url": "https://github.com/NVIDIA/DeepLearningExamples",
     "description": "Deep Learning Examples",
     "language": "Jupyter Notebook",
-    "star": "179"
+    "star": "75"
   },
   {
     "title": "yeemachine/kalidokit",
@@ -88,7 +88,7 @@
     "url": "https://github.com/bryandlee/animegan2-pytorch",
     "description": "PyTorch implementation of AnimeGANv2",
     "language": "Jupyter Notebook",
-    "star": "182"
+    "star": "172"
   },
   {
     "title": "clusternet/clusternet",
@@ -102,14 +102,14 @@
     "url": "https://github.com/dotnet/csharplang",
     "description": "The official repo for the design of the C# programming language",
     "language": "C#",
-    "star": "21"
+    "star": "47"
   },
   {
     "title": "dotnet/docs",
     "url": "https://github.com/dotnet/docs",
     "description": "This repository contains .NET Documentation.",
     "language": "none",
-    "star": "14"
+    "star": "37"
   },
   {
     "title": "digitalocean/nginxconfig.io",
@@ -137,7 +137,7 @@
     "url": "https://github.com/VirgilClyne/iRingo",
     "description": "解锁完整的 Apple功能和集成服务",
     "language": "JavaScript",
-    "star": "69"
+    "star": "89"
   },
   {
     "title": "0voice/audio_video_streaming",
@@ -158,7 +158,7 @@
     "url": "https://github.com/dotnet/aspnetcore",
     "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
     "language": "C#",
-    "star": "17"
+    "star": "16"
   },
   {
     "title": "huggingface/datasets",
@@ -172,6 +172,6 @@
     "url": "https://github.com/PHPOffice/PHPWord",
     "description": "A pure PHP library for reading and writing word processing documents",
     "language": "PHP",
-    "star": "14"
+    "star": "42"
   }
 ]
