@@ -11,21 +11,21 @@
     "url": "https://github.com/alan2207/bulletproof-react",
     "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "language": "TypeScript",
-    "star": "63"
+    "star": "60"
   },
   {
     "title": "Kholid060/automa",
     "url": "https://github.com/Kholid060/automa",
     "description": "A chrome extension for automating your browser by connecting blocks",
     "language": "Vue",
-    "star": "97"
+    "star": "98"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "67"
+    "star": "114"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
@@ -60,14 +60,14 @@
     "url": "https://github.com/fonoster/fonoster",
     "description": "🚀 The open-source alternative to Twilio",
     "language": "JavaScript",
-    "star": "123"
+    "star": "361"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "180"
+    "star": "167"
   },
   {
     "title": "NVIDIA/DeepLearningExamples",
@@ -88,7 +88,7 @@
     "url": "https://github.com/bryandlee/animegan2-pytorch",
     "description": "PyTorch implementation of AnimeGANv2",
     "language": "Jupyter Notebook",
-    "star": "172"
+    "star": "181"
   },
   {
     "title": "clusternet/clusternet",
@@ -102,14 +102,14 @@
     "url": "https://github.com/dotnet/csharplang",
     "description": "The official repo for the design of the C# programming language",
     "language": "C#",
-    "star": "47"
+    "star": "40"
   },
   {
     "title": "dotnet/docs",
     "url": "https://github.com/dotnet/docs",
     "description": "This repository contains .NET Documentation.",
     "language": "none",
-    "star": "37"
+    "star": "27"
   },
   {
     "title": "digitalocean/nginxconfig.io",
@@ -158,7 +158,7 @@
     "url": "https://github.com/dotnet/aspnetcore",
     "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
     "language": "C#",
-    "star": "16"
+    "star": "15"
   },
   {
     "title": "huggingface/datasets",
@@ -172,6 +172,6 @@
     "url": "https://github.com/PHPOffice/PHPWord",
     "description": "A pure PHP library for reading and writing word processing documents",
     "language": "PHP",
-    "star": "42"
+    "star": "14"
   }
 ]
