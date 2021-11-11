@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "description": "A collection of simple python mini projects to enhance your python skills",
+    "language": "Python",
+    "star": "308"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "language": "TypeScript",
+    "star": "60"
+  },
+  {
+    "title": "Kholid060/automa",
+    "url": "https://github.com/Kholid060/automa",
+    "description": "A chrome extension for automating your browser by connecting blocks",
+    "language": "Vue",
+    "star": "98"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "114"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "description": "A repository to index and organize the latest machine learning courses found on YouTube.",
+    "language": "none",
+    "star": "71"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "54"
+  },
+  {
+    "title": "Shopify/hydrogen",
+    "url": "https://github.com/Shopify/hydrogen",
+    "description": "React-based framework for building dynamic, Shopify-powered custom storefronts.",
+    "language": "TypeScript",
+    "star": "368"
+  },
+  {
+    "title": "r0eXpeR/supplier",
+    "url": "https://github.com/r0eXpeR/supplier",
+    "description": "主流供应商的一些攻击性漏洞汇总",
+    "language": "none",
+    "star": "74"
+  },
+  {
+    "title": "fonoster/fonoster",
+    "url": "https://github.com/fonoster/fonoster",
+    "description": "🚀 The open-source alternative to Twilio",
+    "language": "JavaScript",
+    "star": "123"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "183"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "description": "Deep Learning Examples",
+    "language": "Jupyter Notebook",
+    "star": "179"
+  },
+  {
+    "title": "yeemachine/kalidokit",
+    "url": "https://github.com/yeemachine/kalidokit",
+    "description": "Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.",
+    "language": "JavaScript",
+    "star": "254"
+  },
+  {
+    "title": "bryandlee/animegan2-pytorch",
+    "url": "https://github.com/bryandlee/animegan2-pytorch",
+    "description": "PyTorch implementation of AnimeGANv2",
+    "language": "Jupyter Notebook",
+    "star": "182"
+  },
+  {
+    "title": "clusternet/clusternet",
+    "url": "https://github.com/clusternet/clusternet",
+    "description": "Managing your Kubernetes clusters (including public, private, edge, etc) as easily as visiting the Internet",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "description": "The official repo for the design of the C# programming language",
+    "language": "C#",
+    "star": "21"
+  },
+  {
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "description": "This repository contains .NET Documentation.",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "description": "⚙️ NGINX config generator on steroids 💉",
+    "language": "JavaScript",
+    "star": "30"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "123"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "description": "The Laravel Framework.",
+    "language": "PHP",
+    "star": "22"
+  },
+  {
+    "title": "VirgilClyne/iRingo",
+    "url": "https://github.com/VirgilClyne/iRingo",
+    "description": "解锁完整的 Apple功能和集成服务",
+    "language": "JavaScript",
+    "star": "69"
+  },
+  {
+    "title": "0voice/audio_video_streaming",
+    "url": "https://github.com/0voice/audio_video_streaming",
+    "description": "音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "description": "Clean Architecture Solution Template for .NET 6",
+    "language": "C#",
+    "star": "29"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "language": "C#",
+    "star": "17"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "description": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "language": "Python",
+    "star": "58"
+  },
+  {
+    "title": "PHPOffice/PHPWord",
+    "url": "https://github.com/PHPOffice/PHPWord",
+    "description": "A pure PHP library for reading and writing word processing documents",
+    "language": "PHP",
+    "star": "14"
+  }
+]
