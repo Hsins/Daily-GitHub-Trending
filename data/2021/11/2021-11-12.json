@@ -1,0 +1,177 @@
+[
+  {
+    "title": "dotnet/csharplang",
+    "url": "https://github.com/dotnet/csharplang",
+    "description": "The official repo for the design of the C# programming language",
+    "language": "C#",
+    "star": "47"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "99"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "128"
+  },
+  {
+    "title": "Python-World/python-mini-projects",
+    "url": "https://github.com/Python-World/python-mini-projects",
+    "description": "A collection of simple python mini projects to enhance your python skills",
+    "language": "Python",
+    "star": "311"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "language": "Vue",
+    "star": "37"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "description": "Headless Chrome Node.js API",
+    "language": "TypeScript",
+    "star": "35"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "291"
+  },
+  {
+    "title": "WyvernTKC/cpuminer-gr-avx2",
+    "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
+    "description": "Optimised Version of GR miner for RTM",
+    "language": "C",
+    "star": "12"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "language": "Groovy",
+    "star": "20"
+  },
+  {
+    "title": "lwch/natpass",
+    "url": "https://github.com/lwch/natpass",
+    "description": "新一代NAT内网穿透+shell+vnc工具",
+    "language": "Go",
+    "star": "118"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "C",
+    "star": "38"
+  },
+  {
+    "title": "fonoster/fonoster",
+    "url": "https://github.com/fonoster/fonoster",
+    "description": "🚀 The open-source alternative to Twilio",
+    "language": "JavaScript",
+    "star": "344"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "description": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "language": "C#",
+    "star": "76"
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "description": "Free and Open, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "mrdoob/three.js",
+    "url": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D Library.",
+    "language": "JavaScript",
+    "star": "47"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "123"
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "language": "Python",
+    "star": "20"
+  },
+  {
+    "title": "prestodb/presto",
+    "url": "https://github.com/prestodb/presto",
+    "description": "The official home of the Presto distributed SQL query engine for big data",
+    "language": "Java",
+    "star": "45"
+  },
+  {
+    "title": "soulmachine/machine-learning-cheat-sheet",
+    "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
+    "description": "Classical equations and diagrams in machine learning",
+    "language": "TeX",
+    "star": "184"
+  },
+  {
+    "title": "stong/infosec-resources",
+    "url": "https://github.com/stong/infosec-resources",
+    "description": "A list of helpful cybersecurity / infosec resources",
+    "language": "none",
+    "star": "31"
+  },
+  {
+    "title": "sirupsen/logrus",
+    "url": "https://github.com/sirupsen/logrus",
+    "description": "Structured, pluggable logging for Go.",
+    "language": "Go",
+    "star": "12"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "18"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "description": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "language": "Python",
+    "star": "209"
+  },
+  {
+    "title": "RicoSuter/NSwag",
+    "url": "https://github.com/RicoSuter/NSwag",
+    "description": "The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.",
+    "language": "C#",
+    "star": "9"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "description": "A repository to index and organize the latest machine learning courses found on YouTube.",
+    "language": "none",
+    "star": "164"
+  }
+]
