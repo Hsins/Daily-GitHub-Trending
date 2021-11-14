@@ -11,14 +11,14 @@
     "url": "https://github.com/rmcelreath/stat_rethinking_2022",
     "description": "Statistical Rethinking course winter 2022",
     "language": "none",
-    "star": "25"
+    "star": "48"
   },
   {
     "title": "adrianscheff/useful-sed",
     "url": "https://github.com/adrianscheff/useful-sed",
     "description": "Useful sed scripts & patterns.",
     "language": "none",
-    "star": "283"
+    "star": "258"
   },
   {
     "title": "telegramdesktop/tdesktop",
@@ -32,7 +32,7 @@
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Parallel programming for everyone.",
     "language": "C++",
-    "star": "25"
+    "star": "32"
   },
   {
     "title": "zero205/JD_tencent_scf",
@@ -46,35 +46,35 @@
     "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
     "description": "Optimised Version of GR miner for RTM",
     "language": "C",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "HTML",
-    "star": "50"
+    "star": "15"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "8"
+    "star": "19"
   },
   {
     "title": "Raptor3um/raptoreum",
     "url": "https://github.com/Raptor3um/raptoreum",
     "description": "",
     "language": "C++",
-    "star": "14"
+    "star": "15"
   },
   {
     "title": "nocodb/nocodb",
     "url": "https://github.com/nocodb/nocodb",
     "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
     "language": "Vue",
-    "star": "24"
+    "star": "31"
   },
   {
     "title": "TheCherno/Hazel",
@@ -95,21 +95,21 @@
     "url": "https://github.com/yeemachine/kalidokit",
     "description": "Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.",
     "language": "JavaScript",
-    "star": "209"
+    "star": "163"
   },
   {
     "title": "assimp/assimp",
     "url": "https://github.com/assimp/assimp",
     "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
     "language": "C++",
-    "star": "17"
+    "star": "33"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "46"
+    "star": "64"
   },
   {
     "title": "termux/termux-packages",
@@ -123,28 +123,28 @@
     "url": "https://github.com/Kyome22/RunCat_for_windows",
     "description": "A cute running cat animation on your windows taskbar.",
     "language": "C#",
-    "star": "139"
+    "star": "204"
   },
   {
     "title": "airbnb/javascript",
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "143"
+    "star": "128"
   },
   {
     "title": "bitcoin-core/secp256k1",
     "url": "https://github.com/bitcoin-core/secp256k1",
     "description": "Optimized C library for EC operations on curve secp256k1",
     "language": "C",
-    "star": "5"
+    "star": "2"
   },
   {
     "title": "xmrig/xmrig",
     "url": "https://github.com/xmrig/xmrig",
     "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
     "language": "C++",
-    "star": "18"
+    "star": "24"
   },
   {
     "title": "lyrric/seckill",
@@ -165,7 +165,7 @@
     "url": "https://github.com/CCob/lsarelayx",
     "description": "NTLM relaying for Windows made easy",
     "language": "C++",
-    "star": "70"
+    "star": "76"
   },
   {
     "title": "cabaletta/baritone",
