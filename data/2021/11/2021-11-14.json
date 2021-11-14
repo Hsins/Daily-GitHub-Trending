@@ -1,0 +1,177 @@
+[
+  {
+    "title": "aqlaboratory/openfold",
+    "url": "https://github.com/aqlaboratory/openfold",
+    "description": "Trainable PyTorch reproduction of AlphaFold 2",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "description": "Statistical Rethinking course winter 2022",
+    "language": "none",
+    "star": "25"
+  },
+  {
+    "title": "adrianscheff/useful-sed",
+    "url": "https://github.com/adrianscheff/useful-sed",
+    "description": "Useful sed scripts & patterns.",
+    "language": "none",
+    "star": "287"
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "description": "Telegram Desktop messaging app",
+    "language": "C++",
+    "star": "10"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "description": "Parallel programming for everyone.",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "zero205/JD_tencent_scf",
+    "url": "https://github.com/zero205/JD_tencent_scf",
+    "description": "自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "WyvernTKC/cpuminer-gr-avx2",
+    "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
+    "description": "Optimised Version of GR miner for RTM",
+    "language": "C",
+    "star": "21"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "HTML",
+    "star": "49"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "8"
+  },
+  {
+    "title": "Raptor3um/raptoreum",
+    "url": "https://github.com/Raptor3um/raptoreum",
+    "description": "",
+    "language": "C++",
+    "star": "14"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "language": "Vue",
+    "star": "24"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "description": "Hazel Engine",
+    "language": "C++",
+    "star": "7"
+  },
+  {
+    "title": "JamesIves/github-pages-deploy-action",
+    "url": "https://github.com/JamesIves/github-pages-deploy-action",
+    "description": "Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.",
+    "language": "TypeScript",
+    "star": "33"
+  },
+  {
+    "title": "yeemachine/kalidokit",
+    "url": "https://github.com/yeemachine/kalidokit",
+    "description": "Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.",
+    "language": "JavaScript",
+    "star": "209"
+  },
+  {
+    "title": "assimp/assimp",
+    "url": "https://github.com/assimp/assimp",
+    "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+    "language": "C++",
+    "star": "17"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "TypeScript",
+    "star": "46"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "description": "A build system and primary set of packages for Termux.",
+    "language": "Shell",
+    "star": "6"
+  },
+  {
+    "title": "Kyome22/RunCat_for_windows",
+    "url": "https://github.com/Kyome22/RunCat_for_windows",
+    "description": "A cute running cat animation on your windows taskbar.",
+    "language": "C#",
+    "star": "139"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "143"
+  },
+  {
+    "title": "bitcoin-core/secp256k1",
+    "url": "https://github.com/bitcoin-core/secp256k1",
+    "description": "Optimized C library for EC operations on curve secp256k1",
+    "language": "C",
+    "star": "5"
+  },
+  {
+    "title": "xmrig/xmrig",
+    "url": "https://github.com/xmrig/xmrig",
+    "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
+    "language": "C++",
+    "star": "18"
+  },
+  {
+    "title": "lyrric/seckill",
+    "url": "https://github.com/lyrric/seckill",
+    "description": "苗苗 约苗 九价 秒杀 脚本",
+    "language": "Java",
+    "star": "38"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "110"
+  },
+  {
+    "title": "CCob/lsarelayx",
+    "url": "https://github.com/CCob/lsarelayx",
+    "description": "NTLM relaying for Windows made easy",
+    "language": "C++",
+    "star": "70"
+  },
+  {
+    "title": "cabaletta/baritone",
+    "url": "https://github.com/cabaletta/baritone",
+    "description": "google maps for block game",
+    "language": "Java",
+    "star": "5"
+  }
+]
