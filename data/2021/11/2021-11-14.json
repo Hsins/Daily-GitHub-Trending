@@ -11,14 +11,14 @@
     "url": "https://github.com/rmcelreath/stat_rethinking_2022",
     "description": "Statistical Rethinking course winter 2022",
     "language": "none",
-    "star": "48"
+    "star": "24"
   },
   {
     "title": "adrianscheff/useful-sed",
     "url": "https://github.com/adrianscheff/useful-sed",
     "description": "Useful sed scripts & patterns.",
     "language": "none",
-    "star": "258"
+    "star": "261"
   },
   {
     "title": "telegramdesktop/tdesktop",
@@ -32,14 +32,14 @@
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Parallel programming for everyone.",
     "language": "C++",
-    "star": "32"
+    "star": "47"
   },
   {
     "title": "zero205/JD_tencent_scf",
     "url": "https://github.com/zero205/JD_tencent_scf",
     "description": "自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！",
     "language": "JavaScript",
-    "star": "26"
+    "star": "35"
   },
   {
     "title": "WyvernTKC/cpuminer-gr-avx2",
@@ -53,28 +53,28 @@
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "HTML",
-    "star": "15"
+    "star": "53"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "19"
+    "star": "8"
   },
   {
     "title": "Raptor3um/raptoreum",
     "url": "https://github.com/Raptor3um/raptoreum",
     "description": "",
     "language": "C++",
-    "star": "15"
+    "star": "14"
   },
   {
     "title": "nocodb/nocodb",
     "url": "https://github.com/nocodb/nocodb",
     "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
     "language": "Vue",
-    "star": "31"
+    "star": "30"
   },
   {
     "title": "TheCherno/Hazel",
@@ -88,28 +88,28 @@
     "url": "https://github.com/JamesIves/github-pages-deploy-action",
     "description": "Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.",
     "language": "TypeScript",
-    "star": "33"
+    "star": "43"
   },
   {
     "title": "yeemachine/kalidokit",
     "url": "https://github.com/yeemachine/kalidokit",
     "description": "Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.",
     "language": "JavaScript",
-    "star": "163"
+    "star": "188"
   },
   {
     "title": "assimp/assimp",
     "url": "https://github.com/assimp/assimp",
     "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
     "language": "C++",
-    "star": "33"
+    "star": "15"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "64"
+    "star": "61"
   },
   {
     "title": "termux/termux-packages",
@@ -123,28 +123,28 @@
     "url": "https://github.com/Kyome22/RunCat_for_windows",
     "description": "A cute running cat animation on your windows taskbar.",
     "language": "C#",
-    "star": "204"
+    "star": "124"
   },
   {
     "title": "airbnb/javascript",
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "128"
+    "star": "138"
   },
   {
     "title": "bitcoin-core/secp256k1",
     "url": "https://github.com/bitcoin-core/secp256k1",
     "description": "Optimized C library for EC operations on curve secp256k1",
     "language": "C",
-    "star": "2"
+    "star": "4"
   },
   {
     "title": "xmrig/xmrig",
     "url": "https://github.com/xmrig/xmrig",
     "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
     "language": "C++",
-    "star": "24"
+    "star": "18"
   },
   {
     "title": "lyrric/seckill",
@@ -165,7 +165,7 @@
     "url": "https://github.com/CCob/lsarelayx",
     "description": "NTLM relaying for Windows made easy",
     "language": "C++",
-    "star": "76"
+    "star": "71"
   },
   {
     "title": "cabaletta/baritone",
