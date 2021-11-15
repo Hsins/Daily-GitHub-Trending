@@ -4,21 +4,21 @@
     "url": "https://github.com/xmrig/xmrig",
     "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
     "language": "C++",
-    "star": "41"
+    "star": "36"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "205"
+    "star": "165"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "47"
+    "star": "16"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -32,7 +32,7 @@
     "url": "https://github.com/TheCherno/Hazel",
     "description": "Hazel Engine",
     "language": "C++",
-    "star": "20"
+    "star": "25"
   },
   {
     "title": "XTLS/Xray-core",
@@ -46,42 +46,42 @@
     "url": "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
     "description": "Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch",
     "language": "Python",
-    "star": "72"
+    "star": "64"
   },
   {
     "title": "Genymobile/scrcpy",
     "url": "https://github.com/Genymobile/scrcpy",
     "description": "Display and control your Android device",
     "language": "C",
-    "star": "85"
+    "star": "86"
   },
   {
     "title": "WyvernTKC/cpuminer-gr-avx2",
     "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
     "description": "Optimised Version of GR miner for RTM",
     "language": "C",
-    "star": "33"
+    "star": "37"
   },
   {
     "title": "rmcelreath/stat_rethinking_2022",
     "url": "https://github.com/rmcelreath/stat_rethinking_2022",
     "description": "Statistical Rethinking course winter 2022",
     "language": "none",
-    "star": "120"
+    "star": "90"
   },
   {
     "title": "Kyome22/RunCat_for_windows",
     "url": "https://github.com/Kyome22/RunCat_for_windows",
     "description": "A cute running cat animation on your windows taskbar.",
     "language": "C#",
-    "star": "292"
+    "star": "201"
   },
   {
     "title": "FiloSottile/age",
     "url": "https://github.com/FiloSottile/age",
     "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
     "language": "Go",
-    "star": "21"
+    "star": "23"
   },
   {
     "title": "bitcoin/bitcoin",
@@ -102,14 +102,14 @@
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Parallel programming for everyone.",
     "language": "C++",
-    "star": "84"
+    "star": "89"
   },
   {
     "title": "Raptor3um/raptoreum",
     "url": "https://github.com/Raptor3um/raptoreum",
     "description": "",
     "language": "C++",
-    "star": "34"
+    "star": "29"
   },
   {
     "title": "0xCGonzalo/Golden-Guide-for-Pentesting",
@@ -137,7 +137,7 @@
     "url": "https://github.com/JamesIves/github-pages-deploy-action",
     "description": "Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.",
     "language": "TypeScript",
-    "star": "104"
+    "star": "132"
   },
   {
     "title": "td512/re3",
