@@ -1,0 +1,177 @@
+[
+  {
+    "title": "xmrig/xmrig",
+    "url": "https://github.com/xmrig/xmrig",
+    "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
+    "language": "C++",
+    "star": "36"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "TypeScript",
+    "star": "162"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "37"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "81"
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "description": "Hazel Engine",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "url": "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "description": "Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "star": "85"
+  },
+  {
+    "title": "WyvernTKC/cpuminer-gr-avx2",
+    "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
+    "description": "Optimised Version of GR miner for RTM",
+    "language": "C",
+    "star": "38"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "description": "Statistical Rethinking course winter 2022",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "Kyome22/RunCat_for_windows",
+    "url": "https://github.com/Kyome22/RunCat_for_windows",
+    "description": "A cute running cat animation on your windows taskbar.",
+    "language": "C#",
+    "star": "206"
+  },
+  {
+    "title": "FiloSottile/age",
+    "url": "https://github.com/FiloSottile/age",
+    "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "60"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "177"
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "description": "Parallel programming for everyone.",
+    "language": "C++",
+    "star": "60"
+  },
+  {
+    "title": "Raptor3um/raptoreum",
+    "url": "https://github.com/Raptor3um/raptoreum",
+    "description": "",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "0xCGonzalo/Golden-Guide-for-Pentesting",
+    "url": "https://github.com/0xCGonzalo/Golden-Guide-for-Pentesting",
+    "description": "Golden Guide",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "unlock-music/unlock-music",
+    "url": "https://github.com/unlock-music/unlock-music",
+    "description": "Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。",
+    "language": "TypeScript",
+    "star": "11"
+  },
+  {
+    "title": "ycd/dstp",
+    "url": "https://github.com/ycd/dstp",
+    "description": "🧪 Run common networking tests against your site.",
+    "language": "Go",
+    "star": "119"
+  },
+  {
+    "title": "JamesIves/github-pages-deploy-action",
+    "url": "https://github.com/JamesIves/github-pages-deploy-action",
+    "description": "Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.",
+    "language": "TypeScript",
+    "star": "104"
+  },
+  {
+    "title": "td512/re3",
+    "url": "https://github.com/td512/re3",
+    "description": "GTA III, Vice City",
+    "language": "C++",
+    "star": "9"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "description": "Easy-to-use segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks from research to industrial applications.",
+    "language": "Python",
+    "star": "55"
+  },
+  {
+    "title": "antfu/unocss",
+    "url": "https://github.com/antfu/unocss",
+    "description": "The instant on-demand atomic CSS engine.",
+    "language": "TypeScript",
+    "star": "44"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "description": "📚 Community guides for open source creators",
+    "language": "HTML",
+    "star": "10"
+  },
+  {
+    "title": "slackhq/nebula",
+    "url": "https://github.com/slackhq/nebula",
+    "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+    "language": "Go",
+    "star": "40"
+  }
+]
