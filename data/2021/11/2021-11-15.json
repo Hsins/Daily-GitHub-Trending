@@ -4,21 +4,21 @@
     "url": "https://github.com/xmrig/xmrig",
     "description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner",
     "language": "C++",
-    "star": "36"
+    "star": "41"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "162"
+    "star": "205"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "37"
+    "star": "47"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -32,7 +32,7 @@
     "url": "https://github.com/TheCherno/Hazel",
     "description": "Hazel Engine",
     "language": "C++",
-    "star": "25"
+    "star": "20"
   },
   {
     "title": "XTLS/Xray-core",
@@ -46,7 +46,7 @@
     "url": "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
     "description": "Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch",
     "language": "Python",
-    "star": "62"
+    "star": "72"
   },
   {
     "title": "Genymobile/scrcpy",
@@ -60,28 +60,28 @@
     "url": "https://github.com/WyvernTKC/cpuminer-gr-avx2",
     "description": "Optimised Version of GR miner for RTM",
     "language": "C",
-    "star": "38"
+    "star": "33"
   },
   {
     "title": "rmcelreath/stat_rethinking_2022",
     "url": "https://github.com/rmcelreath/stat_rethinking_2022",
     "description": "Statistical Rethinking course winter 2022",
     "language": "none",
-    "star": "33"
+    "star": "120"
   },
   {
     "title": "Kyome22/RunCat_for_windows",
     "url": "https://github.com/Kyome22/RunCat_for_windows",
     "description": "A cute running cat animation on your windows taskbar.",
     "language": "C#",
-    "star": "206"
+    "star": "292"
   },
   {
     "title": "FiloSottile/age",
     "url": "https://github.com/FiloSottile/age",
     "description": "A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.",
     "language": "Go",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "bitcoin/bitcoin",
@@ -102,14 +102,14 @@
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Parallel programming for everyone.",
     "language": "C++",
-    "star": "60"
+    "star": "84"
   },
   {
     "title": "Raptor3um/raptoreum",
     "url": "https://github.com/Raptor3um/raptoreum",
     "description": "",
     "language": "C++",
-    "star": "29"
+    "star": "34"
   },
   {
     "title": "0xCGonzalo/Golden-Guide-for-Pentesting",
