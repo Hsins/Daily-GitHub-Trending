@@ -25,14 +25,14 @@
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "67"
+    "star": "65"
   },
   {
     "title": "airbnb/javascript",
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "95"
+    "star": "112"
   },
   {
     "title": "eugeneyan/applied-ml",
@@ -53,7 +53,7 @@
     "url": "https://github.com/fatedier/frp",
     "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
     "language": "Go",
-    "star": "64"
+    "star": "62"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
@@ -95,7 +95,7 @@
     "url": "https://github.com/rmcelreath/stat_rethinking_2022",
     "description": "Statistical Rethinking course winter 2022",
     "language": "none",
-    "star": "155"
+    "star": "156"
   },
   {
     "title": "sickcodes/Docker-OSX",
@@ -109,7 +109,7 @@
     "url": "https://github.com/zero205/JD_tencent_scf",
     "description": "自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！",
     "language": "JavaScript",
-    "star": "50"
+    "star": "79"
   },
   {
     "title": "TheCherno/Hazel",
@@ -144,21 +144,21 @@
     "url": "https://github.com/Raptor3um/raptoreum",
     "description": "",
     "language": "C++",
-    "star": "36"
+    "star": "32"
   },
   {
     "title": "aqlaboratory/openfold",
     "url": "https://github.com/aqlaboratory/openfold",
     "description": "Trainable PyTorch reproduction of AlphaFold 2",
     "language": "Python",
-    "star": "49"
+    "star": "48"
   },
   {
     "title": "zhenghaoz/gorse",
     "url": "https://github.com/zhenghaoz/gorse",
     "description": "An open source recommender system service written in Go",
     "language": "Go",
-    "star": "53"
+    "star": "57"
   },
   {
     "title": "helpsystems/nanodump",
