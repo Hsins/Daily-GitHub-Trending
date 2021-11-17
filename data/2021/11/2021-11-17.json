@@ -4,7 +4,7 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "147"
+    "star": "205"
   },
   {
     "title": "sickcodes/Docker-OSX",
@@ -39,7 +39,7 @@
     "url": "https://github.com/rougier/scientific-visualization-book",
     "description": "An open access book on scientific visualization using python and matplotlib",
     "language": "Python",
-    "star": "703"
+    "star": "681"
   },
   {
     "title": "AppFlowy-IO/appflowy",
@@ -53,7 +53,7 @@
     "url": "https://github.com/pengzhiliang/MAE-pytorch",
     "description": "Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners",
     "language": "Python",
-    "star": "76"
+    "star": "75"
   },
   {
     "title": "public-apis/public-apis",
@@ -109,7 +109,7 @@
     "url": "https://github.com/davidrmiller/biosim4",
     "description": "Biological evolution simulator",
     "language": "C++",
-    "star": "43"
+    "star": "47"
   },
   {
     "title": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
@@ -130,14 +130,14 @@
     "url": "https://github.com/riramar/Web-Attack-Cheat-Sheet",
     "description": "Web Attack Cheat Sheet",
     "language": "none",
-    "star": "104"
+    "star": "176"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "HTML",
-    "star": "283"
+    "star": "280"
   },
   {
     "title": "istio/istio",
@@ -151,7 +151,7 @@
     "url": "https://github.com/tannerlinsley/react-location",
     "description": "⚛️ Enterprise Client-Side Routing for React",
     "language": "TypeScript",
-    "star": "224"
+    "star": "202"
   },
   {
     "title": "mattermost/focalboard",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Genymobile/scrcpy",
     "description": "Display and control your Android device",
     "language": "C",
-    "star": "131"
+    "star": "132"
   }
 ]
