@@ -1,0 +1,177 @@
+[
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "147"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "description": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "language": "Shell",
+    "star": "187"
+  },
+  {
+    "title": "Kyome22/RunCat_for_windows",
+    "url": "https://github.com/Kyome22/RunCat_for_windows",
+    "description": "A cute running cat animation on your windows taskbar.",
+    "language": "C#",
+    "star": "317"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "38"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "language": "TypeScript",
+    "star": "50"
+  },
+  {
+    "title": "rougier/scientific-visualization-book",
+    "url": "https://github.com/rougier/scientific-visualization-book",
+    "description": "An open access book on scientific visualization using python and matplotlib",
+    "language": "Python",
+    "star": "703"
+  },
+  {
+    "title": "AppFlowy-IO/appflowy",
+    "url": "https://github.com/AppFlowy-IO/appflowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "language": "Rust",
+    "star": "1"
+  },
+  {
+    "title": "pengzhiliang/MAE-pytorch",
+    "url": "https://github.com/pengzhiliang/MAE-pytorch",
+    "description": "Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners",
+    "language": "Python",
+    "star": "76"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "language": "TypeScript",
+    "star": "185"
+  },
+  {
+    "title": "upb-lea/reinforcement_learning_course_materials",
+    "url": "https://github.com/upb-lea/reinforcement_learning_course_materials",
+    "description": "Lecture notes, tutorial tasks including solutions as well as online videos for the reinforcement learning course hosted by Paderborn University",
+    "language": "Jupyter Notebook",
+    "star": "8"
+  },
+  {
+    "title": "jonmatthis/freemocap",
+    "url": "https://github.com/jonmatthis/freemocap",
+    "description": "Free like Freedom",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "izackwu/TeachYourselfCS-CN",
+    "url": "https://github.com/izackwu/TeachYourselfCS-CN",
+    "description": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS",
+    "language": "none",
+    "star": "114"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "294"
+  },
+  {
+    "title": "apache/apisix",
+    "url": "https://github.com/apache/apisix",
+    "description": "The Cloud-Native API Gateway",
+    "language": "Lua",
+    "star": "95"
+  },
+  {
+    "title": "davidrmiller/biosim4",
+    "url": "https://github.com/davidrmiller/biosim4",
+    "description": "Biological evolution simulator",
+    "language": "C++",
+    "star": "43"
+  },
+  {
+    "title": "Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "url": "https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement",
+    "description": "Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch",
+    "language": "Python",
+    "star": "185"
+  },
+  {
+    "title": "alshdavid/BorrowScript",
+    "url": "https://github.com/alshdavid/BorrowScript",
+    "description": "TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.",
+    "language": "none",
+    "star": "76"
+  },
+  {
+    "title": "riramar/Web-Attack-Cheat-Sheet",
+    "url": "https://github.com/riramar/Web-Attack-Cheat-Sheet",
+    "description": "Web Attack Cheat Sheet",
+    "language": "none",
+    "star": "104"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "HTML",
+    "star": "283"
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "description": "Connect, secure, control, and observe services.",
+    "language": "Go",
+    "star": "13"
+  },
+  {
+    "title": "tannerlinsley/react-location",
+    "url": "https://github.com/tannerlinsley/react-location",
+    "description": "⚛️ Enterprise Client-Side Routing for React",
+    "language": "TypeScript",
+    "star": "224"
+  },
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "matplotlib/cheatsheets",
+    "url": "https://github.com/matplotlib/cheatsheets",
+    "description": "Official Matplotlib cheat sheets",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "star": "131"
+  }
+]
