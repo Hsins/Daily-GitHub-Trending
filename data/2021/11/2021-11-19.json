@@ -18,28 +18,28 @@
     "url": "https://github.com/davidrmiller/biosim4",
     "description": "Biological evolution simulator",
     "language": "C++",
-    "star": "152"
+    "star": "151"
   },
   {
     "title": "tharsis/evmos",
     "url": "https://github.com/tharsis/evmos",
     "description": "Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.",
     "language": "Go",
-    "star": "8"
+    "star": "7"
   },
   {
     "title": "ardalis/CleanArchitecture",
     "url": "https://github.com/ardalis/CleanArchitecture",
     "description": "Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core",
     "language": "C#",
-    "star": "48"
+    "star": "47"
   },
   {
     "title": "Budibase/budibase",
     "url": "https://github.com/Budibase/budibase",
     "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
     "language": "JavaScript",
-    "star": "261"
+    "star": "260"
   },
   {
     "title": "Requarks/wiki",
@@ -60,7 +60,7 @@
     "url": "https://github.com/riramar/Web-Attack-Cheat-Sheet",
     "description": "Web Attack Cheat Sheet",
     "language": "none",
-    "star": "477"
+    "star": "525"
   },
   {
     "title": "izackwu/TeachYourselfCS-CN",
@@ -74,14 +74,14 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "323"
+    "star": "228"
   },
   {
     "title": "sickcodes/Docker-OSX",
     "url": "https://github.com/sickcodes/Docker-OSX",
     "description": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
     "language": "Shell",
-    "star": "487"
+    "star": "488"
   },
   {
     "title": "obsproject/obs-studio",
@@ -102,7 +102,7 @@
     "url": "https://github.com/mattermost/focalboard",
     "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
     "language": "TypeScript",
-    "star": "69"
+    "star": "116"
   },
   {
     "title": "IdreesInc/Apple-Watch-Poketch",
@@ -116,14 +116,14 @@
     "url": "https://github.com/tiangolo/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "star": "89"
+    "star": "87"
   },
   {
     "title": "luzeadev/winactivate",
     "url": "https://github.com/luzeadev/winactivate",
     "description": "Easy-to-use Windows HWID/KMS38 Activation Script.",
     "language": "Batchfile",
-    "star": "39"
+    "star": "79"
   },
   {
     "title": "wmcnally/kapao",
@@ -144,14 +144,14 @@
     "url": "https://github.com/spring-projects/spring-boot",
     "description": "Spring Boot",
     "language": "Java",
-    "star": "27"
+    "star": "26"
   },
   {
     "title": "pixie-io/pixie",
     "url": "https://github.com/pixie-io/pixie",
     "description": "Instant Kubernetes-Native Application Observability",
     "language": "C++",
-    "star": "103"
+    "star": "24"
   },
   {
     "title": "Anarios/return-youtube-dislike",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "66"
+    "star": "70"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "HTML",
-    "star": "379"
+    "star": "410"
   }
 ]
