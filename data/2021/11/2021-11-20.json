@@ -4,63 +4,63 @@
     "url": "https://github.com/dreamhead/patterns-of-distributed-systems",
     "description": "《Patterns of Distributed Systems》中文版",
     "language": "none",
-    "star": "92"
+    "star": "58"
   },
   {
     "title": "hoppscotch/hoppscotch",
     "url": "https://github.com/hoppscotch/hoppscotch",
     "description": "👽 Open source API development ecosystem https://hoppscotch.io",
     "language": "Vue",
-    "star": "105"
+    "star": "44"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "107"
+    "star": "127"
   },
   {
     "title": "AppFlowy-IO/appflowy",
     "url": "https://github.com/AppFlowy-IO/appflowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "language": "Rust",
-    "star": "908"
+    "star": "946"
   },
   {
     "title": "jdf2e/nutui",
     "url": "https://github.com/jdf2e/nutui",
     "description": "京东风格的移动端 Vue2、Vue3 组件库 (A Vue.js UI Toolkit for Mobile Web)",
     "language": "Vue",
-    "star": "3"
+    "star": "1"
   },
   {
     "title": "0x90n/InfoSec-Black-Friday",
     "url": "https://github.com/0x90n/InfoSec-Black-Friday",
     "description": "All the deals for InfoSec related software/tools this Black Friday",
     "language": "none",
-    "star": "28"
+    "star": "15"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "HTML",
-    "star": "107"
+    "star": "135"
   },
   {
     "title": "mqyqingfeng/Blog",
     "url": "https://github.com/mqyqingfeng/Blog",
     "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
     "language": "none",
-    "star": "21"
+    "star": "39"
   },
   {
     "title": "Budibase/budibase",
     "url": "https://github.com/Budibase/budibase",
     "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
     "language": "JavaScript",
-    "star": "310"
+    "star": "314"
   },
   {
     "title": "OLSF/libra",
@@ -74,21 +74,21 @@
     "url": "https://github.com/LSPosed/MagiskOnWSA",
     "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
     "language": "none",
-    "star": "61"
+    "star": "42"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "74"
+    "star": "73"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "9"
+    "star": "19"
   },
   {
     "title": "stream-labs/streamlabs-obs",
@@ -109,7 +109,7 @@
     "url": "https://github.com/luzeadev/winactivate",
     "description": "Easy-to-use Windows HWID/KMS38 Activation Script.",
     "language": "Batchfile",
-    "star": "107"
+    "star": "112"
   },
   {
     "title": "itdevbooks/pdf",
@@ -123,7 +123,7 @@
     "url": "https://github.com/arco-design/arco-design-vue",
     "description": "A Vue.js 3 UI Library",
     "language": "TypeScript",
-    "star": "7"
+    "star": "2"
   },
   {
     "title": "Tahlreth/tahlreth.github.io",
@@ -137,21 +137,21 @@
     "url": "https://github.com/apache/echarts",
     "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
     "language": "TypeScript",
-    "star": "28"
+    "star": "42"
   },
   {
     "title": "date-fns/date-fns",
     "url": "https://github.com/date-fns/date-fns",
     "description": "⏳ Modern JavaScript date utility library ⌛️",
     "language": "JavaScript",
-    "star": "39"
+    "star": "41"
   },
   {
     "title": "Kofybrek/Super-Mario-Bros",
     "url": "https://github.com/Kofybrek/Super-Mario-Bros",
     "description": "Remake of the original Super Mario Bros game.",
     "language": "C++",
-    "star": "29"
+    "star": "9"
   },
   {
     "title": "taosdata/TDengine",
@@ -165,13 +165,13 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "71"
+    "star": "57"
   },
   {
     "title": "linkedin/datahub",
     "url": "https://github.com/linkedin/datahub",
     "description": "The Metadata Platform for the Modern Data Stack",
     "language": "Java",
-    "star": "4"
+    "star": "76"
   }
 ]
