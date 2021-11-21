@@ -4,14 +4,14 @@
     "url": "https://github.com/tldraw/tldraw",
     "description": "A tiny little drawing app.",
     "language": "TypeScript",
-    "star": "224"
+    "star": "197"
   },
   {
     "title": "elfshaker/elfshaker",
     "url": "https://github.com/elfshaker/elfshaker",
     "description": "elfshaker stores binary objects efficiently",
     "language": "Rust",
-    "star": "273"
+    "star": "281"
   },
   {
     "title": "cloudflare/production-saas",
@@ -25,28 +25,28 @@
     "url": "https://github.com/AppFlowy-IO/appflowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "language": "Rust",
-    "star": "714"
+    "star": "700"
   },
   {
     "title": "davidrmiller/biosim4",
     "url": "https://github.com/davidrmiller/biosim4",
     "description": "Biological evolution simulator",
     "language": "C++",
-    "star": "105"
+    "star": "107"
   },
   {
     "title": "ardalis/CleanArchitecture",
     "url": "https://github.com/ardalis/CleanArchitecture",
     "description": "Clean Architecture Solution Template: A starting point for Clean Architecture with ASP.NET Core",
     "language": "C#",
-    "star": "58"
+    "star": "51"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "197"
+    "star": "231"
   },
   {
     "title": "jackfrued/Python-100-Days",
@@ -60,14 +60,14 @@
     "url": "https://github.com/Tahlreth/tahlreth.github.io",
     "description": "",
     "language": "none",
-    "star": "38"
+    "star": "37"
   },
   {
     "title": "LSPosed/MagiskOnWSA",
     "url": "https://github.com/LSPosed/MagiskOnWSA",
     "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
     "language": "none",
-    "star": "88"
+    "star": "89"
   },
   {
     "title": "ssssssss-team/spider-flow",
@@ -81,7 +81,7 @@
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "55"
+    "star": "58"
   },
   {
     "title": "mpcabete/bombcrypto-bot",
@@ -95,7 +95,7 @@
     "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
     "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.",
     "language": "Java",
-    "star": "8"
+    "star": "7"
   },
   {
     "title": "Anarios/return-youtube-dislike",
@@ -116,7 +116,7 @@
     "url": "https://github.com/apple/swift",
     "description": "The Swift Programming Language",
     "language": "C++",
-    "star": "10"
+    "star": "11"
   },
   {
     "title": "dotnet-architecture/eShopOnWeb",
@@ -144,34 +144,34 @@
     "url": "https://github.com/Requarks/wiki",
     "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
     "language": "Vue",
-    "star": "33"
+    "star": "14"
   },
   {
     "title": "AveYo/MediaCreationTool.bat",
     "url": "https://github.com/AveYo/MediaCreationTool.bat",
     "description": "Universal MCT wrapper script for all Windows 10/11 versions from 1507 to 21H2!",
     "language": "Batchfile",
-    "star": "25"
+    "star": "21"
   },
   {
     "title": "Light-City/CPlusPlusThings",
     "url": "https://github.com/Light-City/CPlusPlusThings",
     "description": "C++那些事",
     "language": "C++",
-    "star": "26"
+    "star": "38"
   },
   {
     "title": "ava-labs/avalanchego",
     "url": "https://github.com/ava-labs/avalanchego",
     "description": "Go implementation of an Avalanche node.",
     "language": "Go",
-    "star": "7"
+    "star": "10"
   },
   {
     "title": "spite/codevember-2021",
     "url": "https://github.com/spite/codevember-2021",
     "description": "",
     "language": "JavaScript",
-    "star": "9"
+    "star": "17"
   }
 ]
