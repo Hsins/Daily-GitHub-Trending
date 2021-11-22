@@ -11,7 +11,7 @@
     "url": "https://github.com/dreamhead/patterns-of-distributed-systems",
     "description": "《Patterns of Distributed Systems》中文版",
     "language": "none",
-    "star": "148"
+    "star": "145"
   },
   {
     "title": "hoppscotch/hoppscotch",
@@ -39,7 +39,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "63"
+    "star": "64"
   },
   {
     "title": "medusajs/medusa",
@@ -67,7 +67,7 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "230"
+    "star": "223"
   },
   {
     "title": "TachibanaYoshino/AnimeGANv2",
@@ -88,21 +88,21 @@
     "url": "https://github.com/LSPosed/MagiskOnWSA",
     "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
     "language": "none",
-    "star": "89"
+    "star": "73"
   },
   {
     "title": "ava-labs/avalanchego",
     "url": "https://github.com/ava-labs/avalanchego",
     "description": "Go implementation of an Avalanche node.",
     "language": "Go",
-    "star": "22"
+    "star": "52"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "157"
+    "star": "156"
   },
   {
     "title": "freqtrade/freqtrade",
@@ -137,21 +137,21 @@
     "url": "https://github.com/itdevbooks/pdf",
     "description": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
     "language": "none",
-    "star": "66"
+    "star": "69"
   },
   {
     "title": "cloudflare/production-saas",
     "url": "https://github.com/cloudflare/production-saas",
     "description": "(WIP) Example SaaS application built in public on the Cloudflare stack!",
     "language": "TypeScript",
-    "star": "128"
+    "star": "105"
   },
   {
     "title": "davidrmiller/biosim4",
     "url": "https://github.com/davidrmiller/biosim4",
     "description": "Biological evolution simulator",
     "language": "C++",
-    "star": "135"
+    "star": "118"
   },
   {
     "title": "yaronzz/Tidal-Media-Downloader",
@@ -172,6 +172,6 @@
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "35"
+    "star": "44"
   }
 ]
