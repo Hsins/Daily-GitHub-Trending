@@ -11,7 +11,7 @@
     "url": "https://github.com/dreamhead/patterns-of-distributed-systems",
     "description": "《Patterns of Distributed Systems》中文版",
     "language": "none",
-    "star": "146"
+    "star": "148"
   },
   {
     "title": "hoppscotch/hoppscotch",
@@ -39,7 +39,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "64"
+    "star": "63"
   },
   {
     "title": "medusajs/medusa",
@@ -60,14 +60,14 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "67"
+    "star": "73"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "225"
+    "star": "230"
   },
   {
     "title": "TachibanaYoshino/AnimeGANv2",
@@ -95,14 +95,14 @@
     "url": "https://github.com/ava-labs/avalanchego",
     "description": "Go implementation of an Avalanche node.",
     "language": "Go",
-    "star": "52"
+    "star": "22"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "136"
+    "star": "157"
   },
   {
     "title": "freqtrade/freqtrade",
@@ -137,28 +137,28 @@
     "url": "https://github.com/itdevbooks/pdf",
     "description": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
     "language": "none",
-    "star": "67"
+    "star": "66"
   },
   {
     "title": "cloudflare/production-saas",
     "url": "https://github.com/cloudflare/production-saas",
     "description": "(WIP) Example SaaS application built in public on the Cloudflare stack!",
     "language": "TypeScript",
-    "star": "105"
+    "star": "128"
   },
   {
     "title": "davidrmiller/biosim4",
     "url": "https://github.com/davidrmiller/biosim4",
     "description": "Biological evolution simulator",
     "language": "C++",
-    "star": "136"
+    "star": "135"
   },
   {
     "title": "yaronzz/Tidal-Media-Downloader",
     "url": "https://github.com/yaronzz/Tidal-Media-Downloader",
     "description": "Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)",
     "language": "Python",
-    "star": "12"
+    "star": "13"
   },
   {
     "title": "TBDev-54566975/white-paper",
