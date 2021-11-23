@@ -1,0 +1,177 @@
+[
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "description": "The open-source Shopify alternative ⚡️",
+    "language": "JavaScript",
+    "star": "119"
+  },
+  {
+    "title": "AsyncBanana/microdiff",
+    "url": "https://github.com/AsyncBanana/microdiff",
+    "description": "A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.",
+    "language": "JavaScript",
+    "star": "62"
+  },
+  {
+    "title": "Th3Wall/Fakeflix",
+    "url": "https://github.com/Th3Wall/Fakeflix",
+    "description": "Not the usual clone that you can find on the web.",
+    "language": "JavaScript",
+    "star": "32"
+  },
+  {
+    "title": "bryandlee/animegan2-pytorch",
+    "url": "https://github.com/bryandlee/animegan2-pytorch",
+    "description": "PyTorch implementation of AnimeGANv2",
+    "language": "Jupyter Notebook",
+    "star": "126"
+  },
+  {
+    "title": "twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals",
+    "url": "https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals",
+    "description": "2021 - Black Friday & Cyber Monday Deals for Developers, Techies, & Entrepreneurs,",
+    "language": "none",
+    "star": "16"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "122"
+  },
+  {
+    "title": "saic-mdal/lama",
+    "url": "https://github.com/saic-mdal/lama",
+    "description": "🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
+    "language": "Jupyter Notebook",
+    "star": "50"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "23"
+  },
+  {
+    "title": "ava-labs/avalanchego",
+    "url": "https://github.com/ava-labs/avalanchego",
+    "description": "Go implementation of an Avalanche node.",
+    "language": "Go",
+    "star": "73"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "description": "Black Friday Deals for macOS / iOS Software & Books",
+    "language": "Swift",
+    "star": "20"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "63"
+  },
+  {
+    "title": "JingyunLiang/SwinIR",
+    "url": "https://github.com/JingyunLiang/SwinIR",
+    "description": "SwinIR: Image Restoration Using Swin Transformer",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "139"
+  },
+  {
+    "title": "tldraw/tldraw",
+    "url": "https://github.com/tldraw/tldraw",
+    "description": "A tiny little drawing app.",
+    "language": "TypeScript",
+    "star": "235"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "star": "71"
+  },
+  {
+    "title": "0x0021h/expbox",
+    "url": "https://github.com/0x0021h/expbox",
+    "description": "Vulnerability Exploitation Code Collection Repository",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "222"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "description": "Chrome extension to return youtube dislikes",
+    "language": "JavaScript",
+    "star": "92"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "246"
+  },
+  {
+    "title": "Mikoto10032/DeepLearning",
+    "url": "https://github.com/Mikoto10032/DeepLearning",
+    "description": "深度学习入门教程, 优秀文章, Deep Learning Tutorial",
+    "language": "Jupyter Notebook",
+    "star": "31"
+  },
+  {
+    "title": "dmlc/dgl",
+    "url": "https://github.com/dmlc/dgl",
+    "description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.",
+    "language": "Python",
+    "star": "9"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "description": "C++ Parallel Computing and Asynchronous Networking Engine",
+    "language": "C++",
+    "star": "10"
+  },
+  {
+    "title": "davidrmiller/biosim4",
+    "url": "https://github.com/davidrmiller/biosim4",
+    "description": "Biological evolution simulator",
+    "language": "C++",
+    "star": "156"
+  },
+  {
+    "title": "yonaskolb/XcodeGen",
+    "url": "https://github.com/yonaskolb/XcodeGen",
+    "description": "A Swift command line tool for generating your Xcode project",
+    "language": "Swift",
+    "star": "5"
+  },
+  {
+    "title": "hankcs/HanLP",
+    "url": "https://github.com/hankcs/HanLP",
+    "description": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification",
+    "language": "Python",
+    "star": "14"
+  }
+]
