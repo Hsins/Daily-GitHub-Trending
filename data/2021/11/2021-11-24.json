@@ -1,0 +1,177 @@
+[
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "description": "Build better websites",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "description": "The open-source Shopify alternative ⚡️",
+    "language": "JavaScript",
+    "star": "554"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+    "language": "C++",
+    "star": "8"
+  },
+  {
+    "title": "remix-run/remix-jokes",
+    "url": "https://github.com/remix-run/remix-jokes",
+    "description": "",
+    "language": "TypeScript",
+    "star": "29"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "65"
+  },
+  {
+    "title": "klinix5/InstallerFileTakeOver",
+    "url": "https://github.com/klinix5/InstallerFileTakeOver",
+    "description": "",
+    "language": "C++",
+    "star": "377"
+  },
+  {
+    "title": "dreamhead/patterns-of-distributed-systems",
+    "url": "https://github.com/dreamhead/patterns-of-distributed-systems",
+    "description": "《Patterns of Distributed Systems》中文版",
+    "language": "none",
+    "star": "161"
+  },
+  {
+    "title": "s9w/oof",
+    "url": "https://github.com/s9w/oof",
+    "description": "Convenient, high-performance RGB color and position control for console output",
+    "language": "C++",
+    "star": "88"
+  },
+  {
+    "title": "z64proto/sw97",
+    "url": "https://github.com/z64proto/sw97",
+    "description": "A recreation of the Spaceworld 1997 Ocarina of Time demo",
+    "language": "C",
+    "star": "9"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "377"
+  },
+  {
+    "title": "miroslavpejic85/p2p",
+    "url": "https://github.com/miroslavpejic85/p2p",
+    "description": "🖥️ Portable Remote Desktop P2P based. No configuration or installation needed, communicate your endpoint to the peer, and vice versa, press connect and enjoy. 🖥️",
+    "language": "C#",
+    "star": "6"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "328"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "description": "Black Friday Deals for macOS / iOS Software & Books",
+    "language": "Swift",
+    "star": "21"
+  },
+  {
+    "title": "TachibanaYoshino/AnimeGANv2",
+    "url": "https://github.com/TachibanaYoshino/AnimeGANv2",
+    "description": "[Open Source]. The improved version of AnimeGAN. Landscape photos/videos to anime",
+    "language": "Python",
+    "star": "72"
+  },
+  {
+    "title": "Panshak/arcinvoice",
+    "url": "https://github.com/Panshak/arcinvoice",
+    "description": "Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)",
+    "language": "JavaScript",
+    "star": "122"
+  },
+  {
+    "title": "byoungd/English-level-up-tips-for-Chinese",
+    "url": "https://github.com/byoungd/English-level-up-tips-for-Chinese",
+    "description": "可能是让你受益匪浅的英语进阶指南",
+    "language": "none",
+    "star": "59"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "JavaScript",
+    "star": "31"
+  },
+  {
+    "title": "jaakkopasanen/AutoEq",
+    "url": "https://github.com/jaakkopasanen/AutoEq",
+    "description": "Automatic headphone equalization from frequency responses",
+    "language": "Jupyter Notebook",
+    "star": "38"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot - The Open-Source design & prototyping platform",
+    "language": "Clojure",
+    "star": "39"
+  },
+  {
+    "title": "bryandlee/animegan2-pytorch",
+    "url": "https://github.com/bryandlee/animegan2-pytorch",
+    "description": "PyTorch implementation of AnimeGANv2",
+    "language": "Jupyter Notebook",
+    "star": "151"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "description": "Chrome extension to return youtube dislikes",
+    "language": "JavaScript",
+    "star": "220"
+  },
+  {
+    "title": "onion-liu/BlendGAN",
+    "url": "https://github.com/onion-liu/BlendGAN",
+    "description": "Official PyTorch implementation of \"BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation\" (NeurIPS 2021)",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "description": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "language": "none",
+    "star": "58"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "27"
+  },
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "description": "The PHP Interpreter",
+    "language": "C",
+    "star": "39"
+  }
+]
