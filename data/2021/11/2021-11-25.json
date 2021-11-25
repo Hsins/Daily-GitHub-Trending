@@ -1,0 +1,177 @@
+[
+  {
+    "title": "klinix5/InstallerFileTakeOver",
+    "url": "https://github.com/klinix5/InstallerFileTakeOver",
+    "description": "",
+    "language": "C++",
+    "star": "360"
+  },
+  {
+    "title": "google/filament",
+    "url": "https://github.com/google/filament",
+    "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+    "language": "C++",
+    "star": "119"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "description": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
+    "language": "Python",
+    "star": "50"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "description": "The open-source Shopify alternative ⚡️",
+    "language": "JavaScript",
+    "star": "456"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "348"
+  },
+  {
+    "title": "toitlang/toit",
+    "url": "https://github.com/toitlang/toit",
+    "description": "Program your microcontrollers in a fast and robust high-level language.",
+    "language": "C++",
+    "star": "81"
+  },
+  {
+    "title": "saic-mdal/lama",
+    "url": "https://github.com/saic-mdal/lama",
+    "description": "🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
+    "language": "Jupyter Notebook",
+    "star": "23"
+  },
+  {
+    "title": "ming1016/SwiftPamphletApp",
+    "url": "https://github.com/ming1016/SwiftPamphletApp",
+    "description": "戴铭的 Swift 小册子，一本活的 Swift 手册",
+    "language": "Swift",
+    "star": "57"
+  },
+  {
+    "title": "php/php-src",
+    "url": "https://github.com/php/php-src",
+    "description": "The PHP Interpreter",
+    "language": "C",
+    "star": "75"
+  },
+  {
+    "title": "fangzesheng/free-api",
+    "url": "https://github.com/fangzesheng/free-api",
+    "description": "收集免费的接口服务,做一个api的搬运工",
+    "language": "none",
+    "star": "334"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "description": "OpenVINO™ Toolkit repository",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "292"
+  },
+  {
+    "title": "Shopify/dawn",
+    "url": "https://github.com/Shopify/dawn",
+    "description": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
+    "language": "Liquid",
+    "star": "2"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "description": "Black Friday Deals for macOS / iOS Software & Books",
+    "language": "Swift",
+    "star": "51"
+  },
+  {
+    "title": "AsyncBanana/microdiff",
+    "url": "https://github.com/AsyncBanana/microdiff",
+    "description": "A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.",
+    "language": "JavaScript",
+    "star": "163"
+  },
+  {
+    "title": "ethereum-boilerplate/ethereum-boilerplate",
+    "url": "https://github.com/ethereum-boilerplate/ethereum-boilerplate",
+    "description": "The ultimate full-stack Ethereum Dapp Boilerplate which gives you maximum flexibility and speed. Feel free to fork and contribute. Although this repo is called \"Ethereum Boilerplate\" it works with any EVM system and even Solana support is coming soon! Happy BUIDL!👷‍♂️",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "84"
+  },
+  {
+    "title": "ethereum/remix-project",
+    "url": "https://github.com/ethereum/remix-project",
+    "description": "Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.",
+    "language": "JavaScript",
+    "star": "13"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "JavaScript",
+    "star": "49"
+  },
+  {
+    "title": "MetaMask/metamask-extension",
+    "url": "https://github.com/MetaMask/metamask-extension",
+    "description": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+    "language": "JavaScript",
+    "star": "15"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "description": "Firebase iOS SDK",
+    "language": "Objective-C",
+    "star": "3"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "description": "The Laravel Framework.",
+    "language": "PHP",
+    "star": "23"
+  },
+  {
+    "title": "bryandlee/animegan2-pytorch",
+    "url": "https://github.com/bryandlee/animegan2-pytorch",
+    "description": "PyTorch implementation of AnimeGANv2",
+    "language": "Jupyter Notebook",
+    "star": "62"
+  }
+]
