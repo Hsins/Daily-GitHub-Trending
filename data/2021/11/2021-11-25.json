@@ -4,14 +4,14 @@
     "url": "https://github.com/klinix5/InstallerFileTakeOver",
     "description": "",
     "language": "C++",
-    "star": "298"
+    "star": "301"
   },
   {
     "title": "google/filament",
     "url": "https://github.com/google/filament",
     "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
     "language": "C++",
-    "star": "188"
+    "star": "121"
   },
   {
     "title": "remix-run/remix",
@@ -25,21 +25,21 @@
     "url": "https://github.com/PaddlePaddle/PaddleDetection",
     "description": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
     "language": "Python",
-    "star": "73"
+    "star": "74"
   },
   {
     "title": "medusajs/medusa",
     "url": "https://github.com/medusajs/medusa",
     "description": "The open-source Shopify alternative ⚡️",
     "language": "JavaScript",
-    "star": "458"
+    "star": "460"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "337"
+    "star": "330"
   },
   {
     "title": "toitlang/toit",
@@ -67,7 +67,7 @@
     "url": "https://github.com/php/php-src",
     "description": "The PHP Interpreter",
     "language": "C",
-    "star": "48"
+    "star": "90"
   },
   {
     "title": "fangzesheng/free-api",
@@ -81,7 +81,7 @@
     "url": "https://github.com/openvinotoolkit/openvino",
     "description": "OpenVINO™ Toolkit repository",
     "language": "C++",
-    "star": "25"
+    "star": "24"
   },
   {
     "title": "hashicorp/terraform",
@@ -95,7 +95,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "357"
+    "star": "294"
   },
   {
     "title": "Shopify/dawn",
@@ -109,14 +109,14 @@
     "url": "https://github.com/mRs-/Black-Friday-Deals",
     "description": "Black Friday Deals for macOS / iOS Software & Books",
     "language": "Swift",
-    "star": "79"
+    "star": "78"
   },
   {
     "title": "AsyncBanana/microdiff",
     "url": "https://github.com/AsyncBanana/microdiff",
     "description": "A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.",
     "language": "JavaScript",
-    "star": "161"
+    "star": "112"
   },
   {
     "title": "ethereum-boilerplate/ethereum-boilerplate",
@@ -130,21 +130,21 @@
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "83"
+    "star": "73"
   },
   {
     "title": "ethereum/remix-project",
     "url": "https://github.com/ethereum/remix-project",
     "description": "Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.",
     "language": "JavaScript",
-    "star": "13"
+    "star": "19"
   },
   {
     "title": "OpenZeppelin/openzeppelin-contracts",
     "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
     "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
     "language": "JavaScript",
-    "star": "62"
+    "star": "60"
   },
   {
     "title": "MetaMask/metamask-extension",
@@ -172,6 +172,6 @@
     "url": "https://github.com/bryandlee/animegan2-pytorch",
     "description": "PyTorch implementation of AnimeGANv2",
     "language": "Jupyter Notebook",
-    "star": "89"
+    "star": "151"
   }
 ]
