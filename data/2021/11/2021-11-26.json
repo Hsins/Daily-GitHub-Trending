@@ -11,7 +11,7 @@
     "url": "https://github.com/google/filament",
     "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
     "language": "C++",
-    "star": "238"
+    "star": "223"
   },
   {
     "title": "vueuse/vueuse",
@@ -25,14 +25,14 @@
     "url": "https://github.com/medusajs/medusa",
     "description": "The open-source Shopify alternative ⚡️",
     "language": "JavaScript",
-    "star": "320"
+    "star": "322"
   },
   {
     "title": "klinix5/InstallerFileTakeOver",
     "url": "https://github.com/klinix5/InstallerFileTakeOver",
     "description": "",
     "language": "C++",
-    "star": "206"
+    "star": "207"
   },
   {
     "title": "ethereum/EIPs",
@@ -46,35 +46,35 @@
     "url": "https://github.com/fangzesheng/free-api",
     "description": "收集免费的接口服务,做一个api的搬运工",
     "language": "none",
-    "star": "397"
+    "star": "475"
   },
   {
     "title": "remix-run/remix",
     "url": "https://github.com/remix-run/remix",
     "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
     "language": "TypeScript",
-    "star": "768"
+    "star": "764"
   },
   {
     "title": "merico-dev/lake",
     "url": "https://github.com/merico-dev/lake",
     "description": "DevLake: the data lake for dev & dashboard for your DevOps tools.",
     "language": "Go",
-    "star": "150"
+    "star": "152"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "303"
+    "star": "290"
   },
   {
     "title": "PaddlePaddle/PaddleDetection",
     "url": "https://github.com/PaddlePaddle/PaddleDetection",
     "description": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
     "language": "Python",
-    "star": "192"
+    "star": "195"
   },
   {
     "title": "jvdutra/open-source-rpg",
@@ -88,14 +88,14 @@
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "99"
+    "star": "101"
   },
   {
     "title": "firebase/firebase-ios-sdk",
     "url": "https://github.com/firebase/firebase-ios-sdk",
     "description": "Firebase iOS SDK",
     "language": "Objective-C",
-    "star": "40"
+    "star": "9"
   },
   {
     "title": "byoungd/English-level-up-tips-for-Chinese",
@@ -116,21 +116,21 @@
     "url": "https://github.com/openvinotoolkit/openvino",
     "description": "OpenVINO™ Toolkit repository",
     "language": "C++",
-    "star": "39"
+    "star": "46"
   },
   {
     "title": "PKUanonym/REKCARC-TSC-UHT",
     "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
     "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
     "language": "HTML",
-    "star": "39"
+    "star": "38"
   },
   {
     "title": "skylot/jadx",
     "url": "https://github.com/skylot/jadx",
     "description": "Dex to Java decompiler",
     "language": "Java",
-    "star": "22"
+    "star": "27"
   },
   {
     "title": "didi/DoraemonKit",
@@ -165,7 +165,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "279"
+    "star": "278"
   },
   {
     "title": "jesseduffield/lazygit",
