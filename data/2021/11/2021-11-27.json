@@ -4,91 +4,91 @@
     "url": "https://github.com/microsoft/NUWA",
     "description": "A unified 3D Transformer Pipeline for visual synthesis",
     "language": "none",
-    "star": "131"
+    "star": "113"
   },
   {
     "title": "fangzesheng/free-api",
     "url": "https://github.com/fangzesheng/free-api",
     "description": "收集免费的接口服务,做一个api的搬运工",
     "language": "none",
-    "star": "282"
+    "star": "255"
   },
   {
     "title": "wazuh/wazuh",
     "url": "https://github.com/wazuh/wazuh",
     "description": "Wazuh - The Open Source Security Platform",
     "language": "C",
-    "star": "41"
+    "star": "42"
   },
   {
     "title": "amitness/learning",
     "url": "https://github.com/amitness/learning",
     "description": "Becoming better at data science every day",
     "language": "none",
-    "star": "37"
+    "star": "38"
   },
   {
     "title": "kingToolbox/WindTerm",
     "url": "https://github.com/kingToolbox/WindTerm",
     "description": "A quicker and better cross-platform SSH/Sftp/Shell/Telnet/Serial client.",
     "language": "C",
-    "star": "18"
+    "star": "58"
   },
   {
     "title": "PaddlePaddle/PaddleDetection",
     "url": "https://github.com/PaddlePaddle/PaddleDetection",
     "description": "Object detection and instance segmentation toolkit based on PaddlePaddle.",
     "language": "Python",
-    "star": "96"
+    "star": "95"
   },
   {
     "title": "Tencent/Shadow",
     "url": "https://github.com/Tencent/Shadow",
     "description": "零反射全动态Android插件框架",
     "language": "Java",
-    "star": "4"
+    "star": "5"
   },
   {
     "title": "521xueweihan/HelloGitHub",
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "36"
+    "star": "37"
   },
   {
     "title": "PeterL1n/RobustVideoMatting",
     "url": "https://github.com/PeterL1n/RobustVideoMatting",
     "description": "Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!",
     "language": "Python",
-    "star": "111"
+    "star": "76"
   },
   {
     "title": "TachibanaYoshino/AnimeGANv2",
     "url": "https://github.com/TachibanaYoshino/AnimeGANv2",
     "description": "[Open Source]. The improved version of AnimeGAN. Landscape photos/videos to anime",
     "language": "Python",
-    "star": "74"
+    "star": "67"
   },
   {
     "title": "chai2010/ugo-compiler-book",
     "url": "https://github.com/chai2010/ugo-compiler-book",
     "description": "📚 µGo语言实现(如何从头开发一个迷你Go语言编译器)",
     "language": "Go",
-    "star": "15"
+    "star": "13"
   },
   {
     "title": "Kholid060/automa",
     "url": "https://github.com/Kholid060/automa",
     "description": "A chrome extension for automating your browser by connecting blocks",
     "language": "Vue",
-    "star": "29"
+    "star": "62"
   },
   {
     "title": "alibaba/ice",
     "url": "https://github.com/alibaba/ice",
     "description": "🚀 The Progressive Framework Based On React（基于 React 的渐进式研发框架）",
     "language": "TypeScript",
-    "star": "8"
+    "star": "17"
   },
   {
     "title": "Kyome22/RunCat_for_windows",
@@ -109,7 +109,7 @@
     "url": "https://github.com/V1V1/OffensiveAutoIt",
     "description": "Offensive tooling notes and experiments in AutoIt v3 (https://www.autoitscript.com/site/autoit/)",
     "language": "AutoIt",
-    "star": "19"
+    "star": "17"
   },
   {
     "title": "kkkgo/LTSC-Add-MicrosoftStore",
@@ -123,35 +123,35 @@
     "url": "https://github.com/sottlmarek/DevSecOps",
     "description": "Ultimate DevSecOps library",
     "language": "none",
-    "star": "43"
+    "star": "31"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "236"
+    "star": "279"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "47"
+    "star": "66"
   },
   {
     "title": "Fndroid/clash_for_windows_pkg",
     "url": "https://github.com/Fndroid/clash_for_windows_pkg",
     "description": "A Windows/macOS GUI based on Clash",
     "language": "none",
-    "star": "59"
+    "star": "43"
   },
   {
     "title": "DouyinFE/semi-design",
     "url": "https://github.com/DouyinFE/semi-design",
     "description": "A modern, comprehensive, flexible design system and React UI library",
     "language": "TypeScript",
-    "star": "32"
+    "star": "23"
   },
   {
     "title": "PaddlePaddle/Paddle",
@@ -165,7 +165,7 @@
     "url": "https://github.com/kubesphere/kubesphere",
     "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
     "language": "Go",
-    "star": "11"
+    "star": "13"
   },
   {
     "title": "mastodon/mastodon",
