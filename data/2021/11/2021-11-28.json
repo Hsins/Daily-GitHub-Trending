@@ -1,0 +1,177 @@
+[
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "161"
+  },
+  {
+    "title": "0voice/learning_mind_map",
+    "url": "https://github.com/0voice/learning_mind_map",
+    "description": "2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等",
+    "language": "none",
+    "star": "108"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "154"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "Shell",
+    "star": "64"
+  },
+  {
+    "title": "iterativv/NostalgiaForInfinity",
+    "url": "https://github.com/iterativv/NostalgiaForInfinity",
+    "description": "Trading strategy for the Freqtrade crypto bot",
+    "language": "Python",
+    "star": "6"
+  },
+  {
+    "title": "CoreyMSchafer/code_snippets",
+    "url": "https://github.com/CoreyMSchafer/code_snippets",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "5"
+  },
+  {
+    "title": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "description": "CasaOS - A simple, easy-to-use, elegant open-source Family Cloud system.",
+    "language": "Go",
+    "star": "213"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "172"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "80"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "134"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated interview preparation materials for busy engineers",
+    "language": "JavaScript",
+    "star": "100"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "179"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Solidity",
+    "star": "14"
+  },
+  {
+    "title": "microsoft/NUWA",
+    "url": "https://github.com/microsoft/NUWA",
+    "description": "A unified 3D Transformer Pipeline for visual synthesis",
+    "language": "none",
+    "star": "222"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "155"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "186"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "114"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "description": "A Python Interpreter written in Rust",
+    "language": "Rust",
+    "star": "6"
+  },
+  {
+    "title": "LunarVim/LunarVim",
+    "url": "https://github.com/LunarVim/LunarVim",
+    "description": "An IDE layer for Neovim with sane defaults. Completely free and community driven.",
+    "language": "Lua",
+    "star": "18"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "165"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "none",
+    "star": "144"
+  },
+  {
+    "title": "ScottPlot/ScottPlot",
+    "url": "https://github.com/ScottPlot/ScottPlot",
+    "description": "Interactive Plotting Library for .NET",
+    "language": "C#",
+    "star": "29"
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "description": "A list of awesome beginners-friendly projects.",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "phoboslab/qoi",
+    "url": "https://github.com/phoboslab/qoi",
+    "description": "The “Quite OK Image” format for fast, lossless image compression",
+    "language": "C",
+    "star": "131"
+  }
+]
