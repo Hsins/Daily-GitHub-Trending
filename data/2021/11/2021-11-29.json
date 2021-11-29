@@ -4,28 +4,28 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "256"
+    "star": "213"
   },
   {
     "title": "godotengine/godot",
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "38"
+    "star": "40"
   },
   {
     "title": "gothinkster/realworld",
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "Shell",
-    "star": "153"
+    "star": "150"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "218"
+    "star": "278"
   },
   {
     "title": "iterativv/NostalgiaForInfinity",
@@ -81,28 +81,28 @@
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "134"
+    "star": "179"
   },
   {
     "title": "IceWhaleTech/CasaOS",
     "url": "https://github.com/IceWhaleTech/CasaOS",
     "description": "CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",
     "language": "Go",
-    "star": "439"
+    "star": "417"
   },
   {
     "title": "0voice/learning_mind_map",
     "url": "https://github.com/0voice/learning_mind_map",
     "description": "2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等",
     "language": "none",
-    "star": "136"
+    "star": "138"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "123"
+    "star": "133"
   },
   {
     "title": "sottlmarek/DevSecOps",
@@ -116,14 +116,14 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "136"
+    "star": "241"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "246"
+    "star": "299"
   },
   {
     "title": "fullstackhero/dotnet-webapi-boilerplate",
@@ -151,7 +151,7 @@
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "75"
+    "star": "77"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
@@ -172,6 +172,6 @@
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Rust",
-    "star": "69"
+    "star": "156"
   }
 ]
