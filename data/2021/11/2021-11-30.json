@@ -11,14 +11,14 @@
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "Shell",
-    "star": "208"
+    "star": "187"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "291"
+    "star": "325"
   },
   {
     "title": "CoreyMSchafer/code_snippets",
@@ -32,49 +32,49 @@
     "url": "https://github.com/zeldaret/oot",
     "description": "Decompilation of The Legend of Zelda: Ocarina of Time",
     "language": "C",
-    "star": "240"
+    "star": "158"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "375"
+    "star": "342"
   },
   {
     "title": "IceWhaleTech/CasaOS",
     "url": "https://github.com/IceWhaleTech/CasaOS",
     "description": "CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",
     "language": "Go",
-    "star": "583"
+    "star": "578"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "181"
+    "star": "191"
   },
   {
     "title": "zyylhn/zscan",
     "url": "https://github.com/zyylhn/zscan",
     "description": "Zscan a scan blasting tool set",
     "language": "Go",
-    "star": "22"
+    "star": "40"
   },
   {
     "title": "fullstackhero/dotnet-webapi-boilerplate",
     "url": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
     "description": "Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.",
     "language": "C#",
-    "star": "110"
+    "star": "111"
   },
   {
     "title": "521xueweihan/HelloGitHub",
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "81"
+    "star": "80"
   },
   {
     "title": "marktext/marktext",
@@ -95,28 +95,28 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "305"
+    "star": "285"
   },
   {
     "title": "iterativv/NostalgiaForInfinity",
     "url": "https://github.com/iterativv/NostalgiaForInfinity",
     "description": "Trading strategy for the Freqtrade crypto bot",
     "language": "Python",
-    "star": "83"
+    "star": "76"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "295"
+    "star": "296"
   },
   {
     "title": "beurtschipper/Depix",
     "url": "https://github.com/beurtschipper/Depix",
     "description": "Recovers passwords from pixelized screenshots",
     "language": "Python",
-    "star": "38"
+    "star": "39"
   },
   {
     "title": "microsoft/NUWA",
@@ -130,7 +130,7 @@
     "url": "https://github.com/drakkan/sftpgo",
     "description": "Fully featured and highly configurable SFTP server with optional HTTP, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob",
     "language": "Go",
-    "star": "44"
+    "star": "31"
   },
   {
     "title": "AleoHQ/snarkOS",
