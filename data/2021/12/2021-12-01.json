@@ -1,0 +1,177 @@
+[
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "language": "JavaScript",
+    "star": "303"
+  },
+  {
+    "title": "AppFlowy-IO/appflowy",
+    "url": "https://github.com/AppFlowy-IO/appflowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "language": "Rust",
+    "star": "680"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "none",
+    "star": "175"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "333"
+  },
+  {
+    "title": "makeitrealcamp/intro-javascript-nov-2021",
+    "url": "https://github.com/makeitrealcamp/intro-javascript-nov-2021",
+    "description": "Curso gratuito de introducción a JavaScript de Make It Real apoyado por Innpulsa Colombia",
+    "language": "none",
+    "star": "7"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "230"
+  },
+  {
+    "title": "tenderlove/asmrepl",
+    "url": "https://github.com/tenderlove/asmrepl",
+    "description": "A REPL for x86 assembly language",
+    "language": "Ruby",
+    "star": "123"
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "description": "A Decentralized Operating System for Zero-Knowledge Applications",
+    "language": "Rust",
+    "star": "124"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "description": "Chrome extension to return youtube dislikes",
+    "language": "JavaScript",
+    "star": "793"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "language": "JavaScript",
+    "star": "51"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "Java",
+    "star": "83"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "Shell",
+    "star": "175"
+  },
+  {
+    "title": "fullstackhero/dotnet-webapi-boilerplate",
+    "url": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
+    "description": "Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.",
+    "language": "C#",
+    "star": "210"
+  },
+  {
+    "title": "0voice/learning_mind_map",
+    "url": "https://github.com/0voice/learning_mind_map",
+    "description": "2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等",
+    "language": "none",
+    "star": "232"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "242"
+  },
+  {
+    "title": "ethanhs/python-wasm",
+    "url": "https://github.com/ethanhs/python-wasm",
+    "description": "Build scripts and configuration for building CPython for Emscripten",
+    "language": "Shell",
+    "star": "70"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "277"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "396"
+  },
+  {
+    "title": "argentlabs/argent-x",
+    "url": "https://github.com/argentlabs/argent-x",
+    "description": "ArgentX browser extension for StarkNet - made with ❤️ by Argent",
+    "language": "TypeScript",
+    "star": "8"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "143"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "292"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.",
+    "language": "TypeScript",
+    "star": "33"
+  },
+  {
+    "title": "tonsky/FiraCode",
+    "url": "https://github.com/tonsky/FiraCode",
+    "description": "Free monospaced font with programming ligatures",
+    "language": "Clojure",
+    "star": "482"
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "language": "Go",
+    "star": "22"
+  },
+  {
+    "title": "zeldaret/oot",
+    "url": "https://github.com/zeldaret/oot",
+    "description": "Decompilation of The Legend of Zelda: Ocarina of Time",
+    "language": "C",
+    "star": "257"
+  }
+]
