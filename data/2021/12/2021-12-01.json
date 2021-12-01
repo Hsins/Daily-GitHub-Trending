@@ -4,14 +4,14 @@
     "url": "https://github.com/marktext/marktext",
     "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
     "language": "JavaScript",
-    "star": "303"
+    "star": "302"
   },
   {
     "title": "AppFlowy-IO/appflowy",
     "url": "https://github.com/AppFlowy-IO/appflowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "language": "Rust",
-    "star": "680"
+    "star": "674"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
@@ -25,7 +25,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "333"
+    "star": "335"
   },
   {
     "title": "makeitrealcamp/intro-javascript-nov-2021",
@@ -46,21 +46,21 @@
     "url": "https://github.com/tenderlove/asmrepl",
     "description": "A REPL for x86 assembly language",
     "language": "Ruby",
-    "star": "123"
+    "star": "122"
   },
   {
     "title": "AleoHQ/snarkOS",
     "url": "https://github.com/AleoHQ/snarkOS",
     "description": "A Decentralized Operating System for Zero-Knowledge Applications",
     "language": "Rust",
-    "star": "124"
+    "star": "129"
   },
   {
     "title": "Anarios/return-youtube-dislike",
     "url": "https://github.com/Anarios/return-youtube-dislike",
     "description": "Chrome extension to return youtube dislikes",
     "language": "JavaScript",
-    "star": "793"
+    "star": "1"
   },
   {
     "title": "strapi/strapi",
@@ -81,14 +81,14 @@
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "Shell",
-    "star": "175"
+    "star": "179"
   },
   {
     "title": "fullstackhero/dotnet-webapi-boilerplate",
     "url": "https://github.com/fullstackhero/dotnet-webapi-boilerplate",
     "description": "Clean Architecture Template for .NET 6.0 WebApi built with Multitenancy Support.",
     "language": "C#",
-    "star": "169"
+    "star": "211"
   },
   {
     "title": "0voice/learning_mind_map",
@@ -116,35 +116,35 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "277"
+    "star": "256"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "396"
+    "star": "442"
   },
   {
     "title": "argentlabs/argent-x",
     "url": "https://github.com/argentlabs/argent-x",
     "description": "ArgentX browser extension for StarkNet - made with ❤️ by Argent",
     "language": "TypeScript",
-    "star": "21"
+    "star": "8"
   },
   {
     "title": "521xueweihan/HelloGitHub",
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "143"
+    "star": "144"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "292"
+    "star": "293"
   },
   {
     "title": "appsmithorg/appsmith",
@@ -158,14 +158,14 @@
     "url": "https://github.com/tonsky/FiraCode",
     "description": "Free monospaced font with programming ligatures",
     "language": "Clojure",
-    "star": "482"
+    "star": "367"
   },
   {
     "title": "dapr/dapr",
     "url": "https://github.com/dapr/dapr",
     "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
     "language": "Go",
-    "star": "76"
+    "star": "22"
   },
   {
     "title": "zeldaret/oot",
