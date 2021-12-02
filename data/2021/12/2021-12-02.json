@@ -4,7 +4,7 @@
     "url": "https://github.com/jesseduffield/lazygit",
     "description": "simple terminal UI for git commands",
     "language": "Go",
-    "star": "387"
+    "star": "393"
   },
   {
     "title": "oxidecomputer/hubris",
@@ -25,7 +25,7 @@
     "url": "https://github.com/0voice/learning_mind_map",
     "description": "2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等",
     "language": "none",
-    "star": "317"
+    "star": "174"
   },
   {
     "title": "pengzhile/ja-netfilter",
@@ -39,7 +39,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "364"
+    "star": "322"
   },
   {
     "title": "thunlp/WantWords",
@@ -60,7 +60,7 @@
     "url": "https://github.com/tonsky/FiraCode",
     "description": "Free monospaced font with programming ligatures",
     "language": "Clojure",
-    "star": "368"
+    "star": "362"
   },
   {
     "title": "microsoft/PowerToys",
@@ -81,14 +81,14 @@
     "url": "https://github.com/Anarios/return-youtube-dislike",
     "description": "Chrome extension to return youtube dislikes",
     "language": "JavaScript",
-    "star": "570"
+    "star": "571"
   },
   {
     "title": "glixzzy/blooket-hack",
     "url": "https://github.com/glixzzy/blooket-hack",
     "description": "Multiple game hacks to use so the game becomes easier to play!",
     "language": "JavaScript",
-    "star": "5"
+    "star": "3"
   },
   {
     "title": "DrKLO/Telegram",
@@ -144,7 +144,7 @@
     "url": "https://github.com/acmenlt/dynamic-threadpool",
     "description": "🔥 强大的动态线程池，附带监控报警功能（没有依赖中间件），完全遵循阿里巴巴编码规范。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function.",
     "language": "Java",
-    "star": "46"
+    "star": "44"
   },
   {
     "title": "frankwxu/digital-forensics-lab",
@@ -165,7 +165,7 @@
     "url": "https://github.com/getsentry/sentry-javascript",
     "description": "Official Sentry SDKs for JavaScript",
     "language": "TypeScript",
-    "star": "5"
+    "star": "16"
   },
   {
     "title": "spf13/cobra",
