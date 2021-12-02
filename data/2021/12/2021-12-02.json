@@ -1,0 +1,177 @@
+[
+  {
+    "title": "jesseduffield/lazygit",
+    "url": "https://github.com/jesseduffield/lazygit",
+    "description": "simple terminal UI for git commands",
+    "language": "Go",
+    "star": "387"
+  },
+  {
+    "title": "oxidecomputer/hubris",
+    "url": "https://github.com/oxidecomputer/hubris",
+    "description": "A lightweight, memory-protected, message-passing kernel for deeply embedded systems.",
+    "language": "Rust",
+    "star": "201"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "470"
+  },
+  {
+    "title": "0voice/learning_mind_map",
+    "url": "https://github.com/0voice/learning_mind_map",
+    "description": "2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等",
+    "language": "none",
+    "star": "317"
+  },
+  {
+    "title": "pengzhile/ja-netfilter",
+    "url": "https://github.com/pengzhile/ja-netfilter",
+    "description": "A javaagent lib for network filter",
+    "language": "Java",
+    "star": "140"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "364"
+  },
+  {
+    "title": "thunlp/WantWords",
+    "url": "https://github.com/thunlp/WantWords",
+    "description": "An open-source online reverse dictionary.",
+    "language": "JavaScript",
+    "star": "146"
+  },
+  {
+    "title": "autonomousvision/projected_gan",
+    "url": "https://github.com/autonomousvision/projected_gan",
+    "description": "[NeurIPS'21] Projected GANs Converge Faster",
+    "language": "Python",
+    "star": "8"
+  },
+  {
+    "title": "tonsky/FiraCode",
+    "url": "https://github.com/tonsky/FiraCode",
+    "description": "Free monospaced font with programming ligatures",
+    "language": "Clojure",
+    "star": "368"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "69"
+  },
+  {
+    "title": "toniblyx/prowler",
+    "url": "https://github.com/toniblyx/prowler",
+    "description": "Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",
+    "language": "Shell",
+    "star": "11"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "description": "Chrome extension to return youtube dislikes",
+    "language": "JavaScript",
+    "star": "570"
+  },
+  {
+    "title": "glixzzy/blooket-hack",
+    "url": "https://github.com/glixzzy/blooket-hack",
+    "description": "Multiple game hacks to use so the game becomes easier to play!",
+    "language": "JavaScript",
+    "star": "5"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "description": "Telegram for Android source",
+    "language": "Java",
+    "star": "15"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "description": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "language": "HCL",
+    "star": "2"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "language": "Groovy",
+    "star": "14"
+  },
+  {
+    "title": "aws/karpenter",
+    "url": "https://github.com/aws/karpenter",
+    "description": "Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh",
+    "language": "Go",
+    "star": "92"
+  },
+  {
+    "title": "oxidecomputer/humility",
+    "url": "https://github.com/oxidecomputer/humility",
+    "description": "Debugger for Hubris",
+    "language": "Rust",
+    "star": "33"
+  },
+  {
+    "title": "google/go-containerregistry",
+    "url": "https://github.com/google/go-containerregistry",
+    "description": "Go library and CLIs for working with container registries",
+    "language": "Go",
+    "star": "2"
+  },
+  {
+    "title": "Liqunkit/LiqunKit_",
+    "url": "https://github.com/Liqunkit/LiqunKit_",
+    "description": "",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "acmenlt/dynamic-threadpool",
+    "url": "https://github.com/acmenlt/dynamic-threadpool",
+    "description": "🔥 强大的动态线程池，附带监控报警功能（没有依赖中间件），完全遵循阿里巴巴编码规范。Powerful dynamic thread pool, does not rely on any middleware, with monitoring and alarm function.",
+    "language": "Java",
+    "star": "46"
+  },
+  {
+    "title": "frankwxu/digital-forensics-lab",
+    "url": "https://github.com/frankwxu/digital-forensics-lab",
+    "description": "Free hands-on digital forensics labs for students and faculty",
+    "language": "Rich Text Format",
+    "star": "22"
+  },
+  {
+    "title": "aws-ia/terraform-aws-control_tower_account_factory",
+    "url": "https://github.com/aws-ia/terraform-aws-control_tower_account_factory",
+    "description": "AWS Control Tower Account Factory",
+    "language": "HCL",
+    "star": "17"
+  },
+  {
+    "title": "getsentry/sentry-javascript",
+    "url": "https://github.com/getsentry/sentry-javascript",
+    "description": "Official Sentry SDKs for JavaScript",
+    "language": "TypeScript",
+    "star": "5"
+  },
+  {
+    "title": "spf13/cobra",
+    "url": "https://github.com/spf13/cobra",
+    "description": "A Commander for modern Go CLI interactions",
+    "language": "Go",
+    "star": "18"
+  }
+]
