@@ -4,7 +4,7 @@
     "url": "https://github.com/jesseduffield/lazygit",
     "description": "simple terminal UI for git commands",
     "language": "Go",
-    "star": "393"
+    "star": "896"
   },
   {
     "title": "oxidecomputer/hubris",
@@ -25,7 +25,7 @@
     "url": "https://github.com/0voice/learning_mind_map",
     "description": "2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等",
     "language": "none",
-    "star": "174"
+    "star": "145"
   },
   {
     "title": "pengzhile/ja-netfilter",
@@ -39,7 +39,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "322"
+    "star": "321"
   },
   {
     "title": "thunlp/WantWords",
@@ -60,7 +60,7 @@
     "url": "https://github.com/tonsky/FiraCode",
     "description": "Free monospaced font with programming ligatures",
     "language": "Clojure",
-    "star": "362"
+    "star": "361"
   },
   {
     "title": "microsoft/PowerToys",
@@ -81,7 +81,7 @@
     "url": "https://github.com/Anarios/return-youtube-dislike",
     "description": "Chrome extension to return youtube dislikes",
     "language": "JavaScript",
-    "star": "571"
+    "star": "564"
   },
   {
     "title": "glixzzy/blooket-hack",
@@ -116,7 +116,7 @@
     "url": "https://github.com/aws/karpenter",
     "description": "Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh",
     "language": "Go",
-    "star": "92"
+    "star": "96"
   },
   {
     "title": "oxidecomputer/humility",
@@ -165,13 +165,13 @@
     "url": "https://github.com/getsentry/sentry-javascript",
     "description": "Official Sentry SDKs for JavaScript",
     "language": "TypeScript",
-    "star": "16"
+    "star": "5"
   },
   {
     "title": "spf13/cobra",
     "url": "https://github.com/spf13/cobra",
     "description": "A Commander for modern Go CLI interactions",
     "language": "Go",
-    "star": "18"
+    "star": "16"
   }
 ]
