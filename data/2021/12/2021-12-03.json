@@ -11,7 +11,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "394"
+    "star": "382"
   },
   {
     "title": "ja-netfilter/ja-netfilter",
@@ -53,7 +53,7 @@
     "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
     "description": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
     "language": "HCL",
-    "star": "31"
+    "star": "33"
   },
   {
     "title": "glixzzy/blooket-hack",
@@ -74,7 +74,7 @@
     "url": "https://github.com/Anarios/return-youtube-dislike",
     "description": "Chrome extension to return youtube dislikes",
     "language": "JavaScript",
-    "star": "492"
+    "star": "501"
   },
   {
     "title": "jesseduffield/lazydocker",
@@ -109,7 +109,7 @@
     "url": "https://github.com/editso/fuso",
     "description": "一款快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)",
     "language": "Rust",
-    "star": "35"
+    "star": "37"
   },
   {
     "title": "dapr/dapr",
@@ -123,7 +123,7 @@
     "url": "https://github.com/autonomousvision/projected_gan",
     "description": "[NeurIPS'21] Projected GANs Converge Faster",
     "language": "Python",
-    "star": "47"
+    "star": "43"
   },
   {
     "title": "marktext/marktext",
@@ -165,7 +165,7 @@
     "url": "https://github.com/frankwxu/digital-forensics-lab",
     "description": "Free hands-on digital forensics labs for students and faculty",
     "language": "Rich Text Format",
-    "star": "59"
+    "star": "58"
   },
   {
     "title": "SummerSec/ShiroAttack2",
