@@ -1,0 +1,177 @@
+[
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "394"
+  },
+  {
+    "title": "ja-netfilter/ja-netfilter",
+    "url": "https://github.com/ja-netfilter/ja-netfilter",
+    "description": "A javaagent lib for network filter",
+    "language": "Java",
+    "star": "153"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "description": "🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.",
+    "language": "Kotlin",
+    "star": "154"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "11"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "258"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "description": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "language": "HCL",
+    "star": "31"
+  },
+  {
+    "title": "glixzzy/blooket-hack",
+    "url": "https://github.com/glixzzy/blooket-hack",
+    "description": "Multiple game hacks to use so the game becomes easier to play!",
+    "language": "JavaScript",
+    "star": "40"
+  },
+  {
+    "title": "yuval-alaluf/hyperstyle",
+    "url": "https://github.com/yuval-alaluf/hyperstyle",
+    "description": "Official Implementation for \"HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing\" https://arxiv.org/abs/2111.15666",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "description": "Chrome extension to return youtube dislikes",
+    "language": "JavaScript",
+    "star": "492"
+  },
+  {
+    "title": "jesseduffield/lazydocker",
+    "url": "https://github.com/jesseduffield/lazydocker",
+    "description": "The lazier way to manage everything docker",
+    "language": "Go",
+    "star": "235"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "TypeScript",
+    "star": "153"
+  },
+  {
+    "title": "mpcabete/bombcrypto-bot",
+    "url": "https://github.com/mpcabete/bombcrypto-bot",
+    "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "iron-fish/ironfish",
+    "url": "https://github.com/iron-fish/ironfish",
+    "description": "A novel cryptocurrency focused on privacy and accessibility.",
+    "language": "TypeScript",
+    "star": "6"
+  },
+  {
+    "title": "editso/fuso",
+    "url": "https://github.com/editso/fuso",
+    "description": "一款快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy, and transmission encryption)",
+    "language": "Rust",
+    "star": "35"
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "description": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "language": "Go",
+    "star": "17"
+  },
+  {
+    "title": "autonomousvision/projected_gan",
+    "url": "https://github.com/autonomousvision/projected_gan",
+    "description": "[NeurIPS'21] Projected GANs Converge Faster",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "language": "JavaScript",
+    "star": "132"
+  },
+  {
+    "title": "karpathy/arxiv-sanity-lite",
+    "url": "https://github.com/karpathy/arxiv-sanity-lite",
+    "description": "arxiv-sanity lite: tag arxiv papers of interest get recommendations of similar papers in a nice UI using SVMs over tfidf feature vectors based on paper abstracts.",
+    "language": "Python",
+    "star": "20"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "11"
+  },
+  {
+    "title": "FerretDB/FerretDB",
+    "url": "https://github.com/FerretDB/FerretDB",
+    "description": "A truly Open Source MongoDB alternative",
+    "language": "Go",
+    "star": "120"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "Java",
+    "star": "79"
+  },
+  {
+    "title": "frankwxu/digital-forensics-lab",
+    "url": "https://github.com/frankwxu/digital-forensics-lab",
+    "description": "Free hands-on digital forensics labs for students and faculty",
+    "language": "Rich Text Format",
+    "star": "59"
+  },
+  {
+    "title": "SummerSec/ShiroAttack2",
+    "url": "https://github.com/SummerSec/ShiroAttack2",
+    "description": "shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题 https://github.com/j1anFen/shiro_attack",
+    "language": "Java",
+    "star": "36"
+  }
+]
