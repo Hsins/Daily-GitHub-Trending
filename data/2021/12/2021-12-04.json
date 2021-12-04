@@ -18,7 +18,7 @@
     "url": "https://github.com/actions/virtual-environments",
     "description": "GitHub Actions virtual environments",
     "language": "PowerShell",
-    "star": "48"
+    "star": "44"
   },
   {
     "title": "crater-invoice/crater",
@@ -53,14 +53,14 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.",
     "language": "TypeScript",
-    "star": "212"
+    "star": "200"
   },
   {
     "title": "skydoves/android-developer-roadmap",
     "url": "https://github.com/skydoves/android-developer-roadmap",
     "description": "🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.",
     "language": "Kotlin",
-    "star": "212"
+    "star": "210"
   },
   {
     "title": "AsyncBanana/microdiff",
@@ -88,7 +88,7 @@
     "url": "https://github.com/mpcabete/bombcrypto-bot",
     "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
     "language": "Python",
-    "star": "29"
+    "star": "37"
   },
   {
     "title": "thunlp/WantWords",
@@ -102,7 +102,7 @@
     "url": "https://github.com/FerretDB/FerretDB",
     "description": "A truly Open Source MongoDB alternative",
     "language": "Go",
-    "star": "170"
+    "star": "176"
   },
   {
     "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
@@ -130,7 +130,7 @@
     "url": "https://github.com/github/explore",
     "description": "Community-curated topic and collection pages on GitHub",
     "language": "Ruby",
-    "star": "14"
+    "star": "15"
   },
   {
     "title": "microsoft/dotnet-podcasts",
