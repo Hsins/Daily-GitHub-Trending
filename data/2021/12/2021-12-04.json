@@ -18,7 +18,7 @@
     "url": "https://github.com/actions/virtual-environments",
     "description": "GitHub Actions virtual environments",
     "language": "PowerShell",
-    "star": "48"
+    "star": "44"
   },
   {
     "title": "crater-invoice/crater",
@@ -53,14 +53,14 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.",
     "language": "TypeScript",
-    "star": "212"
+    "star": "203"
   },
   {
     "title": "skydoves/android-developer-roadmap",
     "url": "https://github.com/skydoves/android-developer-roadmap",
     "description": "🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.",
     "language": "Kotlin",
-    "star": "212"
+    "star": "210"
   },
   {
     "title": "AsyncBanana/microdiff",
@@ -95,14 +95,14 @@
     "url": "https://github.com/thunlp/WantWords",
     "description": "An open-source online reverse dictionary.",
     "language": "JavaScript",
-    "star": "68"
+    "star": "77"
   },
   {
     "title": "FerretDB/FerretDB",
     "url": "https://github.com/FerretDB/FerretDB",
     "description": "A truly Open Source MongoDB alternative",
     "language": "Go",
-    "star": "170"
+    "star": "173"
   },
   {
     "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Bogdanp/awesome-advent-of-code",
     "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
     "language": "JavaScript",
-    "star": "30"
+    "star": "29"
   }
 ]
