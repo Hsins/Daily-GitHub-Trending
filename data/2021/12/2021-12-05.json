@@ -1,0 +1,177 @@
+[
+  {
+    "title": "haampie/libtree",
+    "url": "https://github.com/haampie/libtree",
+    "description": "ldd as a tree with an option to bundle dependencies into a single folder",
+    "language": "C++",
+    "star": "259"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "language": "PHP",
+    "star": "166"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.",
+    "language": "TypeScript",
+    "star": "306"
+  },
+  {
+    "title": "FerretDB/FerretDB",
+    "url": "https://github.com/FerretDB/FerretDB",
+    "description": "A truly Open Source MongoDB alternative",
+    "language": "Go",
+    "star": "138"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
+    "language": "JavaScript",
+    "star": "66"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "iron-fish/ironfish",
+    "url": "https://github.com/iron-fish/ironfish",
+    "description": "A novel cryptocurrency focused on privacy and accessibility.",
+    "language": "TypeScript",
+    "star": "10"
+  },
+  {
+    "title": "prabhatsharma/zinc",
+    "url": "https://github.com/prabhatsharma/zinc",
+    "description": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Vue",
+    "star": "480"
+  },
+  {
+    "title": "Pycord-Development/pycord",
+    "url": "https://github.com/Pycord-Development/pycord",
+    "description": "Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "Qovery/engine",
+    "url": "https://github.com/Qovery/engine",
+    "description": "Deploy your apps on any Cloud provider in just a few seconds",
+    "language": "Rust",
+    "star": "80"
+  },
+  {
+    "title": "facebookresearch/Mask2Former",
+    "url": "https://github.com/facebookresearch/Mask2Former",
+    "description": "Code release for \"Masked-attention Mask Transformer for Universal Image Segmentation\"",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "supabase/pg_graphql",
+    "url": "https://github.com/supabase/pg_graphql",
+    "description": "GraphQL support for PostgreSQL",
+    "language": "PLpgSQL",
+    "star": "93"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "84"
+  },
+  {
+    "title": "metaplex-foundation/metaplex",
+    "url": "https://github.com/metaplex-foundation/metaplex",
+    "description": "Protocol and application framework for decentralized NFT minting, storefronts, and sales.",
+    "language": "TypeScript",
+    "star": "19"
+  },
+  {
+    "title": "open-mmlab/mmtracking",
+    "url": "https://github.com/open-mmlab/mmtracking",
+    "description": "OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.",
+    "language": "Python",
+    "star": "52"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "description": "🗺 Android Developer Roadmap 2022 suggests learning paths to understanding Android development.",
+    "language": "Kotlin",
+    "star": "211"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "192"
+  },
+  {
+    "title": "microsoft/dotnet-podcasts",
+    "url": "https://github.com/microsoft/dotnet-podcasts",
+    "description": ".NET 6 reference application shown at .NET Conf 2021 featuring ASP.NET Core, Blazor, .NET MAUI, Microservices, and more!",
+    "language": "C#",
+    "star": "87"
+  },
+  {
+    "title": "o3de/o3de",
+    "url": "https://github.com/o3de/o3de",
+    "description": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.",
+    "language": "C++",
+    "star": "16"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "description": "A build system and primary set of packages for Termux.",
+    "language": "Shell",
+    "star": "13"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "description": "Automated cryptocurrency trading bot",
+    "language": "Python",
+    "star": "6"
+  },
+  {
+    "title": "raspberrypi/pico-examples",
+    "url": "https://github.com/raspberrypi/pico-examples",
+    "description": "",
+    "language": "C",
+    "star": "5"
+  },
+  {
+    "title": "shervinea/mit-15-003-data-science-tools",
+    "url": "https://github.com/shervinea/mit-15-003-data-science-tools",
+    "description": "Study guides for MIT's 15.003 Data Science Tools",
+    "language": "none",
+    "star": "24"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "47"
+  },
+  {
+    "title": "PX4/PX4-Autopilot",
+    "url": "https://github.com/PX4/PX4-Autopilot",
+    "description": "PX4 Autopilot Software",
+    "language": "C++",
+    "star": "4"
+  }
+]
