@@ -4,21 +4,21 @@
     "url": "https://github.com/loveispapapa/txt_files",
     "description": "ge zhong xiao shuo",
     "language": "none",
-    "star": "50"
+    "star": "44"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "46"
+    "star": "45"
   },
   {
     "title": "prabhatsharma/zinc",
     "url": "https://github.com/prabhatsharma/zinc",
     "description": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Vue",
-    "star": "434"
+    "star": "394"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
@@ -39,35 +39,35 @@
     "url": "https://github.com/Bogdanp/awesome-advent-of-code",
     "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
     "language": "JavaScript",
-    "star": "99"
+    "star": "97"
   },
   {
     "title": "CaffeineMC/lithium-fabric",
     "url": "https://github.com/CaffeineMC/lithium-fabric",
     "description": "A Fabric mod designed to improve the general performance of Minecraft without breaking things",
     "language": "Java",
-    "star": "11"
+    "star": "5"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "418"
+    "star": "417"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "327"
+    "star": "215"
   },
   {
     "title": "danielmiessler/SecLists",
     "url": "https://github.com/danielmiessler/SecLists",
     "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
     "language": "PHP",
-    "star": "141"
+    "star": "146"
   },
   {
     "title": "VoronDesign/Voron-2",
@@ -81,7 +81,7 @@
     "url": "https://github.com/facebookresearch/Mask2Former",
     "description": "Code release for \"Masked-attention Mask Transformer for Universal Image Segmentation\"",
     "language": "Python",
-    "star": "114"
+    "star": "63"
   },
   {
     "title": "mehdihadeli/awesome-software-architecture",
@@ -102,7 +102,7 @@
     "url": "https://github.com/FerretDB/FerretDB",
     "description": "A truly Open Source MongoDB alternative",
     "language": "Go",
-    "star": "202"
+    "star": "203"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
@@ -116,7 +116,7 @@
     "url": "https://github.com/supabase/pg_graphql",
     "description": "GraphQL support for PostgreSQL",
     "language": "PLpgSQL",
-    "star": "311"
+    "star": "219"
   },
   {
     "title": "iluwatar/java-design-patterns",
@@ -137,21 +137,21 @@
     "url": "https://github.com/haampie/libtree",
     "description": "ldd as a tree with an option to bundle dependencies into a single folder",
     "language": "C++",
-    "star": "295"
+    "star": "194"
   },
   {
     "title": "doocs/leetcode",
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "44"
+    "star": "61"
   },
   {
     "title": "NARKOZ/hacker-scripts",
     "url": "https://github.com/NARKOZ/hacker-scripts",
     "description": "Based on a true story",
     "language": "JavaScript",
-    "star": "43"
+    "star": "39"
   },
   {
     "title": "goatcorp/FFXIVQuickLauncher",
