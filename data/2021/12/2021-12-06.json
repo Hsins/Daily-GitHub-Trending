@@ -18,7 +18,7 @@
     "url": "https://github.com/prabhatsharma/zinc",
     "description": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Vue",
-    "star": "600"
+    "star": "434"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
@@ -46,28 +46,28 @@
     "url": "https://github.com/CaffeineMC/lithium-fabric",
     "description": "A Fabric mod designed to improve the general performance of Minecraft without breaking things",
     "language": "Java",
-    "star": "5"
+    "star": "11"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "389"
+    "star": "418"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "193"
+    "star": "327"
   },
   {
     "title": "danielmiessler/SecLists",
     "url": "https://github.com/danielmiessler/SecLists",
     "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
     "language": "PHP",
-    "star": "140"
+    "star": "141"
   },
   {
     "title": "VoronDesign/Voron-2",
@@ -81,7 +81,7 @@
     "url": "https://github.com/facebookresearch/Mask2Former",
     "description": "Code release for \"Masked-attention Mask Transformer for Universal Image Segmentation\"",
     "language": "Python",
-    "star": "63"
+    "star": "114"
   },
   {
     "title": "mehdihadeli/awesome-software-architecture",
@@ -102,7 +102,7 @@
     "url": "https://github.com/FerretDB/FerretDB",
     "description": "A truly Open Source MongoDB alternative",
     "language": "Go",
-    "star": "134"
+    "star": "202"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
@@ -116,7 +116,7 @@
     "url": "https://github.com/supabase/pg_graphql",
     "description": "GraphQL support for PostgreSQL",
     "language": "PLpgSQL",
-    "star": "203"
+    "star": "311"
   },
   {
     "title": "iluwatar/java-design-patterns",
@@ -137,21 +137,21 @@
     "url": "https://github.com/haampie/libtree",
     "description": "ldd as a tree with an option to bundle dependencies into a single folder",
     "language": "C++",
-    "star": "188"
+    "star": "295"
   },
   {
     "title": "doocs/leetcode",
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "64"
+    "star": "44"
   },
   {
     "title": "NARKOZ/hacker-scripts",
     "url": "https://github.com/NARKOZ/hacker-scripts",
     "description": "Based on a true story",
     "language": "JavaScript",
-    "star": "39"
+    "star": "43"
   },
   {
     "title": "goatcorp/FFXIVQuickLauncher",
