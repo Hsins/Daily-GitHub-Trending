@@ -1,0 +1,177 @@
+[
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "259"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a web developer in 2021",
+    "language": "TypeScript",
+    "star": "427"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "JavaScript",
+    "star": "297"
+  },
+  {
+    "title": "yeemachine/kalidokit",
+    "url": "https://github.com/yeemachine/kalidokit",
+    "description": "Blendshape and kinematics solver for Mediapipe/Tensorflow.js face, eyes, pose, and hand tracking models.",
+    "language": "TypeScript",
+    "star": "49"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "prabhatsharma/zinc",
+    "url": "https://github.com/prabhatsharma/zinc",
+    "description": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Vue",
+    "star": "808"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "313"
+  },
+  {
+    "title": "alibaba/arthas",
+    "url": "https://github.com/alibaba/arthas",
+    "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
+    "language": "Java",
+    "star": "20"
+  },
+  {
+    "title": "glibg10b/ltt-linux-challenge-issues",
+    "url": "https://github.com/glibg10b/ltt-linux-challenge-issues",
+    "description": "A list of issues Linus and Luke experienced during the LTT Linux Daily Driver Challenge",
+    "language": "none",
+    "star": "47"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "217"
+  },
+  {
+    "title": "SummitRoute/csp_security_mistakes",
+    "url": "https://github.com/SummitRoute/csp_security_mistakes",
+    "description": "Cloud service provider security mistakes",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "192"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "210"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "406"
+  },
+  {
+    "title": "OpenIMSDK/Open-IM-Server",
+    "url": "https://github.com/OpenIMSDK/Open-IM-Server",
+    "description": "OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）",
+    "language": "Go",
+    "star": "48"
+  },
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "description": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "loveispapapa/txt_files",
+    "url": "https://github.com/loveispapapa/txt_files",
+    "description": "ge zhong xiao shuo",
+    "language": "none",
+    "star": "93"
+  },
+  {
+    "title": "mehdihadeli/awesome-software-architecture",
+    "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+    "description": "A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.",
+    "language": "none",
+    "star": "361"
+  },
+  {
+    "title": "Pycord-Development/pycord",
+    "url": "https://github.com/Pycord-Development/pycord",
+    "description": "Pycord, a maintained fork of discord.py, is a python wrapper for the Discord API",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "iron-fish/ironfish",
+    "url": "https://github.com/iron-fish/ironfish",
+    "description": "A novel cryptocurrency focused on privacy and accessibility.",
+    "language": "TypeScript",
+    "star": "14"
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "description": "Automated cryptocurrency trading bot",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目，无语言障碍地、更高效地吸收国人优秀经验成果；榜单周更，敬请关注！",
+    "language": "Java",
+    "star": "76"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "description": "⚡️ Express inspired web framework written in Go",
+    "language": "Go",
+    "star": "39"
+  },
+  {
+    "title": "supabase/pg_graphql",
+    "url": "https://github.com/supabase/pg_graphql",
+    "description": "GraphQL support for PostgreSQL",
+    "language": "PLpgSQL",
+    "star": "316"
+  },
+  {
+    "title": "open-mmlab/mmtracking",
+    "url": "https://github.com/open-mmlab/mmtracking",
+    "description": "OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.",
+    "language": "Python",
+    "star": "12"
+  }
+]
