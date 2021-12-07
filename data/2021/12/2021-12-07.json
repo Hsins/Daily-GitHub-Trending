@@ -4,21 +4,21 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "259"
+    "star": "257"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a web developer in 2021",
     "language": "TypeScript",
-    "star": "427"
+    "star": "484"
   },
   {
     "title": "babysor/MockingBird",
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "JavaScript",
-    "star": "297"
+    "star": "225"
   },
   {
     "title": "yeemachine/kalidokit",
@@ -39,14 +39,14 @@
     "url": "https://github.com/prabhatsharma/zinc",
     "description": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Vue",
-    "star": "808"
+    "star": "809"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "313"
+    "star": "314"
   },
   {
     "title": "alibaba/arthas",
@@ -95,14 +95,14 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "406"
+    "star": "407"
   },
   {
     "title": "OpenIMSDK/Open-IM-Server",
     "url": "https://github.com/OpenIMSDK/Open-IM-Server",
     "description": "OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。）",
     "language": "Go",
-    "star": "48"
+    "star": "89"
   },
   {
     "title": "coder2gwy/coder2gwy",
@@ -116,14 +116,14 @@
     "url": "https://github.com/loveispapapa/txt_files",
     "description": "ge zhong xiao shuo",
     "language": "none",
-    "star": "93"
+    "star": "92"
   },
   {
     "title": "mehdihadeli/awesome-software-architecture",
     "url": "https://github.com/mehdihadeli/awesome-software-architecture",
     "description": "A curated list of awesome articles, videos, and other resources to learn and practice about software architecture, patterns, and principles.",
     "language": "none",
-    "star": "361"
+    "star": "360"
   },
   {
     "title": "Pycord-Development/pycord",
@@ -151,14 +151,14 @@
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目，无语言障碍地、更高效地吸收国人优秀经验成果；榜单周更，敬请关注！",
     "language": "Java",
-    "star": "76"
+    "star": "89"
   },
   {
     "title": "gofiber/fiber",
     "url": "https://github.com/gofiber/fiber",
     "description": "⚡️ Express inspired web framework written in Go",
     "language": "Go",
-    "star": "39"
+    "star": "72"
   },
   {
     "title": "supabase/pg_graphql",
