@@ -53,7 +53,7 @@
     "url": "https://github.com/apache/logging-log4j2",
     "description": "Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.",
     "language": "Java",
-    "star": "103"
+    "star": "104"
   },
   {
     "title": "mbechler/marshalsec",
@@ -81,7 +81,7 @@
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "176"
+    "star": "177"
   },
   {
     "title": "flame-engine/flame",
@@ -144,7 +144,7 @@
     "url": "https://github.com/Eugeny/tabby",
     "description": "A terminal for a more modern age (formerly Terminus)",
     "language": "TypeScript",
-    "star": "251"
+    "star": "246"
   },
   {
     "title": "microsoft/ai-edu",
