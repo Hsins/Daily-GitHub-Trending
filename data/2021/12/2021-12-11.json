@@ -1,0 +1,177 @@
+[
+  {
+    "title": "tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
+    "url": "https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
+    "description": "Apache Log4j 远程代码执行",
+    "language": "Java",
+    "star": "487"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "language": "Python",
+    "star": "751"
+  },
+  {
+    "title": "bytedance/monoio",
+    "url": "https://github.com/bytedance/monoio",
+    "description": "Rust async runtime based on io-uring.",
+    "language": "Rust",
+    "star": "131"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "JavaScript",
+    "star": "132"
+  },
+  {
+    "title": "dendibakh/perf-book",
+    "url": "https://github.com/dendibakh/perf-book",
+    "description": "The book \"Performance Analysis and Tuning on Modern CPU\"",
+    "language": "TeX",
+    "star": "117"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "language": "Java",
+    "star": "32"
+  },
+  {
+    "title": "cilium/cilium",
+    "url": "https://github.com/cilium/cilium",
+    "description": "eBPF-based Networking, Security, and Observability",
+    "language": "Go",
+    "star": "54"
+  },
+  {
+    "title": "apache/logging-log4j2",
+    "url": "https://github.com/apache/logging-log4j2",
+    "description": "Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.",
+    "language": "Java",
+    "star": "93"
+  },
+  {
+    "title": "mbechler/marshalsec",
+    "url": "https://github.com/mbechler/marshalsec",
+    "description": "",
+    "language": "Java",
+    "star": "152"
+  },
+  {
+    "title": "welk1n/JNDI-Injection-Exploit",
+    "url": "https://github.com/welk1n/JNDI-Injection-Exploit",
+    "description": "JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc）",
+    "language": "Java",
+    "star": "144"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "description": "深度学习经典、新论文逐段精读",
+    "language": "none",
+    "star": "40"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "language": "Java",
+    "star": "169"
+  },
+  {
+    "title": "flame-engine/flame",
+    "url": "https://github.com/flame-engine/flame",
+    "description": "A minimalist Flutter game engine",
+    "language": "Dart",
+    "star": "22"
+  },
+  {
+    "title": "instrumental-finance/airdrop-addresses",
+    "url": "https://github.com/instrumental-finance/airdrop-addresses",
+    "description": "",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "vercel/turborepo",
+    "url": "https://github.com/vercel/turborepo",
+    "description": "The high-performance build system for JavaScript & TypeScript codebases",
+    "language": "Go",
+    "star": "644"
+  },
+  {
+    "title": "laravel-filament/filament",
+    "url": "https://github.com/laravel-filament/filament",
+    "description": "A collection of tools for rapidly building beautiful TALL stack interfaces, designed for humans.",
+    "language": "PHP",
+    "star": "81"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "description": "Implementation of the Filecoin protocol, written in Go",
+    "language": "Go",
+    "star": "5"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss.com",
+    "url": "https://github.com/tailwindlabs/tailwindcss.com",
+    "description": "",
+    "language": "JavaScript",
+    "star": "87"
+  },
+  {
+    "title": "AppFlowy-IO/appflowy",
+    "url": "https://github.com/AppFlowy-IO/appflowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "language": "Rust",
+    "star": "137"
+  },
+  {
+    "title": "alibaba/ilogtail",
+    "url": "https://github.com/alibaba/ilogtail",
+    "description": "The Lightweight Data Collector of SLS in Alibaba Cloud",
+    "language": "Go",
+    "star": "7"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "description": "A terminal for a more modern age (formerly Terminus)",
+    "language": "TypeScript",
+    "star": "259"
+  },
+  {
+    "title": "microsoft/ai-edu",
+    "url": "https://github.com/microsoft/ai-edu",
+    "description": "AI education materials for Chinese students, teachers and IT professionals.",
+    "language": "HTML",
+    "star": "99"
+  },
+  {
+    "title": "flix/flix",
+    "url": "https://github.com/flix/flix",
+    "description": "The Flix Programming Language",
+    "language": "Scala",
+    "star": "24"
+  },
+  {
+    "title": "kubeedge/kubeedge",
+    "url": "https://github.com/kubeedge/kubeedge",
+    "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+    "language": "Go",
+    "star": "15"
+  },
+  {
+    "title": "tkestack/kstone",
+    "url": "https://github.com/tkestack/kstone",
+    "description": "Kstone is an etcd management platform, providing cluster management, monitoring, backup, inspection, data migration, visual viewing of etcd data, and intelligent diagnosis.",
+    "language": "Go",
+    "star": "35"
+  }
+]
