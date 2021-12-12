@@ -4,14 +4,14 @@
     "url": "https://github.com/TencentARC/GFPGAN",
     "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
     "language": "Python",
-    "star": "894"
+    "star": "881"
   },
   {
     "title": "welk1n/JNDI-Injection-Exploit",
     "url": "https://github.com/welk1n/JNDI-Injection-Exploit",
     "description": "JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc）",
     "language": "Java",
-    "star": "109"
+    "star": "100"
   },
   {
     "title": "tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce",
@@ -25,112 +25,112 @@
     "url": "https://github.com/SeanDaBlack/KelloggBot",
     "description": "Kellogg bad | Union good | Support strike funds",
     "language": "Python",
-    "star": "96"
+    "star": "73"
   },
   {
     "title": "feihong-cs/JNDIExploit",
     "url": "https://github.com/feihong-cs/JNDIExploit",
     "description": "A malicious LDAP server for JNDI injection attacks",
     "language": "Java",
-    "star": "121"
+    "star": "134"
   },
   {
     "title": "apache/logging-log4j2",
     "url": "https://github.com/apache/logging-log4j2",
     "description": "Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.",
     "language": "Java",
-    "star": "102"
+    "star": "105"
   },
   {
     "title": "mpcabete/bombcrypto-bot",
     "url": "https://github.com/mpcabete/bombcrypto-bot",
     "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
     "language": "Python",
-    "star": "12"
+    "star": "15"
   },
   {
     "title": "cilium/cilium",
     "url": "https://github.com/cilium/cilium",
     "description": "eBPF-based Networking, Security, and Observability",
     "language": "Go",
-    "star": "77"
+    "star": "76"
   },
   {
     "title": "vercel/turborepo",
     "url": "https://github.com/vercel/turborepo",
     "description": "The High-performance Build System for JavaScript & TypeScript Codebases",
     "language": "Go",
-    "star": "370"
+    "star": "423"
   },
   {
     "title": "sxyu/svox2",
     "url": "https://github.com/sxyu/svox2",
     "description": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
     "language": "Python",
-    "star": "64"
+    "star": "51"
   },
   {
     "title": "whwlsfb/Log4j2Scan",
     "url": "https://github.com/whwlsfb/Log4j2Scan",
     "description": "Log4j2 RCE Passive Scanner plugin for BurpSuite",
     "language": "Java",
-    "star": "125"
+    "star": "126"
   },
   {
     "title": "YfryTchsGD/Log4jAttackSurface",
     "url": "https://github.com/YfryTchsGD/Log4jAttackSurface",
     "description": "",
     "language": "none",
-    "star": "392"
+    "star": "347"
   },
   {
     "title": "christophetd/log4shell-vulnerable-app",
     "url": "https://github.com/christophetd/log4shell-vulnerable-app",
     "description": "Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell.",
     "language": "Java",
-    "star": "124"
+    "star": "123"
   },
   {
     "title": "cshum/imagor",
     "url": "https://github.com/cshum/imagor",
     "description": "Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax",
     "language": "Go",
-    "star": "107"
+    "star": "105"
   },
   {
     "title": "veracode-research/rogue-jndi",
     "url": "https://github.com/veracode-research/rogue-jndi",
     "description": "A malicious LDAP server for JNDI injection attacks",
     "language": "Java",
-    "star": "54"
+    "star": "59"
   },
   {
     "title": "NationalSecurityAgency/ghidra",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "language": "Java",
-    "star": "36"
+    "star": "30"
   },
   {
     "title": "HyCraftHD/Log4J-RCE-Proof-Of-Concept",
     "url": "https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept",
     "description": "Log4j-RCE (CVE-2021-44228) Proof of Concept with additional information",
     "language": "Java",
-    "star": "24"
+    "star": "25"
   },
   {
     "title": "PaperMC/Paper",
     "url": "https://github.com/PaperMC/Paper",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
     "language": "Java",
-    "star": "67"
+    "star": "70"
   },
   {
     "title": "mbechler/marshalsec",
     "url": "https://github.com/mbechler/marshalsec",
     "description": "",
     "language": "Java",
-    "star": "88"
+    "star": "94"
   },
   {
     "title": "HashLips/hashlips_art_engine",
@@ -144,34 +144,34 @@
     "url": "https://github.com/type-challenges/type-challenges",
     "description": "Collection of TypeScript type challenges with online judge",
     "language": "TypeScript",
-    "star": "108"
+    "star": "64"
   },
   {
     "title": "flame-engine/flame",
     "url": "https://github.com/flame-engine/flame",
     "description": "A minimalist Flutter game engine",
     "language": "Dart",
-    "star": "90"
+    "star": "98"
   },
   {
     "title": "doocs/leetcode",
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "166"
+    "star": "178"
   },
   {
     "title": "docker/awesome-compose",
     "url": "https://github.com/docker/awesome-compose",
     "description": "Awesome Docker Compose samples",
     "language": "HTML",
-    "star": "58"
+    "star": "64"
   },
   {
     "title": "tsherif/space-shooter.c",
     "url": "https://github.com/tsherif/space-shooter.c",
     "description": "A cross-platform, top-down 2D space shooter written in C using only system libraries.",
     "language": "C",
-    "star": "348"
+    "star": "347"
   }
 ]
