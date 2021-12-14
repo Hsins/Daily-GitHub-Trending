@@ -1,0 +1,177 @@
+[
+  {
+    "title": "NCSC-NL/log4shell",
+    "url": "https://github.com/NCSC-NL/log4shell",
+    "description": "Operational information regarding the vulnerability in the Log4j logging library.",
+    "language": "none",
+    "star": "292"
+  },
+  {
+    "title": "huntresslabs/log4shell-tester",
+    "url": "https://github.com/huntresslabs/log4shell-tester",
+    "description": "",
+    "language": "Java",
+    "star": "63"
+  },
+  {
+    "title": "Neo23x0/log4shell-detector",
+    "url": "https://github.com/Neo23x0/log4shell-detector",
+    "description": "Detector for Log4Shell exploitation attempts",
+    "language": "Python",
+    "star": "114"
+  },
+  {
+    "title": "anchore/syft",
+    "url": "https://github.com/anchore/syft",
+    "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "language": "Go",
+    "star": "175"
+  },
+  {
+    "title": "christophetd/log4shell-vulnerable-app",
+    "url": "https://github.com/christophetd/log4shell-vulnerable-app",
+    "description": "Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell.",
+    "language": "Java",
+    "star": "161"
+  },
+  {
+    "title": "whwlsfb/Log4j2Scan",
+    "url": "https://github.com/whwlsfb/Log4j2Scan",
+    "description": "Log4j2 RCE Passive Scanner plugin for BurpSuite",
+    "language": "Java",
+    "star": "125"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "corretto/hotpatch-for-apache-log4j2",
+    "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
+    "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
+    "language": "Java",
+    "star": "69"
+  },
+  {
+    "title": "vercel/turborepo",
+    "url": "https://github.com/vercel/turborepo",
+    "description": "The High-performance Build System for JavaScript & TypeScript Codebases",
+    "language": "Go",
+    "star": "649"
+  },
+  {
+    "title": "tangxiaofeng7/BurpLog4j2Scan",
+    "url": "https://github.com/tangxiaofeng7/BurpLog4j2Scan",
+    "description": "Burpsuite extension for log4j2rce",
+    "language": "Java",
+    "star": "61"
+  },
+  {
+    "title": "hillu/local-log4j-vuln-scanner",
+    "url": "https://github.com/hillu/local-log4j-vuln-scanner",
+    "description": "Simple local scanner for vulnerable log4j instances",
+    "language": "Go",
+    "star": "39"
+  },
+  {
+    "title": "rolling-scopes-school/tasks",
+    "url": "https://github.com/rolling-scopes-school/tasks",
+    "description": "",
+    "language": "JavaScript",
+    "star": "107"
+  },
+  {
+    "title": "inconvergent/weird",
+    "url": "https://github.com/inconvergent/weird",
+    "description": "Generative art in Common Lisp",
+    "language": "Common Lisp",
+    "star": "412"
+  },
+  {
+    "title": "Cybereason/Logout4Shell",
+    "url": "https://github.com/Cybereason/Logout4Shell",
+    "description": "Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell",
+    "language": "Java",
+    "star": "380"
+  },
+  {
+    "title": "PKUFlyingPig/pku-cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/pku-cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "none",
+    "star": "178"
+  },
+  {
+    "title": "cube0x0/noPac",
+    "url": "https://github.com/cube0x0/noPac",
+    "description": "CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.",
+    "language": "C#",
+    "star": "121"
+  },
+  {
+    "title": "Universidade-Livre/ciencia-da-computacao",
+    "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
+    "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
+    "language": "none",
+    "star": "62"
+  },
+  {
+    "title": "libevm/subway",
+    "url": "https://github.com/libevm/subway",
+    "description": "A practical example on how to perform sandwich attacks on Ethereum",
+    "language": "Solidity",
+    "star": "39"
+  },
+  {
+    "title": "Puliczek/CVE-2021-44228-PoC-log4j-bypass-words",
+    "url": "https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words",
+    "description": "🐱‍💻 ✂️ 🤬 CVE-2021-44228 - LOG4J Java exploit - A trick to bypass words blocking patches",
+    "language": "Java",
+    "star": "121"
+  },
+  {
+    "title": "anchore/grype",
+    "url": "https://github.com/anchore/grype",
+    "description": "A vulnerability scanner for container images and filesystems",
+    "language": "Go",
+    "star": "151"
+  },
+  {
+    "title": "apache/logging-log4j2",
+    "url": "https://github.com/apache/logging-log4j2",
+    "description": "Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.",
+    "language": "Java",
+    "star": "197"
+  },
+  {
+    "title": "WazeHell/sam-the-admin",
+    "url": "https://github.com/WazeHell/sam-the-admin",
+    "description": "Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user",
+    "language": "Python",
+    "star": "135"
+  },
+  {
+    "title": "EmYiQing/LDAPKit",
+    "url": "https://github.com/EmYiQing/LDAPKit",
+    "description": "自用的LDAP测试工具，一键启动",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "leonjza/log4jpwn",
+    "url": "https://github.com/leonjza/log4jpwn",
+    "description": "log4j rce test environment and poc",
+    "language": "Python",
+    "star": "38"
+  }
+]
