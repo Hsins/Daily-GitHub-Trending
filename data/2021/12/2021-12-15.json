@@ -18,14 +18,14 @@
     "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
     "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
     "language": "Java",
-    "star": "61"
+    "star": "64"
   },
   {
     "title": "NCSC-NL/log4shell",
     "url": "https://github.com/NCSC-NL/log4shell",
     "description": "Operational information regarding the vulnerability in the Log4j logging library.",
     "language": "none",
-    "star": "310"
+    "star": "422"
   },
   {
     "title": "mergebase/log4j-detector",
@@ -46,7 +46,7 @@
     "url": "https://github.com/hillu/local-log4j-vuln-scanner",
     "description": "Simple local scanner for vulnerable log4j instances",
     "language": "Go",
-    "star": "53"
+    "star": "41"
   },
   {
     "title": "solana-labs/spl-zk-token",
@@ -67,7 +67,7 @@
     "url": "https://github.com/leonjza/log4jpwn",
     "description": "log4j rce test environment and poc",
     "language": "Python",
-    "star": "61"
+    "star": "60"
   },
   {
     "title": "alexandre-lavoie/python-log4rce",
@@ -88,14 +88,14 @@
     "url": "https://github.com/pointfreeco/swift-composable-architecture",
     "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
     "language": "Swift",
-    "star": "42"
+    "star": "39"
   },
   {
     "title": "corretto/hotpatch-for-apache-log4j2",
     "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
     "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
     "language": "Java",
-    "star": "74"
+    "star": "75"
   },
   {
     "title": "Diverto/nse-log4shell",
@@ -123,7 +123,7 @@
     "url": "https://github.com/WazeHell/sam-the-admin",
     "description": "Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user",
     "language": "Python",
-    "star": "114"
+    "star": "116"
   },
   {
     "title": "parallel101/course",
@@ -151,7 +151,7 @@
     "url": "https://github.com/rolling-scopes-school/tasks",
     "description": "",
     "language": "JavaScript",
-    "star": "62"
+    "star": "112"
   },
   {
     "title": "CyC2018/CS-Notes",
@@ -165,7 +165,7 @@
     "url": "https://github.com/Neo23x0/log4shell-detector",
     "description": "Detector for Log4Shell exploitation attempts",
     "language": "Python",
-    "star": "121"
+    "star": "124"
   },
   {
     "title": "inconvergent/weird",
