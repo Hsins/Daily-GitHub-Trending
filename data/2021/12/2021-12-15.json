@@ -11,21 +11,21 @@
     "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
     "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
     "language": "HTML",
-    "star": "263"
+    "star": "262"
   },
   {
     "title": "logpresso/CVE-2021-44228-Scanner",
     "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
     "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
     "language": "Java",
-    "star": "85"
+    "star": "61"
   },
   {
     "title": "NCSC-NL/log4shell",
     "url": "https://github.com/NCSC-NL/log4shell",
     "description": "Operational information regarding the vulnerability in the Log4j logging library.",
     "language": "none",
-    "star": "422"
+    "star": "310"
   },
   {
     "title": "mergebase/log4j-detector",
@@ -46,7 +46,7 @@
     "url": "https://github.com/hillu/local-log4j-vuln-scanner",
     "description": "Simple local scanner for vulnerable log4j instances",
     "language": "Go",
-    "star": "55"
+    "star": "53"
   },
   {
     "title": "solana-labs/spl-zk-token",
@@ -67,14 +67,14 @@
     "url": "https://github.com/leonjza/log4jpwn",
     "description": "log4j rce test environment and poc",
     "language": "Python",
-    "star": "59"
+    "star": "61"
   },
   {
     "title": "alexandre-lavoie/python-log4rce",
     "url": "https://github.com/alexandre-lavoie/python-log4rce",
     "description": "An All-In-One Pure Python PoC for CVE-2021-44228",
     "language": "Python",
-    "star": "34"
+    "star": "27"
   },
   {
     "title": "cloudera/cloudera-scripts-for-log4j",
@@ -88,14 +88,14 @@
     "url": "https://github.com/pointfreeco/swift-composable-architecture",
     "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
     "language": "Swift",
-    "star": "39"
+    "star": "42"
   },
   {
     "title": "corretto/hotpatch-for-apache-log4j2",
     "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
     "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
     "language": "Java",
-    "star": "75"
+    "star": "74"
   },
   {
     "title": "Diverto/nse-log4shell",
@@ -123,7 +123,7 @@
     "url": "https://github.com/WazeHell/sam-the-admin",
     "description": "Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user",
     "language": "Python",
-    "star": "138"
+    "star": "114"
   },
   {
     "title": "parallel101/course",
@@ -151,7 +151,7 @@
     "url": "https://github.com/rolling-scopes-school/tasks",
     "description": "",
     "language": "JavaScript",
-    "star": "106"
+    "star": "62"
   },
   {
     "title": "CyC2018/CS-Notes",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Neo23x0/log4shell-detector",
     "description": "Detector for Log4Shell exploitation attempts",
     "language": "Python",
-    "star": "120"
+    "star": "121"
   },
   {
     "title": "inconvergent/weird",
     "url": "https://github.com/inconvergent/weird",
     "description": "Generative art in Common Lisp",
     "language": "Common Lisp",
-    "star": "172"
+    "star": "169"
   }
 ]
