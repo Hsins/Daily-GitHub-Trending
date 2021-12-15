@@ -1,0 +1,177 @@
+[
+  {
+    "title": "fullhunt/log4j-scan",
+    "url": "https://github.com/fullhunt/log4j-scan",
+    "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
+    "language": "Python",
+    "star": "328"
+  },
+  {
+    "title": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
+    "language": "HTML",
+    "star": "262"
+  },
+  {
+    "title": "logpresso/CVE-2021-44228-Scanner",
+    "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
+    "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
+    "language": "Java",
+    "star": "64"
+  },
+  {
+    "title": "NCSC-NL/log4shell",
+    "url": "https://github.com/NCSC-NL/log4shell",
+    "description": "Operational information regarding the vulnerability in the Log4j logging library.",
+    "language": "none",
+    "star": "422"
+  },
+  {
+    "title": "mergebase/log4j-detector",
+    "url": "https://github.com/mergebase/log4j-detector",
+    "description": "Detects vulnerable log4j versions on your file-system within any application. It is able to even find instances that are hidden several layers deep. Works on Linux, Windows, and Mac, and everywhere else Java runs, too!",
+    "language": "Java",
+    "star": "54"
+  },
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+    "language": "Java",
+    "star": "55"
+  },
+  {
+    "title": "hillu/local-log4j-vuln-scanner",
+    "url": "https://github.com/hillu/local-log4j-vuln-scanner",
+    "description": "Simple local scanner for vulnerable log4j instances",
+    "language": "Go",
+    "star": "41"
+  },
+  {
+    "title": "solana-labs/spl-zk-token",
+    "url": "https://github.com/solana-labs/spl-zk-token",
+    "description": "SPL Confidential Token",
+    "language": "Rust",
+    "star": "16"
+  },
+  {
+    "title": "ChendoChap/pOOBs4",
+    "url": "https://github.com/ChendoChap/pOOBs4",
+    "description": "",
+    "language": "JavaScript",
+    "star": "134"
+  },
+  {
+    "title": "leonjza/log4jpwn",
+    "url": "https://github.com/leonjza/log4jpwn",
+    "description": "log4j rce test environment and poc",
+    "language": "Python",
+    "star": "60"
+  },
+  {
+    "title": "alexandre-lavoie/python-log4rce",
+    "url": "https://github.com/alexandre-lavoie/python-log4rce",
+    "description": "An All-In-One Pure Python PoC for CVE-2021-44228",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "cloudera/cloudera-scripts-for-log4j",
+    "url": "https://github.com/cloudera/cloudera-scripts-for-log4j",
+    "description": "Scripts for addressing log4j zero day security issue",
+    "language": "Shell",
+    "star": "4"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "language": "Swift",
+    "star": "39"
+  },
+  {
+    "title": "corretto/hotpatch-for-apache-log4j2",
+    "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
+    "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
+    "language": "Java",
+    "star": "75"
+  },
+  {
+    "title": "Diverto/nse-log4shell",
+    "url": "https://github.com/Diverto/nse-log4shell",
+    "description": "Nmap NSE scripts to check against log4shell or LogJam vulnerabilities (CVE-2021-44228)",
+    "language": "Lua",
+    "star": "60"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "description": "Code for Data Engineer Zoomcamp course",
+    "language": "none",
+    "star": "46"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "description": "A post-modern modal text editor.",
+    "language": "Rust",
+    "star": "77"
+  },
+  {
+    "title": "WazeHell/sam-the-admin",
+    "url": "https://github.com/WazeHell/sam-the-admin",
+    "description": "Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "parallel101/course",
+    "url": "https://github.com/parallel101/course",
+    "description": "高性能并行编程与优化 - 课件",
+    "language": "C++",
+    "star": "47"
+  },
+  {
+    "title": "i5ting/rust-fe",
+    "url": "https://github.com/i5ting/rust-fe",
+    "description": "Rust是未来前端基础设施",
+    "language": "none",
+    "star": "77"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+    "language": "none",
+    "star": "107"
+  },
+  {
+    "title": "rolling-scopes-school/tasks",
+    "url": "https://github.com/rolling-scopes-school/tasks",
+    "description": "",
+    "language": "JavaScript",
+    "star": "112"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "Java",
+    "star": "75"
+  },
+  {
+    "title": "Neo23x0/log4shell-detector",
+    "url": "https://github.com/Neo23x0/log4shell-detector",
+    "description": "Detector for Log4Shell exploitation attempts",
+    "language": "Python",
+    "star": "124"
+  },
+  {
+    "title": "inconvergent/weird",
+    "url": "https://github.com/inconvergent/weird",
+    "description": "Generative art in Common Lisp",
+    "language": "Common Lisp",
+    "star": "169"
+  }
+]
