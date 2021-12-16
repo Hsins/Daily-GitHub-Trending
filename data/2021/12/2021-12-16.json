@@ -1,0 +1,177 @@
+[
+  {
+    "title": "QianMo/Game-Programmer-Study-Notes",
+    "url": "https://github.com/QianMo/Game-Programmer-Study-Notes",
+    "description": "⚓ 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.",
+    "language": "none",
+    "star": "430"
+  },
+  {
+    "title": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
+    "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
+    "language": "HTML",
+    "star": "274"
+  },
+  {
+    "title": "lunasec-io/lunasec",
+    "url": "https://github.com/lunasec-io/lunasec",
+    "description": "LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev",
+    "language": "TypeScript",
+    "star": "79"
+  },
+  {
+    "title": "fox-it/log4j-finder",
+    "url": "https://github.com/fox-it/log4j-finder",
+    "description": "Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228 & CVE-2021-45046)",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+    "language": "none",
+    "star": "125"
+  },
+  {
+    "title": "NCSC-NL/log4shell",
+    "url": "https://github.com/NCSC-NL/log4shell",
+    "description": "Operational information regarding the vulnerability in the Log4j logging library.",
+    "language": "none",
+    "star": "433"
+  },
+  {
+    "title": "atmosgames/SuperSimple2DKit",
+    "url": "https://github.com/atmosgames/SuperSimple2DKit",
+    "description": "A simple kit meant to help jump start the creation of your 2D Unity game!",
+    "language": "C#",
+    "star": "25"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "description": "The open-source Shopify alternative ⚡️",
+    "language": "JavaScript",
+    "star": "58"
+  },
+  {
+    "title": "cisagov/log4j-affected-db",
+    "url": "https://github.com/cisagov/log4j-affected-db",
+    "description": "",
+    "language": "none",
+    "star": "201"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "none",
+    "star": "209"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "description": "mold: A Modern Linker",
+    "language": "C++",
+    "star": "405"
+  },
+  {
+    "title": "fullhunt/log4j-scan",
+    "url": "https://github.com/fullhunt/log4j-scan",
+    "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
+    "language": "Python",
+    "star": "374"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "263"
+  },
+  {
+    "title": "anchore/grype",
+    "url": "https://github.com/anchore/grype",
+    "description": "A vulnerability scanner for container images and filesystems",
+    "language": "Go",
+    "star": "193"
+  },
+  {
+    "title": "github/codeql",
+    "url": "https://github.com/github/codeql",
+    "description": "CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise",
+    "language": "CodeQL",
+    "star": "21"
+  },
+  {
+    "title": "osandov/drgn",
+    "url": "https://github.com/osandov/drgn",
+    "description": "Programmable debugger",
+    "language": "C",
+    "star": "73"
+  },
+  {
+    "title": "RedisJSON/RedisJSON",
+    "url": "https://github.com/RedisJSON/RedisJSON",
+    "description": "RedisJSON - a JSON data type for Redis",
+    "language": "Rust",
+    "star": "79"
+  },
+  {
+    "title": "ChendoChap/pOOBs4",
+    "url": "https://github.com/ChendoChap/pOOBs4",
+    "description": "",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "logpresso/CVE-2021-44228-Scanner",
+    "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
+    "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
+    "language": "Java",
+    "star": "110"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "corretto/hotpatch-for-apache-log4j2",
+    "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
+    "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
+    "language": "Java",
+    "star": "84"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "description": "Set up a modern web app by running one command.",
+    "language": "JavaScript",
+    "star": "76"
+  },
+  {
+    "title": "anchore/syft",
+    "url": "https://github.com/anchore/syft",
+    "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "language": "Go",
+    "star": "86"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "64"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "language": "HTML",
+    "star": "243"
+  }
+]
