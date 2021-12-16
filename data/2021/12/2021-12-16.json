@@ -18,7 +18,7 @@
     "url": "https://github.com/lunasec-io/lunasec",
     "description": "LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev",
     "language": "TypeScript",
-    "star": "79"
+    "star": "89"
   },
   {
     "title": "fox-it/log4j-finder",
@@ -32,14 +32,14 @@
     "url": "https://github.com/justjavac/free-programming-books-zh_CN",
     "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
     "language": "none",
-    "star": "125"
+    "star": "129"
   },
   {
     "title": "NCSC-NL/log4shell",
     "url": "https://github.com/NCSC-NL/log4shell",
     "description": "Operational information regarding the vulnerability in the Log4j logging library.",
     "language": "none",
-    "star": "433"
+    "star": "295"
   },
   {
     "title": "atmosgames/SuperSimple2DKit",
@@ -53,7 +53,7 @@
     "url": "https://github.com/medusajs/medusa",
     "description": "The open-source Shopify alternative ⚡️",
     "language": "JavaScript",
-    "star": "58"
+    "star": "64"
   },
   {
     "title": "cisagov/log4j-affected-db",
@@ -67,7 +67,7 @@
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "none",
-    "star": "209"
+    "star": "184"
   },
   {
     "title": "rui314/mold",
@@ -81,7 +81,7 @@
     "url": "https://github.com/fullhunt/log4j-scan",
     "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
     "language": "Python",
-    "star": "374"
+    "star": "363"
   },
   {
     "title": "lapce/lapce",
@@ -95,7 +95,7 @@
     "url": "https://github.com/anchore/grype",
     "description": "A vulnerability scanner for container images and filesystems",
     "language": "Go",
-    "star": "193"
+    "star": "145"
   },
   {
     "title": "github/codeql",
@@ -116,7 +116,7 @@
     "url": "https://github.com/RedisJSON/RedisJSON",
     "description": "RedisJSON - a JSON data type for Redis",
     "language": "Rust",
-    "star": "79"
+    "star": "73"
   },
   {
     "title": "ChendoChap/pOOBs4",
@@ -130,7 +130,7 @@
     "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
     "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
     "language": "Java",
-    "star": "110"
+    "star": "77"
   },
   {
     "title": "bradtraversy/design-resources-for-developers",
@@ -144,7 +144,7 @@
     "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
     "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
     "language": "Java",
-    "star": "84"
+    "star": "97"
   },
   {
     "title": "facebook/create-react-app",
@@ -158,14 +158,14 @@
     "url": "https://github.com/anchore/syft",
     "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
     "language": "Go",
-    "star": "86"
+    "star": "88"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "64"
+    "star": "73"
   },
   {
     "title": "PKUanonym/REKCARC-TSC-UHT",
