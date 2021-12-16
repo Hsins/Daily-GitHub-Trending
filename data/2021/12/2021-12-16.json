@@ -4,21 +4,21 @@
     "url": "https://github.com/QianMo/Game-Programmer-Study-Notes",
     "description": "⚓ 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.",
     "language": "none",
-    "star": "430"
+    "star": "429"
   },
   {
     "title": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
     "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
     "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
     "language": "HTML",
-    "star": "274"
+    "star": "290"
   },
   {
     "title": "lunasec-io/lunasec",
     "url": "https://github.com/lunasec-io/lunasec",
     "description": "LunaSec - Security & Compliance SDKs to stop data leaks in your software. With just a few lines, LunaSec adds a Zero Trust Architecture across your stack, Unique Per-Record Encryption, and protection from common security issues like XSS, SQL Injection, and RCE. Try it out live here: https://app.lunasec.dev",
     "language": "TypeScript",
-    "star": "89"
+    "star": "90"
   },
   {
     "title": "fox-it/log4j-finder",
@@ -32,7 +32,7 @@
     "url": "https://github.com/justjavac/free-programming-books-zh_CN",
     "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
     "language": "none",
-    "star": "129"
+    "star": "132"
   },
   {
     "title": "NCSC-NL/log4shell",
@@ -46,14 +46,14 @@
     "url": "https://github.com/atmosgames/SuperSimple2DKit",
     "description": "A simple kit meant to help jump start the creation of your 2D Unity game!",
     "language": "C#",
-    "star": "25"
+    "star": "27"
   },
   {
     "title": "medusajs/medusa",
     "url": "https://github.com/medusajs/medusa",
     "description": "The open-source Shopify alternative ⚡️",
     "language": "JavaScript",
-    "star": "64"
+    "star": "65"
   },
   {
     "title": "cisagov/log4j-affected-db",
@@ -67,7 +67,7 @@
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "none",
-    "star": "184"
+    "star": "186"
   },
   {
     "title": "rui314/mold",
@@ -81,7 +81,7 @@
     "url": "https://github.com/fullhunt/log4j-scan",
     "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
     "language": "Python",
-    "star": "363"
+    "star": "333"
   },
   {
     "title": "lapce/lapce",
@@ -95,7 +95,7 @@
     "url": "https://github.com/anchore/grype",
     "description": "A vulnerability scanner for container images and filesystems",
     "language": "Go",
-    "star": "145"
+    "star": "146"
   },
   {
     "title": "github/codeql",
@@ -116,7 +116,7 @@
     "url": "https://github.com/RedisJSON/RedisJSON",
     "description": "RedisJSON - a JSON data type for Redis",
     "language": "Rust",
-    "star": "73"
+    "star": "72"
   },
   {
     "title": "ChendoChap/pOOBs4",
@@ -130,7 +130,7 @@
     "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
     "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
     "language": "Java",
-    "star": "77"
+    "star": "64"
   },
   {
     "title": "bradtraversy/design-resources-for-developers",
@@ -144,21 +144,21 @@
     "url": "https://github.com/corretto/hotpatch-for-apache-log4j2",
     "description": "An agent to hotpatch the log4j RCE from CVE-2021-44228.",
     "language": "Java",
-    "star": "97"
+    "star": "91"
   },
   {
     "title": "facebook/create-react-app",
     "url": "https://github.com/facebook/create-react-app",
     "description": "Set up a modern web app by running one command.",
     "language": "JavaScript",
-    "star": "76"
+    "star": "75"
   },
   {
     "title": "anchore/syft",
     "url": "https://github.com/anchore/syft",
     "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
     "language": "Go",
-    "star": "88"
+    "star": "82"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
