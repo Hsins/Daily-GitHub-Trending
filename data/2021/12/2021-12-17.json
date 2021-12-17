@@ -4,14 +4,14 @@
     "url": "https://github.com/kozmer/log4j-shell-poc",
     "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
     "language": "Java",
-    "star": "68"
+    "star": "69"
   },
   {
     "title": "PKUanonym/REKCARC-TSC-UHT",
     "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
     "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
     "language": "HTML",
-    "star": "229"
+    "star": "228"
   },
   {
     "title": "rails/rails",
@@ -25,49 +25,49 @@
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "61"
+    "star": "57"
   },
   {
     "title": "cisagov/log4j-affected-db",
     "url": "https://github.com/cisagov/log4j-affected-db",
     "description": "A community sourced list of log4j-affected software",
     "language": "none",
-    "star": "169"
+    "star": "196"
   },
   {
     "title": "rui314/mold",
     "url": "https://github.com/rui314/mold",
     "description": "mold: A Modern Linker",
     "language": "C++",
-    "star": "512"
+    "star": "425"
   },
   {
     "title": "picocss/pico",
     "url": "https://github.com/picocss/pico",
     "description": "Minimal CSS Framework for semantic HTML",
     "language": "CSS",
-    "star": "328"
+    "star": "329"
   },
   {
     "title": "QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
     "url": "https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection",
     "description": "Real-Time Rendering 4th (RTR4) 参考文献合集典藏 | Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference",
     "language": "HTML",
-    "star": "295"
+    "star": "256"
   },
   {
     "title": "QianMo/Game-Programmer-Study-Notes",
     "url": "https://github.com/QianMo/Game-Programmer-Study-Notes",
     "description": "⚓ 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.",
     "language": "none",
-    "star": "789"
+    "star": "465"
   },
   {
     "title": "justjavac/free-programming-books-zh_CN",
     "url": "https://github.com/justjavac/free-programming-books-zh_CN",
     "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
     "language": "none",
-    "star": "164"
+    "star": "157"
   },
   {
     "title": "LianjiaTech/bruno",
@@ -88,7 +88,7 @@
     "url": "https://github.com/NCSC-NL/log4shell",
     "description": "Operational information regarding the vulnerability in the Log4j logging library.",
     "language": "Python",
-    "star": "255"
+    "star": "206"
   },
   {
     "title": "parallel101/course",
@@ -102,21 +102,21 @@
     "url": "https://github.com/hillu/local-log4j-vuln-scanner",
     "description": "Simple local scanner for vulnerable log4j instances",
     "language": "Go",
-    "star": "61"
+    "star": "60"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "273"
+    "star": "120"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "C",
-    "star": "26"
+    "star": "32"
   },
   {
     "title": "0xsp-SRD/mortar",
@@ -144,21 +144,21 @@
     "url": "https://github.com/fullhunt/log4j-scan",
     "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
     "language": "Python",
-    "star": "226"
+    "star": "207"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "38"
+    "star": "40"
   },
   {
     "title": "fox-it/log4j-finder",
     "url": "https://github.com/fox-it/log4j-finder",
     "description": "Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228 & CVE-2021-45046)",
     "language": "Python",
-    "star": "111"
+    "star": "87"
   },
   {
     "title": "google/mediapipe",
@@ -172,6 +172,6 @@
     "url": "https://github.com/logpresso/CVE-2021-44228-Scanner",
     "description": "Vulnerability scanner and mitigation patch for Log4j2 CVE-2021-44228",
     "language": "Java",
-    "star": "101"
+    "star": "106"
   }
 ]
