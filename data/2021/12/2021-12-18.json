@@ -4,7 +4,7 @@
     "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
     "description": "Scanners for Jar files that may be vulnerable to CVE-2021-44228",
     "language": "PowerShell",
-    "star": "35"
+    "star": "34"
   },
   {
     "title": "signalapp/Signal-Calling-Service",
@@ -18,14 +18,14 @@
     "url": "https://github.com/LunarVim/Neovim-from-scratch",
     "description": "A Neovim config designed from scratch to be understandable",
     "language": "Lua",
-    "star": "77"
+    "star": "81"
   },
   {
     "title": "aristocratos/btop",
     "url": "https://github.com/aristocratos/btop",
     "description": "A monitor of resources",
     "language": "C++",
-    "star": "98"
+    "star": "112"
   },
   {
     "title": "kozmer/log4j-shell-poc",
@@ -60,21 +60,21 @@
     "url": "https://github.com/google/guava",
     "description": "Google core libraries for Java",
     "language": "Java",
-    "star": "23"
+    "star": "25"
   },
   {
     "title": "tiangolo/fastapi",
     "url": "https://github.com/tiangolo/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "star": "72"
+    "star": "82"
   },
   {
     "title": "ytdl-org/youtube-dl",
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "193"
+    "star": "181"
   },
   {
     "title": "cisagov/log4j-affected-db",
@@ -88,28 +88,28 @@
     "url": "https://github.com/justjavac/free-programming-books-zh_CN",
     "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
     "language": "none",
-    "star": "61"
+    "star": "64"
   },
   {
     "title": "jfrog/log4j-tools",
     "url": "https://github.com/jfrog/log4j-tools",
     "description": "",
     "language": "Python",
-    "star": "26"
+    "star": "27"
   },
   {
     "title": "google/mediapipe",
     "url": "https://github.com/google/mediapipe",
     "description": "Cross-platform, customizable ML solutions for live and streaming media.",
     "language": "C++",
-    "star": "126"
+    "star": "124"
   },
   {
     "title": "facebook/create-react-app",
     "url": "https://github.com/facebook/create-react-app",
     "description": "Set up a modern web app by running one command.",
     "language": "JavaScript",
-    "star": "47"
+    "star": "48"
   },
   {
     "title": "fox-it/log4j-finder",
@@ -130,14 +130,14 @@
     "url": "https://github.com/Loopring/loopring-web-v2",
     "description": "Web application version 2, update new UI design.",
     "language": "TypeScript",
-    "star": "27"
+    "star": "29"
   },
   {
     "title": "getify/You-Dont-Know-JS",
     "url": "https://github.com/getify/You-Dont-Know-JS",
     "description": "A book series on JavaScript. @YDKJS on twitter.",
     "language": "none",
-    "star": "44"
+    "star": "47"
   },
   {
     "title": "abpframework/abp",
@@ -151,14 +151,14 @@
     "url": "https://github.com/serverless-stack/serverless-stack",
     "description": "💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps. Set breakpoints and test your functions locally.",
     "language": "TypeScript",
-    "star": "55"
+    "star": "63"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "72"
+    "star": "76"
   },
   {
     "title": "obsproject/obs-studio",
