@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CERTCC/CVE-2021-44228_scanner",
+    "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
+    "description": "Scanners for Jar files that may be vulnerable to CVE-2021-44228",
+    "language": "PowerShell",
+    "star": "35"
+  },
+  {
+    "title": "signalapp/Signal-Calling-Service",
+    "url": "https://github.com/signalapp/Signal-Calling-Service",
+    "description": "Forwards media from 1 group call device to N group call devices.",
+    "language": "Rust",
+    "star": "19"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "description": "A Neovim config designed from scratch to be understandable",
+    "language": "Lua",
+    "star": "77"
+  },
+  {
+    "title": "aristocratos/btop",
+    "url": "https://github.com/aristocratos/btop",
+    "description": "A monitor of resources",
+    "language": "C++",
+    "star": "98"
+  },
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+    "language": "Python",
+    "star": "210"
+  },
+  {
+    "title": "QianMo/Game-Programmer-Study-Notes",
+    "url": "https://github.com/QianMo/Game-Programmer-Study-Notes",
+    "description": "⚓ 我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.",
+    "language": "none",
+    "star": "184"
+  },
+  {
+    "title": "proferosec/log4jScanner",
+    "url": "https://github.com/proferosec/log4jScanner",
+    "description": "",
+    "language": "Go",
+    "star": "33"
+  },
+  {
+    "title": "PKUanonym/REKCARC-TSC-UHT",
+    "url": "https://github.com/PKUanonym/REKCARC-TSC-UHT",
+    "description": "清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University",
+    "language": "HTML",
+    "star": "162"
+  },
+  {
+    "title": "google/guava",
+    "url": "https://github.com/google/guava",
+    "description": "Google core libraries for Java",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "star": "72"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "193"
+  },
+  {
+    "title": "cisagov/log4j-affected-db",
+    "url": "https://github.com/cisagov/log4j-affected-db",
+    "description": "A community sourced list of log4j-affected software",
+    "language": "none",
+    "star": "95"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+    "language": "none",
+    "star": "61"
+  },
+  {
+    "title": "jfrog/log4j-tools",
+    "url": "https://github.com/jfrog/log4j-tools",
+    "description": "",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+    "language": "C++",
+    "star": "126"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "description": "Set up a modern web app by running one command.",
+    "language": "JavaScript",
+    "star": "47"
+  },
+  {
+    "title": "fox-it/log4j-finder",
+    "url": "https://github.com/fox-it/log4j-finder",
+    "description": "Find vulnerable Log4j2 versions on disk and also inside Java Archive Files (Log4Shell CVE-2021-44228, CVE-2021-45046, CVE-2021-45105)",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "description": "🥤 COLA: Clean Object-oriented & Layered Architecture",
+    "language": "Java",
+    "star": "6"
+  },
+  {
+    "title": "Loopring/loopring-web-v2",
+    "url": "https://github.com/Loopring/loopring-web-v2",
+    "description": "Web application version 2, update new UI design.",
+    "language": "TypeScript",
+    "star": "27"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "44"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "description": "Open Source Web Application Framework for ASP.NET Core",
+    "language": "C#",
+    "star": "12"
+  },
+  {
+    "title": "serverless-stack/serverless-stack",
+    "url": "https://github.com/serverless-stack/serverless-stack",
+    "description": "💥 Serverless Stack (SST) is a framework that makes it easy to build serverless apps. Set breakpoints and test your functions locally.",
+    "language": "TypeScript",
+    "star": "55"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "TypeScript",
+    "star": "72"
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "language": "C",
+    "star": "60"
+  },
+  {
+    "title": "niubiqigai/turtle",
+    "url": "https://github.com/niubiqigai/turtle",
+    "description": "使用python的turtle画樱花树，玫瑰，圣诞树，小猪佩奇，蛋糕，小黄人，贪吃蛇游戏61行代码",
+    "language": "Python",
+    "star": "11"
+  }
+]
