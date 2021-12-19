@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Shopify/react-native-skia",
+    "url": "https://github.com/Shopify/react-native-skia",
+    "description": "High-performance React Native Graphics using Skia",
+    "language": "TypeScript",
+    "star": "217"
+  },
+  {
+    "title": "kozmer/log4j-shell-poc",
+    "url": "https://github.com/kozmer/log4j-shell-poc",
+    "description": "A Proof-Of-Concept for the recently found CVE-2021-44228 vulnerability.",
+    "language": "Python",
+    "star": "84"
+  },
+  {
+    "title": "proferosec/log4jScanner",
+    "url": "https://github.com/proferosec/log4jScanner",
+    "description": "",
+    "language": "Go",
+    "star": "48"
+  },
+  {
+    "title": "CERTCC/CVE-2021-44228_scanner",
+    "url": "https://github.com/CERTCC/CVE-2021-44228_scanner",
+    "description": "Scanners for Jar files that may be vulnerable to CVE-2021-44228",
+    "language": "PowerShell",
+    "star": "50"
+  },
+  {
+    "title": "danielyxie/bitburner",
+    "url": "https://github.com/danielyxie/bitburner",
+    "description": "Bitburner Game",
+    "language": "JavaScript",
+    "star": "56"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "19"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "language": "TypeScript",
+    "star": "43"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "description": "A Neovim config designed from scratch to be understandable",
+    "language": "Lua",
+    "star": "116"
+  },
+  {
+    "title": "Code-Pop/Intro-to-Vue-3",
+    "url": "https://github.com/Code-Pop/Intro-to-Vue-3",
+    "description": "Code for Vue Mastery's Intro to Vue 3 course:",
+    "language": "CSS",
+    "star": "12"
+  },
+  {
+    "title": "Revadike/epicgames-freebies-claimer",
+    "url": "https://github.com/Revadike/epicgames-freebies-claimer",
+    "description": "Claim available free game promotions from the Epic Games Store.",
+    "language": "JavaScript",
+    "star": "99"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "description": "📊 Path to a free self-taught education in Data Science!",
+    "language": "none",
+    "star": "47"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "description": "",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "description": "immudb - world’s fastest immutable database, built on a zero trust model",
+    "language": "Go",
+    "star": "101"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "153"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
+    "language": "none",
+    "star": "63"
+  },
+  {
+    "title": "Qualys/log4jscanwin",
+    "url": "https://github.com/Qualys/log4jscanwin",
+    "description": "Log4j Vulnerability Scanner for Windows",
+    "language": "C",
+    "star": "23"
+  },
+  {
+    "title": "back2root/log4shell-rex",
+    "url": "https://github.com/back2root/log4shell-rex",
+    "description": "PCRE RegEx matching Log4Shell CVE-2021-44228 IOC in your logs",
+    "language": "Shell",
+    "star": "52"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Solidity",
+    "star": "19"
+  },
+  {
+    "title": "DavidBuchanan314/ambiguous-png-packer",
+    "url": "https://github.com/DavidBuchanan314/ambiguous-png-packer",
+    "description": "Craft PNG files that appear completely different in Apple software",
+    "language": "Python",
+    "star": "71"
+  },
+  {
+    "title": "jayendrapatil/kubernetes-exercises",
+    "url": "https://github.com/jayendrapatil/kubernetes-exercises",
+    "description": "Collection covers kubernetes exercises categorized topics-wise and referred back to the individual Kubernetes certification exams.",
+    "language": "none",
+    "star": "26"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "C",
+    "star": "25"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "33"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated interview preparation materials for busy engineers",
+    "language": "JavaScript",
+    "star": "55"
+  },
+  {
+    "title": "CollabCodeTech/backend-challenges",
+    "url": "https://github.com/CollabCodeTech/backend-challenges",
+    "description": "A public list of open-source challenges from jobs around the world",
+    "language": "none",
+    "star": "69"
+  },
+  {
+    "title": "kuaifan/dootask",
+    "url": "https://github.com/kuaifan/dootask",
+    "description": "DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。",
+    "language": "PHP",
+    "star": "30"
+  }
+]
