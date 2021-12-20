@@ -1,0 +1,177 @@
+[
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "description": "A Neovim config designed from scratch to be understandable",
+    "language": "Lua",
+    "star": "101"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Solidity",
+    "star": "34"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "407"
+  },
+  {
+    "title": "Shopify/react-native-skia",
+    "url": "https://github.com/Shopify/react-native-skia",
+    "description": "High-performance React Native Graphics using Skia",
+    "language": "TypeScript",
+    "star": "227"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "star": "5"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "48"
+  },
+  {
+    "title": "Revadike/epicgames-freebies-claimer",
+    "url": "https://github.com/Revadike/epicgames-freebies-claimer",
+    "description": "Claim available free game promotions from the Epic Games Store.",
+    "language": "JavaScript",
+    "star": "238"
+  },
+  {
+    "title": "nolanlawson/fuite",
+    "url": "https://github.com/nolanlawson/fuite",
+    "description": "A tool for finding memory leaks in web apps",
+    "language": "JavaScript",
+    "star": "166"
+  },
+  {
+    "title": "danielyxie/bitburner",
+    "url": "https://github.com/danielyxie/bitburner",
+    "description": "Bitburner Game",
+    "language": "JavaScript",
+    "star": "91"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "115"
+  },
+  {
+    "title": "bottlesdevs/Bottles",
+    "url": "https://github.com/bottlesdevs/Bottles",
+    "description": "Easily manage wine prefixes in a new way. Run Windows software and games on Linux",
+    "language": "Python",
+    "star": "339"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "language": "JavaScript",
+    "star": "41"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "description": "📊 Path to a free self-taught education in Data Science!",
+    "language": "none",
+    "star": "129"
+  },
+  {
+    "title": "CollabCodeTech/backend-challenges",
+    "url": "https://github.com/CollabCodeTech/backend-challenges",
+    "description": "A public list of open-source challenges from jobs around the world",
+    "language": "none",
+    "star": "186"
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "description": "A private messenger for Android.",
+    "language": "Java",
+    "star": "9"
+  },
+  {
+    "title": "wez/wezterm",
+    "url": "https://github.com/wez/wezterm",
+    "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
+    "language": "Rust",
+    "star": "40"
+  },
+  {
+    "title": "Stephan-S/FS22_AutoDrive",
+    "url": "https://github.com/Stephan-S/FS22_AutoDrive",
+    "description": "FS22 version of the AutoDrive mod",
+    "language": "Lua",
+    "star": "13"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "language": "TypeScript",
+    "star": "92"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "description": "A cross-platform, OpenGL terminal emulator.",
+    "language": "Rust",
+    "star": "21"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "description": "List of Development YouTube Channels",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "62"
+  },
+  {
+    "title": "LianjiaTech/bruno",
+    "url": "https://github.com/LianjiaTech/bruno",
+    "description": "Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.",
+    "language": "Dart",
+    "star": "83"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot",
+    "language": "Python",
+    "star": "17"
+  }
+]
