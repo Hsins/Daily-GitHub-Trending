@@ -11,21 +11,21 @@
     "url": "https://github.com/ethereum/EIPs",
     "description": "The Ethereum Improvement Proposal repository",
     "language": "Solidity",
-    "star": "34"
+    "star": "25"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "407"
+    "star": "322"
   },
   {
     "title": "Shopify/react-native-skia",
     "url": "https://github.com/Shopify/react-native-skia",
     "description": "High-performance React Native Graphics using Skia",
     "language": "TypeScript",
-    "star": "227"
+    "star": "284"
   },
   {
     "title": "MarlinFirmware/Marlin",
@@ -39,28 +39,28 @@
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "48"
+    "star": "49"
   },
   {
     "title": "Revadike/epicgames-freebies-claimer",
     "url": "https://github.com/Revadike/epicgames-freebies-claimer",
     "description": "Claim available free game promotions from the Epic Games Store.",
     "language": "JavaScript",
-    "star": "238"
+    "star": "244"
   },
   {
     "title": "nolanlawson/fuite",
     "url": "https://github.com/nolanlawson/fuite",
     "description": "A tool for finding memory leaks in web apps",
     "language": "JavaScript",
-    "star": "166"
+    "star": "167"
   },
   {
     "title": "danielyxie/bitburner",
     "url": "https://github.com/danielyxie/bitburner",
     "description": "Bitburner Game",
     "language": "JavaScript",
-    "star": "91"
+    "star": "95"
   },
   {
     "title": "xinntao/Real-ESRGAN",
@@ -95,14 +95,14 @@
     "url": "https://github.com/ossu/data-science",
     "description": "📊 Path to a free self-taught education in Data Science!",
     "language": "none",
-    "star": "129"
+    "star": "132"
   },
   {
     "title": "CollabCodeTech/backend-challenges",
     "url": "https://github.com/CollabCodeTech/backend-challenges",
     "description": "A public list of open-source challenges from jobs around the world",
     "language": "none",
-    "star": "186"
+    "star": "194"
   },
   {
     "title": "signalapp/Signal-Android",
@@ -116,7 +116,7 @@
     "url": "https://github.com/wez/wezterm",
     "description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust",
     "language": "Rust",
-    "star": "40"
+    "star": "50"
   },
   {
     "title": "Stephan-S/FS22_AutoDrive",
@@ -130,21 +130,21 @@
     "url": "https://github.com/laurent22/joplin",
     "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
     "language": "TypeScript",
-    "star": "92"
+    "star": "68"
   },
   {
     "title": "521xueweihan/HelloGitHub",
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "79"
+    "star": "74"
   },
   {
     "title": "alacritty/alacritty",
     "url": "https://github.com/alacritty/alacritty",
     "description": "A cross-platform, OpenGL terminal emulator.",
     "language": "Rust",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "ErikCH/DevYouTubeList",
@@ -158,7 +158,7 @@
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "62"
+    "star": "64"
   },
   {
     "title": "LianjiaTech/bruno",
@@ -172,6 +172,6 @@
     "url": "https://github.com/freqtrade/freqtrade",
     "description": "Free, open source crypto trading bot",
     "language": "Python",
-    "star": "17"
+    "star": "18"
   }
 ]
