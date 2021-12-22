@@ -4,14 +4,14 @@
     "url": "https://github.com/freqtrade/freqtrade",
     "description": "Free, open source crypto trading bot",
     "language": "Python",
-    "star": "132"
+    "star": "138"
   },
   {
     "title": "codenotary/immudb",
     "url": "https://github.com/codenotary/immudb",
     "description": "immudb - world’s fastest immutable database, built on a zero trust model",
     "language": "Go",
-    "star": "440"
+    "star": "237"
   },
   {
     "title": "bytedance/btrace",
@@ -32,7 +32,7 @@
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "8"
+    "star": "9"
   },
   {
     "title": "vitest-dev/vitest",
@@ -60,7 +60,7 @@
     "url": "https://github.com/prisma/prisma",
     "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
     "language": "TypeScript",
-    "star": "37"
+    "star": "23"
   },
   {
     "title": "LunarVim/Neovim-from-scratch",
@@ -74,21 +74,21 @@
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。",
     "language": "Java",
-    "star": "328"
+    "star": "263"
   },
   {
     "title": "Vonng/ddia",
     "url": "https://github.com/Vonng/ddia",
     "description": "《Designing Data-Intensive Application》DDIA中文翻译",
     "language": "Python",
-    "star": "39"
+    "star": "37"
   },
   {
     "title": "ossu/data-science",
     "url": "https://github.com/ossu/data-science",
     "description": "📊 Path to a free self-taught education in Data Science!",
     "language": "none",
-    "star": "161"
+    "star": "159"
   },
   {
     "title": "dabeaz/dataklasses",
@@ -102,7 +102,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "47"
+    "star": "44"
   },
   {
     "title": "ErikCH/DevYouTubeList",
@@ -144,14 +144,14 @@
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "63"
+    "star": "68"
   },
   {
     "title": "discordjs/discord.js",
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "29"
+    "star": "25"
   },
   {
     "title": "angular/angular-cli",
@@ -172,6 +172,6 @@
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "36"
+    "star": "28"
   }
 ]
