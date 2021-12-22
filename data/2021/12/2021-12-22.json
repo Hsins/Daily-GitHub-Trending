@@ -1,0 +1,177 @@
+[
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot",
+    "language": "Python",
+    "star": "71"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "description": "immudb - world’s fastest immutable database, built on a zero trust model",
+    "language": "Go",
+    "star": "438"
+  },
+  {
+    "title": "bytedance/btrace",
+    "url": "https://github.com/bytedance/btrace",
+    "description": "🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",
+    "language": "Kotlin",
+    "star": "36"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Solidity",
+    "star": "50"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "8"
+  },
+  {
+    "title": "vitest-dev/vitest",
+    "url": "https://github.com/vitest-dev/vitest",
+    "description": "A Vite-native test framework. It's fast!",
+    "language": "TypeScript",
+    "star": "309"
+  },
+  {
+    "title": "EmbarkStudios/kajiya",
+    "url": "https://github.com/EmbarkStudios/kajiya",
+    "description": "💡 Experimental real-time global illumination renderer 🦀",
+    "language": "Rust",
+    "star": "212"
+  },
+  {
+    "title": "RedisJSON/RedisJSON",
+    "url": "https://github.com/RedisJSON/RedisJSON",
+    "description": "RedisJSON - a JSON data type for Redis",
+    "language": "Rust",
+    "star": "117"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
+    "language": "TypeScript",
+    "star": "23"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "description": "A Neovim config designed from scratch to be understandable",
+    "language": "Lua",
+    "star": "52"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。",
+    "language": "Java",
+    "star": "254"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "description": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "language": "Python",
+    "star": "41"
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "description": "📊 Path to a free self-taught education in Data Science!",
+    "language": "none",
+    "star": "156"
+  },
+  {
+    "title": "dabeaz/dataklasses",
+    "url": "https://github.com/dabeaz/dataklasses",
+    "description": "A different spin on dataclasses.",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "46"
+  },
+  {
+    "title": "ErikCH/DevYouTubeList",
+    "url": "https://github.com/ErikCH/DevYouTubeList",
+    "description": "List of Development YouTube Channels",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "Maelstromage/Log4jSherlock",
+    "url": "https://github.com/Maelstromage/Log4jSherlock",
+    "description": "",
+    "language": "PowerShell",
+    "star": "15"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "175"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "language": "Zig",
+    "star": "30"
+  },
+  {
+    "title": "Rari-Capital/solmate",
+    "url": "https://github.com/Rari-Capital/solmate",
+    "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "language": "Solidity",
+    "star": "41"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "62"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "29"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
+    "language": "TypeScript",
+    "star": "5"
+  },
+  {
+    "title": "apache/incubator-shenyu",
+    "url": "https://github.com/apache/incubator-shenyu",
+    "description": "ShenYu is High-Performance Java API Gateway.",
+    "language": "Java",
+    "star": "49"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "30"
+  }
+]
