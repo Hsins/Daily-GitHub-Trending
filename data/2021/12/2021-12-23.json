@@ -1,0 +1,177 @@
+[
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "language": "JavaScript",
+    "star": "143"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "The automation tower defense game",
+    "language": "Java",
+    "star": "25"
+  },
+  {
+    "title": "phoboslab/qoi",
+    "url": "https://github.com/phoboslab/qoi",
+    "description": "The “Quite OK Image Format” for fast, lossless image compression",
+    "language": "C",
+    "star": "179"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "description": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "language": "Python",
+    "star": "111"
+  },
+  {
+    "title": "ssssssss-team/spider-flow",
+    "url": "https://github.com/ssssssss-team/spider-flow",
+    "description": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。",
+    "language": "Java",
+    "star": "213"
+  },
+  {
+    "title": "kuaifan/dootask",
+    "url": "https://github.com/kuaifan/dootask",
+    "description": "DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。",
+    "language": "PHP",
+    "star": "85"
+  },
+  {
+    "title": "codenotary/immudb",
+    "url": "https://github.com/codenotary/immudb",
+    "description": "immudb - world’s fastest immutable database, built on a zero trust model",
+    "language": "Go",
+    "star": "356"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "description": "Free, open source crypto trading bot",
+    "language": "Python",
+    "star": "84"
+  },
+  {
+    "title": "samuelmtimbo/unit",
+    "url": "https://github.com/samuelmtimbo/unit",
+    "description": "Next Generation Visual Programming Platform",
+    "language": "TypeScript",
+    "star": "105"
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。",
+    "language": "Java",
+    "star": "261"
+  },
+  {
+    "title": "CompVis/latent-diffusion",
+    "url": "https://github.com/CompVis/latent-diffusion",
+    "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "language": "Python",
+    "star": "29"
+  },
+  {
+    "title": "louisfb01/best_AI_papers_2021",
+    "url": "https://github.com/louisfb01/best_AI_papers_2021",
+    "description": "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code. [work in progress]",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "microsoft/api-guidelines",
+    "url": "https://github.com/microsoft/api-guidelines",
+    "description": "Microsoft REST API Guidelines",
+    "language": "none",
+    "star": "36"
+  },
+  {
+    "title": "ethereum/ethereum-org-website",
+    "url": "https://github.com/ethereum/ethereum-org-website",
+    "description": "Ethereum.org is a primary online resource for the Ethereum community.",
+    "language": "JavaScript",
+    "star": "21"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
+    "language": "TypeScript",
+    "star": "133"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "41"
+  },
+  {
+    "title": "ornicar/lila",
+    "url": "https://github.com/ornicar/lila",
+    "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "language": "Scala",
+    "star": "50"
+  },
+  {
+    "title": "dabeaz/dataklasses",
+    "url": "https://github.com/dabeaz/dataklasses",
+    "description": "A different spin on dataclasses.",
+    "language": "Python",
+    "star": "104"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "104"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "EmbarkStudios/kajiya",
+    "url": "https://github.com/EmbarkStudios/kajiya",
+    "description": "💡 Experimental real-time global illumination renderer 🦀",
+    "language": "Rust",
+    "star": "183"
+  },
+  {
+    "title": "bozbez/win-capture-audio",
+    "url": "https://github.com/bozbez/win-capture-audio",
+    "description": "An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "vitest-dev/vitest",
+    "url": "https://github.com/vitest-dev/vitest",
+    "description": "A Vite-native test framework. It's fast!",
+    "language": "TypeScript",
+    "star": "333"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "description": "100 Days of ML Coding",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "description": "World's fastest and most advanced password recovery utility",
+    "language": "C",
+    "star": "21"
+  }
+]
