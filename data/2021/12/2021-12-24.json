@@ -4,7 +4,7 @@
     "url": "https://github.com/cisagov/log4j-scanner",
     "description": "log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.",
     "language": "Java",
-    "star": "156"
+    "star": "155"
   },
   {
     "title": "airbnb/javascript",
@@ -60,7 +60,7 @@
     "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰。",
     "language": "Java",
-    "star": "167"
+    "star": "168"
   },
   {
     "title": "EmbarkStudios/kajiya",
@@ -137,7 +137,7 @@
     "url": "https://github.com/dani-garcia/vaultwarden",
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
     "language": "Rust",
-    "star": "167"
+    "star": "153"
   },
   {
     "title": "tiangolo/sqlmodel",
@@ -151,7 +151,7 @@
     "url": "https://github.com/gakonst/solidity-book",
     "description": "The Senior Solidity Engineer's Book is a resource meant to transform you into a Senior Solidity Engineer.",
     "language": "Makefile",
-    "star": "48"
+    "star": "50"
   },
   {
     "title": "marktext/marktext",
@@ -172,6 +172,6 @@
     "url": "https://github.com/microsoft/unilm",
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "language": "Python",
-    "star": "31"
+    "star": "34"
   }
 ]
