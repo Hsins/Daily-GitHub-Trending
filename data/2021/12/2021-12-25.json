@@ -1,0 +1,177 @@
+[
+  {
+    "title": "cisagov/log4j-scanner",
+    "url": "https://github.com/cisagov/log4j-scanner",
+    "description": "log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.",
+    "language": "Java",
+    "star": "141"
+  },
+  {
+    "title": "open-mmlab/mmrazor",
+    "url": "https://github.com/open-mmlab/mmrazor",
+    "description": "OpenMMLab Model Compression Toolbox and Benchmark.",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "sxyu/svox2",
+    "url": "https://github.com/sxyu/svox2",
+    "description": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "mpcabete/bombcrypto-bot",
+    "url": "https://github.com/mpcabete/bombcrypto-bot",
+    "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "The automation tower defense game",
+    "language": "Java",
+    "star": "34"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "language": "JavaScript",
+    "star": "204"
+  },
+  {
+    "title": "h3r2tic/cornell-mcray",
+    "url": "https://github.com/h3r2tic/cornell-mcray",
+    "description": "🕹 A quick'n'dirty game sample using kajiya, physx-rs, and dolly",
+    "language": "Rust",
+    "star": "48"
+  },
+  {
+    "title": "d2forum/16th",
+    "url": "https://github.com/d2forum/16th",
+    "description": "第十六届D2前端技术论坛「精心」",
+    "language": "none",
+    "star": "11"
+  },
+  {
+    "title": "mehdihadeli/awesome-go-education",
+    "url": "https://github.com/mehdihadeli/awesome-go-education",
+    "description": "A curated list of awesome articles and resources for learning and practicing Go and its related technologies.",
+    "language": "Go",
+    "star": "54"
+  },
+  {
+    "title": "Tencent/tdesign-react",
+    "url": "https://github.com/Tencent/tdesign-react",
+    "description": "A React UI components lib for TDesign.",
+    "language": "TypeScript",
+    "star": "31"
+  },
+  {
+    "title": "fanux/sealos",
+    "url": "https://github.com/fanux/sealos",
+    "description": "一条命令离线安装高可用kubernetes，3min装完，700M，100年证书，版本不要太全，生产环境稳如老狗",
+    "language": "Go",
+    "star": "59"
+  },
+  {
+    "title": "Tencent/tdesign",
+    "url": "https://github.com/Tencent/tdesign",
+    "description": "Enterprise Design System",
+    "language": "none",
+    "star": "145"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "description": "Create desktop apps using Go and Web Technologies.",
+    "language": "Go",
+    "star": "50"
+  },
+  {
+    "title": "ssssssss-team/spider-flow",
+    "url": "https://github.com/ssssssss-team/spider-flow",
+    "description": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。",
+    "language": "Java",
+    "star": "69"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "206"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "333"
+  },
+  {
+    "title": "wader/fq",
+    "url": "https://github.com/wader/fq",
+    "description": "jq for binary formats",
+    "language": "Go",
+    "star": "342"
+  },
+  {
+    "title": "easychen/pushdeer",
+    "url": "https://github.com/easychen/pushdeer",
+    "description": "开放源码的无App推送服务，🚧 WIP",
+    "language": "PHP",
+    "star": "28"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "123"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "16"
+  },
+  {
+    "title": "prisma/prisma",
+    "url": "https://github.com/prisma/prisma",
+    "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)",
+    "language": "TypeScript",
+    "star": "159"
+  },
+  {
+    "title": "Tencent/tdesign-vue-next",
+    "url": "https://github.com/Tencent/tdesign-vue-next",
+    "description": "A Vue3.x UI components lib for TDesign.",
+    "language": "TypeScript",
+    "star": "27"
+  },
+  {
+    "title": "bozbez/win-capture-audio",
+    "url": "https://github.com/bozbez/win-capture-audio",
+    "description": "An OBS plugin that allows capture of independant application audio streams on Windows, in a similar fashion to OBS's game capture and Discord's application streaming.",
+    "language": "C++",
+    "star": "22"
+  },
+  {
+    "title": "Courseplay/courseplay",
+    "url": "https://github.com/Courseplay/courseplay",
+    "description": "Courseplay for Farming Simulator 2019",
+    "language": "Lua",
+    "star": "10"
+  },
+  {
+    "title": "freeCodeCamp/LearnToCodeRPG",
+    "url": "https://github.com/freeCodeCamp/LearnToCodeRPG",
+    "description": "A visual novel video game where you learn to code and get a dev job 🎯",
+    "language": "Ren'Py",
+    "star": "69"
+  }
+]
