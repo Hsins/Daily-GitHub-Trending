@@ -4,7 +4,7 @@
     "url": "https://github.com/cisagov/log4j-scanner",
     "description": "log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.",
     "language": "Java",
-    "star": "141"
+    "star": "140"
   },
   {
     "title": "open-mmlab/mmrazor",
@@ -18,21 +18,21 @@
     "url": "https://github.com/sxyu/svox2",
     "description": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
     "language": "Python",
-    "star": "47"
+    "star": "49"
   },
   {
     "title": "mpcabete/bombcrypto-bot",
     "url": "https://github.com/mpcabete/bombcrypto-bot",
     "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
     "language": "Python",
-    "star": "25"
+    "star": "26"
   },
   {
     "title": "Anuken/Mindustry",
     "url": "https://github.com/Anuken/Mindustry",
     "description": "The automation tower defense game",
     "language": "Java",
-    "star": "34"
+    "star": "36"
   },
   {
     "title": "marktext/marktext",
@@ -46,7 +46,7 @@
     "url": "https://github.com/h3r2tic/cornell-mcray",
     "description": "🕹 A quick'n'dirty game sample using kajiya, physx-rs, and dolly",
     "language": "Rust",
-    "star": "48"
+    "star": "50"
   },
   {
     "title": "d2forum/16th",
@@ -60,7 +60,7 @@
     "url": "https://github.com/mehdihadeli/awesome-go-education",
     "description": "A curated list of awesome articles and resources for learning and practicing Go and its related technologies.",
     "language": "Go",
-    "star": "54"
+    "star": "58"
   },
   {
     "title": "Tencent/tdesign-react",
@@ -81,7 +81,7 @@
     "url": "https://github.com/Tencent/tdesign",
     "description": "Enterprise Design System",
     "language": "none",
-    "star": "145"
+    "star": "142"
   },
   {
     "title": "wailsapp/wails",
@@ -123,7 +123,7 @@
     "url": "https://github.com/easychen/pushdeer",
     "description": "开放源码的无App推送服务，🚧 WIP",
     "language": "PHP",
-    "star": "28"
+    "star": "30"
   },
   {
     "title": "airbnb/javascript",
@@ -172,6 +172,6 @@
     "url": "https://github.com/freeCodeCamp/LearnToCodeRPG",
     "description": "A visual novel video game where you learn to code and get a dev job 🎯",
     "language": "Ren'Py",
-    "star": "69"
+    "star": "71"
   }
 ]
