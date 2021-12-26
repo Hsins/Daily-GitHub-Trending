@@ -4,21 +4,21 @@
     "url": "https://github.com/mkrl/misbrands",
     "description": "The world's most hated IT stickers",
     "language": "none",
-    "star": "563"
+    "star": "561"
   },
   {
     "title": "babysor/MockingBird",
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "JavaScript",
-    "star": "142"
+    "star": "168"
   },
   {
     "title": "mpcabete/bombcrypto-bot",
     "url": "https://github.com/mpcabete/bombcrypto-bot",
     "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
     "language": "Python",
-    "star": "39"
+    "star": "36"
   },
   {
     "title": "TeamNewPipe/NewPipe",
@@ -32,21 +32,21 @@
     "url": "https://github.com/marktext/marktext",
     "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
     "language": "JavaScript",
-    "star": "324"
+    "star": "446"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "121"
+    "star": "120"
   },
   {
     "title": "zeldaret/oot",
     "url": "https://github.com/zeldaret/oot",
     "description": "Decompilation of The Legend of Zelda: Ocarina of Time",
     "language": "C",
-    "star": "29"
+    "star": "30"
   },
   {
     "title": "airbnb/javascript",
@@ -60,7 +60,7 @@
     "url": "https://github.com/teslamotors/light-show",
     "description": "Tesla Light Show",
     "language": "Python",
-    "star": "277"
+    "star": "276"
   },
   {
     "title": "alesimula/wsa_pacman",
@@ -74,49 +74,49 @@
     "url": "https://github.com/Courseplay/Courseplay_FS22",
     "description": "Courseplay for Farming Simulator 2022",
     "language": "Lua",
-    "star": "40"
+    "star": "39"
   },
   {
     "title": "cisagov/log4j-scanner",
     "url": "https://github.com/cisagov/log4j-scanner",
     "description": "log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.",
     "language": "Java",
-    "star": "133"
+    "star": "139"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
     "url": "https://github.com/dair-ai/ML-YouTube-Courses",
     "description": "A repository to index and organize the latest machine learning courses found on YouTube.",
     "language": "none",
-    "star": "44"
+    "star": "42"
   },
   {
     "title": "R2Northstar/Northstar",
     "url": "https://github.com/R2Northstar/Northstar",
     "description": "Repo for packaged Northstar releases and the wiki",
     "language": "none",
-    "star": "92"
+    "star": "82"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "36"
+    "star": "38"
   },
   {
     "title": "R2Northstar/NorthstarMods",
     "url": "https://github.com/R2Northstar/NorthstarMods",
     "description": "Mods used for hosting Titanfall 2 custom servers, requires the northstar launcher to use",
     "language": "Squirrel",
-    "star": "13"
+    "star": "11"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "77"
+    "star": "108"
   },
   {
     "title": "gto76/python-cheatsheet",
@@ -137,41 +137,41 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "106"
+    "star": "129"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "383"
+    "star": "388"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "204"
+    "star": "203"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "158"
+    "star": "160"
   },
   {
     "title": "JustArchiNET/ArchiSteamFarm",
     "url": "https://github.com/JustArchiNET/ArchiSteamFarm",
     "description": "C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.",
     "language": "C#",
-    "star": "13"
+    "star": "17"
   },
   {
     "title": "Tencent/tdesign-vue-next",
     "url": "https://github.com/Tencent/tdesign-vue-next",
     "description": "A Vue3.x UI components lib for TDesign.",
     "language": "TypeScript",
-    "star": "35"
+    "star": "44"
   }
 ]
