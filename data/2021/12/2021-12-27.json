@@ -1,177 +1,177 @@
 [
   {
-    "title": "mkrl/misbrands",
-    "url": "https://github.com/mkrl/misbrands",
-    "description": "The world's most hated IT stickers",
-    "language": "none",
-    "star": "747"
-  },
-  {
-    "title": "babysor/MockingBird",
-    "url": "https://github.com/babysor/MockingBird",
-    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
-    "language": "JavaScript",
-    "star": "404"
-  },
-  {
-    "title": "mpcabete/bombcrypto-bot",
-    "url": "https://github.com/mpcabete/bombcrypto-bot",
-    "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
+    "title": "teslamotors/light-show",
+    "url": "https://github.com/teslamotors/light-show",
+    "description": "Tesla Light Show",
     "language": "Python",
-    "star": "38"
+    "star": "291"
   },
   {
-    "title": "TeamNewPipe/NewPipe",
-    "url": "https://github.com/TeamNewPipe/NewPipe",
-    "description": "A libre lightweight streaming front-end for Android.",
-    "language": "Java",
-    "star": "84"
-  },
-  {
-    "title": "marktext/marktext",
-    "url": "https://github.com/marktext/marktext",
-    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
-    "language": "JavaScript",
-    "star": "445"
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "description": "LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "language": "none",
+    "star": "42"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "169"
-  },
-  {
-    "title": "zeldaret/oot",
-    "url": "https://github.com/zeldaret/oot",
-    "description": "Decompilation of The Legend of Zelda: Ocarina of Time",
-    "language": "C",
-    "star": "54"
-  },
-  {
-    "title": "airbnb/javascript",
-    "url": "https://github.com/airbnb/javascript",
-    "description": "JavaScript Style Guide",
-    "language": "JavaScript",
-    "star": "97"
-  },
-  {
-    "title": "teslamotors/light-show",
-    "url": "https://github.com/teslamotors/light-show",
-    "description": "Tesla Light Show",
-    "language": "Python",
-    "star": "287"
-  },
-  {
-    "title": "alesimula/wsa_pacman",
-    "url": "https://github.com/alesimula/wsa_pacman",
-    "description": "A GUI package manager and package installer for Windows Subsystem for Android (WSA)",
-    "language": "Dart",
-    "star": "155"
+    "star": "161"
   },
   {
     "title": "Courseplay/Courseplay_FS22",
     "url": "https://github.com/Courseplay/Courseplay_FS22",
     "description": "Courseplay for Farming Simulator 2022",
     "language": "Lua",
-    "star": "35"
-  },
-  {
-    "title": "cisagov/log4j-scanner",
-    "url": "https://github.com/cisagov/log4j-scanner",
-    "description": "log4j-scanner is a project derived from other members of the open-source community by CISA to help organizations identify potentially vulnerable web services affected by the log4j vulnerabilities.",
-    "language": "Java",
-    "star": "124"
-  },
-  {
-    "title": "dair-ai/ML-YouTube-Courses",
-    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
-    "description": "A repository to index and organize the latest machine learning courses found on YouTube.",
-    "language": "none",
-    "star": "94"
-  },
-  {
-    "title": "R2Northstar/Northstar",
-    "url": "https://github.com/R2Northstar/Northstar",
-    "description": "Repo for packaged Northstar releases and the wiki",
-    "language": "none",
-    "star": "76"
+    "star": "36"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "66"
-  },
-  {
-    "title": "R2Northstar/NorthstarMods",
-    "url": "https://github.com/R2Northstar/NorthstarMods",
-    "description": "Mods used for hosting Titanfall 2 custom servers, requires the northstar launcher to use",
-    "language": "Squirrel",
-    "star": "20"
-  },
-  {
-    "title": "trekhleb/javascript-algorithms",
-    "url": "https://github.com/trekhleb/javascript-algorithms",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
-    "language": "JavaScript",
-    "star": "165"
-  },
-  {
-    "title": "gto76/python-cheatsheet",
-    "url": "https://github.com/gto76/python-cheatsheet",
-    "description": "Comprehensive Python Cheatsheet",
-    "language": "Python",
-    "star": "271"
-  },
-  {
-    "title": "freeCodeCamp/LearnToCodeRPG",
-    "url": "https://github.com/freeCodeCamp/LearnToCodeRPG",
-    "description": "A visual novel video game where you learn to code and get a dev job 🎯",
-    "language": "Ren'Py",
-    "star": "164"
+    "star": "57"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "170"
+    "star": "195"
+  },
+  {
+    "title": "R2Northstar/Northstar",
+    "url": "https://github.com/R2Northstar/Northstar",
+    "description": "Repo for packaged Northstar releases and the wiki",
+    "language": "none",
+    "star": "68"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "442"
+    "star": "444"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "200"
+  },
+  {
+    "title": "alesimula/wsa_pacman",
+    "url": "https://github.com/alesimula/wsa_pacman",
+    "description": "A GUI package manager and package installer for Windows Subsystem for Android (WSA)",
+    "language": "Dart",
+    "star": "153"
+  },
+  {
+    "title": "mpcabete/bombcrypto-bot",
+    "url": "https://github.com/mpcabete/bombcrypto-bot",
+    "description": "This is a python bot that automatically logs in, clicks the new button, and sends heroes to work in the bombcrypto game. It is fully open source and free.",
+    "language": "Python",
+    "star": "40"
+  },
+  {
+    "title": "Hackmanit/Web-Cache-Vulnerability-Scanner",
+    "url": "https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner",
+    "description": "Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (http://hackmanit.de/).",
+    "language": "Go",
+    "star": "33"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "JavaScript",
+    "star": "301"
+  },
+  {
+    "title": "Tinkoff/taiga-ui",
+    "url": "https://github.com/Tinkoff/taiga-ui",
+    "description": "Angular UI Kit and components library for awesome people",
+    "language": "TypeScript",
+    "star": "20"
+  },
+  {
+    "title": "mkrl/misbrands",
+    "url": "https://github.com/mkrl/misbrands",
+    "description": "The world's most hated IT stickers",
+    "language": "none",
+    "star": "756"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "265"
+    "star": "288"
   },
   {
-    "title": "awesome-selfhosted/awesome-selfhosted",
-    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-    "language": "JavaScript",
-    "star": "249"
+    "title": "notthebee/infra",
+    "url": "https://github.com/notthebee/infra",
+    "description": "IaC for my Linux/Unix machines",
+    "language": "Jinja",
+    "star": "27"
   },
   {
-    "title": "JustArchiNET/ArchiSteamFarm",
-    "url": "https://github.com/JustArchiNET/ArchiSteamFarm",
-    "description": "C# application with primary purpose of idling Steam cards from multiple accounts simultaneously.",
-    "language": "C#",
-    "star": "55"
-  },
-  {
-    "title": "Tencent/tdesign-vue-next",
-    "url": "https://github.com/Tencent/tdesign-vue-next",
-    "description": "A Vue3.x UI components lib for TDesign.",
+    "title": "bangle-io/bangle-io",
+    "url": "https://github.com/bangle-io/bangle-io",
+    "description": "A web only WYSIWYG note taking app that saves notes locally in markdown format.",
     "language": "TypeScript",
-    "star": "51"
+    "star": "32"
+  },
+  {
+    "title": "Dapp-Learning-DAO/Dapp-Learning",
+    "url": "https://github.com/Dapp-Learning-DAO/Dapp-Learning",
+    "description": "",
+    "language": "Solidity",
+    "star": "10"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "description": "The fastest way to build Svelte apps",
+    "language": "JavaScript",
+    "star": "18"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "46"
+  },
+  {
+    "title": "jose-elias-alvarez/null-ls.nvim",
+    "url": "https://github.com/jose-elias-alvarez/null-ls.nvim",
+    "description": "Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.",
+    "language": "Lua",
+    "star": "4"
+  },
+  {
+    "title": "R2Northstar/NorthstarLauncher",
+    "url": "https://github.com/R2Northstar/NorthstarLauncher",
+    "description": "Launcher used to modify titanfall 2 to allow mods to be loaded",
+    "language": "C",
+    "star": "10"
+  },
+  {
+    "title": "darkreader/darkreader",
+    "url": "https://github.com/darkreader/darkreader",
+    "description": "Dark Reader Chrome and Firefox extension",
+    "language": "TypeScript",
+    "star": "21"
+  },
+  {
+    "title": "Aircoookie/WLED",
+    "url": "https://github.com/Aircoookie/WLED",
+    "description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "language": "C++",
+    "star": "13"
   }
 ]
