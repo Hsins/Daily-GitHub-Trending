@@ -4,63 +4,63 @@
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "JavaScript",
-    "star": "292"
+    "star": "305"
   },
   {
     "title": "apache/maven-mvnd",
     "url": "https://github.com/apache/maven-mvnd",
     "description": "Apache Maven Daemon",
     "language": "Java",
-    "star": "60"
+    "star": "63"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "245"
+    "star": "242"
   },
   {
     "title": "fanux/sealos",
     "url": "https://github.com/fanux/sealos",
     "description": "一条命令离线安装高可用kubernetes，3min装完，500M，100年证书，版本不要太全，生产环境稳如老狗",
     "language": "Go",
-    "star": "268"
+    "star": "266"
   },
   {
     "title": "gto76/python-cheatsheet",
     "url": "https://github.com/gto76/python-cheatsheet",
     "description": "Comprehensive Python Cheatsheet",
     "language": "Python",
-    "star": "193"
+    "star": "196"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "226"
+    "star": "246"
   },
   {
     "title": "widevinedump/WV-AMZN-4K-RIPPER",
     "url": "https://github.com/widevinedump/WV-AMZN-4K-RIPPER",
     "description": "Tool To download Amazon 4k SDR HDR 1080, CDM IS Not Included",
     "language": "Python",
-    "star": "51"
+    "star": "52"
   },
   {
     "title": "crater-invoice/crater",
     "url": "https://github.com/crater-invoice/crater",
     "description": "Open Source Invoicing Solution for Individuals & Businesses",
     "language": "PHP",
-    "star": "57"
+    "star": "52"
   },
   {
     "title": "marktext/marktext",
     "url": "https://github.com/marktext/marktext",
     "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
     "language": "JavaScript",
-    "star": "469"
+    "star": "396"
   },
   {
     "title": "ValdikSS/GoodbyeDPI",
@@ -102,7 +102,7 @@
     "url": "https://github.com/ssssssss-team/spider-flow",
     "description": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。",
     "language": "Java",
-    "star": "139"
+    "star": "138"
   },
   {
     "title": "bevyengine/bevy",
@@ -116,7 +116,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "188"
+    "star": "202"
   },
   {
     "title": "danistefanovic/build-your-own-x",
@@ -137,28 +137,28 @@
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "243"
+    "star": "239"
   },
   {
     "title": "mkrl/misbrands",
     "url": "https://github.com/mkrl/misbrands",
     "description": "The world's most hated IT stickers",
     "language": "none",
-    "star": "523"
+    "star": "537"
   },
   {
     "title": "solana-labs/token-list",
     "url": "https://github.com/solana-labs/token-list",
     "description": "The community maintained Solana token registry",
     "language": "Go",
-    "star": "8"
+    "star": "5"
   },
   {
     "title": "youngyangyang04/leetcode-master",
     "url": "https://github.com/youngyangyang04/leetcode-master",
     "description": "LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
     "language": "none",
-    "star": "242"
+    "star": "218"
   },
   {
     "title": "GitHubDaily/GitHubDaily",
@@ -172,6 +172,6 @@
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "225"
+    "star": "227"
   }
 ]
