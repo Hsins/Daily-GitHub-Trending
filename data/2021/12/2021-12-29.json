@@ -1,75 +1,5 @@
 [
   {
-    "title": "widevinedump/Netflix-4K-Script",
-    "url": "https://github.com/widevinedump/Netflix-4K-Script",
-    "description": "Tool to download Netflix in 4k",
-    "language": "Python",
-    "star": "204"
-  },
-  {
-    "title": "widevinedump/DISNEY-4K-SCRIPT",
-    "url": "https://github.com/widevinedump/DISNEY-4K-SCRIPT",
-    "description": "Tool To Download from DSNP USA",
-    "language": "Python",
-    "star": "103"
-  },
-  {
-    "title": "widevinedump/WV-AMZN-4K-RIPPER",
-    "url": "https://github.com/widevinedump/WV-AMZN-4K-RIPPER",
-    "description": "Tool To download Amazon 4k SDR HDR 1080, CDM IS Not Included",
-    "language": "Python",
-    "star": "161"
-  },
-  {
-    "title": "widevinedump/L3-Dumper",
-    "url": "https://github.com/widevinedump/L3-Dumper",
-    "description": "",
-    "language": "JavaScript",
-    "star": "53"
-  },
-  {
-    "title": "widevinedump/APPLE-TV-4K-Downloader",
-    "url": "https://github.com/widevinedump/APPLE-TV-4K-Downloader",
-    "description": "Tool To download 4KHDR DV SDR from AppleTV",
-    "language": "Python",
-    "star": "95"
-  },
-  {
-    "title": "widevinedump/LenovoTB-X505X-L1-KEY",
-    "url": "https://github.com/widevinedump/LenovoTB-X505X-L1-KEY",
-    "description": "Working L1 CDM FOR NETFLIX & ALL SITES |AMZN-DSNP-Blocked|",
-    "language": "none",
-    "star": "44"
-  },
-  {
-    "title": "widevinedump/HBO-MAX-BLIM-TV-Paramount-4k-Downloader",
-    "url": "https://github.com/widevinedump/HBO-MAX-BLIM-TV-Paramount-4k-Downloader",
-    "description": "Download from HBO-MAX-BLIM-TV-Paramount",
-    "language": "Python",
-    "star": "42"
-  },
-  {
-    "title": "widevinedump/Paramount-Plus-4k-Downloader",
-    "url": "https://github.com/widevinedump/Paramount-Plus-4k-Downloader",
-    "description": "Tool To Get Downloads up to 4k from Paramount+",
-    "language": "Python",
-    "star": "38"
-  },
-  {
-    "title": "widevinedump/Sony-Bravia-Core-Script",
-    "url": "https://github.com/widevinedump/Sony-Bravia-Core-Script",
-    "description": "Bravia core script",
-    "language": "Python",
-    "star": "31"
-  },
-  {
-    "title": "widevinedump/Gplay-4k-Downloader",
-    "url": "https://github.com/widevinedump/Gplay-4k-Downloader",
-    "description": "",
-    "language": "Python",
-    "star": "41"
-  },
-  {
     "title": "open-mmlab/mmdeploy",
     "url": "https://github.com/open-mmlab/mmdeploy",
     "description": "OpenMMLab Model Deployment Framework",
@@ -95,35 +25,35 @@
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "JavaScript",
-    "star": "601"
+    "star": "617"
   },
   {
     "title": "ja-netfilter/ja-netfilter",
     "url": "https://github.com/ja-netfilter/ja-netfilter",
     "description": "A javaagent framework",
     "language": "Java",
-    "star": "99"
+    "star": "98"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "314"
+    "star": "315"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "342"
+    "star": "340"
   },
   {
     "title": "youngyangyang04/leetcode-master",
     "url": "https://github.com/youngyangyang04/leetcode-master",
     "description": "LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
     "language": "none",
-    "star": "244"
+    "star": "248"
   },
   {
     "title": "lyrric/seckill",
@@ -144,7 +74,7 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "289"
+    "star": "380"
   },
   {
     "title": "vinta/awesome-python",
