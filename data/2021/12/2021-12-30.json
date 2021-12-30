@@ -4,49 +4,49 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "509"
+    "star": "522"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "274"
+    "star": "265"
   },
   {
     "title": "fanux/sealos",
     "url": "https://github.com/fanux/sealos",
     "description": "一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳",
     "language": "Go",
-    "star": "245"
+    "star": "179"
   },
   {
     "title": "hoppscotch/hoppscotch",
     "url": "https://github.com/hoppscotch/hoppscotch",
     "description": "🛸 Open source API development ecosystem https://hoppscotch.io",
     "language": "Vue",
-    "star": "89"
+    "star": "48"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "416"
+    "star": "415"
   },
   {
     "title": "apache/maven-mvnd",
     "url": "https://github.com/apache/maven-mvnd",
     "description": "Apache Maven Daemon",
     "language": "Java",
-    "star": "54"
+    "star": "71"
   },
   {
     "title": "adrianhajdin/project_web3.0",
     "url": "https://github.com/adrianhajdin/project_web3.0",
     "description": "Web 3.0 React Solidity Blockchain Application",
     "language": "JavaScript",
-    "star": "70"
+    "star": "89"
   },
   {
     "title": "teivah/100-go-mistakes",
@@ -60,14 +60,14 @@
     "url": "https://github.com/google/python-fire",
     "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
     "language": "Python",
-    "star": "321"
+    "star": "325"
   },
   {
     "title": "DataTalksClub/data-engineering-zoomcamp",
     "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "description": "Code for Data Engineer Zoomcamp course",
     "language": "none",
-    "star": "63"
+    "star": "90"
   },
   {
     "title": "coder2gwy/coder2gwy",
@@ -81,14 +81,14 @@
     "url": "https://github.com/GitHubDaily/GitHubDaily",
     "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。",
     "language": "none",
-    "star": "32"
+    "star": "53"
   },
   {
     "title": "OpenZeppelin/openzeppelin-contracts",
     "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
     "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
     "language": "JavaScript",
-    "star": "40"
+    "star": "36"
   },
   {
     "title": "lucidrains/vit-pytorch",
@@ -102,20 +102,20 @@
     "url": "https://github.com/element-plus/element-plus",
     "description": "🎉 A Vue.js 3 UI Library made by Element team",
     "language": "Vue",
-    "star": "73"
+    "star": "77"
   },
   {
     "title": "Universidade-Livre/ciencia-da-computacao",
     "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
     "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
     "language": "none",
-    "star": "84"
+    "star": "74"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (December 2021)",
     "language": "JavaScript",
-    "star": "61"
+    "star": "59"
   }
 ]
