@@ -11,28 +11,28 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "289"
+    "star": "291"
   },
   {
     "title": "google/log4jscanner",
     "url": "https://github.com/google/log4jscanner",
     "description": "",
     "language": "Go",
-    "star": "107"
+    "star": "98"
   },
   {
     "title": "DataTalksClub/data-engineering-zoomcamp",
     "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "description": "Code for Data Engineer Zoomcamp course",
     "language": "none",
-    "star": "59"
+    "star": "57"
   },
   {
     "title": "PaddlePaddle/PaddleDetection",
     "url": "https://github.com/PaddlePaddle/PaddleDetection",
     "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
     "language": "Python",
-    "star": "28"
+    "star": "35"
   },
   {
     "title": "papers-we-love/papers-we-love",
@@ -53,28 +53,28 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "342"
+    "star": "357"
   },
   {
     "title": "youngyangyang04/leetcode-master",
     "url": "https://github.com/youngyangyang04/leetcode-master",
     "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
     "language": "none",
-    "star": "89"
+    "star": "90"
   },
   {
     "title": "ja-netfilter/ja-netfilter",
     "url": "https://github.com/ja-netfilter/ja-netfilter",
     "description": "A javaagent framework",
     "language": "Java",
-    "star": "114"
+    "star": "110"
   },
   {
     "title": "angular/angular",
     "url": "https://github.com/angular/angular",
     "description": "The modern web developer’s platform",
     "language": "TypeScript",
-    "star": "35"
+    "star": "37"
   },
   {
     "title": "MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
@@ -88,83 +88,83 @@
     "url": "https://github.com/dfir-iris/iris-web",
     "description": "Incident Response collaborative platform",
     "language": "JavaScript",
-    "star": "11"
+    "star": "32"
   },
   {
     "title": "CleverRaven/Cataclysm-DDA",
     "url": "https://github.com/CleverRaven/Cataclysm-DDA",
     "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
     "language": "C++",
-    "star": "42"
+    "star": "43"
   },
   {
     "title": "ZLMediaKit/ZLMediaKit",
     "url": "https://github.com/ZLMediaKit/ZLMediaKit",
     "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11",
     "language": "C++",
-    "star": "26"
+    "star": "7"
   },
   {
     "title": "element-plus/element-plus",
     "url": "https://github.com/element-plus/element-plus",
     "description": "🎉 A Vue.js 3 UI Library made by Element team",
     "language": "Vue",
-    "star": "86"
+    "star": "87"
   },
   {
     "title": "Mas0nShi/typoraCracker",
     "url": "https://github.com/Mas0nShi/typoraCracker",
     "description": "A extract & decryption and pack & encryption tools for typora.",
     "language": "Python",
-    "star": "30"
+    "star": "28"
   },
   {
     "title": "gatsbyjs/gatsby",
     "url": "https://github.com/gatsbyjs/gatsby",
     "description": "Build blazing fast, modern apps and websites with React",
     "language": "JavaScript",
-    "star": "31"
+    "star": "33"
   },
   {
     "title": "google/gvisor",
     "url": "https://github.com/google/gvisor",
     "description": "Application Kernel for Containers",
     "language": "Go",
-    "star": "50"
+    "star": "52"
   },
   {
     "title": "facebook/react-native",
     "url": "https://github.com/facebook/react-native",
     "description": "A framework for building native applications using React",
     "language": "JavaScript",
-    "star": "42"
+    "star": "44"
   },
   {
     "title": "hibiken/asynq",
     "url": "https://github.com/hibiken/asynq",
     "description": "Asynq: simple, reliable, and efficient distributed task queue in Go",
     "language": "Go",
-    "star": "71"
+    "star": "78"
   },
   {
     "title": "alibaba/formily",
     "url": "https://github.com/alibaba/formily",
     "description": "Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3",
     "language": "TypeScript",
-    "star": "67"
+    "star": "15"
   },
   {
     "title": "skyline-emu/skyline",
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C++",
-    "star": "56"
+    "star": "63"
   },
   {
     "title": "vnpy/vnpy",
     "url": "https://github.com/vnpy/vnpy",
     "description": "基于Python的开源量化交易平台开发框架",
     "language": "Python",
-    "star": "12"
+    "star": "29"
   }
 ]
