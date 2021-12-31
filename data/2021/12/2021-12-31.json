@@ -4,21 +4,21 @@
     "url": "https://github.com/bytedance/btrace",
     "description": "🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.",
     "language": "Kotlin",
-    "star": "49"
+    "star": "50"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "282"
+    "star": "285"
   },
   {
     "title": "google/log4jscanner",
     "url": "https://github.com/google/log4jscanner",
     "description": "",
     "language": "Go",
-    "star": "109"
+    "star": "116"
   },
   {
     "title": "DataTalksClub/data-engineering-zoomcamp",
@@ -46,7 +46,7 @@
     "url": "https://github.com/google/python-fire",
     "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
     "language": "Python",
-    "star": "267"
+    "star": "263"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -67,7 +67,7 @@
     "url": "https://github.com/ja-netfilter/ja-netfilter",
     "description": "A javaagent framework",
     "language": "Java",
-    "star": "114"
+    "star": "110"
   },
   {
     "title": "angular/angular",
@@ -81,7 +81,7 @@
     "url": "https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
     "description": "AZ-204: Developing solutions for Microsoft Azure",
     "language": "C#",
-    "star": "23"
+    "star": "26"
   },
   {
     "title": "dfir-iris/iris-web",
@@ -95,14 +95,14 @@
     "url": "https://github.com/CleverRaven/Cataclysm-DDA",
     "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
     "language": "C++",
-    "star": "42"
+    "star": "45"
   },
   {
     "title": "ZLMediaKit/ZLMediaKit",
     "url": "https://github.com/ZLMediaKit/ZLMediaKit",
     "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11",
     "language": "C++",
-    "star": "28"
+    "star": "30"
   },
   {
     "title": "element-plus/element-plus",
@@ -116,7 +116,7 @@
     "url": "https://github.com/Mas0nShi/typoraCracker",
     "description": "A extract & decryption and pack & encryption tools for typora.",
     "language": "Python",
-    "star": "29"
+    "star": "31"
   },
   {
     "title": "gatsbyjs/gatsby",
@@ -137,14 +137,14 @@
     "url": "https://github.com/facebook/react-native",
     "description": "A framework for building native applications using React",
     "language": "JavaScript",
-    "star": "49"
+    "star": "53"
   },
   {
     "title": "hibiken/asynq",
     "url": "https://github.com/hibiken/asynq",
     "description": "Asynq: simple, reliable, and efficient distributed task queue in Go",
     "language": "Go",
-    "star": "82"
+    "star": "92"
   },
   {
     "title": "alibaba/formily",
@@ -165,6 +165,6 @@
     "url": "https://github.com/vnpy/vnpy",
     "description": "基于Python的开源量化交易平台开发框架",
     "language": "Python",
-    "star": "12"
+    "star": "30"
   }
 ]
