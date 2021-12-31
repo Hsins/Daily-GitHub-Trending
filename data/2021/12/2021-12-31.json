@@ -11,28 +11,28 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "291"
+    "star": "282"
   },
   {
     "title": "google/log4jscanner",
     "url": "https://github.com/google/log4jscanner",
     "description": "",
     "language": "Go",
-    "star": "98"
+    "star": "109"
   },
   {
     "title": "DataTalksClub/data-engineering-zoomcamp",
     "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "description": "Code for Data Engineer Zoomcamp course",
     "language": "none",
-    "star": "57"
+    "star": "56"
   },
   {
     "title": "PaddlePaddle/PaddleDetection",
     "url": "https://github.com/PaddlePaddle/PaddleDetection",
     "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
     "language": "Python",
-    "star": "35"
+    "star": "28"
   },
   {
     "title": "papers-we-love/papers-we-love",
@@ -46,125 +46,125 @@
     "url": "https://github.com/google/python-fire",
     "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
     "language": "Python",
-    "star": "266"
+    "star": "267"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "357"
+    "star": "342"
   },
   {
     "title": "youngyangyang04/leetcode-master",
     "url": "https://github.com/youngyangyang04/leetcode-master",
     "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
     "language": "none",
-    "star": "90"
+    "star": "89"
   },
   {
     "title": "ja-netfilter/ja-netfilter",
     "url": "https://github.com/ja-netfilter/ja-netfilter",
     "description": "A javaagent framework",
     "language": "Java",
-    "star": "110"
+    "star": "114"
   },
   {
     "title": "angular/angular",
     "url": "https://github.com/angular/angular",
     "description": "The modern web developer’s platform",
     "language": "TypeScript",
-    "star": "37"
+    "star": "38"
   },
   {
     "title": "MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
     "url": "https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure",
     "description": "AZ-204: Developing solutions for Microsoft Azure",
     "language": "C#",
-    "star": "21"
+    "star": "23"
   },
   {
     "title": "dfir-iris/iris-web",
     "url": "https://github.com/dfir-iris/iris-web",
     "description": "Incident Response collaborative platform",
     "language": "JavaScript",
-    "star": "32"
+    "star": "11"
   },
   {
     "title": "CleverRaven/Cataclysm-DDA",
     "url": "https://github.com/CleverRaven/Cataclysm-DDA",
     "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
     "language": "C++",
-    "star": "43"
+    "star": "42"
   },
   {
     "title": "ZLMediaKit/ZLMediaKit",
     "url": "https://github.com/ZLMediaKit/ZLMediaKit",
     "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11",
     "language": "C++",
-    "star": "7"
+    "star": "28"
   },
   {
     "title": "element-plus/element-plus",
     "url": "https://github.com/element-plus/element-plus",
     "description": "🎉 A Vue.js 3 UI Library made by Element team",
     "language": "Vue",
-    "star": "87"
+    "star": "86"
   },
   {
     "title": "Mas0nShi/typoraCracker",
     "url": "https://github.com/Mas0nShi/typoraCracker",
     "description": "A extract & decryption and pack & encryption tools for typora.",
     "language": "Python",
-    "star": "28"
+    "star": "29"
   },
   {
     "title": "gatsbyjs/gatsby",
     "url": "https://github.com/gatsbyjs/gatsby",
     "description": "Build blazing fast, modern apps and websites with React",
     "language": "JavaScript",
-    "star": "33"
+    "star": "36"
   },
   {
     "title": "google/gvisor",
     "url": "https://github.com/google/gvisor",
     "description": "Application Kernel for Containers",
     "language": "Go",
-    "star": "52"
+    "star": "50"
   },
   {
     "title": "facebook/react-native",
     "url": "https://github.com/facebook/react-native",
     "description": "A framework for building native applications using React",
     "language": "JavaScript",
-    "star": "44"
+    "star": "49"
   },
   {
     "title": "hibiken/asynq",
     "url": "https://github.com/hibiken/asynq",
     "description": "Asynq: simple, reliable, and efficient distributed task queue in Go",
     "language": "Go",
-    "star": "78"
+    "star": "82"
   },
   {
     "title": "alibaba/formily",
     "url": "https://github.com/alibaba/formily",
     "description": "Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3",
     "language": "TypeScript",
-    "star": "15"
+    "star": "72"
   },
   {
     "title": "skyline-emu/skyline",
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C++",
-    "star": "63"
+    "star": "65"
   },
   {
     "title": "vnpy/vnpy",
     "url": "https://github.com/vnpy/vnpy",
     "description": "基于Python的开源量化交易平台开发框架",
     "language": "Python",
-    "star": "29"
+    "star": "12"
   }
 ]
