@@ -1,0 +1,177 @@
+[
+  {
+    "title": "lucidrains/vit-pytorch",
+    "url": "https://github.com/lucidrains/vit-pytorch",
+    "description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch",
+    "language": "Python",
+    "star": "88"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "293"
+  },
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "description": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "language": "Java",
+    "star": "48"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "15"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "description": "A build system and primary set of packages for Termux.",
+    "language": "Shell",
+    "star": "8"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "description": "👽 Open source API development ecosystem https://hoppscotch.io",
+    "language": "Vue",
+    "star": "16"
+  },
+  {
+    "title": "bellard/quickjs",
+    "url": "https://github.com/bellard/quickjs",
+    "description": "Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.",
+    "language": "C",
+    "star": "26"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "15"
+  },
+  {
+    "title": "adrianhajdin/project_web3.0",
+    "url": "https://github.com/adrianhajdin/project_web3.0",
+    "description": "Web 3.0 React Solidity Blockchain Application",
+    "language": "JavaScript",
+    "star": "69"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "184"
+  },
+  {
+    "title": "Anarios/return-youtube-dislike",
+    "url": "https://github.com/Anarios/return-youtube-dislike",
+    "description": "Chrome extension to return youtube dislikes",
+    "language": "JavaScript",
+    "star": "97"
+  },
+  {
+    "title": "Kaustubh-Natuskar/moreThanFAANGM",
+    "url": "https://github.com/Kaustubh-Natuskar/moreThanFAANGM",
+    "description": "This repository contains opportunities for you to apply to more than 300 product base companies(NOT JUST FAANGM) & good start-ups.",
+    "language": "none",
+    "star": "74"
+  },
+  {
+    "title": "widevinedump/Vinetrimmer",
+    "url": "https://github.com/widevinedump/Vinetrimmer",
+    "description": "Tool To download - Amazon - Netflix- Disney+ - VideoLand - Boomerang - RTE.ie",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "ssssssss-team/spider-flow",
+    "url": "https://github.com/ssssssss-team/spider-flow",
+    "description": "新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。",
+    "language": "Java",
+    "star": "65"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "description": "人人可用的开源数据可视化分析工具。",
+    "language": "Java",
+    "star": "9"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "star": "37"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "description": "Code for Data Engineer Zoomcamp course",
+    "language": "none",
+    "star": "57"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "309"
+  },
+  {
+    "title": "exelban/stats",
+    "url": "https://github.com/exelban/stats",
+    "description": "macOS system monitor in your menu bar",
+    "language": "Swift",
+    "star": "74"
+  },
+  {
+    "title": "vnpy/vnpy",
+    "url": "https://github.com/vnpy/vnpy",
+    "description": "基于Python的开源量化交易平台开发框架",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "alibaba/BladeDISC",
+    "url": "https://github.com/alibaba/BladeDISC",
+    "description": "BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.",
+    "language": "C++",
+    "star": "6"
+  },
+  {
+    "title": "ja-netfilter/ja-netfilter",
+    "url": "https://github.com/ja-netfilter/ja-netfilter",
+    "description": "A javaagent framework",
+    "language": "Java",
+    "star": "109"
+  },
+  {
+    "title": "linebender/druid",
+    "url": "https://github.com/linebender/druid",
+    "description": "A data-first Rust-native UI design toolkit.",
+    "language": "Rust",
+    "star": "3"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "description": "GitHubDaily 分享内容定期整理与分类。欢迎推荐、自荐项目，让更多人知道你的项目。",
+    "language": "none",
+    "star": "45"
+  },
+  {
+    "title": "apache/maven-mvnd",
+    "url": "https://github.com/apache/maven-mvnd",
+    "description": "Apache Maven Daemon",
+    "language": "Java",
+    "star": "16"
+  }
+]
