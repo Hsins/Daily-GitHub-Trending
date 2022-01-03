@@ -18,14 +18,14 @@
     "url": "https://github.com/lapce/lapce",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "105"
+    "star": "109"
   },
   {
     "title": "dariubs/GoBooks",
     "url": "https://github.com/dariubs/GoBooks",
     "description": "List of Golang books",
     "language": "none",
-    "star": "126"
+    "star": "125"
   },
   {
     "title": "Rari-Capital/solmate",
@@ -46,7 +46,7 @@
     "url": "https://github.com/github/opensource.guide",
     "description": "📚 Community guides for open source creators",
     "language": "HTML",
-    "star": "60"
+    "star": "53"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
@@ -60,28 +60,28 @@
     "url": "https://github.com/Bugswriter/notflix",
     "description": "Notflix is a shell script to search and stream torrent.",
     "language": "Shell",
-    "star": "184"
+    "star": "182"
   },
   {
     "title": "bkaradzic/bgfx",
     "url": "https://github.com/bkaradzic/bgfx",
     "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
     "language": "C++",
-    "star": "70"
+    "star": "124"
   },
   {
     "title": "dwmkerr/hacker-laws",
     "url": "https://github.com/dwmkerr/hacker-laws",
     "description": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",
     "language": "Shell",
-    "star": "980"
+    "star": "990"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "268"
+    "star": "266"
   },
   {
     "title": "kunal-kushwaha/DSA-Bootcamp-Java",
@@ -95,14 +95,14 @@
     "url": "https://github.com/kivy/kivy",
     "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
     "language": "Python",
-    "star": "82"
+    "star": "63"
   },
   {
     "title": "praydog/REFramework",
     "url": "https://github.com/praydog/REFramework",
     "description": "Scripting platform, modding framework and VR support for all RE Engine games",
     "language": "C++",
-    "star": "49"
+    "star": "48"
   },
   {
     "title": "Jackett/Jackett",
@@ -130,7 +130,7 @@
     "url": "https://github.com/betaflight/betaflight",
     "description": "Open Source Flight Controller Firmware",
     "language": "C",
-    "star": "126"
+    "star": "116"
   },
   {
     "title": "adrianhajdin/project_web3.0",
@@ -144,7 +144,7 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "31"
+    "star": "32"
   },
   {
     "title": "mdecrevoisier/Windows-auditing-mindmap",
@@ -158,7 +158,7 @@
     "url": "https://github.com/danielyxie/bitburner",
     "description": "Bitburner Game",
     "language": "JavaScript",
-    "star": "34"
+    "star": "31"
   },
   {
     "title": "nerdyrodent/VQGAN-CLIP",
