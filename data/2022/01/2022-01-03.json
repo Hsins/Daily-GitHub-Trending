@@ -1,0 +1,177 @@
+[
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "JavaScript",
+    "star": "127"
+  },
+  {
+    "title": "google/log4jscanner",
+    "url": "https://github.com/google/log4jscanner",
+    "description": "A log4j vulnerability filesystem scanner and Go package for analyzing JAR files.",
+    "language": "Go",
+    "star": "145"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "192"
+  },
+  {
+    "title": "dariubs/GoBooks",
+    "url": "https://github.com/dariubs/GoBooks",
+    "description": "List of Golang books",
+    "language": "none",
+    "star": "128"
+  },
+  {
+    "title": "Rari-Capital/solmate",
+    "url": "https://github.com/Rari-Capital/solmate",
+    "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "language": "Solidity",
+    "star": "41"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "language": "Go",
+    "star": "5"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "description": "📚 Community guides for open source creators",
+    "language": "HTML",
+    "star": "61"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "55"
+  },
+  {
+    "title": "Bugswriter/notflix",
+    "url": "https://github.com/Bugswriter/notflix",
+    "description": "Notflix is a shell script to search and stream torrent.",
+    "language": "Shell",
+    "star": "177"
+  },
+  {
+    "title": "bkaradzic/bgfx",
+    "url": "https://github.com/bkaradzic/bgfx",
+    "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+    "language": "C++",
+    "star": "70"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "description": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",
+    "language": "Shell",
+    "star": "1"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "267"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "description": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "language": "Java",
+    "star": "38"
+  },
+  {
+    "title": "kivy/kivy",
+    "url": "https://github.com/kivy/kivy",
+    "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+    "language": "Python",
+    "star": "76"
+  },
+  {
+    "title": "praydog/REFramework",
+    "url": "https://github.com/praydog/REFramework",
+    "description": "Scripting platform, modding framework and VR support for all RE Engine games",
+    "language": "C++",
+    "star": "48"
+  },
+  {
+    "title": "Jackett/Jackett",
+    "url": "https://github.com/Jackett/Jackett",
+    "description": "API Support for your favorite torrent trackers",
+    "language": "C#",
+    "star": "9"
+  },
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "description": "",
+    "language": "TypeScript",
+    "star": "17"
+  },
+  {
+    "title": "kallaway/100-days-of-code",
+    "url": "https://github.com/kallaway/100-days-of-code",
+    "description": "Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)",
+    "language": "none",
+    "star": "9"
+  },
+  {
+    "title": "betaflight/betaflight",
+    "url": "https://github.com/betaflight/betaflight",
+    "description": "Open Source Flight Controller Firmware",
+    "language": "C",
+    "star": "127"
+  },
+  {
+    "title": "adrianhajdin/project_web3.0",
+    "url": "https://github.com/adrianhajdin/project_web3.0",
+    "description": "Web 3.0 React Solidity Blockchain Application",
+    "language": "JavaScript",
+    "star": "114"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "31"
+  },
+  {
+    "title": "mdecrevoisier/Windows-auditing-mindmap",
+    "url": "https://github.com/mdecrevoisier/Windows-auditing-mindmap",
+    "description": "Set of Mindmaps providing a detailed overview of the different #Windows auditing capacities and event log files.",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "danielyxie/bitburner",
+    "url": "https://github.com/danielyxie/bitburner",
+    "description": "Bitburner Game",
+    "language": "JavaScript",
+    "star": "34"
+  },
+  {
+    "title": "nerdyrodent/VQGAN-CLIP",
+    "url": "https://github.com/nerdyrodent/VQGAN-CLIP",
+    "description": "Just playing with getting VQGAN+CLIP running locally, rather than having to use colab.",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "124"
+  }
+]
