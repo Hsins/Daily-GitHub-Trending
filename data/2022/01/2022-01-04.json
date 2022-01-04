@@ -1,0 +1,177 @@
+[
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "JavaScript",
+    "star": "273"
+  },
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "description": "",
+    "language": "TypeScript",
+    "star": "50"
+  },
+  {
+    "title": "CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
+    "description": "This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "star": "18"
+  },
+  {
+    "title": "github/opensource.guide",
+    "url": "https://github.com/github/opensource.guide",
+    "description": "📚 Community guides for open source creators",
+    "language": "HTML",
+    "star": "145"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "description": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "language": "Java",
+    "star": "284"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "description": "A curated list of awesome warez and piracy links",
+    "language": "HTML",
+    "star": "53"
+  },
+  {
+    "title": "0xperp/defi-derivatives",
+    "url": "https://github.com/0xperp/defi-derivatives",
+    "description": "A hopefully comprehensive guide to the defi derivative landscape",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "description": "A Collection of Flutter and Dart Tips and Tricks",
+    "language": "Dart",
+    "star": "47"
+  },
+  {
+    "title": "Bugswriter/notflix",
+    "url": "https://github.com/Bugswriter/notflix",
+    "description": "Notflix is a shell script to search and stream torrent.",
+    "language": "Shell",
+    "star": "167"
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "description": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws",
+    "language": "Shell",
+    "star": "709"
+  },
+  {
+    "title": "loveBabbar/CodeHelp-DSA-Busted-Series",
+    "url": "https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series",
+    "description": "This repo is creating providing students easy access to all the programs taught under Codehelp's DSA Busted Series.",
+    "language": "C++",
+    "star": "22"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "language": "Python",
+    "star": "333"
+  },
+  {
+    "title": "dgtlmoon/changedetection.io",
+    "url": "https://github.com/dgtlmoon/changedetection.io",
+    "description": "changedetection.io - The best and simplest self-hosted open source website change detection monitoring and notification service. An alternative to Visualping, Watchtower etc. Designed for simplicity - the main goal is to simply monitor which websites had a text change. Open source web page change detection - Now also includes JSON API change det…",
+    "language": "Python",
+    "star": "425"
+  },
+  {
+    "title": "Rari-Capital/solmate",
+    "url": "https://github.com/Rari-Capital/solmate",
+    "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "language": "Solidity",
+    "star": "71"
+  },
+  {
+    "title": "NCSC-NL/log4shell",
+    "url": "https://github.com/NCSC-NL/log4shell",
+    "description": "Operational information regarding the log4shell vulnerabilities in the Log4j logging library.",
+    "language": "Python",
+    "star": "8"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "217"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "24"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "8"
+  },
+  {
+    "title": "bkaradzic/bgfx",
+    "url": "https://github.com/bkaradzic/bgfx",
+    "description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.",
+    "language": "C++",
+    "star": "107"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "14"
+  },
+  {
+    "title": "kubernetes/autoscaler",
+    "url": "https://github.com/kubernetes/autoscaler",
+    "description": "Autoscaling components for Kubernetes",
+    "language": "Go",
+    "star": "10"
+  },
+  {
+    "title": "dariubs/GoBooks",
+    "url": "https://github.com/dariubs/GoBooks",
+    "description": "List of Golang books",
+    "language": "none",
+    "star": "184"
+  },
+  {
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "description": "This repository contains .NET Documentation.",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "25"
+  }
+]
