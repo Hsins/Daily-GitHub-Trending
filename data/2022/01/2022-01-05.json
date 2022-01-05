@@ -4,7 +4,7 @@
     "url": "https://github.com/sunflower-farmers/sunflower-farmers",
     "description": "",
     "language": "TypeScript",
-    "star": "111"
+    "star": "159"
   },
   {
     "title": "hku-mars/r3live",
@@ -18,7 +18,7 @@
     "url": "https://github.com/elastic/kibana",
     "description": "Your window into the Elastic Stack",
     "language": "TypeScript",
-    "star": "2"
+    "star": "16"
   },
   {
     "title": "cypress-io/cypress",
@@ -74,7 +74,7 @@
     "url": "https://github.com/coding-horror/basic-computer-games",
     "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
     "language": "JavaScript",
-    "star": "379"
+    "star": "348"
   },
   {
     "title": "Tencent/CodeAnalysis",
@@ -95,7 +95,7 @@
     "url": "https://github.com/fmtlib/fmt",
     "description": "A modern formatting library",
     "language": "C++",
-    "star": "82"
+    "star": "81"
   },
   {
     "title": "apache/incubator-seatunnel",
@@ -116,14 +116,14 @@
     "url": "https://github.com/renovatebot/renovate",
     "description": "Universal dependency update tool that fits into your workflows.",
     "language": "TypeScript",
-    "star": "11"
+    "star": "46"
   },
   {
     "title": "Igglybuff/awesome-piracy",
     "url": "https://github.com/Igglybuff/awesome-piracy",
     "description": "A curated list of awesome warez and piracy links",
     "language": "HTML",
-    "star": "186"
+    "star": "184"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
@@ -137,7 +137,7 @@
     "url": "https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
     "description": "This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio",
     "language": "Python",
-    "star": "59"
+    "star": "58"
   },
   {
     "title": "datafuselabs/openraft",
@@ -151,21 +151,21 @@
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "11"
+    "star": "23"
   },
   {
     "title": "Bugswriter/notflix",
     "url": "https://github.com/Bugswriter/notflix",
     "description": "Notflix is a shell script to search and stream torrent.",
     "language": "Shell",
-    "star": "281"
+    "star": "194"
   },
   {
     "title": "baidu/amis",
     "url": "https://github.com/baidu/amis",
     "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
     "language": "TypeScript",
-    "star": "29"
+    "star": "57"
   },
   {
     "title": "cockroachdb/cockroach",
