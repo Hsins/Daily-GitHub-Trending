@@ -1,0 +1,177 @@
+[
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "description": "",
+    "language": "TypeScript",
+    "star": "111"
+  },
+  {
+    "title": "hku-mars/r3live",
+    "url": "https://github.com/hku-mars/r3live",
+    "description": "A Robust, Real-time, RGB-colored, LiDAR-Inertial-Visual tightly-coupled state Estimation and mapping package",
+    "language": "C++",
+    "star": "37"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "description": "Your window into the Elastic Stack",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "140"
+  },
+  {
+    "title": "tkellogg/dura",
+    "url": "https://github.com/tkellogg/dura",
+    "description": "You shouldn't ever lose your work if you're using Git",
+    "language": "Rust",
+    "star": "737"
+  },
+  {
+    "title": "jonathandata1/pegasus_spyware",
+    "url": "https://github.com/jonathandata1/pegasus_spyware",
+    "description": "decompiled pegasus_spyware",
+    "language": "Smali",
+    "star": "135"
+  },
+  {
+    "title": "wmjordan/PDFPatcher",
+    "url": "https://github.com/wmjordan/PDFPatcher",
+    "description": "PDF补丁丁",
+    "language": "C#",
+    "star": "286"
+  },
+  {
+    "title": "Flutterando/roadmap",
+    "url": "https://github.com/Flutterando/roadmap",
+    "description": "Flutter roadmap pt-BR",
+    "language": "none",
+    "star": "51"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "description": "Statistical Rethinking course winter 2022",
+    "language": "none",
+    "star": "49"
+  },
+  {
+    "title": "AstraZeneca/awesome-explainable-graph-reasoning",
+    "url": "https://github.com/AstraZeneca/awesome-explainable-graph-reasoning",
+    "description": "A collection of research papers and software related to explainability in graph machine learning.",
+    "language": "none",
+    "star": "48"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "JavaScript",
+    "star": "379"
+  },
+  {
+    "title": "Tencent/CodeAnalysis",
+    "url": "https://github.com/Tencent/CodeAnalysis",
+    "description": "Static Code Analysis",
+    "language": "Python",
+    "star": "131"
+  },
+  {
+    "title": "kubernetes/autoscaler",
+    "url": "https://github.com/kubernetes/autoscaler",
+    "description": "Autoscaling components for Kubernetes",
+    "language": "Go",
+    "star": "53"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "star": "82"
+  },
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "description": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "language": "Java",
+    "star": "114"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "description": "This repository consists of the code samples, assignments, and the curriculum for the Community Classroom complete Data Structures & Algorithms Java bootcamp.",
+    "language": "Java",
+    "star": "178"
+  },
+  {
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "description": "Universal dependency update tool that fits into your workflows.",
+    "language": "TypeScript",
+    "star": "11"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "description": "A curated list of awesome warez and piracy links",
+    "language": "HTML",
+    "star": "186"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "none",
+    "star": "24"
+  },
+  {
+    "title": "CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
+    "url": "https://github.com/CyberPunkMetalHead/gateio-crypto-trading-bot-binance-announcements-new-coins",
+    "description": "This is a crypto trading bot that scans the Binance Annoucements page for new coins, and places trades on Gateio",
+    "language": "Python",
+    "star": "59"
+  },
+  {
+    "title": "datafuselabs/openraft",
+    "url": "https://github.com/datafuselabs/openraft",
+    "description": "rust raft with improvements",
+    "language": "Rust",
+    "star": "70"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "11"
+  },
+  {
+    "title": "Bugswriter/notflix",
+    "url": "https://github.com/Bugswriter/notflix",
+    "description": "Notflix is a shell script to search and stream torrent.",
+    "language": "Shell",
+    "star": "281"
+  },
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "language": "TypeScript",
+    "star": "29"
+  },
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "description": "CockroachDB - the open source, cloud-native distributed SQL database.",
+    "language": "Go",
+    "star": "9"
+  }
+]
