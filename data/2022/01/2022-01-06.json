@@ -1,0 +1,177 @@
+[
+  {
+    "title": "jonathandata1/pegasus_spyware",
+    "url": "https://github.com/jonathandata1/pegasus_spyware",
+    "description": "decompiled pegasus_spyware",
+    "language": "Smali",
+    "star": "161"
+  },
+  {
+    "title": "wmjordan/PDFPatcher",
+    "url": "https://github.com/wmjordan/PDFPatcher",
+    "description": "PDF补丁丁",
+    "language": "C#",
+    "star": "261"
+  },
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "description": "",
+    "language": "TypeScript",
+    "star": "170"
+  },
+  {
+    "title": "Tencent/CodeAnalysis",
+    "url": "https://github.com/Tencent/CodeAnalysis",
+    "description": "Static Code Analysis",
+    "language": "Python",
+    "star": "183"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "22"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "star": "135"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "404"
+  },
+  {
+    "title": "rapiz1/rathole",
+    "url": "https://github.com/rapiz1/rathole",
+    "description": "A lightweight, stable and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+    "language": "Rust",
+    "star": "337"
+  },
+  {
+    "title": "bit4woo/Fiora",
+    "url": "https://github.com/bit4woo/Fiora",
+    "description": "Fiora：漏洞PoC框架的图形版，快捷搜索PoC、一键运行Nuclei",
+    "language": "Java",
+    "star": "58"
+  },
+  {
+    "title": "Schneegans/Burn-My-Windows",
+    "url": "https://github.com/Schneegans/Burn-My-Windows",
+    "description": "🔥 Disintegrate your apps with style.",
+    "language": "JavaScript",
+    "star": "150"
+  },
+  {
+    "title": "aetkrad/goby_poc",
+    "url": "https://github.com/aetkrad/goby_poc",
+    "description": "goby poc or exp,分享goby最新网络安全漏洞检测或利用代码",
+    "language": "none",
+    "star": "50"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "none",
+    "star": "109"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "8"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "description": "A curated list of awesome warez and piracy links",
+    "language": "HTML",
+    "star": "229"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "JavaScript",
+    "star": "311"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "star": "58"
+  },
+  {
+    "title": "PyGithub/PyGithub",
+    "url": "https://github.com/PyGithub/PyGithub",
+    "description": "Typed interactions with the GitHub API v3",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "language": "JavaScript",
+    "star": "106"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "37"
+  },
+  {
+    "title": "DioxusLabs/dioxus",
+    "url": "https://github.com/DioxusLabs/dioxus",
+    "description": "Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",
+    "language": "Rust",
+    "star": "266"
+  },
+  {
+    "title": "DustinBrett/daedalOS",
+    "url": "https://github.com/DustinBrett/daedalOS",
+    "description": "Desktop environment in the browser.",
+    "language": "JavaScript",
+    "star": "97"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "12"
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "language": "Jupyter Notebook",
+    "star": "21"
+  },
+  {
+    "title": "cert-ee/cuckoo3",
+    "url": "https://github.com/cert-ee/cuckoo3",
+    "description": "Cuckoo 3 is a Python 3 open source automated malware analysis system.",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "Saul-Mirone/milkdown",
+    "url": "https://github.com/Saul-Mirone/milkdown",
+    "description": "🍼 Plugin driven WYSIWYG markdown editor framework.",
+    "language": "TypeScript",
+    "star": "6"
+  }
+]
