@@ -1,0 +1,177 @@
+[
+  {
+    "title": "baidu/amis",
+    "url": "https://github.com/baidu/amis",
+    "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+    "language": "TypeScript",
+    "star": "34"
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "description": "What really happened with Aaron Swartz?",
+    "language": "none",
+    "star": "364"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "61"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "270"
+  },
+  {
+    "title": "DioxusLabs/dioxus",
+    "url": "https://github.com/DioxusLabs/dioxus",
+    "description": "Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",
+    "language": "Rust",
+    "star": "343"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "description": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "language": "HCL",
+    "star": "7"
+  },
+  {
+    "title": "Tencent/CodeAnalysis",
+    "url": "https://github.com/Tencent/CodeAnalysis",
+    "description": "Static Code Analysis",
+    "language": "Python",
+    "star": "257"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "none",
+    "star": "230"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "google/zx",
+    "url": "https://github.com/google/zx",
+    "description": "A tool for writing better scripts",
+    "language": "JavaScript",
+    "star": "102"
+  },
+  {
+    "title": "withshepherd/faker.js",
+    "url": "https://github.com/withshepherd/faker.js",
+    "description": "",
+    "language": "JavaScript",
+    "star": "122"
+  },
+  {
+    "title": "coder/code-server",
+    "url": "https://github.com/coder/code-server",
+    "description": "VS Code in the browser",
+    "language": "TypeScript",
+    "star": "36"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "75"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "Shell",
+    "star": "4"
+  },
+  {
+    "title": "arainho/awesome-api-security",
+    "url": "https://github.com/arainho/awesome-api-security",
+    "description": "A collection of awesome API Security tools and resources.",
+    "language": "none",
+    "star": "62"
+  },
+  {
+    "title": "sunflower-farmers/sunflower-farmers",
+    "url": "https://github.com/sunflower-farmers/sunflower-farmers",
+    "description": "",
+    "language": "TypeScript",
+    "star": "138"
+  },
+  {
+    "title": "up9inc/mizu",
+    "url": "https://github.com/up9inc/mizu",
+    "description": "API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes",
+    "language": "Go",
+    "star": "145"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "59"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "9"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "language": "TypeScript",
+    "star": "75"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "description": "Spring Framework",
+    "language": "Java",
+    "star": "15"
+  },
+  {
+    "title": "panjf2000/ants",
+    "url": "https://github.com/panjf2000/ants",
+    "description": "🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。",
+    "language": "Go",
+    "star": "12"
+  },
+  {
+    "title": "qier222/YesPlayMusic",
+    "url": "https://github.com/qier222/YesPlayMusic",
+    "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+    "language": "JavaScript",
+    "star": "120"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "language": "C#",
+    "star": "3"
+  }
+]
