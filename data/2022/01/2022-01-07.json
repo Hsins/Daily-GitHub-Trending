@@ -25,14 +25,14 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "270"
+    "star": "272"
   },
   {
     "title": "DioxusLabs/dioxus",
     "url": "https://github.com/DioxusLabs/dioxus",
     "description": "Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",
     "language": "Rust",
-    "star": "343"
+    "star": "346"
   },
   {
     "title": "terraform-aws-modules/terraform-aws-eks",
@@ -46,14 +46,14 @@
     "url": "https://github.com/Tencent/CodeAnalysis",
     "description": "Static Code Analysis",
     "language": "Python",
-    "star": "257"
+    "star": "255"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "none",
-    "star": "230"
+    "star": "229"
   },
   {
     "title": "aws/aws-cdk",
@@ -116,7 +116,7 @@
     "url": "https://github.com/sunflower-farmers/sunflower-farmers",
     "description": "",
     "language": "TypeScript",
-    "star": "138"
+    "star": "139"
   },
   {
     "title": "up9inc/mizu",
@@ -130,7 +130,7 @@
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "59"
+    "star": "63"
   },
   {
     "title": "facebook/folly",
