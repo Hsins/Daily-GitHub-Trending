@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "description": "What really happened with Aaron Swartz?",
+    "language": "none",
+    "star": "292"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "9"
+  },
+  {
+    "title": "LingDong-/shan-shui-inf",
+    "url": "https://github.com/LingDong-/shan-shui-inf",
+    "description": "Procedurally generated Chinese landscape painting.",
+    "language": "HTML",
+    "star": "70"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "star": "88"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "100"
+  },
+  {
+    "title": "Igglybuff/awesome-piracy",
+    "url": "https://github.com/Igglybuff/awesome-piracy",
+    "description": "A curated list of awesome warez and piracy links",
+    "language": "HTML",
+    "star": "1"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "description": "Awesome tips for Laravel",
+    "language": "none",
+    "star": "55"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "297"
+  },
+  {
+    "title": "withshepherd/faker.js",
+    "url": "https://github.com/withshepherd/faker.js",
+    "description": "",
+    "language": "JavaScript",
+    "star": "198"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "none",
+    "star": "171"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "85"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "140"
+  },
+  {
+    "title": "wmjordan/PDFPatcher",
+    "url": "https://github.com/wmjordan/PDFPatcher",
+    "description": "PDF补丁丁",
+    "language": "C#",
+    "star": "101"
+  },
+  {
+    "title": "DioxusLabs/dioxus",
+    "url": "https://github.com/DioxusLabs/dioxus",
+    "description": "Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.",
+    "language": "Rust",
+    "star": "315"
+  },
+  {
+    "title": "commit-live-students/Data_Science_Masters_Program_2021",
+    "url": "https://github.com/commit-live-students/Data_Science_Masters_Program_2021",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "36"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "72"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "description": "Appwrite is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment 🚀",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "language": "Go",
+    "star": "53"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "117"
+  },
+  {
+    "title": "M3-org/awesome-metaverse",
+    "url": "https://github.com/M3-org/awesome-metaverse",
+    "description": "Awesome metaverse projects",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "description": "Everything you need to know to get the job.",
+    "language": "Java",
+    "star": "87"
+  },
+  {
+    "title": "hashicorp/terraform-provider-aws",
+    "url": "https://github.com/hashicorp/terraform-provider-aws",
+    "description": "Terraform AWS provider",
+    "language": "Go",
+    "star": "7"
+  },
+  {
+    "title": "up9inc/mizu",
+    "url": "https://github.com/up9inc/mizu",
+    "description": "API traffic viewer for Kubernetes enabling you to view all API communication between microservices. Think TCPDump and Wireshark re-invented for Kubernetes",
+    "language": "Go",
+    "star": "159"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "description": "Quarkus: Supersonic Subatomic Java.",
+    "language": "Java",
+    "star": "10"
+  }
+]
