@@ -4,14 +4,14 @@
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "81"
+    "star": "115"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "430"
+    "star": "265"
   },
   {
     "title": "QSCTech/zju-icicles",
@@ -25,21 +25,21 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "211"
+    "star": "208"
   },
   {
     "title": "solana-labs/solana",
     "url": "https://github.com/solana-labs/solana",
     "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
     "language": "Rust",
-    "star": "25"
+    "star": "20"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "178"
+    "star": "157"
   },
   {
     "title": "arendst/Tasmota",
@@ -53,21 +53,21 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "229"
+    "star": "168"
   },
   {
     "title": "521xueweihan/HelloGitHub",
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "131"
+    "star": "58"
   },
   {
     "title": "TheAlgorithms/Java",
     "url": "https://github.com/TheAlgorithms/Java",
     "description": "All Algorithms implemented in Java",
     "language": "Java",
-    "star": "156"
+    "star": "67"
   },
   {
     "title": "DarkCoderSc/PowerRemoteDesktop",
@@ -109,14 +109,14 @@
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "C",
-    "star": "190"
+    "star": "102"
   },
   {
     "title": "megadose/holehe",
     "url": "https://github.com/megadose/holehe",
     "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
     "language": "Python",
-    "star": "251"
+    "star": "83"
   },
   {
     "title": "Anarios/return-youtube-dislike",
@@ -144,7 +144,7 @@
     "url": "https://github.com/Klipper3d/klipper",
     "description": "Klipper is a 3d-printer firmware",
     "language": "C",
-    "star": "8"
+    "star": "7"
   },
   {
     "title": "jeecgboot/jeecg-boot",
@@ -158,7 +158,7 @@
     "url": "https://github.com/VGVentures/slide_puzzle",
     "description": "",
     "language": "Dart",
-    "star": "40"
+    "star": "36"
   },
   {
     "title": "USTC-Resource/USTC-Course",
@@ -172,6 +172,6 @@
     "url": "https://github.com/solo-io/bumblebee",
     "description": "Get eBPF programs running from the cloud to the kernel in 1 line of bash",
     "language": "C",
-    "star": "80"
+    "star": "58"
   }
 ]
