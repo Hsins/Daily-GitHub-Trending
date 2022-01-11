@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "455"
+  },
+  {
+    "title": "faker-js/faker",
+    "url": "https://github.com/faker-js/faker",
+    "description": "Generate massive amounts of fake data in the browser and node.js",
+    "language": "JavaScript",
+    "star": "255"
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "description": "What really happened with Aaron Swartz?",
+    "language": "none",
+    "star": "169"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "155"
+  },
+  {
+    "title": "Marak/colors.js",
+    "url": "https://github.com/Marak/colors.js",
+    "description": "get colors in your node.js console",
+    "language": "JavaScript",
+    "star": "137"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "description": "Code for Data Engineer Zoomcamp course",
+    "language": "HCL",
+    "star": "107"
+  },
+  {
+    "title": "jamesstringerparsec/Easy-GPU-P",
+    "url": "https://github.com/jamesstringerparsec/Easy-GPU-P",
+    "description": "A Project dedicated to making GPU Partitioning on Windows easier!",
+    "language": "PowerShell",
+    "star": "130"
+  },
+  {
+    "title": "devsuperior/sds-dsmovie",
+    "url": "https://github.com/devsuperior/sds-dsmovie",
+    "description": "",
+    "language": "none",
+    "star": "70"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "C",
+    "star": "218"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "254"
+  },
+  {
+    "title": "cybersecsi/RAUDI",
+    "url": "https://github.com/cybersecsi/RAUDI",
+    "description": "A repo to automatically generate and keep updated a series of Docker images through GitHub Actions.",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "description": "浙江大学课程攻略共享计划",
+    "language": "HTML",
+    "star": "138"
+  },
+  {
+    "title": "sairson/Yasso",
+    "url": "https://github.com/sairson/Yasso",
+    "description": "强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）",
+    "language": "Go",
+    "star": "49"
+  },
+  {
+    "title": "VGVentures/slide_puzzle",
+    "url": "https://github.com/VGVentures/slide_puzzle",
+    "description": "",
+    "language": "Dart",
+    "star": "46"
+  },
+  {
+    "title": "megadose/holehe",
+    "url": "https://github.com/megadose/holehe",
+    "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+    "language": "Python",
+    "star": "275"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "TypeScript",
+    "star": "26"
+  },
+  {
+    "title": "StarRocks/starrocks",
+    "url": "https://github.com/StarRocks/starrocks",
+    "description": "StarRocks is a next-gen sub-second MPP database for full analysis scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",
+    "language": "C++",
+    "star": "15"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "218"
+  },
+  {
+    "title": "nolanlawson/fuite",
+    "url": "https://github.com/nolanlawson/fuite",
+    "description": "A tool for finding memory leaks in web apps",
+    "language": "JavaScript",
+    "star": "71"
+  },
+  {
+    "title": "tharsis/evmos",
+    "url": "https://github.com/tharsis/evmos",
+    "description": "Evmos is the Ethereum Virtual Machine (EVM) Hub on the Cosmos Network. It is the flagship implementation of the Ethermint library that prioritizes interoperability and novel economics.",
+    "language": "Go",
+    "star": "31"
+  },
+  {
+    "title": "irbigdata/data-dockerfiles",
+    "url": "https://github.com/irbigdata/data-dockerfiles",
+    "description": "a curated list of docker-compose files prepared for testing data engineering tools, databases and open source libraries.",
+    "language": "Jupyter Notebook",
+    "star": "100"
+  },
+  {
+    "title": "paranoidninja/EtwTi-Syscall-Hook",
+    "url": "https://github.com/paranoidninja/EtwTi-Syscall-Hook",
+    "description": "A simple program to hook the current process to identify the manual syscall executions on windows",
+    "language": "C",
+    "star": "15"
+  },
+  {
+    "title": "Juanpe/SkeletonView",
+    "url": "https://github.com/Juanpe/SkeletonView",
+    "description": "☠️ An elegant way to show users that something is happening and also prepare them to which contents they are awaiting",
+    "language": "Swift",
+    "star": "6"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "language": "JavaScript",
+    "star": "5"
+  },
+  {
+    "title": "graphql/graphiql",
+    "url": "https://github.com/graphql/graphiql",
+    "description": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+    "language": "TypeScript",
+    "star": "7"
+  }
+]
