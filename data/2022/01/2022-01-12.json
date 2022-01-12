@@ -1,0 +1,177 @@
+[
+  {
+    "title": "input-output-hk/plutus-pioneer-program",
+    "url": "https://github.com/input-output-hk/plutus-pioneer-program",
+    "description": "",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "faker-js/faker",
+    "url": "https://github.com/faker-js/faker",
+    "description": "Generate massive amounts of fake data in the browser and node.js",
+    "language": "JavaScript",
+    "star": "264"
+  },
+  {
+    "title": "Marak/colors.js",
+    "url": "https://github.com/Marak/colors.js",
+    "description": "get colors in your node.js console",
+    "language": "JavaScript",
+    "star": "120"
+  },
+  {
+    "title": "cybersecsi/RAUDI",
+    "url": "https://github.com/cybersecsi/RAUDI",
+    "description": "A repo to automatically generate and keep updated a series of Docker images through GitHub Actions.",
+    "language": "Python",
+    "star": "52"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "description": "浙江大学课程攻略共享计划",
+    "language": "HTML",
+    "star": "183"
+  },
+  {
+    "title": "BoltzmannEntropy/interviews.ai",
+    "url": "https://github.com/BoltzmannEntropy/interviews.ai",
+    "description": "It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well.",
+    "language": "none",
+    "star": "385"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "77"
+  },
+  {
+    "title": "input-output-hk/plutus-apps",
+    "url": "https://github.com/input-output-hk/plutus-apps",
+    "description": "The Plutus application platform",
+    "language": "Haskell",
+    "star": "4"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "135"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "359"
+  },
+  {
+    "title": "WordPress/wordpress-develop",
+    "url": "https://github.com/WordPress/wordpress-develop",
+    "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
+    "language": "PHP",
+    "star": "4"
+  },
+  {
+    "title": "juicedata/juicefs",
+    "url": "https://github.com/juicedata/juicefs",
+    "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "language": "Go",
+    "star": "38"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "description": "Code for Data Engineer Zoomcamp course",
+    "language": "HCL",
+    "star": "95"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "11"
+  },
+  {
+    "title": "shufflewzc/faker2",
+    "url": "https://github.com/shufflewzc/faker2",
+    "description": "不知名大佬备份",
+    "language": "JavaScript",
+    "star": "30"
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "description": "All Algorithms implemented in Java",
+    "language": "Java",
+    "star": "52"
+  },
+  {
+    "title": "jamesstringerparsec/Easy-GPU-PV",
+    "url": "https://github.com/jamesstringerparsec/Easy-GPU-PV",
+    "description": "A Project dedicated to making GPU Partitioning on Windows easier!",
+    "language": "PowerShell",
+    "star": "128"
+  },
+  {
+    "title": "tayfunerbilen/30-gunde-javascript",
+    "url": "https://github.com/tayfunerbilen/30-gunde-javascript",
+    "description": "30 Günde Javascript, orijinali \"30 days of challenge\" olan ve adım adım 30 günde javascript öğretmeyi hedefleyen bir deneyimdir.",
+    "language": "none",
+    "star": "28"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "ScarredMonk/SysmonSimulator",
+    "url": "https://github.com/ScarredMonk/SysmonSimulator",
+    "description": "Sysmon event simulation utility which can be used to simulate the attacks to generate the Sysmon Event logs for testing the EDR detections and correlation rules by Blue teams.",
+    "language": "C",
+    "star": "32"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "TypeScript",
+    "star": "212"
+  },
+  {
+    "title": "openglonmetal/MGL",
+    "url": "https://github.com/openglonmetal/MGL",
+    "description": "OpenGL 4.6 on Metal",
+    "language": "C",
+    "star": "12"
+  },
+  {
+    "title": "nikochiko/autosaved",
+    "url": "https://github.com/nikochiko/autosaved",
+    "description": "Never worry about losing your code. Written in Go",
+    "language": "Go",
+    "star": "22"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "Java",
+    "star": "55"
+  },
+  {
+    "title": "Azure/azure-synapse-analytics-end2end",
+    "url": "https://github.com/Azure/azure-synapse-analytics-end2end",
+    "description": "Azure Analytics End to End with Azure Synapse - Deployment Accelerator",
+    "language": "Bicep",
+    "star": "2"
+  }
+]
