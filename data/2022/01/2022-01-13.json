@@ -11,14 +11,14 @@
     "url": "https://github.com/google/leveldb",
     "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
     "language": "C++",
-    "star": "89"
+    "star": "52"
   },
   {
     "title": "skylot/jadx",
     "url": "https://github.com/skylot/jadx",
     "description": "Dex to Java decompiler",
     "language": "Java",
-    "star": "45"
+    "star": "44"
   },
   {
     "title": "synercys/annotated_latex_equations",
@@ -32,14 +32,14 @@
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "12"
+    "star": "19"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "TypeScript",
-    "star": "265"
+    "star": "261"
   },
   {
     "title": "windowtoolbox/powershell-windows-toolbox",
@@ -109,7 +109,7 @@
     "url": "https://github.com/sxyu/svox2",
     "description": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
     "language": "Python",
-    "star": "95"
+    "star": "91"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
@@ -172,6 +172,6 @@
     "url": "https://github.com/tayfunerbilen/30-gunde-javascript",
     "description": "30 Günde Javascript, orijinali \"30 days of challenge\" olan ve adım adım 30 günde javascript öğretmeyi hedefleyen bir deneyimdir.",
     "language": "none",
-    "star": "56"
+    "star": "29"
   }
 ]
