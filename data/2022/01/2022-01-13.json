@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebookresearch/ConvNeXt",
+    "url": "https://github.com/facebookresearch/ConvNeXt",
+    "description": "Code release for ConvNeXt model",
+    "language": "Python",
+    "star": "418"
+  },
+  {
+    "title": "google/leveldb",
+    "url": "https://github.com/google/leveldb",
+    "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+    "language": "C++",
+    "star": "89"
+  },
+  {
+    "title": "skylot/jadx",
+    "url": "https://github.com/skylot/jadx",
+    "description": "Dex to Java decompiler",
+    "language": "Java",
+    "star": "45"
+  },
+  {
+    "title": "synercys/annotated_latex_equations",
+    "url": "https://github.com/synercys/annotated_latex_equations",
+    "description": "Examples of how to create colorful, annotated equations in Latex using Tikz.",
+    "language": "TeX",
+    "star": "268"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "12"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "TypeScript",
+    "star": "265"
+  },
+  {
+    "title": "windowtoolbox/powershell-windows-toolbox",
+    "url": "https://github.com/windowtoolbox/powershell-windows-toolbox",
+    "description": "",
+    "language": "none",
+    "star": "60"
+  },
+  {
+    "title": "windowjs/windowjs",
+    "url": "https://github.com/windowjs/windowjs",
+    "description": "Window.js is an open-source Javascript runtime for desktop graphics programming.",
+    "language": "C++",
+    "star": "243"
+  },
+  {
+    "title": "woocommerce/woocommerce",
+    "url": "https://github.com/woocommerce/woocommerce",
+    "description": "An open source eCommerce plugin for WordPress.",
+    "language": "PHP",
+    "star": "5"
+  },
+  {
+    "title": "multiprocessio/dsq",
+    "url": "https://github.com/multiprocessio/dsq",
+    "description": "Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.",
+    "language": "Go",
+    "star": "127"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "description": "Collection of TypeScript type challenges with online judge",
+    "language": "TypeScript",
+    "star": "38"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "160"
+  },
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "description": "Build fast websites, faster. 🚀🧑‍🚀✨",
+    "language": "TypeScript",
+    "star": "47"
+  },
+  {
+    "title": "Mogli12/AIVehicleExtension",
+    "url": "https://github.com/Mogli12/AIVehicleExtension",
+    "description": "AIVehicleExtension",
+    "language": "Lua",
+    "star": "3"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "25"
+  },
+  {
+    "title": "sxyu/svox2",
+    "url": "https://github.com/sxyu/svox2",
+    "description": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "C",
+    "star": "116"
+  },
+  {
+    "title": "sairson/Yasso",
+    "url": "https://github.com/sairson/Yasso",
+    "description": "强大的内网渗透辅助工具集-让Yasso像风一样 支持rdp，ssh，redis，postgres，mongodb，mssql，mysql，winrm等服务爆破，快速的端口扫描，强大的web指纹识别，各种内置服务的一键利用（包括ssh完全交互式登陆，mssql提权，redis一键利用，mysql数据库查询，winrm横向利用，多种服务利用支持socks5代理执行）",
+    "language": "Go",
+    "star": "32"
+  },
+  {
+    "title": "ahembree/ansible-hms-docker",
+    "url": "https://github.com/ahembree/ansible-hms-docker",
+    "description": "Ansible playbook for automated home media server setup",
+    "language": "Jinja",
+    "star": "37"
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "description": "🥤 COLA: Clean Object-oriented & Layered Architecture",
+    "language": "Java",
+    "star": "30"
+  },
+  {
+    "title": "pycaret/pycaret",
+    "url": "https://github.com/pycaret/pycaret",
+    "description": "An open-source, low-code machine learning library in Python",
+    "language": "Jupyter Notebook",
+    "star": "14"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "description": "A modern file manager that pushes the boundaries of the platform.",
+    "language": "C#",
+    "star": "126"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "description": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
+    "language": "Batchfile",
+    "star": "44"
+  },
+  {
+    "title": "astropy/astropy",
+    "url": "https://github.com/astropy/astropy",
+    "description": "Repository for the Astropy core package",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "tayfunerbilen/30-gunde-javascript",
+    "url": "https://github.com/tayfunerbilen/30-gunde-javascript",
+    "description": "30 Günde Javascript, orijinali \"30 days of challenge\" olan ve adım adım 30 günde javascript öğretmeyi hedefleyen bir deneyimdir.",
+    "language": "none",
+    "star": "56"
+  }
+]
