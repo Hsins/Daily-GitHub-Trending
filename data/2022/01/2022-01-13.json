@@ -18,7 +18,7 @@
     "url": "https://github.com/skylot/jadx",
     "description": "Dex to Java decompiler",
     "language": "Java",
-    "star": "44"
+    "star": "43"
   },
   {
     "title": "synercys/annotated_latex_equations",
@@ -32,14 +32,14 @@
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "19"
+    "star": "13"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "TypeScript",
-    "star": "261"
+    "star": "256"
   },
   {
     "title": "windowtoolbox/powershell-windows-toolbox",
@@ -60,7 +60,7 @@
     "url": "https://github.com/woocommerce/woocommerce",
     "description": "An open source eCommerce plugin for WordPress.",
     "language": "PHP",
-    "star": "5"
+    "star": "6"
   },
   {
     "title": "multiprocessio/dsq",
@@ -109,14 +109,14 @@
     "url": "https://github.com/sxyu/svox2",
     "description": "Plenoxels: Radiance Fields without Neural Networks, Code release WIP",
     "language": "Python",
-    "star": "91"
+    "star": "118"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "C",
-    "star": "116"
+    "star": "166"
   },
   {
     "title": "sairson/Yasso",
@@ -151,7 +151,7 @@
     "url": "https://github.com/files-community/Files",
     "description": "A modern file manager that pushes the boundaries of the platform.",
     "language": "C#",
-    "star": "126"
+    "star": "125"
   },
   {
     "title": "massgravel/Microsoft-Activation-Scripts",
@@ -163,7 +163,7 @@
   {
     "title": "astropy/astropy",
     "url": "https://github.com/astropy/astropy",
-    "description": "Repository for the Astropy core package",
+    "description": "Astronomy and astrophysics core library",
     "language": "Python",
     "star": "32"
   },
@@ -172,6 +172,6 @@
     "url": "https://github.com/tayfunerbilen/30-gunde-javascript",
     "description": "30 Günde Javascript, orijinali \"30 days of challenge\" olan ve adım adım 30 günde javascript öğretmeyi hedefleyen bir deneyimdir.",
     "language": "none",
-    "star": "29"
+    "star": "56"
   }
 ]
