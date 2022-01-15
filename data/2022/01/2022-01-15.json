@@ -4,28 +4,28 @@
     "url": "https://github.com/files-community/Files",
     "description": "A modern file manager that pushes the boundaries of the platform.",
     "language": "C#",
-    "star": "502"
+    "star": "528"
   },
   {
     "title": "withastro/astro",
     "url": "https://github.com/withastro/astro",
     "description": "Build fast websites, faster. 🚀🧑‍🚀✨",
     "language": "TypeScript",
-    "star": "224"
+    "star": "236"
   },
   {
     "title": "facebookresearch/ConvNeXt",
     "url": "https://github.com/facebookresearch/ConvNeXt",
     "description": "Code release for ConvNeXt model",
     "language": "Python",
-    "star": "168"
+    "star": "166"
   },
   {
     "title": "google/leveldb",
     "url": "https://github.com/google/leveldb",
     "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
     "language": "C++",
-    "star": "107"
+    "star": "114"
   },
   {
     "title": "KurtBestor/Hitomi-Downloader",
@@ -39,28 +39,28 @@
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "66"
+    "star": "80"
   },
   {
     "title": "eugeneyan/applied-ml",
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "198"
+    "star": "172"
   },
   {
     "title": "crater-invoice/crater",
     "url": "https://github.com/crater-invoice/crater",
     "description": "Open Source Invoicing Solution for Individuals & Businesses",
     "language": "PHP",
-    "star": "93"
+    "star": "83"
   },
   {
     "title": "nu11secur1ty/Windows10Exploits",
     "url": "https://github.com/nu11secur1ty/Windows10Exploits",
     "description": "Microsoft » Windows 10 : Security Vulnerabilities",
     "language": "HTML",
-    "star": "25"
+    "star": "64"
   },
   {
     "title": "sottlmarek/DevSecOps",
@@ -74,7 +74,7 @@
     "url": "https://github.com/prabhatsharma/zinc",
     "description": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Go",
-    "star": "163"
+    "star": "179"
   },
   {
     "title": "mermaid-js/mermaid",
@@ -88,14 +88,14 @@
     "url": "https://github.com/klinix5/ReverseRDP_RCE",
     "description": "",
     "language": "C++",
-    "star": "11"
+    "star": "9"
   },
   {
     "title": "synercys/annotated_latex_equations",
     "url": "https://github.com/synercys/annotated_latex_equations",
     "description": "Examples of how to create colorful, annotated equations in Latex using Tikz.",
     "language": "TeX",
-    "star": "298"
+    "star": "434"
   },
   {
     "title": "sml2h3/ddddocr",
@@ -109,69 +109,69 @@
     "url": "https://github.com/github/roadmap",
     "description": "GitHub public roadmap",
     "language": "none",
-    "star": "77"
+    "star": "22"
   },
   {
     "title": "itcharge/LeetCode-Py",
     "url": "https://github.com/itcharge/LeetCode-Py",
     "description": "⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。",
     "language": "Python",
-    "star": "80"
+    "star": "85"
   },
   {
     "title": "HarisIqbal88/PlotNeuralNet",
     "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
     "description": "Latex code for making neural networks diagrams",
     "language": "TeX",
-    "star": "142"
+    "star": "157"
   },
   {
     "title": "cyrildiagne/ar-cutpaste",
     "url": "https://github.com/cyrildiagne/ar-cutpaste",
     "description": "Cut and paste your surroundings using AR",
     "language": "TypeScript",
-    "star": "118"
+    "star": "116"
   },
   {
     "title": "ClickHouse/ClickHouse",
     "url": "https://github.com/ClickHouse/ClickHouse",
     "description": "ClickHouse® is a free analytics DBMS for big data",
     "language": "C++",
-    "star": "60"
+    "star": "35"
   },
   {
     "title": "d3/d3",
     "url": "https://github.com/d3/d3",
     "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
     "language": "JavaScript",
-    "star": "27"
+    "star": "18"
   },
   {
     "title": "andrecronje/solidly",
     "url": "https://github.com/andrecronje/solidly",
     "description": "",
     "language": "Solidity",
-    "star": "39"
+    "star": "25"
   },
   {
     "title": "toniblyx/prowler",
     "url": "https://github.com/toniblyx/prowler",
     "description": "Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls covering CIS, ISO27001, GDPR, HIPAA, SOC2, ENS and other security frameworks.",
     "language": "Shell",
-    "star": "31"
+    "star": "7"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
     "language": "Java",
-    "star": "38"
+    "star": "21"
   },
   {
     "title": "angular/angular",
     "url": "https://github.com/angular/angular",
     "description": "The modern web developer’s platform",
     "language": "TypeScript",
-    "star": "64"
+    "star": "30"
   }
 ]
