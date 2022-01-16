@@ -4,21 +4,21 @@
     "url": "https://github.com/NVlabs/instant-ngp",
     "description": "Instant neural graphics primitives: lightning fast NeRF and more",
     "language": "Cuda",
-    "star": "210"
+    "star": "206"
   },
   {
     "title": "files-community/Files",
     "url": "https://github.com/files-community/Files",
     "description": "A modern file manager that pushes the boundaries of the platform.",
     "language": "C#",
-    "star": "412"
+    "star": "411"
   },
   {
     "title": "andrecronje/solidly",
     "url": "https://github.com/andrecronje/solidly",
     "description": "",
     "language": "Solidity",
-    "star": "47"
+    "star": "48"
   },
   {
     "title": "tachiyomiorg/tachiyomi",
@@ -32,21 +32,21 @@
     "url": "https://github.com/windowjs/windowjs",
     "description": "Window.js is an open-source Javascript runtime for desktop graphics programming.",
     "language": "C++",
-    "star": "135"
+    "star": "120"
   },
   {
     "title": "alyssaxuu/omni",
     "url": "https://github.com/alyssaxuu/omni",
     "description": "The all-in-one tool to supercharge your productivity ⌨️",
     "language": "JavaScript",
-    "star": "331"
+    "star": "380"
   },
   {
     "title": "ethereum/EIPs",
     "url": "https://github.com/ethereum/EIPs",
     "description": "The Ethereum Improvement Proposal repository",
     "language": "Solidity",
-    "star": "13"
+    "star": "11"
   },
   {
     "title": "imcuttle/mometa",
@@ -67,28 +67,28 @@
     "url": "https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller",
     "description": "A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc",
     "language": "C#",
-    "star": "35"
+    "star": "26"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "sergiomarotco/Network-segmentation-cheat-sheet",
     "url": "https://github.com/sergiomarotco/Network-segmentation-cheat-sheet",
     "description": "Best practices for segmentation of the corporate network of any company",
     "language": "none",
-    "star": "117"
+    "star": "166"
   },
   {
     "title": "github/roadmap",
     "url": "https://github.com/github/roadmap",
     "description": "GitHub public roadmap",
     "language": "none",
-    "star": "139"
+    "star": "150"
   },
   {
     "title": "hannahcode/wordle",
@@ -102,14 +102,14 @@
     "url": "https://github.com/ranaroussi/yfinance",
     "description": "Download market data from Yahoo! Finance's API",
     "language": "Python",
-    "star": "59"
+    "star": "45"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
     "language": "Java",
-    "star": "102"
+    "star": "93"
   },
   {
     "title": "bitcoin/bitcoin",
@@ -123,28 +123,28 @@
     "url": "https://github.com/KurtBestor/Hitomi-Downloader",
     "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
     "language": "Python",
-    "star": "400"
+    "star": "409"
   },
   {
     "title": "rufuspollock/awesome-crypto-critique",
     "url": "https://github.com/rufuspollock/awesome-crypto-critique",
     "description": "Awesome critique of crypto / web3. Curated list of high quality critique plus background. Seek to be as constructive as possible.",
     "language": "none",
-    "star": "40"
+    "star": "25"
   },
   {
     "title": "godotengine/godot",
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "34"
+    "star": "29"
   },
   {
     "title": "Textualize/rich",
     "url": "https://github.com/Textualize/rich",
     "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
     "language": "Python",
-    "star": "566"
+    "star": "499"
   },
   {
     "title": "Pierian-Data/Complete-Python-3-Bootcamp",
@@ -158,20 +158,20 @@
     "url": "https://github.com/topjohnwu/Magisk",
     "description": "The Magic Mask for Android",
     "language": "C++",
-    "star": "34"
+    "star": "20"
   },
   {
     "title": "HarisIqbal88/PlotNeuralNet",
     "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
     "description": "Latex code for making neural networks diagrams",
     "language": "TeX",
-    "star": "117"
+    "star": "134"
   },
   {
     "title": "aseprite/aseprite",
     "url": "https://github.com/aseprite/aseprite",
     "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
     "language": "C++",
-    "star": "123"
+    "star": "36"
   }
 ]
