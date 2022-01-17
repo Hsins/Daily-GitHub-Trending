@@ -4,7 +4,7 @@
     "url": "https://github.com/NVlabs/instant-ngp",
     "description": "Instant neural graphics primitives: lightning fast NeRF and more",
     "language": "Cuda",
-    "star": "280"
+    "star": "290"
   },
   {
     "title": "ytdl-org/youtube-dl",
@@ -32,7 +32,7 @@
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "63"
+    "star": "47"
   },
   {
     "title": "smartcontractkit/full-blockchain-solidity-course-py",
@@ -46,14 +46,14 @@
     "url": "https://github.com/Textualize/rich",
     "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
     "language": "Python",
-    "star": "447"
+    "star": "415"
   },
   {
     "title": "files-community/Files",
     "url": "https://github.com/files-community/Files",
     "description": "A modern file manager that pushes the boundaries of the platform.",
     "language": "C#",
-    "star": "454"
+    "star": "377"
   },
   {
     "title": "godotengine/godot",
@@ -81,7 +81,7 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "91"
+    "star": "89"
   },
   {
     "title": "bitcoin/bitcoin",
@@ -102,14 +102,14 @@
     "url": "https://github.com/sergiomarotco/Network-segmentation-cheat-sheet",
     "description": "Best practices for segmentation of the corporate network of any company",
     "language": "none",
-    "star": "364"
+    "star": "180"
   },
   {
     "title": "itcharge/LeetCode-Py",
     "url": "https://github.com/itcharge/LeetCode-Py",
     "description": "⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。",
     "language": "Python",
-    "star": "81"
+    "star": "78"
   },
   {
     "title": "2dust/v2rayN",
@@ -130,7 +130,7 @@
     "url": "https://github.com/Matthew-J-Spencer/Ultimate-2D-Controller",
     "description": "A great starting point for your 2D controller. Making use of all the hidden tricks like coyote, buffered actions, speedy apex, anti grav apex, etc",
     "language": "C#",
-    "star": "70"
+    "star": "74"
   },
   {
     "title": "tachiyomiorg/tachiyomi",
@@ -144,14 +144,14 @@
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "22"
+    "star": "34"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "126"
+    "star": "128"
   },
   {
     "title": "PCSX2/pcsx2",
@@ -165,13 +165,13 @@
     "url": "https://github.com/ethereum/EIPs",
     "description": "The Ethereum Improvement Proposal repository",
     "language": "Solidity",
-    "star": "46"
+    "star": "48"
   },
   {
     "title": "OpenZeppelin/openzeppelin-contracts",
     "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
     "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
     "language": "JavaScript",
-    "star": "27"
+    "star": "28"
   }
 ]
