@@ -1,0 +1,177 @@
+[
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "description": "Code for Data Engineer Zoomcamp course",
+    "language": "Jupyter Notebook",
+    "star": "456"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "language": "Cuda",
+    "star": "464"
+  },
+  {
+    "title": "XProger/OpenLara",
+    "url": "https://github.com/XProger/OpenLara",
+    "description": "Classic Tomb Raider open-source engine",
+    "language": "C",
+    "star": "216"
+  },
+  {
+    "title": "rickwierenga/sci-hub-injector",
+    "url": "https://github.com/rickwierenga/sci-hub-injector",
+    "description": "Adds SciHub links to popular publisher websites",
+    "language": "none",
+    "star": "155"
+  },
+  {
+    "title": "imcuttle/mometa",
+    "url": "https://github.com/imcuttle/mometa",
+    "description": "🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具",
+    "language": "TypeScript",
+    "star": "78"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "182"
+  },
+  {
+    "title": "jdah/minecraft-again",
+    "url": "https://github.com/jdah/minecraft-again",
+    "description": "yeah I made it again",
+    "language": "C",
+    "star": "67"
+  },
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+    "language": "TypeScript",
+    "star": "52"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-py",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-py",
+    "description": "Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition",
+    "language": "none",
+    "star": "101"
+  },
+  {
+    "title": "marktext/marktext",
+    "url": "https://github.com/marktext/marktext",
+    "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+    "language": "JavaScript",
+    "star": "176"
+  },
+  {
+    "title": "NVlabs/tiny-cuda-nn",
+    "url": "https://github.com/NVlabs/tiny-cuda-nn",
+    "description": "Lightning fast & tiny C++/CUDA neural network framework",
+    "language": "C++",
+    "star": "32"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "151"
+  },
+  {
+    "title": "sivan/heti",
+    "url": "https://github.com/sivan/heti",
+    "description": "赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。",
+    "language": "SCSS",
+    "star": "728"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "59"
+  },
+  {
+    "title": "evrimagaci/periodum",
+    "url": "https://github.com/evrimagaci/periodum",
+    "description": "Periodum: Türkiye'nin ilk ve en kapsamlı kimya ve periyodik tablo projesi!",
+    "language": "Vue",
+    "star": "29"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "description": "Statistical Rethinking course winter 2022",
+    "language": "R",
+    "star": "206"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
+    "language": "Java",
+    "star": "157"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "C",
+    "star": "241"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Solidity",
+    "star": "53"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "140"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "117"
+  },
+  {
+    "title": "hannahcode/wordle",
+    "url": "https://github.com/hannahcode/wordle",
+    "description": "A clone of the popular game Wordle made using React, Typescript, and Tailwind",
+    "language": "TypeScript",
+    "star": "43"
+  },
+  {
+    "title": "opsdisk/the_cyber_plumbers_handbook",
+    "url": "https://github.com/opsdisk/the_cyber_plumbers_handbook",
+    "description": "Free copy of The Cyber Plumber's Handbook",
+    "language": "none",
+    "star": "197"
+  },
+  {
+    "title": "Cerbersec/Ares",
+    "url": "https://github.com/Cerbersec/Ares",
+    "description": "Project Ares is a Proof of Concept (PoC) loader written in C/C++ based on the Transacted Hollowing technique",
+    "language": "C",
+    "star": "23"
+  },
+  {
+    "title": "aseprite/aseprite",
+    "url": "https://github.com/aseprite/aseprite",
+    "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "language": "C++",
+    "star": "125"
+  }
+]
