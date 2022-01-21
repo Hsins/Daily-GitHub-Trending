@@ -1,0 +1,177 @@
+[
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "408"
+  },
+  {
+    "title": "FaqT0tum/Orbion_Space_Mouse",
+    "url": "https://github.com/FaqT0tum/Orbion_Space_Mouse",
+    "description": "ORBION the OpenSource Space Mouse 3D",
+    "language": "C++",
+    "star": "77"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "language": "Ruby",
+    "star": "167"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "johnthebrit/CertificationMaterials",
+    "url": "https://github.com/johnthebrit/CertificationMaterials",
+    "description": "A collection of materials related to my certification videos",
+    "language": "none",
+    "star": "85"
+  },
+  {
+    "title": "sunface/rust-course",
+    "url": "https://github.com/sunface/rust-course",
+    "description": "<<Rust语言圣经(Book & Course)>>对Rust语言进行全面且深入的讲解，书中辅以生动的示例和习题，带你攻克从入门学习到实践应用的各种难关。 我们的目标是做一门优秀的开源Rust教程(课程)——学Rust就上course.rs。",
+    "language": "Rust",
+    "star": "155"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "286"
+  },
+  {
+    "title": "risinglightdb/risinglight",
+    "url": "https://github.com/risinglightdb/risinglight",
+    "description": "RisingLight is an OLAP database system for educational purpose",
+    "language": "Rust",
+    "star": "23"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Go",
+    "star": "264"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated interview preparation materials for busy engineers",
+    "language": "JavaScript",
+    "star": "196"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "212"
+  },
+  {
+    "title": "hashicorp/terraform-provider-azurerm",
+    "url": "https://github.com/hashicorp/terraform-provider-azurerm",
+    "description": "Terraform provider for Azure Resource Manager",
+    "language": "Go",
+    "star": "4"
+  },
+  {
+    "title": "fireship-io/fireship.io",
+    "url": "https://github.com/fireship-io/fireship.io",
+    "description": "Build and ship your app faster https://fireship.io",
+    "language": "TypeScript",
+    "star": "17"
+  },
+  {
+    "title": "gchq/CyberChef",
+    "url": "https://github.com/gchq/CyberChef",
+    "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+    "language": "JavaScript",
+    "star": "328"
+  },
+  {
+    "title": "kunal-kushwaha/DevOps-Bootcamp",
+    "url": "https://github.com/kunal-kushwaha/DevOps-Bootcamp",
+    "description": "",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "quoid/userscripts",
+    "url": "https://github.com/quoid/userscripts",
+    "description": "An open-source userscript manager for Safari",
+    "language": "Swift",
+    "star": "19"
+  },
+  {
+    "title": "libffcv/ffcv",
+    "url": "https://github.com/libffcv/ffcv",
+    "description": "FFCV: Fast Forward Computer Vision (and other ML workloads!)",
+    "language": "Python",
+    "star": "246"
+  },
+  {
+    "title": "Elfocrash/.NET-Backend-Developer-Roadmap",
+    "url": "https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap",
+    "description": "Nick's Roadmap for a .NET Backend Developer working with Microservices",
+    "language": "none",
+    "star": "251"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "C++",
+    "star": "34"
+  },
+  {
+    "title": "nginx/nginx",
+    "url": "https://github.com/nginx/nginx",
+    "description": "An official read-only mirror of http://hg.nginx.org/nginx/ which is updated hourly. Pull requests on GitHub cannot be accepted and will be automatically closed. The proper way to submit changes to nginx is via the nginx development mailing list, see http://nginx.org/en/docs/contributing_changes.html",
+    "language": "C",
+    "star": "23"
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "description": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "language": "Go",
+    "star": "10"
+  },
+  {
+    "title": "sivan/heti",
+    "url": "https://github.com/sivan/heti",
+    "description": "赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。",
+    "language": "SCSS",
+    "star": "326"
+  },
+  {
+    "title": "dendronhq/dendron",
+    "url": "https://github.com/dendronhq/dendron",
+    "description": "The personal knowledge management (PKM) tool that grows as you do!",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "lima-vm/lima",
+    "url": "https://github.com/lima-vm/lima",
+    "description": "Linux virtual machines, typically on macOS, for running containerd",
+    "language": "Go",
+    "star": "65"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "An enterprise-class UI design language and React UI library",
+    "language": "TypeScript",
+    "star": "67"
+  }
+]
