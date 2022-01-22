@@ -1,0 +1,177 @@
+[
+  {
+    "title": "veler/DevToys",
+    "url": "https://github.com/veler/DevToys",
+    "description": "A Swiss Army knife for developers.",
+    "language": "C#",
+    "star": "434"
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "JavaScript",
+    "star": "123"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated interview preparation materials for busy engineers",
+    "language": "JavaScript",
+    "star": "307"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "422"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "288"
+  },
+  {
+    "title": "akutz/go-generics-the-hard-way",
+    "url": "https://github.com/akutz/go-generics-the-hard-way",
+    "description": "A hands-on approach to getting started with Go generics.",
+    "language": "Go",
+    "star": "90"
+  },
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+    "language": "TypeScript",
+    "star": "324"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "language": "Ruby",
+    "star": "134"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Go",
+    "star": "187"
+  },
+  {
+    "title": "lima-vm/lima",
+    "url": "https://github.com/lima-vm/lima",
+    "description": "Linux virtual machines, typically on macOS, for running containerd",
+    "language": "Go",
+    "star": "87"
+  },
+  {
+    "title": "ngneat/falso",
+    "url": "https://github.com/ngneat/falso",
+    "description": "All the Fake Data for All Your Real Needs 🙂",
+    "language": "TypeScript",
+    "star": "158"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "264"
+  },
+  {
+    "title": "hashicorp/consul",
+    "url": "https://github.com/hashicorp/consul",
+    "description": "Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.",
+    "language": "Go",
+    "star": "96"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "description": "🔗 Some useful websites for programmers.",
+    "language": "none",
+    "star": "50"
+  },
+  {
+    "title": "vercel/platforms",
+    "url": "https://github.com/vercel/platforms",
+    "description": "A template for site builders and low-code tools.",
+    "language": "JavaScript",
+    "star": "202"
+  },
+  {
+    "title": "yaronzz/Tidal-Media-Downloader",
+    "url": "https://github.com/yaronzz/Tidal-Media-Downloader",
+    "description": "Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)",
+    "language": "Python",
+    "star": "9"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "188"
+  },
+  {
+    "title": "NNNNolan/Ark",
+    "url": "https://github.com/NNNNolan/Ark",
+    "description": "诺兰方舟",
+    "language": "HTML",
+    "star": "29"
+  },
+  {
+    "title": "apache/hop",
+    "url": "https://github.com/apache/hop",
+    "description": "Hop Orchestration Platform",
+    "language": "Java",
+    "star": "13"
+  },
+  {
+    "title": "vuejs/core",
+    "url": "https://github.com/vuejs/core",
+    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "description": "A Python framework for creating reproducible, maintainable and modular data science code.",
+    "language": "Python",
+    "star": "89"
+  },
+  {
+    "title": "FACEGOOD/Audio2Face",
+    "url": "https://github.com/FACEGOOD/Audio2Face",
+    "description": "http://www.facegood.cc",
+    "language": "Python",
+    "star": "14"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "language": "Java",
+    "star": "33"
+  },
+  {
+    "title": "ag2s20150909/TTS",
+    "url": "https://github.com/ag2s20150909/TTS",
+    "description": "",
+    "language": "Java",
+    "star": "13"
+  }
+]
