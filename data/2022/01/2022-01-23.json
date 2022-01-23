@@ -1,0 +1,177 @@
+[
+  {
+    "title": "khuedoan/homelab",
+    "url": "https://github.com/khuedoan/homelab",
+    "description": "My self-hosting infrastructure, fully automated from empty disk to operating services",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "flxzt/rnote",
+    "url": "https://github.com/flxzt/rnote",
+    "description": "A simple drawing application to create handwritten notes.",
+    "language": "Rust",
+    "star": "148"
+  },
+  {
+    "title": "veler/DevToys",
+    "url": "https://github.com/veler/DevToys",
+    "description": "A Swiss Army knife for developers.",
+    "language": "C#",
+    "star": "885"
+  },
+  {
+    "title": "vercel/platforms",
+    "url": "https://github.com/vercel/platforms",
+    "description": "A template for site builders and low-code tools.",
+    "language": "JavaScript",
+    "star": "206"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "269"
+  },
+  {
+    "title": "akutz/go-generics-the-hard-way",
+    "url": "https://github.com/akutz/go-generics-the-hard-way",
+    "description": "A hands-on approach to getting started with Go generics.",
+    "language": "Go",
+    "star": "93"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "91"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "504"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated interview preparation materials for busy engineers",
+    "language": "JavaScript",
+    "star": "217"
+  },
+  {
+    "title": "kedro-org/kedro",
+    "url": "https://github.com/kedro-org/kedro",
+    "description": "A Python framework for creating reproducible, maintainable and modular data science code.",
+    "language": "Python",
+    "star": "411"
+  },
+  {
+    "title": "cybersecsi/HOUDINI",
+    "url": "https://github.com/cybersecsi/HOUDINI",
+    "description": "Hundreds of Offensive and Useful Docker Images for Network Intrusion. The name says it all.",
+    "language": "TypeScript",
+    "star": "129"
+  },
+  {
+    "title": "trufflesuite/ganache",
+    "url": "https://github.com/trufflesuite/ganache",
+    "description": "A tool for creating a local blockchain for fast Ethereum development.",
+    "language": "TypeScript",
+    "star": "16"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "63"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "description": "Experimental Nintendo Switch Emulator written in C#",
+    "language": "C#",
+    "star": "23"
+  },
+  {
+    "title": "fireship-io/fireship.io",
+    "url": "https://github.com/fireship-io/fireship.io",
+    "description": "Build and ship your app faster https://fireship.io",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "description": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
+    "language": "Shell",
+    "star": "41"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "219"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..",
+    "language": "TypeScript",
+    "star": "104"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "language": "Java",
+    "star": "237"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "136"
+  },
+  {
+    "title": "Klipper3d/klipper",
+    "url": "https://github.com/Klipper3d/klipper",
+    "description": "Klipper is a 3d-printer firmware",
+    "language": "C",
+    "star": "5"
+  },
+  {
+    "title": "fireship-io/nft-art-generator",
+    "url": "https://github.com/fireship-io/nft-art-generator",
+    "description": "A simple randomized NFT art generator",
+    "language": "JavaScript",
+    "star": "7"
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "description": "OpenCore bootloader",
+    "language": "C",
+    "star": "8"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "51"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "51"
+  }
+]
