@@ -4,56 +4,56 @@
     "url": "https://github.com/veler/DevToys",
     "description": "A Swiss Army knife for developers.",
     "language": "C#",
-    "star": "845"
+    "star": "802"
   },
   {
     "title": "doocs/leetcode",
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "257"
+    "star": "224"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "466"
+    "star": "446"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "234"
+    "star": "199"
   },
   {
     "title": "khuedoan/homelab",
     "url": "https://github.com/khuedoan/homelab",
     "description": "My self-hosting infrastructure, fully automated from empty disk to operating services",
     "language": "Python",
-    "star": "836"
+    "star": "952"
   },
   {
     "title": "sickcodes/Docker-OSX",
     "url": "https://github.com/sickcodes/Docker-OSX",
     "description": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
     "language": "Shell",
-    "star": "188"
+    "star": "231"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "249"
+    "star": "248"
   },
   {
     "title": "DustinBrett/daedalOS",
     "url": "https://github.com/DustinBrett/daedalOS",
     "description": "Desktop environment in the browser.",
     "language": "JavaScript",
-    "star": "97"
+    "star": "108"
   },
   {
     "title": "IBAX-io/go-ibax",
@@ -67,56 +67,56 @@
     "url": "https://github.com/Ryujinx/Ryujinx",
     "description": "Experimental Nintendo Switch Emulator written in C#",
     "language": "C#",
-    "star": "113"
+    "star": "116"
   },
   {
     "title": "yuzu-emu/yuzu",
     "url": "https://github.com/yuzu-emu/yuzu",
     "description": "Nintendo Switch Emulator",
     "language": "C++",
-    "star": "142"
+    "star": "136"
   },
   {
     "title": "ocornut/imgui",
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "42"
+    "star": "25"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "303"
+    "star": "324"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "22"
+    "star": "21"
   },
   {
     "title": "akutz/go-generics-the-hard-way",
     "url": "https://github.com/akutz/go-generics-the-hard-way",
     "description": "A hands-on approach to getting started with Go generics.",
     "language": "Go",
-    "star": "184"
+    "star": "171"
   },
   {
     "title": "kedro-org/kedro",
     "url": "https://github.com/kedro-org/kedro",
     "description": "A Python framework for creating reproducible, maintainable and modular data science code.",
     "language": "Python",
-    "star": "265"
+    "star": "266"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "188"
+    "star": "111"
   },
   {
     "title": "chiru-labs/ERC721A",
@@ -130,21 +130,21 @@
     "url": "https://github.com/jonmatthis/freemocap",
     "description": "Free like Freedom",
     "language": "Python",
-    "star": "23"
+    "star": "11"
   },
   {
     "title": "tokio-rs/axum",
     "url": "https://github.com/tokio-rs/axum",
     "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
     "language": "Rust",
-    "star": "49"
+    "star": "55"
   },
   {
     "title": "flxzt/rnote",
     "url": "https://github.com/flxzt/rnote",
     "description": "A simple drawing application to create handwritten notes.",
     "language": "Rust",
-    "star": "210"
+    "star": "266"
   },
   {
     "title": "arvidn/libtorrent",
@@ -158,14 +158,14 @@
     "url": "https://github.com/mljar/mercury",
     "description": "Mercury: easily convert Python notebook to web app and share with others",
     "language": "TypeScript",
-    "star": "52"
+    "star": "116"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "199"
+    "star": "161"
   },
   {
     "title": "radareorg/radare2",
