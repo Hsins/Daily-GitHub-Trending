@@ -4,28 +4,28 @@
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "254"
+    "star": "247"
   },
   {
     "title": "veler/DevToys",
     "url": "https://github.com/veler/DevToys",
     "description": "A Swiss Army knife for developers.",
     "language": "C#",
-    "star": "1"
+    "star": "954"
   },
   {
     "title": "ansible/ansible",
     "url": "https://github.com/ansible/ansible",
     "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
     "language": "Python",
-    "star": "24"
+    "star": "20"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "487"
+    "star": "579"
   },
   {
     "title": "IBAX-io/go-ibax",
@@ -39,28 +39,28 @@
     "url": "https://github.com/kedro-org/kedro",
     "description": "A Python framework for creating reproducible, maintainable and modular data science code.",
     "language": "Python",
-    "star": "247"
+    "star": "236"
   },
   {
     "title": "arcxingye/EatKano",
     "url": "https://github.com/arcxingye/EatKano",
     "description": "小游戏：吃掉小鹿乃",
     "language": "JavaScript",
-    "star": "120"
+    "star": "119"
   },
   {
     "title": "lanceliao/china-holiday-calender",
     "url": "https://github.com/lanceliao/china-holiday-calender",
     "description": "中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calender、Outlook等客户端订阅",
     "language": "none",
-    "star": "105"
+    "star": "101"
   },
   {
     "title": "huginn/huginn",
     "url": "https://github.com/huginn/huginn",
     "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
     "language": "Ruby",
-    "star": "154"
+    "star": "153"
   },
   {
     "title": "charmbracelet/bubbletea",
@@ -74,28 +74,28 @@
     "url": "https://github.com/KikiHobbyRepair/SpaceRat",
     "description": "",
     "language": "C++",
-    "star": "12"
+    "star": "11"
   },
   {
     "title": "flxzt/rnote",
     "url": "https://github.com/flxzt/rnote",
     "description": "A simple drawing application to create handwritten notes.",
     "language": "Rust",
-    "star": "286"
+    "star": "164"
   },
   {
     "title": "troyeguo/koodo-reader",
     "url": "https://github.com/troyeguo/koodo-reader",
     "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
     "language": "JavaScript",
-    "star": "70"
+    "star": "104"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "283"
+    "star": "286"
   },
   {
     "title": "ariga/atlas",
@@ -123,7 +123,7 @@
     "url": "https://github.com/trakBan/spongebob-cli",
     "description": "Watch classic spongebob from the terminal!",
     "language": "Python",
-    "star": "52"
+    "star": "48"
   },
   {
     "title": "wesm/pydata-book",
@@ -137,21 +137,21 @@
     "url": "https://github.com/akutz/go-generics-the-hard-way",
     "description": "A hands-on approach to getting started with Go generics.",
     "language": "Go",
-    "star": "130"
+    "star": "210"
   },
   {
     "title": "mantinedev/mantine",
     "url": "https://github.com/mantinedev/mantine",
     "description": "React components library with native dark theme support",
     "language": "TypeScript",
-    "star": "98"
+    "star": "168"
   },
   {
     "title": "sickcodes/Docker-OSX",
     "url": "https://github.com/sickcodes/Docker-OSX",
     "description": "Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!",
     "language": "Shell",
-    "star": "279"
+    "star": "237"
   },
   {
     "title": "mli/paper-reading",
@@ -165,13 +165,13 @@
     "url": "https://github.com/chiru-labs/ERC721A",
     "description": "https://ERC721A.org",
     "language": "Solidity",
-    "star": "35"
+    "star": "55"
   },
   {
     "title": "mrdoob/three.js",
     "url": "https://github.com/mrdoob/three.js",
     "description": "JavaScript 3D Library.",
     "language": "JavaScript",
-    "star": "74"
+    "star": "40"
   }
 ]
