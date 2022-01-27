@@ -11,56 +11,56 @@
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "226"
+    "star": "165"
   },
   {
     "title": "scikit-learn/scikit-learn",
     "url": "https://github.com/scikit-learn/scikit-learn",
     "description": "scikit-learn: machine learning in Python",
     "language": "Python",
-    "star": "40"
+    "star": "38"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "64"
+    "star": "67"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "153"
+    "star": "149"
   },
   {
     "title": "nccgroup/nmap-nse-vulnerability-scripts",
     "url": "https://github.com/nccgroup/nmap-nse-vulnerability-scripts",
     "description": "NMAP Vulnerability Scanning Scripts",
     "language": "Lua",
-    "star": "106"
+    "star": "101"
   },
   {
     "title": "ukncsc/SME",
     "url": "https://github.com/ukncsc/SME",
     "description": "",
     "language": "none",
-    "star": "91"
+    "star": "103"
   },
   {
     "title": "mszoek/airyx",
     "url": "https://github.com/mszoek/airyx",
     "description": "A BSD-based OS project that aims to provide an experience like and some compatibility with macOS",
     "language": "C",
-    "star": "107"
+    "star": "102"
   },
   {
     "title": "RunaCapital/awesome-oss-alternatives",
     "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
     "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
     "language": "Python",
-    "star": "364"
+    "star": "366"
   },
   {
     "title": "Idov31/FunctionStomping",
@@ -74,14 +74,14 @@
     "url": "https://github.com/IBAX-io/go-ibax",
     "description": "An innovative Blockchain Protocol Platform, which everyone can deploy their own applications quickly and easily, such as Dapp, DeFi, DAO, Cross-Blockchain transactions, etc.",
     "language": "Go",
-    "star": "689"
+    "star": "781"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "104"
+    "star": "100"
   },
   {
     "title": "kunal-kushwaha/DevOps-Bootcamp",
@@ -116,21 +116,21 @@
     "url": "https://github.com/mli/paper-reading",
     "description": "深度学习经典、新论文逐段精读",
     "language": "none",
-    "star": "123"
+    "star": "146"
   },
   {
     "title": "TheAlgorithms/Javascript",
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "Algorithms implemented in Javascript for beginners, following best practices.",
     "language": "JavaScript",
-    "star": "60"
+    "star": "47"
   },
   {
     "title": "Mrs4s/go-cqhttp",
     "url": "https://github.com/Mrs4s/go-cqhttp",
     "description": "cqhttp的golang实现，轻量、原生跨平台.",
     "language": "Go",
-    "star": "23"
+    "star": "22"
   },
   {
     "title": "pedroslopez/whatsapp-web.js",
@@ -144,34 +144,34 @@
     "url": "https://github.com/ariga/atlas",
     "description": "A database toolkit",
     "language": "Go",
-    "star": "129"
+    "star": "128"
   },
   {
     "title": "DustinBrett/daedalOS",
     "url": "https://github.com/DustinBrett/daedalOS",
     "description": "Desktop environment in the browser.",
     "language": "JavaScript",
-    "star": "112"
+    "star": "105"
   },
   {
     "title": "prometheus/prometheus",
     "url": "https://github.com/prometheus/prometheus",
     "description": "The Prometheus monitoring system and time series database.",
     "language": "Go",
-    "star": "17"
+    "star": "73"
   },
   {
     "title": "tensorflow/tensorflow",
     "url": "https://github.com/tensorflow/tensorflow",
     "description": "An Open Source Machine Learning Framework for Everyone",
     "language": "C++",
-    "star": "65"
+    "star": "55"
   },
   {
     "title": "ansible/ansible",
     "url": "https://github.com/ansible/ansible",
     "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
     "language": "Python",
-    "star": "128"
+    "star": "140"
   }
 ]
