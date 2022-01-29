@@ -46,21 +46,21 @@
     "url": "https://github.com/torvalds/linux",
     "description": "Linux kernel source tree",
     "language": "C",
-    "star": "371"
+    "star": "366"
   },
   {
     "title": "RunaCapital/awesome-oss-alternatives",
     "url": "https://github.com/RunaCapital/awesome-oss-alternatives",
     "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀",
     "language": "Python",
-    "star": "474"
+    "star": "472"
   },
   {
     "title": "microsoft/playwright",
     "url": "https://github.com/microsoft/playwright",
     "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
     "language": "TypeScript",
-    "star": "198"
+    "star": "195"
   },
   {
     "title": "jackfrued/Python-100-Days",
@@ -74,7 +74,7 @@
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "161"
+    "star": "159"
   },
   {
     "title": "KaLendsi/CVE-2022-21882",
@@ -109,7 +109,7 @@
     "url": "https://github.com/arthepsy/CVE-2021-4034",
     "description": "PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)",
     "language": "C",
-    "star": "139"
+    "star": "136"
   },
   {
     "title": "DustinBrett/daedalOS",
@@ -158,7 +158,7 @@
     "url": "https://github.com/SBoudrias/Inquirer.js",
     "description": "A collection of common interactive command line user interfaces.",
     "language": "JavaScript",
-    "star": "40"
+    "star": "43"
   },
   {
     "title": "emilk/egui",
