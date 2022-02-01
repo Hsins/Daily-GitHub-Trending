@@ -4,7 +4,7 @@
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "99"
+    "star": "103"
   },
   {
     "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
@@ -18,14 +18,14 @@
     "url": "https://github.com/hannahcode/word-guessing-game",
     "description": "A word guessing game made using React, Typescript, and Tailwind",
     "language": "TypeScript",
-    "star": "142"
+    "star": "143"
   },
   {
     "title": "jazzband/pip-tools",
     "url": "https://github.com/jazzband/pip-tools",
     "description": "A set of tools to keep your pinned Python dependencies fresh.",
     "language": "Python",
-    "star": "36"
+    "star": "34"
   },
   {
     "title": "Jxck-S/plane-notify",
@@ -39,70 +39,70 @@
     "url": "https://github.com/josephmisiti/awesome-machine-learning",
     "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "language": "Python",
-    "star": "69"
+    "star": "68"
   },
   {
     "title": "AppFlowy-IO/appflowy",
     "url": "https://github.com/AppFlowy-IO/appflowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "language": "Rust",
-    "star": "311"
+    "star": "303"
   },
   {
     "title": "TheAlgorithms/Go",
     "url": "https://github.com/TheAlgorithms/Go",
     "description": "Algorithms implemented in Go for beginners, following best practices.",
     "language": "Go",
-    "star": "209"
+    "star": "203"
   },
   {
     "title": "bilibili/ailab",
     "url": "https://github.com/bilibili/ailab",
     "description": "",
     "language": "Python",
-    "star": "91"
+    "star": "96"
   },
   {
     "title": "skyline-emu/skyline",
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C++",
-    "star": "58"
+    "star": "47"
   },
   {
     "title": "files-community/Files",
     "url": "https://github.com/files-community/Files",
     "description": "A modern file manager for Windows",
     "language": "C#",
-    "star": "168"
+    "star": "172"
   },
   {
     "title": "ciderapp/Cider",
     "url": "https://github.com/ciderapp/Cider",
     "description": "Project Cider. A new look into listening and enjoying Apple Music in style and performance. 🚀",
     "language": "JavaScript",
-    "star": "182"
+    "star": "183"
   },
   {
     "title": "ytdl-org/youtube-dl",
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "70"
+    "star": "71"
   },
   {
     "title": "mui-org/material-ui",
     "url": "https://github.com/mui-org/material-ui",
     "description": "MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
     "language": "JavaScript",
-    "star": "75"
+    "star": "81"
   },
   {
     "title": "uutils/coreutils",
     "url": "https://github.com/uutils/coreutils",
     "description": "Cross-platform Rust rewrite of the GNU coreutils",
     "language": "Rust",
-    "star": "140"
+    "star": "142"
   },
   {
     "title": "iptv-org/iptv",
@@ -116,42 +116,42 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "209"
+    "star": "213"
   },
   {
     "title": "cshum/imagor",
     "url": "https://github.com/cshum/imagor",
     "description": "Fast, Docker-ready image processing server written in Go",
     "language": "Go",
-    "star": "74"
+    "star": "76"
   },
   {
     "title": "netbox-community/netbox",
     "url": "https://github.com/netbox-community/netbox",
     "description": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
     "language": "Python",
-    "star": "40"
+    "star": "41"
   },
   {
     "title": "graviraja/MLOps-Basics",
     "url": "https://github.com/graviraja/MLOps-Basics",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "44"
+    "star": "45"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "350"
+    "star": "352"
   },
   {
     "title": "DataDog/stratus-red-team",
     "url": "https://github.com/DataDog/stratus-red-team",
     "description": "☁️ ⚡ Granular, Actionable Adversary Emulation for the Cloud.",
     "language": "Go",
-    "star": "51"
+    "star": "53"
   },
   {
     "title": "Chia-Network/chia-blockchain",
@@ -165,13 +165,13 @@
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "66"
+    "star": "64"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "141"
+    "star": "138"
   }
 ]
