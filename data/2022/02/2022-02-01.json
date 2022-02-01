@@ -1,0 +1,177 @@
+[
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "description": "Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test",
+    "language": "none",
+    "star": "236"
+  },
+  {
+    "title": "hannahcode/word-guessing-game",
+    "url": "https://github.com/hannahcode/word-guessing-game",
+    "description": "A word guessing game made using React, Typescript, and Tailwind",
+    "language": "TypeScript",
+    "star": "139"
+  },
+  {
+    "title": "jazzband/pip-tools",
+    "url": "https://github.com/jazzband/pip-tools",
+    "description": "A set of tools to keep your pinned Python dependencies fresh.",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "description": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "language": "Python",
+    "star": "102"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "language": "Python",
+    "star": "60"
+  },
+  {
+    "title": "AppFlowy-IO/appflowy",
+    "url": "https://github.com/AppFlowy-IO/appflowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "language": "Rust",
+    "star": "324"
+  },
+  {
+    "title": "TheAlgorithms/Go",
+    "url": "https://github.com/TheAlgorithms/Go",
+    "description": "Algorithms implemented in Go for beginners, following best practices.",
+    "language": "Go",
+    "star": "204"
+  },
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "description": "",
+    "language": "Python",
+    "star": "91"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!",
+    "language": "C++",
+    "star": "51"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "description": "A modern file manager for Windows",
+    "language": "C#",
+    "star": "160"
+  },
+  {
+    "title": "ciderapp/Cider",
+    "url": "https://github.com/ciderapp/Cider",
+    "description": "Project Cider. A new look into listening and enjoying Apple Music in style and performance. 🚀",
+    "language": "JavaScript",
+    "star": "185"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "description": "MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
+    "language": "JavaScript",
+    "star": "71"
+  },
+  {
+    "title": "uutils/coreutils",
+    "url": "https://github.com/uutils/coreutils",
+    "description": "Cross-platform Rust rewrite of the GNU coreutils",
+    "language": "Rust",
+    "star": "145"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "202"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "209"
+  },
+  {
+    "title": "cshum/imagor",
+    "url": "https://github.com/cshum/imagor",
+    "description": "Fast, Docker-ready image processing server written in Go",
+    "language": "Go",
+    "star": "65"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "description": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "graviraja/MLOps-Basics",
+    "url": "https://github.com/graviraja/MLOps-Basics",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "44"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "365"
+  },
+  {
+    "title": "DataDog/stratus-red-team",
+    "url": "https://github.com/DataDog/stratus-red-team",
+    "description": "☁️ ⚡ Granular, Actionable Adversary Emulation for the Cloud.",
+    "language": "Go",
+    "star": "48"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "138"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "65"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "132"
+  }
+]
