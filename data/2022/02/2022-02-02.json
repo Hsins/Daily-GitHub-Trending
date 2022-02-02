@@ -1,0 +1,177 @@
+[
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "90"
+  },
+  {
+    "title": "hannahcode/word-guessing-game",
+    "url": "https://github.com/hannahcode/word-guessing-game",
+    "description": "A word guessing game made using React, Typescript, and Tailwind",
+    "language": "TypeScript",
+    "star": "126"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "137"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "description": "A massively parallel, optimal functional runtime in Rust",
+    "language": "Rust",
+    "star": "492"
+  },
+  {
+    "title": "nlp-with-transformers/notebooks",
+    "url": "https://github.com/nlp-with-transformers/notebooks",
+    "description": "Jupyter notebooks for Natural Language Processing with Transformers",
+    "language": "Jupyter Notebook",
+    "star": "72"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "225"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "122"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "102"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "description": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "language": "Python",
+    "star": "460"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "79"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "description": "Full reference of LinkedIn answers 2022 for skill assessments, LinkedIn test, questions and answers (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test",
+    "language": "none",
+    "star": "236"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+    "language": "Java",
+    "star": "18"
+  },
+  {
+    "title": "vopani/jaxton",
+    "url": "https://github.com/vopani/jaxton",
+    "description": "100 exercises to learn JAX",
+    "language": "Jupyter Notebook",
+    "star": "20"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "language": "JavaScript",
+    "star": "39"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "50"
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "star": "78"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "Shell",
+    "star": "5"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "206"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "36"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "description": "The communications platform that puts data protection first.",
+    "language": "JavaScript",
+    "star": "51"
+  },
+  {
+    "title": "solana-labs/solana-pay",
+    "url": "https://github.com/solana-labs/solana-pay",
+    "description": "A new standard for decentralized payments.",
+    "language": "TypeScript",
+    "star": "132"
+  },
+  {
+    "title": "typeorm/typeorm",
+    "url": "https://github.com/typeorm/typeorm",
+    "description": "ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "language": "TypeScript",
+    "star": "17"
+  },
+  {
+    "title": "flashbots/simple-arbitrage",
+    "url": "https://github.com/flashbots/simple-arbitrage",
+    "description": "Example arbitrage bot using Flashbots",
+    "language": "TypeScript",
+    "star": "14"
+  },
+  {
+    "title": "reprise99/Sentinel-Queries",
+    "url": "https://github.com/reprise99/Sentinel-Queries",
+    "description": "Collection of KQL queries",
+    "language": "none",
+    "star": "13"
+  },
+  {
+    "title": "gitpod-io/gitpod",
+    "url": "https://github.com/gitpod-io/gitpod",
+    "description": "Gitpod automates the provisioning of ready-to-code development environments.",
+    "language": "TypeScript",
+    "star": "47"
+  }
+]
