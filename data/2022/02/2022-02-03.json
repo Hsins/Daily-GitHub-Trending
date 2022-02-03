@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ThioJoe/YT-Spammer-Purge",
+    "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
+    "description": "Allows you easily scan for and delete scam comments using several methods.",
+    "language": "Python",
+    "star": "273"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "152"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "description": "A massively parallel, optimal functional runtime in Rust",
+    "language": "Rust",
+    "star": "598"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "language": "JavaScript",
+    "star": "41"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "156"
+  },
+  {
+    "title": "hannahcode/word-guessing-game",
+    "url": "https://github.com/hannahcode/word-guessing-game",
+    "description": "A word guessing game made using React, Typescript, and Tailwind",
+    "language": "TypeScript",
+    "star": "121"
+  },
+  {
+    "title": "solana-labs/solana-pay",
+    "url": "https://github.com/solana-labs/solana-pay",
+    "description": "A new standard for decentralized payments.",
+    "language": "TypeScript",
+    "star": "138"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "125"
+  },
+  {
+    "title": "Jxck-S/plane-notify",
+    "url": "https://github.com/Jxck-S/plane-notify",
+    "description": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
+    "language": "Python",
+    "star": "181"
+  },
+  {
+    "title": "flashbots/simple-arbitrage",
+    "url": "https://github.com/flashbots/simple-arbitrage",
+    "description": "Example arbitrage bot using Flashbots",
+    "language": "TypeScript",
+    "star": "35"
+  },
+  {
+    "title": "pysemtec/semantic-python-overview",
+    "url": "https://github.com/pysemtec/semantic-python-overview",
+    "description": "(subjective) overview of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...)",
+    "language": "none",
+    "star": "26"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "222"
+  },
+  {
+    "title": "patrikzudel/PatrikZeros-CSGO-Sound-Fix",
+    "url": "https://github.com/patrikzudel/PatrikZeros-CSGO-Sound-Fix",
+    "description": "Program that lowers volume when aren't alive and get flashed in CS:GO. It aims to lower the chance of hearing damage by reducing overall sound exposure. Uses game state integration. Anti-cheat safe.",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "103"
+  },
+  {
+    "title": "flxzt/rnote",
+    "url": "https://github.com/flxzt/rnote",
+    "description": "A simple drawing application to create handwritten notes.",
+    "language": "Rust",
+    "star": "97"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "star": "67"
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "description": "MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
+    "language": "JavaScript",
+    "star": "38"
+  },
+  {
+    "title": "netbox-community/netbox",
+    "url": "https://github.com/netbox-community/netbox",
+    "description": "Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "language": "Python",
+    "star": "14"
+  },
+  {
+    "title": "cosmic-horizon/testnets",
+    "url": "https://github.com/cosmic-horizon/testnets",
+    "description": "",
+    "language": "Shell",
+    "star": "3"
+  },
+  {
+    "title": "decalage2/awesome-security-hardening",
+    "url": "https://github.com/decalage2/awesome-security-hardening",
+    "description": "A collection of awesome security hardening guides, tools and other resources",
+    "language": "none",
+    "star": "72"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "description": "The communications platform that puts data protection first.",
+    "language": "JavaScript",
+    "star": "77"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "description": "The Kotlin Programming Language.",
+    "language": "Kotlin",
+    "star": "12"
+  },
+  {
+    "title": "DGP-Studio/Snap.Genshin",
+    "url": "https://github.com/DGP-Studio/Snap.Genshin",
+    "description": "就是 Snap Genshin",
+    "language": "C#",
+    "star": "31"
+  },
+  {
+    "title": "certusone/wormhole",
+    "url": "https://github.com/certusone/wormhole",
+    "description": "Certus One's reference implementation for the Wormhole blockchain interoperability protocol.",
+    "language": "TypeScript",
+    "star": "25"
+  }
+]
