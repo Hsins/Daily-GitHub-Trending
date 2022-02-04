@@ -4,7 +4,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "171"
+    "star": "190"
   },
   {
     "title": "logseq/logseq",
@@ -18,21 +18,21 @@
     "url": "https://github.com/fly-apps/live_beats",
     "description": "",
     "language": "Elixir",
-    "star": "79"
+    "star": "81"
   },
   {
     "title": "certusone/wormhole",
     "url": "https://github.com/certusone/wormhole",
     "description": "Certus One's reference implementation for the Wormhole blockchain interoperability protocol.",
     "language": "TypeScript",
-    "star": "60"
+    "star": "61"
   },
   {
     "title": "Universidade-Livre/ciencia-da-computacao",
     "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
     "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
     "language": "none",
-    "star": "129"
+    "star": "190"
   },
   {
     "title": "thefLink/RecycledGate",
@@ -53,7 +53,7 @@
     "url": "https://github.com/Kindelia/HVM",
     "description": "A massively parallel, optimal functional runtime in Rust",
     "language": "Rust",
-    "star": "456"
+    "star": "396"
   },
   {
     "title": "cosmic-horizon/testnets",
@@ -67,7 +67,7 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "263"
+    "star": "265"
   },
   {
     "title": "alex/what-happens-when",
@@ -81,21 +81,21 @@
     "url": "https://github.com/TeamNewPipe/NewPipe",
     "description": "A libre lightweight streaming front-end for Android.",
     "language": "Java",
-    "star": "135"
+    "star": "82"
   },
   {
     "title": "Budibase/budibase",
     "url": "https://github.com/Budibase/budibase",
     "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
     "language": "JavaScript",
-    "star": "232"
+    "star": "229"
   },
   {
     "title": "AdRoll/rustenstein",
     "url": "https://github.com/AdRoll/rustenstein",
     "description": "Rustenstein 3D: Game programming like it's 1992",
     "language": "Rust",
-    "star": "33"
+    "star": "22"
   },
   {
     "title": "BuilderIO/partytown",
@@ -116,7 +116,7 @@
     "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
     "description": "Allows you easily scan for and delete scam comments using several methods.",
     "language": "Python",
-    "star": "309"
+    "star": "322"
   },
   {
     "title": "flutter/flutter",
@@ -137,35 +137,35 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "80"
+    "star": "81"
   },
   {
     "title": "solana-labs/solana-pay",
     "url": "https://github.com/solana-labs/solana-pay",
     "description": "A new standard for decentralized payments.",
     "language": "TypeScript",
-    "star": "112"
+    "star": "126"
   },
   {
     "title": "serverless-stack/serverless-stack",
     "url": "https://github.com/serverless-stack/serverless-stack",
     "description": "💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com",
     "language": "TypeScript",
-    "star": "55"
+    "star": "31"
   },
   {
     "title": "NaturalSelectionLabs/RSS3-Protocol",
     "url": "https://github.com/NaturalSelectionLabs/RSS3-Protocol",
     "description": "RSS3 is a next-generation feed standard that aims to support efficient and decentralized information distribution.",
     "language": "none",
-    "star": "7"
+    "star": "21"
   },
   {
     "title": "pybind/pybind11",
     "url": "https://github.com/pybind/pybind11",
     "description": "Seamless operability between C++11 and Python",
     "language": "C++",
-    "star": "11"
+    "star": "27"
   },
   {
     "title": "hashicorp/vault",
