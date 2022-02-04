@@ -4,7 +4,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "190"
+    "star": "171"
   },
   {
     "title": "logseq/logseq",
@@ -25,7 +25,7 @@
     "url": "https://github.com/certusone/wormhole",
     "description": "Certus One's reference implementation for the Wormhole blockchain interoperability protocol.",
     "language": "TypeScript",
-    "star": "61"
+    "star": "60"
   },
   {
     "title": "Universidade-Livre/ciencia-da-computacao",
@@ -39,7 +39,7 @@
     "url": "https://github.com/thefLink/RecycledGate",
     "description": "Hellsgate + Halosgate/Tartarosgate. Ensures that all systemcalls go through ntdll.dll",
     "language": "C",
-    "star": "22"
+    "star": "26"
   },
   {
     "title": "dotnet/csharplang",
@@ -53,7 +53,7 @@
     "url": "https://github.com/Kindelia/HVM",
     "description": "A massively parallel, optimal functional runtime in Rust",
     "language": "Rust",
-    "star": "396"
+    "star": "389"
   },
   {
     "title": "cosmic-horizon/testnets",
@@ -67,21 +67,21 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "265"
+    "star": "310"
   },
   {
     "title": "alex/what-happens-when",
     "url": "https://github.com/alex/what-happens-when",
     "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
     "language": "none",
-    "star": "30"
+    "star": "61"
   },
   {
     "title": "TeamNewPipe/NewPipe",
     "url": "https://github.com/TeamNewPipe/NewPipe",
     "description": "A libre lightweight streaming front-end for Android.",
     "language": "Java",
-    "star": "82"
+    "star": "132"
   },
   {
     "title": "Budibase/budibase",
@@ -102,7 +102,7 @@
     "url": "https://github.com/BuilderIO/partytown",
     "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
     "language": "TypeScript",
-    "star": "72"
+    "star": "53"
   },
   {
     "title": "leaningtech/webvm",
@@ -116,14 +116,14 @@
     "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
     "description": "Allows you easily scan for and delete scam comments using several methods.",
     "language": "Python",
-    "star": "322"
+    "star": "354"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "70"
+    "star": "111"
   },
   {
     "title": "google/go-github",
@@ -137,14 +137,14 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "81"
+    "star": "82"
   },
   {
     "title": "solana-labs/solana-pay",
     "url": "https://github.com/solana-labs/solana-pay",
     "description": "A new standard for decentralized payments.",
     "language": "TypeScript",
-    "star": "126"
+    "star": "129"
   },
   {
     "title": "serverless-stack/serverless-stack",
@@ -158,14 +158,14 @@
     "url": "https://github.com/NaturalSelectionLabs/RSS3-Protocol",
     "description": "RSS3 is a next-generation feed standard that aims to support efficient and decentralized information distribution.",
     "language": "none",
-    "star": "21"
+    "star": "7"
   },
   {
     "title": "pybind/pybind11",
     "url": "https://github.com/pybind/pybind11",
     "description": "Seamless operability between C++11 and Python",
     "language": "C++",
-    "star": "27"
+    "star": "7"
   },
   {
     "title": "hashicorp/vault",
