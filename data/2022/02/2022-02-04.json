@@ -18,7 +18,7 @@
     "url": "https://github.com/fly-apps/live_beats",
     "description": "",
     "language": "Elixir",
-    "star": "81"
+    "star": "79"
   },
   {
     "title": "certusone/wormhole",
@@ -32,14 +32,14 @@
     "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
     "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
     "language": "none",
-    "star": "190"
+    "star": "129"
   },
   {
     "title": "thefLink/RecycledGate",
     "url": "https://github.com/thefLink/RecycledGate",
     "description": "Hellsgate + Halosgate/Tartarosgate. Ensures that all systemcalls go through ntdll.dll",
     "language": "C",
-    "star": "26"
+    "star": "22"
   },
   {
     "title": "dotnet/csharplang",
@@ -53,7 +53,7 @@
     "url": "https://github.com/Kindelia/HVM",
     "description": "A massively parallel, optimal functional runtime in Rust",
     "language": "Rust",
-    "star": "389"
+    "star": "456"
   },
   {
     "title": "cosmic-horizon/testnets",
@@ -67,42 +67,42 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "310"
+    "star": "263"
   },
   {
     "title": "alex/what-happens-when",
     "url": "https://github.com/alex/what-happens-when",
     "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
     "language": "none",
-    "star": "61"
+    "star": "30"
   },
   {
     "title": "TeamNewPipe/NewPipe",
     "url": "https://github.com/TeamNewPipe/NewPipe",
     "description": "A libre lightweight streaming front-end for Android.",
     "language": "Java",
-    "star": "132"
+    "star": "135"
   },
   {
     "title": "Budibase/budibase",
     "url": "https://github.com/Budibase/budibase",
     "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
     "language": "JavaScript",
-    "star": "229"
+    "star": "232"
   },
   {
     "title": "AdRoll/rustenstein",
     "url": "https://github.com/AdRoll/rustenstein",
     "description": "Rustenstein 3D: Game programming like it's 1992",
     "language": "Rust",
-    "star": "22"
+    "star": "33"
   },
   {
     "title": "BuilderIO/partytown",
     "url": "https://github.com/BuilderIO/partytown",
     "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
     "language": "TypeScript",
-    "star": "53"
+    "star": "72"
   },
   {
     "title": "leaningtech/webvm",
@@ -116,14 +116,14 @@
     "url": "https://github.com/ThioJoe/YT-Spammer-Purge",
     "description": "Allows you easily scan for and delete scam comments using several methods.",
     "language": "Python",
-    "star": "354"
+    "star": "309"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "111"
+    "star": "70"
   },
   {
     "title": "google/go-github",
@@ -137,21 +137,21 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "82"
+    "star": "80"
   },
   {
     "title": "solana-labs/solana-pay",
     "url": "https://github.com/solana-labs/solana-pay",
     "description": "A new standard for decentralized payments.",
     "language": "TypeScript",
-    "star": "129"
+    "star": "112"
   },
   {
     "title": "serverless-stack/serverless-stack",
     "url": "https://github.com/serverless-stack/serverless-stack",
     "description": "💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com",
     "language": "TypeScript",
-    "star": "31"
+    "star": "55"
   },
   {
     "title": "NaturalSelectionLabs/RSS3-Protocol",
@@ -165,7 +165,7 @@
     "url": "https://github.com/pybind/pybind11",
     "description": "Seamless operability between C++11 and Python",
     "language": "C++",
-    "star": "7"
+    "star": "11"
   },
   {
     "title": "hashicorp/vault",
