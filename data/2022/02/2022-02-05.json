@@ -11,7 +11,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "170"
+    "star": "173"
   },
   {
     "title": "huginn/huginn",
@@ -60,7 +60,7 @@
     "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
     "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
     "language": "none",
-    "star": "100"
+    "star": "101"
   },
   {
     "title": "coding-horror/basic-computer-games",
@@ -74,7 +74,7 @@
     "url": "https://github.com/Budibase/budibase",
     "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
     "language": "JavaScript",
-    "star": "281"
+    "star": "227"
   },
   {
     "title": "n8n-io/n8n",
@@ -116,7 +116,7 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "296"
+    "star": "295"
   },
   {
     "title": "thoughtbot/hotwire-example-template",
@@ -130,14 +130,14 @@
     "url": "https://github.com/Jguer/yay",
     "description": "Yet another Yogurt - An AUR Helper written in Go",
     "language": "Go",
-    "star": "29"
+    "star": "46"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "131"
+    "star": "133"
   },
   {
     "title": "ventoy/Ventoy",
@@ -158,7 +158,7 @@
     "url": "https://github.com/NG-ZORRO/ng-zorro-antd",
     "description": "Angular UI Component Library based on Ant Design",
     "language": "TypeScript",
-    "star": "5"
+    "star": "3"
   },
   {
     "title": "qbittorrent/qBittorrent",
