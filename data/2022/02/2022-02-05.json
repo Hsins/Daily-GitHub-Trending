@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "star": "28"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "170"
+  },
+  {
+    "title": "huginn/huginn",
+    "url": "https://github.com/huginn/huginn",
+    "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+    "language": "Ruby",
+    "star": "96"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Solidity",
+    "star": "8"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "star": "53"
+  },
+  {
+    "title": "fireship-io/gpt3-twitter-bot",
+    "url": "https://github.com/fireship-io/gpt3-twitter-bot",
+    "description": "Build a GPT-3 Powered Twitter Bot with Node.js & Firebase",
+    "language": "JavaScript",
+    "star": "34"
+  },
+  {
+    "title": "deepmind/code_contests",
+    "url": "https://github.com/deepmind/code_contests",
+    "description": "",
+    "language": "Starlark",
+    "star": "117"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "Universidade-Livre/ciencia-da-computacao",
+    "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
+    "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
+    "language": "none",
+    "star": "100"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "C#",
+    "star": "94"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "language": "JavaScript",
+    "star": "281"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "description": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "language": "TypeScript",
+    "star": "43"
+  },
+  {
+    "title": "pytest-dev/pytest",
+    "url": "https://github.com/pytest-dev/pytest",
+    "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "Lolliedieb/lolMiner-releases",
+    "url": "https://github.com/Lolliedieb/lolMiner-releases",
+    "description": "",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "description": "Seamless operability between C++11 and Python",
+    "language": "C++",
+    "star": "38"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
+    "language": "none",
+    "star": "76"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "296"
+  },
+  {
+    "title": "thoughtbot/hotwire-example-template",
+    "url": "https://github.com/thoughtbot/hotwire-example-template",
+    "description": "",
+    "language": "Ruby",
+    "star": "12"
+  },
+  {
+    "title": "Jguer/yay",
+    "url": "https://github.com/Jguer/yay",
+    "description": "Yet another Yogurt - An AUR Helper written in Go",
+    "language": "Go",
+    "star": "29"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "131"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "32"
+  },
+  {
+    "title": "filecoin-project/lotus",
+    "url": "https://github.com/filecoin-project/lotus",
+    "description": "Implementation of the Filecoin protocol, written in Go",
+    "language": "Go",
+    "star": "3"
+  },
+  {
+    "title": "NG-ZORRO/ng-zorro-antd",
+    "url": "https://github.com/NG-ZORRO/ng-zorro-antd",
+    "description": "Angular UI Component Library based on Ant Design",
+    "language": "TypeScript",
+    "star": "5"
+  },
+  {
+    "title": "qbittorrent/qBittorrent",
+    "url": "https://github.com/qbittorrent/qBittorrent",
+    "description": "qBittorrent BitTorrent client",
+    "language": "C++",
+    "star": "14"
+  },
+  {
+    "title": "lengfengwujing/IWantToRun",
+    "url": "https://github.com/lengfengwujing/IWantToRun",
+    "description": "",
+    "language": "none",
+    "star": "19"
+  }
+]
