@@ -11,7 +11,7 @@
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "182"
+    "star": "202"
   },
   {
     "title": "trekhleb/javascript-algorithms",
@@ -25,28 +25,28 @@
     "url": "https://github.com/ethereum/EIPs",
     "description": "The Ethereum Improvement Proposal repository",
     "language": "Solidity",
-    "star": "34"
+    "star": "31"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "87"
+    "star": "81"
   },
   {
     "title": "Kindelia/HVM",
     "url": "https://github.com/Kindelia/HVM",
     "description": "A massively parallel, optimal functional runtime in Rust",
     "language": "Rust",
-    "star": "522"
+    "star": "596"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "199"
+    "star": "198"
   },
   {
     "title": "whyour/qinglong",
@@ -81,7 +81,7 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "263"
+    "star": "279"
   },
   {
     "title": "logseq/logseq",
@@ -109,28 +109,28 @@
     "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
     "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
     "language": "none",
-    "star": "109"
+    "star": "108"
   },
   {
     "title": "huginn/huginn",
     "url": "https://github.com/huginn/huginn",
     "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
     "language": "Ruby",
-    "star": "124"
+    "star": "119"
   },
   {
     "title": "Budibase/budibase",
     "url": "https://github.com/Budibase/budibase",
     "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
     "language": "JavaScript",
-    "star": "214"
+    "star": "225"
   },
   {
     "title": "deepmind/code_contests",
     "url": "https://github.com/deepmind/code_contests",
     "description": "",
     "language": "Starlark",
-    "star": "106"
+    "star": "108"
   },
   {
     "title": "VoronDesign/Voron-2",
@@ -151,21 +151,21 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "165"
+    "star": "168"
   },
   {
     "title": "serverless-stack/serverless-stack",
     "url": "https://github.com/serverless-stack/serverless-stack",
     "description": "💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com",
     "language": "TypeScript",
-    "star": "25"
+    "star": "71"
   },
   {
     "title": "tobspr/shapez.io",
     "url": "https://github.com/tobspr/shapez.io",
     "description": "shapez.io is an open source base building game inspired by factorio! Available on web & steam",
     "language": "JavaScript",
-    "star": "8"
+    "star": "6"
   },
   {
     "title": "danielkrupinski/Osiris",
