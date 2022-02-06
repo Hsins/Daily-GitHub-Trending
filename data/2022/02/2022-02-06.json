@@ -1,0 +1,177 @@
+[
+  {
+    "title": "kabinspace/AstroVim",
+    "url": "https://github.com/kabinspace/AstroVim",
+    "description": "AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "language": "Lua",
+    "star": "193"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "star": "202"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "89"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Solidity",
+    "star": "31"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "81"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "description": "A massively parallel, optimal functional runtime in Rust",
+    "language": "Rust",
+    "star": "596"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "198"
+  },
+  {
+    "title": "whyour/qinglong",
+    "url": "https://github.com/whyour/qinglong",
+    "description": "支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）",
+    "language": "TypeScript",
+    "star": "16"
+  },
+  {
+    "title": "Jguer/yay",
+    "url": "https://github.com/Jguer/yay",
+    "description": "Yet another Yogurt - An AUR Helper written in Go",
+    "language": "Go",
+    "star": "71"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "language": "none",
+    "star": "37"
+  },
+  {
+    "title": "mit-dci/opencbdc-tx",
+    "url": "https://github.com/mit-dci/opencbdc-tx",
+    "description": "A transaction processor for a hypothetical, general-purpose, central bank digital currency",
+    "language": "C++",
+    "star": "37"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "279"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "language": "Clojure",
+    "star": "50"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "120"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "35"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
+    "language": "none",
+    "star": "108"
+  },
+  {
+    "title": "huginn/huginn",
+    "url": "https://github.com/huginn/huginn",
+    "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+    "language": "Ruby",
+    "star": "119"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "language": "JavaScript",
+    "star": "225"
+  },
+  {
+    "title": "deepmind/code_contests",
+    "url": "https://github.com/deepmind/code_contests",
+    "description": "",
+    "language": "Starlark",
+    "star": "108"
+  },
+  {
+    "title": "VoronDesign/Voron-2",
+    "url": "https://github.com/VoronDesign/Voron-2",
+    "description": "Voron 2 CoreXY 3D Printer design",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "googlemaps/android-maps-compose",
+    "url": "https://github.com/googlemaps/android-maps-compose",
+    "description": "Jetpack Compose components for the Maps SDK for Android",
+    "language": "Kotlin",
+    "star": "48"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "168"
+  },
+  {
+    "title": "serverless-stack/serverless-stack",
+    "url": "https://github.com/serverless-stack/serverless-stack",
+    "description": "💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally. https://serverless-stack.com",
+    "language": "TypeScript",
+    "star": "71"
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "description": "shapez.io is an open source base building game inspired by factorio! Available on web & steam",
+    "language": "JavaScript",
+    "star": "6"
+  },
+  {
+    "title": "danielkrupinski/Osiris",
+    "url": "https://github.com/danielkrupinski/Osiris",
+    "description": "Free open-source game cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by Dear ImGui.",
+    "language": "C++",
+    "star": "5"
+  }
+]
