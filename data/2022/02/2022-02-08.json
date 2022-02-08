@@ -4,63 +4,63 @@
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "109"
+    "star": "118"
   },
   {
     "title": "kabinspace/AstroVim",
     "url": "https://github.com/kabinspace/AstroVim",
     "description": "AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
     "language": "Lua",
-    "star": "406"
+    "star": "334"
   },
   {
     "title": "zadam/trilium",
     "url": "https://github.com/zadam/trilium",
     "description": "Build your personal knowledge base with Trilium Notes",
     "language": "JavaScript",
-    "star": "55"
+    "star": "79"
   },
   {
     "title": "gyroflow/gyroflow",
     "url": "https://github.com/gyroflow/gyroflow",
     "description": "Video stabilization using gyroscope data",
     "language": "Rust",
-    "star": "396"
+    "star": "386"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "185"
+    "star": "180"
   },
   {
     "title": "3b1b/videos",
     "url": "https://github.com/3b1b/videos",
     "description": "Code for the manim-generated scenes used in 3blue1brown videos",
     "language": "Python",
-    "star": "125"
+    "star": "144"
   },
   {
     "title": "danistefanovic/build-your-own-x",
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "349"
+    "star": "355"
   },
   {
     "title": "qier222/YesPlayMusic",
     "url": "https://github.com/qier222/YesPlayMusic",
     "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
     "language": "Vue",
-    "star": "36"
+    "star": "48"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "369"
+    "star": "393"
   },
   {
     "title": "imDazui/Tvlist-awesome-m3u-m3u8",
@@ -74,77 +74,77 @@
     "url": "https://github.com/ant-design/ant-design",
     "description": "An enterprise-class UI design language and React UI library",
     "language": "TypeScript",
-    "star": "24"
+    "star": "65"
   },
   {
     "title": "LaunchX-InnovaccionVirtual/onboarding-github-launchx",
     "url": "https://github.com/LaunchX-InnovaccionVirtual/onboarding-github-launchx",
     "description": "Cómo ingresar a la organización de Launch X by Innovacción Virtual",
     "language": "none",
-    "star": "60"
+    "star": "54"
   },
   {
     "title": "ObuchiYuki/DevToysMac",
     "url": "https://github.com/ObuchiYuki/DevToysMac",
     "description": "DevToys For mac",
     "language": "Swift",
-    "star": "129"
+    "star": "153"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Yet another remote desktop software",
     "language": "Rust",
-    "star": "16"
+    "star": "48"
   },
   {
     "title": "element-plus/element-plus",
     "url": "https://github.com/element-plus/element-plus",
     "description": "🎉 A Vue.js 3 UI Library made by Element team",
     "language": "Vue",
-    "star": "58"
+    "star": "71"
   },
   {
     "title": "vbenjs/vue-vben-admin",
     "url": "https://github.com/vbenjs/vue-vben-admin",
     "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
     "language": "Vue",
-    "star": "15"
+    "star": "54"
   },
   {
     "title": "alibaba/Sentinel",
     "url": "https://github.com/alibaba/Sentinel",
     "description": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)",
     "language": "Java",
-    "star": "6"
+    "star": "22"
   },
   {
     "title": "ja-netfilter/ja-netfilter",
     "url": "https://github.com/ja-netfilter/ja-netfilter",
     "description": "A javaagent framework",
     "language": "Java",
-    "star": "57"
+    "star": "67"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "302"
+    "star": "304"
   },
   {
     "title": "octocat/Spoon-Knife",
     "url": "https://github.com/octocat/Spoon-Knife",
     "description": "This repo is for demonstration purposes only.",
     "language": "HTML",
-    "star": "30"
+    "star": "37"
   },
   {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "107"
+    "star": "120"
   },
   {
     "title": "vuejs/router",
@@ -158,20 +158,20 @@
     "url": "https://github.com/veler/DevToys",
     "description": "A Swiss Army knife for developers.",
     "language": "C#",
-    "star": "187"
+    "star": "235"
   },
   {
     "title": "mindsdb/mindsdb",
     "url": "https://github.com/mindsdb/mindsdb",
     "description": "In-Database Machine Learning",
     "language": "Python",
-    "star": "226"
+    "star": "227"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (January 2022)",
     "language": "JavaScript",
-    "star": "125"
+    "star": "118"
   }
 ]
