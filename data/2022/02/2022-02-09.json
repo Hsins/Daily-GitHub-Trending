@@ -1,0 +1,177 @@
+[
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "description": "The open-source Shopify alternative ⚡️",
+    "language": "JavaScript",
+    "star": "217"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "An enterprise-class UI design language and React UI library",
+    "language": "TypeScript",
+    "star": "192"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "134"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "description": "「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+    "language": "Java",
+    "star": "39"
+  },
+  {
+    "title": "3b1b/videos",
+    "url": "https://github.com/3b1b/videos",
+    "description": "Code for the manim-generated scenes used in 3blue1brown videos",
+    "language": "Python",
+    "star": "210"
+  },
+  {
+    "title": "jpetazzo/ampernetacle",
+    "url": "https://github.com/jpetazzo/ampernetacle",
+    "description": "",
+    "language": "HCL",
+    "star": "120"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "167"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
+    "language": "none",
+    "star": "572"
+  },
+  {
+    "title": "saifulcoder/laravel-whatsapp-server",
+    "url": "https://github.com/saifulcoder/laravel-whatsapp-server",
+    "description": "Simple RESTful WhatsApp API with Laravel 8",
+    "language": "PHP",
+    "star": "33"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "224"
+  },
+  {
+    "title": "LaunchX-InnovaccionVirtual/onboarding-github-launchx",
+    "url": "https://github.com/LaunchX-InnovaccionVirtual/onboarding-github-launchx",
+    "description": "Cómo ingresar a la organización de Launch X by Innovacción Virtual",
+    "language": "none",
+    "star": "85"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "language": "Vue",
+    "star": "121"
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "description": "DataX是阿里云DataWorks数据集成的开源版本。",
+    "language": "Java",
+    "star": "18"
+  },
+  {
+    "title": "elastic/beats",
+    "url": "https://github.com/elastic/beats",
+    "description": "🐠 Beats - Lightweight shippers for Elasticsearch & Logstash",
+    "language": "Go",
+    "star": "22"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "370"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "description": "Build your personal knowledge base with Trilium Notes",
+    "language": "JavaScript",
+    "star": "217"
+  },
+  {
+    "title": "DaveGamble/cJSON",
+    "url": "https://github.com/DaveGamble/cJSON",
+    "description": "Ultralightweight JSON parser in ANSI C",
+    "language": "C",
+    "star": "11"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "star": "217"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (January 2022)",
+    "language": "JavaScript",
+    "star": "155"
+  },
+  {
+    "title": "jerry3747/taobao_seckill",
+    "url": "https://github.com/jerry3747/taobao_seckill",
+    "description": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "gyroflow/gyroflow",
+    "url": "https://github.com/gyroflow/gyroflow",
+    "description": "Video stabilization using gyroscope data",
+    "language": "Rust",
+    "star": "515"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "78"
+  },
+  {
+    "title": "mit-dci/opencbdc-tx",
+    "url": "https://github.com/mit-dci/opencbdc-tx",
+    "description": "A transaction processor for a hypothetical, general-purpose, central bank digital currency",
+    "language": "C++",
+    "star": "82"
+  },
+  {
+    "title": "apache/rocketmq",
+    "url": "https://github.com/apache/rocketmq",
+    "description": "Mirror of Apache RocketMQ",
+    "language": "Java",
+    "star": "29"
+  },
+  {
+    "title": "vuejs/devtools",
+    "url": "https://github.com/vuejs/devtools",
+    "description": "⚙️ Browser devtools extension for debugging Vue.js applications.",
+    "language": "TypeScript",
+    "star": "20"
+  }
+]
