@@ -4,21 +4,21 @@
     "url": "https://github.com/medusajs/medusa",
     "description": "The open-source Shopify alternative ⚡️",
     "language": "JavaScript",
-    "star": "265"
+    "star": "271"
   },
   {
     "title": "ant-design/ant-design",
     "url": "https://github.com/ant-design/ant-design",
     "description": "An enterprise-class UI design language and React UI library",
     "language": "TypeScript",
-    "star": "192"
+    "star": "190"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "176"
+    "star": "166"
   },
   {
     "title": "jeecgboot/jeecg-boot",
@@ -39,21 +39,21 @@
     "url": "https://github.com/jpetazzo/ampernetacle",
     "description": "",
     "language": "HCL",
-    "star": "105"
+    "star": "104"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "187"
+    "star": "195"
   },
   {
     "title": "imDazui/Tvlist-awesome-m3u-m3u8",
     "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
     "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
     "language": "none",
-    "star": "572"
+    "star": "573"
   },
   {
     "title": "saifulcoder/laravel-whatsapp-server",
@@ -67,21 +67,21 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "225"
+    "star": "224"
   },
   {
     "title": "LaunchX-InnovaccionVirtual/onboarding-github-launchx",
     "url": "https://github.com/LaunchX-InnovaccionVirtual/onboarding-github-launchx",
     "description": "Cómo ingresar a la organización de Launch X by Innovacción Virtual",
     "language": "none",
-    "star": "87"
+    "star": "84"
   },
   {
     "title": "vbenjs/vue-vben-admin",
     "url": "https://github.com/vbenjs/vue-vben-admin",
     "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
     "language": "Vue",
-    "star": "115"
+    "star": "113"
   },
   {
     "title": "alibaba/DataX",
@@ -102,42 +102,42 @@
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "358"
+    "star": "320"
   },
   {
     "title": "zadam/trilium",
     "url": "https://github.com/zadam/trilium",
     "description": "Build your personal knowledge base with Trilium Notes",
     "language": "JavaScript",
-    "star": "239"
+    "star": "217"
   },
   {
     "title": "DaveGamble/cJSON",
     "url": "https://github.com/DaveGamble/cJSON",
     "description": "Ultralightweight JSON parser in ANSI C",
     "language": "C",
-    "star": "33"
+    "star": "40"
   },
   {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "218"
+    "star": "215"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (January 2022)",
     "language": "JavaScript",
-    "star": "171"
+    "star": "106"
   },
   {
     "title": "jerry3747/taobao_seckill",
     "url": "https://github.com/jerry3747/taobao_seckill",
     "description": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
     "language": "Python",
-    "star": "34"
+    "star": "36"
   },
   {
     "title": "gyroflow/gyroflow",
@@ -151,27 +151,27 @@
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "122"
+    "star": "131"
   },
   {
     "title": "mit-dci/opencbdc-tx",
     "url": "https://github.com/mit-dci/opencbdc-tx",
     "description": "A transaction processor for a hypothetical, general-purpose, central bank digital currency",
     "language": "C++",
-    "star": "81"
+    "star": "86"
   },
   {
     "title": "apache/rocketmq",
     "url": "https://github.com/apache/rocketmq",
     "description": "Mirror of Apache RocketMQ",
     "language": "Java",
-    "star": "31"
+    "star": "33"
   },
   {
     "title": "vuejs/devtools",
     "url": "https://github.com/vuejs/devtools",
     "description": "⚙️ Browser devtools extension for debugging Vue.js applications.",
     "language": "TypeScript",
-    "star": "49"
+    "star": "11"
   }
 ]
