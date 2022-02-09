@@ -4,7 +4,7 @@
     "url": "https://github.com/medusajs/medusa",
     "description": "The open-source Shopify alternative ⚡️",
     "language": "JavaScript",
-    "star": "217"
+    "star": "273"
   },
   {
     "title": "ant-design/ant-design",
@@ -18,7 +18,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "134"
+    "star": "174"
   },
   {
     "title": "jeecgboot/jeecg-boot",
@@ -46,7 +46,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "167"
+    "star": "191"
   },
   {
     "title": "imDazui/Tvlist-awesome-m3u-m3u8",
@@ -74,14 +74,14 @@
     "url": "https://github.com/LaunchX-InnovaccionVirtual/onboarding-github-launchx",
     "description": "Cómo ingresar a la organización de Launch X by Innovacción Virtual",
     "language": "none",
-    "star": "85"
+    "star": "84"
   },
   {
     "title": "vbenjs/vue-vben-admin",
     "url": "https://github.com/vbenjs/vue-vben-admin",
     "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
     "language": "Vue",
-    "star": "121"
+    "star": "114"
   },
   {
     "title": "alibaba/DataX",
@@ -102,7 +102,7 @@
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "370"
+    "star": "327"
   },
   {
     "title": "zadam/trilium",
@@ -130,7 +130,7 @@
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (January 2022)",
     "language": "JavaScript",
-    "star": "155"
+    "star": "175"
   },
   {
     "title": "jerry3747/taobao_seckill",
@@ -151,7 +151,7 @@
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "78"
+    "star": "124"
   },
   {
     "title": "mit-dci/opencbdc-tx",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vuejs/devtools",
     "description": "⚙️ Browser devtools extension for debugging Vue.js applications.",
     "language": "TypeScript",
-    "star": "20"
+    "star": "47"
   }
 ]
