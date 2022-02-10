@@ -4,14 +4,14 @@
     "url": "https://github.com/FortAwesome/Font-Awesome",
     "description": "The iconic SVG, font, and CSS toolkit",
     "language": "JavaScript",
-    "star": "38"
+    "star": "25"
   },
   {
     "title": "imDazui/Tvlist-awesome-m3u-m3u8",
     "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
     "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
     "language": "none",
-    "star": "574"
+    "star": "568"
   },
   {
     "title": "vbenjs/vue-vben-admin",
@@ -46,7 +46,7 @@
     "url": "https://github.com/medusajs/medusa",
     "description": "The open-source Shopify alternative ⚡️",
     "language": "JavaScript",
-    "star": "260"
+    "star": "302"
   },
   {
     "title": "AMAI-GmbH/AI-Expert-Roadmap",
@@ -67,28 +67,28 @@
     "url": "https://github.com/gyroflow/gyroflow",
     "description": "Video stabilization using gyroscope data",
     "language": "Rust",
-    "star": "512"
+    "star": "511"
   },
   {
     "title": "element-plus/element-plus",
     "url": "https://github.com/element-plus/element-plus",
     "description": "🎉 A Vue.js 3 UI Library made by Element team",
     "language": "Vue",
-    "star": "25"
+    "star": "28"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Yet another remote desktop software",
     "language": "Rust",
-    "star": "81"
+    "star": "15"
   },
   {
     "title": "6dylan6/jdpro",
     "url": "https://github.com/6dylan6/jdpro",
     "description": "京东签到，集合库，内部助力，青龙面板支持，青龙脚本",
     "language": "JavaScript",
-    "star": "21"
+    "star": "20"
   },
   {
     "title": "Snailclimb/JavaGuide",
@@ -116,28 +116,28 @@
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "49"
+    "star": "18"
   },
   {
     "title": "zadam/trilium",
     "url": "https://github.com/zadam/trilium",
     "description": "Build your personal knowledge base with Trilium Notes",
     "language": "JavaScript",
-    "star": "229"
+    "star": "191"
   },
   {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "218"
+    "star": "205"
   },
   {
     "title": "dotnet/core",
     "url": "https://github.com/dotnet/core",
     "description": "Home repository for .NET Core",
     "language": "Shell",
-    "star": "9"
+    "star": "15"
   },
   {
     "title": "laravel/laravel",
@@ -151,14 +151,14 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "225"
+    "star": "220"
   },
   {
     "title": "jerry3747/taobao_seckill",
     "url": "https://github.com/jerry3747/taobao_seckill",
     "description": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
     "language": "Python",
-    "star": "33"
+    "star": "90"
   },
   {
     "title": "bullfly666/percollect",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Dreamacro/clash",
     "description": "A rule-based tunnel in Go.",
     "language": "Go",
-    "star": "35"
+    "star": "38"
   }
 ]
