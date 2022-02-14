@@ -11,70 +11,70 @@
     "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
     "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
     "language": "none",
-    "star": "300"
+    "star": "256"
   },
   {
     "title": "vbenjs/vue-vben-admin",
     "url": "https://github.com/vbenjs/vue-vben-admin",
     "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
     "language": "Vue",
-    "star": "122"
+    "star": "191"
   },
   {
     "title": "apple-oss-distributions/dyld",
     "url": "https://github.com/apple-oss-distributions/dyld",
     "description": "",
     "language": "C",
-    "star": "43"
+    "star": "41"
   },
   {
     "title": "Audiobahn/CVE-2022-20699",
     "url": "https://github.com/Audiobahn/CVE-2022-20699",
     "description": "Cisco Anyconnect VPN unauth RCE (rwx stack)",
     "language": "Python",
-    "star": "34"
+    "star": "28"
   },
   {
     "title": "yifeikong/reverse-interview-zh",
     "url": "https://github.com/yifeikong/reverse-interview-zh",
     "description": "技术面试最后反问面试官的话",
     "language": "none",
-    "star": "356"
+    "star": "221"
   },
   {
     "title": "medusajs/medusa",
     "url": "https://github.com/medusajs/medusa",
     "description": "The open-source Shopify alternative ⚡️",
     "language": "JavaScript",
-    "star": "161"
+    "star": "160"
   },
   {
     "title": "AMAI-GmbH/AI-Expert-Roadmap",
     "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
     "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
     "language": "JavaScript",
-    "star": "308"
+    "star": "295"
   },
   {
     "title": "ObuchiYuki/DevToysMac",
     "url": "https://github.com/ObuchiYuki/DevToysMac",
     "description": "DevToys For mac",
     "language": "Swift",
-    "star": "355"
+    "star": "334"
   },
   {
     "title": "gyroflow/gyroflow",
     "url": "https://github.com/gyroflow/gyroflow",
     "description": "Video stabilization using gyroscope data",
     "language": "Rust",
-    "star": "137"
+    "star": "136"
   },
   {
     "title": "element-plus/element-plus",
     "url": "https://github.com/element-plus/element-plus",
     "description": "🎉 A Vue.js 3 UI Library made by Element team",
     "language": "Vue",
-    "star": "54"
+    "star": "66"
   },
   {
     "title": "rustdesk/rustdesk",
@@ -102,42 +102,42 @@
     "url": "https://github.com/eugenp/tutorials",
     "description": "Just Announced - \"Learn Spring Security OAuth\":",
     "language": "Java",
-    "star": "50"
+    "star": "48"
   },
   {
     "title": "meysamhadeli/awesome-dotnet-tips",
     "url": "https://github.com/meysamhadeli/awesome-dotnet-tips",
     "description": "Curated list of awesome tips and tricks, resources, videos and articles in .net, software architecture, microservice and cloud-native",
     "language": "none",
-    "star": "69"
+    "star": "67"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "142"
+    "star": "135"
   },
   {
     "title": "zadam/trilium",
     "url": "https://github.com/zadam/trilium",
     "description": "Build your personal knowledge base with Trilium Notes",
     "language": "JavaScript",
-    "star": "125"
+    "star": "107"
   },
   {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "147"
+    "star": "149"
   },
   {
     "title": "dotnet/core",
     "url": "https://github.com/dotnet/core",
     "description": "Home repository for .NET Core",
     "language": "Shell",
-    "star": "59"
+    "star": "52"
   },
   {
     "title": "laravel/laravel",
@@ -151,27 +151,27 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "161"
+    "star": "162"
   },
   {
     "title": "jerry3747/taobao_seckill",
     "url": "https://github.com/jerry3747/taobao_seckill",
     "description": "淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党",
     "language": "Python",
-    "star": "45"
+    "star": "75"
   },
   {
     "title": "bullfly666/percollect",
     "url": "https://github.com/bullfly666/percollect",
     "description": "",
     "language": "none",
-    "star": "35"
+    "star": "32"
   },
   {
     "title": "Dreamacro/clash",
     "url": "https://github.com/Dreamacro/clash",
     "description": "A rule-based tunnel in Go.",
     "language": "Go",
-    "star": "111"
+    "star": "89"
   }
 ]
