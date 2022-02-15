@@ -1,0 +1,177 @@
+[
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "description": "CockroachDB - the open source, cloud-native distributed SQL database.",
+    "language": "Go",
+    "star": "22"
+  },
+  {
+    "title": "novak-99/MLPP",
+    "url": "https://github.com/novak-99/MLPP",
+    "description": "A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.",
+    "language": "C++",
+    "star": "198"
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "description": "The iconic SVG, font, and CSS toolkit",
+    "language": "JavaScript",
+    "star": "242"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "language": "JavaScript",
+    "star": "341"
+  },
+  {
+    "title": "trickest/cve",
+    "url": "https://github.com/trickest/cve",
+    "description": "Gather and update all available and newest CVEs with their POC.",
+    "language": "none",
+    "star": "47"
+  },
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "description": "",
+    "language": "Python",
+    "star": "166"
+  },
+  {
+    "title": "yifeikong/reverse-interview-zh",
+    "url": "https://github.com/yifeikong/reverse-interview-zh",
+    "description": "技术面试最后反问面试官的话",
+    "language": "none",
+    "star": "408"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "language": "Vue",
+    "star": "169"
+  },
+  {
+    "title": "4ndersonLin/awesome-cloud-security",
+    "url": "https://github.com/4ndersonLin/awesome-cloud-security",
+    "description": "🛡️ Awesome Cloud Security Resources ⚔️",
+    "language": "none",
+    "star": "86"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "127"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "150"
+  },
+  {
+    "title": "trewisscotch/CobaltStr4.5",
+    "url": "https://github.com/trewisscotch/CobaltStr4.5",
+    "description": "Cobalt Strike 4.5 cracked version.",
+    "language": "none",
+    "star": "10"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "56"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "description": "The OpenAPI Specification Repository",
+    "language": "JavaScript",
+    "star": "14"
+  },
+  {
+    "title": "tinymce/tinymce",
+    "url": "https://github.com/tinymce/tinymce",
+    "description": "The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular",
+    "language": "TypeScript",
+    "star": "20"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "codeedu/imersao-fc6",
+    "url": "https://github.com/codeedu/imersao-fc6",
+    "description": "",
+    "language": "TypeScript",
+    "star": "14"
+  },
+  {
+    "title": "zxing/zxing",
+    "url": "https://github.com/zxing/zxing",
+    "description": "ZXing (\"Zebra Crossing\") barcode scanning library for Java, Android",
+    "language": "Java",
+    "star": "7"
+  },
+  {
+    "title": "cncf/mentoring",
+    "url": "https://github.com/cncf/mentoring",
+    "description": "👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring + LFX Mentorship + Summer of Code + Season of Docs",
+    "language": "none",
+    "star": "5"
+  },
+  {
+    "title": "Azure/ResourceModules",
+    "url": "https://github.com/Azure/ResourceModules",
+    "description": "This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines.",
+    "language": "Bicep",
+    "star": "4"
+  },
+  {
+    "title": "owid/covid-19-data",
+    "url": "https://github.com/owid/covid-19-data",
+    "description": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+    "language": "Python",
+    "star": "6"
+  },
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
+    "language": "JavaScript",
+    "star": "383"
+  },
+  {
+    "title": "meilisearch/meilisearch",
+    "url": "https://github.com/meilisearch/meilisearch",
+    "description": "Powerful, fast, and an easy to use search engine",
+    "language": "Rust",
+    "star": "215"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "16"
+  },
+  {
+    "title": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "language": "C",
+    "star": "18"
+  }
+]
