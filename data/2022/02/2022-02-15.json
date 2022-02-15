@@ -4,7 +4,7 @@
     "url": "https://github.com/cockroachdb/cockroach",
     "description": "CockroachDB - the open source, cloud-native distributed SQL database.",
     "language": "Go",
-    "star": "25"
+    "star": "22"
   },
   {
     "title": "novak-99/MLPP",
@@ -18,7 +18,7 @@
     "url": "https://github.com/FortAwesome/Font-Awesome",
     "description": "The iconic SVG, font, and CSS toolkit",
     "language": "JavaScript",
-    "star": "232"
+    "star": "242"
   },
   {
     "title": "AMAI-GmbH/AI-Expert-Roadmap",
@@ -74,7 +74,7 @@
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "216"
+    "star": "150"
   },
   {
     "title": "trewisscotch/CobaltStr4.5",
@@ -95,7 +95,7 @@
     "url": "https://github.com/OAI/OpenAPI-Specification",
     "description": "The OpenAPI Specification Repository",
     "language": "JavaScript",
-    "star": "26"
+    "star": "14"
   },
   {
     "title": "tinymce/tinymce",
@@ -116,7 +116,7 @@
     "url": "https://github.com/codeedu/imersao-fc6",
     "description": "",
     "language": "TypeScript",
-    "star": "15"
+    "star": "14"
   },
   {
     "title": "zxing/zxing",
@@ -151,27 +151,27 @@
     "url": "https://github.com/mermaid-js/mermaid",
     "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
     "language": "JavaScript",
-    "star": "540"
+    "star": "383"
   },
   {
     "title": "meilisearch/meilisearch",
     "url": "https://github.com/meilisearch/meilisearch",
     "description": "Powerful, fast, and an easy to use search engine",
     "language": "Rust",
-    "star": "63"
+    "star": "215"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "18"
+    "star": "16"
   },
   {
     "title": "redis/redis",
     "url": "https://github.com/redis/redis",
     "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
     "language": "C",
-    "star": "17"
+    "star": "18"
   }
 ]
