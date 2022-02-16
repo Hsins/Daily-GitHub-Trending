@@ -4,7 +4,7 @@
     "url": "https://github.com/mermaid-js/mermaid",
     "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
     "language": "JavaScript",
-    "star": "1"
+    "star": "995"
   },
   {
     "title": "heiyeluren/XMM",
@@ -18,7 +18,7 @@
     "url": "https://github.com/Azure/azure-rest-api-specs",
     "description": "The source for REST API specifications for Microsoft Azure.",
     "language": "TypeScript",
-    "star": "27"
+    "star": "26"
   },
   {
     "title": "cube0x0/KrbRelay",
@@ -46,7 +46,7 @@
     "url": "https://github.com/novak-99/MLPP",
     "description": "A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.",
     "language": "C++",
-    "star": "223"
+    "star": "222"
   },
   {
     "title": "JonathanSalwan/VMProtect-devirtualization",
@@ -74,7 +74,7 @@
     "url": "https://github.com/trickest/cve",
     "description": "Gather and update all available and newest CVEs with their PoC.",
     "language": "none",
-    "star": "108"
+    "star": "110"
   },
   {
     "title": "alan2207/bulletproof-react",
@@ -109,7 +109,7 @@
     "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
     "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
     "language": "JavaScript",
-    "star": "315"
+    "star": "318"
   },
   {
     "title": "dtm-php/dtm-client",
@@ -144,7 +144,7 @@
     "url": "https://github.com/aws/aws-sdk-go",
     "description": "AWS SDK for the Go programming language.",
     "language": "Go",
-    "star": "6"
+    "star": "8"
   },
   {
     "title": "saadeghi/daisyui",
@@ -165,13 +165,13 @@
     "url": "https://github.com/NVlabs/tiny-cuda-nn",
     "description": "Lightning fast & tiny C++/CUDA neural network framework",
     "language": "C++",
-    "star": "18"
+    "star": "17"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "109"
+    "star": "137"
   }
 ]
