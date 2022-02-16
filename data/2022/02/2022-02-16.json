@@ -1,0 +1,177 @@
+[
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "heiyeluren/XMM",
+    "url": "https://github.com/heiyeluren/XMM",
+    "description": "XMM - X(eXtensible) Memory Manager（自研自主第三方Go内存分配管理器） XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现的Go内存管理库；能够应对各种场景下大小内存的 分配/释放/管理 等工作，能够帮助适用于任何复杂数据结构的构建（链表/数组/树/hash等场景），能够良好完美的逃逸掉Go内置的GC机制，保证程序的超高性能，是构建高性能程序基础设施。",
+    "language": "Go",
+    "star": "82"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "language": "TypeScript",
+    "star": "27"
+  },
+  {
+    "title": "cube0x0/KrbRelay",
+    "url": "https://github.com/cube0x0/KrbRelay",
+    "description": "Framework for Kerberos relaying",
+    "language": "C#",
+    "star": "70"
+  },
+  {
+    "title": "penk/penkesu",
+    "url": "https://github.com/penk/penkesu",
+    "description": "Penkesu Computer - A Homebrew Retro-style Handheld PC",
+    "language": "none",
+    "star": "215"
+  },
+  {
+    "title": "italiaremote/awesome-italia-remote",
+    "url": "https://github.com/italiaremote/awesome-italia-remote",
+    "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
+    "language": "Go",
+    "star": "37"
+  },
+  {
+    "title": "novak-99/MLPP",
+    "url": "https://github.com/novak-99/MLPP",
+    "description": "A library created to revitalize C++ as a machine learning front end. Per aspera ad astra.",
+    "language": "C++",
+    "star": "223"
+  },
+  {
+    "title": "JonathanSalwan/VMProtect-devirtualization",
+    "url": "https://github.com/JonathanSalwan/VMProtect-devirtualization",
+    "description": "Playing with the VMProtect software protection. Automatic deobfuscation of pure functions using symbolic execution and LLVM.",
+    "language": "Roff",
+    "star": "46"
+  },
+  {
+    "title": "OffcierCia/DeFi-Developer-Road-Map",
+    "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
+    "description": "DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.",
+    "language": "none",
+    "star": "98"
+  },
+  {
+    "title": "bilibili/ailab",
+    "url": "https://github.com/bilibili/ailab",
+    "description": "",
+    "language": "Python",
+    "star": "479"
+  },
+  {
+    "title": "trickest/cve",
+    "url": "https://github.com/trickest/cve",
+    "description": "Gather and update all available and newest CVEs with their PoC.",
+    "language": "none",
+    "star": "108"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "language": "TypeScript",
+    "star": "53"
+  },
+  {
+    "title": "4ra1n/JavaSecInterview",
+    "url": "https://github.com/4ra1n/JavaSecInterview",
+    "description": "打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作",
+    "language": "Python",
+    "star": "83"
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "description": "💥 Listing some playful open-source's challenges of companies to test your knowledge",
+    "language": "none",
+    "star": "129"
+  },
+  {
+    "title": "pen4uin/bug-bounty",
+    "url": "https://github.com/pen4uin/bug-bounty",
+    "description": "list of bug bounty writeups",
+    "language": "none",
+    "star": "15"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
+    "language": "JavaScript",
+    "star": "315"
+  },
+  {
+    "title": "dtm-php/dtm-client",
+    "url": "https://github.com/dtm-php/dtm-client",
+    "description": "A PHP coroutine client for distributed transaction manager DTM. 分布式事务管理器 DTM 的 PHP 协程客户端",
+    "language": "PHP",
+    "star": "24"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "language": "Java",
+    "star": "21"
+  },
+  {
+    "title": "ethereumbook/ethereumbook",
+    "url": "https://github.com/ethereumbook/ethereumbook",
+    "description": "Mastering Ethereum, by Andreas M. Antonopoulos, Gavin Wood",
+    "language": "JavaScript",
+    "star": "52"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "description": "AWS SDK for the Go programming language.",
+    "language": "Go",
+    "star": "6"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "description": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "language": "Svelte",
+    "star": "46"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "language": "Cuda",
+    "star": "31"
+  },
+  {
+    "title": "NVlabs/tiny-cuda-nn",
+    "url": "https://github.com/NVlabs/tiny-cuda-nn",
+    "description": "Lightning fast & tiny C++/CUDA neural network framework",
+    "language": "C++",
+    "star": "18"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "109"
+  }
+]
