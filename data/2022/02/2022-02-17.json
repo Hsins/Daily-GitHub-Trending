@@ -4,14 +4,14 @@
     "url": "https://github.com/trickest/cve",
     "description": "Gather and update all available and newest CVEs with their PoC.",
     "language": "none",
-    "star": "481"
+    "star": "492"
   },
   {
     "title": "mermaid-js/mermaid",
     "url": "https://github.com/mermaid-js/mermaid",
     "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
     "language": "JavaScript",
-    "star": "779"
+    "star": "778"
   },
   {
     "title": "qiurunze123/miaosha",
@@ -25,14 +25,14 @@
     "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
     "description": "DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.",
     "language": "none",
-    "star": "127"
+    "star": "129"
   },
   {
     "title": "Anduin2017/HowToCook",
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。",
     "language": "none",
-    "star": "406"
+    "star": "499"
   },
   {
     "title": "python/mypy",
@@ -116,7 +116,7 @@
     "url": "https://github.com/mqyqingfeng/Blog",
     "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
     "language": "none",
-    "star": "34"
+    "star": "59"
   },
   {
     "title": "projectdiscovery/nuclei-templates",
@@ -151,7 +151,7 @@
     "url": "https://github.com/NVlabs/instant-ngp",
     "description": "Instant neural graphics primitives: lightning fast NeRF and more",
     "language": "Cuda",
-    "star": "75"
+    "star": "182"
   },
   {
     "title": "probml/pml-book",
