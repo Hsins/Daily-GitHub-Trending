@@ -4,14 +4,14 @@
     "url": "https://github.com/trickest/cve",
     "description": "Gather and update all available and newest CVEs with their PoC.",
     "language": "none",
-    "star": "492"
+    "star": "489"
   },
   {
     "title": "mermaid-js/mermaid",
     "url": "https://github.com/mermaid-js/mermaid",
     "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
     "language": "JavaScript",
-    "star": "778"
+    "star": "630"
   },
   {
     "title": "qiurunze123/miaosha",
@@ -32,7 +32,7 @@
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。",
     "language": "none",
-    "star": "499"
+    "star": "406"
   },
   {
     "title": "python/mypy",
@@ -46,7 +46,7 @@
     "url": "https://github.com/penk/penkesu",
     "description": "Penkesu Computer - A Homebrew Retro-style Handheld PC",
     "language": "none",
-    "star": "216"
+    "star": "224"
   },
   {
     "title": "obss/sahi",
@@ -81,7 +81,7 @@
     "url": "https://github.com/italiaremote/awesome-italia-remote",
     "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
     "language": "Go",
-    "star": "61"
+    "star": "37"
   },
   {
     "title": "spotify/ruler",
@@ -116,7 +116,7 @@
     "url": "https://github.com/mqyqingfeng/Blog",
     "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
     "language": "none",
-    "star": "59"
+    "star": "34"
   },
   {
     "title": "projectdiscovery/nuclei-templates",
@@ -151,7 +151,7 @@
     "url": "https://github.com/NVlabs/instant-ngp",
     "description": "Instant neural graphics primitives: lightning fast NeRF and more",
     "language": "Cuda",
-    "star": "182"
+    "star": "181"
   },
   {
     "title": "probml/pml-book",
