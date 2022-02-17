@@ -1,0 +1,177 @@
+[
+  {
+    "title": "trickest/cve",
+    "url": "https://github.com/trickest/cve",
+    "description": "Gather and update all available and newest CVEs with their PoC.",
+    "language": "none",
+    "star": "492"
+  },
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
+    "language": "JavaScript",
+    "star": "778"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "description": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "language": "Java",
+    "star": "37"
+  },
+  {
+    "title": "OffcierCia/DeFi-Developer-Road-Map",
+    "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
+    "description": "DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.",
+    "language": "none",
+    "star": "129"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "description": "程序员在家做饭方法指南。",
+    "language": "none",
+    "star": "499"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "description": "Optional static typing for Python",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "penk/penkesu",
+    "url": "https://github.com/penk/penkesu",
+    "description": "Penkesu Computer - A Homebrew Retro-style Handheld PC",
+    "language": "none",
+    "star": "216"
+  },
+  {
+    "title": "obss/sahi",
+    "url": "https://github.com/obss/sahi",
+    "description": "A lightweight vision library for performing large scale object detection/ instance segmentation.",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "sekigon-gonnoc/Pico-PIO-USB",
+    "url": "https://github.com/sekigon-gonnoc/Pico-PIO-USB",
+    "description": "USB host/device implementation using PIO of raspberry pi pico (RP2040).",
+    "language": "C",
+    "star": "63"
+  },
+  {
+    "title": "beefproject/beef",
+    "url": "https://github.com/beefproject/beef",
+    "description": "The Browser Exploitation Framework Project",
+    "language": "JavaScript",
+    "star": "50"
+  },
+  {
+    "title": "alex/what-happens-when",
+    "url": "https://github.com/alex/what-happens-when",
+    "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+    "language": "none",
+    "star": "109"
+  },
+  {
+    "title": "italiaremote/awesome-italia-remote",
+    "url": "https://github.com/italiaremote/awesome-italia-remote",
+    "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
+    "language": "Go",
+    "star": "61"
+  },
+  {
+    "title": "spotify/ruler",
+    "url": "https://github.com/spotify/ruler",
+    "description": "Gradle plugin which helps you analyze the size of your Android apps.",
+    "language": "Kotlin",
+    "star": "79"
+  },
+  {
+    "title": "gedoor/legado",
+    "url": "https://github.com/gedoor/legado",
+    "description": "阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。",
+    "language": "Kotlin",
+    "star": "28"
+  },
+  {
+    "title": "rockerBOO/awesome-neovim",
+    "url": "https://github.com/rockerBOO/awesome-neovim",
+    "description": "Collections of awesome neovim plugins.",
+    "language": "none",
+    "star": "30"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
+    "language": "none",
+    "star": "128"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
+    "language": "none",
+    "star": "59"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "language": "Python",
+    "star": "10"
+  },
+  {
+    "title": "darkquasar/AzureHunter",
+    "url": "https://github.com/darkquasar/AzureHunter",
+    "description": "A Cloud Forensics Powershell module to run threat hunting playbooks on data from Azure and O365",
+    "language": "PowerShell",
+    "star": "8"
+  },
+  {
+    "title": "microsoft/sql-server-samples",
+    "url": "https://github.com/microsoft/sql-server-samples",
+    "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "nihui/realcugan-ncnn-vulkan",
+    "url": "https://github.com/nihui/realcugan-ncnn-vulkan",
+    "description": "real-cugan converter ncnn version, runs fast on intel / amd / nvidia GPU with vulkan",
+    "language": "C",
+    "star": "16"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "language": "Cuda",
+    "star": "182"
+  },
+  {
+    "title": "probml/pml-book",
+    "url": "https://github.com/probml/pml-book",
+    "description": "\"Probabilistic Machine Learning\" - a book series by Kevin Murphy",
+    "language": "Jupyter Notebook",
+    "star": "18"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "language": "Java",
+    "star": "36"
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "description": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
+    "language": "Python",
+    "star": "53"
+  }
+]
