@@ -18,21 +18,21 @@
     "url": "https://github.com/trickest/cve",
     "description": "Gather and update all available and newest CVEs with their PoC.",
     "language": "none",
-    "star": "514"
+    "star": "465"
   },
   {
     "title": "heiyeluren/XMM",
     "url": "https://github.com/heiyeluren/XMM",
     "description": "XMM is a high performance third party memory manager for Go environments that is not affected by Gc and guarantees high performance. XMM是一个在Go语言环境中完全自主实现的第三方内存管理库，不依赖于Go本身的任何内存管理能力，纯自主实现能够应对各种场景下大小内存的 分配/释放 工作，能自主构建高性能的 链表/树/哈希表等各类数据结构，能良好完美的逃逸掉Go内置的GC机制，是构建高性能程序基础设施。",
     "language": "Go",
-    "star": "117"
+    "star": "194"
   },
   {
     "title": "mermaid-js/mermaid",
     "url": "https://github.com/mermaid-js/mermaid",
     "description": "Generation of diagram and flowchart from text in a similar manner as markdown",
     "language": "JavaScript",
-    "star": "558"
+    "star": "607"
   },
   {
     "title": "ethereumbook/ethereumbook",
@@ -60,14 +60,14 @@
     "url": "https://github.com/yoav-lavi/melody",
     "description": "Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable",
     "language": "Rust",
-    "star": "624"
+    "star": "596"
   },
   {
     "title": "leonardomso/33-js-concepts",
     "url": "https://github.com/leonardomso/33-js-concepts",
     "description": "📜 33 JavaScript concepts every developer should know.",
     "language": "JavaScript",
-    "star": "107"
+    "star": "108"
   },
   {
     "title": "clintonwoo/hackernews-remix-react",
@@ -102,7 +102,7 @@
     "url": "https://github.com/italiaremote/awesome-italia-remote",
     "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
     "language": "Go",
-    "star": "159"
+    "star": "106"
   },
   {
     "title": "google/googletest",
@@ -123,14 +123,14 @@
     "url": "https://github.com/python/mypy",
     "description": "Optional static typing for Python",
     "language": "Python",
-    "star": "112"
+    "star": "42"
   },
   {
     "title": "aws/aws-sdk-go",
     "url": "https://github.com/aws/aws-sdk-go",
     "description": "AWS SDK for the Go programming language.",
     "language": "Go",
-    "star": "10"
+    "star": "17"
   },
   {
     "title": "NATSpeech/NATSpeech",
