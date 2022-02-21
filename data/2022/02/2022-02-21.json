@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "description": "程序员在家做饭方法指南。",
+    "language": "none",
+    "star": "877"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "language": "Cuda",
+    "star": "244"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "69"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "C#",
+    "star": "77"
+  },
+  {
+    "title": "odin-lang/Odin",
+    "url": "https://github.com/odin-lang/Odin",
+    "description": "Odin Programming Language",
+    "language": "Odin",
+    "star": "195"
+  },
+  {
+    "title": "emilk/egui",
+    "url": "https://github.com/emilk/egui",
+    "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+    "language": "Rust",
+    "star": "28"
+  },
+  {
+    "title": "martinvonz/jj",
+    "url": "https://github.com/martinvonz/jj",
+    "description": "A Git-compatible DVCS that is both simple and powerful",
+    "language": "Rust",
+    "star": "238"
+  },
+  {
+    "title": "adrianhajdin/project_professional_portfolio",
+    "url": "https://github.com/adrianhajdin/project_professional_portfolio",
+    "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a real time chat application. Covered topics: React.js, SCSS, Framer Motion, Sanity",
+    "language": "JavaScript",
+    "star": "60"
+  },
+  {
+    "title": "lwthiker/curl-impersonate",
+    "url": "https://github.com/lwthiker/curl-impersonate",
+    "description": "curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox",
+    "language": "Dockerfile",
+    "star": "104"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "468"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "language": "Java",
+    "star": "71"
+  },
+  {
+    "title": "BlueWallet/BlueWallet",
+    "url": "https://github.com/BlueWallet/BlueWallet",
+    "description": "Bitcoin thin client for iOS & Android. Built with React Native",
+    "language": "JavaScript",
+    "star": "35"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "207"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "JavaScript",
+    "star": "202"
+  },
+  {
+    "title": "cryptotwinsbr/spacecrypto-bot",
+    "url": "https://github.com/cryptotwinsbr/spacecrypto-bot",
+    "description": "This is a free python bot program that crosses you to farm with auto click in space crypto NFT game, having fun :)",
+    "language": "Python",
+    "star": "20"
+  },
+  {
+    "title": "harmonoid/harmonoid",
+    "url": "https://github.com/harmonoid/harmonoid",
+    "description": "🎵 Elegant music app to play & manage music library. Lyrics & playlists. YouTube support.",
+    "language": "Dart",
+    "star": "78"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "description": "Fig adds autocomplete to your terminal.",
+    "language": "TypeScript",
+    "star": "111"
+  },
+  {
+    "title": "myugan/awesome-docker-security",
+    "url": "https://github.com/myugan/awesome-docker-security",
+    "description": "📚 A curated list of awesome Docker security resources",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "BuilderIO/qwik",
+    "url": "https://github.com/BuilderIO/qwik",
+    "description": "The HTML-first framework. Initialize apps of any size with < 1kb JS",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "danielbeach/data-engineering-practice",
+    "url": "https://github.com/danielbeach/data-engineering-practice",
+    "description": "Data Engineering Practice Problems",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "description": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "language": "TypeScript",
+    "star": "18"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "language": "Go",
+    "star": "43"
+  },
+  {
+    "title": "saadeghi/daisyui",
+    "url": "https://github.com/saadeghi/daisyui",
+    "description": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components",
+    "language": "Svelte",
+    "star": "196"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "star": "145"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "language": "Python",
+    "star": "20"
+  }
+]
