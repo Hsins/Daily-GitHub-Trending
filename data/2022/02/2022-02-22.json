@@ -25,21 +25,21 @@
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "465"
+    "star": "463"
   },
   {
     "title": "midisec/BypassAnti-Virus",
     "url": "https://github.com/midisec/BypassAnti-Virus",
     "description": "免杀姿势学习、记录、复现。",
     "language": "C++",
-    "star": "56"
+    "star": "67"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "191"
+    "star": "182"
   },
   {
     "title": "iamadamdev/bypass-paywalls-chrome",
@@ -53,7 +53,7 @@
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "84"
+    "star": "77"
   },
   {
     "title": "myugan/awesome-cicd-security",
@@ -67,7 +67,7 @@
     "url": "https://github.com/NVlabs/instant-ngp",
     "description": "Instant neural graphics primitives: lightning fast NeRF and more",
     "language": "Cuda",
-    "star": "269"
+    "star": "295"
   },
   {
     "title": "supabase/supabase",
@@ -116,14 +116,14 @@
     "url": "https://github.com/lwthiker/curl-impersonate",
     "description": "curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox",
     "language": "Dockerfile",
-    "star": "171"
+    "star": "281"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
     "language": "Java",
-    "star": "77"
+    "star": "42"
   },
   {
     "title": "brohrer/sharpened_cosine_similarity_torch",
@@ -158,7 +158,7 @@
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "Go",
-    "star": "73"
+    "star": "59"
   },
   {
     "title": "SigmaHQ/sigma",
@@ -172,6 +172,6 @@
     "url": "https://github.com/openai/gym",
     "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
     "language": "Python",
-    "star": "31"
+    "star": "22"
   }
 ]
