@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).",
+    "language": "none",
+    "star": "2"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot - The Open-Source design & prototyping platform",
+    "language": "Clojure",
+    "star": "198"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "language": "Python",
+    "star": "186"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "463"
+  },
+  {
+    "title": "midisec/BypassAnti-Virus",
+    "url": "https://github.com/midisec/BypassAnti-Virus",
+    "description": "免杀姿势学习、记录、复现。",
+    "language": "C++",
+    "star": "67"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "182"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "language": "JavaScript",
+    "star": "80"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "star": "77"
+  },
+  {
+    "title": "myugan/awesome-cicd-security",
+    "url": "https://github.com/myugan/awesome-cicd-security",
+    "description": "📚 A curated list of awesome CI CD security resources",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "language": "Cuda",
+    "star": "295"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "208"
+  },
+  {
+    "title": "helloexp/0day",
+    "url": "https://github.com/helloexp/0day",
+    "description": "各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC 该项目将不断更新",
+    "language": "C",
+    "star": "16"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "C#",
+    "star": "112"
+  },
+  {
+    "title": "Cracked5pider/ShellcodeTemplate",
+    "url": "https://github.com/Cracked5pider/ShellcodeTemplate",
+    "description": "An easily modifiable shellcode template for Windows x64/x86",
+    "language": "C",
+    "star": "17"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "description": "All Algorithms implemented in Rust",
+    "language": "Rust",
+    "star": "24"
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "description": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "language": "C#",
+    "star": "101"
+  },
+  {
+    "title": "lwthiker/curl-impersonate",
+    "url": "https://github.com/lwthiker/curl-impersonate",
+    "description": "curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox",
+    "language": "Dockerfile",
+    "star": "281"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
+    "language": "Java",
+    "star": "42"
+  },
+  {
+    "title": "brohrer/sharpened_cosine_similarity_torch",
+    "url": "https://github.com/brohrer/sharpened_cosine_similarity_torch",
+    "description": "A Sharpened Cosine Similarity layer for PyTorch",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "evilbuffer/malware-and-exploitdev-resources",
+    "url": "https://github.com/evilbuffer/malware-and-exploitdev-resources",
+    "description": "",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "197"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "27"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "language": "Go",
+    "star": "59"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "description": "Generic Signature Format for SIEM Systems",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "openai/gym",
+    "url": "https://github.com/openai/gym",
+    "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+    "language": "Python",
+    "star": "22"
+  }
+]
