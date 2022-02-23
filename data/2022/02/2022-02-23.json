@@ -11,21 +11,21 @@
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
     "language": "Python",
-    "star": "287"
+    "star": "288"
   },
   {
     "title": "withfig/autocomplete",
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "40"
+    "star": "39"
   },
   {
     "title": "doocs/advanced-java",
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "153"
+    "star": "81"
   },
   {
     "title": "BySergeyDev/NvidiaRTX-LHRv2Unlocker",
@@ -39,7 +39,7 @@
     "url": "https://github.com/labuladong/fucking-algorithm",
     "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
     "language": "Markdown",
-    "star": "66"
+    "star": "67"
   },
   {
     "title": "J0hnbX/RedTeam-Resources",
@@ -53,14 +53,14 @@
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "668"
+    "star": "670"
   },
   {
     "title": "vvmdx/Sec-Interview-4-2023",
     "url": "https://github.com/vvmdx/Sec-Interview-4-2023",
     "description": "一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~",
     "language": "none",
-    "star": "57"
+    "star": "58"
   },
   {
     "title": "coding-horror/basic-computer-games",
@@ -95,7 +95,7 @@
     "url": "https://github.com/netdata/netdata",
     "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
     "language": "C",
-    "star": "24"
+    "star": "22"
   },
   {
     "title": "NVlabs/instant-ngp",
@@ -116,7 +116,7 @@
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "Real-time face swap for PC streaming or video calls",
     "language": "Python",
-    "star": "57"
+    "star": "68"
   },
   {
     "title": "tiangolo/fastapi",
@@ -137,7 +137,7 @@
     "url": "https://github.com/hasura/graphql-engine",
     "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
     "language": "Haskell",
-    "star": "67"
+    "star": "43"
   },
   {
     "title": "ant-design/pro-components",
@@ -165,7 +165,7 @@
     "url": "https://github.com/cosmtrek/air",
     "description": "☁️ Live reload for Go apps",
     "language": "Go",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "OpenZeppelin/openzeppelin-contracts",
