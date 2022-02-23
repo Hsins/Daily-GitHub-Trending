@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "language": "Python",
+    "star": "288"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "description": "Fig adds autocomplete to your terminal.",
+    "language": "TypeScript",
+    "star": "39"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "language": "Java",
+    "star": "81"
+  },
+  {
+    "title": "BySergeyDev/NvidiaRTX-LHRv2Unlocker",
+    "url": "https://github.com/BySergeyDev/NvidiaRTX-LHRv2Unlocker",
+    "description": "The first fully automated BIOS modifier for RTX cards with LHR v2 lock.",
+    "language": "none",
+    "star": "334"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "Markdown",
+    "star": "67"
+  },
+  {
+    "title": "J0hnbX/RedTeam-Resources",
+    "url": "https://github.com/J0hnbX/RedTeam-Resources",
+    "description": "",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "670"
+  },
+  {
+    "title": "vvmdx/Sec-Interview-4-2023",
+    "url": "https://github.com/vvmdx/Sec-Interview-4-2023",
+    "description": "一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~",
+    "language": "none",
+    "star": "58"
+  },
+  {
+    "title": "coding-horror/basic-computer-games",
+    "url": "https://github.com/coding-horror/basic-computer-games",
+    "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
+    "language": "C#",
+    "star": "227"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "description": "Build your personal knowledge base with Trilium Notes",
+    "language": "JavaScript",
+    "star": "53"
+  },
+  {
+    "title": "automerge/automerge",
+    "url": "https://github.com/automerge/automerge",
+    "description": "A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.",
+    "language": "JavaScript",
+    "star": "104"
+  },
+  {
+    "title": "danielbeach/data-engineering-practice",
+    "url": "https://github.com/danielbeach/data-engineering-practice",
+    "description": "Data Engineering Practice Problems",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "language": "C",
+    "star": "22"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "language": "Cuda",
+    "star": "224"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "description": "mold: A Modern Linker",
+    "language": "C++",
+    "star": "22"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "description": "Real-time face swap for PC streaming or video calls",
+    "language": "Python",
+    "star": "68"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "description": "Anime Girls Holding Programming Books",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "language": "Haskell",
+    "star": "43"
+  },
+  {
+    "title": "ant-design/pro-components",
+    "url": "https://github.com/ant-design/pro-components",
+    "description": "🏆 Use Ant Design like a Pro!",
+    "language": "TypeScript",
+    "star": "8"
+  },
+  {
+    "title": "aquasecurity/cloudsploit",
+    "url": "https://github.com/aquasecurity/cloudsploit",
+    "description": "Cloud Security Posture Management (CSPM)",
+    "language": "JavaScript",
+    "star": "23"
+  },
+  {
+    "title": "cube0x0/BofRoast",
+    "url": "https://github.com/cube0x0/BofRoast",
+    "description": "Beacon Object Files for roasting Active Directory",
+    "language": "C",
+    "star": "12"
+  },
+  {
+    "title": "cosmtrek/air",
+    "url": "https://github.com/cosmtrek/air",
+    "description": "☁️ Live reload for Go apps",
+    "language": "Go",
+    "star": "22"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "JavaScript",
+    "star": "33"
+  }
+]
