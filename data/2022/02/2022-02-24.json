@@ -4,14 +4,14 @@
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).",
     "language": "none",
-    "star": "3"
+    "star": "1"
   },
   {
     "title": "veeral-patel/how-to-secure-anything",
     "url": "https://github.com/veeral-patel/how-to-secure-anything",
     "description": "How to systematically secure anything: a repository about security engineering",
     "language": "none",
-    "star": "251"
+    "star": "223"
   },
   {
     "title": "riti2409/Resources-for-preparation-Of-Placements",
@@ -32,7 +32,7 @@
     "url": "https://github.com/nusr/hacker-laws-zh",
     "description": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)",
     "language": "none",
-    "star": "82"
+    "star": "133"
   },
   {
     "title": "kaist-cp/cs431",
@@ -53,21 +53,21 @@
     "url": "https://github.com/danistefanovic/build-your-own-x",
     "description": "🤓 Build your own (insert technology here)",
     "language": "none",
-    "star": "552"
+    "star": "343"
   },
   {
     "title": "ant-design/ant-design-mobile",
     "url": "https://github.com/ant-design/ant-design-mobile",
     "description": "Essential UI blocks for building mobile web apps.",
     "language": "TypeScript",
-    "star": "40"
+    "star": "21"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。",
     "language": "Java",
-    "star": "164"
+    "star": "155"
   },
   {
     "title": "apache/superset",
@@ -81,35 +81,35 @@
     "url": "https://github.com/FederatedAI/FATE",
     "description": "An Industrial Grade Federated Learning Framework",
     "language": "Python",
-    "star": "9"
+    "star": "11"
   },
   {
     "title": "YaoApp/yao",
     "url": "https://github.com/YaoApp/yao",
     "description": "Yao A low code engine to create web services and dashboard.",
     "language": "Go",
-    "star": "74"
+    "star": "71"
   },
   {
     "title": "hasura/graphql-engine",
     "url": "https://github.com/hasura/graphql-engine",
     "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
     "language": "Haskell",
-    "star": "82"
+    "star": "127"
   },
   {
     "title": "zellij-org/zellij",
     "url": "https://github.com/zellij-org/zellij",
     "description": "A terminal workspace with batteries included",
     "language": "Rust",
-    "star": "88"
+    "star": "91"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "13"
+    "star": "12"
   },
   {
     "title": "evilbuffer/malware-and-exploitdev-resources",
@@ -123,14 +123,14 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "41"
+    "star": "36"
   },
   {
     "title": "zadam/trilium",
     "url": "https://github.com/zadam/trilium",
     "description": "Build your personal knowledge base with Trilium Notes",
     "language": "JavaScript",
-    "star": "71"
+    "star": "72"
   },
   {
     "title": "jrouwe/JoltPhysics",
@@ -144,7 +144,7 @@
     "url": "https://github.com/positive-security/find-you",
     "description": "A stealth AirTag clone that bypasses all of Apple's tracking protection features",
     "language": "Swift",
-    "star": "73"
+    "star": "72"
   },
   {
     "title": "influxdata/influxdb",
@@ -165,7 +165,7 @@
     "url": "https://github.com/coding-horror/basic-computer-games",
     "description": "An updated version of the classic \"Basic Computer Games\" book, with well-written examples in a variety of common programming languages",
     "language": "C#",
-    "star": "198"
+    "star": "200"
   },
   {
     "title": "labuladong/fucking-algorithm",
