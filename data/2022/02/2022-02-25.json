@@ -1,0 +1,177 @@
+[
+  {
+    "title": "louisyoungx/JD-SHOPPER",
+    "url": "https://github.com/louisyoungx/JD-SHOPPER",
+    "description": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
+    "language": "Python",
+    "star": "115"
+  },
+  {
+    "title": "github/advisory-database",
+    "url": "https://github.com/github/advisory-database",
+    "description": "Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "language": "C",
+    "star": "17"
+  },
+  {
+    "title": "jrouwe/JoltPhysics",
+    "url": "https://github.com/jrouwe/JoltPhysics",
+    "description": "A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.",
+    "language": "C++",
+    "star": "223"
+  },
+  {
+    "title": "KumarRobotics/kr_autonomous_flight",
+    "url": "https://github.com/KumarRobotics/kr_autonomous_flight",
+    "description": "Autonomous flight system for aerial robots",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "description": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)",
+    "language": "none",
+    "star": "136"
+  },
+  {
+    "title": "anderspitman/awesome-tunneling",
+    "url": "https://github.com/anderspitman/awesome-tunneling",
+    "description": "List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.",
+    "language": "none",
+    "star": "247"
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "language": "Markdown",
+    "star": "317"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "description": "Fig adds autocomplete to your terminal.",
+    "language": "TypeScript",
+    "star": "58"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "language": "Python",
+    "star": "67"
+  },
+  {
+    "title": "planetscale/beam",
+    "url": "https://github.com/planetscale/beam",
+    "description": "A simple message board for your organization or project",
+    "language": "TypeScript",
+    "star": "315"
+  },
+  {
+    "title": "KurtBestor/Hitomi-Downloader",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+    "language": "Python",
+    "star": "75"
+  },
+  {
+    "title": "VoronDesign/Voron-2",
+    "url": "https://github.com/VoronDesign/Voron-2",
+    "description": "Voron 2 CoreXY 3D Printer design",
+    "language": "none",
+    "star": "12"
+  },
+  {
+    "title": "vueComponent/ant-design-vue",
+    "url": "https://github.com/vueComponent/ant-design-vue",
+    "description": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+    "language": "Vue",
+    "star": "10"
+  },
+  {
+    "title": "SebLague/Geographical-Adventures",
+    "url": "https://github.com/SebLague/Geographical-Adventures",
+    "description": "",
+    "language": "C#",
+    "star": "37"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "H5-Dooring/dooringx",
+    "url": "https://github.com/H5-Dooring/dooringx",
+    "description": "快速高效搭建可视化拖拽平台",
+    "language": "TypeScript",
+    "star": "22"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "49"
+  },
+  {
+    "title": "YaoApp/yao",
+    "url": "https://github.com/YaoApp/yao",
+    "description": "Yao A low code engine to create web services and dashboard.",
+    "language": "Go",
+    "star": "209"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "language": "Haskell",
+    "star": "123"
+  },
+  {
+    "title": "skywind3000/preserve-cd",
+    "url": "https://github.com/skywind3000/preserve-cd",
+    "description": "Game Preservation Project",
+    "language": "none",
+    "star": "120"
+  },
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "description": "",
+    "language": "TypeScript",
+    "star": "21"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "language": "Java",
+    "star": "147"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "description": "Anime Girls Holding Programming Books",
+    "language": "none",
+    "star": "154"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "language": "none",
+    "star": "56"
+  }
+]
