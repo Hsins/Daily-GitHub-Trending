@@ -18,14 +18,14 @@
     "url": "https://github.com/netdata/netdata",
     "description": "Real-time performance monitoring, done right! https://www.netdata.cloud",
     "language": "C",
-    "star": "19"
+    "star": "17"
   },
   {
     "title": "jrouwe/JoltPhysics",
     "url": "https://github.com/jrouwe/JoltPhysics",
     "description": "A multi core friendly rigid body physics and collision detection library suitable for games and VR applications.",
     "language": "C++",
-    "star": "225"
+    "star": "223"
   },
   {
     "title": "KumarRobotics/kr_autonomous_flight",
@@ -39,7 +39,7 @@
     "url": "https://github.com/nusr/hacker-laws-zh",
     "description": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)",
     "language": "none",
-    "star": "403"
+    "star": "136"
   },
   {
     "title": "anderspitman/awesome-tunneling",
@@ -53,21 +53,21 @@
     "url": "https://github.com/labuladong/fucking-algorithm",
     "description": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
     "language": "Markdown",
-    "star": "312"
+    "star": "317"
   },
   {
     "title": "withfig/autocomplete",
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "54"
+    "star": "58"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
     "language": "Python",
-    "star": "36"
+    "star": "67"
   },
   {
     "title": "planetscale/beam",
@@ -81,14 +81,14 @@
     "url": "https://github.com/KurtBestor/Hitomi-Downloader",
     "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
     "language": "Python",
-    "star": "33"
+    "star": "75"
   },
   {
     "title": "VoronDesign/Voron-2",
     "url": "https://github.com/VoronDesign/Voron-2",
     "description": "Voron 2 CoreXY 3D Printer design",
     "language": "none",
-    "star": "10"
+    "star": "12"
   },
   {
     "title": "vueComponent/ant-design-vue",
@@ -109,63 +109,63 @@
     "url": "https://github.com/tiangolo/fastapi",
     "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
     "language": "Python",
-    "star": "59"
+    "star": "56"
   },
   {
     "title": "H5-Dooring/dooringx",
     "url": "https://github.com/H5-Dooring/dooringx",
     "description": "快速高效搭建可视化拖拽平台",
     "language": "TypeScript",
-    "star": "50"
+    "star": "22"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "19"
+    "star": "49"
   },
   {
     "title": "YaoApp/yao",
     "url": "https://github.com/YaoApp/yao",
     "description": "Yao A low code engine to create web services and dashboard.",
     "language": "Go",
-    "star": "146"
+    "star": "209"
   },
   {
     "title": "hasura/graphql-engine",
     "url": "https://github.com/hasura/graphql-engine",
     "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
     "language": "Haskell",
-    "star": "127"
+    "star": "123"
   },
   {
     "title": "skywind3000/preserve-cd",
     "url": "https://github.com/skywind3000/preserve-cd",
     "description": "Game Preservation Project",
     "language": "none",
-    "star": "119"
+    "star": "120"
   },
   {
     "title": "nkallen/plasticity",
     "url": "https://github.com/nkallen/plasticity",
     "description": "",
     "language": "TypeScript",
-    "star": "22"
+    "star": "21"
   },
   {
     "title": "doocs/advanced-java",
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "78"
+    "star": "147"
   },
   {
     "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
     "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
     "description": "Anime Girls Holding Programming Books",
     "language": "none",
-    "star": "155"
+    "star": "154"
   },
   {
     "title": "youngyangyang04/leetcode-master",
