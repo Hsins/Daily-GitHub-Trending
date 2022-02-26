@@ -4,21 +4,21 @@
     "url": "https://github.com/AppFlowy-IO/AppFlowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "language": "Rust",
-    "star": "61"
+    "star": "62"
   },
   {
     "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
     "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
     "description": "Anime Girls Holding Programming Books",
     "language": "none",
-    "star": "286"
+    "star": "265"
   },
   {
     "title": "dj-nitehawk/FastEndpoints",
     "url": "https://github.com/dj-nitehawk/FastEndpoints",
     "description": "A light-weight REST Api framework for ASP.Net 6 that implements REPR (Request-Endpoint-Response) Pattern",
     "language": "C#",
-    "star": "107"
+    "star": "159"
   },
   {
     "title": "Azure/AlwaysOn",
@@ -39,28 +39,28 @@
     "url": "https://github.com/planetscale/beam",
     "description": "A simple message board for your organization or project",
     "language": "TypeScript",
-    "star": "233"
+    "star": "226"
   },
   {
     "title": "louisyoungx/JD-SHOPPER",
     "url": "https://github.com/louisyoungx/JD-SHOPPER",
     "description": "京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)",
     "language": "Python",
-    "star": "131"
+    "star": "148"
   },
   {
     "title": "nusr/hacker-laws-zh",
     "url": "https://github.com/nusr/hacker-laws-zh",
     "description": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)",
     "language": "none",
-    "star": "224"
+    "star": "269"
   },
   {
     "title": "phil-opp/blog_os",
     "url": "https://github.com/phil-opp/blog_os",
     "description": "Writing an OS in Rust",
     "language": "HTML",
-    "star": "180"
+    "star": "168"
   },
   {
     "title": "labuladong/fucking-algorithm",
@@ -74,91 +74,91 @@
     "url": "https://github.com/sampotts/plyr",
     "description": "A simple HTML5, YouTube and Vimeo player",
     "language": "JavaScript",
-    "star": "54"
+    "star": "34"
   },
   {
     "title": "rust-lang/rust-clippy",
     "url": "https://github.com/rust-lang/rust-clippy",
     "description": "A bunch of lints to catch common mistakes and improve your Rust code",
     "language": "Rust",
-    "star": "10"
+    "star": "19"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "language": "Java",
-    "star": "44"
+    "star": "138"
   },
   {
     "title": "KumarRobotics/kr_autonomous_flight",
     "url": "https://github.com/KumarRobotics/kr_autonomous_flight",
     "description": "Autonomous flight system for GPS-denied quadrotors",
     "language": "C++",
-    "star": "91"
+    "star": "86"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "121"
+    "star": "136"
   },
   {
     "title": "YaoApp/yao",
     "url": "https://github.com/YaoApp/yao",
     "description": "Yao A low code engine to create web services and dashboard.",
     "language": "Go",
-    "star": "198"
+    "star": "167"
   },
   {
     "title": "MHProDev/MHDDoS",
     "url": "https://github.com/MHProDev/MHDDoS",
     "description": "Best DDoS Attack Script Python3, Cyber Attack With 36 Methods",
     "language": "Python",
-    "star": "19"
+    "star": "88"
   },
   {
     "title": "pytorch/torchrec",
     "url": "https://github.com/pytorch/torchrec",
     "description": "Pytorch domain library for recommendation systems",
     "language": "Python",
-    "star": "37"
+    "star": "43"
   },
   {
     "title": "LSPosed/MagiskOnWSA",
     "url": "https://github.com/LSPosed/MagiskOnWSA",
     "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
     "language": "none",
-    "star": "143"
+    "star": "120"
   },
   {
     "title": "antfu/vitesse",
     "url": "https://github.com/antfu/vitesse",
     "description": "🏕 Opinionated Vite Starter Template",
     "language": "TypeScript",
-    "star": "25"
+    "star": "31"
   },
   {
     "title": "vectordotdev/vector",
     "url": "https://github.com/vectordotdev/vector",
     "description": "A high-performance observability data pipeline.",
     "language": "Rust",
-    "star": "8"
+    "star": "7"
   },
   {
     "title": "prometheus-community/helm-charts",
     "url": "https://github.com/prometheus-community/helm-charts",
     "description": "Prometheus community Helm charts",
     "language": "Mustache",
-    "star": "13"
+    "star": "6"
   },
   {
     "title": "mui/material-ui",
     "url": "https://github.com/mui/material-ui",
     "description": "MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
     "language": "JavaScript",
-    "star": "36"
+    "star": "76"
   },
   {
     "title": "doocs/leetcode",
@@ -172,6 +172,6 @@
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "65"
+    "star": "50"
   }
 ]
