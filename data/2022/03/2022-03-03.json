@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "57"
+  },
+  {
+    "title": "TheParmak/conti-leaks-englished",
+    "url": "https://github.com/TheParmak/conti-leaks-englished",
+    "description": "Google and deepl translated conti leaks, which is shared by a member of the conti ransomware group.",
+    "language": "Rich Text Format",
+    "star": "73"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "217"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "154"
+  },
+  {
+    "title": "opengs/uashield",
+    "url": "https://github.com/opengs/uashield",
+    "description": "Voluntary Ukraine security platform to counter attack Russian forces in the Internet",
+    "language": "TypeScript",
+    "star": "133"
+  },
+  {
+    "title": "stop-war-in-ukraine/stop-russia-it",
+    "url": "https://github.com/stop-war-in-ukraine/stop-russia-it",
+    "description": "An open letter from IT industry specialists to protect Ukraine from information warfare. Відкритий лист спеціалістів IT-індустрії на захист України від інформаційної війни.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "AlexTrushkovsky/NoWarDDoS",
+    "url": "https://github.com/AlexTrushkovsky/NoWarDDoS",
+    "description": "DDoS Russian websites to help Ukraine to win this hybrid war",
+    "language": "Python",
+    "star": "146"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "language": "none",
+    "star": "74"
+  },
+  {
+    "title": "FeeiCN/Security-PPT",
+    "url": "https://github.com/FeeiCN/Security-PPT",
+    "description": "Security-related Slide Presentation（大安全各领域各公司各会议分享的PPT）",
+    "language": "Python",
+    "star": "216"
+  },
+  {
+    "title": "curated-intel/Ukraine-Cyber-Operations",
+    "url": "https://github.com/curated-intel/Ukraine-Cyber-Operations",
+    "description": "Curated Intelligence is working with analysts from around the world to provide useful information to organisations in Ukraine looking for additional free threat intelligence. Slava Ukraini. Glory to Ukraine.",
+    "language": "YARA",
+    "star": "111"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "description": "The content behind MDN Web Docs",
+    "language": "HTML",
+    "star": "122"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "258"
+  },
+  {
+    "title": "LimerBoy/Impulse",
+    "url": "https://github.com/LimerBoy/Impulse",
+    "description": "💣 Impulse Denial-of-service ToolKit",
+    "language": "Python",
+    "star": "143"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "105"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "100"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a developer in 2022",
+    "language": "TypeScript",
+    "star": "300"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "288"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "description": "一套面向扩展设计的企业级低代码技术体系",
+    "language": "TypeScript",
+    "star": "193"
+  },
+  {
+    "title": "vinodotdev/node-to-rust",
+    "url": "https://github.com/vinodotdev/node-to-rust",
+    "description": "",
+    "language": "Rust",
+    "star": "73"
+  },
+  {
+    "title": "valyala/fasthttp",
+    "url": "https://github.com/valyala/fasthttp",
+    "description": "Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http",
+    "language": "Go",
+    "star": "140"
+  },
+  {
+    "title": "NVIDIA/cutlass",
+    "url": "https://github.com/NVIDIA/cutlass",
+    "description": "CUDA Templates for Linear Algebra Subroutines",
+    "language": "C++",
+    "star": "5"
+  },
+  {
+    "title": "github/feedback",
+    "url": "https://github.com/github/feedback",
+    "description": "Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!",
+    "language": "none",
+    "star": "75"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "119"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "144"
+  }
+]
