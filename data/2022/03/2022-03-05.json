@@ -1,0 +1,177 @@
+[
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "386"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "336"
+  },
+  {
+    "title": "TrungNguyen1909/qemu-t8030",
+    "url": "https://github.com/TrungNguyen1909/qemu-t8030",
+    "description": "iPhone 11 emulated on QEMU",
+    "language": "C",
+    "star": "123"
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "language": "JavaScript",
+    "star": "320"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "description": "🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.",
+    "language": "Kotlin",
+    "star": "31"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "star": "262"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "505"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "description": "✍ 一款现代化的开源博客/CMS系统。",
+    "language": "Java",
+    "star": "45"
+  },
+  {
+    "title": "Arriven/db1000n",
+    "url": "https://github.com/Arriven/db1000n",
+    "description": "",
+    "language": "Go",
+    "star": "148"
+  },
+  {
+    "title": "mattn/awesome-twitter-communities",
+    "url": "https://github.com/mattn/awesome-twitter-communities",
+    "description": "Awesome Twitter Communities for Engineers",
+    "language": "Shell",
+    "star": "40"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "198"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "330"
+  },
+  {
+    "title": "opengs/uashield",
+    "url": "https://github.com/opengs/uashield",
+    "description": "Voluntary Ukraine security platform to protect us from Russian forces in the Internet",
+    "language": "TypeScript",
+    "star": "161"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "12"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "description": "The easiest way to automate your data",
+    "language": "Python",
+    "star": "7"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "229"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "99"
+  },
+  {
+    "title": "opensumi/ide-startup",
+    "url": "https://github.com/opensumi/ide-startup",
+    "description": "Quick starter for OpenSumi Web",
+    "language": "JavaScript",
+    "star": "3"
+  },
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "description": "",
+    "language": "TypeScript",
+    "star": "70"
+  },
+  {
+    "title": "xianyi/OpenBLAS",
+    "url": "https://github.com/xianyi/OpenBLAS",
+    "description": "OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version.",
+    "language": "Fortran",
+    "star": "6"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "129"
+  },
+  {
+    "title": "hpcaitech/FastFold",
+    "url": "https://github.com/hpcaitech/FastFold",
+    "description": "Optimizing Protein Structure Prediction Model Training and Inference on GPU Clusters",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "language": "JavaScript",
+    "star": "79"
+  },
+  {
+    "title": "gildas-lormeau/SingleFile",
+    "url": "https://github.com/gildas-lormeau/SingleFile",
+    "description": "Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file",
+    "language": "JavaScript",
+    "star": "366"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "description": "🍃 JavaScript library for mobile-friendly interactive maps",
+    "language": "JavaScript",
+    "star": "25"
+  }
+]
