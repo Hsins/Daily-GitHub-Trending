@@ -4,21 +4,21 @@
     "url": "https://github.com/Arriven/db1000n",
     "description": "",
     "language": "Go",
-    "star": "110"
+    "star": "109"
   },
   {
     "title": "nkallen/plasticity",
     "url": "https://github.com/nkallen/plasticity",
     "description": "",
     "language": "TypeScript",
-    "star": "57"
+    "star": "73"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "405"
+    "star": "446"
   },
   {
     "title": "codez0mb1e/resistance",
@@ -32,14 +32,14 @@
     "url": "https://github.com/xerpi/vita2hos",
     "description": "[WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer",
     "language": "C",
-    "star": "195"
+    "star": "167"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "404"
+    "star": "384"
   },
   {
     "title": "samber/lo",
@@ -53,7 +53,7 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "257"
+    "star": "256"
   },
   {
     "title": "sunface/rust-by-practice",
@@ -74,35 +74,35 @@
     "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
     "description": "100 Days of ML Coding",
     "language": "none",
-    "star": "64"
+    "star": "70"
   },
   {
     "title": "italiaremote/awesome-italia-remote",
     "url": "https://github.com/italiaremote/awesome-italia-remote",
     "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
     "language": "Go",
-    "star": "26"
+    "star": "19"
   },
   {
     "title": "tauri-apps/tauri",
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "106"
+    "star": "184"
   },
   {
     "title": "lapce/lapce",
     "url": "https://github.com/lapce/lapce",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "68"
+    "star": "113"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "328"
+    "star": "365"
   },
   {
     "title": "alexmon1989/russia_ddos",
@@ -123,14 +123,14 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "240"
+    "star": "263"
   },
   {
     "title": "iamadamdev/bypass-paywalls-chrome",
     "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
     "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
     "language": "JavaScript",
-    "star": "269"
+    "star": "267"
   },
   {
     "title": "topjohnwu/Magisk",
@@ -144,7 +144,7 @@
     "url": "https://github.com/TheAlgorithms/Javascript",
     "description": "Algorithms implemented in Javascript for beginners, following best practices.",
     "language": "JavaScript",
-    "star": "79"
+    "star": "52"
   },
   {
     "title": "TencentARC/GFPGAN",
@@ -158,20 +158,20 @@
     "url": "https://github.com/CaiJimmy/hugo-theme-stack",
     "description": "Card-style Hugo theme designed for bloggers",
     "language": "HTML",
-    "star": "26"
+    "star": "9"
   },
   {
     "title": "qinguoyi/TinyWebServer",
     "url": "https://github.com/qinguoyi/TinyWebServer",
     "description": "🔥 Linux下C++轻量级Web服务器",
     "language": "C++",
-    "star": "26"
+    "star": "28"
   },
   {
     "title": "discordjs/discord.js",
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "12"
+    "star": "28"
   }
 ]
