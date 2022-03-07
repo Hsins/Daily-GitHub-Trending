@@ -4,21 +4,21 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "444"
+    "star": "402"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "215"
+    "star": "214"
   },
   {
     "title": "Lakr233/Rayon",
     "url": "https://github.com/Lakr233/Rayon",
     "description": "yet another SSH machine manager",
     "language": "Swift",
-    "star": "209"
+    "star": "176"
   },
   {
     "title": "Arriven/db1000n",
@@ -39,28 +39,28 @@
     "url": "https://github.com/samber/lo",
     "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
     "language": "Go",
-    "star": "645"
+    "star": "660"
   },
   {
     "title": "discordjs/discord.js",
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "262"
+    "star": "261"
   },
   {
     "title": "codez0mb1e/resistance",
     "url": "https://github.com/codez0mb1e/resistance",
     "description": "Russia-2022: Risk Management of Personal Finance",
     "language": "none",
-    "star": "75"
+    "star": "88"
   },
   {
     "title": "skydoves/android-developer-roadmap",
     "url": "https://github.com/skydoves/android-developer-roadmap",
     "description": "🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.",
     "language": "Kotlin",
-    "star": "61"
+    "star": "123"
   },
   {
     "title": "hashlips-lab/nft-erc721-collection",
@@ -74,49 +74,49 @@
     "url": "https://github.com/CaiJimmy/hugo-theme-stack",
     "description": "Card-style Hugo theme designed for bloggers",
     "language": "HTML",
-    "star": "185"
+    "star": "194"
   },
   {
     "title": "godotengine/godot",
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "57"
+    "star": "49"
   },
   {
     "title": "jlop007/FreeCodeCamp-NewsFlash",
     "url": "https://github.com/jlop007/FreeCodeCamp-NewsFlash",
     "description": "",
     "language": "HTML",
-    "star": "7"
+    "star": "11"
   },
   {
     "title": "solidlyexchange/solidly.exchange",
     "url": "https://github.com/solidlyexchange/solidly.exchange",
     "description": "",
     "language": "JavaScript",
-    "star": "13"
+    "star": "16"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "445"
+    "star": "448"
   },
   {
     "title": "CSSEGISandData/COVID-19",
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
     "language": "none",
-    "star": "8"
+    "star": "15"
   },
   {
     "title": "Avik-Jain/100-Days-Of-ML-Code",
     "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
     "description": "100 Days of ML Coding",
     "language": "none",
-    "star": "190"
+    "star": "64"
   },
   {
     "title": "danistefanovic/build-your-own-x",
@@ -130,14 +130,14 @@
     "url": "https://github.com/topjohnwu/Magisk",
     "description": "The Magic Mask for Android",
     "language": "C++",
-    "star": "92"
+    "star": "87"
   },
   {
     "title": "xerpi/vita2hos",
     "url": "https://github.com/xerpi/vita2hos",
     "description": "[WIP] PlayStation Vita to Horizon OS (Nintendo Switch OS) translation layer",
     "language": "C",
-    "star": "162"
+    "star": "197"
   },
   {
     "title": "termux/termux-packages",
@@ -151,7 +151,7 @@
     "url": "https://github.com/alexmon1989/russia_ddos",
     "description": "",
     "language": "Python",
-    "star": "60"
+    "star": "57"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -165,13 +165,13 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "358"
+    "star": "363"
   },
   {
     "title": "authelia/authelia",
     "url": "https://github.com/authelia/authelia",
     "description": "The Single Sign-On Multi-Factor portal for web apps",
     "language": "Go",
-    "star": "75"
+    "star": "107"
   }
 ]
