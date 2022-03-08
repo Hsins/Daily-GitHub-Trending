@@ -4,56 +4,56 @@
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.",
     "language": "Rust",
-    "star": "112"
+    "star": "385"
   },
   {
     "title": "samber/lo",
     "url": "https://github.com/samber/lo",
     "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
     "language": "Go",
-    "star": "531"
+    "star": "662"
   },
   {
     "title": "skyline-emu/skyline",
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C++",
-    "star": "38"
+    "star": "33"
   },
   {
     "title": "YaoApp/yao",
     "url": "https://github.com/YaoApp/yao",
     "description": "Yao A low code engine to create web services and dashboard.",
     "language": "Go",
-    "star": "244"
+    "star": "262"
   },
   {
     "title": "Rapptz/discord.py",
     "url": "https://github.com/Rapptz/discord.py",
     "description": "An API wrapper for Discord written in Python.",
     "language": "Python",
-    "star": "44"
+    "star": "35"
   },
   {
     "title": "devsuperior/sds-dsmovie",
     "url": "https://github.com/devsuperior/sds-dsmovie",
     "description": "",
     "language": "none",
-    "star": "22"
+    "star": "18"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "81"
+    "star": "110"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "360"
+    "star": "349"
   },
   {
     "title": "italiaremote/awesome-italia-remote",
@@ -67,7 +67,7 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "314"
+    "star": "353"
   },
   {
     "title": "zkqiang/hangzhou-house-guide",
@@ -81,14 +81,14 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "591"
+    "star": "491"
   },
   {
     "title": "arthurspk/guiadevbrasil",
     "url": "https://github.com/arthurspk/guiadevbrasil",
     "description": "GUIA EXTENSO DE PROGRAMAÇÃO:",
     "language": "none",
-    "star": "92"
+    "star": "87"
   },
   {
     "title": "probml/pml-book",
@@ -102,7 +102,7 @@
     "url": "https://github.com/checkra1n/PongoOS",
     "description": "pongoOS",
     "language": "C",
-    "star": "42"
+    "star": "9"
   },
   {
     "title": "actions/virtual-environments",
@@ -116,7 +116,7 @@
     "url": "https://github.com/nkallen/plasticity",
     "description": "",
     "language": "TypeScript",
-    "star": "140"
+    "star": "143"
   },
   {
     "title": "open-mmlab/mmediting",
@@ -130,48 +130,48 @@
     "url": "https://github.com/Lakr233/Rayon",
     "description": "yet another SSH machine manager",
     "language": "Swift",
-    "star": "330"
+    "star": "332"
   },
   {
     "title": "web-platform-tests/wpt",
     "url": "https://github.com/web-platform-tests/wpt",
     "description": "Test suites for Web platform specs — including WHATWG, W3C, and others",
     "language": "HTML",
-    "star": "11"
+    "star": "8"
   },
   {
     "title": "UnblockNeteaseMusic/server",
     "url": "https://github.com/UnblockNeteaseMusic/server",
     "description": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
     "language": "JavaScript",
-    "star": "26"
+    "star": "23"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "324"
+    "star": "430"
   },
   {
     "title": "explosion/spaCy",
     "url": "https://github.com/explosion/spaCy",
     "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
     "language": "Python",
-    "star": "46"
+    "star": "12"
   },
   {
     "title": "discordjs/discord.js",
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "181"
+    "star": "268"
   },
   {
     "title": "bradtraversy/design-resources-for-developers",
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "98"
+    "star": "97"
   }
 ]
