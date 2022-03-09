@@ -4,21 +4,21 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "347"
+    "star": "316"
   },
   {
     "title": "YaoApp/yao",
     "url": "https://github.com/YaoApp/yao",
     "description": "Yao A low code engine to create web services and dashboard.",
     "language": "Go",
-    "star": "413"
+    "star": "423"
   },
   {
     "title": "samber/lo",
     "url": "https://github.com/samber/lo",
     "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
     "language": "Go",
-    "star": "534"
+    "star": "529"
   },
   {
     "title": "J0o1ey/BountyHunterInChina",
@@ -32,21 +32,21 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "322"
+    "star": "479"
   },
   {
     "title": "Speyedr/socialclub-notification-blocker",
     "url": "https://github.com/Speyedr/socialclub-notification-blocker",
     "description": "Next-generation firewall (NGFW) that supports blocking SocialClub Overlay notifications.",
     "language": "Python",
-    "star": "9"
+    "star": "2"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "381"
+    "star": "391"
   },
   {
     "title": "danistefanovic/build-your-own-x",
@@ -60,70 +60,70 @@
     "url": "https://github.com/marktext/marktext",
     "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
     "language": "JavaScript",
-    "star": "62"
+    "star": "42"
   },
   {
     "title": "royorel/StyleSDF",
     "url": "https://github.com/royorel/StyleSDF",
     "description": "",
     "language": "Python",
-    "star": "28"
+    "star": "40"
   },
   {
     "title": "skyline-emu/skyline",
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C++",
-    "star": "51"
+    "star": "58"
   },
   {
     "title": "Chia-Network/chia-blockchain",
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "27"
+    "star": "9"
   },
   {
     "title": "TencentARC/GFPGAN",
     "url": "https://github.com/TencentARC/GFPGAN",
     "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
     "language": "Python",
-    "star": "72"
+    "star": "124"
   },
   {
     "title": "pjreddie/darknet",
     "url": "https://github.com/pjreddie/darknet",
     "description": "Convolutional Neural Networks",
     "language": "C",
-    "star": "13"
+    "star": "16"
   },
   {
     "title": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.",
     "language": "Rust",
-    "star": "439"
+    "star": "319"
   },
   {
     "title": "gin-gonic/gin",
     "url": "https://github.com/gin-gonic/gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "language": "Go",
-    "star": "65"
+    "star": "37"
   },
   {
     "title": "dcbuild3r/blockchain-development-guide",
     "url": "https://github.com/dcbuild3r/blockchain-development-guide",
     "description": "Devpill.me - A Public Good Blockchain development Guide",
     "language": "none",
-    "star": "102"
+    "star": "90"
   },
   {
     "title": "Rapptz/discord.py",
     "url": "https://github.com/Rapptz/discord.py",
     "description": "An API wrapper for Discord written in Python.",
     "language": "Python",
-    "star": "99"
+    "star": "100"
   },
   {
     "title": "mui/material-ui",
@@ -137,41 +137,41 @@
     "url": "https://github.com/pcottle/learnGitBranching",
     "description": "An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!",
     "language": "JavaScript",
-    "star": "48"
+    "star": "30"
   },
   {
     "title": "SmartToolFactory/Jetpack-Compose-Tutorials",
     "url": "https://github.com/SmartToolFactory/Jetpack-Compose-Tutorials",
     "description": "🚀🧨📝 Series of Tutorials to learn about Jetpack Compose with subjects Material Widgets, Layout, SubcomposeLayout, custom layouts, State, custom rememberable, recomposition, LaunchedEffect, side-effects, Gesture, Animation, Navigation, Canvas, UIs like whatsapp and others.",
     "language": "Kotlin",
-    "star": "50"
+    "star": "30"
   },
   {
     "title": "UnblockNeteaseMusic/server",
     "url": "https://github.com/UnblockNeteaseMusic/server",
     "description": "Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)",
     "language": "JavaScript",
-    "star": "93"
+    "star": "46"
   },
   {
     "title": "Avik-Jain/100-Days-Of-ML-Code",
     "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
     "description": "100 Days of ML Coding",
     "language": "none",
-    "star": "84"
+    "star": "72"
   },
   {
     "title": "kubernetes/kubernetes",
     "url": "https://github.com/kubernetes/kubernetes",
     "description": "Production-Grade Container Scheduling and Management",
     "language": "Go",
-    "star": "67"
+    "star": "36"
   },
   {
     "title": "type-challenges/type-challenges",
     "url": "https://github.com/type-challenges/type-challenges",
     "description": "Collection of TypeScript type challenges with online judge",
     "language": "TypeScript",
-    "star": "147"
+    "star": "93"
   }
 ]
