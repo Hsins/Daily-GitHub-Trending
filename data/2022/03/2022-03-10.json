@@ -4,35 +4,35 @@
     "url": "https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit",
     "description": "A root exploit for CVE-2022-0847 (Dirty Pipe)",
     "language": "C",
-    "star": "133"
+    "star": "100"
   },
   {
     "title": "skyline-emu/skyline",
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C++",
-    "star": "143"
+    "star": "177"
   },
   {
     "title": "explosion/spaCy",
     "url": "https://github.com/explosion/spaCy",
     "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
     "language": "Python",
-    "star": "108"
+    "star": "17"
   },
   {
     "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
     "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
     "description": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
     "language": "none",
-    "star": "155"
+    "star": "166"
   },
   {
     "title": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Practice Rust with challenging examples, exercises and projects to narrow the gap between beginner and skilled-dev.",
     "language": "Rust",
-    "star": "511"
+    "star": "376"
   },
   {
     "title": "darbra/sperm",
@@ -46,7 +46,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "425"
+    "star": "333"
   },
   {
     "title": "gto76/python-cheatsheet",
@@ -60,14 +60,14 @@
     "url": "https://github.com/VHellendoorn/Code-LMs",
     "description": "Guide to using pre-trained large language models of source code",
     "language": "Python",
-    "star": "171"
+    "star": "177"
   },
   {
     "title": "YaoApp/yao",
     "url": "https://github.com/YaoApp/yao",
     "description": "Yao A low code engine to create web services and dashboard.",
     "language": "Go",
-    "star": "345"
+    "star": "412"
   },
   {
     "title": "walmat/nebula",
@@ -95,7 +95,7 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "394"
+    "star": "354"
   },
   {
     "title": "Anduin2017/HowToCook",
@@ -109,14 +109,14 @@
     "url": "https://github.com/checkstyle/checkstyle",
     "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
     "language": "Java",
-    "star": "6"
+    "star": "12"
   },
   {
     "title": "J0o1ey/BountyHunterInChina",
     "url": "https://github.com/J0o1ey/BountyHunterInChina",
     "description": "重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例",
     "language": "none",
-    "star": "66"
+    "star": "86"
   },
   {
     "title": "starship/starship",
@@ -137,7 +137,7 @@
     "url": "https://github.com/mui/material-ui",
     "description": "MUI Core (formerly Material UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.",
     "language": "JavaScript",
-    "star": "68"
+    "star": "115"
   },
   {
     "title": "guzzle/guzzle",
