@@ -1,0 +1,177 @@
+[
+  {
+    "title": "liamg/traitor",
+    "url": "https://github.com/liamg/traitor",
+    "description": "⬆️ ☠️ Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock",
+    "language": "Go",
+    "star": "249"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "description": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
+    "language": "none",
+    "star": "259"
+  },
+  {
+    "title": "giltayar/proposal-types-as-comments",
+    "url": "https://github.com/giltayar/proposal-types-as-comments",
+    "description": "ECMAScript proposal for type syntax that is erased - Stage 0",
+    "language": "JavaScript",
+    "star": "215"
+  },
+  {
+    "title": "facebookresearch/StyleNeRF",
+    "url": "https://github.com/facebookresearch/StyleNeRF",
+    "description": "This is the open source implementation of the ICLR2022 paper \"StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis\"",
+    "language": "Python",
+    "star": "59"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "language": "JavaScript",
+    "star": "93"
+  },
+  {
+    "title": "sysdream/ligolo",
+    "url": "https://github.com/sysdream/ligolo",
+    "description": "Reverse Tunneling made easy for pentesters, by pentesters https://sysdream.com/",
+    "language": "Go",
+    "star": "34"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+    "language": "none",
+    "star": "301"
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "language": "Swift",
+    "star": "34"
+  },
+  {
+    "title": "deepmind/ithaca",
+    "url": "https://github.com/deepmind/ithaca",
+    "description": "Restoring and attributing ancient texts using deep neural networks",
+    "language": "Jupyter Notebook",
+    "star": "59"
+  },
+  {
+    "title": "darbra/sperm",
+    "url": "https://github.com/darbra/sperm",
+    "description": "浏览过的精彩逆向文章汇总，值得一看",
+    "language": "none",
+    "star": "10"
+  },
+  {
+    "title": "devkodeio/the-dom-challenge",
+    "url": "https://github.com/devkodeio/the-dom-challenge",
+    "description": "DOM Challenge is a 60-90 minutes online weekly challenge related to frontend development consisting of industrial level machine round questions.",
+    "language": "HTML",
+    "star": "19"
+  },
+  {
+    "title": "mattermost/mattermost-server",
+    "url": "https://github.com/mattermost/mattermost-server",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.",
+    "language": "Go",
+    "star": "80"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "description": "Comprehensive Python Cheatsheet",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "264"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "description": "Deep Learning Examples",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "gorhill/uBlock",
+    "url": "https://github.com/gorhill/uBlock",
+    "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "axios/axios",
+    "url": "https://github.com/axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "language": "JavaScript",
+    "star": "34"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "description": "Updated list of public BitTorrent trackers",
+    "language": "none",
+    "star": "37"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "description": "深度学习经典、新论文逐段精读",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "nrwl/nx",
+    "url": "https://github.com/nrwl/nx",
+    "description": "Smart, Fast and Extensible Build System",
+    "language": "TypeScript",
+    "star": "13"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!",
+    "language": "C++",
+    "star": "123"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "ververica/flink-cdc-connectors",
+    "url": "https://github.com/ververica/flink-cdc-connectors",
+    "description": "Change Data Capture (CDC) Connectors for Apache Flink",
+    "language": "Java",
+    "star": "6"
+  },
+  {
+    "title": "loggie-io/loggie",
+    "url": "https://github.com/loggie-io/loggie",
+    "description": "A lightweight, cloud-native data transfer agent and aggregator",
+    "language": "Go",
+    "star": "17"
+  },
+  {
+    "title": "xiaorouji/openwrt-passwall",
+    "url": "https://github.com/xiaorouji/openwrt-passwall",
+    "description": "",
+    "language": "C",
+    "star": "4"
+  }
+]
