@@ -11,7 +11,7 @@
     "url": "https://github.com/AmruthPillai/Reactive-Resume",
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "language": "TypeScript",
-    "star": "335"
+    "star": "357"
   },
   {
     "title": "squad303/squad303app",
@@ -25,7 +25,7 @@
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Colossal-AI: A Unified Deep Learning System for Large-Scale Parallel Training",
     "language": "Python",
-    "star": "43"
+    "star": "44"
   },
   {
     "title": "yt-dlp/yt-dlp",
@@ -39,7 +39,7 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "92"
+    "star": "177"
   },
   {
     "title": "danielmiessler/SecLists",
@@ -60,49 +60,49 @@
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "244"
+    "star": "278"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "431"
+    "star": "363"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "17"
+    "star": "39"
   },
   {
     "title": "GorvGoyl/Clone-Wars",
     "url": "https://github.com/GorvGoyl/Clone-Wars",
     "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
     "language": "none",
-    "star": "354"
+    "star": "350"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "122"
+    "star": "124"
   },
   {
     "title": "3b1b/manim",
     "url": "https://github.com/3b1b/manim",
     "description": "Animation engine for explanatory math videos",
     "language": "Python",
-    "star": "74"
+    "star": "42"
   },
   {
     "title": "datastack-net/dockerized",
     "url": "https://github.com/datastack-net/dockerized",
     "description": "Run popular commandline tools within docker",
     "language": "Shell",
-    "star": "261"
+    "star": "171"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
@@ -116,7 +116,7 @@
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "130"
+    "star": "37"
   },
   {
     "title": "RustPython/RustPython",
@@ -144,7 +144,7 @@
     "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
     "description": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",
     "language": "Shell",
-    "star": "51"
+    "star": "49"
   },
   {
     "title": "Klipper3d/klipper",
@@ -172,6 +172,6 @@
     "url": "https://github.com/freefq/free",
     "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
     "language": "none",
-    "star": "48"
+    "star": "47"
   }
 ]
