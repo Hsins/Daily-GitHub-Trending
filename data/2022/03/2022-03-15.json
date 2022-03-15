@@ -1,0 +1,177 @@
+[
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "description": "Vanced Installer",
+    "language": "Kotlin",
+    "star": "131"
+  },
+  {
+    "title": "YTVanced/VancedStore",
+    "url": "https://github.com/YTVanced/VancedStore",
+    "description": "General Application Store with support for root apps and more",
+    "language": "Kotlin",
+    "star": "25"
+  },
+  {
+    "title": "peng-zhihui/ElectronBot",
+    "url": "https://github.com/peng-zhihui/ElectronBot",
+    "description": "",
+    "language": "C",
+    "star": "529"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "194"
+  },
+  {
+    "title": "cuixiaorui/mini-vue",
+    "url": "https://github.com/cuixiaorui/mini-vue",
+    "description": "实现最简 vue3 模型( Help you learn more efficiently vue3 source code )",
+    "language": "TypeScript",
+    "star": "197"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "215"
+  },
+  {
+    "title": "winfsp/hubfs",
+    "url": "https://github.com/winfsp/hubfs",
+    "description": "File system for GitHub",
+    "language": "Go",
+    "star": "228"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "description": "Flipper Zero Firmware",
+    "language": "C",
+    "star": "27"
+  },
+  {
+    "title": "hwdsl2/setup-ipsec-vpn",
+    "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
+    "description": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",
+    "language": "Shell",
+    "star": "79"
+  },
+  {
+    "title": "YTVanced/Vanced",
+    "url": "https://github.com/YTVanced/Vanced",
+    "description": "Vanced Issues/Docs repo",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "description": "Haptic input knob with software-defined endstops and virtual detents",
+    "language": "C++",
+    "star": "367"
+  },
+  {
+    "title": "DulLabs/bhai-lang",
+    "url": "https://github.com/DulLabs/bhai-lang",
+    "description": "A toy programming language written in Typescript",
+    "language": "TypeScript",
+    "star": "604"
+  },
+  {
+    "title": "six2dez/OneListForAll",
+    "url": "https://github.com/six2dez/OneListForAll",
+    "description": "Rockyou for web fuzzing",
+    "language": "Shell",
+    "star": "32"
+  },
+  {
+    "title": "peng-zhihui/Dummy-Robot",
+    "url": "https://github.com/peng-zhihui/Dummy-Robot",
+    "description": "我的超迷你机械臂机器人项目。",
+    "language": "C",
+    "star": "103"
+  },
+  {
+    "title": "yuliskov/SmartTubeNext",
+    "url": "https://github.com/yuliskov/SmartTubeNext",
+    "description": "Ad free app for watching tube videos on Android TV boxes",
+    "language": "Java",
+    "star": "59"
+  },
+  {
+    "title": "Yin-Hongwei/music-website",
+    "url": "https://github.com/Yin-Hongwei/music-website",
+    "description": "🎧 Vue + SpringBoot + MyBatis 音乐网站",
+    "language": "Vue",
+    "star": "21"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "223"
+  },
+  {
+    "title": "JuanCrg90/Clean-Code-Notes",
+    "url": "https://github.com/JuanCrg90/Clean-Code-Notes",
+    "description": "My notes of Clean Code book",
+    "language": "none",
+    "star": "28"
+  },
+  {
+    "title": "FirmWire/FirmWire",
+    "url": "https://github.com/FirmWire/FirmWire",
+    "description": "FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+    "language": "none",
+    "star": "363"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "language": "Rust",
+    "star": "54"
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "description": "Animation engine for explanatory math videos",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+    "language": "Java",
+    "star": "8"
+  },
+  {
+    "title": "AmruthPillai/Reactive-Resume",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "language": "TypeScript",
+    "star": "456"
+  }
+]
