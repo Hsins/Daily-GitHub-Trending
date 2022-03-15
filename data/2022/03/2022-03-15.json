@@ -18,7 +18,7 @@
     "url": "https://github.com/peng-zhihui/ElectronBot",
     "description": "",
     "language": "C",
-    "star": "573"
+    "star": "529"
   },
   {
     "title": "TeamNewPipe/NewPipe",
@@ -32,35 +32,35 @@
     "url": "https://github.com/cuixiaorui/mini-vue",
     "description": "实现最简 vue3 模型( Help you learn more efficiently vue3 source code )",
     "language": "TypeScript",
-    "star": "131"
+    "star": "197"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "211"
+    "star": "215"
   },
   {
     "title": "winfsp/hubfs",
     "url": "https://github.com/winfsp/hubfs",
     "description": "File system for GitHub",
     "language": "Go",
-    "star": "226"
+    "star": "228"
   },
   {
     "title": "flipperdevices/flipperzero-firmware",
     "url": "https://github.com/flipperdevices/flipperzero-firmware",
     "description": "Flipper Zero Firmware",
     "language": "C",
-    "star": "16"
+    "star": "27"
   },
   {
     "title": "hwdsl2/setup-ipsec-vpn",
     "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
     "description": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2",
     "language": "Shell",
-    "star": "93"
+    "star": "79"
   },
   {
     "title": "YTVanced/Vanced",
@@ -74,14 +74,14 @@
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "303"
+    "star": "367"
   },
   {
     "title": "DulLabs/bhai-lang",
     "url": "https://github.com/DulLabs/bhai-lang",
     "description": "A toy programming language written in Typescript",
     "language": "TypeScript",
-    "star": "588"
+    "star": "604"
   },
   {
     "title": "six2dez/OneListForAll",
@@ -95,21 +95,21 @@
     "url": "https://github.com/peng-zhihui/Dummy-Robot",
     "description": "我的超迷你机械臂机器人项目。",
     "language": "C",
-    "star": "73"
+    "star": "103"
   },
   {
     "title": "yuliskov/SmartTubeNext",
     "url": "https://github.com/yuliskov/SmartTubeNext",
     "description": "Ad free app for watching tube videos on Android TV boxes",
     "language": "Java",
-    "star": "58"
+    "star": "59"
   },
   {
     "title": "Yin-Hongwei/music-website",
     "url": "https://github.com/Yin-Hongwei/music-website",
     "description": "🎧 Vue + SpringBoot + MyBatis 音乐网站",
     "language": "Vue",
-    "star": "23"
+    "star": "21"
   },
   {
     "title": "Developer-Y/cs-video-courses",
@@ -137,21 +137,21 @@
     "url": "https://github.com/GorvGoyl/Clone-Wars",
     "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
     "language": "none",
-    "star": "348"
+    "star": "363"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "109"
+    "star": "38"
   },
   {
     "title": "AppFlowy-IO/AppFlowy",
     "url": "https://github.com/AppFlowy-IO/AppFlowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "language": "Rust",
-    "star": "72"
+    "star": "54"
   },
   {
     "title": "3b1b/manim",
@@ -172,6 +172,6 @@
     "url": "https://github.com/AmruthPillai/Reactive-Resume",
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "language": "TypeScript",
-    "star": "509"
+    "star": "456"
   }
 ]
