@@ -4,7 +4,7 @@
     "url": "https://github.com/ErickWendel/semana-javascript-expert06",
     "description": "Todas as aulas da Semana JS Expert 6.0 - Spotify Radio",
     "language": "JavaScript",
-    "star": "227"
+    "star": "247"
   },
   {
     "title": "psf/black",
@@ -18,14 +18,14 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "175"
+    "star": "173"
   },
   {
     "title": "peng-zhihui/Dummy-Robot",
     "url": "https://github.com/peng-zhihui/Dummy-Robot",
     "description": "我的超迷你机械臂机器人项目。",
     "language": "C",
-    "star": "140"
+    "star": "144"
   },
   {
     "title": "DulLabs/bhai-lang",
@@ -46,14 +46,14 @@
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "169"
+    "star": "187"
   },
   {
     "title": "Frontesque/VueTube",
     "url": "https://github.com/Frontesque/VueTube",
     "description": "A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)",
     "language": "Vue",
-    "star": "153"
+    "star": "156"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
@@ -81,35 +81,35 @@
     "url": "https://github.com/AmruthPillai/Reactive-Resume",
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "language": "TypeScript",
-    "star": "427"
+    "star": "458"
   },
   {
     "title": "peng-zhihui/ElectronBot",
     "url": "https://github.com/peng-zhihui/ElectronBot",
     "description": "",
     "language": "C",
-    "star": "445"
+    "star": "442"
   },
   {
     "title": "freefq/free",
     "url": "https://github.com/freefq/free",
     "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
     "language": "none",
-    "star": "64"
+    "star": "75"
   },
   {
     "title": "YTVanced/VancedManager",
     "url": "https://github.com/YTVanced/VancedManager",
     "description": "Vanced Installer",
     "language": "Kotlin",
-    "star": "126"
+    "star": "125"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "147"
+    "star": "179"
   },
   {
     "title": "aws-samples/aws-security-reference-architecture-examples",
@@ -130,21 +130,21 @@
     "url": "https://github.com/TeamNewPipe/NewPipe",
     "description": "A libre lightweight streaming front-end for Android.",
     "language": "Java",
-    "star": "162"
+    "star": "163"
   },
   {
     "title": "libre-tube/LibreTube",
     "url": "https://github.com/libre-tube/LibreTube",
     "description": "An alternative frontend for YouTube, for Android. [WIP]",
     "language": "Kotlin",
-    "star": "86"
+    "star": "150"
   },
   {
     "title": "YTVanced/VancedStore",
     "url": "https://github.com/YTVanced/VancedStore",
     "description": "General Application Store with support for root apps and more",
     "language": "Kotlin",
-    "star": "47"
+    "star": "27"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
@@ -172,6 +172,6 @@
     "url": "https://github.com/AlexisAhmed/CVE-2022-0847-DirtyPipe-Exploits",
     "description": "A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.",
     "language": "C",
-    "star": "24"
+    "star": "28"
   }
 ]
