@@ -1,0 +1,177 @@
+[
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "description": "",
+    "language": "TypeScript",
+    "star": "259"
+  },
+  {
+    "title": "Frontesque/VueTube",
+    "url": "https://github.com/Frontesque/VueTube",
+    "description": "A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)",
+    "language": "Vue",
+    "star": "247"
+  },
+  {
+    "title": "samber/lo",
+    "url": "https://github.com/samber/lo",
+    "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+    "language": "Go",
+    "star": "114"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "86"
+  },
+  {
+    "title": "DulLabs/bhai-lang",
+    "url": "https://github.com/DulLabs/bhai-lang",
+    "description": "A toy programming language written in Typescript",
+    "language": "TypeScript",
+    "star": "315"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "126"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "184"
+  },
+  {
+    "title": "quackduck/devzat",
+    "url": "https://github.com/quackduck/devzat",
+    "description": "The devs are over here at devzat, chat over SSH!",
+    "language": "Go",
+    "star": "85"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "language": "Swift",
+    "star": "156"
+  },
+  {
+    "title": "ssloy/tinyrenderer",
+    "url": "https://github.com/ssloy/tinyrenderer",
+    "description": "A brief computer graphics / rendering course",
+    "language": "C++",
+    "star": "158"
+  },
+  {
+    "title": "cuixiaorui/mini-vue",
+    "url": "https://github.com/cuixiaorui/mini-vue",
+    "description": "实现最简 vue3 模型( Help you learn more efficiently vue3 source code )",
+    "language": "TypeScript",
+    "star": "181"
+  },
+  {
+    "title": "LukeMathWalker/zero-to-production",
+    "url": "https://github.com/LukeMathWalker/zero-to-production",
+    "description": "Code for \"Zero To Production In Rust\", a book on API development using Rust.",
+    "language": "Rust",
+    "star": "179"
+  },
+  {
+    "title": "Bonfee/CVE-2022-25636",
+    "url": "https://github.com/Bonfee/CVE-2022-25636",
+    "description": "CVE-2022-25636",
+    "language": "C",
+    "star": "19"
+  },
+  {
+    "title": "diphosphane/CodeCraft2022-benchmark",
+    "url": "https://github.com/diphosphane/CodeCraft2022-benchmark",
+    "description": "a benchmark for Huawei CodeCraft 2022 判题器 算分器",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "ErickWendel/semana-javascript-expert06",
+    "url": "https://github.com/ErickWendel/semana-javascript-expert06",
+    "description": "Todas as aulas da Semana JS Expert 6.0 - Spotify Radio",
+    "language": "JavaScript",
+    "star": "207"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "44"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "language": "Go",
+    "star": "80"
+  },
+  {
+    "title": "oskardudycz/EventSourcing.NetCore",
+    "url": "https://github.com/oskardudycz/EventSourcing.NetCore",
+    "description": "Examples and Tutorials of Event Sourcing in .NET",
+    "language": "C#",
+    "star": "96"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "174"
+  },
+  {
+    "title": "chen310/NeteaseCloudMusicTasks",
+    "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
+    "description": "网易云音乐自动任务：刷等级、云贝、云豆等",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "84"
+  },
+  {
+    "title": "ploomber/ploomber",
+    "url": "https://github.com/ploomber/ploomber",
+    "description": "The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "heidihoward/distributed-consensus-reading-list",
+    "url": "https://github.com/heidihoward/distributed-consensus-reading-list",
+    "description": "A list of papers about distributed consensus.",
+    "language": "none",
+    "star": "37"
+  },
+  {
+    "title": "yangxy/GPEN",
+    "url": "https://github.com/yangxy/GPEN",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "25"
+  },
+  {
+    "title": "bill88t/ljinux",
+    "url": "https://github.com/bill88t/ljinux",
+    "description": "A \"linux\" in python, for the rpi pico!",
+    "language": "Python",
+    "star": "21"
+  }
+]
