@@ -1,0 +1,177 @@
+[
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "735"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "language": "Swift",
+    "star": "357"
+  },
+  {
+    "title": "mrd0x/BITB",
+    "url": "https://github.com/mrd0x/BITB",
+    "description": "Browser In The Browser (BITB) Templates",
+    "language": "JavaScript",
+    "star": "101"
+  },
+  {
+    "title": "Frontesque/VueTube",
+    "url": "https://github.com/Frontesque/VueTube",
+    "description": "A simple FOSS video streaming client aimed to recreate ALL features from their respective apps (and more)",
+    "language": "Vue",
+    "star": "283"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "34"
+  },
+  {
+    "title": "polarismesh/femas",
+    "url": "https://github.com/polarismesh/femas",
+    "description": "Cloud native multi-runtime microservice framework",
+    "language": "Java",
+    "star": "32"
+  },
+  {
+    "title": "RIAEvangelist/node-ipc",
+    "url": "https://github.com/RIAEvangelist/node-ipc",
+    "description": "Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS",
+    "language": "JavaScript",
+    "star": "61"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "142"
+  },
+  {
+    "title": "blawar/ooot",
+    "url": "https://github.com/blawar/ooot",
+    "description": "",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "94"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "description": "A layer 1 for everyone!",
+    "language": "Rust",
+    "star": "29"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "278"
+  },
+  {
+    "title": "nusu/avvvatars",
+    "url": "https://github.com/nusu/avvvatars",
+    "description": "Beautifully crafted unique avatar placeholder for your next react project",
+    "language": "TypeScript",
+    "star": "212"
+  },
+  {
+    "title": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",
+    "language": "C",
+    "star": "20"
+  },
+  {
+    "title": "returntocorp/semgrep",
+    "url": "https://github.com/returntocorp/semgrep",
+    "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+    "language": "OCaml",
+    "star": "5"
+  },
+  {
+    "title": "Tas9er/ByPassBehinder4J",
+    "url": "https://github.com/Tas9er/ByPassBehinder4J",
+    "description": "冰蝎Java WebShell自动化免杀生成",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "description": "Clean Architecture Solution Template for .NET 6",
+    "language": "C#",
+    "star": "10"
+  },
+  {
+    "title": "nkallen/plasticity",
+    "url": "https://github.com/nkallen/plasticity",
+    "description": "",
+    "language": "TypeScript",
+    "star": "245"
+  },
+  {
+    "title": "Teaching-Assistants-of-Cloud-Computing/CloudHack",
+    "url": "https://github.com/Teaching-Assistants-of-Cloud-Computing/CloudHack",
+    "description": "",
+    "language": "HTML",
+    "star": "11"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a developer in 2022",
+    "language": "TypeScript",
+    "star": "113"
+  },
+  {
+    "title": "JasonStein/Notepads",
+    "url": "https://github.com/JasonStein/Notepads",
+    "description": "A modern, lightweight text editor with a minimalist design.",
+    "language": "C#",
+    "star": "10"
+  },
+  {
+    "title": "oskardudycz/EventSourcing.NetCore",
+    "url": "https://github.com/oskardudycz/EventSourcing.NetCore",
+    "description": "Examples and Tutorials of Event Sourcing in .NET",
+    "language": "C#",
+    "star": "87"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "description": "The Metadata Platform for the Modern Data Stack",
+    "language": "Java",
+    "star": "9"
+  }
+]
