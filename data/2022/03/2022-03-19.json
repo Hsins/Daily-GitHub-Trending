@@ -11,35 +11,35 @@
     "url": "https://github.com/RIAEvangelist/node-ipc",
     "description": "Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS",
     "language": "JavaScript",
-    "star": "86"
+    "star": "73"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "612"
+    "star": "665"
   },
   {
     "title": "RanKKI/LawRefBook",
     "url": "https://github.com/RanKKI/LawRefBook",
     "description": "中华人民共和国法律手册",
     "language": "Swift",
-    "star": "110"
+    "star": "120"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "116"
+    "star": "103"
   },
   {
     "title": "lapce/lapce",
     "url": "https://github.com/lapce/lapce",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "575"
+    "star": "518"
   },
   {
     "title": "remix-run/blues-stack",
@@ -53,14 +53,14 @@
     "url": "https://github.com/RIAEvangelist/peacenotwar",
     "description": "",
     "language": "JavaScript",
-    "star": "24"
+    "star": "29"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "72"
+    "star": "92"
   },
   {
     "title": "google/h2e_technical_documentation",
@@ -74,28 +74,28 @@
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "none",
-    "star": "223"
+    "star": "196"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "77"
+    "star": "84"
   },
   {
     "title": "remix-run/indie-stack",
     "url": "https://github.com/remix-run/indie-stack",
     "description": "The Remix Stack for deploying to Fly with SQLite, authentication, testing, linting, formatting, etc.",
     "language": "TypeScript",
-    "star": "40"
+    "star": "29"
   },
   {
     "title": "psf/black",
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "92"
+    "star": "118"
   },
   {
     "title": "drago-96/CVE-2022-0778",
@@ -116,28 +116,28 @@
     "url": "https://github.com/ploomber/ploomber",
     "description": "The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️",
     "language": "Python",
-    "star": "128"
+    "star": "135"
   },
   {
     "title": "discourse/discourse",
     "url": "https://github.com/discourse/discourse",
     "description": "A platform for community discussion. Free, open, simple.",
     "language": "Ruby",
-    "star": "26"
+    "star": "7"
   },
   {
     "title": "gothinkster/realworld",
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "Shell",
-    "star": "146"
+    "star": "152"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "83"
+    "star": "71"
   },
   {
     "title": "iperov/DeepFaceLive",
@@ -165,13 +165,13 @@
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "126"
+    "star": "78"
   },
   {
     "title": "chen310/NeteaseCloudMusicTasks",
     "url": "https://github.com/chen310/NeteaseCloudMusicTasks",
     "description": "网易云音乐自动任务：刷等级、云贝、云豆等",
     "language": "Python",
-    "star": "23"
+    "star": "55"
   }
 ]
