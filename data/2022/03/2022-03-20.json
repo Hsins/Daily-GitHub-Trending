@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "language": "Swift",
+    "star": "381"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "description": "A rule-based tunnel in Go.",
+    "language": "Go",
+    "star": "33"
+  },
+  {
+    "title": "microsoft/routeros-scanner",
+    "url": "https://github.com/microsoft/routeros-scanner",
+    "description": "Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.",
+    "language": "Python",
+    "star": "137"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "language": "JavaScript",
+    "star": "83"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "314"
+  },
+  {
+    "title": "kabinspace/AstroVim",
+    "url": "https://github.com/kabinspace/AstroVim",
+    "description": "AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "language": "Lua",
+    "star": "32"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "44"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "117"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "description": "🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。",
+    "language": "C#",
+    "star": "42"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "description": "A layer 1 for everyone!",
+    "language": "Rust",
+    "star": "12"
+  },
+  {
+    "title": "DingXiaoH/RepLKNet-pytorch",
+    "url": "https://github.com/DingXiaoH/RepLKNet-pytorch",
+    "description": "",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "remix-run/grunge-stack",
+    "url": "https://github.com/remix-run/grunge-stack",
+    "description": "The Remix Stack for deploying to AWS with DynamoDB, authentication, testing, linting, formatting, etc.",
+    "language": "TypeScript",
+    "star": "13"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "none",
+    "star": "214"
+  },
+  {
+    "title": "dair-ai/ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "description": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI",
+    "language": "none",
+    "star": "58"
+  },
+  {
+    "title": "remix-run/blues-stack",
+    "url": "https://github.com/remix-run/blues-stack",
+    "description": "The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.",
+    "language": "TypeScript",
+    "star": "72"
+  },
+  {
+    "title": "openmlsys/openmlsys-zh",
+    "url": "https://github.com/openmlsys/openmlsys-zh",
+    "description": "《Machine Learning Systems: Design and Implementation》- Chinese Version",
+    "language": "TeX",
+    "star": "94"
+  },
+  {
+    "title": "Unknow101/FuckThatPacker",
+    "url": "https://github.com/Unknow101/FuckThatPacker",
+    "description": "A simple python packer to easily bypass Windows Defender",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "Alvin9999/new-pac",
+    "url": "https://github.com/Alvin9999/new-pac",
+    "description": "翻墙-科学上网、免费翻墙、免费科学上网、免费自由上网、fanqiang、翻墙梯子、免费软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点分享，vps一键搭建翻墙服务器脚本/教程，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "ppy/osu",
+    "url": "https://github.com/ppy/osu",
+    "description": "rhythm is just a *click* away!",
+    "language": "C#",
+    "star": "18"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "description": "A V2Ray client for Windows, support Xray core and v2fly core",
+    "language": "C#",
+    "star": "31"
+  },
+  {
+    "title": "theOehrly/Fast-F1",
+    "url": "https://github.com/theOehrly/Fast-F1",
+    "description": "FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+    "language": "Vue",
+    "star": "32"
+  },
+  {
+    "title": "datawhalechina/easy-rl",
+    "url": "https://github.com/datawhalechina/easy-rl",
+    "description": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+    "language": "Jupyter Notebook",
+    "star": "30"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
+    "language": "JavaScript",
+    "star": "65"
+  }
+]
