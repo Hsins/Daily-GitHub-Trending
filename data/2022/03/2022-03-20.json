@@ -11,63 +11,63 @@
     "url": "https://github.com/Dreamacro/clash",
     "description": "A rule-based tunnel in Go.",
     "language": "Go",
-    "star": "35"
+    "star": "33"
   },
   {
     "title": "microsoft/routeros-scanner",
     "url": "https://github.com/microsoft/routeros-scanner",
     "description": "Tool to scan for RouterOS (Mikrotik) forensic artifacts and vulnerabilities.",
     "language": "Python",
-    "star": "113"
+    "star": "107"
   },
   {
     "title": "ToolJet/ToolJet",
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "431"
+    "star": "148"
   },
   {
     "title": "lapce/lapce",
     "url": "https://github.com/lapce/lapce",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "313"
+    "star": "487"
   },
   {
     "title": "kabinspace/AstroVim",
     "url": "https://github.com/kabinspace/AstroVim",
     "description": "AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
     "language": "Lua",
-    "star": "56"
+    "star": "32"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "41"
+    "star": "23"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "127"
+    "star": "116"
   },
   {
     "title": "BeyondDimension/SteamTools",
     "url": "https://github.com/BeyondDimension/SteamTools",
     "description": "🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。",
     "language": "C#",
-    "star": "33"
+    "star": "39"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "14"
+    "star": "15"
   },
   {
     "title": "DingXiaoH/RepLKNet-pytorch",
@@ -88,14 +88,14 @@
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "none",
-    "star": "154"
+    "star": "158"
   },
   {
     "title": "dair-ai/ML-Course-Notes",
     "url": "https://github.com/dair-ai/ML-Course-Notes",
     "description": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI",
     "language": "none",
-    "star": "58"
+    "star": "56"
   },
   {
     "title": "remix-run/blues-stack",
@@ -109,14 +109,14 @@
     "url": "https://github.com/openmlsys/openmlsys-zh",
     "description": "《Machine Learning Systems: Design and Implementation》- Chinese Version",
     "language": "TeX",
-    "star": "96"
+    "star": "95"
   },
   {
     "title": "Unknow101/FuckThatPacker",
     "url": "https://github.com/Unknow101/FuckThatPacker",
     "description": "A simple python packer to easily bypass Windows Defender",
     "language": "Python",
-    "star": "31"
+    "star": "28"
   },
   {
     "title": "Alvin9999/new-pac",
@@ -151,27 +151,27 @@
     "url": "https://github.com/theOehrly/Fast-F1",
     "description": "FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry",
     "language": "Python",
-    "star": "35"
+    "star": "16"
   },
   {
     "title": "nocodb/nocodb",
     "url": "https://github.com/nocodb/nocodb",
     "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
     "language": "Vue",
-    "star": "33"
+    "star": "35"
   },
   {
     "title": "datawhalechina/easy-rl",
     "url": "https://github.com/datawhalechina/easy-rl",
     "description": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
     "language": "Jupyter Notebook",
-    "star": "40"
+    "star": "37"
   },
   {
     "title": "Budibase/budibase",
     "url": "https://github.com/Budibase/budibase",
     "description": "Budibase is an open-source low-code platform for creating internal apps in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s 🚀",
     "language": "JavaScript",
-    "star": "78"
+    "star": "40"
   }
 ]
