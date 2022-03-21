@@ -32,7 +32,7 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "63"
+    "star": "73"
   },
   {
     "title": "Dreamacro/clash",
@@ -95,7 +95,7 @@
     "url": "https://github.com/kabinspace/AstroVim",
     "description": "AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
     "language": "Lua",
-    "star": "137"
+    "star": "132"
   },
   {
     "title": "rust-lang/rust",
