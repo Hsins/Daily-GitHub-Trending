@@ -4,35 +4,35 @@
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "JavaScript",
-    "star": "454"
+    "star": "464"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "351"
+    "star": "295"
   },
   {
     "title": "appwrite/appwrite",
     "url": "https://github.com/appwrite/appwrite",
     "description": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
     "language": "JavaScript",
-    "star": "498"
+    "star": "784"
   },
   {
     "title": "ToolJet/ToolJet",
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "346"
+    "star": "306"
   },
   {
     "title": "nocodb/nocodb",
     "url": "https://github.com/nocodb/nocodb",
-    "description": "🔥 🔥 🔥 Open Source Airtable Alternative - turn any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.",
     "language": "Vue",
-    "star": "622"
+    "star": "278"
   },
   {
     "title": "Atmosphere-NX/Atmosphere",
@@ -67,7 +67,7 @@
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "601"
+    "star": "713"
   },
   {
     "title": "openmlsys/openmlsys-zh",
@@ -81,14 +81,14 @@
     "url": "https://github.com/datawhalechina/easy-rl",
     "description": "强化学习中文教程（蘑菇书），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
     "language": "Jupyter Notebook",
-    "star": "133"
+    "star": "75"
   },
   {
     "title": "meilisearch/meilisearch",
     "url": "https://github.com/meilisearch/meilisearch",
     "description": "Powerful, fast, and an easy to use search engine",
     "language": "Rust",
-    "star": "301"
+    "star": "279"
   },
   {
     "title": "EAimTY/tuic",
@@ -109,14 +109,14 @@
     "url": "https://github.com/guzzle/guzzle",
     "description": "Guzzle, an extensible PHP HTTP client",
     "language": "PHP",
-    "star": "8"
+    "star": "10"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "229"
+    "star": "185"
   },
   {
     "title": "mrd0x/BITB",
@@ -158,7 +158,7 @@
     "url": "https://github.com/cosmos/cosmos-sdk",
     "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
     "language": "Go",
-    "star": "9"
+    "star": "8"
   },
   {
     "title": "liamg/traitor",
@@ -172,6 +172,6 @@
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "Go",
-    "star": "60"
+    "star": "64"
   }
 ]
