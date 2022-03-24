@@ -4,28 +4,28 @@
     "url": "https://github.com/alibaba/lowcode-engine",
     "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
     "language": "TypeScript",
-    "star": "384"
+    "star": "335"
   },
   {
     "title": "nocodb/nocodb",
     "url": "https://github.com/nocodb/nocodb",
     "description": "🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres database into a collaborative spreadsheet with REST APIs.",
     "language": "Vue",
-    "star": "290"
+    "star": "281"
   },
   {
     "title": "nvbn/thefuck",
     "url": "https://github.com/nvbn/thefuck",
     "description": "Magnificent app which corrects your previous console command.",
     "language": "Python",
-    "star": "263"
+    "star": "262"
   },
   {
     "title": "amplication/amplication",
     "url": "https://github.com/amplication/amplication",
     "description": "Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.",
     "language": "TypeScript",
-    "star": "358"
+    "star": "307"
   },
   {
     "title": "HarbourMasters/Shipwright",
@@ -39,7 +39,7 @@
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "185"
+    "star": "202"
   },
   {
     "title": "KathanP19/HowToHunt",
@@ -53,42 +53,42 @@
     "url": "https://github.com/appwrite/appwrite",
     "description": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
     "language": "JavaScript",
-    "star": "981"
+    "star": "503"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "124"
+    "star": "226"
   },
   {
     "title": "kognise/arpchat",
     "url": "https://github.com/kognise/arpchat",
     "description": "Answering the question nobody asked: what if you wanted to text your friends using only ARP?",
     "language": "Rust",
-    "star": "216"
+    "star": "261"
   },
   {
     "title": "nushell/nushell",
     "url": "https://github.com/nushell/nushell",
     "description": "A new type of shell",
     "language": "Rust",
-    "star": "89"
+    "star": "56"
   },
   {
     "title": "BetaSu/fe-hunter",
     "url": "https://github.com/BetaSu/fe-hunter",
     "description": "前端赏金猎人，悬赏 前端高质量问题 的答案",
     "language": "none",
-    "star": "78"
+    "star": "84"
   },
   {
     "title": "Atmosphere-NX/Atmosphere",
     "url": "https://github.com/Atmosphere-NX/Atmosphere",
     "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
     "language": "C++",
-    "star": "51"
+    "star": "87"
   },
   {
     "title": "orchest/orchest",
@@ -102,21 +102,21 @@
     "url": "https://github.com/focus-creative-games/huatuo",
     "description": "零成本、高性能的unity c#的热更新方案。 Zero-cost, high-performance unity c# hot update solution",
     "language": "C++",
-    "star": "91"
+    "star": "90"
   },
   {
     "title": "meilisearch/meilisearch",
     "url": "https://github.com/meilisearch/meilisearch",
     "description": "Powerful, fast, and an easy to use search engine",
     "language": "Rust",
-    "star": "291"
+    "star": "324"
   },
   {
     "title": "Anduin2017/HowToCook",
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "JavaScript",
-    "star": "412"
+    "star": "525"
   },
   {
     "title": "tihanyin/PSSW100AVB",
@@ -137,14 +137,14 @@
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "748"
+    "star": "749"
   },
   {
     "title": "trustwallet/assets",
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "Go",
-    "star": "54"
+    "star": "48"
   },
   {
     "title": "infracost/infracost",
@@ -158,14 +158,14 @@
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "12"
+    "star": "13"
   },
   {
     "title": "BuilderIO/partytown",
     "url": "https://github.com/BuilderIO/partytown",
     "description": "Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉",
     "language": "TypeScript",
-    "star": "262"
+    "star": "306"
   },
   {
     "title": "cloudreve/Cloudreve",
