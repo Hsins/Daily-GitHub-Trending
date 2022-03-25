@@ -4,49 +4,49 @@
     "url": "https://github.com/Arriven/db1000n",
     "description": "",
     "language": "Go",
-    "star": "60"
+    "star": "59"
   },
   {
     "title": "nvbn/thefuck",
     "url": "https://github.com/nvbn/thefuck",
     "description": "Magnificent app which corrects your previous console command.",
     "language": "Python",
-    "star": "342"
+    "star": "345"
   },
   {
     "title": "alibaba/lowcode-engine",
     "url": "https://github.com/alibaba/lowcode-engine",
     "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
     "language": "TypeScript",
-    "star": "343"
+    "star": "349"
   },
   {
     "title": "python-poetry/poetry",
     "url": "https://github.com/python-poetry/poetry",
     "description": "Python dependency management and packaging made easy.",
     "language": "Python",
-    "star": "20"
+    "star": "22"
   },
   {
     "title": "jonkpirateboy/Pass-fur-alle",
     "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
     "description": "Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :)",
     "language": "Python",
-    "star": "22"
+    "star": "44"
   },
   {
     "title": "appwrite/appwrite",
     "url": "https://github.com/appwrite/appwrite",
     "description": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
     "language": "JavaScript",
-    "star": "533"
+    "star": "506"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "904"
+    "star": "757"
   },
   {
     "title": "metarank/metarank",
@@ -60,28 +60,28 @@
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "138"
+    "star": "175"
   },
   {
     "title": "HarbourMasters/Shipwright",
     "url": "https://github.com/HarbourMasters/Shipwright",
     "description": "",
     "language": "C",
-    "star": "193"
+    "star": "131"
   },
   {
     "title": "googlefonts/morisawa-biz-ud-mincho",
     "url": "https://github.com/googlefonts/morisawa-biz-ud-mincho",
     "description": "",
     "language": "Python",
-    "star": "35"
+    "star": "43"
   },
   {
     "title": "github/copilot-docs",
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "205"
+    "star": "261"
   },
   {
     "title": "NVlabs/sionna",
@@ -95,35 +95,35 @@
     "url": "https://github.com/amplication/amplication",
     "description": "Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.",
     "language": "TypeScript",
-    "star": "458"
+    "star": "379"
   },
   {
     "title": "Anduin2017/HowToCook",
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "JavaScript",
-    "star": "576"
+    "star": "522"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "12"
+    "star": "26"
   },
   {
     "title": "BetaSu/fe-hunter",
     "url": "https://github.com/BetaSu/fe-hunter",
     "description": "前端赏金猎人，悬赏 前端高质量问题 的答案",
     "language": "JavaScript",
-    "star": "78"
+    "star": "140"
   },
   {
     "title": "alibaba/lowcode-demo",
     "url": "https://github.com/alibaba/lowcode-demo",
     "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
     "language": "TypeScript",
-    "star": "12"
+    "star": "13"
   },
   {
     "title": "vuejs/pinia",
@@ -137,7 +137,7 @@
     "url": "https://github.com/kognise/arpchat",
     "description": "Answering the question nobody asked: what if you wanted to text your friends using only ARP?",
     "language": "Rust",
-    "star": "176"
+    "star": "218"
   },
   {
     "title": "weaveworks/eksctl",
@@ -158,20 +158,20 @@
     "url": "https://github.com/apache/hudi",
     "description": "Upserts, Deletes And Incremental Processing on Big Data.",
     "language": "Java",
-    "star": "7"
+    "star": "11"
   },
   {
     "title": "cosmos/cosmos-sdk",
     "url": "https://github.com/cosmos/cosmos-sdk",
     "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
     "language": "Go",
-    "star": "14"
+    "star": "27"
   },
   {
     "title": "meilisearch/meilisearch",
     "url": "https://github.com/meilisearch/meilisearch",
     "description": "Powerful, fast, and an easy to use search engine",
     "language": "Rust",
-    "star": "434"
+    "star": "379"
   }
 ]
