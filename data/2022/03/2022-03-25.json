@@ -4,42 +4,42 @@
     "url": "https://github.com/Arriven/db1000n",
     "description": "",
     "language": "Go",
-    "star": "77"
+    "star": "60"
   },
   {
     "title": "nvbn/thefuck",
     "url": "https://github.com/nvbn/thefuck",
     "description": "Magnificent app which corrects your previous console command.",
     "language": "Python",
-    "star": "376"
+    "star": "342"
   },
   {
     "title": "alibaba/lowcode-engine",
     "url": "https://github.com/alibaba/lowcode-engine",
     "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
     "language": "TypeScript",
-    "star": "309"
+    "star": "343"
   },
   {
     "title": "python-poetry/poetry",
     "url": "https://github.com/python-poetry/poetry",
     "description": "Python dependency management and packaging made easy.",
     "language": "Python",
-    "star": "23"
+    "star": "20"
   },
   {
     "title": "jonkpirateboy/Pass-fur-alle",
     "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
     "description": "Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :)",
     "language": "Python",
-    "star": "37"
+    "star": "22"
   },
   {
     "title": "appwrite/appwrite",
     "url": "https://github.com/appwrite/appwrite",
     "description": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
     "language": "JavaScript",
-    "star": "505"
+    "star": "533"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
@@ -60,14 +60,14 @@
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "171"
+    "star": "138"
   },
   {
     "title": "HarbourMasters/Shipwright",
     "url": "https://github.com/HarbourMasters/Shipwright",
     "description": "",
     "language": "C",
-    "star": "130"
+    "star": "193"
   },
   {
     "title": "googlefonts/morisawa-biz-ud-mincho",
@@ -81,7 +81,7 @@
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "415"
+    "star": "205"
   },
   {
     "title": "NVlabs/sionna",
@@ -102,21 +102,21 @@
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "JavaScript",
-    "star": "555"
+    "star": "576"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "26"
+    "star": "12"
   },
   {
     "title": "BetaSu/fe-hunter",
     "url": "https://github.com/BetaSu/fe-hunter",
     "description": "前端赏金猎人，悬赏 前端高质量问题 的答案",
     "language": "JavaScript",
-    "star": "80"
+    "star": "78"
   },
   {
     "title": "alibaba/lowcode-demo",
@@ -137,7 +137,7 @@
     "url": "https://github.com/kognise/arpchat",
     "description": "Answering the question nobody asked: what if you wanted to text your friends using only ARP?",
     "language": "Rust",
-    "star": "340"
+    "star": "176"
   },
   {
     "title": "weaveworks/eksctl",
@@ -158,20 +158,20 @@
     "url": "https://github.com/apache/hudi",
     "description": "Upserts, Deletes And Incremental Processing on Big Data.",
     "language": "Java",
-    "star": "11"
+    "star": "7"
   },
   {
     "title": "cosmos/cosmos-sdk",
     "url": "https://github.com/cosmos/cosmos-sdk",
     "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
     "language": "Go",
-    "star": "9"
+    "star": "14"
   },
   {
     "title": "meilisearch/meilisearch",
     "url": "https://github.com/meilisearch/meilisearch",
     "description": "Powerful, fast, and an easy to use search engine",
     "language": "Rust",
-    "star": "374"
+    "star": "434"
   }
 ]
