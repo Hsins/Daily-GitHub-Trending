@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Arriven/db1000n",
+    "url": "https://github.com/Arriven/db1000n",
+    "description": "",
+    "language": "Go",
+    "star": "77"
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "description": "Magnificent app which corrects your previous console command.",
+    "language": "Python",
+    "star": "376"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "language": "TypeScript",
+    "star": "309"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "description": "Python dependency management and packaging made easy.",
+    "language": "Python",
+    "star": "23"
+  },
+  {
+    "title": "jonkpirateboy/Pass-fur-alle",
+    "url": "https://github.com/jonkpirateboy/Pass-fur-alle",
+    "description": "Since Polisens web queueing solution for getting a passport sucks, and it is more or less impossible to book a time, I wrote this small python script. What it does is that it automates the searching for a bookable time. In the file you just change the constants to your information and away you go. :)",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "appwrite/appwrite",
+    "url": "https://github.com/appwrite/appwrite",
+    "description": "Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.",
+    "language": "JavaScript",
+    "star": "505"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "language": "JavaScript",
+    "star": "904"
+  },
+  {
+    "title": "metarank/metarank",
+    "url": "https://github.com/metarank/metarank",
+    "description": "A low code Machine Learning tool that personalizes product listings, articles, recommendations, and search results in order to boost sales. A friendly Learn-to-Rank engine",
+    "language": "Scala",
+    "star": "177"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "description": "Fig adds autocomplete to your terminal.",
+    "language": "TypeScript",
+    "star": "171"
+  },
+  {
+    "title": "HarbourMasters/Shipwright",
+    "url": "https://github.com/HarbourMasters/Shipwright",
+    "description": "",
+    "language": "C",
+    "star": "130"
+  },
+  {
+    "title": "googlefonts/morisawa-biz-ud-mincho",
+    "url": "https://github.com/googlefonts/morisawa-biz-ud-mincho",
+    "description": "",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "415"
+  },
+  {
+    "title": "NVlabs/sionna",
+    "url": "https://github.com/NVlabs/sionna",
+    "description": "Sionna: An Open-Source Library for Next-Generation Physical Layer Research",
+    "language": "Python",
+    "star": "23"
+  },
+  {
+    "title": "amplication/amplication",
+    "url": "https://github.com/amplication/amplication",
+    "description": "Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.",
+    "language": "TypeScript",
+    "star": "458"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "language": "JavaScript",
+    "star": "555"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "26"
+  },
+  {
+    "title": "BetaSu/fe-hunter",
+    "url": "https://github.com/BetaSu/fe-hunter",
+    "description": "前端赏金猎人，悬赏 前端高质量问题 的答案",
+    "language": "JavaScript",
+    "star": "80"
+  },
+  {
+    "title": "alibaba/lowcode-demo",
+    "url": "https://github.com/alibaba/lowcode-demo",
+    "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "language": "TypeScript",
+    "star": "12"
+  },
+  {
+    "title": "vuejs/pinia",
+    "url": "https://github.com/vuejs/pinia",
+    "description": "🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support",
+    "language": "TypeScript",
+    "star": "29"
+  },
+  {
+    "title": "kognise/arpchat",
+    "url": "https://github.com/kognise/arpchat",
+    "description": "Answering the question nobody asked: what if you wanted to text your friends using only ARP?",
+    "language": "Rust",
+    "star": "340"
+  },
+  {
+    "title": "weaveworks/eksctl",
+    "url": "https://github.com/weaveworks/eksctl",
+    "description": "The official CLI for Amazon EKS",
+    "language": "Go",
+    "star": "4"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "27"
+  },
+  {
+    "title": "apache/hudi",
+    "url": "https://github.com/apache/hudi",
+    "description": "Upserts, Deletes And Incremental Processing on Big Data.",
+    "language": "Java",
+    "star": "11"
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "description": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "meilisearch/meilisearch",
+    "url": "https://github.com/meilisearch/meilisearch",
+    "description": "Powerful, fast, and an easy to use search engine",
+    "language": "Rust",
+    "star": "374"
+  }
+]
