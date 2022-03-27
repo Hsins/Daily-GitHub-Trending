@@ -1,0 +1,177 @@
+[
+  {
+    "title": "liyupi/mianshiya-public",
+    "url": "https://github.com/liyupi/mianshiya-public",
+    "description": "干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮",
+    "language": "TypeScript",
+    "star": "340"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "language": "Cuda",
+    "star": "131"
+  },
+  {
+    "title": "wangyuan389/mall-cook",
+    "url": "https://github.com/wangyuan389/mall-cook",
+    "description": "商城低代码平台，可视化搭建H5、小程序多端商城",
+    "language": "Vue",
+    "star": "79"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "356"
+  },
+  {
+    "title": "ehids/ecapture",
+    "url": "https://github.com/ehids/ecapture",
+    "description": "capture SSL/TLS text content without CA cert by eBPF.",
+    "language": "C",
+    "star": "42"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "98"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "none",
+    "star": "49"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "322"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "167"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+    "language": "none",
+    "star": "580"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "nonamecoder/CVE-2022-27254",
+    "url": "https://github.com/nonamecoder/CVE-2022-27254",
+    "description": "PoC for vulnerability in Honda's Remote Keyless System(CVE-2022-27254)",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "star": "288"
+  },
+  {
+    "title": "apple/swift-async-algorithms",
+    "url": "https://github.com/apple/swift-async-algorithms",
+    "description": "Async Algorithms for Swift",
+    "language": "Swift",
+    "star": "157"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "description": "A simple and easy-to-use library to enjoy videogames programming",
+    "language": "C",
+    "star": "23"
+  },
+  {
+    "title": "GorvGoyl/Clone-Wars",
+    "url": "https://github.com/GorvGoyl/Clone-Wars",
+    "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
+    "language": "none",
+    "star": "361"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "ullmark/hashids.net",
+    "url": "https://github.com/ullmark/hashids.net",
+    "description": "A small .NET package to generate YouTube-like hashes from one or many numbers. Use hashids when you do not want to expose your database ids to the user.",
+    "language": "C#",
+    "star": "100"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "37"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya",
+    "description": "天涯 kkndme 神贴聊房价",
+    "language": "none",
+    "star": "82"
+  },
+  {
+    "title": "minetest/minetest",
+    "url": "https://github.com/minetest/minetest",
+    "description": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "language": "C++",
+    "star": "13"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "description": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "language": "TypeScript",
+    "star": "65"
+  },
+  {
+    "title": "rxi/lite",
+    "url": "https://github.com/rxi/lite",
+    "description": "A lightweight text editor written in Lua",
+    "language": "Lua",
+    "star": "20"
+  },
+  {
+    "title": "Richasy/Bili.Uwp",
+    "url": "https://github.com/Richasy/Bili.Uwp",
+    "description": "适用于新系统UI的哔哩",
+    "language": "C#",
+    "star": "19"
+  }
+]
