@@ -4,7 +4,7 @@
     "url": "https://github.com/ehids/ecapture",
     "description": "capture SSL/TLS text content without CA cert by eBPF.",
     "language": "C",
-    "star": "51"
+    "star": "323"
   },
   {
     "title": "breakthecode2/neo",
@@ -18,28 +18,28 @@
     "url": "https://github.com/justjavac/free-programming-books-zh_CN",
     "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
     "language": "none",
-    "star": "410"
+    "star": "407"
   },
   {
     "title": "apple/swift-async-algorithms",
     "url": "https://github.com/apple/swift-async-algorithms",
     "description": "Async Algorithms for Swift",
     "language": "Swift",
-    "star": "255"
+    "star": "158"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "177"
+    "star": "210"
   },
   {
     "title": "AI4Finance-Foundation/FinRL",
     "url": "https://github.com/AI4Finance-Foundation/FinRL",
     "description": "FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥",
     "language": "Jupyter Notebook",
-    "star": "245"
+    "star": "286"
   },
   {
     "title": "TheAlgorithms/Python",
@@ -53,77 +53,77 @@
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "105"
+    "star": "93"
   },
   {
     "title": "liyupi/mianshiya-public",
     "url": "https://github.com/liyupi/mianshiya-public",
     "description": "干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮",
     "language": "TypeScript",
-    "star": "350"
+    "star": "367"
   },
   {
     "title": "wangyuan389/mall-cook",
     "url": "https://github.com/wangyuan389/mall-cook",
     "description": "商城低代码平台，可视化搭建H5、小程序多端商城",
     "language": "Vue",
-    "star": "184"
+    "star": "123"
   },
   {
     "title": "github/copilot-docs",
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "361"
+    "star": "355"
   },
   {
     "title": "topjohnwu/Magisk",
     "url": "https://github.com/topjohnwu/Magisk",
     "description": "The Magic Mask for Android",
     "language": "C++",
-    "star": "42"
+    "star": "20"
   },
   {
     "title": "GorvGoyl/Clone-Wars",
     "url": "https://github.com/GorvGoyl/Clone-Wars",
     "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
     "language": "none",
-    "star": "484"
+    "star": "478"
   },
   {
     "title": "scottbez1/smartknob",
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "296"
+    "star": "365"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "351"
+    "star": "349"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "99"
+    "star": "95"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
     "url": "https://github.com/dair-ai/ML-YouTube-Courses",
     "description": "📺 A repository to index and organize the latest machine learning courses found on YouTube.",
     "language": "none",
-    "star": "33"
+    "star": "66"
   },
   {
     "title": "minetest/minetest",
     "url": "https://github.com/minetest/minetest",
     "description": "Minetest is an open source voxel game engine with easy modding and game creation",
     "language": "C++",
-    "star": "76"
+    "star": "112"
   },
   {
     "title": "fyne-io/fyne",
@@ -137,7 +137,7 @@
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "119"
+    "star": "121"
   },
   {
     "title": "aolofsson/awesome-semiconductor-startups",
@@ -158,20 +158,20 @@
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "HTML",
-    "star": "48"
+    "star": "50"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "113"
+    "star": "574"
   },
   {
     "title": "liupan1890/aliyunpan",
     "url": "https://github.com/liupan1890/aliyunpan",
     "description": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
     "language": "TypeScript",
-    "star": "108"
+    "star": "60"
   }
 ]
