@@ -4,35 +4,35 @@
     "url": "https://github.com/bullet-train-co/bullet_train",
     "description": "The Open Source Ruby on Rails SaaS Framework",
     "language": "Ruby",
-    "star": "80"
+    "star": "70"
   },
   {
     "title": "ehids/ecapture",
     "url": "https://github.com/ehids/ecapture",
     "description": "capture SSL/TLS text content without CA cert by eBPF.",
     "language": "C",
-    "star": "324"
+    "star": "333"
   },
   {
     "title": "wangyuan389/mall-cook",
     "url": "https://github.com/wangyuan389/mall-cook",
     "description": "商城低代码平台，可视化搭建H5、小程序多端商城",
     "language": "Vue",
-    "star": "180"
+    "star": "185"
   },
   {
     "title": "apple/swift-async-algorithms",
     "url": "https://github.com/apple/swift-async-algorithms",
     "description": "Async Algorithms for Swift",
     "language": "Swift",
-    "star": "271"
+    "star": "202"
   },
   {
     "title": "mtlynch/picoshare",
     "url": "https://github.com/mtlynch/picoshare",
     "description": "A minimalist, easy-to-host service for sharing images and other files",
     "language": "Go",
-    "star": "46"
+    "star": "61"
   },
   {
     "title": "liyupi/mianshiya-public",
@@ -46,14 +46,14 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "341"
+    "star": "355"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "593"
+    "star": "720"
   },
   {
     "title": "JD331/JD331",
@@ -74,77 +74,77 @@
     "url": "https://github.com/Bonfee/CVE-2022-0995",
     "description": "CVE-2022-0995 exploit",
     "language": "C",
-    "star": "114"
+    "star": "109"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "182"
+    "star": "222"
   },
   {
     "title": "scottbez1/smartknob",
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "338"
+    "star": "326"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "139"
+    "star": "99"
   },
   {
     "title": "NVlabs/instant-ngp",
     "url": "https://github.com/NVlabs/instant-ngp",
     "description": "Instant neural graphics primitives: lightning fast NeRF and more",
     "language": "Cuda",
-    "star": "154"
+    "star": "168"
   },
   {
     "title": "justjavac/free-programming-books-zh_CN",
     "url": "https://github.com/justjavac/free-programming-books-zh_CN",
     "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
     "language": "none",
-    "star": "295"
+    "star": "297"
   },
   {
     "title": "breakthecode2/neo",
     "url": "https://github.com/breakthecode2/neo",
     "description": "A plugin that enables usage of cheatcodes in Break The Code 2",
     "language": "SCSS",
-    "star": "31"
+    "star": "40"
   },
   {
     "title": "AI4Finance-Foundation/FinRL",
     "url": "https://github.com/AI4Finance-Foundation/FinRL",
     "description": "FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥",
     "language": "Jupyter Notebook",
-    "star": "166"
+    "star": "221"
   },
   {
     "title": "restic/restic",
     "url": "https://github.com/restic/restic",
     "description": "Fast, secure, efficient backup program",
     "language": "Go",
-    "star": "42"
+    "star": "39"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
     "url": "https://github.com/dair-ai/ML-YouTube-Courses",
     "description": "📺 A place to discover the latest machine learning courses on YouTube.",
     "language": "none",
-    "star": "333"
+    "star": "275"
   },
   {
     "title": "techno-tim/k3s-ansible",
     "url": "https://github.com/techno-tim/k3s-ansible",
     "description": "A fully automated HA k3s etcd install with kube-vip, MetalLB, and more",
     "language": "Jinja",
-    "star": "62"
+    "star": "103"
   },
   {
     "title": "moby/moby",
@@ -158,14 +158,14 @@
     "url": "https://github.com/Richasy/Bili.Uwp",
     "description": "适用于新系统UI的哔哩",
     "language": "C#",
-    "star": "87"
+    "star": "45"
   },
   {
     "title": "github/copilot-docs",
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "437"
+    "star": "438"
   },
   {
     "title": "PaddlePaddle/PaddleDetection",
