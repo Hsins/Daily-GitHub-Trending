@@ -4,21 +4,21 @@
     "url": "https://github.com/ehids/ecapture",
     "description": "capture SSL/TLS text content without CA cert by eBPF.",
     "language": "C",
-    "star": "197"
+    "star": "324"
   },
   {
     "title": "moby/moby",
     "url": "https://github.com/moby/moby",
     "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
     "language": "Go",
-    "star": "85"
+    "star": "62"
   },
   {
     "title": "github/copilot-docs",
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "597"
+    "star": "453"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
@@ -32,14 +32,14 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "227"
+    "star": "228"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "216"
+    "star": "146"
   },
   {
     "title": "Wilfred/difftastic",
@@ -53,125 +53,125 @@
     "url": "https://github.com/dair-ai/ML-YouTube-Courses",
     "description": "📺 A place to discover the latest machine learning courses on YouTube.",
     "language": "none",
-    "star": "177"
+    "star": "273"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "796"
+    "star": "762"
   },
   {
     "title": "scottbez1/smartknob",
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "294"
+    "star": "252"
   },
   {
     "title": "NVlabs/eg3d",
     "url": "https://github.com/NVlabs/eg3d",
     "description": "",
     "language": "none",
-    "star": "51"
+    "star": "61"
   },
   {
     "title": "getify/You-Dont-Know-JS",
     "url": "https://github.com/getify/You-Dont-Know-JS",
     "description": "A book series on JavaScript. @YDKJS on twitter.",
     "language": "none",
-    "star": "96"
+    "star": "99"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "50"
+    "star": "52"
   },
   {
     "title": "hktalent/spring-spel-0day-poc",
     "url": "https://github.com/hktalent/spring-spel-0day-poc",
     "description": "spring-cloud / spring-cloud-function,spring.cloud.function.routing-expression,RCE,0day,0-day,POC,EXP",
     "language": "none",
-    "star": "103"
+    "star": "145"
   },
   {
     "title": "ciderapp/Cider",
     "url": "https://github.com/ciderapp/Cider",
     "description": "A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀",
     "language": "JavaScript",
-    "star": "132"
+    "star": "124"
   },
   {
     "title": "justjavac/free-programming-books-zh_CN",
     "url": "https://github.com/justjavac/free-programming-books-zh_CN",
     "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
     "language": "none",
-    "star": "168"
+    "star": "279"
   },
   {
     "title": "JD331/JD331",
     "url": "https://github.com/JD331/JD331",
     "description": "",
     "language": "none",
-    "star": "112"
+    "star": "110"
   },
   {
     "title": "Bonfee/CVE-2022-0995",
     "url": "https://github.com/Bonfee/CVE-2022-0995",
     "description": "CVE-2022-0995 exploit",
     "language": "C",
-    "star": "62"
+    "star": "92"
   },
   {
     "title": "liupan1890/aliyunpan",
     "url": "https://github.com/liupan1890/aliyunpan",
     "description": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
     "language": "TypeScript",
-    "star": "42"
+    "star": "40"
   },
   {
     "title": "techno-tim/k3s-ansible",
     "url": "https://github.com/techno-tim/k3s-ansible",
     "description": "A fully automated HA k3s etcd install with kube-vip, MetalLB, and more",
     "language": "Jinja",
-    "star": "93"
+    "star": "110"
   },
   {
     "title": "NVlabs/instant-ngp",
     "url": "https://github.com/NVlabs/instant-ngp",
     "description": "Instant neural graphics primitives: lightning fast NeRF and more",
     "language": "Cuda",
-    "star": "217"
+    "star": "150"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "21"
+    "star": "11"
   },
   {
     "title": "vandadnp/flutter-tips-and-tricks",
     "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
     "description": "A Collection of Flutter and Dart Tips and Tricks",
     "language": "Dart",
-    "star": "31"
+    "star": "8"
   },
   {
     "title": "florinpop17/app-ideas",
     "url": "https://github.com/florinpop17/app-ideas",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "language": "none",
-    "star": "114"
+    "star": "90"
   },
   {
     "title": "Alamofire/Alamofire",
     "url": "https://github.com/Alamofire/Alamofire",
     "description": "Elegant HTTP Networking in Swift",
     "language": "Swift",
-    "star": "13"
+    "star": "8"
   }
 ]
