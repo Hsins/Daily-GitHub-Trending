@@ -1,0 +1,177 @@
+[
+  {
+    "title": "dagger/dagger",
+    "url": "https://github.com/dagger/dagger",
+    "description": "A portable devkit for CI/CD pipelines",
+    "language": "Go",
+    "star": "496"
+  },
+  {
+    "title": "grafana/mimir",
+    "url": "https://github.com/grafana/mimir",
+    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "language": "Go",
+    "star": "239"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "description": "A post-modern modal text editor.",
+    "language": "Rust",
+    "star": "93"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "star": "38"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "star": "611"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "417"
+  },
+  {
+    "title": "craig/SpringCore0day",
+    "url": "https://github.com/craig/SpringCore0day",
+    "description": "SpringCore0day from https://share.vx-underground.org/ & some additional links",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "description": "A small C compiler",
+    "language": "C",
+    "star": "147"
+  },
+  {
+    "title": "BobTheShoplifter/Spring4Shell-POC",
+    "url": "https://github.com/BobTheShoplifter/Spring4Shell-POC",
+    "description": "Spring4Shell Proof Of Concept/Information CVE-2022-22965",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "Retrospected/spring-rce-poc",
+    "url": "https://github.com/Retrospected/spring-rce-poc",
+    "description": "",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "fengguangbin/spring-rce-war",
+    "url": "https://github.com/fengguangbin/spring-rce-war",
+    "description": "",
+    "language": "Java",
+    "star": "9"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "HTML",
+    "star": "311"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "description": "Investment Research for Everyone.",
+    "language": "Python",
+    "star": "160"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "description": "Haptic input knob with software-defined endstops and virtual detents",
+    "language": "C++",
+    "star": "539"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "60"
+  },
+  {
+    "title": "cleanlock/VideoAdBlockForTwitch",
+    "url": "https://github.com/cleanlock/VideoAdBlockForTwitch",
+    "description": "Swaps video ads for an ad-free stream.",
+    "language": "JavaScript",
+    "star": "47"
+  },
+  {
+    "title": "dinosn/CVE-2022-22963",
+    "url": "https://github.com/dinosn/CVE-2022-22963",
+    "description": "CVE-2022-22963 PoC",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "499"
+  },
+  {
+    "title": "vandadnp/flutter-tips-and-tricks",
+    "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
+    "description": "A Collection of Flutter and Dart Tips and Tricks",
+    "language": "Dart",
+    "star": "112"
+  },
+  {
+    "title": "chaosec2021/Spring-cloud-function-SpEL-RCE",
+    "url": "https://github.com/chaosec2021/Spring-cloud-function-SpEL-RCE",
+    "description": "Spring-cloud-function-SpEL-RCE 批量检测脚本，反弹shell_EXP,欢迎师傅们试用",
+    "language": "Python",
+    "star": "68"
+  },
+  {
+    "title": "NVlabs/nvdiffrec",
+    "url": "https://github.com/NVlabs/nvdiffrec",
+    "description": "Official code for the CVPR 2022 (oral) paper \"Extracting Triangular 3D Models, Materials, and Lighting From Images\".",
+    "language": "Python",
+    "star": "115"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "language": "TypeScript",
+    "star": "25"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "41"
+  },
+  {
+    "title": "italiaremote/awesome-italia-remote",
+    "url": "https://github.com/italiaremote/awesome-italia-remote",
+    "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "24"
+  }
+]
