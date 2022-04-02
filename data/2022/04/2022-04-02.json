@@ -1,0 +1,177 @@
+[
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "description": "Investment Research for Everyone.",
+    "language": "Python",
+    "star": "327"
+  },
+  {
+    "title": "Sheherezadhe/awair-uploader",
+    "url": "https://github.com/Sheherezadhe/awair-uploader",
+    "description": "",
+    "language": "TypeScript",
+    "star": "30"
+  },
+  {
+    "title": "dagger/dagger",
+    "url": "https://github.com/dagger/dagger",
+    "description": "A portable devkit for CI/CD pipelines",
+    "language": "Go",
+    "star": "507"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "description": "Haptic input knob with software-defined endstops and virtual detents",
+    "language": "C++",
+    "star": "337"
+  },
+  {
+    "title": "hillu/local-spring-vuln-scanner",
+    "url": "https://github.com/hillu/local-spring-vuln-scanner",
+    "description": "Simple local scanner for applications containing vulnerable Spring libraries",
+    "language": "Go",
+    "star": "16"
+  },
+  {
+    "title": "grafana/mimir",
+    "url": "https://github.com/grafana/mimir",
+    "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
+    "language": "Go",
+    "star": "239"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "24"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "410"
+  },
+  {
+    "title": "reznok/Spring4Shell-POC",
+    "url": "https://github.com/reznok/Spring4Shell-POC",
+    "description": "Dockerized Spring4Shell (CVE-2022-22965) PoC application and exploit",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "lichess-org/lila",
+    "url": "https://github.com/lichess-org/lila",
+    "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
+    "language": "Scala",
+    "star": "101"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "star": "835"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "526"
+  },
+  {
+    "title": "cleanlock/VideoAdBlockForTwitch",
+    "url": "https://github.com/cleanlock/VideoAdBlockForTwitch",
+    "description": "Swaps video ads for an ad-free stream.",
+    "language": "JavaScript",
+    "star": "47"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "41"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Shell",
+    "star": "151"
+  },
+  {
+    "title": "jfrog/jfrog-spring-tools",
+    "url": "https://github.com/jfrog/jfrog-spring-tools",
+    "description": "",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "description": "A small C compiler",
+    "language": "C",
+    "star": "167"
+  },
+  {
+    "title": "italiaremote/awesome-italia-remote",
+    "url": "https://github.com/italiaremote/awesome-italia-remote",
+    "description": "A list of remote-friendly or full-remote companies that targets Italian talents.",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "Xhofe/alist",
+    "url": "https://github.com/Xhofe/alist",
+    "description": "🗂️A file list program that supports multiple storage, powered by Gin and React. / 一个支持多存储的文件列表程序，使用 Gin 和 React 。",
+    "language": "Go",
+    "star": "135"
+  },
+  {
+    "title": "arthurspk/guiadevbrasil",
+    "url": "https://github.com/arthurspk/guiadevbrasil",
+    "description": "GUIA EXTENSO DE PROGRAMAÇÃO:",
+    "language": "none",
+    "star": "98"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "description": "Spring Framework",
+    "language": "Java",
+    "star": "99"
+  },
+  {
+    "title": "sqlfluff/sqlfluff",
+    "url": "https://github.com/sqlfluff/sqlfluff",
+    "description": "A SQL linter and auto-formatter for Humans",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "dromara/hertzbeat",
+    "url": "https://github.com/dromara/hertzbeat",
+    "description": "易用友好的云监控系统。网站监测，PING连通性，端口可用性，数据库，操作系统，API监控，自定义监控，阈值告警，告警通知(邮件微信钉钉飞书)。",
+    "language": "Java",
+    "star": "94"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "description": "Quarkus: Supersonic Subatomic Java.",
+    "language": "Java",
+    "star": "7"
+  },
+  {
+    "title": "kestra-io/kestra",
+    "url": "https://github.com/kestra-io/kestra",
+    "description": "Kestra is an infinitely scalable opensource orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
+    "language": "Java",
+    "star": "73"
+  }
+]
