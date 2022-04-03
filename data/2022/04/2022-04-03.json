@@ -4,49 +4,49 @@
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone.",
     "language": "Python",
-    "star": "250"
+    "star": "255"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "398"
+    "star": "468"
   },
   {
     "title": "cleanlock/VideoAdBlockForTwitch",
     "url": "https://github.com/cleanlock/VideoAdBlockForTwitch",
     "description": "Swaps video ads for an ad-free stream.",
     "language": "JavaScript",
-    "star": "128"
+    "star": "126"
   },
   {
     "title": "helix-editor/helix",
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "143"
+    "star": "195"
   },
   {
     "title": "Sheherezadhe/awair-uploader",
     "url": "https://github.com/Sheherezadhe/awair-uploader",
     "description": "",
     "language": "TypeScript",
-    "star": "38"
+    "star": "36"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "176"
+    "star": "140"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "604"
+    "star": "601"
   },
   {
     "title": "tachiyomiorg/tachiyomi",
@@ -60,21 +60,21 @@
     "url": "https://github.com/fatedier/frp",
     "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
     "language": "Go",
-    "star": "29"
+    "star": "45"
   },
   {
     "title": "rdeepak2002/reddit-place-script-2022",
     "url": "https://github.com/rdeepak2002/reddit-place-script-2022",
     "description": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
     "language": "Python",
-    "star": "189"
+    "star": "163"
   },
   {
     "title": "LearnGolang/LearnGolang",
     "url": "https://github.com/LearnGolang/LearnGolang",
     "description": "《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.",
     "language": "none",
-    "star": "72"
+    "star": "64"
   },
   {
     "title": "Zequez/reddit-placebot",
@@ -88,7 +88,7 @@
     "url": "https://github.com/s0md3v/Smap",
     "description": "a drop-in replacement for Nmap powered by shodan.io",
     "language": "Go",
-    "star": "104"
+    "star": "105"
   },
   {
     "title": "Geekhyt/weekly",
@@ -102,14 +102,14 @@
     "url": "https://github.com/grafana/mimir",
     "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
     "language": "Go",
-    "star": "224"
+    "star": "269"
   },
   {
     "title": "sahat/hackathon-starter",
     "url": "https://github.com/sahat/hackathon-starter",
     "description": "A boilerplate for Node.js web applications",
     "language": "JavaScript",
-    "star": "137"
+    "star": "53"
   },
   {
     "title": "jCodeLife/mind-map",
@@ -137,14 +137,14 @@
     "url": "https://github.com/kestra-io/kestra",
     "description": "Kestra is an infinitely scalable opensource orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
     "language": "Java",
-    "star": "188"
+    "star": "193"
   },
   {
     "title": "xioacd99/study-is-wonderful",
     "url": "https://github.com/xioacd99/study-is-wonderful",
     "description": "awesome public courses and wonderful study resource",
     "language": "none",
-    "star": "78"
+    "star": "197"
   },
   {
     "title": "mytechnotalent/Hacking-Windows",
@@ -165,7 +165,7 @@
     "url": "https://github.com/dagger/dagger",
     "description": "A portable devkit for CI/CD pipelines",
     "language": "Go",
-    "star": "584"
+    "star": "605"
   },
   {
     "title": "sherlock-project/sherlock",
