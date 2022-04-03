@@ -4,14 +4,14 @@
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone.",
     "language": "Python",
-    "star": "255"
+    "star": "361"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "468"
+    "star": "471"
   },
   {
     "title": "cleanlock/VideoAdBlockForTwitch",
@@ -32,21 +32,21 @@
     "url": "https://github.com/Sheherezadhe/awair-uploader",
     "description": "",
     "language": "TypeScript",
-    "star": "36"
+    "star": "31"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "140"
+    "star": "229"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "601"
+    "star": "605"
   },
   {
     "title": "tachiyomiorg/tachiyomi",
@@ -74,7 +74,7 @@
     "url": "https://github.com/LearnGolang/LearnGolang",
     "description": "《Golang学习资源大全-只有Go语言才能改变世界》Only Golang Can Change The World.",
     "language": "none",
-    "star": "64"
+    "star": "149"
   },
   {
     "title": "Zequez/reddit-placebot",
@@ -88,28 +88,28 @@
     "url": "https://github.com/s0md3v/Smap",
     "description": "a drop-in replacement for Nmap powered by shodan.io",
     "language": "Go",
-    "star": "105"
+    "star": "107"
   },
   {
     "title": "Geekhyt/weekly",
     "url": "https://github.com/Geekhyt/weekly",
     "description": "前端食堂技术周刊，每周发布。🌰",
     "language": "none",
-    "star": "36"
+    "star": "71"
   },
   {
     "title": "grafana/mimir",
     "url": "https://github.com/grafana/mimir",
     "description": "Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.",
     "language": "Go",
-    "star": "269"
+    "star": "220"
   },
   {
     "title": "sahat/hackathon-starter",
     "url": "https://github.com/sahat/hackathon-starter",
     "description": "A boilerplate for Node.js web applications",
     "language": "JavaScript",
-    "star": "53"
+    "star": "131"
   },
   {
     "title": "jCodeLife/mind-map",
@@ -137,7 +137,7 @@
     "url": "https://github.com/kestra-io/kestra",
     "description": "Kestra is an infinitely scalable opensource orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
     "language": "Java",
-    "star": "193"
+    "star": "60"
   },
   {
     "title": "xioacd99/study-is-wonderful",
@@ -151,21 +151,21 @@
     "url": "https://github.com/mytechnotalent/Hacking-Windows",
     "description": "A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.",
     "language": "C",
-    "star": "43"
+    "star": "62"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "80"
+    "star": "104"
   },
   {
     "title": "dagger/dagger",
     "url": "https://github.com/dagger/dagger",
     "description": "A portable devkit for CI/CD pipelines",
     "language": "Go",
-    "star": "605"
+    "star": "580"
   },
   {
     "title": "sherlock-project/sherlock",
