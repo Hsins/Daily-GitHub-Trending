@@ -4,42 +4,42 @@
     "url": "https://github.com/rdeepak2002/reddit-place-script-2022",
     "description": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
     "language": "Python",
-    "star": "261"
+    "star": "194"
   },
   {
     "title": "helix-editor/helix",
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "190"
+    "star": "150"
   },
   {
     "title": "OpenBB-finance/OpenBBTerminal",
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone, Anywhere.",
     "language": "Python",
-    "star": "376"
+    "star": "293"
   },
   {
     "title": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
     "description": "Kestra is an infinitely scalable opensource orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
     "language": "Java",
-    "star": "265"
+    "star": "263"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "550"
+    "star": "490"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a developer in 2022",
     "language": "TypeScript",
-    "star": "138"
+    "star": "134"
   },
   {
     "title": "phoboslab/qoi",
@@ -53,7 +53,7 @@
     "url": "https://github.com/PlaceNL/Bot",
     "description": "De r/place bot voor r/PlaceNL.",
     "language": "JavaScript",
-    "star": "30"
+    "star": "41"
   },
   {
     "title": "placeDE/pixel",
@@ -88,14 +88,14 @@
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "584"
+    "star": "580"
   },
   {
     "title": "tachiyomiorg/tachiyomi",
     "url": "https://github.com/tachiyomiorg/tachiyomi",
     "description": "Free and open source manga reader for Android.",
     "language": "Kotlin",
-    "star": "101"
+    "star": "132"
   },
   {
     "title": "sahat/hackathon-starter",
@@ -109,28 +109,28 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "82"
+    "star": "71"
   },
   {
     "title": "pixeltris/TwitchAdSolutions",
     "url": "https://github.com/pixeltris/TwitchAdSolutions",
     "description": "",
     "language": "JavaScript",
-    "star": "57"
+    "star": "25"
   },
   {
     "title": "mytechnotalent/Hacking-Windows",
     "url": "https://github.com/mytechnotalent/Hacking-Windows",
     "description": "A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.",
     "language": "C",
-    "star": "221"
+    "star": "206"
   },
   {
     "title": "cleanlock/VideoAdBlockForTwitch",
     "url": "https://github.com/cleanlock/VideoAdBlockForTwitch",
     "description": "Blocks Ads on Twitch.tv.",
     "language": "JavaScript",
-    "star": "121"
+    "star": "142"
   },
   {
     "title": "trekhleb/javascript-algorithms",
@@ -144,28 +144,28 @@
     "url": "https://github.com/s0md3v/Smap",
     "description": "a drop-in replacement for Nmap powered by shodan.io",
     "language": "Go",
-    "star": "329"
+    "star": "235"
   },
   {
     "title": "stackrox/stackrox",
     "url": "https://github.com/stackrox/stackrox",
     "description": "The StackRox Kubernetes Security Platform performs a risk analysis of the container environment, delivers visibility and runtime alerts, and provides recommendations to proactively improve security by hardening the environment.",
     "language": "Go",
-    "star": "77"
+    "star": "62"
   },
   {
     "title": "arthurspk/guiadofrontend",
     "url": "https://github.com/arthurspk/guiadofrontend",
     "description": "Guia do Desenvolvedor Front-end",
     "language": "none",
-    "star": "90"
+    "star": "74"
   },
   {
     "title": "cloudflare/cloudflared",
     "url": "https://github.com/cloudflare/cloudflared",
     "description": "Cloudflare Tunnel client (formerly Argo Tunnel)",
     "language": "Go",
-    "star": "40"
+    "star": "11"
   },
   {
     "title": "TheAlgorithms/Javascript",
