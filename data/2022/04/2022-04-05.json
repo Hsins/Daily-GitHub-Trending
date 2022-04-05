@@ -4,7 +4,7 @@
     "url": "https://github.com/rdeepak2002/reddit-place-script-2022",
     "description": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
     "language": "Python",
-    "star": "287"
+    "star": "190"
   },
   {
     "title": "sultim-t/prboom-plus-rt",
@@ -32,35 +32,35 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "406"
+    "star": "574"
   },
   {
     "title": "s0md3v/Smap",
     "url": "https://github.com/s0md3v/Smap",
     "description": "a drop-in replacement for Nmap powered by shodan.io",
     "language": "Go",
-    "star": "246"
+    "star": "293"
   },
   {
     "title": "arthurspk/guiadofrontend",
     "url": "https://github.com/arthurspk/guiadofrontend",
     "description": "Guia do Desenvolvedor Front-end",
     "language": "none",
-    "star": "87"
+    "star": "89"
   },
   {
     "title": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "40"
+    "star": "42"
   },
   {
     "title": "NCSC-NL/spring4shell",
     "url": "https://github.com/NCSC-NL/spring4shell",
     "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework",
     "language": "none",
-    "star": "13"
+    "star": "18"
   },
   {
     "title": "Anduin2017/HowToCook",
@@ -74,35 +74,35 @@
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone, Anywhere.",
     "language": "Python",
-    "star": "238"
+    "star": "352"
   },
   {
     "title": "trufflesecurity/trufflehog",
     "url": "https://github.com/trufflesecurity/trufflehog",
     "description": "Find credentials all over the place",
     "language": "Go",
-    "star": "103"
+    "star": "165"
   },
   {
     "title": "helix-editor/helix",
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "198"
+    "star": "199"
   },
   {
     "title": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
     "description": "Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
     "language": "Java",
-    "star": "228"
+    "star": "259"
   },
   {
     "title": "mytechnotalent/Hacking-Windows",
     "url": "https://github.com/mytechnotalent/Hacking-Windows",
     "description": "A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.",
     "language": "C",
-    "star": "226"
+    "star": "225"
   },
   {
     "title": "airbnb/javascript",
@@ -116,7 +116,7 @@
     "url": "https://github.com/sean529/robFood",
     "description": "因为上海疫情，用于抢菜~",
     "language": "JavaScript",
-    "star": "15"
+    "star": "26"
   },
   {
     "title": "VoronDesign/VoronUsers",
@@ -158,7 +158,7 @@
     "url": "https://github.com/qier222/YesPlayMusic",
     "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
     "language": "Vue",
-    "star": "135"
+    "star": "125"
   },
   {
     "title": "requarks/wiki",
@@ -172,6 +172,6 @@
     "url": "https://github.com/PlaceNL/Bot",
     "description": "De r/place bot voor r/PlaceNL.",
     "language": "JavaScript",
-    "star": "69"
+    "star": "82"
   }
 ]
