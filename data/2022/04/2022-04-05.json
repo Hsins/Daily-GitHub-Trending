@@ -4,7 +4,7 @@
     "url": "https://github.com/rdeepak2002/reddit-place-script-2022",
     "description": "Script to draw an image onto r/place (https://www.reddit.com/r/place/)",
     "language": "Python",
-    "star": "297"
+    "star": "287"
   },
   {
     "title": "sultim-t/prboom-plus-rt",
@@ -25,21 +25,21 @@
     "url": "https://github.com/JaimeObregon/subvenciones",
     "description": "Volcado de la Base de Datos Nacional de Subvenciones (BDNS).",
     "language": "Shell",
-    "star": "31"
+    "star": "34"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "534"
+    "star": "406"
   },
   {
     "title": "s0md3v/Smap",
     "url": "https://github.com/s0md3v/Smap",
     "description": "a drop-in replacement for Nmap powered by shodan.io",
     "language": "Go",
-    "star": "235"
+    "star": "246"
   },
   {
     "title": "arthurspk/guiadofrontend",
@@ -53,7 +53,7 @@
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "27"
+    "star": "40"
   },
   {
     "title": "NCSC-NL/spring4shell",
@@ -74,7 +74,7 @@
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone, Anywhere.",
     "language": "Python",
-    "star": "342"
+    "star": "238"
   },
   {
     "title": "trufflesecurity/trufflehog",
@@ -95,14 +95,14 @@
     "url": "https://github.com/kestra-io/kestra",
     "description": "Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
     "language": "Java",
-    "star": "222"
+    "star": "228"
   },
   {
     "title": "mytechnotalent/Hacking-Windows",
     "url": "https://github.com/mytechnotalent/Hacking-Windows",
     "description": "A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.",
     "language": "C",
-    "star": "188"
+    "star": "226"
   },
   {
     "title": "airbnb/javascript",
@@ -116,7 +116,7 @@
     "url": "https://github.com/sean529/robFood",
     "description": "因为上海疫情，用于抢菜~",
     "language": "JavaScript",
-    "star": "26"
+    "star": "15"
   },
   {
     "title": "VoronDesign/VoronUsers",
@@ -130,7 +130,7 @@
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "C#",
-    "star": "8"
+    "star": "3"
   },
   {
     "title": "home-assistant/core",
@@ -158,7 +158,7 @@
     "url": "https://github.com/qier222/YesPlayMusic",
     "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
     "language": "Vue",
-    "star": "58"
+    "star": "135"
   },
   {
     "title": "requarks/wiki",
@@ -172,6 +172,6 @@
     "url": "https://github.com/PlaceNL/Bot",
     "description": "De r/place bot voor r/PlaceNL.",
     "language": "JavaScript",
-    "star": "65"
+    "star": "69"
   }
 ]
