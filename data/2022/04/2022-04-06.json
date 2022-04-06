@@ -11,21 +11,21 @@
     "url": "https://github.com/codeedu/imersao-7-codepix",
     "description": "",
     "language": "Go",
-    "star": "17"
+    "star": "20"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "6"
+    "star": "14"
   },
   {
     "title": "trufflesecurity/trufflehog",
     "url": "https://github.com/trufflesecurity/trufflehog",
     "description": "Find credentials all over the place",
     "language": "Go",
-    "star": "324"
+    "star": "242"
   },
   {
     "title": "Lissy93/personal-security-checklist",
@@ -39,7 +39,7 @@
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "JavaScript",
-    "star": "414"
+    "star": "413"
   },
   {
     "title": "shuax/chrome_plus",
@@ -67,35 +67,35 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "179"
+    "star": "190"
   },
   {
     "title": "NCSC-NL/spring4shell",
     "url": "https://github.com/NCSC-NL/spring4shell",
     "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework",
     "language": "Python",
-    "star": "24"
+    "star": "21"
   },
   {
     "title": "kris-nova/boopkit",
     "url": "https://github.com/kris-nova/boopkit",
     "description": "Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.",
     "language": "C",
-    "star": "83"
+    "star": "79"
   },
   {
     "title": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
     "description": "Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
     "language": "Java",
-    "star": "188"
+    "star": "186"
   },
   {
     "title": "saic-mdal/lama",
     "url": "https://github.com/saic-mdal/lama",
     "description": "🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
     "language": "Jupyter Notebook",
-    "star": "48"
+    "star": "67"
   },
   {
     "title": "shuax/edge_plus",
@@ -130,14 +130,14 @@
     "url": "https://github.com/s0md3v/Smap",
     "description": "a drop-in replacement for Nmap powered by shodan.io",
     "language": "Go",
-    "star": "194"
+    "star": "193"
   },
   {
     "title": "danielmiessler/SecLists",
     "url": "https://github.com/danielmiessler/SecLists",
     "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
     "language": "PHP",
-    "star": "45"
+    "star": "44"
   },
   {
     "title": "zbroyar/mass_killings",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "C#",
-    "star": "68"
+    "star": "19"
   },
   {
     "title": "saikou-app/saikou",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "108"
+    "star": "52"
   }
 ]
