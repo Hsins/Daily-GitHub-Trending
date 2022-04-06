@@ -4,7 +4,7 @@
     "url": "https://github.com/BoomingTech/Pilot",
     "description": "Pilot – mini game engine for games104",
     "language": "C++",
-    "star": "211"
+    "star": "210"
   },
   {
     "title": "codeedu/imersao-7-codepix",
@@ -25,28 +25,28 @@
     "url": "https://github.com/trufflesecurity/trufflehog",
     "description": "Find credentials all over the place",
     "language": "Go",
-    "star": "236"
+    "star": "330"
   },
   {
     "title": "Lissy93/personal-security-checklist",
     "url": "https://github.com/Lissy93/personal-security-checklist",
     "description": "🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021",
     "language": "none",
-    "star": "415"
+    "star": "326"
   },
   {
     "title": "Anduin2017/HowToCook",
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "JavaScript",
-    "star": "756"
+    "star": "414"
   },
   {
     "title": "shuax/chrome_plus",
     "url": "https://github.com/shuax/chrome_plus",
     "description": "Chrome 增强软件",
     "language": "C++",
-    "star": "27"
+    "star": "19"
   },
   {
     "title": "CompVis/latent-diffusion",
@@ -67,28 +67,28 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "172"
+    "star": "179"
   },
   {
     "title": "NCSC-NL/spring4shell",
     "url": "https://github.com/NCSC-NL/spring4shell",
     "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework",
     "language": "Python",
-    "star": "22"
+    "star": "24"
   },
   {
     "title": "kris-nova/boopkit",
     "url": "https://github.com/kris-nova/boopkit",
     "description": "Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.",
     "language": "C",
-    "star": "79"
+    "star": "84"
   },
   {
     "title": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
     "description": "Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
     "language": "Java",
-    "star": "219"
+    "star": "188"
   },
   {
     "title": "saic-mdal/lama",
@@ -109,28 +109,28 @@
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "166"
+    "star": "165"
   },
   {
     "title": "arthurspk/guiadobackend",
     "url": "https://github.com/arthurspk/guiadobackend",
     "description": "Guia do Desenvolvedor Back-end",
     "language": "none",
-    "star": "64"
+    "star": "60"
   },
   {
     "title": "Atmosphere-NX/Atmosphere",
     "url": "https://github.com/Atmosphere-NX/Atmosphere",
     "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
     "language": "C++",
-    "star": "30"
+    "star": "20"
   },
   {
     "title": "s0md3v/Smap",
     "url": "https://github.com/s0md3v/Smap",
     "description": "a drop-in replacement for Nmap powered by shodan.io",
     "language": "Go",
-    "star": "220"
+    "star": "194"
   },
   {
     "title": "danielmiessler/SecLists",
@@ -151,14 +151,14 @@
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "C#",
-    "star": "8"
+    "star": "67"
   },
   {
     "title": "saikou-app/saikou",
     "url": "https://github.com/saikou-app/saikou",
     "description": "An anilist only client, which lets you stream & download Anime & Manga.",
     "language": "Kotlin",
-    "star": "11"
+    "star": "14"
   },
   {
     "title": "microsoft/azure-pipelines-tasks",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "52"
+    "star": "126"
   }
 ]
