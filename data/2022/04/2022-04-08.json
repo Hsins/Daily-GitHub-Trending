@@ -4,14 +4,14 @@
     "url": "https://github.com/BoomingTech/Pilot",
     "description": "Pilot – mini game engine for games104",
     "language": "C++",
-    "star": "308"
+    "star": "313"
   },
   {
     "title": "codeedu/imersao-7-codepix",
     "url": "https://github.com/codeedu/imersao-7-codepix",
     "description": "",
     "language": "Go",
-    "star": "59"
+    "star": "62"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
@@ -25,112 +25,112 @@
     "url": "https://github.com/trufflesecurity/trufflehog",
     "description": "Find credentials all over the place",
     "language": "Go",
-    "star": "325"
+    "star": "232"
   },
   {
     "title": "Lissy93/personal-security-checklist",
     "url": "https://github.com/Lissy93/personal-security-checklist",
     "description": "🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021",
     "language": "none",
-    "star": "655"
+    "star": "658"
   },
   {
     "title": "Anduin2017/HowToCook",
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "JavaScript",
-    "star": "622"
+    "star": "542"
   },
   {
     "title": "shuax/chrome_plus",
     "url": "https://github.com/shuax/chrome_plus",
     "description": "Chrome 增强软件",
     "language": "C++",
-    "star": "80"
+    "star": "49"
   },
   {
     "title": "CompVis/latent-diffusion",
     "url": "https://github.com/CompVis/latent-diffusion",
     "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
     "language": "Jupyter Notebook",
-    "star": "151"
+    "star": "118"
   },
   {
     "title": "tgbot-collection/YYeTsBot",
     "url": "https://github.com/tgbot-collection/YYeTsBot",
     "description": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
     "language": "Python",
-    "star": "337"
+    "star": "336"
   },
   {
     "title": "appsmithorg/appsmith",
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "203"
+    "star": "249"
   },
   {
     "title": "NCSC-NL/spring4shell",
     "url": "https://github.com/NCSC-NL/spring4shell",
     "description": "Operational information regarding the Spring4Shell vulnerability in the Spring Core Framework",
     "language": "Python",
-    "star": "47"
+    "star": "50"
   },
   {
     "title": "kris-nova/boopkit",
     "url": "https://github.com/kris-nova/boopkit",
     "description": "Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.",
     "language": "C",
-    "star": "114"
+    "star": "86"
   },
   {
     "title": "kestra-io/kestra",
     "url": "https://github.com/kestra-io/kestra",
     "description": "Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
     "language": "Java",
-    "star": "147"
+    "star": "151"
   },
   {
     "title": "saic-mdal/lama",
     "url": "https://github.com/saic-mdal/lama",
     "description": "🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022",
     "language": "Jupyter Notebook",
-    "star": "201"
+    "star": "151"
   },
   {
     "title": "shuax/edge_plus",
     "url": "https://github.com/shuax/edge_plus",
     "description": "Chromium-based Edge 增强软件",
     "language": "C++",
-    "star": "44"
+    "star": "45"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "182"
+    "star": "188"
   },
   {
     "title": "arthurspk/guiadobackend",
     "url": "https://github.com/arthurspk/guiadobackend",
     "description": "Guia do Desenvolvedor Back-end",
     "language": "none",
-    "star": "56"
+    "star": "50"
   },
   {
     "title": "Atmosphere-NX/Atmosphere",
     "url": "https://github.com/Atmosphere-NX/Atmosphere",
     "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
     "language": "C++",
-    "star": "63"
+    "star": "56"
   },
   {
     "title": "s0md3v/Smap",
     "url": "https://github.com/s0md3v/Smap",
     "description": "a drop-in replacement for Nmap powered by shodan.io",
     "language": "Go",
-    "star": "125"
+    "star": "112"
   },
   {
     "title": "danielmiessler/SecLists",
@@ -144,7 +144,7 @@
     "url": "https://github.com/zbroyar/mass_killings",
     "description": "",
     "language": "none",
-    "star": "34"
+    "star": "35"
   },
   {
     "title": "Azure/azure-sdk-for-net",
@@ -158,20 +158,20 @@
     "url": "https://github.com/saikou-app/saikou",
     "description": "An anilist only client, which lets you stream & download Anime & Manga.",
     "language": "Kotlin",
-    "star": "258"
+    "star": "201"
   },
   {
     "title": "microsoft/azure-pipelines-tasks",
     "url": "https://github.com/microsoft/azure-pipelines-tasks",
     "description": "Tasks for Azure Pipelines",
     "language": "TypeScript",
-    "star": "45"
+    "star": "47"
   },
   {
     "title": "vercel/next.js",
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "276"
+    "star": "247"
   }
 ]
