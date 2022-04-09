@@ -1,0 +1,177 @@
+[
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "442"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "241"
+  },
+  {
+    "title": "lambda765/robFoodDD",
+    "url": "https://github.com/lambda765/robFoodDD",
+    "description": "辅助买菜",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "Skykai521/DingDongHelper",
+    "url": "https://github.com/Skykai521/DingDongHelper",
+    "description": "叮咚买菜抢菜插件",
+    "language": "Kotlin",
+    "star": "182"
+  },
+  {
+    "title": "trufflesecurity/trufflehog",
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "description": "Find credentials all over the place",
+    "language": "Go",
+    "star": "180"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "23"
+  },
+  {
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "language": "HTML",
+    "star": "76"
+  },
+  {
+    "title": "yoship1639/UniToon",
+    "url": "https://github.com/yoship1639/UniToon",
+    "description": "Physically-based Toon Shader for game applications. Compliant with Unity standard rendering functions. It is not targeted to be multifunctional in order to keep performance, but to be universally usable.",
+    "language": "ShaderLab",
+    "star": "25"
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "description": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "language": "Python",
+    "star": "225"
+  },
+  {
+    "title": "goldbergyoni/javascript-testing-best-practices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)",
+    "language": "JavaScript",
+    "star": "162"
+  },
+  {
+    "title": "vercel/pkg",
+    "url": "https://github.com/vercel/pkg",
+    "description": "Package your Node.js project into an executable",
+    "language": "JavaScript",
+    "star": "41"
+  },
+  {
+    "title": "peng-zhihui/ElectronBot",
+    "url": "https://github.com/peng-zhihui/ElectronBot",
+    "description": "",
+    "language": "C",
+    "star": "34"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "language": "Python",
+    "star": "85"
+  },
+  {
+    "title": "BabylonJS/Babylon.js",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "language": "JavaScript",
+    "star": "17"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "description": "A Django content management system focused on flexibility and user experience",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "brettwooldridge/HikariCP",
+    "url": "https://github.com/brettwooldridge/HikariCP",
+    "description": "光 HikariCP・A solid, high-performance, JDBC connection pool at last.",
+    "language": "Java",
+    "star": "3"
+  },
+  {
+    "title": "microsoft/azure-pipelines-tasks",
+    "url": "https://github.com/microsoft/azure-pipelines-tasks",
+    "description": "Tasks for Azure Pipelines",
+    "language": "TypeScript",
+    "star": "36"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "246"
+  },
+  {
+    "title": "rome/tools",
+    "url": "https://github.com/rome/tools",
+    "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "language": "Rust",
+    "star": "54"
+  },
+  {
+    "title": "apache/incubator-shenyu",
+    "url": "https://github.com/apache/incubator-shenyu",
+    "description": "ShenYu is High-Performance Java API Gateway.",
+    "language": "Java",
+    "star": "6"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "41"
+  },
+  {
+    "title": "jozhn/ddmc.monitor",
+    "url": "https://github.com/jozhn/ddmc.monitor",
+    "description": "叮咚买菜 运力监控",
+    "language": "Python",
+    "star": "6"
+  },
+  {
+    "title": "Kindelia/HVM",
+    "url": "https://github.com/Kindelia/HVM",
+    "description": "A massively parallel, optimal functional runtime in Rust",
+    "language": "Rust",
+    "star": "6"
+  },
+  {
+    "title": "qulingyuan/robVeg",
+    "url": "https://github.com/qulingyuan/robVeg",
+    "description": "美团买菜 抢菜脚本",
+    "language": "JavaScript",
+    "star": "86"
+  },
+  {
+    "title": "google/re2",
+    "url": "https://github.com/google/re2",
+    "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+    "language": "C++",
+    "star": "7"
+  }
+]
