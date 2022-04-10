@@ -4,14 +4,14 @@
     "url": "https://github.com/a-little-org-called-mario/a-little-game-called-mario",
     "description": "open source collective hell game",
     "language": "GDScript",
-    "star": "111"
+    "star": "170"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "432"
+    "star": "434"
   },
   {
     "title": "skyline-emu/skyline",
@@ -25,7 +25,7 @@
     "url": "https://github.com/Skykai521/DingDongHelper",
     "description": "叮咚买菜抢菜插件",
     "language": "Kotlin",
-    "star": "157"
+    "star": "165"
   },
   {
     "title": "fullhunt/spring4shell-scan",
@@ -39,14 +39,14 @@
     "url": "https://github.com/rome/tools",
     "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
     "language": "Rust",
-    "star": "156"
+    "star": "56"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "245"
+    "star": "227"
   },
   {
     "title": "public-apis/public-apis",
@@ -60,7 +60,7 @@
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "34"
+    "star": "47"
   },
   {
     "title": "robvdpol/RaceControl",
@@ -81,7 +81,7 @@
     "url": "https://github.com/lucidrains/DALLE2-pytorch",
     "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
     "language": "Python",
-    "star": "87"
+    "star": "73"
   },
   {
     "title": "Zaplib/zaplib",
@@ -102,7 +102,7 @@
     "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
     "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)",
     "language": "JavaScript",
-    "star": "175"
+    "star": "162"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
@@ -116,14 +116,14 @@
     "url": "https://github.com/ClemensElflein/OpenMower",
     "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
     "language": "HTML",
-    "star": "81"
+    "star": "158"
   },
   {
     "title": "Kaiyiwing/qwerty-learner",
     "url": "https://github.com/Kaiyiwing/qwerty-learner",
     "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
     "language": "TypeScript",
-    "star": "70"
+    "star": "68"
   },
   {
     "title": "bitcoin/bitcoin",
@@ -137,14 +137,14 @@
     "url": "https://github.com/Infatuation-Fei/rule",
     "description": "自用规则",
     "language": "none",
-    "star": "64"
+    "star": "42"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "58"
+    "star": "53"
   },
   {
     "title": "blackmatrix7/ios_rule_script",
@@ -158,7 +158,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "186"
+    "star": "184"
   },
   {
     "title": "LSPosed/MagiskOnWSA",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vercel/turborepo",
     "description": "The High-performance Build System for JavaScript & TypeScript Codebases",
     "language": "Go",
-    "star": "41"
+    "star": "59"
   }
 ]
