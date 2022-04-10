@@ -4,14 +4,14 @@
     "url": "https://github.com/a-little-org-called-mario/a-little-game-called-mario",
     "description": "open source collective hell game",
     "language": "GDScript",
-    "star": "151"
+    "star": "111"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "441"
+    "star": "432"
   },
   {
     "title": "skyline-emu/skyline",
@@ -25,7 +25,7 @@
     "url": "https://github.com/Skykai521/DingDongHelper",
     "description": "叮咚买菜抢菜插件",
     "language": "Kotlin",
-    "star": "165"
+    "star": "157"
   },
   {
     "title": "fullhunt/spring4shell-scan",
@@ -39,35 +39,35 @@
     "url": "https://github.com/rome/tools",
     "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
     "language": "Rust",
-    "star": "54"
+    "star": "156"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "246"
+    "star": "245"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "106"
+    "star": "133"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "45"
+    "star": "34"
   },
   {
     "title": "robvdpol/RaceControl",
     "url": "https://github.com/robvdpol/RaceControl",
     "description": "Race Control is a standalone, open source F1TV client for Windows, written in C# on the .NET platform.",
     "language": "C#",
-    "star": "27"
+    "star": "20"
   },
   {
     "title": "singularity-data/risingwave",
@@ -81,7 +81,7 @@
     "url": "https://github.com/lucidrains/DALLE2-pytorch",
     "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
     "language": "Python",
-    "star": "72"
+    "star": "87"
   },
   {
     "title": "Zaplib/zaplib",
@@ -102,7 +102,7 @@
     "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
     "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)",
     "language": "JavaScript",
-    "star": "172"
+    "star": "175"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
@@ -116,14 +116,14 @@
     "url": "https://github.com/ClemensElflein/OpenMower",
     "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
     "language": "HTML",
-    "star": "75"
+    "star": "81"
   },
   {
     "title": "Kaiyiwing/qwerty-learner",
     "url": "https://github.com/Kaiyiwing/qwerty-learner",
     "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
     "language": "TypeScript",
-    "star": "59"
+    "star": "70"
   },
   {
     "title": "bitcoin/bitcoin",
@@ -137,14 +137,14 @@
     "url": "https://github.com/Infatuation-Fei/rule",
     "description": "自用规则",
     "language": "none",
-    "star": "73"
+    "star": "64"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "59"
+    "star": "58"
   },
   {
     "title": "blackmatrix7/ios_rule_script",
@@ -158,7 +158,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "178"
+    "star": "186"
   },
   {
     "title": "LSPosed/MagiskOnWSA",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vercel/turborepo",
     "description": "The High-performance Build System for JavaScript & TypeScript Codebases",
     "language": "Go",
-    "star": "38"
+    "star": "41"
   }
 ]
