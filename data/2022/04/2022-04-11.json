@@ -4,7 +4,7 @@
     "url": "https://github.com/ekzhang/bore",
     "description": "🕳 bore is a simple CLI tool for making tunnels to localhost",
     "language": "Rust",
-    "star": "528"
+    "star": "623"
   },
   {
     "title": "papers-we-love/papers-we-love",
@@ -32,14 +32,14 @@
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "124"
+    "star": "123"
   },
   {
     "title": "bitcoin/bitcoin",
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "33"
+    "star": "92"
   },
   {
     "title": "CodeEditApp/CodeEdit",
@@ -53,28 +53,28 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "201"
+    "star": "161"
   },
   {
     "title": "vxunderground/MalwareSourceCode",
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "200"
+    "star": "47"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "209"
+    "star": "356"
   },
   {
     "title": "atom/atom",
     "url": "https://github.com/atom/atom",
     "description": "The hackable text editor",
     "language": "JavaScript",
-    "star": "43"
+    "star": "20"
   },
   {
     "title": "PwnFunction/CVE-2021-4034",
@@ -88,21 +88,21 @@
     "url": "https://github.com/ClemensElflein/OpenMower",
     "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
     "language": "HTML",
-    "star": "155"
+    "star": "148"
   },
   {
     "title": "a-little-org-called-mario/a-little-game-called-mario",
     "url": "https://github.com/a-little-org-called-mario/a-little-game-called-mario",
     "description": "open source collective hell game",
     "language": "GDScript",
-    "star": "107"
+    "star": "249"
   },
   {
     "title": "mrd0x/BITB",
     "url": "https://github.com/mrd0x/BITB",
     "description": "Browser In The Browser (BITB) Templates",
     "language": "JavaScript",
-    "star": "45"
+    "star": "51"
   },
   {
     "title": "vimallinuxworld13/AWS_workshop_2022_data",
@@ -116,56 +116,56 @@
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "72"
+    "star": "78"
   },
   {
     "title": "discordjs/discord.js",
     "url": "https://github.com/discordjs/discord.js",
     "description": "A powerful JavaScript library for interacting with the Discord API",
     "language": "JavaScript",
-    "star": "52"
+    "star": "17"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "284"
+    "star": "275"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "75"
+    "star": "79"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "82"
+    "star": "74"
   },
   {
     "title": "rome/tools",
     "url": "https://github.com/rome/tools",
     "description": "The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
     "language": "Rust",
-    "star": "239"
+    "star": "250"
   },
   {
     "title": "opengs/uashield",
     "url": "https://github.com/opengs/uashield",
     "description": "Voluntary Ukraine security platform to protect us from Russian forces in the Internet",
     "language": "TypeScript",
-    "star": "10"
+    "star": "9"
   },
   {
     "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
     "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
     "description": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
     "language": "none",
-    "star": "49"
+    "star": "71"
   },
   {
     "title": "github/docs",
