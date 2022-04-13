@@ -1,0 +1,177 @@
+[
+  {
+    "title": "JannsenYang/dingdong-helper",
+    "url": "https://github.com/JannsenYang/dingdong-helper",
+    "description": "叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可",
+    "language": "Java",
+    "star": "43"
+  },
+  {
+    "title": "ekzhang/bore",
+    "url": "https://github.com/ekzhang/bore",
+    "description": "🕳 bore is a simple CLI tool for making tunnels to localhost",
+    "language": "Rust",
+    "star": "754"
+  },
+  {
+    "title": "chiru-labs/ERC721A",
+    "url": "https://github.com/chiru-labs/ERC721A",
+    "description": "https://ERC721A.org",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Shell",
+    "star": "474"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "archway-network/testnets",
+    "url": "https://github.com/archway-network/testnets",
+    "description": "This repository contains archway testnets",
+    "language": "none",
+    "star": "24"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "356"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning",
+    "description": "Resources for deep learning with satellite & aerial imagery",
+    "language": "none",
+    "star": "173"
+  },
+  {
+    "title": "goldbergyoni/javascript-testing-best-practices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "description": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)",
+    "language": "JavaScript",
+    "star": "514"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (March 2022)",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "gakonst/foundry",
+    "url": "https://github.com/gakonst/foundry",
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "language": "Rust",
+    "star": "23"
+  },
+  {
+    "title": "oneThousand1000/non-hair-FFHQ",
+    "url": "https://github.com/oneThousand1000/non-hair-FFHQ",
+    "description": "A dataset that contains 6,000 non-hair FFHQ portraits.",
+    "language": "none",
+    "star": "26"
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "description": "Like Prometheus, but for logs.",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "Sjj1024/QiangCai",
+    "url": "https://github.com/Sjj1024/QiangCai",
+    "description": "上海疫情被封在家，开始抢菜之路，美团抢菜，叮咚抢菜，抢菜",
+    "language": "Python",
+    "star": "14"
+  },
+  {
+    "title": "projectdiscovery/subfinder",
+    "url": "https://github.com/projectdiscovery/subfinder",
+    "description": "Subfinder is a subdomain discovery tool that discovers valid subdomains for websites. Designed as a passive framework to be useful for bug bounties and safe for penetration testing.",
+    "language": "Go",
+    "star": "12"
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "description": "Production-Grade Container Scheduling and Management",
+    "language": "Go",
+    "star": "45"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "143"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "mlcommons/inference",
+    "url": "https://github.com/mlcommons/inference",
+    "description": "Reference implementations of MLPerf™ inference benchmarks",
+    "language": "Python",
+    "star": "9"
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "250"
+  },
+  {
+    "title": "ern0/howto-wasm-minimal",
+    "url": "https://github.com/ern0/howto-wasm-minimal",
+    "description": "How to create minimal wasm module",
+    "language": "C++",
+    "star": "62"
+  },
+  {
+    "title": "projectdiscovery/uncover",
+    "url": "https://github.com/projectdiscovery/uncover",
+    "description": "Quickly discover exposed hosts on the internet using multiple search engine.",
+    "language": "Go",
+    "star": "58"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "tc39/proposals",
+    "url": "https://github.com/tc39/proposals",
+    "description": "Tracking ECMAScript Proposals",
+    "language": "none",
+    "star": "11"
+  },
+  {
+    "title": "archway-network/testnet-signer",
+    "url": "https://github.com/archway-network/testnet-signer",
+    "description": "Small utility to sign a small json containing basic kyc information. The key generated by it is fully compatible with cosmos based chains.",
+    "language": "Go",
+    "star": "2"
+  }
+]
