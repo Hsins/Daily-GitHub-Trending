@@ -11,105 +11,105 @@
     "url": "https://github.com/JannsenYang/dingdong-helper",
     "description": "叮咚自动下单 并发调用接口方式 多人高峰期实战反馈10秒以内成功 自动将购物车能买的商品全部下单 只需自行编辑购物车和最后支付即可",
     "language": "Java",
-    "star": "136"
+    "star": "97"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "381"
+    "star": "431"
   },
   {
     "title": "The-Run-Philosophy-Organization/run",
     "url": "https://github.com/The-Run-Philosophy-Organization/run",
     "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
     "language": "none",
-    "star": "881"
+    "star": "798"
   },
   {
     "title": "TheCherno/Walnut",
     "url": "https://github.com/TheCherno/Walnut",
     "description": "Walnut is a simple application framework for Vulkan and Dear ImGui apps",
     "language": "C++",
-    "star": "50"
+    "star": "49"
   },
   {
     "title": "fighting41love/funNLP",
     "url": "https://github.com/fighting41love/funNLP",
     "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
     "language": "Python",
-    "star": "215"
+    "star": "130"
   },
   {
     "title": "pystardust/ani-cli",
     "url": "https://github.com/pystardust/ani-cli",
     "description": "A cli tool to browse and play anime",
     "language": "Shell",
-    "star": "107"
+    "star": "108"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "JavaScript",
-    "star": "75"
+    "star": "77"
   },
   {
     "title": "pytube/pytube",
     "url": "https://github.com/pytube/pytube",
     "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
     "language": "Python",
-    "star": "15"
+    "star": "18"
   },
   {
     "title": "azhan1998/sam_buy",
     "url": "https://github.com/azhan1998/sam_buy",
     "description": "山姆买菜",
     "language": "Python",
-    "star": "27"
+    "star": "41"
   },
   {
     "title": "facebook/lexical",
     "url": "https://github.com/facebook/lexical",
     "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
     "language": "JavaScript",
-    "star": "726"
+    "star": "660"
   },
   {
     "title": "zc2638/ddshop",
     "url": "https://github.com/zc2638/ddshop",
     "description": "叮咚买菜自动抢购下单程序",
     "language": "Go",
-    "star": "47"
+    "star": "59"
   },
   {
     "title": "medusajs/medusa",
     "url": "https://github.com/medusajs/medusa",
     "description": "The open-source Shopify alternative ⚡️",
     "language": "JavaScript",
-    "star": "122"
+    "star": "197"
   },
   {
     "title": "zbroyar/mass_killings",
     "url": "https://github.com/zbroyar/mass_killings",
     "description": "Ми вважаємо, що РФ планувала вбивати цивільних на окупованих територіях заздалегідь. Дивіться самі.",
     "language": "none",
-    "star": "35"
+    "star": "23"
   },
   {
     "title": "diasurgical/devilutionX",
     "url": "https://github.com/diasurgical/devilutionX",
     "description": "Diablo build for modern operating systems",
     "language": "C++",
-    "star": "142"
+    "star": "125"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "89"
+    "star": "94"
   },
   {
     "title": "topjohnwu/Magisk",
@@ -123,28 +123,28 @@
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "78"
+    "star": "81"
   },
   {
     "title": "robGoods/sams",
     "url": "https://github.com/robGoods/sams",
     "description": "山姆抢购",
     "language": "Go",
-    "star": "15"
+    "star": "30"
   },
   {
     "title": "freeCodeCamp/devdocs",
     "url": "https://github.com/freeCodeCamp/devdocs",
     "description": "API Documentation Browser",
     "language": "Ruby",
-    "star": "40"
+    "star": "25"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "75"
+    "star": "85"
   },
   {
     "title": "bradtraversy/design-resources-for-developers",
@@ -165,13 +165,13 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "357"
+    "star": "535"
   },
   {
     "title": "bevyengine/bevy",
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "43"
+    "star": "74"
   }
 ]
