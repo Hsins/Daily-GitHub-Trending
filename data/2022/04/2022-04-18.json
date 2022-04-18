@@ -11,35 +11,35 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "550"
+    "star": "501"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "395"
+    "star": "479"
   },
   {
     "title": "termux/termux-packages",
     "url": "https://github.com/termux/termux-packages",
     "description": "A build system and primary set of packages for Termux.",
     "language": "Shell",
-    "star": "13"
+    "star": "37"
   },
   {
     "title": "trustwallet/assets",
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "Go",
-    "star": "7"
+    "star": "6"
   },
   {
     "title": "TheCherno/Walnut",
     "url": "https://github.com/TheCherno/Walnut",
     "description": "Walnut is a simple application framework for Vulkan and Dear ImGui apps",
     "language": "C++",
-    "star": "52"
+    "star": "58"
   },
   {
     "title": "MarlinFirmware/Marlin",
@@ -53,35 +53,35 @@
     "url": "https://github.com/ciderapp/Cider",
     "description": "A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀",
     "language": "JavaScript",
-    "star": "18"
+    "star": "49"
   },
   {
     "title": "diasurgical/devilutionX",
     "url": "https://github.com/diasurgical/devilutionX",
     "description": "Diablo build for modern operating systems",
     "language": "C++",
-    "star": "125"
+    "star": "95"
   },
   {
     "title": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "robGoods/sams",
     "url": "https://github.com/robGoods/sams",
     "description": "山姆抢购",
     "language": "Go",
-    "star": "31"
+    "star": "32"
   },
   {
     "title": "bradtraversy/design-resources-for-developers",
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "70"
+    "star": "384"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
@@ -95,70 +95,70 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a developer in 2022",
     "language": "TypeScript",
-    "star": "155"
+    "star": "152"
   },
   {
     "title": "ytdl-org/youtube-dl",
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "100"
+    "star": "122"
   },
   {
     "title": "imchillin/Anamnesis",
     "url": "https://github.com/imchillin/Anamnesis",
     "description": "A standalone tool that allows the user a greater degree of flexibility for making creative and interesting screenshots.",
     "language": "C#",
-    "star": "5"
+    "star": "4"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "102"
+    "star": "108"
   },
   {
     "title": "azhan1998/sam_buy",
     "url": "https://github.com/azhan1998/sam_buy",
     "description": "山姆买菜",
     "language": "Python",
-    "star": "32"
+    "star": "34"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "291"
+    "star": "233"
   },
   {
     "title": "hehonghui/the-economist-ebooks",
     "url": "https://github.com/hehonghui/the-economist-ebooks",
     "description": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
     "language": "CSS",
-    "star": "88"
+    "star": "92"
   },
   {
     "title": "linkedin/feathr",
     "url": "https://github.com/linkedin/feathr",
     "description": "Feathr – An Enterprise-Grade, High Performance Feature Store",
     "language": "Scala",
-    "star": "60"
+    "star": "61"
   },
   {
     "title": "zc2638/ddshop",
     "url": "https://github.com/zc2638/ddshop",
     "description": "一个以 叮咚买菜自动抢购 为案例的自动化程序",
     "language": "Go",
-    "star": "71"
+    "star": "33"
   },
   {
     "title": "MLEveryday/100-Days-Of-ML-Code",
     "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
     "description": "100-Days-Of-ML-Code中文版",
     "language": "Jupyter Notebook",
-    "star": "44"
+    "star": "38"
   },
   {
     "title": "LSPosed/MagiskOnWSA",
@@ -172,6 +172,6 @@
     "url": "https://github.com/neovim/neovim",
     "description": "Vim-fork focused on extensibility and usability",
     "language": "Vim script",
-    "star": "46"
+    "star": "48"
   }
 ]
