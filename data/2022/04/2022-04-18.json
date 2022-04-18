@@ -11,21 +11,21 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "501"
+    "star": "550"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "479"
+    "star": "425"
   },
   {
     "title": "termux/termux-packages",
     "url": "https://github.com/termux/termux-packages",
     "description": "A build system and primary set of packages for Termux.",
     "language": "Shell",
-    "star": "37"
+    "star": "20"
   },
   {
     "title": "trustwallet/assets",
@@ -53,14 +53,14 @@
     "url": "https://github.com/ciderapp/Cider",
     "description": "A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀",
     "language": "JavaScript",
-    "star": "49"
+    "star": "18"
   },
   {
     "title": "diasurgical/devilutionX",
     "url": "https://github.com/diasurgical/devilutionX",
     "description": "Diablo build for modern operating systems",
     "language": "C++",
-    "star": "95"
+    "star": "98"
   },
   {
     "title": "sherlock-project/sherlock",
@@ -81,7 +81,7 @@
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "384"
+    "star": "221"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
@@ -102,7 +102,7 @@
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "122"
+    "star": "99"
   },
   {
     "title": "imchillin/Anamnesis",
@@ -116,28 +116,28 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "108"
+    "star": "101"
   },
   {
     "title": "azhan1998/sam_buy",
     "url": "https://github.com/azhan1998/sam_buy",
     "description": "山姆买菜",
     "language": "Python",
-    "star": "34"
+    "star": "37"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "233"
+    "star": "111"
   },
   {
     "title": "hehonghui/the-economist-ebooks",
     "url": "https://github.com/hehonghui/the-economist-ebooks",
     "description": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
     "language": "CSS",
-    "star": "92"
+    "star": "65"
   },
   {
     "title": "linkedin/feathr",
@@ -151,7 +151,7 @@
     "url": "https://github.com/zc2638/ddshop",
     "description": "一个以 叮咚买菜自动抢购 为案例的自动化程序",
     "language": "Go",
-    "star": "33"
+    "star": "54"
   },
   {
     "title": "MLEveryday/100-Days-Of-ML-Code",
