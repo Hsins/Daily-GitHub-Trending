@@ -1,0 +1,177 @@
+[
+  {
+    "title": "inventree/InvenTree",
+    "url": "https://github.com/inventree/InvenTree",
+    "description": "Open Source Inventory Management System",
+    "language": "JavaScript",
+    "star": "38"
+  },
+  {
+    "title": "robGoods/sams",
+    "url": "https://github.com/robGoods/sams",
+    "description": "山姆抢购",
+    "language": "Go",
+    "star": "44"
+  },
+  {
+    "title": "fighting41love/funNLP",
+    "url": "https://github.com/fighting41love/funNLP",
+    "description": "中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取工具、国内电话号码正则匹配、清华大学XLORE:中英文跨语言百科知识图谱、清华大学人工智能技术…",
+    "language": "Python",
+    "star": "163"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+    "language": "JavaScript",
+    "star": "24"
+  },
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "description": "程序员延寿指南 | A programmer's guide to live longer",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "kagancapar/CVE-2022-29072",
+    "url": "https://github.com/kagancapar/CVE-2022-29072",
+    "description": "7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area.",
+    "language": "HTML",
+    "star": "175"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "description": "📺 A place to discover the latest machine learning courses on YouTube.",
+    "language": "none",
+    "star": "276"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "584"
+  },
+  {
+    "title": "memcached/memcached",
+    "url": "https://github.com/memcached/memcached",
+    "description": "memcached development tree",
+    "language": "C",
+    "star": "5"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a spreadsheet with REST APIs.",
+    "language": "TypeScript",
+    "star": "71"
+  },
+  {
+    "title": "MLNLP-World/Paper_Writing_Tips",
+    "url": "https://github.com/MLNLP-World/Paper_Writing_Tips",
+    "description": "",
+    "language": "none",
+    "star": "171"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "description": "A layer 1 for everyone!",
+    "language": "Rust",
+    "star": "193"
+  },
+  {
+    "title": "alembics/disco-diffusion",
+    "url": "https://github.com/alembics/disco-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "64"
+  },
+  {
+    "title": "YunYouJun/cook",
+    "url": "https://github.com/YunYouJun/cook",
+    "description": "🍲 好的，今天我们来做菜！",
+    "language": "Vue",
+    "star": "380"
+  },
+  {
+    "title": "firefart/stunner",
+    "url": "https://github.com/firefart/stunner",
+    "description": "Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.",
+    "language": "Go",
+    "star": "18"
+  },
+  {
+    "title": "nv-tlabs/editGAN_release",
+    "url": "https://github.com/nv-tlabs/editGAN_release",
+    "description": "",
+    "language": "Python",
+    "star": "41"
+  },
+  {
+    "title": "s0md3v/Smap",
+    "url": "https://github.com/s0md3v/Smap",
+    "description": "a drop-in replacement for Nmap powered by shodan.io",
+    "language": "Go",
+    "star": "15"
+  },
+  {
+    "title": "azhan1998/sam_buy",
+    "url": "https://github.com/azhan1998/sam_buy",
+    "description": "山姆买菜",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "httpie/httpie",
+    "url": "https://github.com/httpie/httpie",
+    "description": "As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "realm/realm-swift",
+    "url": "https://github.com/realm/realm-swift",
+    "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
+    "language": "Objective-C",
+    "star": "2"
+  },
+  {
+    "title": "hexops/mach",
+    "url": "https://github.com/hexops/mach",
+    "description": "Mach is a game engine & graphics toolkit for the future.",
+    "language": "C++",
+    "star": "5"
+  },
+  {
+    "title": "lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools",
+    "url": "https://github.com/lidangzzz/Best-Practice-for-Building-A-Startup-in-Delaware-with-Tech-Tools",
+    "description": "美国华人技术创业的快速公司/银行/税务/投资操作白皮书",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "freenet/locutus",
+    "url": "https://github.com/freenet/locutus",
+    "description": "Declare your digital independence",
+    "language": "Rust",
+    "star": "266"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "153"
+  },
+  {
+    "title": "imchillin/Anamnesis",
+    "url": "https://github.com/imchillin/Anamnesis",
+    "description": "A standalone tool that allows the user a greater degree of flexibility for making creative and interesting screenshots.",
+    "language": "C#",
+    "star": "76"
+  }
+]
