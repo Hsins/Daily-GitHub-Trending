@@ -11,7 +11,7 @@
     "url": "https://github.com/Leaflet/Leaflet",
     "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
     "language": "JavaScript",
-    "star": "55"
+    "star": "56"
   },
   {
     "title": "geekan/HowToLiveLonger",
@@ -25,28 +25,28 @@
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "Go",
-    "star": "30"
+    "star": "17"
   },
   {
     "title": "calcom/cal.com",
     "url": "https://github.com/calcom/cal.com",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
-    "star": "32"
+    "star": "93"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "189"
+    "star": "143"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "264"
+    "star": "144"
   },
   {
     "title": "inventree/InvenTree",
@@ -60,21 +60,21 @@
     "url": "https://github.com/kagancapar/CVE-2022-29072",
     "description": "7-Zip through 21.07 on Windows allows privilege escalation and command execution when a file with the .7z extension is dragged to the Help>Contents area.",
     "language": "HTML",
-    "star": "89"
+    "star": "157"
   },
   {
     "title": "freenet/locutus",
     "url": "https://github.com/freenet/locutus",
     "description": "Declare your digital independence",
     "language": "Rust",
-    "star": "186"
+    "star": "233"
   },
   {
     "title": "MLEveryday/100-Days-Of-ML-Code",
     "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
     "description": "100-Days-Of-ML-Code中文版",
     "language": "Jupyter Notebook",
-    "star": "40"
+    "star": "29"
   },
   {
     "title": "hehonghui/the-economist-ebooks",
@@ -88,56 +88,56 @@
     "url": "https://github.com/remix-run/remix",
     "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
     "language": "TypeScript",
-    "star": "42"
+    "star": "104"
   },
   {
     "title": "nushell/nushell",
     "url": "https://github.com/nushell/nushell",
     "description": "A new type of shell",
     "language": "Rust",
-    "star": "117"
+    "star": "120"
   },
   {
     "title": "Grasscutters/Grasscutter",
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A Genshin server emulator",
     "language": "Java",
-    "star": "43"
+    "star": "34"
   },
   {
     "title": "gin-gonic/gin",
     "url": "https://github.com/gin-gonic/gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "language": "Go",
-    "star": "48"
+    "star": "84"
   },
   {
     "title": "kedro-org/kedro",
     "url": "https://github.com/kedro-org/kedro",
     "description": "A Python framework for creating reproducible, maintainable and modular data science code.",
     "language": "Python",
-    "star": "18"
+    "star": "79"
   },
   {
     "title": "mxgmn/WaveFunctionCollapse",
     "url": "https://github.com/mxgmn/WaveFunctionCollapse",
     "description": "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics",
     "language": "C#",
-    "star": "37"
+    "star": "34"
   },
   {
     "title": "robGoods/sams",
     "url": "https://github.com/robGoods/sams",
     "description": "山姆抢购",
     "language": "Go",
-    "star": "77"
+    "star": "69"
   },
   {
     "title": "jCodeLife/mind-map",
     "url": "https://github.com/jCodeLife/mind-map",
     "description": "🖼个人思维导图笔记，已整理JS、TS、Vue、React ... 持续更新中，欢迎 PR 和 Start~",
     "language": "none",
-    "star": "42"
+    "star": "22"
   },
   {
     "title": "protocolbuffers/protobuf",
@@ -151,21 +151,21 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a developer in 2022",
     "language": "TypeScript",
-    "star": "148"
+    "star": "213"
   },
   {
     "title": "Alamofire/Alamofire",
     "url": "https://github.com/Alamofire/Alamofire",
     "description": "Elegant HTTP Networking in Swift",
     "language": "Swift",
-    "star": "14"
+    "star": "11"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "69"
+    "star": "90"
   },
   {
     "title": "realm/realm-swift",
