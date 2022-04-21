@@ -1,0 +1,177 @@
+[
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "description": "程序员延寿指南 | A programmer's guide to live longer",
+    "language": "none",
+    "star": "2"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "96"
+  },
+  {
+    "title": "ydb-platform/ydb",
+    "url": "https://github.com/ydb-platform/ydb",
+    "description": "YDB server (daemon) source code",
+    "language": "C++",
+    "star": "338"
+  },
+  {
+    "title": "inventree/InvenTree",
+    "url": "https://github.com/inventree/InvenTree",
+    "description": "Open Source Inventory Management System",
+    "language": "JavaScript",
+    "star": "306"
+  },
+  {
+    "title": "realm/realm-swift",
+    "url": "https://github.com/realm/realm-swift",
+    "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
+    "language": "Objective-C",
+    "star": "76"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "language": "Python",
+    "star": "41"
+  },
+  {
+    "title": "PaddlePaddle/PaddleDetection",
+    "url": "https://github.com/PaddlePaddle/PaddleDetection",
+    "description": "Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.",
+    "language": "Python",
+    "star": "82"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+    "language": "JavaScript",
+    "star": "184"
+  },
+  {
+    "title": "google/libphonenumber",
+    "url": "https://github.com/google/libphonenumber",
+    "description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.",
+    "language": "C++",
+    "star": "12"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "33"
+  },
+  {
+    "title": "ClemensElflein/OpenMower",
+    "url": "https://github.com/ClemensElflein/OpenMower",
+    "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+    "language": "HTML",
+    "star": "178"
+  },
+  {
+    "title": "Chia-Network/chia-blockchain",
+    "url": "https://github.com/Chia-Network/chia-blockchain",
+    "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "language": "Java",
+    "star": "36"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "description": "Scheduling infrastructure for absolutely everyone.",
+    "language": "TypeScript",
+    "star": "79"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "language": "Go",
+    "star": "23"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "language": "TypeScript",
+    "star": "33"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "star": "33"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "description": "🔥 🔥 🔥 Open Source Airtable Alternative - turns any MySQL, Postgres, SQLite into a Spreadsheet with REST APIs.",
+    "language": "TypeScript",
+    "star": "92"
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "description": "Zinc Search engine. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Go",
+    "star": "82"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "38"
+  },
+  {
+    "title": "pmmp/PocketMine-MP",
+    "url": "https://github.com/pmmp/PocketMine-MP",
+    "description": "A server software for Minecraft: Bedrock Edition in PHP",
+    "language": "PHP",
+    "star": "3"
+  },
+  {
+    "title": "dbeaver/dbeaver",
+    "url": "https://github.com/dbeaver/dbeaver",
+    "description": "Free universal database tool and SQL client",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "mattermost/mattermost-server",
+    "url": "https://github.com/mattermost/mattermost-server",
+    "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "description": "Fig adds autocomplete to your terminal.",
+    "language": "TypeScript",
+    "star": "182"
+  },
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "description": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
+    "language": "Java",
+    "star": "41"
+  }
+]
