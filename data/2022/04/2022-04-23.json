@@ -4,7 +4,7 @@
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "216"
+    "star": "217"
   },
   {
     "title": "AykutSarac/jsonvisio.com",
@@ -18,7 +18,7 @@
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "urfave/cli",
@@ -46,14 +46,14 @@
     "url": "https://github.com/bloomberg/memray",
     "description": "Memray is a memory profiler for Python",
     "language": "Python",
-    "star": "1"
+    "star": "714"
   },
   {
     "title": "withfig/autocomplete",
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "100"
+    "star": "117"
   },
   {
     "title": "starship/starship",
@@ -67,21 +67,21 @@
     "url": "https://github.com/catchorg/Catch2",
     "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
     "language": "C++",
-    "star": "15"
+    "star": "39"
   },
   {
     "title": "localstack/localstack",
     "url": "https://github.com/localstack/localstack",
     "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
     "language": "Python",
-    "star": "258"
+    "star": "249"
   },
   {
     "title": "ClemensElflein/OpenMower",
     "url": "https://github.com/ClemensElflein/OpenMower",
     "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
     "language": "HTML",
-    "star": "160"
+    "star": "158"
   },
   {
     "title": "VirgilClyne/iRingo",
@@ -95,7 +95,7 @@
     "url": "https://github.com/hehonghui/the-economist-ebooks",
     "description": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
     "language": "CSS",
-    "star": "103"
+    "star": "104"
   },
   {
     "title": "Anduin2017/HowToCook",
@@ -109,7 +109,7 @@
     "url": "https://github.com/wisdompeak/LeetCode",
     "description": "This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.",
     "language": "C++",
-    "star": "34"
+    "star": "33"
   },
   {
     "title": "doocs/advanced-java",
@@ -130,14 +130,14 @@
     "url": "https://github.com/hakivvi/CVE-2022-29464",
     "description": "WSO2 RCE (CVE-2022-29464) exploit and writeup.",
     "language": "Python",
-    "star": "39"
+    "star": "53"
   },
   {
     "title": "diesel-rs/diesel",
     "url": "https://github.com/diesel-rs/diesel",
     "description": "A safe, extensible ORM and Query Builder for Rust",
     "language": "Rust",
-    "star": "16"
+    "star": "15"
   },
   {
     "title": "Courseplay/Courseplay_FS22",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "25"
+    "star": "29"
   },
   {
     "title": "warpdotdev/Warp",
@@ -165,13 +165,13 @@
     "url": "https://github.com/mxgmn/WaveFunctionCollapse",
     "description": "Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics",
     "language": "C#",
-    "star": "63"
+    "star": "64"
   },
   {
     "title": "dair-ai/ML-Notebooks",
     "url": "https://github.com/dair-ai/ML-Notebooks",
     "description": "🔥 A series of code examples for all sorts of machine learning tasks and applications.",
     "language": "none",
-    "star": "175"
+    "star": "59"
   }
 ]
