@@ -4,7 +4,7 @@
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "217"
+    "star": "224"
   },
   {
     "title": "AykutSarac/jsonvisio.com",
@@ -18,7 +18,7 @@
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "22"
+    "star": "15"
   },
   {
     "title": "urfave/cli",
@@ -46,14 +46,14 @@
     "url": "https://github.com/bloomberg/memray",
     "description": "Memray is a memory profiler for Python",
     "language": "Python",
-    "star": "510"
+    "star": "1"
   },
   {
     "title": "withfig/autocomplete",
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "117"
+    "star": "161"
   },
   {
     "title": "starship/starship",
@@ -67,21 +67,21 @@
     "url": "https://github.com/catchorg/Catch2",
     "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
     "language": "C++",
-    "star": "39"
+    "star": "15"
   },
   {
     "title": "localstack/localstack",
     "url": "https://github.com/localstack/localstack",
     "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
     "language": "Python",
-    "star": "249"
+    "star": "260"
   },
   {
     "title": "ClemensElflein/OpenMower",
     "url": "https://github.com/ClemensElflein/OpenMower",
     "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
     "language": "HTML",
-    "star": "158"
+    "star": "164"
   },
   {
     "title": "VirgilClyne/iRingo",
@@ -95,28 +95,28 @@
     "url": "https://github.com/hehonghui/the-economist-ebooks",
     "description": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
     "language": "CSS",
-    "star": "104"
+    "star": "103"
   },
   {
     "title": "Anduin2017/HowToCook",
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "JavaScript",
-    "star": "113"
+    "star": "240"
   },
   {
     "title": "wisdompeak/LeetCode",
     "url": "https://github.com/wisdompeak/LeetCode",
     "description": "This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.",
     "language": "C++",
-    "star": "33"
+    "star": "26"
   },
   {
     "title": "doocs/advanced-java",
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "118"
+    "star": "119"
   },
   {
     "title": "openai/CLIP",
@@ -137,7 +137,7 @@
     "url": "https://github.com/diesel-rs/diesel",
     "description": "A safe, extensible ORM and Query Builder for Rust",
     "language": "Rust",
-    "star": "15"
+    "star": "16"
   },
   {
     "title": "Courseplay/Courseplay_FS22",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Chia-Network/chia-blockchain",
     "description": "Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)",
     "language": "Python",
-    "star": "29"
+    "star": "30"
   },
   {
     "title": "warpdotdev/Warp",
