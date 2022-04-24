@@ -4,7 +4,7 @@
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "361"
+    "star": "398"
   },
   {
     "title": "WolfireGames/overgrowth",
@@ -25,7 +25,7 @@
     "url": "https://github.com/starship/starship",
     "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
     "language": "Rust",
-    "star": "95"
+    "star": "90"
   },
   {
     "title": "godotengine/godot",
@@ -46,7 +46,7 @@
     "url": "https://github.com/FBlackBox/BlackBox",
     "description": "BlackBox is a virtual engine, it can clone and run virtual application on Android, users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, so you can do anything you want by using BlackBox.",
     "language": "none",
-    "star": "42"
+    "star": "59"
   },
   {
     "title": "janestreet/magic-trace",
@@ -60,14 +60,14 @@
     "url": "https://github.com/Dimbreath/GenshinData",
     "description": "Repository containing the game data for the game Genshin Impact.",
     "language": "none",
-    "star": "37"
+    "star": "23"
   },
   {
     "title": "Grasscutters/Grasscutter-Protos",
     "url": "https://github.com/Grasscutters/Grasscutter-Protos",
     "description": "Protobuf files for Grasscutter",
     "language": "none",
-    "star": "8"
+    "star": "6"
   },
   {
     "title": "stylegan-human/StyleGAN-Human",
@@ -95,14 +95,14 @@
     "url": "https://github.com/urfave/cli",
     "description": "A simple, fast, and fun package for building command line apps in Go",
     "language": "Go",
-    "star": "33"
+    "star": "36"
   },
   {
     "title": "ClemensElflein/OpenMower",
     "url": "https://github.com/ClemensElflein/OpenMower",
     "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
     "language": "HTML",
-    "star": "151"
+    "star": "170"
   },
   {
     "title": "raysan5/raylib",
@@ -130,7 +130,7 @@
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "20"
+    "star": "78"
   },
   {
     "title": "bradtraversy/50projects50days",
@@ -151,7 +151,7 @@
     "url": "https://github.com/qbittorrent/qBittorrent",
     "description": "qBittorrent BitTorrent client",
     "language": "C++",
-    "star": "10"
+    "star": "38"
   },
   {
     "title": "hashcat/hashcat",
@@ -165,7 +165,7 @@
     "url": "https://github.com/hehonghui/the-economist-ebooks",
     "description": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
     "language": "CSS",
-    "star": "206"
+    "star": "203"
   },
   {
     "title": "BGU-CS-VIL/DeepDPM",
