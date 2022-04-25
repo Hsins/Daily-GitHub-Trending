@@ -1,0 +1,177 @@
+[
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "description": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
+    "language": "CSS",
+    "star": "607"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "391"
+  },
+  {
+    "title": "dimensionhq/fleet",
+    "url": "https://github.com/dimensionhq/fleet",
+    "description": "🚀 The blazing fast build tool for Rust.",
+    "language": "Rust",
+    "star": "230"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "description": "World's fastest and most advanced password recovery utility",
+    "language": "C",
+    "star": "102"
+  },
+  {
+    "title": "Rem0o/FanControl.Releases",
+    "url": "https://github.com/Rem0o/FanControl.Releases",
+    "description": "This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.",
+    "language": "none",
+    "star": "184"
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData",
+    "description": "Repository containing the game data for the game Genshin Impact.",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "language": "TypeScript",
+    "star": "93"
+  },
+  {
+    "title": "golang-standards/project-layout",
+    "url": "https://github.com/golang-standards/project-layout",
+    "description": "Standard Go Project Layout",
+    "language": "Makefile",
+    "star": "37"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "language": "Rust",
+    "star": "312"
+  },
+  {
+    "title": "AykutSarac/jsonvisio.com",
+    "url": "https://github.com/AykutSarac/jsonvisio.com",
+    "description": "🧩 Visualize your JSON data onto graphs seamlessly.",
+    "language": "TypeScript",
+    "star": "87"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "star": "157"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "87"
+  },
+  {
+    "title": "CodinGame/SpringChallenge2022",
+    "url": "https://github.com/CodinGame/SpringChallenge2022",
+    "description": "",
+    "language": "Java",
+    "star": "5"
+  },
+  {
+    "title": "Wizz1337/TikTokMassBotting",
+    "url": "https://github.com/Wizz1337/TikTokMassBotting",
+    "description": "TikTok Mass View & Share Boting ~ Unpatched",
+    "language": "Python",
+    "star": "107"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "description": "An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields.",
+    "language": "C",
+    "star": "7"
+  },
+  {
+    "title": "Grasscutters/Grasscutter-Protos",
+    "url": "https://github.com/Grasscutters/Grasscutter-Protos",
+    "description": "Protobuf files for Grasscutter",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "vueschool/vue-masterclass",
+    "url": "https://github.com/vueschool/vue-masterclass",
+    "description": "🗂 Source code for The Vue 3 Masterclass",
+    "language": "CSS",
+    "star": "29"
+  },
+  {
+    "title": "radioegor146/gi-bin-output",
+    "url": "https://github.com/radioegor146/gi-bin-output",
+    "description": "Almost™ full Genshin Impact BinOutput data",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "dropout1337/TikTok-Share-Bot",
+    "url": "https://github.com/dropout1337/TikTok-Share-Bot",
+    "description": "A fast TikTok share bot made in golang.",
+    "language": "Go",
+    "star": "8"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "language": "Java",
+    "star": "38"
+  },
+  {
+    "title": "Grasscutters/GrassClipper",
+    "url": "https://github.com/Grasscutters/GrassClipper",
+    "description": "A launcher for quickly & easily switching server destinations.",
+    "language": "JavaScript",
+    "star": "23"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "13"
+  },
+  {
+    "title": "aolofsson/awesome-hardware-tools",
+    "url": "https://github.com/aolofsson/awesome-hardware-tools",
+    "description": "List of awesome open source hardware tools",
+    "language": "none",
+    "star": "61"
+  },
+  {
+    "title": "wisdompeak/LeetCode",
+    "url": "https://github.com/wisdompeak/LeetCode",
+    "description": "This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.",
+    "language": "C++",
+    "star": "17"
+  },
+  {
+    "title": "WolfireGames/overgrowth",
+    "url": "https://github.com/WolfireGames/overgrowth",
+    "description": "Open Source codebase of the game Overgrowth by Wolfire Games LLC",
+    "language": "C++",
+    "star": "147"
+  }
+]
