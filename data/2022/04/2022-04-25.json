@@ -4,14 +4,14 @@
     "url": "https://github.com/hehonghui/the-economist-ebooks",
     "description": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
     "language": "CSS",
-    "star": "607"
+    "star": "613"
   },
   {
     "title": "Grasscutters/Grasscutter",
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "391"
+    "star": "623"
   },
   {
     "title": "dimensionhq/fleet",
@@ -25,7 +25,7 @@
     "url": "https://github.com/hashcat/hashcat",
     "description": "World's fastest and most advanced password recovery utility",
     "language": "C",
-    "star": "102"
+    "star": "103"
   },
   {
     "title": "Rem0o/FanControl.Releases",
@@ -39,7 +39,7 @@
     "url": "https://github.com/Dimbreath/GenshinData",
     "description": "Repository containing the game data for the game Genshin Impact.",
     "language": "none",
-    "star": "32"
+    "star": "49"
   },
   {
     "title": "spacedriveapp/spacedrive",
@@ -60,28 +60,28 @@
     "url": "https://github.com/starship/starship",
     "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
     "language": "Rust",
-    "star": "312"
+    "star": "310"
   },
   {
     "title": "AykutSarac/jsonvisio.com",
     "url": "https://github.com/AykutSarac/jsonvisio.com",
     "description": "🧩 Visualize your JSON data onto graphs seamlessly.",
     "language": "TypeScript",
-    "star": "87"
+    "star": "475"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "157"
+    "star": "53"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "87"
+    "star": "84"
   },
   {
     "title": "CodinGame/SpringChallenge2022",
@@ -95,7 +95,7 @@
     "url": "https://github.com/Wizz1337/TikTokMassBotting",
     "description": "TikTok Mass View & Share Boting ~ Unpatched",
     "language": "Python",
-    "star": "107"
+    "star": "108"
   },
   {
     "title": "taosdata/TDengine",
@@ -109,7 +109,7 @@
     "url": "https://github.com/Grasscutters/Grasscutter-Protos",
     "description": "Protobuf files for Grasscutter",
     "language": "none",
-    "star": "18"
+    "star": "9"
   },
   {
     "title": "vueschool/vue-masterclass",
@@ -172,6 +172,6 @@
     "url": "https://github.com/WolfireGames/overgrowth",
     "description": "Open Source codebase of the game Overgrowth by Wolfire Games LLC",
     "language": "C++",
-    "star": "147"
+    "star": "158"
   }
 ]
