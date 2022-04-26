@@ -4,14 +4,14 @@
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "242"
+    "star": "243"
   },
   {
     "title": "spacedriveapp/spacedrive",
     "url": "https://github.com/spacedriveapp/spacedrive",
     "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
     "language": "TypeScript",
-    "star": "226"
+    "star": "235"
   },
   {
     "title": "nuxt/nuxt.js",
@@ -25,7 +25,7 @@
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "197"
+    "star": "196"
   },
   {
     "title": "WolfireGames/overgrowth",
@@ -39,7 +39,7 @@
     "url": "https://github.com/hehonghui/the-economist-ebooks",
     "description": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
     "language": "CSS",
-    "star": "547"
+    "star": "546"
   },
   {
     "title": "sebastianruder/NLP-progress",
@@ -74,7 +74,7 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "70"
+    "star": "160"
   },
   {
     "title": "nuxt/framework",
@@ -88,28 +88,28 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
     "language": "JavaScript",
-    "star": "57"
+    "star": "68"
   },
   {
     "title": "hashcat/hashcat",
     "url": "https://github.com/hashcat/hashcat",
     "description": "World's fastest and most advanced password recovery utility",
     "language": "C",
-    "star": "263"
+    "star": "267"
   },
   {
     "title": "cberner/redb",
     "url": "https://github.com/cberner/redb",
     "description": "An embedded key-value database in pure Rust",
     "language": "Rust",
-    "star": "69"
+    "star": "114"
   },
   {
     "title": "adrianhajdin/ecommerce_sanity_stripe",
     "url": "https://github.com/adrianhajdin/ecommerce_sanity_stripe",
     "description": "Modern Full Stack ECommerce Application with Stripe",
     "language": "JavaScript",
-    "star": "33"
+    "star": "40"
   },
   {
     "title": "karunkarthik-git/dsa-notes",
@@ -123,7 +123,7 @@
     "url": "https://github.com/dimensionhq/fleet",
     "description": "🚀 The blazing fast build tool for Rust.",
     "language": "Rust",
-    "star": "334"
+    "star": "346"
   },
   {
     "title": "hlorus/CAD_Sketcher",
@@ -144,14 +144,14 @@
     "url": "https://github.com/urfave/cli",
     "description": "A simple, fast, and fun package for building command line apps in Go",
     "language": "Go",
-    "star": "24"
+    "star": "29"
   },
   {
     "title": "skyline-emu/skyline",
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C++",
-    "star": "56"
+    "star": "69"
   },
   {
     "title": "aws-ia/terraform-aws-eks-blueprints",
@@ -165,7 +165,7 @@
     "url": "https://github.com/PaddlePaddle/PaddleSeg",
     "description": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc.",
     "language": "Python",
-    "star": "72"
+    "star": "135"
   },
   {
     "title": "pedroslopez/whatsapp-web.js",
