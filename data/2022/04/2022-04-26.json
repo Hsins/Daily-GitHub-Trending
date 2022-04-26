@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "star": "242"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "language": "TypeScript",
+    "star": "226"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "description": "The Intuitive Vue(2) Framework",
+    "language": "JavaScript",
+    "star": "70"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "197"
+  },
+  {
+    "title": "WolfireGames/overgrowth",
+    "url": "https://github.com/WolfireGames/overgrowth",
+    "description": "Open Source codebase of the game Overgrowth by Wolfire Games LLC",
+    "language": "C++",
+    "star": "321"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "description": "经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired magazines, free download and subscription for kindle, mobi、epub、pdf format.",
+    "language": "CSS",
+    "star": "547"
+  },
+  {
+    "title": "sebastianruder/NLP-progress",
+    "url": "https://github.com/sebastianruder/NLP-progress",
+    "description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "tiimgreen/github-cheat-sheet",
+    "url": "https://github.com/tiimgreen/github-cheat-sheet",
+    "description": "A list of cool features of Git and GitHub.",
+    "language": "none",
+    "star": "46"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "YaoFANGUK/video-subtitle-extractor",
+    "url": "https://github.com/YaoFANGUK/video-subtitle-extractor",
+    "description": "视频硬字幕提取，生成srt文件。无需申请第三方API，本地实现文本识别。基于深度学习的视频字幕提取框架，包含字幕区域检测、字幕内容提取。A GUI tool for extracting hard-coded subtitle (hardsub) from videos and generating srt files.",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "70"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "description": "The Hybrid Vue(3) Framework.",
+    "language": "TypeScript",
+    "star": "147"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "language": "JavaScript",
+    "star": "57"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "description": "World's fastest and most advanced password recovery utility",
+    "language": "C",
+    "star": "263"
+  },
+  {
+    "title": "cberner/redb",
+    "url": "https://github.com/cberner/redb",
+    "description": "An embedded key-value database in pure Rust",
+    "language": "Rust",
+    "star": "69"
+  },
+  {
+    "title": "adrianhajdin/ecommerce_sanity_stripe",
+    "url": "https://github.com/adrianhajdin/ecommerce_sanity_stripe",
+    "description": "Modern Full Stack ECommerce Application with Stripe",
+    "language": "JavaScript",
+    "star": "33"
+  },
+  {
+    "title": "karunkarthik-git/dsa-notes",
+    "url": "https://github.com/karunkarthik-git/dsa-notes",
+    "description": "This repo contains the notes of different data structures and important questions which would help in acing interview rounds.",
+    "language": "none",
+    "star": "12"
+  },
+  {
+    "title": "dimensionhq/fleet",
+    "url": "https://github.com/dimensionhq/fleet",
+    "description": "🚀 The blazing fast build tool for Rust.",
+    "language": "Rust",
+    "star": "334"
+  },
+  {
+    "title": "hlorus/CAD_Sketcher",
+    "url": "https://github.com/hlorus/CAD_Sketcher",
+    "description": "Constraint-based geometry sketcher for blender",
+    "language": "Python",
+    "star": "54"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "171"
+  },
+  {
+    "title": "urfave/cli",
+    "url": "https://github.com/urfave/cli",
+    "description": "A simple, fast, and fun package for building command line apps in Go",
+    "language": "Go",
+    "star": "24"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!",
+    "language": "C++",
+    "star": "56"
+  },
+  {
+    "title": "aws-ia/terraform-aws-eks-blueprints",
+    "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints",
+    "description": "Configure and deploy complete EKS clusters.",
+    "language": "HCL",
+    "star": "21"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSeg",
+    "url": "https://github.com/PaddlePaddle/PaddleSeg",
+    "description": "Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Matting, etc.",
+    "language": "Python",
+    "star": "72"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "language": "JavaScript",
+    "star": "9"
+  }
+]
