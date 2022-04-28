@@ -1,0 +1,177 @@
+[
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "ellie/atuin",
+    "url": "https://github.com/ellie/atuin",
+    "description": "🐢 Magical shell history",
+    "language": "Rust",
+    "star": "251"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "description": "The Intuitive Vue(2) Framework",
+    "language": "JavaScript",
+    "star": "33"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "260"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "24"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "155"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "star": "414"
+  },
+  {
+    "title": "rochacbruno/python-week-2022",
+    "url": "https://github.com/rochacbruno/python-week-2022",
+    "description": "Template Para a Python Week 2002 - 25 a 29 de Abril na Linux Tips",
+    "language": "Python",
+    "star": "462"
+  },
+  {
+    "title": "klauspost/compress",
+    "url": "https://github.com/klauspost/compress",
+    "description": "Optimized Go Compression Packages",
+    "language": "Go",
+    "star": "26"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "description": "🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "language": "Jupyter Notebook",
+    "star": "330"
+  },
+  {
+    "title": "Dec0ne/KrbRelayUp",
+    "url": "https://github.com/Dec0ne/KrbRelayUp",
+    "description": "KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).",
+    "language": "C#",
+    "star": "209"
+  },
+  {
+    "title": "why20021008/hand-write",
+    "url": "https://github.com/why20021008/hand-write",
+    "description": "模拟手写效果，节约时间。",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "trustedsec/CS-Remote-OPs-BOF",
+    "url": "https://github.com/trustedsec/CS-Remote-OPs-BOF",
+    "description": "",
+    "language": "C",
+    "star": "66"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "language": "JavaScript",
+    "star": "231"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "155"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "351"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "description": "World's fastest and most advanced password recovery utility",
+    "language": "C",
+    "star": "260"
+  },
+  {
+    "title": "kedacore/keda",
+    "url": "https://github.com/kedacore/keda",
+    "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "language": "Go",
+    "star": "11"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "description": "Statistical Rethinking course winter 2022",
+    "language": "R",
+    "star": "52"
+  },
+  {
+    "title": "biggerduck/RedTeamNotes",
+    "url": "https://github.com/biggerduck/RedTeamNotes",
+    "description": "红队笔记",
+    "language": "none",
+    "star": "35"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "43"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "description": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "language": "Python",
+    "star": "52"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "description": "Apache Flink",
+    "language": "Java",
+    "star": "11"
+  },
+  {
+    "title": "spulec/moto",
+    "url": "https://github.com/spulec/moto",
+    "description": "A library that allows you to easily mock out tests based on AWS infrastructure.",
+    "language": "Python",
+    "star": "3"
+  }
+]
