@@ -4,28 +4,28 @@
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "45"
+    "star": "153"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "23"
+    "star": "157"
   },
   {
     "title": "angular/angular",
     "url": "https://github.com/angular/angular",
     "description": "The modern web developer’s platform",
     "language": "TypeScript",
-    "star": "34"
+    "star": "32"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "193"
+    "star": "223"
   },
   {
     "title": "spacedriveapp/spacedrive",
@@ -39,7 +39,7 @@
     "url": "https://github.com/ml-tooling/best-of-ml-python",
     "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
     "language": "Python",
-    "star": "994"
+    "star": "999"
   },
   {
     "title": "jsonhero-io/jsonhero-web",
@@ -60,7 +60,7 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "93"
+    "star": "92"
   },
   {
     "title": "google/wireit",
@@ -102,7 +102,7 @@
     "url": "https://github.com/F5OEO/rpitx",
     "description": "RF transmitter for Raspberry Pi",
     "language": "C",
-    "star": "15"
+    "star": "16"
   },
   {
     "title": "hlorus/CAD_Sketcher",
@@ -123,7 +123,7 @@
     "url": "https://github.com/rejetto/hfs",
     "description": "HFS is a file server offering a virtual file system (vfs). You can easily share a single file instead of the whole folder, or you can rename it, but without touching the real file, just virtually.",
     "language": "TypeScript",
-    "star": "43"
+    "star": "66"
   },
   {
     "title": "rancher/rancher",
@@ -137,7 +137,7 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "195"
+    "star": "118"
   },
   {
     "title": "ruilisi/fortune-sheet",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Dec0ne/KrbRelayUp",
     "description": "KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).",
     "language": "C#",
-    "star": "148"
+    "star": "127"
   }
 ]
