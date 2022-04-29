@@ -18,14 +18,14 @@
     "url": "https://github.com/angular/angular",
     "description": "The modern web developer’s platform",
     "language": "TypeScript",
-    "star": "33"
+    "star": "34"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "223"
+    "star": "193"
   },
   {
     "title": "spacedriveapp/spacedrive",
@@ -39,14 +39,14 @@
     "url": "https://github.com/ml-tooling/best-of-ml-python",
     "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
     "language": "Python",
-    "star": "1"
+    "star": "994"
   },
   {
     "title": "jsonhero-io/jsonhero-web",
     "url": "https://github.com/jsonhero-io/jsonhero-web",
     "description": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀",
     "language": "TypeScript",
-    "star": "162"
+    "star": "154"
   },
   {
     "title": "gradio-app/gradio",
@@ -60,7 +60,7 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "109"
+    "star": "93"
   },
   {
     "title": "google/wireit",
@@ -102,7 +102,7 @@
     "url": "https://github.com/F5OEO/rpitx",
     "description": "RF transmitter for Raspberry Pi",
     "language": "C",
-    "star": "16"
+    "star": "15"
   },
   {
     "title": "hlorus/CAD_Sketcher",
@@ -123,21 +123,21 @@
     "url": "https://github.com/rejetto/hfs",
     "description": "HFS is a file server offering a virtual file system (vfs). You can easily share a single file instead of the whole folder, or you can rename it, but without touching the real file, just virtually.",
     "language": "TypeScript",
-    "star": "45"
+    "star": "43"
   },
   {
     "title": "rancher/rancher",
     "url": "https://github.com/rancher/rancher",
     "description": "Complete container management platform",
     "language": "Go",
-    "star": "63"
+    "star": "28"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "109"
+    "star": "195"
   },
   {
     "title": "ruilisi/fortune-sheet",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Dec0ne/KrbRelayUp",
     "description": "KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).",
     "language": "C#",
-    "star": "127"
+    "star": "148"
   }
 ]
