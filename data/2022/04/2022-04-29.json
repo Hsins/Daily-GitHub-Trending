@@ -1,0 +1,177 @@
+[
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "45"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "The modern web developer’s platform",
+    "language": "TypeScript",
+    "star": "33"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "223"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "jsonhero-io/jsonhero-web",
+    "url": "https://github.com/jsonhero-io/jsonhero-web",
+    "description": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀",
+    "language": "TypeScript",
+    "star": "162"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "description": "Create UIs for your machine learning model in Python in 3 minutes",
+    "language": "Python",
+    "star": "100"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "language": "TypeScript",
+    "star": "109"
+  },
+  {
+    "title": "google/wireit",
+    "url": "https://github.com/google/wireit",
+    "description": "Wireit upgrades your npm scripts to make them smarter and more efficient.",
+    "language": "TypeScript",
+    "star": "313"
+  },
+  {
+    "title": "naver/fe-news",
+    "url": "https://github.com/naver/fe-news",
+    "description": "FE 기술 소식 큐레이션 뉴스레터",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "Trainguy9512/trainguys-animation-overhaul",
+    "url": "https://github.com/Trainguy9512/trainguys-animation-overhaul",
+    "description": "",
+    "language": "Java",
+    "star": "7"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
+    "language": "none",
+    "star": "608"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "description": "A multi-voice TTS system trained with an emphasis on quality",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "F5OEO/rpitx",
+    "url": "https://github.com/F5OEO/rpitx",
+    "description": "RF transmitter for Raspberry Pi",
+    "language": "C",
+    "star": "16"
+  },
+  {
+    "title": "hlorus/CAD_Sketcher",
+    "url": "https://github.com/hlorus/CAD_Sketcher",
+    "description": "Constraint-based geometry sketcher for blender",
+    "language": "Python",
+    "star": "98"
+  },
+  {
+    "title": "why20021008/hand-write",
+    "url": "https://github.com/why20021008/hand-write",
+    "description": "模拟手写效果，节约时间。",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "rejetto/hfs",
+    "url": "https://github.com/rejetto/hfs",
+    "description": "HFS is a file server offering a virtual file system (vfs). You can easily share a single file instead of the whole folder, or you can rename it, but without touching the real file, just virtually.",
+    "language": "TypeScript",
+    "star": "45"
+  },
+  {
+    "title": "rancher/rancher",
+    "url": "https://github.com/rancher/rancher",
+    "description": "Complete container management platform",
+    "language": "Go",
+    "star": "63"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "109"
+  },
+  {
+    "title": "ruilisi/fortune-sheet",
+    "url": "https://github.com/ruilisi/fortune-sheet",
+    "description": "A drop-in javascript spreadsheet library that provides rich features like Excel and Google Sheets",
+    "language": "TypeScript",
+    "star": "90"
+  },
+  {
+    "title": "RedisInsight/RedisInsight",
+    "url": "https://github.com/RedisInsight/RedisInsight",
+    "description": "RedisInsight",
+    "language": "TypeScript",
+    "star": "36"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "description": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦",
+    "language": "HCL",
+    "star": "5"
+  },
+  {
+    "title": "FrancescoXX/free-Web3-resources",
+    "url": "https://github.com/FrancescoXX/free-Web3-resources",
+    "description": "A list of FREE resources to make Web3 accessible to everyone.",
+    "language": "HTML",
+    "star": "41"
+  },
+  {
+    "title": "Dec0ne/KrbRelayUp",
+    "url": "https://github.com/Dec0ne/KrbRelayUp",
+    "description": "KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).",
+    "language": "C#",
+    "star": "127"
+  }
+]
