@@ -25,28 +25,28 @@
     "url": "https://github.com/OpenRA/OpenRA",
     "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
     "language": "C#",
-    "star": "56"
+    "star": "62"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "151"
+    "star": "155"
   },
   {
     "title": "why20021008/hand-write",
     "url": "https://github.com/why20021008/hand-write",
     "description": "模拟手写效果，节约时间。",
     "language": "Python",
-    "star": "79"
+    "star": "83"
   },
   {
     "title": "ml-tooling/best-of-ml-python",
     "url": "https://github.com/ml-tooling/best-of-ml-python",
     "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
     "language": "Python",
-    "star": "801"
+    "star": "539"
   },
   {
     "title": "spacedriveapp/spacedrive",
@@ -67,21 +67,21 @@
     "url": "https://github.com/singularity-data/risingwave",
     "description": "RisingWave: the next-generation streaming database in the cloud.",
     "language": "Rust",
-    "star": "38"
+    "star": "67"
   },
   {
     "title": "jsonhero-io/jsonhero-web",
     "url": "https://github.com/jsonhero-io/jsonhero-web",
     "description": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀",
     "language": "TypeScript",
-    "star": "418"
+    "star": "421"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "101"
+    "star": "75"
   },
   {
     "title": "mattpocock/ts-error-translator",
@@ -95,14 +95,14 @@
     "url": "https://github.com/ellie/atuin",
     "description": "🐢 Magical shell history",
     "language": "Rust",
-    "star": "125"
+    "star": "154"
   },
   {
     "title": "ethereum-optimism/optimism",
     "url": "https://github.com/ethereum-optimism/optimism",
     "description": "The Optimism monorepo",
     "language": "Go",
-    "star": "21"
+    "star": "8"
   },
   {
     "title": "streamxhub/streamx",
@@ -144,7 +144,7 @@
     "url": "https://github.com/apache/flink",
     "description": "Apache Flink",
     "language": "Java",
-    "star": "35"
+    "star": "64"
   },
   {
     "title": "klauspost/compress",
@@ -158,14 +158,14 @@
     "url": "https://github.com/kedacore/keda",
     "description": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
     "language": "Go",
-    "star": "93"
+    "star": "67"
   },
   {
     "title": "ddangelov/Top2Vec",
     "url": "https://github.com/ddangelov/Top2Vec",
     "description": "Top2Vec learns jointly embedded topic, document and word vectors.",
     "language": "Python",
-    "star": "32"
+    "star": "22"
   },
   {
     "title": "google/wireit",
