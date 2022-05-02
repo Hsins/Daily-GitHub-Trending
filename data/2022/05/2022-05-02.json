@@ -1,0 +1,177 @@
+[
+  {
+    "title": "pyscript/pyscript",
+    "url": "https://github.com/pyscript/pyscript",
+    "description": "",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "Runc2333/dingdong-helper-node",
+    "url": "https://github.com/Runc2333/dingdong-helper-node",
+    "description": "叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端）",
+    "language": "JavaScript",
+    "star": "42"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "223"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "149"
+  },
+  {
+    "title": "actualbudget/actual",
+    "url": "https://github.com/actualbudget/actual",
+    "description": "A local-first personal finance system",
+    "language": "JavaScript",
+    "star": "459"
+  },
+  {
+    "title": "actualbudget/actual-server",
+    "url": "https://github.com/actualbudget/actual-server",
+    "description": "Actual's server",
+    "language": "JavaScript",
+    "star": "187"
+  },
+  {
+    "title": "PacktPublishing/The-Kaggle-Book",
+    "url": "https://github.com/PacktPublishing/The-Kaggle-Book",
+    "description": "Code Repository for The Kaggle Book, Published by Packt Publishing",
+    "language": "Jupyter Notebook",
+    "star": "108"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "description": "Fig adds autocomplete to your terminal.",
+    "language": "TypeScript",
+    "star": "137"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "70"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "language": "TypeScript",
+    "star": "337"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "description": "Aria/qBittorrent Telegram mirror/leech bot",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "Koko-boya/Grasscutter_Resources",
+    "url": "https://github.com/Koko-boya/Grasscutter_Resources",
+    "description": "Combined Resource Folder from Multiple Sources of certain anime game",
+    "language": "Lua",
+    "star": "10"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "58"
+  },
+  {
+    "title": "Code-Bullet/Jump-King",
+    "url": "https://github.com/Code-Bullet/Jump-King",
+    "description": "play meeeeee",
+    "language": "JavaScript",
+    "star": "24"
+  },
+  {
+    "title": "lukemurraynz/awesome-azure-architecture",
+    "url": "https://github.com/lukemurraynz/awesome-azure-architecture",
+    "description": "AWESOME-Azure-Architecture",
+    "language": "none",
+    "star": "41"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "244"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated interview preparation materials for busy engineers",
+    "language": "JavaScript",
+    "star": "78"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "106"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "150"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "StevenBlack/hosts",
+    "url": "https://github.com/StevenBlack/hosts",
+    "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "236"
+  },
+  {
+    "title": "F4bwDP6a6W/FLY_US",
+    "url": "https://github.com/F4bwDP6a6W/FLY_US",
+    "description": "美国大学备考资料 How to apply US colleges",
+    "language": "HTML",
+    "star": "40"
+  }
+]
