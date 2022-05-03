@@ -18,49 +18,49 @@
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "360"
+    "star": "304"
   },
   {
     "title": "appsmithorg/appsmith",
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "300"
+    "star": "262"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "121"
+    "star": "138"
   },
   {
     "title": "pyodide/pyodide",
     "url": "https://github.com/pyodide/pyodide",
     "description": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
     "language": "Python",
-    "star": "49"
+    "star": "87"
   },
   {
     "title": "Runc2333/dingdong-helper-node",
     "url": "https://github.com/Runc2333/dingdong-helper-node",
     "description": "叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端）",
     "language": "JavaScript",
-    "star": "46"
+    "star": "62"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "135"
+    "star": "133"
   },
   {
     "title": "saalikmubeen/microservices-architectured-app",
     "url": "https://github.com/saalikmubeen/microservices-architectured-app",
     "description": "Event-driven microservices architectured e-commerce app created using Express, Typescript, Nats-Streaming and Next.js",
     "language": "TypeScript",
-    "star": "77"
+    "star": "49"
   },
   {
     "title": "bizz84/complete-flutter-course",
@@ -74,28 +74,28 @@
     "url": "https://github.com/lukemurraynz/awesome-azure-architecture",
     "description": "AWESOME-Azure-Architecture",
     "language": "none",
-    "star": "127"
+    "star": "95"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "284"
+    "star": "276"
   },
   {
     "title": "replicate/cog",
     "url": "https://github.com/replicate/cog",
     "description": "Containers for machine learning",
     "language": "Go",
-    "star": "131"
+    "star": "136"
   },
   {
     "title": "nomi-sec/PoC-in-GitHub",
     "url": "https://github.com/nomi-sec/PoC-in-GitHub",
     "description": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
     "language": "none",
-    "star": "41"
+    "star": "48"
   },
   {
     "title": "vincentneo/LosslessSwitcher",
@@ -109,7 +109,7 @@
     "url": "https://github.com/PacktPublishing/The-Kaggle-Book",
     "description": "Code Repository for The Kaggle Book, Published by Packt Publishing",
     "language": "Jupyter Notebook",
-    "star": "110"
+    "star": "147"
   },
   {
     "title": "Anish-Agnihotri/flashside",
@@ -130,7 +130,7 @@
     "url": "https://github.com/actualbudget/actual",
     "description": "A local-first personal finance system",
     "language": "JavaScript",
-    "star": "383"
+    "star": "385"
   },
   {
     "title": "skyline-emu/skyline",
@@ -144,7 +144,7 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "41"
+    "star": "182"
   },
   {
     "title": "scottbez1/smartknob",
@@ -158,7 +158,7 @@
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "132"
+    "star": "166"
   },
   {
     "title": "ahutsunshine/dingdong-grabber",
@@ -172,6 +172,6 @@
     "url": "https://github.com/AlreadyBored/basic-js-ds",
     "description": "",
     "language": "JavaScript",
-    "star": "16"
+    "star": "7"
   }
 ]
