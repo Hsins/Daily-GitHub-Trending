@@ -1,0 +1,177 @@
+[
+  {
+    "title": "pyscript/pyscript",
+    "url": "https://github.com/pyscript/pyscript",
+    "description": "",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "304"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "language": "TypeScript",
+    "star": "234"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "138"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "description": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "Runc2333/dingdong-helper-node",
+    "url": "https://github.com/Runc2333/dingdong-helper-node",
+    "description": "叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端）",
+    "language": "JavaScript",
+    "star": "76"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "133"
+  },
+  {
+    "title": "saalikmubeen/microservices-architectured-app",
+    "url": "https://github.com/saalikmubeen/microservices-architectured-app",
+    "description": "Event-driven microservices architectured e-commerce app created using Express, Typescript, Nats-Streaming and Next.js",
+    "language": "TypeScript",
+    "star": "49"
+  },
+  {
+    "title": "bizz84/complete-flutter-course",
+    "url": "https://github.com/bizz84/complete-flutter-course",
+    "description": "Complete Flutter Course Bundle - Flutter eCommerce App",
+    "language": "Dart",
+    "star": "70"
+  },
+  {
+    "title": "lukemurraynz/awesome-azure-architecture",
+    "url": "https://github.com/lukemurraynz/awesome-azure-architecture",
+    "description": "AWESOME-Azure-Architecture",
+    "language": "none",
+    "star": "95"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "276"
+  },
+  {
+    "title": "replicate/cog",
+    "url": "https://github.com/replicate/cog",
+    "description": "Containers for machine learning",
+    "language": "Go",
+    "star": "136"
+  },
+  {
+    "title": "nomi-sec/PoC-in-GitHub",
+    "url": "https://github.com/nomi-sec/PoC-in-GitHub",
+    "description": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
+    "language": "none",
+    "star": "41"
+  },
+  {
+    "title": "vincentneo/LosslessSwitcher",
+    "url": "https://github.com/vincentneo/LosslessSwitcher",
+    "description": "Automated Apple Music Lossless Sample Rate Switching for Audio Devices on Macs.",
+    "language": "Swift",
+    "star": "19"
+  },
+  {
+    "title": "PacktPublishing/The-Kaggle-Book",
+    "url": "https://github.com/PacktPublishing/The-Kaggle-Book",
+    "description": "Code Repository for The Kaggle Book, Published by Packt Publishing",
+    "language": "Jupyter Notebook",
+    "star": "155"
+  },
+  {
+    "title": "Anish-Agnihotri/flashside",
+    "url": "https://github.com/Anish-Agnihotri/flashside",
+    "description": "Long-tail MEV contracts to claim Otherside land NFTs",
+    "language": "Solidity",
+    "star": "41"
+  },
+  {
+    "title": "RedisInsight/RedisInsight",
+    "url": "https://github.com/RedisInsight/RedisInsight",
+    "description": "RedisInsight",
+    "language": "TypeScript",
+    "star": "30"
+  },
+  {
+    "title": "actualbudget/actual",
+    "url": "https://github.com/actualbudget/actual",
+    "description": "A local-first personal finance system",
+    "language": "JavaScript",
+    "star": "422"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!",
+    "language": "C++",
+    "star": "76"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "104"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "description": "Haptic input knob with software-defined endstops and virtual detents",
+    "language": "C++",
+    "star": "106"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "166"
+  },
+  {
+    "title": "ahutsunshine/dingdong-grabber",
+    "url": "https://github.com/ahutsunshine/dingdong-grabber",
+    "description": "叮咚多策略抢菜/买菜，亲测有效",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "AlreadyBored/basic-js-ds",
+    "url": "https://github.com/AlreadyBored/basic-js-ds",
+    "description": "",
+    "language": "JavaScript",
+    "star": "7"
+  }
+]
