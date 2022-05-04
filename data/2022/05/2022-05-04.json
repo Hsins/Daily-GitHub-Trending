@@ -1,0 +1,177 @@
+[
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "215"
+  },
+  {
+    "title": "SebLague/Geographical-Adventures",
+    "url": "https://github.com/SebLague/Geographical-Adventures",
+    "description": "",
+    "language": "C#",
+    "star": "156"
+  },
+  {
+    "title": "pyscript/pyscript",
+    "url": "https://github.com/pyscript/pyscript",
+    "description": "",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "286"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "star": "32"
+  },
+  {
+    "title": "mvt-project/mvt",
+    "url": "https://github.com/mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "twostraws/simple-swiftui",
+    "url": "https://github.com/twostraws/simple-swiftui",
+    "description": "A collection of small SwiftUI sample projects.",
+    "language": "Swift",
+    "star": "40"
+  },
+  {
+    "title": "programthink/books",
+    "url": "https://github.com/programthink/books",
+    "description": "【编程随想】收藏的电子书清单（多个学科，含下载链接）",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+    "language": "none",
+    "star": "121"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "dataabc/weiboSpider",
+    "url": "https://github.com/dataabc/weiboSpider",
+    "description": "新浪微博爬虫，用python爬取新浪微博数据",
+    "language": "Python",
+    "star": "7"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "380"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "317"
+  },
+  {
+    "title": "ipfs/go-ipfs",
+    "url": "https://github.com/ipfs/go-ipfs",
+    "description": "IPFS implementation in Go",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "PacktPublishing/The-Kaggle-Book",
+    "url": "https://github.com/PacktPublishing/The-Kaggle-Book",
+    "description": "Code Repository for The Kaggle Book, Published by Packt Publishing",
+    "language": "Jupyter Notebook",
+    "star": "140"
+  },
+  {
+    "title": "replicate/cog",
+    "url": "https://github.com/replicate/cog",
+    "description": "Containers for machine learning",
+    "language": "Go",
+    "star": "161"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "language": "TypeScript",
+    "star": "295"
+  },
+  {
+    "title": "pyodide/pyodide",
+    "url": "https://github.com/pyodide/pyodide",
+    "description": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
+    "language": "Python",
+    "star": "117"
+  },
+  {
+    "title": "ItsKaitlyn03/OculusKiller",
+    "url": "https://github.com/ItsKaitlyn03/OculusKiller",
+    "description": "Completely kill the Oculus Dash and auto-launch SteamVR.",
+    "language": "C#",
+    "star": "21"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "description": "Haptic input knob with software-defined endstops and virtual detents",
+    "language": "C++",
+    "star": "161"
+  },
+  {
+    "title": "palantir/blueprint",
+    "url": "https://github.com/palantir/blueprint",
+    "description": "A React-based UI toolkit for the web",
+    "language": "TypeScript",
+    "star": "4"
+  },
+  {
+    "title": "Runc2333/dingdong-helper-node",
+    "url": "https://github.com/Runc2333/dingdong-helper-node",
+    "description": "叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端）",
+    "language": "JavaScript",
+    "star": "28"
+  },
+  {
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "description": "This repository contains .NET Documentation.",
+    "language": "none",
+    "star": "9"
+  }
+]
