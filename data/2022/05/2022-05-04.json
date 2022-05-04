@@ -4,7 +4,7 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "215"
+    "star": "216"
   },
   {
     "title": "SebLague/Geographical-Adventures",
@@ -32,7 +32,7 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "286"
+    "star": "297"
   },
   {
     "title": "twbs/bootstrap",
@@ -53,7 +53,7 @@
     "url": "https://github.com/twostraws/simple-swiftui",
     "description": "A collection of small SwiftUI sample projects.",
     "language": "Swift",
-    "star": "40"
+    "star": "43"
   },
   {
     "title": "programthink/books",
@@ -109,35 +109,35 @@
     "url": "https://github.com/PacktPublishing/The-Kaggle-Book",
     "description": "Code Repository for The Kaggle Book, Published by Packt Publishing",
     "language": "Jupyter Notebook",
-    "star": "140"
+    "star": "139"
   },
   {
     "title": "replicate/cog",
     "url": "https://github.com/replicate/cog",
     "description": "Containers for machine learning",
     "language": "Go",
-    "star": "161"
+    "star": "166"
   },
   {
     "title": "appsmithorg/appsmith",
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "295"
+    "star": "283"
   },
   {
     "title": "pyodide/pyodide",
     "url": "https://github.com/pyodide/pyodide",
     "description": "Pyodide is a Python distribution for the browser and Node.js based on WebAssembly",
     "language": "Python",
-    "star": "117"
+    "star": "118"
   },
   {
     "title": "ItsKaitlyn03/OculusKiller",
     "url": "https://github.com/ItsKaitlyn03/OculusKiller",
     "description": "Completely kill the Oculus Dash and auto-launch SteamVR.",
     "language": "C#",
-    "star": "21"
+    "star": "28"
   },
   {
     "title": "directus/directus",
@@ -151,7 +151,7 @@
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "161"
+    "star": "163"
   },
   {
     "title": "palantir/blueprint",
@@ -165,7 +165,7 @@
     "url": "https://github.com/Runc2333/dingdong-helper-node",
     "description": "叮咚买菜助手，使用iOS客户端原生API，支持高峰期下单、支持捡漏、支持多账号、支持webhook通知（需自行实现对端）",
     "language": "JavaScript",
-    "star": "28"
+    "star": "57"
   },
   {
     "title": "dotnet/docs",
