@@ -11,21 +11,21 @@
     "url": "https://github.com/education/GitHubGraduation-2022",
     "description": "Join the GitHub Graduation Yearbook and \"walk the stage\" on June 11.",
     "language": "JavaScript",
-    "star": "81"
+    "star": "109"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "223"
+    "star": "226"
   },
   {
     "title": "scottbez1/smartknob",
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "145"
+    "star": "151"
   },
   {
     "title": "microsoft/PowerToys",
@@ -46,7 +46,7 @@
     "url": "https://github.com/huggingface/deep-rl-class",
     "description": "This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.",
     "language": "Jupyter Notebook",
-    "star": "151"
+    "star": "172"
   },
   {
     "title": "Dimbreath/GenshinData",
@@ -67,21 +67,21 @@
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "340"
+    "star": "341"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "342"
+    "star": "331"
   },
   {
     "title": "directus/directus",
     "url": "https://github.com/directus/directus",
     "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
     "language": "TypeScript",
-    "star": "221"
+    "star": "157"
   },
   {
     "title": "Azure/MachineLearningNotebooks",
@@ -95,7 +95,7 @@
     "url": "https://github.com/baptixta/game-design-refs",
     "description": "🎮 Referências para Game Designers.",
     "language": "none",
-    "star": "11"
+    "star": "14"
   },
   {
     "title": "justjavac/free-programming-books-zh_CN",
@@ -109,14 +109,14 @@
     "url": "https://github.com/dotnet/docs",
     "description": "This repository contains .NET Documentation.",
     "language": "none",
-    "star": "50"
+    "star": "30"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "86"
+    "star": "73"
   },
   {
     "title": "bhaiest/holoiso",
@@ -130,7 +130,7 @@
     "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
     "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
     "language": "JavaScript",
-    "star": "182"
+    "star": "176"
   },
   {
     "title": "Azure/azure-quickstart-templates",
@@ -144,7 +144,7 @@
     "url": "https://github.com/SebLague/Geographical-Adventures",
     "description": "",
     "language": "C#",
-    "star": "185"
+    "star": "186"
   },
   {
     "title": "apple/ml-cvnets",
@@ -165,13 +165,13 @@
     "url": "https://github.com/monicahq/monica",
     "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
     "language": "PHP",
-    "star": "10"
+    "star": "54"
   },
   {
     "title": "grafana/grafana",
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "47"
+    "star": "158"
   }
 ]
