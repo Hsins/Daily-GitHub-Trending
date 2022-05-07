@@ -1,0 +1,177 @@
+[
+  {
+    "title": "comwrg/FUCK-GFW",
+    "url": "https://github.com/comwrg/FUCK-GFW",
+    "description": "记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW",
+    "language": "none",
+    "star": "297"
+  },
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "description": "",
+    "language": "TypeScript",
+    "star": "198"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "Yet another remote desktop software",
+    "language": "Rust",
+    "star": "64"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A modern runtime for JavaScript and TypeScript.",
+    "language": "Rust",
+    "star": "34"
+  },
+  {
+    "title": "alibaba/easyexcel",
+    "url": "https://github.com/alibaba/easyexcel",
+    "description": "快速、简洁、解决大文件内存溢出的java处理Excel工具",
+    "language": "Java",
+    "star": "17"
+  },
+  {
+    "title": "gogs/gogs",
+    "url": "https://github.com/gogs/gogs",
+    "description": "Gogs is a painless self-hosted Git service",
+    "language": "Go",
+    "star": "34"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "star": "63"
+  },
+  {
+    "title": "wangkechun/go-by-example",
+    "url": "https://github.com/wangkechun/go-by-example",
+    "description": "",
+    "language": "Go",
+    "star": "96"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "description": "A layer 1 for everyone!",
+    "language": "Rust",
+    "star": "124"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "description": "A tool for exploring each layer in a docker image",
+    "language": "Go",
+    "star": "90"
+  },
+  {
+    "title": "aquasecurity/cloudsploit",
+    "url": "https://github.com/aquasecurity/cloudsploit",
+    "description": "Cloud Security Posture Management (CSPM)",
+    "language": "JavaScript",
+    "star": "11"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "119"
+  },
+  {
+    "title": "foundry-rs/foundry",
+    "url": "https://github.com/foundry-rs/foundry",
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "language": "Rust",
+    "star": "55"
+  },
+  {
+    "title": "theVakhovskeIsTaken/holoiso",
+    "url": "https://github.com/theVakhovskeIsTaken/holoiso",
+    "description": "SteamOS 3 (Holo) archiso configuration",
+    "language": "Shell",
+    "star": "107"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "description": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "language": "Java",
+    "star": "45"
+  },
+  {
+    "title": "Dreamacro/clash-tracing",
+    "url": "https://github.com/Dreamacro/clash-tracing",
+    "description": "",
+    "language": "Go",
+    "star": "49"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN",
+    "description": "📚 免费的计算机编程类中文书籍，欢迎投稿",
+    "language": "none",
+    "star": "144"
+  },
+  {
+    "title": "DataTalksClub/mlops-zoomcamp",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+    "description": "Free MLOps course from DataTalks.Club",
+    "language": "Jupyter Notebook",
+    "star": "60"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "64"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "719"
+  },
+  {
+    "title": "apache/camel",
+    "url": "https://github.com/apache/camel",
+    "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.",
+    "language": "Java",
+    "star": "4"
+  },
+  {
+    "title": "bluesky-social/adx",
+    "url": "https://github.com/bluesky-social/adx",
+    "description": "Experiment in self-authenticating data structures for a federated social network",
+    "language": "TypeScript",
+    "star": "144"
+  },
+  {
+    "title": "HarbourJ/Temp",
+    "url": "https://github.com/HarbourJ/Temp",
+    "description": "ksjsb",
+    "language": "none",
+    "star": "6"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "🤓 Build your own (insert technology here)",
+    "language": "none",
+    "star": "107"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+    "language": "Vue",
+    "star": "26"
+  }
+]
