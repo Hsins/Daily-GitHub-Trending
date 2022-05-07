@@ -4,14 +4,14 @@
     "url": "https://github.com/comwrg/FUCK-GFW",
     "description": "记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW",
     "language": "none",
-    "star": "297"
+    "star": "257"
   },
   {
     "title": "Tencent/tmagic-editor",
     "url": "https://github.com/Tencent/tmagic-editor",
     "description": "",
     "language": "TypeScript",
-    "star": "198"
+    "star": "199"
   },
   {
     "title": "rustdesk/rustdesk",
@@ -39,7 +39,7 @@
     "url": "https://github.com/gogs/gogs",
     "description": "Gogs is a painless self-hosted Git service",
     "language": "Go",
-    "star": "34"
+    "star": "53"
   },
   {
     "title": "microsoft/vscode",
@@ -53,14 +53,14 @@
     "url": "https://github.com/wangkechun/go-by-example",
     "description": "",
     "language": "Go",
-    "star": "96"
+    "star": "43"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "124"
+    "star": "121"
   },
   {
     "title": "wagoodman/dive",
@@ -88,21 +88,21 @@
     "url": "https://github.com/foundry-rs/foundry",
     "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
     "language": "Rust",
-    "star": "55"
+    "star": "37"
   },
   {
     "title": "theVakhovskeIsTaken/holoiso",
     "url": "https://github.com/theVakhovskeIsTaken/holoiso",
     "description": "SteamOS 3 (Holo) archiso configuration",
     "language": "Shell",
-    "star": "107"
+    "star": "64"
   },
   {
     "title": "metersphere/metersphere",
     "url": "https://github.com/metersphere/metersphere",
     "description": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
     "language": "Java",
-    "star": "45"
+    "star": "34"
   },
   {
     "title": "Dreamacro/clash-tracing",
@@ -144,14 +144,14 @@
     "url": "https://github.com/apache/camel",
     "description": "Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.",
     "language": "Java",
-    "star": "4"
+    "star": "15"
   },
   {
     "title": "bluesky-social/adx",
     "url": "https://github.com/bluesky-social/adx",
     "description": "Experiment in self-authenticating data structures for a federated social network",
     "language": "TypeScript",
-    "star": "144"
+    "star": "113"
   },
   {
     "title": "HarbourJ/Temp",
