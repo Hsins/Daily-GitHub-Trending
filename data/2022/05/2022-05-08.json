@@ -4,21 +4,21 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "539"
+    "star": "553"
   },
   {
     "title": "1Marc/todomvc-vanillajs-2022",
     "url": "https://github.com/1Marc/todomvc-vanillajs-2022",
     "description": "Vanilla JS TodoMVC App in 2022",
     "language": "CSS",
-    "star": "121"
+    "star": "136"
   },
   {
     "title": "Tencent/tmagic-editor",
     "url": "https://github.com/Tencent/tmagic-editor",
     "description": "",
     "language": "TypeScript",
-    "star": "134"
+    "star": "124"
   },
   {
     "title": "programthink/zhao",
@@ -32,14 +32,14 @@
     "url": "https://github.com/ant-design/ant-design",
     "description": "An enterprise-class UI design language and React UI library",
     "language": "TypeScript",
-    "star": "43"
+    "star": "46"
   },
   {
     "title": "HyNetwork/hysteria",
     "url": "https://github.com/HyNetwork/hysteria",
     "description": "Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",
     "language": "Go",
-    "star": "51"
+    "star": "36"
   },
   {
     "title": "gogs/gogs",
@@ -53,14 +53,14 @@
     "url": "https://github.com/BabylonJS/Babylon.js",
     "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
     "language": "TypeScript",
-    "star": "31"
+    "star": "57"
   },
   {
     "title": "emqx/neuron",
     "url": "https://github.com/emqx/neuron",
     "description": "Open Source Industrial IoT Connectivity Server",
     "language": "C",
-    "star": "18"
+    "star": "10"
   },
   {
     "title": "wangkechun/go-by-example",
@@ -81,63 +81,63 @@
     "url": "https://github.com/Dreamacro/clash-tracing",
     "description": "",
     "language": "Go",
-    "star": "59"
+    "star": "71"
   },
   {
     "title": "Vonng/ddia",
     "url": "https://github.com/Vonng/ddia",
     "description": "《Designing Data-Intensive Application》DDIA中文翻译",
     "language": "Python",
-    "star": "106"
+    "star": "118"
   },
   {
     "title": "Moonlight-Zhao/go-project-example",
     "url": "https://github.com/Moonlight-Zhao/go-project-example",
     "description": "",
     "language": "Go",
-    "star": "23"
+    "star": "14"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "673"
+    "star": "771"
   },
   {
     "title": "sunface/rust-course",
     "url": "https://github.com/sunface/rust-course",
     "description": "“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石\" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍",
     "language": "Rust",
-    "star": "59"
+    "star": "13"
   },
   {
     "title": "wagoodman/dive",
     "url": "https://github.com/wagoodman/dive",
     "description": "A tool for exploring each layer in a docker image",
     "language": "Go",
-    "star": "141"
+    "star": "131"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "110"
+    "star": "112"
   },
   {
     "title": "mifi/lossless-cut",
     "url": "https://github.com/mifi/lossless-cut",
     "description": "The swiss army knife of lossless video/audio editing",
     "language": "JavaScript",
-    "star": "70"
+    "star": "59"
   },
   {
     "title": "alibaba/lowcode-engine",
     "url": "https://github.com/alibaba/lowcode-engine",
     "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
     "language": "TypeScript",
-    "star": "18"
+    "star": "27"
   },
   {
     "title": "0x192/universal-android-debloater",
@@ -151,7 +151,7 @@
     "url": "https://github.com/metersphere/metersphere",
     "description": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
     "language": "Java",
-    "star": "50"
+    "star": "52"
   },
   {
     "title": "comwrg/FUCK-GFW",
@@ -165,7 +165,7 @@
     "url": "https://github.com/GitHubDaily/GitHubDaily",
     "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
     "language": "none",
-    "star": "42"
+    "star": "33"
   },
   {
     "title": "AykutSarac/jsonvisio.com",
