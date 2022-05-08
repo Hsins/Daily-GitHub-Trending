@@ -1,0 +1,177 @@
+[
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "541"
+  },
+  {
+    "title": "1Marc/todomvc-vanillajs-2022",
+    "url": "https://github.com/1Marc/todomvc-vanillajs-2022",
+    "description": "Vanilla JS TodoMVC App in 2022",
+    "language": "CSS",
+    "star": "136"
+  },
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "description": "",
+    "language": "TypeScript",
+    "star": "211"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "An enterprise-class UI design language and React UI library",
+    "language": "TypeScript",
+    "star": "28"
+  },
+  {
+    "title": "HyNetwork/hysteria",
+    "url": "https://github.com/HyNetwork/hysteria",
+    "description": "Hysteria is a feature-packed network utility optimized for networks of poor quality (e.g. satellite connections, congested public Wi-Fi, connecting from China to servers abroad)",
+    "language": "Go",
+    "star": "62"
+  },
+  {
+    "title": "gogs/gogs",
+    "url": "https://github.com/gogs/gogs",
+    "description": "Gogs is a painless self-hosted Git service",
+    "language": "Go",
+    "star": "201"
+  },
+  {
+    "title": "BabylonJS/Babylon.js",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "language": "TypeScript",
+    "star": "50"
+  },
+  {
+    "title": "emqx/neuron",
+    "url": "https://github.com/emqx/neuron",
+    "description": "Open Source Industrial IoT Connectivity Server",
+    "language": "C",
+    "star": "10"
+  },
+  {
+    "title": "wangkechun/go-by-example",
+    "url": "https://github.com/wangkechun/go-by-example",
+    "description": "",
+    "language": "Go",
+    "star": "60"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "description": "编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "language": "none",
+    "star": "24"
+  },
+  {
+    "title": "Dreamacro/clash-tracing",
+    "url": "https://github.com/Dreamacro/clash-tracing",
+    "description": "",
+    "language": "Go",
+    "star": "72"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "description": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "Moonlight-Zhao/go-project-example",
+    "url": "https://github.com/Moonlight-Zhao/go-project-example",
+    "description": "",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "673"
+  },
+  {
+    "title": "sunface/rust-course",
+    "url": "https://github.com/sunface/rust-course",
+    "description": "“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石\" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍",
+    "language": "Rust",
+    "star": "39"
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "description": "A tool for exploring each layer in a docker image",
+    "language": "Go",
+    "star": "143"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "117"
+  },
+  {
+    "title": "mifi/lossless-cut",
+    "url": "https://github.com/mifi/lossless-cut",
+    "description": "The swiss army knife of lossless video/audio editing",
+    "language": "JavaScript",
+    "star": "59"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "language": "TypeScript",
+    "star": "28"
+  },
+  {
+    "title": "0x192/universal-android-debloater",
+    "url": "https://github.com/0x192/universal-android-debloater",
+    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+    "language": "Rust",
+    "star": "50"
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "description": "MeterSphere 是一站式开源持续测试平台，覆盖测试管理、接口测试、UI 测试和性能测试等。搞测试，就选 MeterSphere！",
+    "language": "Java",
+    "star": "73"
+  },
+  {
+    "title": "comwrg/FUCK-GFW",
+    "url": "https://github.com/comwrg/FUCK-GFW",
+    "description": "记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW",
+    "language": "none",
+    "star": "10"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "AykutSarac/jsonvisio.com",
+    "url": "https://github.com/AykutSarac/jsonvisio.com",
+    "description": "🧩 Visualize your JSON data onto graphs seamlessly.",
+    "language": "TypeScript",
+    "star": "42"
+  }
+]
