@@ -1,0 +1,177 @@
+[
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "description": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
+    "language": "Java",
+    "star": "21"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "dair-ai/ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes",
+    "description": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.",
+    "language": "none",
+    "star": "681"
+  },
+  {
+    "title": "DataTalksClub/mlops-zoomcamp",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+    "description": "Free MLOps course from DataTalks.Club",
+    "language": "Jupyter Notebook",
+    "star": "295"
+  },
+  {
+    "title": "NebuTech/NBMiner",
+    "url": "https://github.com/NebuTech/NBMiner",
+    "description": "GPU Miner for ETH, RVN, BEAM, CFX, ZIL, AE, ERGO",
+    "language": "none",
+    "star": "47"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "633"
+  },
+  {
+    "title": "naptha/tesseract.js",
+    "url": "https://github.com/naptha/tesseract.js",
+    "description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+    "language": "JavaScript",
+    "star": "348"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "description": "Awesome Docker Compose samples",
+    "language": "HTML",
+    "star": "111"
+  },
+  {
+    "title": "HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "url": "https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "description": "Notes about courses Dive into Deep Learning by Mu Li",
+    "language": "Jupyter Notebook",
+    "star": "138"
+  },
+  {
+    "title": "pojntfx/weron",
+    "url": "https://github.com/pojntfx/weron",
+    "description": "Overlay networks based on WebRTC.",
+    "language": "Go",
+    "star": "91"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "description": "《Designing Data-Intensive Application》DDIA中文翻译",
+    "language": "Python",
+    "star": "163"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "571"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "description": "⚙️ NGINX config generator on steroids 💉",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "go-kratos/kratos",
+    "url": "https://github.com/go-kratos/kratos",
+    "description": "Your ultimate Go microservices framework for the cloud-native era.",
+    "language": "Go",
+    "star": "107"
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "description": "Roadmap to becoming an ASP.NET Core developer in 2022",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "description": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "language": "Jupyter Notebook",
+    "star": "33"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Shell",
+    "star": "104"
+  },
+  {
+    "title": "meysamhadeli/booking-microservices-sample",
+    "url": "https://github.com/meysamhadeli/booking-microservices-sample",
+    "description": "Booking Microservices is a Sample application for booking ticket. This application based on different software architecture and technologies like .Net Core, CQRS, DDD, Vertical Slice Architecture, Docker, kubernetes, tye, masstransit, RabbitMQ, Grpc, yarp reverse proxy, Identity Server, Redis, SqlServer, Entity Framework Core, Event Sourcing and…",
+    "language": "C#",
+    "star": "17"
+  },
+  {
+    "title": "paulgp/applied-methods-phd",
+    "url": "https://github.com/paulgp/applied-methods-phd",
+    "description": "Repo for Yale Applied Empirical Methods PHD Course",
+    "language": "TeX",
+    "star": "10"
+  },
+  {
+    "title": "Jdsleppy/django-orm-cheatsheet",
+    "url": "https://github.com/Jdsleppy/django-orm-cheatsheet",
+    "description": "A cheatsheet for the Django ORM",
+    "language": "none",
+    "star": "30"
+  },
+  {
+    "title": "gogs/gogs",
+    "url": "https://github.com/gogs/gogs",
+    "description": "Gogs is a painless self-hosted Git service",
+    "language": "Go",
+    "star": "220"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "13"
+  },
+  {
+    "title": "kubesphere/kubesphere",
+    "url": "https://github.com/kubesphere/kubesphere",
+    "description": "The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️",
+    "language": "Go",
+    "star": "10"
+  },
+  {
+    "title": "BabylonJS/Babylon.js",
+    "url": "https://github.com/BabylonJS/Babylon.js",
+    "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+    "language": "TypeScript",
+    "star": "170"
+  },
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "description": "",
+    "language": "TypeScript",
+    "star": "152"
+  }
+]
