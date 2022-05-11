@@ -60,7 +60,7 @@
     "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
     "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
     "language": "JavaScript",
-    "star": "123"
+    "star": "68"
   },
   {
     "title": "caddyserver/caddy",
@@ -74,14 +74,14 @@
     "url": "https://github.com/microsoft/calculator",
     "description": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
     "language": "C++",
-    "star": "32"
+    "star": "31"
   },
   {
     "title": "logseq/logseq",
     "url": "https://github.com/logseq/logseq",
     "description": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
     "language": "Clojure",
-    "star": "88"
+    "star": "62"
   },
   {
     "title": "wolfogre/go-pprof-practice",
@@ -102,7 +102,7 @@
     "url": "https://github.com/benbjohnson/litestream",
     "description": "Streaming replication for SQLite.",
     "language": "Go",
-    "star": "299"
+    "star": "205"
   },
   {
     "title": "tauri-apps/tauri",
