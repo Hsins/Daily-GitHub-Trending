@@ -4,21 +4,21 @@
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "74"
+    "star": "76"
   },
   {
     "title": "projectdiscovery/nuclei-templates",
     "url": "https://github.com/projectdiscovery/nuclei-templates",
     "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
     "language": "Python",
-    "star": "75"
+    "star": "71"
   },
   {
     "title": "digitalocean/nginxconfig.io",
     "url": "https://github.com/digitalocean/nginxconfig.io",
     "description": "⚙️ NGINX config generator on steroids 💉",
     "language": "JavaScript",
-    "star": "180"
+    "star": "94"
   },
   {
     "title": "flutter/flutter",
@@ -32,7 +32,7 @@
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
     "language": "Python",
-    "star": "371"
+    "star": "372"
   },
   {
     "title": "flutter/pinball",
@@ -46,14 +46,14 @@
     "url": "https://github.com/wolfogre/go-pprof-practice",
     "description": "go pprof practice.",
     "language": "Go",
-    "star": "22"
+    "star": "36"
   },
   {
     "title": "supabase/supabase",
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "156"
+    "star": "157"
   },
   {
     "title": "felipefialho/frontend-challenges",
@@ -67,42 +67,42 @@
     "url": "https://github.com/flutter/samples",
     "description": "A collection of Flutter examples and demos",
     "language": "Dart",
-    "star": "52"
+    "star": "51"
   },
   {
     "title": "alibaba/fastjson2",
     "url": "https://github.com/alibaba/fastjson2",
     "description": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
     "language": "Java",
-    "star": "149"
+    "star": "151"
   },
   {
     "title": "florinpop17/app-ideas",
     "url": "https://github.com/florinpop17/app-ideas",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "language": "none",
-    "star": "251"
+    "star": "250"
   },
   {
     "title": "charmbracelet/bubbletea",
     "url": "https://github.com/charmbracelet/bubbletea",
     "description": "A powerful little TUI framework 🏗",
     "language": "Go",
-    "star": "764"
+    "star": "768"
   },
   {
     "title": "huggingface/transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
     "language": "Python",
-    "star": "87"
+    "star": "84"
   },
   {
     "title": "databricks-academy/data-engineering-with-databricks",
     "url": "https://github.com/databricks-academy/data-engineering-with-databricks",
     "description": "",
     "language": "Python",
-    "star": "19"
+    "star": "25"
   },
   {
     "title": "hectorqin/reader",
@@ -116,7 +116,7 @@
     "url": "https://github.com/Azure/azure-rest-api-specs",
     "description": "The source for REST API specifications for Microsoft Azure.",
     "language": "TypeScript",
-    "star": "5"
+    "star": "4"
   },
   {
     "title": "terra-money/core",
@@ -130,21 +130,21 @@
     "url": "https://github.com/saltstack/salt",
     "description": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:",
     "language": "Python",
-    "star": "4"
+    "star": "6"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "151"
+    "star": "37"
   },
   {
     "title": "actions/virtual-environments",
     "url": "https://github.com/actions/virtual-environments",
     "description": "GitHub Actions virtual environments",
     "language": "PowerShell",
-    "star": "8"
+    "star": "13"
   },
   {
     "title": "jojoldu/junior-recruit-scheduler",
