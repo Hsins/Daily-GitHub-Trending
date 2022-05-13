@@ -1,0 +1,177 @@
+[
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "106"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "language": "Python",
+    "star": "52"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "description": "⚙️ NGINX config generator on steroids 💉",
+    "language": "JavaScript",
+    "star": "133"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "129"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "language": "Python",
+    "star": "335"
+  },
+  {
+    "title": "flutter/pinball",
+    "url": "https://github.com/flutter/pinball",
+    "description": "Google I/O 2022 Pinball game built with Flutter and Firebase",
+    "language": "Dart",
+    "star": "260"
+  },
+  {
+    "title": "wolfogre/go-pprof-practice",
+    "url": "https://github.com/wolfogre/go-pprof-practice",
+    "description": "go pprof practice.",
+    "language": "Go",
+    "star": "44"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "314"
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "description": "A public list of open-source challenges from companies around the world",
+    "language": "none",
+    "star": "170"
+  },
+  {
+    "title": "flutter/samples",
+    "url": "https://github.com/flutter/samples",
+    "description": "A collection of Flutter examples and demos",
+    "language": "Dart",
+    "star": "92"
+  },
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "description": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
+    "language": "Java",
+    "star": "158"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "363"
+  },
+  {
+    "title": "charmbracelet/bubbletea",
+    "url": "https://github.com/charmbracelet/bubbletea",
+    "description": "A powerful little TUI framework 🏗",
+    "language": "Go",
+    "star": "392"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "language": "Python",
+    "star": "126"
+  },
+  {
+    "title": "databricks-academy/data-engineering-with-databricks",
+    "url": "https://github.com/databricks-academy/data-engineering-with-databricks",
+    "description": "",
+    "language": "Python",
+    "star": "67"
+  },
+  {
+    "title": "hectorqin/reader",
+    "url": "https://github.com/hectorqin/reader",
+    "description": "阅读3服务器版，桌面端。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element",
+    "language": "Kotlin",
+    "star": "145"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "language": "TypeScript",
+    "star": "4"
+  },
+  {
+    "title": "terra-money/core",
+    "url": "https://github.com/terra-money/core",
+    "description": "GO implementation of the Terra Protocol",
+    "language": "JavaScript",
+    "star": "20"
+  },
+  {
+    "title": "saltstack/salt",
+    "url": "https://github.com/saltstack/salt",
+    "description": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "HTML",
+    "star": "142"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "12"
+  },
+  {
+    "title": "jojoldu/junior-recruit-scheduler",
+    "url": "https://github.com/jojoldu/junior-recruit-scheduler",
+    "description": "주니어 개발자 채용 정보",
+    "language": "JavaScript",
+    "star": "18"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "language": "C#",
+    "star": "21"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "language": "Swift",
+    "star": "46"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "language": "Python",
+    "star": "22"
+  }
+]
