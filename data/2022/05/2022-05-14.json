@@ -4,14 +4,14 @@
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "111"
+    "star": "113"
   },
   {
     "title": "projectdiscovery/nuclei-templates",
     "url": "https://github.com/projectdiscovery/nuclei-templates",
     "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
     "language": "Python",
-    "star": "64"
+    "star": "58"
   },
   {
     "title": "digitalocean/nginxconfig.io",
@@ -25,28 +25,28 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "200"
+    "star": "249"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
     "url": "https://github.com/PaddlePaddle/PaddleOCR",
     "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
     "language": "Python",
-    "star": "201"
+    "star": "170"
   },
   {
     "title": "flutter/pinball",
     "url": "https://github.com/flutter/pinball",
     "description": "Google I/O 2022 Pinball game built with Flutter and Firebase",
     "language": "Dart",
-    "star": "297"
+    "star": "233"
   },
   {
     "title": "wolfogre/go-pprof-practice",
     "url": "https://github.com/wolfogre/go-pprof-practice",
     "description": "go pprof practice.",
     "language": "Go",
-    "star": "51"
+    "star": "50"
   },
   {
     "title": "supabase/supabase",
@@ -74,21 +74,21 @@
     "url": "https://github.com/alibaba/fastjson2",
     "description": "🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库",
     "language": "Java",
-    "star": "91"
+    "star": "53"
   },
   {
     "title": "florinpop17/app-ideas",
     "url": "https://github.com/florinpop17/app-ideas",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "language": "none",
-    "star": "219"
+    "star": "218"
   },
   {
     "title": "charmbracelet/bubbletea",
     "url": "https://github.com/charmbracelet/bubbletea",
     "description": "A powerful little TUI framework 🏗",
     "language": "Go",
-    "star": "367"
+    "star": "368"
   },
   {
     "title": "huggingface/transformers",
@@ -116,7 +116,7 @@
     "url": "https://github.com/Azure/azure-rest-api-specs",
     "description": "The source for REST API specifications for Microsoft Azure.",
     "language": "TypeScript",
-    "star": "33"
+    "star": "31"
   },
   {
     "title": "terra-money/core",
@@ -130,7 +130,7 @@
     "url": "https://github.com/saltstack/salt",
     "description": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:",
     "language": "Python",
-    "star": "68"
+    "star": "62"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
@@ -144,7 +144,7 @@
     "url": "https://github.com/actions/virtual-environments",
     "description": "GitHub Actions virtual environments",
     "language": "PowerShell",
-    "star": "64"
+    "star": "67"
   },
   {
     "title": "jojoldu/junior-recruit-scheduler",
