@@ -1,0 +1,177 @@
+[
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "170"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "description": "A layer 1 for everyone!",
+    "language": "Rust",
+    "star": "54"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "44"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "language": "Kotlin",
+    "star": "240"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "98"
+  },
+  {
+    "title": "Cveinnt/LiveTerm",
+    "url": "https://github.com/Cveinnt/LiveTerm",
+    "description": "💻 Build terminal styled websites in minutes!",
+    "language": "TypeScript",
+    "star": "92"
+  },
+  {
+    "title": "b3nj5m1n/xdg-ninja",
+    "url": "https://github.com/b3nj5m1n/xdg-ninja",
+    "description": "",
+    "language": "Shell",
+    "star": "71"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "54"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "73"
+  },
+  {
+    "title": "NannyML/nannyml",
+    "url": "https://github.com/NannyML/nannyml",
+    "description": "Detecting silent model failure. NannyML estimates performance with an algorithm called Confidence-based Performance estimation (CBPE), developed by core contributors. It is the only open-source algorithm capable of fully capturing the impact of data drift on performance.",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "Rari-Capital/solmate",
+    "url": "https://github.com/Rari-Capital/solmate",
+    "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+    "language": "Solidity",
+    "star": "14"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "251"
+  },
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "description": "Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开发的一套后台管理框架。",
+    "language": "Vue",
+    "star": "27"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "57"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "211"
+  },
+  {
+    "title": "zbezj/HEU_KMS_Activator",
+    "url": "https://github.com/zbezj/HEU_KMS_Activator",
+    "description": "",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "dokku/dokku",
+    "url": "https://github.com/dokku/dokku",
+    "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+    "language": "Shell",
+    "star": "80"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "description": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
+    "language": "Java",
+    "star": "12"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "description": "Free and open source manga reader for Android.",
+    "language": "Kotlin",
+    "star": "15"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "49"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "description": "A Windows/macOS GUI based on Clash",
+    "language": "none",
+    "star": "55"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "143"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "description": "Offline build planner for Path of Exile.",
+    "language": "Lua",
+    "star": "5"
+  },
+  {
+    "title": "spicetify/spicetify-cli",
+    "url": "https://github.com/spicetify/spicetify-cli",
+    "description": "Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.",
+    "language": "JavaScript",
+    "star": "9"
+  }
+]
