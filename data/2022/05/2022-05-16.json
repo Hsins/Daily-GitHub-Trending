@@ -4,21 +4,21 @@
     "url": "https://github.com/android/nowinandroid",
     "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
     "language": "Kotlin",
-    "star": "269"
+    "star": "272"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "180"
+    "star": "213"
   },
   {
     "title": "b3nj5m1n/xdg-ninja",
     "url": "https://github.com/b3nj5m1n/xdg-ninja",
     "description": "",
     "language": "Shell",
-    "star": "64"
+    "star": "67"
   },
   {
     "title": "jellyfin/jellyfin",
@@ -39,14 +39,14 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "151"
+    "star": "148"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "76"
+    "star": "70"
   },
   {
     "title": "Lucaslhm/Flipper-IRDB",
@@ -88,7 +88,7 @@
     "url": "https://github.com/KikiLetGo/CyberController",
     "description": "CyberController",
     "language": "Java",
-    "star": "114"
+    "star": "110"
   },
   {
     "title": "LunarVim/Neovim-from-scratch",
@@ -116,14 +116,14 @@
     "url": "https://github.com/Dreamacro/clash",
     "description": "A rule-based tunnel in Go.",
     "language": "Go",
-    "star": "45"
+    "star": "37"
   },
   {
     "title": "Cveinnt/LiveTerm",
     "url": "https://github.com/Cveinnt/LiveTerm",
     "description": "💻 Build terminal styled websites in minutes!",
     "language": "TypeScript",
-    "star": "426"
+    "star": "125"
   },
   {
     "title": "HarbourMasters/Shipwright",
@@ -158,7 +158,7 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "20"
+    "star": "29"
   },
   {
     "title": "evrone/go-clean-template",
@@ -172,6 +172,6 @@
     "url": "https://github.com/getify/You-Dont-Know-JS",
     "description": "A book series on JavaScript. @YDKJS on twitter.",
     "language": "none",
-    "star": "48"
+    "star": "61"
   }
 ]
