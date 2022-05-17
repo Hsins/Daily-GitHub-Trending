@@ -11,7 +11,7 @@
     "url": "https://github.com/liyupi/sql-generator",
     "description": "🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~",
     "language": "Vue",
-    "star": "372"
+    "star": "311"
   },
   {
     "title": "HalseySpicy/Geeker-Admin",
@@ -39,14 +39,14 @@
     "url": "https://github.com/android/nowinandroid",
     "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
     "language": "Kotlin",
-    "star": "446"
+    "star": "543"
   },
   {
     "title": "rzashakeri/beautify-github-profile",
     "url": "https://github.com/rzashakeri/beautify-github-profile",
     "description": "This repository helps you to have a more beautiful and attractive github profile, and you can access a set of tools and guides for beautifying your github profile. 🚩",
     "language": "none",
-    "star": "233"
+    "star": "235"
   },
   {
     "title": "zbezj/HEU_KMS_Activator",
@@ -60,14 +60,14 @@
     "url": "https://github.com/0xAX/linux-insides",
     "description": "A little bit about a linux kernel",
     "language": "Python",
-    "star": "114"
+    "star": "75"
   },
   {
     "title": "Amanhacker/Aman-Barnwal-Leetcode-Solutions",
     "url": "https://github.com/Amanhacker/Aman-Barnwal-Leetcode-Solutions",
     "description": "This repo contains my Leetcode Solutions question-wise !",
     "language": "C++",
-    "star": "23"
+    "star": "24"
   },
   {
     "title": "kn32/python-buffered-reader-exploit",
@@ -81,14 +81,14 @@
     "url": "https://github.com/Cveinnt/LiveTerm",
     "description": "💻 Build terminal styled websites in minutes!",
     "language": "TypeScript",
-    "star": "434"
+    "star": "428"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "110"
+    "star": "108"
   },
   {
     "title": "NotFound403/id-server",
@@ -102,7 +102,7 @@
     "url": "https://github.com/newpanjing/gofound",
     "description": "GoFound GoLang Full text search go语言全文检索引擎 基于平衡二叉树+正排索引、倒排索引实现 可支持亿级数据，毫秒级查询。 使用简单，使用http接口，任何系统都可以使用。",
     "language": "Go",
-    "star": "41"
+    "star": "46"
   },
   {
     "title": "PaddlePaddle/PaddleNLP",
@@ -116,28 +116,28 @@
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "75"
+    "star": "12"
   },
   {
     "title": "KikiLetGo/CyberController",
     "url": "https://github.com/KikiLetGo/CyberController",
     "description": "CyberController",
     "language": "Java",
-    "star": "107"
+    "star": "108"
   },
   {
     "title": "lapce/lapce",
     "url": "https://github.com/lapce/lapce",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "110"
+    "star": "112"
   },
   {
     "title": "axinc-ai/ailia-models",
     "url": "https://github.com/axinc-ai/ailia-models",
     "description": "The collection of pre-trained, state-of-the-art AI models for ailia SDK",
     "language": "Python",
-    "star": "35"
+    "star": "36"
   },
   {
     "title": "AppFlowy-IO/AppFlowy",
@@ -165,13 +165,13 @@
     "url": "https://github.com/getify/You-Dont-Know-JS",
     "description": "A book series on JavaScript. @YDKJS on twitter.",
     "language": "none",
-    "star": "188"
+    "star": "197"
   },
   {
     "title": "iluwatar/java-design-patterns",
     "url": "https://github.com/iluwatar/java-design-patterns",
     "description": "Design patterns implemented in Java",
     "language": "Java",
-    "star": "33"
+    "star": "32"
   }
 ]
