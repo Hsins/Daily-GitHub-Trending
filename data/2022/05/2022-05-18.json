@@ -11,7 +11,7 @@
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "120"
+    "star": "174"
   },
   {
     "title": "mitmproxy/mitmproxy",
@@ -25,14 +25,14 @@
     "url": "https://github.com/The-Run-Philosophy-Organization/run",
     "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
     "language": "none",
-    "star": "167"
+    "star": "160"
   },
   {
     "title": "cilium/tetragon",
     "url": "https://github.com/cilium/tetragon",
     "description": "eBPF-based Security Observability and Runtime Enforcement",
     "language": "C",
-    "star": "275"
+    "star": "215"
   },
   {
     "title": "aptos-labs/aptos-core",
@@ -46,7 +46,7 @@
     "url": "https://github.com/MrGlockenspiel/activate-linux",
     "description": "The \"Activate Windows\" watermark ported to Linux",
     "language": "C",
-    "star": "739"
+    "star": "827"
   },
   {
     "title": "cloudwego/kitex-examples",
@@ -60,7 +60,7 @@
     "url": "https://github.com/PaddlePaddle/PaddleNLP",
     "description": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
     "language": "Python",
-    "star": "150"
+    "star": "162"
   },
   {
     "title": "rzashakeri/beautify-github-profile",
@@ -74,7 +74,7 @@
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "288"
+    "star": "297"
   },
   {
     "title": "Mrs4s/go-cqhttp",
@@ -88,7 +88,7 @@
     "url": "https://github.com/javascript-tutorial/en.javascript.info",
     "description": "Modern JavaScript Tutorial",
     "language": "HTML",
-    "star": "90"
+    "star": "88"
   },
   {
     "title": "ChainSafe/web3.js",
@@ -109,7 +109,7 @@
     "url": "https://github.com/ggerganov/kbd-audio",
     "description": "🎤⌨️ Acoustic keyboard eavesdropping",
     "language": "C++",
-    "star": "270"
+    "star": "131"
   },
   {
     "title": "OpenCTI-Platform/opencti",
@@ -123,14 +123,14 @@
     "url": "https://github.com/evrone/go-clean-template",
     "description": "Clean Architecture template for Golang services",
     "language": "Go",
-    "star": "145"
+    "star": "264"
   },
   {
     "title": "getify/You-Dont-Know-JS",
     "url": "https://github.com/getify/You-Dont-Know-JS",
     "description": "A book series on JavaScript. @YDKJS on twitter.",
     "language": "none",
-    "star": "132"
+    "star": "136"
   },
   {
     "title": "PrefectHQ/prefect",
