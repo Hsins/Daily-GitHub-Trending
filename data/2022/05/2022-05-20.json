@@ -25,14 +25,14 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "147"
+    "star": "157"
   },
   {
     "title": "programthink/zhao",
     "url": "https://github.com/programthink/zhao",
     "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
     "language": "Python",
-    "star": "20"
+    "star": "80"
   },
   {
     "title": "skyline75489/what-happens-when-zh_CN",
@@ -46,7 +46,7 @@
     "url": "https://github.com/521xueweihan/GitHub520",
     "description": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
     "language": "Python",
-    "star": "141"
+    "star": "239"
   },
   {
     "title": "microsoft/GlobalMLBuildingFootprints",
@@ -74,28 +74,28 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "231"
+    "star": "233"
   },
   {
     "title": "BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
     "url": "https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset",
     "description": "This repository provides motion datasets collected by Bandai Namco Research Inc",
     "language": "Python",
-    "star": "107"
+    "star": "69"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "54"
+    "star": "85"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.",
     "language": "Rust",
-    "star": "128"
+    "star": "127"
   },
   {
     "title": "StunlockStudios/vrising-dedicated-server-instructions",
@@ -123,21 +123,21 @@
     "url": "https://github.com/evrone/go-clean-template",
     "description": "Clean Architecture template for Golang services",
     "language": "Go",
-    "star": "231"
+    "star": "232"
   },
   {
     "title": "BohemiaInteractive/Arma-Reforger-Samples",
     "url": "https://github.com/BohemiaInteractive/Arma-Reforger-Samples",
     "description": "Modding Samples",
     "language": "Standard ML",
-    "star": "27"
+    "star": "23"
   },
   {
     "title": "vitejs/vite",
     "url": "https://github.com/vitejs/vite",
     "description": "Next generation frontend tooling. It's fast!",
     "language": "TypeScript",
-    "star": "63"
+    "star": "62"
   },
   {
     "title": "sanni/cartreader",
@@ -158,7 +158,7 @@
     "url": "https://github.com/gin-gonic/gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "language": "Go",
-    "star": "120"
+    "star": "122"
   },
   {
     "title": "vuejs/vue",
