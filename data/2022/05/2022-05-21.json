@@ -1,0 +1,177 @@
+[
+  {
+    "title": "M66B/FairEmail",
+    "url": "https://github.com/M66B/FairEmail",
+    "description": "Fully featured, open source, privacy friendly email app for Android",
+    "language": "Java",
+    "star": "74"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "241"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
+    "language": "Rust",
+    "star": "26"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "400"
+  },
+  {
+    "title": "leiurayer/downkyi",
+    "url": "https://github.com/leiurayer/downkyi",
+    "description": "哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
+    "language": "C#",
+    "star": "63"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "language": "Swift",
+    "star": "370"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.",
+    "language": "Rust",
+    "star": "172"
+  },
+  {
+    "title": "education/GitHubGraduation-2022",
+    "url": "https://github.com/education/GitHubGraduation-2022",
+    "description": "Join the GitHub Graduation Yearbook and \"walk the stage\" on June 11.",
+    "language": "JavaScript",
+    "star": "109"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "48"
+  },
+  {
+    "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
+    "url": "https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books",
+    "description": "Anime Girls Holding Programming Books",
+    "language": "none",
+    "star": "245"
+  },
+  {
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",
+    "language": "Go",
+    "star": "17"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "star": "63"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "246"
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "description": "Public interface definitions of Google APIs.",
+    "language": "Starlark",
+    "star": "35"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "20"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!",
+    "language": "Jupyter Notebook",
+    "star": "269"
+  },
+  {
+    "title": "chainfeeds/RSSAggregatorforWeb3",
+    "url": "https://github.com/chainfeeds/RSSAggregatorforWeb3",
+    "description": "Bootstrapping your personal Web3 info hub from more than 500 RSS Feeds.",
+    "language": "Python",
+    "star": "125"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "language": "TypeScript",
+    "star": "81"
+  },
+  {
+    "title": "ZhaJiHu/Cubli_Mini",
+    "url": "https://github.com/ZhaJiHu/Cubli_Mini",
+    "description": "",
+    "language": "C++",
+    "star": "28"
+  },
+  {
+    "title": "evrone/go-clean-template",
+    "url": "https://github.com/evrone/go-clean-template",
+    "description": "Clean Architecture template for Golang services",
+    "language": "Go",
+    "star": "214"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "star": "121"
+  },
+  {
+    "title": "sethvargo/ratchet",
+    "url": "https://github.com/sethvargo/ratchet",
+    "description": "A tool for securing CI/CD workflows with version pinning.",
+    "language": "Go",
+    "star": "60"
+  },
+  {
+    "title": "PolyMC/PolyMC",
+    "url": "https://github.com/PolyMC/PolyMC",
+    "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+    "language": "C++",
+    "star": "27"
+  },
+  {
+    "title": "tteck/Proxmox",
+    "url": "https://github.com/tteck/Proxmox",
+    "description": "Proxmox Helper Scripts",
+    "language": "Shell",
+    "star": "7"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
+    "language": "Go",
+    "star": "135"
+  }
+]
