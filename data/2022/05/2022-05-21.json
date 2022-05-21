@@ -11,42 +11,42 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "241"
+    "star": "196"
   },
   {
     "title": "copy/v86",
     "url": "https://github.com/copy/v86",
     "description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
     "language": "Rust",
-    "star": "25"
+    "star": "26"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "382"
+    "star": "400"
   },
   {
     "title": "leiurayer/downkyi",
     "url": "https://github.com/leiurayer/downkyi",
     "description": "哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。",
     "language": "C#",
-    "star": "90"
+    "star": "63"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "369"
+    "star": "370"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.",
     "language": "Rust",
-    "star": "169"
+    "star": "172"
   },
   {
     "title": "education/GitHubGraduation-2022",
@@ -60,7 +60,7 @@
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "48"
+    "star": "53"
   },
   {
     "title": "cat-milk/Anime-Girls-Holding-Programming-Books",
@@ -74,42 +74,42 @@
     "url": "https://github.com/aquasecurity/trivy",
     "description": "Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets",
     "language": "Go",
-    "star": "24"
+    "star": "23"
   },
   {
     "title": "catchorg/Catch2",
     "url": "https://github.com/catchorg/Catch2",
     "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
     "language": "C++",
-    "star": "67"
+    "star": "63"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "245"
+    "star": "246"
   },
   {
     "title": "googleapis/googleapis",
     "url": "https://github.com/googleapis/googleapis",
     "description": "Public interface definitions of Google APIs.",
     "language": "Starlark",
-    "star": "33"
+    "star": "35"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "24"
+    "star": "23"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "269"
+    "star": "277"
   },
   {
     "title": "chainfeeds/RSSAggregatorforWeb3",
@@ -123,14 +123,14 @@
     "url": "https://github.com/vitejs/vite",
     "description": "Next generation frontend tooling. It's fast!",
     "language": "TypeScript",
-    "star": "127"
+    "star": "126"
   },
   {
     "title": "ZhaJiHu/Cubli_Mini",
     "url": "https://github.com/ZhaJiHu/Cubli_Mini",
     "description": "",
     "language": "C++",
-    "star": "34"
+    "star": "28"
   },
   {
     "title": "evrone/go-clean-template",
@@ -144,7 +144,7 @@
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "description": "⭐️ Companies that don't have a broken hiring process",
     "language": "JavaScript",
-    "star": "116"
+    "star": "121"
   },
   {
     "title": "sethvargo/ratchet",
@@ -172,6 +172,6 @@
     "url": "https://github.com/gin-gonic/gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "language": "Go",
-    "star": "112"
+    "star": "115"
   }
 ]
