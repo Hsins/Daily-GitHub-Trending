@@ -4,7 +4,7 @@
     "url": "https://github.com/SerenityOS/jakt",
     "description": "The Jakt Programming Language",
     "language": "C++",
-    "star": "138"
+    "star": "100"
   },
   {
     "title": "M66B/FairEmail",
@@ -18,7 +18,7 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "398"
+    "star": "391"
   },
   {
     "title": "spacedriveapp/spacedrive",
@@ -32,14 +32,14 @@
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "language": "Java",
-    "star": "24"
+    "star": "25"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.",
     "language": "Rust",
-    "star": "588"
+    "star": "604"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
@@ -88,14 +88,14 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "202"
+    "star": "203"
   },
   {
     "title": "sharkdp/fd",
     "url": "https://github.com/sharkdp/fd",
     "description": "A simple, fast and user-friendly alternative to 'find'",
     "language": "Rust",
-    "star": "184"
+    "star": "162"
   },
   {
     "title": "adrianhajdin/project_syncfusion_dashboard",
@@ -109,28 +109,28 @@
     "url": "https://github.com/WeChat-Big-Data-Challenge-2022/challenge",
     "description": "微信大赛baseline",
     "language": "Python",
-    "star": "26"
+    "star": "18"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "321"
+    "star": "324"
   },
   {
     "title": "noisetorch/NoiseTorch",
     "url": "https://github.com/noisetorch/NoiseTorch",
     "description": "Real-time microphone noise suppression on Linux.",
     "language": "C",
-    "star": "66"
+    "star": "28"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "244"
+    "star": "285"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
@@ -144,7 +144,7 @@
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "180"
+    "star": "185"
   },
   {
     "title": "MunGell/awesome-for-beginners",
@@ -158,7 +158,7 @@
     "url": "https://github.com/microsoft/playwright",
     "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
     "language": "TypeScript",
-    "star": "48"
+    "star": "49"
   },
   {
     "title": "KaTeX/KaTeX",
