@@ -11,35 +11,35 @@
     "url": "https://github.com/SerenityOS/jakt",
     "description": "The Jakt Programming Language",
     "language": "Rust",
-    "star": "271"
+    "star": "126"
   },
   {
     "title": "spacedriveapp/spacedrive",
     "url": "https://github.com/spacedriveapp/spacedrive",
     "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
     "language": "TypeScript",
-    "star": "142"
+    "star": "141"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.",
     "language": "Rust",
-    "star": "610"
+    "star": "614"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "365"
+    "star": "366"
   },
   {
     "title": "LSPosed/MagiskOnWSA",
     "url": "https://github.com/LSPosed/MagiskOnWSA",
     "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
     "language": "none",
-    "star": "128"
+    "star": "130"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -67,7 +67,7 @@
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "37"
+    "star": "38"
   },
   {
     "title": "KRALYN/PositronV3",
@@ -95,7 +95,7 @@
     "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
     "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
     "language": "JavaScript",
-    "star": "53"
+    "star": "66"
   },
   {
     "title": "mifi/lossless-cut",
@@ -123,7 +123,7 @@
     "url": "https://github.com/FyroxEngine/Fyrox",
     "description": "3D and 2D game engine written in Rust",
     "language": "Rust",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "WeChat-Big-Data-Challenge-2022/challenge",
@@ -137,7 +137,7 @@
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "71"
+    "star": "103"
   },
   {
     "title": "taviso/123elf",
@@ -158,14 +158,14 @@
     "url": "https://github.com/ACM-Alexandria-SC/Internships",
     "description": "",
     "language": "none",
-    "star": "44"
+    "star": "42"
   },
   {
     "title": "bevyengine/bevy",
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "63"
+    "star": "23"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
