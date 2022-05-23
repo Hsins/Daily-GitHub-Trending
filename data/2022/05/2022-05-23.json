@@ -11,28 +11,28 @@
     "url": "https://github.com/SerenityOS/jakt",
     "description": "The Jakt Programming Language",
     "language": "Rust",
-    "star": "127"
+    "star": "271"
   },
   {
     "title": "spacedriveapp/spacedrive",
     "url": "https://github.com/spacedriveapp/spacedrive",
     "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
     "language": "TypeScript",
-    "star": "143"
+    "star": "142"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.",
     "language": "Rust",
-    "star": "415"
+    "star": "610"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "354"
+    "star": "365"
   },
   {
     "title": "LSPosed/MagiskOnWSA",
@@ -53,7 +53,7 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "55"
+    "star": "53"
   },
   {
     "title": "education/GitHubGraduation-2022",
@@ -67,7 +67,7 @@
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "21"
+    "star": "37"
   },
   {
     "title": "KRALYN/PositronV3",
@@ -81,7 +81,7 @@
     "url": "https://github.com/ProjectOpenSea/seaport",
     "description": "Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.",
     "language": "Solidity",
-    "star": "129"
+    "star": "128"
   },
   {
     "title": "hng/tech-coops",
@@ -123,7 +123,7 @@
     "url": "https://github.com/FyroxEngine/Fyrox",
     "description": "3D and 2D game engine written in Rust",
     "language": "Rust",
-    "star": "14"
+    "star": "20"
   },
   {
     "title": "WeChat-Big-Data-Challenge-2022/challenge",
@@ -137,7 +137,7 @@
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "107"
+    "star": "71"
   },
   {
     "title": "taviso/123elf",
@@ -165,13 +165,13 @@
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "23"
+    "star": "63"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "105"
+    "star": "29"
   }
 ]
