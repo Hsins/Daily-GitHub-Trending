@@ -4,14 +4,14 @@
     "url": "https://github.com/ansh/bionic-reading",
     "description": "A Chrome Extension for Bionic Reading on ANY website!",
     "language": "JavaScript",
-    "star": "305"
+    "star": "313"
   },
   {
     "title": "SerenityOS/jakt",
     "url": "https://github.com/SerenityOS/jakt",
     "description": "The Jakt Programming Language",
     "language": "Rust",
-    "star": "215"
+    "star": "263"
   },
   {
     "title": "terra-money/core",
@@ -25,14 +25,14 @@
     "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
     "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
     "language": "JavaScript",
-    "star": "141"
+    "star": "138"
   },
   {
     "title": "spacedriveapp/spacedrive",
     "url": "https://github.com/spacedriveapp/spacedrive",
     "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
     "language": "TypeScript",
-    "star": "381"
+    "star": "422"
   },
   {
     "title": "rustdesk/rustdesk",
@@ -53,14 +53,14 @@
     "url": "https://github.com/KRALYN/PositronV3",
     "description": "A upside-down, fast, portable, and compact 3D printer",
     "language": "none",
-    "star": "154"
+    "star": "152"
   },
   {
     "title": "taviso/123elf",
     "url": "https://github.com/taviso/123elf",
     "description": "A native port of Lotus 1-2-3 to Linux.",
     "language": "C",
-    "star": "61"
+    "star": "62"
   },
   {
     "title": "dair-ai/Mathematics-for-ML",
@@ -88,14 +88,14 @@
     "url": "https://github.com/mifi/lossless-cut",
     "description": "The swiss army knife of lossless video/audio editing",
     "language": "JavaScript",
-    "star": "77"
+    "star": "79"
   },
   {
     "title": "ProjectOpenSea/seaport",
     "url": "https://github.com/ProjectOpenSea/seaport",
     "description": "Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.",
     "language": "Solidity",
-    "star": "148"
+    "star": "147"
   },
   {
     "title": "KingRan/KR",
@@ -130,14 +130,14 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "143"
+    "star": "88"
   },
   {
     "title": "guchangan1/All-Defense-Tool",
     "url": "https://github.com/guchangan1/All-Defense-Tool",
     "description": "本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。",
     "language": "none",
-    "star": "72"
+    "star": "70"
   },
   {
     "title": "education/GitHubGraduation-2022",
@@ -165,7 +165,7 @@
     "url": "https://github.com/go-redis/redis",
     "description": "Type-safe Redis client for Golang",
     "language": "Go",
-    "star": "39"
+    "star": "17"
   },
   {
     "title": "kentcdodds/advanced-remix",
