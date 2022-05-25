@@ -4,7 +4,7 @@
     "url": "https://github.com/deepmind/mujoco",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "language": "C",
-    "star": "137"
+    "star": "124"
   },
   {
     "title": "terra-money/core",
@@ -53,7 +53,7 @@
     "url": "https://github.com/ml-tooling/best-of-ml-python",
     "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
     "language": "Python",
-    "star": "162"
+    "star": "160"
   },
   {
     "title": "streamlit/streamlit",
@@ -67,7 +67,7 @@
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "73"
+    "star": "274"
   },
   {
     "title": "github/super-linter",
@@ -95,7 +95,7 @@
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "57"
+    "star": "50"
   },
   {
     "title": "neargle/my-re0-k8s-security",
@@ -109,21 +109,21 @@
     "url": "https://github.com/docker/compose",
     "description": "Define and run multi-container applications with Docker",
     "language": "Go",
-    "star": "20"
+    "star": "23"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "276"
+    "star": "280"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "273"
+    "star": "135"
   },
   {
     "title": "dair-ai/Mathematics-for-ML",
@@ -151,7 +151,7 @@
     "url": "https://github.com/ja-netfilter/ja-netfilter",
     "description": "A javaagent framework",
     "language": "Java",
-    "star": "57"
+    "star": "42"
   },
   {
     "title": "faker-js/faker",
