@@ -4,7 +4,7 @@
     "url": "https://github.com/deepmind/mujoco",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "language": "C",
-    "star": "124"
+    "star": "125"
   },
   {
     "title": "terra-money/core",
@@ -39,7 +39,7 @@
     "url": "https://github.com/kentcdodds/advanced-remix",
     "description": "",
     "language": "TypeScript",
-    "star": "41"
+    "star": "40"
   },
   {
     "title": "databricks-academy/data-engineering-with-databricks",
@@ -53,21 +53,21 @@
     "url": "https://github.com/ml-tooling/best-of-ml-python",
     "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
     "language": "Python",
-    "star": "160"
+    "star": "163"
   },
   {
     "title": "streamlit/streamlit",
     "url": "https://github.com/streamlit/streamlit",
     "description": "Streamlit — The fastest way to build data apps in Python",
     "language": "Python",
-    "star": "17"
+    "star": "20"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "274"
+    "star": "73"
   },
   {
     "title": "github/super-linter",
@@ -95,7 +95,7 @@
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "50"
+    "star": "57"
   },
   {
     "title": "neargle/my-re0-k8s-security",
@@ -109,7 +109,7 @@
     "url": "https://github.com/docker/compose",
     "description": "Define and run multi-container applications with Docker",
     "language": "Go",
-    "star": "23"
+    "star": "20"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -123,7 +123,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "135"
+    "star": "136"
   },
   {
     "title": "dair-ai/Mathematics-for-ML",
@@ -151,7 +151,7 @@
     "url": "https://github.com/ja-netfilter/ja-netfilter",
     "description": "A javaagent framework",
     "language": "Java",
-    "star": "42"
+    "star": "44"
   },
   {
     "title": "faker-js/faker",
