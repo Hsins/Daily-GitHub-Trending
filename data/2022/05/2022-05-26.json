@@ -4,7 +4,7 @@
     "url": "https://github.com/PaddlePaddle/PaddleSpeech",
     "description": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
     "language": "C++",
-    "star": "149"
+    "star": "151"
   },
   {
     "title": "terra-money/core",
@@ -67,7 +67,7 @@
     "url": "https://github.com/dotnet/aspnetcore",
     "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
     "language": "C#",
-    "star": "22"
+    "star": "24"
   },
   {
     "title": "singularity-data/risingwave",
@@ -95,7 +95,7 @@
     "url": "https://github.com/deepmind/mujoco",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "language": "C",
-    "star": "163"
+    "star": "160"
   },
   {
     "title": "openai/DALL-E",
@@ -109,7 +109,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "204"
+    "star": "199"
   },
   {
     "title": "SigmaHQ/sigma",
