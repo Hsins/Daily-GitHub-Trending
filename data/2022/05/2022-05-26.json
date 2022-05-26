@@ -1,0 +1,177 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "description": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
+    "language": "C++",
+    "star": "149"
+  },
+  {
+    "title": "terra-money/core",
+    "url": "https://github.com/terra-money/core",
+    "description": "GO implementation of the Terra 2.0 Protocol",
+    "language": "JavaScript",
+    "star": "66"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "language": "TypeScript",
+    "star": "310"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "142"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "description": "A desktop debugging platform for mobile developers.",
+    "language": "TypeScript",
+    "star": "54"
+  },
+  {
+    "title": "InoriRus/Kyty",
+    "url": "https://github.com/InoriRus/Kyty",
+    "description": "PS4 & PS5 emulator",
+    "language": "C++",
+    "star": "87"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "language": "Python",
+    "star": "152"
+  },
+  {
+    "title": "guchangan1/All-Defense-Tool",
+    "url": "https://github.com/guchangan1/All-Defense-Tool",
+    "description": "本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。",
+    "language": "none",
+    "star": "85"
+  },
+  {
+    "title": "dair-ai/Mathematics-for-ML",
+    "url": "https://github.com/dair-ai/Mathematics-for-ML",
+    "description": "🧮 A collection of resources to learn mathematics for machine learning",
+    "language": "none",
+    "star": "609"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "language": "C#",
+    "star": "22"
+  },
+  {
+    "title": "singularity-data/risingwave",
+    "url": "https://github.com/singularity-data/risingwave",
+    "description": "RisingWave: the next-generation streaming database in the cloud.",
+    "language": "Rust",
+    "star": "107"
+  },
+  {
+    "title": "dotnet-presentations/dotnet-maui-workshop",
+    "url": "https://github.com/dotnet-presentations/dotnet-maui-workshop",
+    "description": "A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows",
+    "language": "C#",
+    "star": "61"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "language": "TypeScript",
+    "star": "39"
+  },
+  {
+    "title": "deepmind/mujoco",
+    "url": "https://github.com/deepmind/mujoco",
+    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+    "language": "C",
+    "star": "163"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "description": "PyTorch package for the discrete VAE used for DALL·E.",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "204"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "description": "Generic Signature Format for SIEM Systems",
+    "language": "Python",
+    "star": "8"
+  },
+  {
+    "title": "adrianhajdin/project_syncfusion_dashboard",
+    "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
+    "description": "This is a code repository for the corresponding YouTube video. In this tutorial we are going to build and deploy a an admin dashboard app using React.js and Syncfusion",
+    "language": "JavaScript",
+    "star": "73"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "22"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "description": "Spring Framework",
+    "language": "Java",
+    "star": "24"
+  },
+  {
+    "title": "golang/mock",
+    "url": "https://github.com/golang/mock",
+    "description": "GoMock is a mocking framework for the Go programming language.",
+    "language": "Go",
+    "star": "10"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The way the world runs Kubernetes",
+    "language": "TypeScript",
+    "star": "10"
+  },
+  {
+    "title": "Speek-App/Speek",
+    "url": "https://github.com/Speek-App/Speek",
+    "description": "Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications",
+    "language": "C++",
+    "star": "30"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "description": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "language": "Jupyter Notebook",
+    "star": "2"
+  },
+  {
+    "title": "alibaba/fastjson",
+    "url": "https://github.com/alibaba/fastjson",
+    "description": "A fast JSON parser/generator for Java.",
+    "language": "Java",
+    "star": "17"
+  }
+]
