@@ -4,7 +4,7 @@
     "url": "https://github.com/PaddlePaddle/PaddleSpeech",
     "description": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR witch punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
     "language": "C++",
-    "star": "151"
+    "star": "175"
   },
   {
     "title": "terra-money/core",
@@ -39,7 +39,7 @@
     "url": "https://github.com/InoriRus/Kyty",
     "description": "PS4 & PS5 emulator",
     "language": "C++",
-    "star": "87"
+    "star": "89"
   },
   {
     "title": "ml-tooling/best-of-ml-python",
@@ -53,7 +53,7 @@
     "url": "https://github.com/guchangan1/All-Defense-Tool",
     "description": "本项目集成了全网优秀的攻防工具项目，包含自动化利用，子域名、敏感目录、端口等扫描，各大中间件，cms漏洞利用工具以及应急响应等资料。",
     "language": "none",
-    "star": "85"
+    "star": "131"
   },
   {
     "title": "dair-ai/Mathematics-for-ML",
@@ -67,7 +67,7 @@
     "url": "https://github.com/dotnet/aspnetcore",
     "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
     "language": "C#",
-    "star": "24"
+    "star": "11"
   },
   {
     "title": "singularity-data/risingwave",
@@ -81,21 +81,21 @@
     "url": "https://github.com/dotnet-presentations/dotnet-maui-workshop",
     "description": "A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows",
     "language": "C#",
-    "star": "61"
+    "star": "32"
   },
   {
     "title": "chakra-ui/chakra-ui",
     "url": "https://github.com/chakra-ui/chakra-ui",
     "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
     "language": "TypeScript",
-    "star": "39"
+    "star": "40"
   },
   {
     "title": "deepmind/mujoco",
     "url": "https://github.com/deepmind/mujoco",
     "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
     "language": "C",
-    "star": "160"
+    "star": "157"
   },
   {
     "title": "openai/DALL-E",
@@ -109,7 +109,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "199"
+    "star": "265"
   },
   {
     "title": "SigmaHQ/sigma",
@@ -137,7 +137,7 @@
     "url": "https://github.com/spring-projects/spring-framework",
     "description": "Spring Framework",
     "language": "Java",
-    "star": "24"
+    "star": "25"
   },
   {
     "title": "golang/mock",
@@ -158,7 +158,7 @@
     "url": "https://github.com/Speek-App/Speek",
     "description": "Privacy focused messenger that doesn't trust anyone with your identity, your contact list, or your communications",
     "language": "C++",
-    "star": "30"
+    "star": "29"
   },
   {
     "title": "Azure/MachineLearningNotebooks",
@@ -172,6 +172,6 @@
     "url": "https://github.com/alibaba/fastjson",
     "description": "A fast JSON parser/generator for Java.",
     "language": "Java",
-    "star": "17"
+    "star": "29"
   }
 ]
