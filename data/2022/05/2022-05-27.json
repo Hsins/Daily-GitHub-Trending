@@ -4,14 +4,14 @@
     "url": "https://github.com/phyver/GameShell",
     "description": "a game to learn (or teach) how to use standard commands in a Unix shell",
     "language": "Shell",
-    "star": "160"
+    "star": "77"
   },
   {
     "title": "PaddlePaddle/PaddleSpeech",
     "url": "https://github.com/PaddlePaddle/PaddleSpeech",
     "description": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
     "language": "C++",
-    "star": "230"
+    "star": "146"
   },
   {
     "title": "singularity-data/risingwave",
@@ -25,7 +25,7 @@
     "url": "https://github.com/lensapp/lens",
     "description": "Lens - The way the world runs Kubernetes",
     "language": "TypeScript",
-    "star": "93"
+    "star": "37"
   },
   {
     "title": "lucidrains/imagen-pytorch",
@@ -53,7 +53,7 @@
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "184"
+    "star": "191"
   },
   {
     "title": "facebook/react",
@@ -67,7 +67,7 @@
     "url": "https://github.com/payloadcms/payload",
     "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
     "language": "TypeScript",
-    "star": "368"
+    "star": "627"
   },
   {
     "title": "TakWolf/ark-pixel-font",
@@ -81,21 +81,21 @@
     "url": "https://github.com/lucidrains/DALLE2-pytorch",
     "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
     "language": "Python",
-    "star": "82"
+    "star": "83"
   },
   {
     "title": "InoriRus/Kyty",
     "url": "https://github.com/InoriRus/Kyty",
     "description": "PS4 & PS5 emulator",
     "language": "C++",
-    "star": "139"
+    "star": "272"
   },
   {
     "title": "facebook/flipper",
     "url": "https://github.com/facebook/flipper",
     "description": "A desktop debugging platform for mobile developers.",
     "language": "TypeScript",
-    "star": "208"
+    "star": "147"
   },
   {
     "title": "axoletl/not-br",
@@ -109,21 +109,21 @@
     "url": "https://github.com/Azure/MachineLearningNotebooks",
     "description": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
     "language": "Jupyter Notebook",
-    "star": "19"
+    "star": "17"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "195"
+    "star": "190"
   },
   {
     "title": "terra-money/core",
     "url": "https://github.com/terra-money/core",
     "description": "GO implementation of the Terra 2.0 Protocol",
     "language": "JavaScript",
-    "star": "69"
+    "star": "71"
   },
   {
     "title": "facebook/rocksdb",
@@ -137,7 +137,7 @@
     "url": "https://github.com/nocobase/nocobase",
     "description": "NocoBase is a scalability-first, open-source no-code/low-code development platform.",
     "language": "TypeScript",
-    "star": "186"
+    "star": "190"
   },
   {
     "title": "facebook/react-native",
@@ -158,14 +158,14 @@
     "url": "https://github.com/hyperledger/besu",
     "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu",
     "language": "Java",
-    "star": "7"
+    "star": "28"
   },
   {
     "title": "facebookresearch/myosuite",
     "url": "https://github.com/facebookresearch/myosuite",
     "description": "MyoSuite is a collection of environments/tasks to be solved by musculoskeletal models simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API.",
     "language": "Python",
-    "star": "34"
+    "star": "40"
   },
   {
     "title": "pmndrs/react-three-fiber",
