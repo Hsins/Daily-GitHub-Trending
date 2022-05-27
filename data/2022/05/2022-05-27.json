@@ -1,0 +1,177 @@
+[
+  {
+    "title": "phyver/GameShell",
+    "url": "https://github.com/phyver/GameShell",
+    "description": "a game to learn (or teach) how to use standard commands in a Unix shell",
+    "language": "Shell",
+    "star": "153"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "description": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
+    "language": "C++",
+    "star": "233"
+  },
+  {
+    "title": "singularity-data/risingwave",
+    "url": "https://github.com/singularity-data/risingwave",
+    "description": "RisingWave: the next-generation streaming database in the cloud.",
+    "language": "Rust",
+    "star": "228"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "description": "Lens - The way the world runs Kubernetes",
+    "language": "TypeScript",
+    "star": "93"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "description": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "language": "Python",
+    "star": "665"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "53"
+  },
+  {
+    "title": "zijie0/HumanSystemOptimization",
+    "url": "https://github.com/zijie0/HumanSystemOptimization",
+    "description": "健康学习到150岁 - 人体系统调优不完全指南",
+    "language": "none",
+    "star": "307"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "184"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "star": "60"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "language": "TypeScript",
+    "star": "368"
+  },
+  {
+    "title": "TakWolf/ark-pixel-font",
+    "url": "https://github.com/TakWolf/ark-pixel-font",
+    "description": "方舟像素字体 - 开源的泛中日韩像素字体 / Ark pixel font - Open source Pan-CJK pixel font",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "description": "Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch",
+    "language": "Python",
+    "star": "82"
+  },
+  {
+    "title": "InoriRus/Kyty",
+    "url": "https://github.com/InoriRus/Kyty",
+    "description": "PS4 & PS5 emulator",
+    "language": "C++",
+    "star": "139"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "description": "A desktop debugging platform for mobile developers.",
+    "language": "TypeScript",
+    "star": "208"
+  },
+  {
+    "title": "axoletl/not-br",
+    "url": "https://github.com/axoletl/not-br",
+    "description": "Site source for Not BR (https://not-br.neocities.org/)",
+    "language": "JavaScript",
+    "star": "34"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "description": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "language": "Jupyter Notebook",
+    "star": "19"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "191"
+  },
+  {
+    "title": "terra-money/core",
+    "url": "https://github.com/terra-money/core",
+    "description": "GO implementation of the Terra 2.0 Protocol",
+    "language": "JavaScript",
+    "star": "69"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "language": "C++",
+    "star": "13"
+  },
+  {
+    "title": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "description": "NocoBase is a scalability-first, open-source no-code/low-code development platform.",
+    "language": "TypeScript",
+    "star": "186"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "language": "JavaScript",
+    "star": "21"
+  },
+  {
+    "title": "gustavoguanabara/html-css",
+    "url": "https://github.com/gustavoguanabara/html-css",
+    "description": "Curso de HTML5 e CSS3",
+    "language": "HTML",
+    "star": "21"
+  },
+  {
+    "title": "hyperledger/besu",
+    "url": "https://github.com/hyperledger/besu",
+    "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://wiki.hyperledger.org/display/besu",
+    "language": "Java",
+    "star": "7"
+  },
+  {
+    "title": "facebookresearch/myosuite",
+    "url": "https://github.com/facebookresearch/myosuite",
+    "description": "MyoSuite is a collection of environments/tasks to be solved by musculoskeletal models simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API.",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "pmndrs/react-three-fiber",
+    "url": "https://github.com/pmndrs/react-three-fiber",
+    "description": "🇨🇭 A React renderer for Three.js",
+    "language": "TypeScript",
+    "star": "18"
+  }
+]
