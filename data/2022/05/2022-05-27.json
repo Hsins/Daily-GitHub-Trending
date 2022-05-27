@@ -4,14 +4,14 @@
     "url": "https://github.com/phyver/GameShell",
     "description": "a game to learn (or teach) how to use standard commands in a Unix shell",
     "language": "Shell",
-    "star": "153"
+    "star": "160"
   },
   {
     "title": "PaddlePaddle/PaddleSpeech",
     "url": "https://github.com/PaddlePaddle/PaddleSpeech",
     "description": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
     "language": "C++",
-    "star": "233"
+    "star": "230"
   },
   {
     "title": "singularity-data/risingwave",
@@ -116,7 +116,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "191"
+    "star": "195"
   },
   {
     "title": "terra-money/core",
