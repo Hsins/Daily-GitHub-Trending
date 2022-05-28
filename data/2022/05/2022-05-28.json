@@ -4,14 +4,14 @@
     "url": "https://github.com/payloadcms/payload",
     "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
     "language": "TypeScript",
-    "star": "629"
+    "star": "628"
   },
   {
     "title": "github/copilot-docs",
     "url": "https://github.com/github/copilot-docs",
     "description": "Documentation for GitHub Copilot",
     "language": "Python",
-    "star": "182"
+    "star": "184"
   },
   {
     "title": "facebook/flipper",
@@ -25,7 +25,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "187"
+    "star": "189"
   },
   {
     "title": "curated-intel/CTI-fundamentals",
@@ -53,21 +53,21 @@
     "url": "https://github.com/lucidrains/imagen-pytorch",
     "description": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
     "language": "Python",
-    "star": "520"
+    "star": "512"
   },
   {
     "title": "zijie0/HumanSystemOptimization",
     "url": "https://github.com/zijie0/HumanSystemOptimization",
     "description": "健康学习到150岁 - 人体系统调优不完全指南",
     "language": "none",
-    "star": "297"
+    "star": "301"
   },
   {
     "title": "ml-tooling/best-of-ml-python",
     "url": "https://github.com/ml-tooling/best-of-ml-python",
     "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
     "language": "Python",
-    "star": "197"
+    "star": "174"
   },
   {
     "title": "livebud/bud",
@@ -81,7 +81,7 @@
     "url": "https://github.com/PaddlePaddle/PaddleSpeech",
     "description": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
     "language": "C++",
-    "star": "112"
+    "star": "247"
   },
   {
     "title": "uutils/coreutils",
@@ -123,7 +123,7 @@
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "25"
+    "star": "19"
   },
   {
     "title": "sudheerj/reactjs-interview-questions",
@@ -137,28 +137,28 @@
     "url": "https://github.com/gustavoguanabara/html-css",
     "description": "Curso de HTML5 e CSS3",
     "language": "HTML",
-    "star": "33"
+    "star": "34"
   },
   {
     "title": "521xueweihan/HelloGitHub",
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "30"
+    "star": "56"
   },
   {
     "title": "rolling-scopes-school/tasks",
     "url": "https://github.com/rolling-scopes-school/tasks",
     "description": "",
     "language": "JavaScript",
-    "star": "11"
+    "star": "8"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "26"
+    "star": "28"
   },
   {
     "title": "mswjs/msw",
