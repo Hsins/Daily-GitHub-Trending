@@ -1,0 +1,177 @@
+[
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "language": "TypeScript",
+    "star": "629"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "182"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "description": "A desktop debugging platform for mobile developers.",
+    "language": "TypeScript",
+    "star": "135"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "187"
+  },
+  {
+    "title": "curated-intel/CTI-fundamentals",
+    "url": "https://github.com/curated-intel/CTI-fundamentals",
+    "description": "A collection of papers, blogs, and resources that make up the quintessential aspects of cyber threat intelligence",
+    "language": "none",
+    "star": "47"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "star": "81"
+  },
+  {
+    "title": "zephyrproject-rtos/zephyr",
+    "url": "https://github.com/zephyrproject-rtos/zephyr",
+    "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "language": "C",
+    "star": "3"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "description": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "language": "Python",
+    "star": "520"
+  },
+  {
+    "title": "zijie0/HumanSystemOptimization",
+    "url": "https://github.com/zijie0/HumanSystemOptimization",
+    "description": "健康学习到150岁 - 人体系统调优不完全指南",
+    "language": "none",
+    "star": "297"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "description": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "language": "Python",
+    "star": "197"
+  },
+  {
+    "title": "livebud/bud",
+    "url": "https://github.com/livebud/bud",
+    "description": "The Full-Stack Web Framework for Go",
+    "language": "JavaScript",
+    "star": "170"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "description": "Easy-to-use Speech Toolkit including SOTA/Streaming ASR with punctuation, influential TTS with text frontend, Speaker Verification System and End-to-End Speech Simultaneous Translation.",
+    "language": "C++",
+    "star": "112"
+  },
+  {
+    "title": "uutils/coreutils",
+    "url": "https://github.com/uutils/coreutils",
+    "description": "Cross-platform Rust rewrite of the GNU coreutils",
+    "language": "Rust",
+    "star": "45"
+  },
+  {
+    "title": "rzashakeri/beautify-github-profile",
+    "url": "https://github.com/rzashakeri/beautify-github-profile",
+    "description": "This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐",
+    "language": "none",
+    "star": "401"
+  },
+  {
+    "title": "rust-lang/mdBook",
+    "url": "https://github.com/rust-lang/mdBook",
+    "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
+    "language": "Rust",
+    "star": "21"
+  },
+  {
+    "title": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "description": "NocoBase is a scalability-first, open-source no-code/low-code development platform.",
+    "language": "TypeScript",
+    "star": "215"
+  },
+  {
+    "title": "yangzongzhuan/RuoYi",
+    "url": "https://github.com/yangzongzhuan/RuoYi",
+    "description": "🎉 (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用",
+    "language": "HTML",
+    "star": "11"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "25"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "language": "JavaScript",
+    "star": "19"
+  },
+  {
+    "title": "gustavoguanabara/html-css",
+    "url": "https://github.com/gustavoguanabara/html-css",
+    "description": "Curso de HTML5 e CSS3",
+    "language": "HTML",
+    "star": "33"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "rolling-scopes-school/tasks",
+    "url": "https://github.com/rolling-scopes-school/tasks",
+    "description": "",
+    "language": "JavaScript",
+    "star": "11"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "26"
+  },
+  {
+    "title": "mswjs/msw",
+    "url": "https://github.com/mswjs/msw",
+    "description": "Seamless REST/GraphQL API mocking library for browser and Node.js.",
+    "language": "TypeScript",
+    "star": "22"
+  },
+  {
+    "title": "matthiasjost/dotnet-content-creators",
+    "url": "https://github.com/matthiasjost/dotnet-content-creators",
+    "description": "⚡A list of .NET content creators",
+    "language": "none",
+    "star": "8"
+  }
+]
