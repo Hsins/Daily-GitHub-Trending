@@ -4,35 +4,35 @@
     "url": "https://github.com/rocboss/paopao-ce",
     "description": "🔥A artistic \"twitter like\" community built on gin+zinc+vue+ts 清新文艺微社区",
     "language": "Go",
-    "star": "122"
+    "star": "137"
   },
   {
     "title": "zijie0/HumanSystemOptimization",
     "url": "https://github.com/zijie0/HumanSystemOptimization",
     "description": "健康学习到150岁 - 人体系统调优不完全指南",
     "language": "none",
-    "star": "376"
+    "star": "369"
   },
   {
     "title": "Grasscutters/Grasscutter",
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "130"
+    "star": "124"
   },
   {
     "title": "neondatabase/neon",
     "url": "https://github.com/neondatabase/neon",
     "description": "The serverless open source alternative to AWS Aurora Postgres.",
     "language": "Rust",
-    "star": "231"
+    "star": "232"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "195"
+    "star": "202"
   },
   {
     "title": "requarks/wiki",
@@ -46,35 +46,35 @@
     "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
     "description": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript",
     "language": "none",
-    "star": "124"
+    "star": "122"
   },
   {
     "title": "hasinhayder/hydra",
     "url": "https://github.com/hasinhayder/hydra",
     "description": "Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box",
     "language": "PHP",
-    "star": "44"
+    "star": "63"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
     "language": "JavaScript",
-    "star": "122"
+    "star": "126"
   },
   {
     "title": "livebud/bud",
     "url": "https://github.com/livebud/bud",
     "description": "The Full-Stack Web Framework for Go",
     "language": "JavaScript",
-    "star": "307"
+    "star": "305"
   },
   {
     "title": "TomSchimansky/CustomTkinter",
     "url": "https://github.com/TomSchimansky/CustomTkinter",
     "description": "A modern and customizable python UI-library based on Tkinter",
     "language": "Python",
-    "star": "147"
+    "star": "138"
   },
   {
     "title": "ripienaar/free-for-dev",
@@ -88,7 +88,7 @@
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "98"
+    "star": "119"
   },
   {
     "title": "Cveinnt/LiveTerm",
@@ -102,7 +102,7 @@
     "url": "https://github.com/BishopFox/sliver",
     "description": "Adversary Emulation Framework",
     "language": "Go",
-    "star": "39"
+    "star": "40"
   },
   {
     "title": "cotes2020/jekyll-theme-chirpy",
@@ -137,21 +137,21 @@
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C++",
-    "star": "58"
+    "star": "62"
   },
   {
     "title": "ageitgey/face_recognition",
     "url": "https://github.com/ageitgey/face_recognition",
     "description": "The world's simplest facial recognition api for Python and the command line",
     "language": "Python",
-    "star": "34"
+    "star": "41"
   },
   {
     "title": "qmk/qmk_firmware",
     "url": "https://github.com/qmk/qmk_firmware",
     "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
     "language": "C",
-    "star": "11"
+    "star": "13"
   },
   {
     "title": "zju3dv/OnePose",
@@ -172,6 +172,6 @@
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "23"
+    "star": "25"
   }
 ]
