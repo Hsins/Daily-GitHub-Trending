@@ -1,0 +1,177 @@
+[
+  {
+    "title": "rocboss/paopao-ce",
+    "url": "https://github.com/rocboss/paopao-ce",
+    "description": "🔥A artistic \"twitter like\" community built on gin+zinc+vue+ts 清新文艺微社区",
+    "language": "Go",
+    "star": "122"
+  },
+  {
+    "title": "zijie0/HumanSystemOptimization",
+    "url": "https://github.com/zijie0/HumanSystemOptimization",
+    "description": "健康学习到150岁 - 人体系统调优不完全指南",
+    "language": "none",
+    "star": "376"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "130"
+  },
+  {
+    "title": "neondatabase/neon",
+    "url": "https://github.com/neondatabase/neon",
+    "description": "The serverless open source alternative to AWS Aurora Postgres.",
+    "language": "Rust",
+    "star": "231"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "195"
+  },
+  {
+    "title": "requarks/wiki",
+    "url": "https://github.com/requarks/wiki",
+    "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+    "language": "Vue",
+    "star": "51"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-js",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
+    "description": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript",
+    "language": "none",
+    "star": "124"
+  },
+  {
+    "title": "hasinhayder/hydra",
+    "url": "https://github.com/hasinhayder/hydra",
+    "description": "Hydra is a zero-config API boilerplate with Laravel 9x + Laravel Sanctum that comes with an excellent user and role management API out of the box",
+    "language": "PHP",
+    "star": "44"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "language": "JavaScript",
+    "star": "122"
+  },
+  {
+    "title": "livebud/bud",
+    "url": "https://github.com/livebud/bud",
+    "description": "The Full-Stack Web Framework for Go",
+    "language": "JavaScript",
+    "star": "307"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "description": "A modern and customizable python UI-library based on Tkinter",
+    "language": "Python",
+    "star": "147"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "28"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "description": "A post-modern modal text editor.",
+    "language": "Rust",
+    "star": "98"
+  },
+  {
+    "title": "Cveinnt/LiveTerm",
+    "url": "https://github.com/Cveinnt/LiveTerm",
+    "description": "💻 Build terminal styled websites in minutes!",
+    "language": "TypeScript",
+    "star": "56"
+  },
+  {
+    "title": "BishopFox/sliver",
+    "url": "https://github.com/BishopFox/sliver",
+    "description": "Adversary Emulation Framework",
+    "language": "Go",
+    "star": "39"
+  },
+  {
+    "title": "cotes2020/jekyll-theme-chirpy",
+    "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
+    "description": "A minimal, responsive, and powerful Jekyll theme for presenting professional writing.",
+    "language": "HTML",
+    "star": "26"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "eludadev/css-buttons",
+    "url": "https://github.com/eludadev/css-buttons",
+    "description": "100 Modern CSS Buttons, Free And Royalty Free.",
+    "language": "CSS",
+    "star": "46"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability",
+    "language": "Vim script",
+    "star": "32"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!",
+    "language": "C++",
+    "star": "58"
+  },
+  {
+    "title": "ageitgey/face_recognition",
+    "url": "https://github.com/ageitgey/face_recognition",
+    "description": "The world's simplest facial recognition api for Python and the command line",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "qmk/qmk_firmware",
+    "url": "https://github.com/qmk/qmk_firmware",
+    "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+    "language": "C",
+    "star": "11"
+  },
+  {
+    "title": "zju3dv/OnePose",
+    "url": "https://github.com/zju3dv/OnePose",
+    "description": "Code for \"OnePose: One-Shot Object Pose Estimation without CAD Models\", CVPR 2022",
+    "language": "none",
+    "star": "37"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated interview preparation materials for busy engineers",
+    "language": "JavaScript",
+    "star": "114"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "23"
+  }
+]
