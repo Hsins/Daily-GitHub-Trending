@@ -4,7 +4,7 @@
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "149"
+    "star": "176"
   },
   {
     "title": "dragonflydb/dragonfly",
@@ -18,42 +18,42 @@
     "url": "https://github.com/InterviewReady/system-design-resources",
     "description": "These are the best resources for System Design on the Internet",
     "language": "none",
-    "star": "580"
+    "star": "579"
   },
   {
     "title": "faif/python-patterns",
     "url": "https://github.com/faif/python-patterns",
     "description": "A collection of design patterns/idioms in Python",
     "language": "Python",
-    "star": "715"
+    "star": "509"
   },
   {
     "title": "THUDM/CogVideo",
     "url": "https://github.com/THUDM/CogVideo",
     "description": "Text-to-video generation.",
     "language": "none",
-    "star": "151"
+    "star": "143"
   },
   {
     "title": "zijie0/HumanSystemOptimization",
     "url": "https://github.com/zijie0/HumanSystemOptimization",
     "description": "健康学习到150岁 - 人体系统调优不完全指南",
     "language": "none",
-    "star": "540"
+    "star": "844"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "207"
+    "star": "198"
   },
   {
     "title": "chvancooten/follina.py",
     "url": "https://github.com/chvancooten/follina.py",
     "description": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
     "language": "Smarty",
-    "star": "181"
+    "star": "150"
   },
   {
     "title": "chaharnishant11/CodeIn10DSA",
@@ -74,7 +74,7 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
     "language": "JavaScript",
-    "star": "336"
+    "star": "375"
   },
   {
     "title": "Akebi-Group/Akebi-GC",
@@ -88,7 +88,7 @@
     "url": "https://github.com/Cracked5pider/KaynStrike",
     "description": "UDRL for CS",
     "language": "C",
-    "star": "41"
+    "star": "37"
   },
   {
     "title": "py-why/dowhy",
@@ -109,7 +109,7 @@
     "url": "https://github.com/yihong0618/2022",
     "description": "2022 gogogo",
     "language": "Python",
-    "star": "10"
+    "star": "11"
   },
   {
     "title": "sottlmarek/DevSecOps",
@@ -130,14 +130,14 @@
     "url": "https://github.com/YunaiV/SpringBoot-Labs",
     "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
     "language": "Java",
-    "star": "26"
+    "star": "7"
   },
   {
     "title": "xianfei/SysMocap",
     "url": "https://github.com/xianfei/SysMocap",
     "description": "A real-time motion capture system for 3D virtual character animating.",
     "language": "JavaScript",
-    "star": "129"
+    "star": "128"
   },
   {
     "title": "nodejs/undici",
@@ -151,27 +151,27 @@
     "url": "https://github.com/Koko-boya/Grasscutter_Resources",
     "description": "Combined Resource Folder from Multiple Sources of certain anime game",
     "language": "Lua",
-    "star": "19"
+    "star": "23"
   },
   {
     "title": "toniblyx/my-arsenal-of-aws-security-tools",
     "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
     "description": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
     "language": "Shell",
-    "star": "16"
+    "star": "32"
   },
   {
     "title": "cookiecutter/cookiecutter",
     "url": "https://github.com/cookiecutter/cookiecutter",
     "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",
     "language": "Python",
-    "star": "44"
+    "star": "22"
   },
   {
     "title": "skyline-emu/skyline",
     "url": "https://github.com/skyline-emu/skyline",
     "description": "Run Nintendo Switch homebrew & games on your Android device!",
     "language": "C++",
-    "star": "114"
+    "star": "109"
   }
 ]
