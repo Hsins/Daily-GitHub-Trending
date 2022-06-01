@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "149"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "description": "A modern replacement for Redis and Memcached",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "description": "These are the best resources for System Design on the Internet",
+    "language": "none",
+    "star": "580"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "description": "A collection of design patterns/idioms in Python",
+    "language": "Python",
+    "star": "715"
+  },
+  {
+    "title": "THUDM/CogVideo",
+    "url": "https://github.com/THUDM/CogVideo",
+    "description": "Text-to-video generation.",
+    "language": "none",
+    "star": "151"
+  },
+  {
+    "title": "zijie0/HumanSystemOptimization",
+    "url": "https://github.com/zijie0/HumanSystemOptimization",
+    "description": "健康学习到150岁 - 人体系统调优不完全指南",
+    "language": "none",
+    "star": "540"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "207"
+  },
+  {
+    "title": "chvancooten/follina.py",
+    "url": "https://github.com/chvancooten/follina.py",
+    "description": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
+    "language": "Smarty",
+    "star": "181"
+  },
+  {
+    "title": "chaharnishant11/CodeIn10DSA",
+    "url": "https://github.com/chaharnishant11/CodeIn10DSA",
+    "description": "",
+    "language": "C++",
+    "star": "15"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "description": "Collection of Summer 2023 tech internships!",
+    "language": "Python",
+    "star": "138"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "language": "JavaScript",
+    "star": "336"
+  },
+  {
+    "title": "Akebi-Group/Akebi-GC",
+    "url": "https://github.com/Akebi-Group/Akebi-GC",
+    "description": "The great software for some game that exploiting anime girls (and boys).",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "Cracked5pider/KaynStrike",
+    "url": "https://github.com/Cracked5pider/KaynStrike",
+    "description": "UDRL for CS",
+    "language": "C",
+    "star": "40"
+  },
+  {
+    "title": "py-why/dowhy",
+    "url": "https://github.com/py-why/dowhy",
+    "description": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.",
+    "language": "Python",
+    "star": "63"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-js",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
+    "description": "Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript",
+    "language": "none",
+    "star": "309"
+  },
+  {
+    "title": "yihong0618/2022",
+    "url": "https://github.com/yihong0618/2022",
+    "description": "2022 gogogo",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "sottlmarek/DevSecOps",
+    "url": "https://github.com/sottlmarek/DevSecOps",
+    "description": "Ultimate DevSecOps library",
+    "language": "none",
+    "star": "60"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "description": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "language": "Shell",
+    "star": "13"
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "language": "Java",
+    "star": "23"
+  },
+  {
+    "title": "xianfei/SysMocap",
+    "url": "https://github.com/xianfei/SysMocap",
+    "description": "A real-time motion capture system for 3D virtual character animating.",
+    "language": "JavaScript",
+    "star": "126"
+  },
+  {
+    "title": "nodejs/undici",
+    "url": "https://github.com/nodejs/undici",
+    "description": "An HTTP/1.1 client, written from scratch for Node.js",
+    "language": "JavaScript",
+    "star": "10"
+  },
+  {
+    "title": "Koko-boya/Grasscutter_Resources",
+    "url": "https://github.com/Koko-boya/Grasscutter_Resources",
+    "description": "Combined Resource Folder from Multiple Sources of certain anime game",
+    "language": "Lua",
+    "star": "19"
+  },
+  {
+    "title": "toniblyx/my-arsenal-of-aws-security-tools",
+    "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
+    "description": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+    "language": "Shell",
+    "star": "16"
+  },
+  {
+    "title": "cookiecutter/cookiecutter",
+    "url": "https://github.com/cookiecutter/cookiecutter",
+    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "description": "Run Nintendo Switch homebrew & games on your Android device!",
+    "language": "C++",
+    "star": "114"
+  }
+]
