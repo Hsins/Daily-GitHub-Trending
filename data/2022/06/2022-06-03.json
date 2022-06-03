@@ -18,21 +18,21 @@
     "url": "https://github.com/elebumm/RedditVideoMakerBot",
     "description": "Create Reddit Videos with just✨ one command ✨",
     "language": "Python",
-    "star": "192"
+    "star": "178"
   },
   {
     "title": "coderQuad/New-Grad-Positions-2023",
     "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
     "description": "A collection of New Grad full time roles in SWE, Quant, and PM.",
     "language": "none",
-    "star": "129"
+    "star": "94"
   },
   {
     "title": "PJLab-ADG/SensorsCalibration",
     "url": "https://github.com/PJLab-ADG/SensorsCalibration",
     "description": "OpenCalib: A Multi-sensor Calibration Toolbox for Autonomous Driving",
     "language": "C++",
-    "star": "36"
+    "star": "41"
   },
   {
     "title": "khangich/machine-learning-interview",
@@ -46,7 +46,7 @@
     "url": "https://github.com/samber/lo",
     "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
     "language": "Go",
-    "star": "26"
+    "star": "31"
   },
   {
     "title": "shimohq/chinese-programmer-wrong-pronunciation",
@@ -67,28 +67,28 @@
     "url": "https://github.com/YunaiV/SpringBoot-Labs",
     "description": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
     "language": "Java",
-    "star": "17"
+    "star": "27"
   },
   {
     "title": "InterviewReady/system-design-resources",
     "url": "https://github.com/InterviewReady/system-design-resources",
     "description": "These are the best resources for System Design on the Internet",
     "language": "none",
-    "star": "481"
+    "star": "438"
   },
   {
     "title": "pittcsc/Summer2023-Internships",
     "url": "https://github.com/pittcsc/Summer2023-Internships",
     "description": "Collection of Summer 2023 tech internships!",
     "language": "Python",
-    "star": "180"
+    "star": "162"
   },
   {
     "title": "tmplink/ipv6",
     "url": "https://github.com/tmplink/ipv6",
     "description": "A document about ipv6.",
     "language": "none",
-    "star": "25"
+    "star": "39"
   },
   {
     "title": "ergrelet/unlicense",
@@ -130,14 +130,14 @@
     "url": "https://github.com/vuejs/vitepress",
     "description": "Vite & Vue powered static site generator.",
     "language": "TypeScript",
-    "star": "8"
+    "star": "32"
   },
   {
     "title": "tinygo-org/tinygo",
     "url": "https://github.com/tinygo-org/tinygo",
     "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
     "language": "Go",
-    "star": "27"
+    "star": "10"
   },
   {
     "title": "WordPress/gutenberg",
@@ -151,27 +151,27 @@
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "85"
+    "star": "81"
   },
   {
     "title": "WordPress/wordpress-develop",
     "url": "https://github.com/WordPress/wordpress-develop",
     "description": "WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.",
     "language": "PHP",
-    "star": "1"
+    "star": "22"
   },
   {
     "title": "doocs/source-code-hunter",
     "url": "https://github.com/doocs/source-code-hunter",
     "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
     "language": "Java",
-    "star": "31"
+    "star": "38"
   },
   {
     "title": "chvancooten/follina.py",
     "url": "https://github.com/chvancooten/follina.py",
     "description": "POC to replicate the full 'Follina' Office RCE vulnerability for testing purposes",
     "language": "Smarty",
-    "star": "107"
+    "star": "134"
   }
 ]
