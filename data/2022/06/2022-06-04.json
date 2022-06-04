@@ -4,98 +4,98 @@
     "url": "https://github.com/mxgmn/MarkovJunior",
     "description": "Probabilistic PL based on pattern matching and constraint propagation, 148 examples",
     "language": "C#",
-    "star": "379"
+    "star": "464"
   },
   {
     "title": "coderQuad/New-Grad-Positions-2023",
     "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
     "description": "A collection of New Grad full time roles in SWE, Quant, and PM.",
     "language": "none",
-    "star": "86"
+    "star": "70"
   },
   {
     "title": "samber/lo",
     "url": "https://github.com/samber/lo",
     "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
     "language": "Go",
-    "star": "137"
+    "star": "83"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "86"
+    "star": "115"
   },
   {
     "title": "kubecost/opencost",
     "url": "https://github.com/kubecost/opencost",
     "description": "Cross-cloud cost allocation models for Kubernetes workloads",
     "language": "Go",
-    "star": "16"
+    "star": "40"
   },
   {
     "title": "psf/black",
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "112"
+    "star": "122"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "81"
+    "star": "95"
   },
   {
     "title": "iperov/DeepFaceLive",
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "Real-time face swap for PC streaming or video calls",
     "language": "Python",
-    "star": "46"
+    "star": "51"
   },
   {
     "title": "elebumm/RedditVideoMakerBot",
     "url": "https://github.com/elebumm/RedditVideoMakerBot",
     "description": "Create Reddit Videos with just✨ one command ✨",
     "language": "Python",
-    "star": "228"
+    "star": "223"
   },
   {
     "title": "py-why/dowhy",
     "url": "https://github.com/py-why/dowhy",
     "description": "DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks.",
     "language": "Python",
-    "star": "59"
+    "star": "76"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "266"
+    "star": "247"
   },
   {
     "title": "JohnHammond/msdt-follina",
     "url": "https://github.com/JohnHammond/msdt-follina",
     "description": "Codebase to generate an msdt-follina payload",
     "language": "Python",
-    "star": "102"
+    "star": "101"
   },
   {
     "title": "anasty17/mirror-leech-telegram-bot",
     "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
     "description": "Aria/qBittorrent Telegram mirror/leech bot",
     "language": "Python",
-    "star": "28"
+    "star": "31"
   },
   {
     "title": "Lissy93/dashy",
     "url": "https://github.com/Lissy93/dashy",
     "description": "🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!",
     "language": "Vue",
-    "star": "167"
+    "star": "41"
   },
   {
     "title": "MunGell/awesome-for-beginners",
@@ -116,42 +116,42 @@
     "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
     "description": "中国程序员容易发音错误的单词",
     "language": "Python",
-    "star": "121"
+    "star": "149"
   },
   {
     "title": "florinpop17/app-ideas",
     "url": "https://github.com/florinpop17/app-ideas",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "language": "none",
-    "star": "114"
+    "star": "80"
   },
   {
     "title": "cheat/cheatsheets",
     "url": "https://github.com/cheat/cheatsheets",
     "description": "Community-sourced cheatsheets",
     "language": "Shell",
-    "star": "48"
+    "star": "63"
   },
   {
     "title": "khangich/machine-learning-interview",
     "url": "https://github.com/khangich/machine-learning-interview",
     "description": "Machine Learning Interviews from FAANG, Snapchat, LinkedIn. I have offers from Snapchat, Coupang, Stitchfix etc. Blog: mlengineer.io.",
     "language": "none",
-    "star": "126"
+    "star": "131"
   },
   {
     "title": "wazuh/wazuh",
     "url": "https://github.com/wazuh/wazuh",
     "description": "Wazuh - The Open Source Security Platform",
     "language": "C",
-    "star": "50"
+    "star": "44"
   },
   {
     "title": "angular/angular",
     "url": "https://github.com/angular/angular",
     "description": "The modern web developer’s platform",
     "language": "TypeScript",
-    "star": "46"
+    "star": "54"
   },
   {
     "title": "guilhermemm-dev/links",
@@ -165,13 +165,13 @@
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "27"
+    "star": "80"
   },
   {
     "title": "OAI/OpenAPI-Specification",
     "url": "https://github.com/OAI/OpenAPI-Specification",
     "description": "The OpenAPI Specification Repository",
     "language": "JavaScript",
-    "star": "8"
+    "star": "10"
   }
 ]
