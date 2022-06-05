@@ -32,14 +32,14 @@
     "url": "https://github.com/elebumm/RedditVideoMakerBot",
     "description": "Create Reddit Videos with just✨ one command ✨",
     "language": "Python",
-    "star": "230"
+    "star": "216"
   },
   {
     "title": "EmbarkStudios/kajiya",
     "url": "https://github.com/EmbarkStudios/kajiya",
     "description": "💡 Experimental real-time global illumination renderer 🦀",
     "language": "Rust",
-    "star": "133"
+    "star": "127"
   },
   {
     "title": "google/highway",
@@ -74,7 +74,7 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "28"
+    "star": "51"
   },
   {
     "title": "florinpop17/app-ideas",
@@ -165,7 +165,7 @@
     "url": "https://github.com/ageron/handson-ml2",
     "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
     "language": "Jupyter Notebook",
-    "star": "53"
+    "star": "54"
   },
   {
     "title": "vuejs/vitepress",
