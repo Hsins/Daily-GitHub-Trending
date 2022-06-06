@@ -1,0 +1,177 @@
+[
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "593"
+  },
+  {
+    "title": "mxgmn/MarkovJunior",
+    "url": "https://github.com/mxgmn/MarkovJunior",
+    "description": "Probabilistic PL based on pattern matching and constraint propagation, 148 examples",
+    "language": "C#",
+    "star": "216"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "language": "Dockerfile",
+    "star": "165"
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "language": "C++",
+    "star": "101"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just✨ one command ✨",
+    "language": "Python",
+    "star": "170"
+  },
+  {
+    "title": "EmbarkStudios/kajiya",
+    "url": "https://github.com/EmbarkStudios/kajiya",
+    "description": "💡 Experimental real-time global illumination renderer 🦀",
+    "language": "Rust",
+    "star": "157"
+  },
+  {
+    "title": "google/highway",
+    "url": "https://github.com/google/highway",
+    "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+    "language": "C++",
+    "star": "255"
+  },
+  {
+    "title": "arc298/instagram-scraper",
+    "url": "https://github.com/arc298/instagram-scraper",
+    "description": "Scrapes an instagram user's photos and videos",
+    "language": "Python",
+    "star": "178"
+  },
+  {
+    "title": "anasty17/mirror-leech-telegram-bot",
+    "url": "https://github.com/anasty17/mirror-leech-telegram-bot",
+    "description": "Aria/qBittorrent Telegram mirror/leech bot",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "description": "DALL·E Mini - Generate images from a text prompt",
+    "language": "Python",
+    "star": "470"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "104"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "249"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "language": "Python",
+    "star": "41"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "175"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "description": "中国程序员容易发音错误的单词",
+    "language": "Python",
+    "star": "379"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "22"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "star": "89"
+  },
+  {
+    "title": "guilhermemm-dev/links",
+    "url": "https://github.com/guilhermemm-dev/links",
+    "description": "Lista colaborativa de sites e ferramentas úteis para desenvolvedores (que sejam preferencialmente gratuitas/livres).",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "tinygo-org/tinygo",
+    "url": "https://github.com/tinygo-org/tinygo",
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+    "language": "Go",
+    "star": "266"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "TypeScript",
+    "star": "192"
+  },
+  {
+    "title": "QSCTech/zju-icicles",
+    "url": "https://github.com/QSCTech/zju-icicles",
+    "description": "浙江大学课程攻略共享计划",
+    "language": "HTML",
+    "star": "131"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "description": "Real-time face swap for PC streaming or video calls",
+    "language": "Python",
+    "star": "278"
+  },
+  {
+    "title": "AI4Finance-Foundation/FinRL",
+    "url": "https://github.com/AI4Finance-Foundation/FinRL",
+    "description": "FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥",
+    "language": "Jupyter Notebook",
+    "star": "146"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "star": "120"
+  },
+  {
+    "title": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "description": "Vite & Vue powered static site generator.",
+    "language": "TypeScript",
+    "star": "131"
+  }
+]
