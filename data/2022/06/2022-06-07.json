@@ -1,0 +1,177 @@
+[
+  {
+    "title": "tinygo-org/tinygo",
+    "url": "https://github.com/tinygo-org/tinygo",
+    "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
+    "language": "Go",
+    "star": "282"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "608"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "language": "Rust",
+    "star": "17"
+  },
+  {
+    "title": "alibaba/GaiaX",
+    "url": "https://github.com/alibaba/GaiaX",
+    "description": "GaiaX dynamic template engine is a lightweight cross-platform solution of pure native dynamic card.",
+    "language": "Rust",
+    "star": "17"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "description": "DALL·E Mini - Generate images from a text prompt",
+    "language": "Python",
+    "star": "492"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "179"
+  },
+  {
+    "title": "doocs/source-code-hunter",
+    "url": "https://github.com/doocs/source-code-hunter",
+    "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+    "language": "Java",
+    "star": "80"
+  },
+  {
+    "title": "Lissy93/dashy",
+    "url": "https://github.com/Lissy93/dashy",
+    "description": "🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more!",
+    "language": "Vue",
+    "star": "508"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "description": "中国程序员容易发音错误的单词",
+    "language": "Python",
+    "star": "274"
+  },
+  {
+    "title": "Nwqda/CVE-2022-26134",
+    "url": "https://github.com/Nwqda/CVE-2022-26134",
+    "description": "[PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE)",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "ahmedtariq01/Cloud-DevOps-Learning-Resources",
+    "url": "https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources",
+    "description": "This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "star": "90"
+  },
+  {
+    "title": "saharmor/dalle-playground",
+    "url": "https://github.com/saharmor/dalle-playground",
+    "description": "A playground to generate images from any text prompt based on OpenAI's DALL-E https://openai.com/blog/dall-e/",
+    "language": "JavaScript",
+    "star": "74"
+  },
+  {
+    "title": "knela96/Dynamic-Parkour-System",
+    "url": "https://github.com/knela96/Dynamic-Parkour-System",
+    "description": "Dynamic Parkour System is a FREE plugin for Unity that allows anyone to import any model and have an already working controller with parkour capabilities like in Assassin's Creed games.",
+    "language": "C#",
+    "star": "22"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "229"
+  },
+  {
+    "title": "ashishpatel26/Andrew-NG-Notes",
+    "url": "https://github.com/ashishpatel26/Andrew-NG-Notes",
+    "description": "This is Andrew NG Coursera Handwritten Notes.",
+    "language": "Jupyter Notebook",
+    "star": "55"
+  },
+  {
+    "title": "EpicGames/Signup",
+    "url": "https://github.com/EpicGames/Signup",
+    "description": "Information about signing up for a free Epic Games account, and getting access to UnrealEngine source code.",
+    "language": "none",
+    "star": "22"
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "description": "Cybernetically enhanced web apps",
+    "language": "TypeScript",
+    "star": "210"
+  },
+  {
+    "title": "PlasmoHQ/plasmo",
+    "url": "https://github.com/PlasmoHQ/plasmo",
+    "description": "The browser extension framework",
+    "language": "TypeScript",
+    "star": "237"
+  },
+  {
+    "title": "arc298/instagram-scraper",
+    "url": "https://github.com/arc298/instagram-scraper",
+    "description": "Scrapes an instagram user's photos and videos",
+    "language": "Python",
+    "star": "181"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "description": "Real-time face swap for PC streaming or video calls",
+    "language": "Python",
+    "star": "265"
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "language": "Java",
+    "star": "146"
+  },
+  {
+    "title": "google/highway",
+    "url": "https://github.com/google/highway",
+    "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+    "language": "C++",
+    "star": "185"
+  },
+  {
+    "title": "icloud-photos-downloader/icloud_photos_downloader",
+    "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
+    "description": "A command-line tool to download photos from iCloud",
+    "language": "Python",
+    "star": "69"
+  },
+  {
+    "title": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "description": "Vite & Vue powered static site generator.",
+    "language": "TypeScript",
+    "star": "117"
+  }
+]
