@@ -4,14 +4,14 @@
     "url": "https://github.com/tinygo-org/tinygo",
     "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
     "language": "Go",
-    "star": "282"
+    "star": "201"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "608"
+    "star": "514"
   },
   {
     "title": "MystenLabs/sui",
@@ -25,21 +25,21 @@
     "url": "https://github.com/alibaba/GaiaX",
     "description": "GaiaX dynamic template engine is a lightweight cross-platform solution of pure native dynamic card.",
     "language": "Rust",
-    "star": "17"
+    "star": "23"
   },
   {
     "title": "borisdayma/dalle-mini",
     "url": "https://github.com/borisdayma/dalle-mini",
     "description": "DALL·E Mini - Generate images from a text prompt",
     "language": "Python",
-    "star": "492"
+    "star": "500"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "179"
+    "star": "176"
   },
   {
     "title": "doocs/source-code-hunter",
@@ -60,21 +60,21 @@
     "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
     "description": "中国程序员容易发音错误的单词",
     "language": "Python",
-    "star": "274"
+    "star": "340"
   },
   {
     "title": "Nwqda/CVE-2022-26134",
     "url": "https://github.com/Nwqda/CVE-2022-26134",
     "description": "[PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE)",
     "language": "Python",
-    "star": "30"
+    "star": "24"
   },
   {
     "title": "ahmedtariq01/Cloud-DevOps-Learning-Resources",
     "url": "https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources",
     "description": "This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.",
     "language": "none",
-    "star": "20"
+    "star": "24"
   },
   {
     "title": "v2fly/v2ray-core",
@@ -88,7 +88,7 @@
     "url": "https://github.com/saharmor/dalle-playground",
     "description": "A playground to generate images from any text prompt based on OpenAI's DALL-E https://openai.com/blog/dall-e/",
     "language": "JavaScript",
-    "star": "74"
+    "star": "65"
   },
   {
     "title": "knela96/Dynamic-Parkour-System",
@@ -102,7 +102,7 @@
     "url": "https://github.com/florinpop17/app-ideas",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "language": "none",
-    "star": "229"
+    "star": "227"
   },
   {
     "title": "ashishpatel26/Andrew-NG-Notes",
@@ -116,35 +116,35 @@
     "url": "https://github.com/EpicGames/Signup",
     "description": "Information about signing up for a free Epic Games account, and getting access to UnrealEngine source code.",
     "language": "none",
-    "star": "22"
+    "star": "32"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "210"
+    "star": "214"
   },
   {
     "title": "PlasmoHQ/plasmo",
     "url": "https://github.com/PlasmoHQ/plasmo",
     "description": "The browser extension framework",
     "language": "TypeScript",
-    "star": "237"
+    "star": "221"
   },
   {
     "title": "arc298/instagram-scraper",
     "url": "https://github.com/arc298/instagram-scraper",
     "description": "Scrapes an instagram user's photos and videos",
     "language": "Python",
-    "star": "181"
+    "star": "194"
   },
   {
     "title": "iperov/DeepFaceLive",
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "Real-time face swap for PC streaming or video calls",
     "language": "Python",
-    "star": "265"
+    "star": "287"
   },
   {
     "title": "Snailclimb/JavaGuide",
@@ -158,20 +158,20 @@
     "url": "https://github.com/google/highway",
     "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
     "language": "C++",
-    "star": "185"
+    "star": "219"
   },
   {
     "title": "icloud-photos-downloader/icloud_photos_downloader",
     "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
     "description": "A command-line tool to download photos from iCloud",
     "language": "Python",
-    "star": "69"
+    "star": "72"
   },
   {
     "title": "vuejs/vitepress",
     "url": "https://github.com/vuejs/vitepress",
     "description": "Vite & Vue powered static site generator.",
     "language": "TypeScript",
-    "star": "117"
+    "star": "115"
   }
 ]
