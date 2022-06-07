@@ -4,42 +4,42 @@
     "url": "https://github.com/tinygo-org/tinygo",
     "description": "Go compiler for small places. Microcontrollers, WebAssembly (WASM/WASI), and command-line tools. Based on LLVM.",
     "language": "Go",
-    "star": "201"
+    "star": "221"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "514"
+    "star": "513"
   },
   {
     "title": "MystenLabs/sui",
     "url": "https://github.com/MystenLabs/sui",
     "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
     "language": "Rust",
-    "star": "17"
+    "star": "38"
   },
   {
     "title": "alibaba/GaiaX",
     "url": "https://github.com/alibaba/GaiaX",
     "description": "GaiaX dynamic template engine is a lightweight cross-platform solution of pure native dynamic card.",
     "language": "Rust",
-    "star": "23"
+    "star": "17"
   },
   {
     "title": "borisdayma/dalle-mini",
     "url": "https://github.com/borisdayma/dalle-mini",
     "description": "DALL·E Mini - Generate images from a text prompt",
     "language": "Python",
-    "star": "500"
+    "star": "491"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "176"
+    "star": "171"
   },
   {
     "title": "doocs/source-code-hunter",
@@ -60,35 +60,35 @@
     "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
     "description": "中国程序员容易发音错误的单词",
     "language": "Python",
-    "star": "340"
+    "star": "254"
   },
   {
     "title": "Nwqda/CVE-2022-26134",
     "url": "https://github.com/Nwqda/CVE-2022-26134",
     "description": "[PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE)",
     "language": "Python",
-    "star": "24"
+    "star": "31"
   },
   {
     "title": "ahmedtariq01/Cloud-DevOps-Learning-Resources",
     "url": "https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources",
     "description": "This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.",
     "language": "none",
-    "star": "24"
+    "star": "23"
   },
   {
     "title": "v2fly/v2ray-core",
     "url": "https://github.com/v2fly/v2ray-core",
     "description": "A platform for building proxies to bypass network restrictions.",
     "language": "Go",
-    "star": "90"
+    "star": "97"
   },
   {
     "title": "saharmor/dalle-playground",
     "url": "https://github.com/saharmor/dalle-playground",
     "description": "A playground to generate images from any text prompt based on OpenAI's DALL-E https://openai.com/blog/dall-e/",
     "language": "JavaScript",
-    "star": "65"
+    "star": "48"
   },
   {
     "title": "knela96/Dynamic-Parkour-System",
@@ -102,7 +102,7 @@
     "url": "https://github.com/florinpop17/app-ideas",
     "description": "A Collection of application ideas which can be used to improve your coding skills.",
     "language": "none",
-    "star": "227"
+    "star": "238"
   },
   {
     "title": "ashishpatel26/Andrew-NG-Notes",
@@ -116,62 +116,62 @@
     "url": "https://github.com/EpicGames/Signup",
     "description": "Information about signing up for a free Epic Games account, and getting access to UnrealEngine source code.",
     "language": "none",
-    "star": "32"
+    "star": "48"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "214"
+    "star": "226"
   },
   {
     "title": "PlasmoHQ/plasmo",
     "url": "https://github.com/PlasmoHQ/plasmo",
     "description": "The browser extension framework",
     "language": "TypeScript",
-    "star": "221"
+    "star": "284"
   },
   {
     "title": "arc298/instagram-scraper",
     "url": "https://github.com/arc298/instagram-scraper",
     "description": "Scrapes an instagram user's photos and videos",
     "language": "Python",
-    "star": "194"
+    "star": "186"
   },
   {
     "title": "iperov/DeepFaceLive",
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "Real-time face swap for PC streaming or video calls",
     "language": "Python",
-    "star": "287"
+    "star": "225"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "146"
+    "star": "186"
   },
   {
     "title": "google/highway",
     "url": "https://github.com/google/highway",
     "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
     "language": "C++",
-    "star": "219"
+    "star": "215"
   },
   {
     "title": "icloud-photos-downloader/icloud_photos_downloader",
     "url": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
     "description": "A command-line tool to download photos from iCloud",
     "language": "Python",
-    "star": "72"
+    "star": "73"
   },
   {
     "title": "vuejs/vitepress",
     "url": "https://github.com/vuejs/vitepress",
     "description": "Vite & Vue powered static site generator.",
     "language": "TypeScript",
-    "star": "115"
+    "star": "113"
   }
 ]
