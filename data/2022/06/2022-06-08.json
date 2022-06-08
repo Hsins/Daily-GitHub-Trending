@@ -4,70 +4,70 @@
     "url": "https://github.com/yihong0618/Kindle_download_helper",
     "description": "Download all your kindle books script.",
     "language": "Python",
-    "star": "86"
+    "star": "92"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "164"
+    "star": "207"
   },
   {
     "title": "borisdayma/dalle-mini",
     "url": "https://github.com/borisdayma/dalle-mini",
     "description": "DALL·E Mini - Generate images from a text prompt",
     "language": "Python",
-    "star": "514"
+    "star": "525"
   },
   {
     "title": "metabase/metabase",
     "url": "https://github.com/metabase/metabase",
     "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
     "language": "Clojure",
-    "star": "15"
+    "star": "61"
   },
   {
     "title": "sudheerj/reactjs-interview-questions",
     "url": "https://github.com/sudheerj/reactjs-interview-questions",
     "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
     "language": "JavaScript",
-    "star": "73"
+    "star": "45"
   },
   {
     "title": "alibaba/GaiaX",
     "url": "https://github.com/alibaba/GaiaX",
     "description": "GaiaX dynamic template engine is a lightweight cross-platform solution of pure native dynamic card.",
     "language": "Rust",
-    "star": "83"
+    "star": "84"
   },
   {
     "title": "saharmor/dalle-playground",
     "url": "https://github.com/saharmor/dalle-playground",
     "description": "A playground to generate images from any text prompt based on OpenAI's DALL-E https://openai.com/blog/dall-e/",
     "language": "JavaScript",
-    "star": "135"
+    "star": "168"
   },
   {
     "title": "dortania/OpenCore-Legacy-Patcher",
     "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
     "description": "Experience macOS just like before",
     "language": "Python",
-    "star": "26"
+    "star": "22"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "418"
+    "star": "439"
   },
   {
     "title": "PaperMC/Paper",
     "url": "https://github.com/PaperMC/Paper",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
     "language": "Java",
-    "star": "30"
+    "star": "41"
   },
   {
     "title": "AI4Finance-Foundation/FinRL",
@@ -81,7 +81,7 @@
     "url": "https://github.com/realm/realm-swift",
     "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
     "language": "Objective-C",
-    "star": "7"
+    "star": "16"
   },
   {
     "title": "LinuxSuRen/remote-jobs-in-china",
@@ -95,35 +95,35 @@
     "url": "https://github.com/chakra-ui/chakra-ui",
     "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
     "language": "TypeScript",
-    "star": "34"
+    "star": "64"
   },
   {
     "title": "manateelazycat/lsp-bridge",
     "url": "https://github.com/manateelazycat/lsp-bridge",
     "description": "Fastest LSP client for Emacs",
     "language": "Emacs Lisp",
-    "star": "15"
+    "star": "19"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "195"
+    "star": "205"
   },
   {
     "title": "jina-ai/jina",
     "url": "https://github.com/jina-ai/jina",
     "description": "Build cross-modal and multi-modal applications on the cloud",
     "language": "Python",
-    "star": "45"
+    "star": "20"
   },
   {
     "title": "jina-ai/dalle-flow",
     "url": "https://github.com/jina-ai/dalle-flow",
     "description": "A Human-in-the-Loop workflow for creating HD images from text",
     "language": "Python",
-    "star": "109"
+    "star": "39"
   },
   {
     "title": "alibaba/DataX",
@@ -137,28 +137,28 @@
     "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
     "description": "End-to-end modular samples for Terraform on GCP.",
     "language": "HCL",
-    "star": "36"
+    "star": "42"
   },
   {
     "title": "shimohq/chinese-programmer-wrong-pronunciation",
     "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
     "description": "中国程序员容易发音错误的单词",
     "language": "Python",
-    "star": "297"
+    "star": "250"
   },
   {
     "title": "vuejs/vitepress",
     "url": "https://github.com/vuejs/vitepress",
     "description": "Vite & Vue powered static site generator.",
     "language": "TypeScript",
-    "star": "85"
+    "star": "106"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "11"
+    "star": "6"
   },
   {
     "title": "digitalocean/nginxconfig.io",
@@ -172,6 +172,6 @@
     "url": "https://github.com/gin-gonic/gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "language": "Go",
-    "star": "67"
+    "star": "52"
   }
 ]
