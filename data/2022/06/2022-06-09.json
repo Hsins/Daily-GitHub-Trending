@@ -11,14 +11,14 @@
     "url": "https://github.com/android/nowinandroid",
     "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
     "language": "Kotlin",
-    "star": "104"
+    "star": "130"
   },
   {
     "title": "borisdayma/dalle-mini",
     "url": "https://github.com/borisdayma/dalle-mini",
     "description": "DALL·E Mini - Generate images from a text prompt",
     "language": "Python",
-    "star": "546"
+    "star": "579"
   },
   {
     "title": "doocs/source-code-hunter",
@@ -39,7 +39,7 @@
     "url": "https://github.com/skills/introduction-to-github",
     "description": "Get started using GitHub in less than an hour.",
     "language": "none",
-    "star": "103"
+    "star": "135"
   },
   {
     "title": "payloadcms/payload",
@@ -67,7 +67,7 @@
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "Shell",
-    "star": "31"
+    "star": "39"
   },
   {
     "title": "chakra-ui/chakra-ui",
@@ -116,7 +116,7 @@
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "37"
+    "star": "74"
   },
   {
     "title": "pedroslopez/whatsapp-web.js",
@@ -158,7 +158,7 @@
     "url": "https://github.com/hasura/graphql-engine",
     "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
     "language": "Haskell",
-    "star": "11"
+    "star": "66"
   },
   {
     "title": "facebook/jest",
