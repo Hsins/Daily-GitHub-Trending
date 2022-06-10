@@ -18,14 +18,14 @@
     "url": "https://github.com/borisdayma/dalle-mini",
     "description": "DALL·E Mini - Generate images from a text prompt",
     "language": "Python",
-    "star": "655"
+    "star": "568"
   },
   {
     "title": "openai/DALL-E",
     "url": "https://github.com/openai/DALL-E",
     "description": "PyTorch package for the discrete VAE used for DALL·E.",
     "language": "Python",
-    "star": "69"
+    "star": "79"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
@@ -74,28 +74,28 @@
     "url": "https://github.com/PaperMC/Paper",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
     "language": "Java",
-    "star": "86"
+    "star": "82"
   },
   {
     "title": "lapce/lapce",
     "url": "https://github.com/lapce/lapce",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "175"
+    "star": "132"
   },
   {
     "title": "RasaHQ/rasa",
     "url": "https://github.com/RasaHQ/rasa",
     "description": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
     "language": "Python",
-    "star": "42"
+    "star": "59"
   },
   {
     "title": "CyC2018/CS-Notes",
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "none",
-    "star": "114"
+    "star": "111"
   },
   {
     "title": "tvbb/z",
@@ -109,7 +109,7 @@
     "url": "https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources",
     "description": "This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.",
     "language": "none",
-    "star": "94"
+    "star": "95"
   },
   {
     "title": "digitalocean/nginxconfig.io",
@@ -123,7 +123,7 @@
     "url": "https://github.com/jina-ai/dalle-flow",
     "description": "A Human-in-the-Loop workflow for creating HD images from text",
     "language": "Python",
-    "star": "187"
+    "star": "90"
   },
   {
     "title": "deepkit/deepkit-framework",
@@ -137,14 +137,14 @@
     "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
     "description": "中国程序员容易发音错误的单词",
     "language": "Python",
-    "star": "475"
+    "star": "472"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "14"
+    "star": "21"
   },
   {
     "title": "fastify/fastify",
@@ -165,13 +165,13 @@
     "url": "https://github.com/grafana/loki",
     "description": "Like Prometheus, but for logs.",
     "language": "Go",
-    "star": "10"
+    "star": "11"
   },
   {
     "title": "ory/kratos",
     "url": "https://github.com/ory/kratos",
     "description": "Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",
     "language": "Go",
-    "star": "584"
+    "star": "457"
   }
 ]
