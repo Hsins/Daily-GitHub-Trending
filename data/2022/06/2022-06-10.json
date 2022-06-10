@@ -1,0 +1,177 @@
+[
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "description": "The hackable text editor",
+    "language": "JavaScript",
+    "star": "65"
+  },
+  {
+    "title": "saharmor/dalle-playground",
+    "url": "https://github.com/saharmor/dalle-playground",
+    "description": "A playground to generate images from any text prompt based on OpenAI's DALL-E https://openai.com/blog/dall-e/",
+    "language": "JavaScript",
+    "star": "109"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "description": "DALL·E Mini - Generate images from a text prompt",
+    "language": "Python",
+    "star": "569"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "description": "PyTorch package for the discrete VAE used for DALL·E.",
+    "language": "Python",
+    "star": "69"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!",
+    "language": "Jupyter Notebook",
+    "star": "163"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "209"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "51"
+  },
+  {
+    "title": "vaxerski/Hyprland",
+    "url": "https://github.com/vaxerski/Hyprland",
+    "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "star": "120"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "description": "",
+    "language": "Python",
+    "star": "67"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "142"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "language": "Java",
+    "star": "86"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "123"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "description": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+    "language": "Python",
+    "star": "59"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+    "language": "none",
+    "star": "138"
+  },
+  {
+    "title": "tvbb/z",
+    "url": "https://github.com/tvbb/z",
+    "description": "",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "ahmedtariq01/Cloud-DevOps-Learning-Resources",
+    "url": "https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources",
+    "description": "This repo includes Books and imp notes related to GCP, Azure, AWS, Docker, K8s, and DevOps. More, exam and interview prep notes.",
+    "language": "none",
+    "star": "95"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "description": "⚙️ NGINX config generator on steroids 💉",
+    "language": "JavaScript",
+    "star": "215"
+  },
+  {
+    "title": "jina-ai/dalle-flow",
+    "url": "https://github.com/jina-ai/dalle-flow",
+    "description": "A Human-in-the-Loop workflow for creating HD images from text",
+    "language": "Python",
+    "star": "170"
+  },
+  {
+    "title": "deepkit/deepkit-framework",
+    "url": "https://github.com/deepkit/deepkit-framework",
+    "description": "A new full-featured and high-performance TypeScript framework for enterprise applications.",
+    "language": "TypeScript",
+    "star": "128"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "description": "中国程序员容易发音错误的单词",
+    "language": "Python",
+    "star": "470"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "21"
+  },
+  {
+    "title": "fastify/fastify",
+    "url": "https://github.com/fastify/fastify",
+    "description": "Fast and low overhead web framework, for Node.js",
+    "language": "JavaScript",
+    "star": "24"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "language": "Kotlin",
+    "star": "151"
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "description": "Like Prometheus, but for logs.",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "ory/kratos",
+    "url": "https://github.com/ory/kratos",
+    "description": "Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service.",
+    "language": "Go",
+    "star": "584"
+  }
+]
