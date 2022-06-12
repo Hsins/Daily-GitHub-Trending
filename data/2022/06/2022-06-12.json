@@ -1,0 +1,177 @@
+[
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "description": "DALL·E Mini - Generate images from a text prompt",
+    "language": "Python",
+    "star": "578"
+  },
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "description": "The hackable text editor",
+    "language": "JavaScript",
+    "star": "144"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "description": "",
+    "language": "Python",
+    "star": "63"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "description": "PyTorch package for the discrete VAE used for DALL·E.",
+    "language": "Python",
+    "star": "164"
+  },
+  {
+    "title": "saharmor/dalle-playground",
+    "url": "https://github.com/saharmor/dalle-playground",
+    "description": "A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/",
+    "language": "JavaScript",
+    "star": "234"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "language": "none",
+    "star": "77"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "description": "⚙️ NGINX config generator on steroids 💉",
+    "language": "JavaScript",
+    "star": "672"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "description": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "585"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "language": "Java",
+    "star": "64"
+  },
+  {
+    "title": "Schweinepriester/github-profile-achievements",
+    "url": "https://github.com/Schweinepriester/github-profile-achievements",
+    "description": "A collection listing all Achievements available on the GitHub profile 🏆",
+    "language": "none",
+    "star": "56"
+  },
+  {
+    "title": "daiyu886/evil-man",
+    "url": "https://github.com/daiyu886/evil-man",
+    "description": "",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "vaxerski/Hyprland",
+    "url": "https://github.com/vaxerski/Hyprland",
+    "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "star": "39"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!",
+    "language": "Jupyter Notebook",
+    "star": "273"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "95"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "265"
+  },
+  {
+    "title": "libre-tube/LibreTube",
+    "url": "https://github.com/libre-tube/LibreTube",
+    "description": "An alternative YouTube front end, for Android. [WIP]",
+    "language": "Kotlin",
+    "star": "87"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "siyuan-note/siyuan",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "description": "📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1",
+    "language": "TypeScript",
+    "star": "28"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "language": "V",
+    "star": "12"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "description": "A modern and customizable python UI-library based on Tkinter",
+    "language": "Python",
+    "star": "91"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "description": "The open-source Shopify alternative ⚡️",
+    "language": "JavaScript",
+    "star": "40"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "65"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+    "language": "none",
+    "star": "122"
+  }
+]
