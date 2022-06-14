@@ -1,0 +1,177 @@
+[
+  {
+    "title": "siyuan-note/siyuan",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "description": "📕 SiYuan is a local-first personal knowledge management system, supports fine-grained block-level reference, and Markdown WYSIWYG. 思源笔记是一款本地优先的个人知识管理系统， 支持细粒度块级引用和 Markdown 所见即所得。Roadmap https://github.com/orgs/siyuan-note/projects/1",
+    "language": "TypeScript",
+    "star": "313"
+  },
+  {
+    "title": "n3r4zzurr0/svg-spinners",
+    "url": "https://github.com/n3r4zzurr0/svg-spinners",
+    "description": "A collection of 24 x 24 dp SVG spinners!",
+    "language": "SVG",
+    "star": "165"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "332"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+    "language": "none",
+    "star": "170"
+  },
+  {
+    "title": "mbrlabs/Lorien",
+    "url": "https://github.com/mbrlabs/Lorien",
+    "description": "Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.",
+    "language": "GDScript",
+    "star": "195"
+  },
+  {
+    "title": "asim/go-micro",
+    "url": "https://github.com/asim/go-micro",
+    "description": "A Go microservices framework",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "youngyangyang04/leetcode-master",
+    "url": "https://github.com/youngyangyang04/leetcode-master",
+    "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+    "language": "none",
+    "star": "98"
+  },
+  {
+    "title": "The-Japan-DataScientist-Society/100knocks-preprocess",
+    "url": "https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess",
+    "description": "データサイエンス100本ノック（構造化データ加工編）",
+    "language": "HTML",
+    "star": "25"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "language": "TypeScript",
+    "star": "35"
+  },
+  {
+    "title": "redis/redis",
+    "url": "https://github.com/redis/redis",
+    "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+    "language": "C",
+    "star": "18"
+  },
+  {
+    "title": "dotnet-presentations/dotnet-maui-workshop",
+    "url": "https://github.com/dotnet-presentations/dotnet-maui-workshop",
+    "description": "A full day workshop (.NET MAUI Workshop in a Box) on how to build apps with .NET MAUI for iOS, Android, macOS, and Windows",
+    "language": "C#",
+    "star": "9"
+  },
+  {
+    "title": "pmndrs/zustand",
+    "url": "https://github.com/pmndrs/zustand",
+    "description": "🐻 Bear necessities for state management in React",
+    "language": "TypeScript",
+    "star": "62"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "language": "JavaScript",
+    "star": "111"
+  },
+  {
+    "title": "brave-people/Dev-Event",
+    "url": "https://github.com/brave-people/Dev-Event",
+    "description": "🎉🎈 개발자 {웨비나, 컨퍼런스, 해커톤} 행사를 알려드립니다. [with 남송리 삼번지]",
+    "language": "none",
+    "star": "10"
+  },
+  {
+    "title": "SwifterSwift/SwifterSwift",
+    "url": "https://github.com/SwifterSwift/SwifterSwift",
+    "description": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
+    "language": "Swift",
+    "star": "10"
+  },
+  {
+    "title": "prometheus/client_golang",
+    "url": "https://github.com/prometheus/client_golang",
+    "description": "Prometheus instrumentation library for Go applications",
+    "language": "Go",
+    "star": "5"
+  },
+  {
+    "title": "SmiteshP/nvim-navic",
+    "url": "https://github.com/SmiteshP/nvim-navic",
+    "description": "Simple winbar/statusline plugin that shows your current code context",
+    "language": "Lua",
+    "star": "35"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "164"
+  },
+  {
+    "title": "ThreeDotsLabs/watermill",
+    "url": "https://github.com/ThreeDotsLabs/watermill",
+    "description": "Building event-driven applications the easy way in Go.",
+    "language": "Go",
+    "star": "57"
+  },
+  {
+    "title": "quarkusio/quarkus",
+    "url": "https://github.com/quarkusio/quarkus",
+    "description": "Quarkus: Supersonic Subatomic Java.",
+    "language": "Java",
+    "star": "11"
+  },
+  {
+    "title": "sheepla/pingu",
+    "url": "https://github.com/sheepla/pingu",
+    "description": "🐧ping command but with pingu",
+    "language": "Go",
+    "star": "194"
+  },
+  {
+    "title": "wiz-sec/cloud-middleware-dataset",
+    "url": "https://github.com/wiz-sec/cloud-middleware-dataset",
+    "description": "",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "12"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "172"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "9"
+  }
+]
