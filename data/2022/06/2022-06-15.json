@@ -1,0 +1,177 @@
+[
+  {
+    "title": "lxgr-linux/pokete",
+    "url": "https://github.com/lxgr-linux/pokete",
+    "description": "A terminal based Pokemon like game",
+    "language": "Python",
+    "star": "74"
+  },
+  {
+    "title": "CeresDB/ceresdb",
+    "url": "https://github.com/CeresDB/ceresdb",
+    "description": "CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",
+    "language": "Rust",
+    "star": "91"
+  },
+  {
+    "title": "sheepla/pingu",
+    "url": "https://github.com/sheepla/pingu",
+    "description": "🐧ping command but with pingu",
+    "language": "Go",
+    "star": "413"
+  },
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger",
+    "description": "程序员延寿指南 | A programmer's guide to live longer",
+    "language": "none",
+    "star": "251"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "451"
+  },
+  {
+    "title": "zhiqi-li/BEVFormer",
+    "url": "https://github.com/zhiqi-li/BEVFormer",
+    "description": "This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
+    "language": "Python",
+    "star": "23"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "75"
+  },
+  {
+    "title": "n3r4zzurr0/svg-spinners",
+    "url": "https://github.com/n3r4zzurr0/svg-spinners",
+    "description": "A collection of 24 x 24 dp SVG spinners!",
+    "language": "SVG",
+    "star": "273"
+  },
+  {
+    "title": "still-scene/t3",
+    "url": "https://github.com/still-scene/t3",
+    "description": "A new tooll implementation with Dear ImGUI",
+    "language": "C#",
+    "star": "52"
+  },
+  {
+    "title": "hashicorp/raft",
+    "url": "https://github.com/hashicorp/raft",
+    "description": "Golang implementation of the Raft consensus protocol",
+    "language": "Go",
+    "star": "3"
+  },
+  {
+    "title": "ionic-team/ionic-framework",
+    "url": "https://github.com/ionic-team/ionic-framework",
+    "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+    "language": "TypeScript",
+    "star": "9"
+  },
+  {
+    "title": "4ra1n/tomcat-jmxproxy-rce-exp",
+    "url": "https://github.com/4ra1n/tomcat-jmxproxy-rce-exp",
+    "description": "Apache Tomcat JMXProxy RCE",
+    "language": "Go",
+    "star": "29"
+  },
+  {
+    "title": "lucacasonato/fresh",
+    "url": "https://github.com/lucacasonato/fresh",
+    "description": "Preact, but super edgy",
+    "language": "TypeScript",
+    "star": "241"
+  },
+  {
+    "title": "winsiderss/systeminformer",
+    "url": "https://github.com/winsiderss/systeminformer",
+    "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ http://www.windows-internals.com",
+    "language": "C",
+    "star": "44"
+  },
+  {
+    "title": "prettier/prettier",
+    "url": "https://github.com/prettier/prettier",
+    "description": "Prettier is an opinionated code formatter.",
+    "language": "JavaScript",
+    "star": "15"
+  },
+  {
+    "title": "dotnetcore/FastGithub",
+    "url": "https://github.com/dotnetcore/FastGithub",
+    "description": "github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题",
+    "language": "C#",
+    "star": "69"
+  },
+  {
+    "title": "AzureAD/microsoft-authentication-library-for-js",
+    "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
+    "description": "Microsoft Authentication Library (MSAL) for JS",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "yanfeizhang/coder-kung-fu",
+    "url": "https://github.com/yanfeizhang/coder-kung-fu",
+    "description": "开发内功修炼",
+    "language": "C",
+    "star": "26"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "description": "Spring Framework",
+    "language": "Java",
+    "star": "21"
+  },
+  {
+    "title": "knadh/dns.toys",
+    "url": "https://github.com/knadh/dns.toys",
+    "description": "A DNS server that offers useful utilities and services over the DNS protocol. Weather, world time, unit conversion etc.",
+    "language": "Go",
+    "star": "123"
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "description": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "language": "Go",
+    "star": "4"
+  },
+  {
+    "title": "hashicorp/go-plugin",
+    "url": "https://github.com/hashicorp/go-plugin",
+    "description": "Golang plugin system over RPC.",
+    "language": "Go",
+    "star": "5"
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "description": "GitHub Actions virtual environments",
+    "language": "PowerShell",
+    "star": "16"
+  },
+  {
+    "title": "callstack/react-native-paper",
+    "url": "https://github.com/callstack/react-native-paper",
+    "description": "Material Design for React Native (Android & iOS)",
+    "language": "TypeScript",
+    "star": "11"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "language": "JavaScript",
+    "star": "5"
+  }
+]
