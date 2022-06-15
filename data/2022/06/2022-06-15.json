@@ -18,7 +18,7 @@
     "url": "https://github.com/sheepla/pingu",
     "description": "🐧ping command but with pingu",
     "language": "Go",
-    "star": "413"
+    "star": "414"
   },
   {
     "title": "geekan/HowToLiveLonger",
@@ -39,21 +39,21 @@
     "url": "https://github.com/zhiqi-li/BEVFormer",
     "description": "This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
     "language": "Python",
-    "star": "23"
+    "star": "24"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "65"
+    "star": "64"
   },
   {
     "title": "n3r4zzurr0/svg-spinners",
     "url": "https://github.com/n3r4zzurr0/svg-spinners",
     "description": "A collection of 24 x 24 dp SVG spinners!",
     "language": "SVG",
-    "star": "274"
+    "star": "272"
   },
   {
     "title": "still-scene/t3",
@@ -102,7 +102,7 @@
     "url": "https://github.com/prettier/prettier",
     "description": "Prettier is an opinionated code formatter.",
     "language": "JavaScript",
-    "star": "15"
+    "star": "41"
   },
   {
     "title": "dotnetcore/FastGithub",
@@ -123,7 +123,7 @@
     "url": "https://github.com/yanfeizhang/coder-kung-fu",
     "description": "开发内功修炼",
     "language": "C",
-    "star": "35"
+    "star": "33"
   },
   {
     "title": "spring-projects/spring-framework",
@@ -172,6 +172,6 @@
     "url": "https://github.com/mapbox/mapbox-gl-js",
     "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
     "language": "JavaScript",
-    "star": "35"
+    "star": "7"
   }
 ]
