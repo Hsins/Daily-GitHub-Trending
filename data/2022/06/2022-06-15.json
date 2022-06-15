@@ -25,14 +25,14 @@
     "url": "https://github.com/geekan/HowToLiveLonger",
     "description": "程序员延寿指南 | A programmer's guide to live longer",
     "language": "none",
-    "star": "251"
+    "star": "255"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "451"
+    "star": "599"
   },
   {
     "title": "zhiqi-li/BEVFormer",
@@ -46,14 +46,14 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "75"
+    "star": "65"
   },
   {
     "title": "n3r4zzurr0/svg-spinners",
     "url": "https://github.com/n3r4zzurr0/svg-spinners",
     "description": "A collection of 24 x 24 dp SVG spinners!",
     "language": "SVG",
-    "star": "273"
+    "star": "274"
   },
   {
     "title": "still-scene/t3",
@@ -123,7 +123,7 @@
     "url": "https://github.com/yanfeizhang/coder-kung-fu",
     "description": "开发内功修炼",
     "language": "C",
-    "star": "26"
+    "star": "35"
   },
   {
     "title": "spring-projects/spring-framework",
@@ -172,6 +172,6 @@
     "url": "https://github.com/mapbox/mapbox-gl-js",
     "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
     "language": "JavaScript",
-    "star": "5"
+    "star": "35"
   }
 ]
