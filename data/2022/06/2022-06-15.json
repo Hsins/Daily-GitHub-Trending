@@ -18,42 +18,42 @@
     "url": "https://github.com/sheepla/pingu",
     "description": "🐧ping command but with pingu",
     "language": "Go",
-    "star": "414"
+    "star": "413"
   },
   {
     "title": "geekan/HowToLiveLonger",
     "url": "https://github.com/geekan/HowToLiveLonger",
     "description": "程序员延寿指南 | A programmer's guide to live longer",
     "language": "none",
-    "star": "255"
+    "star": "251"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "599"
+    "star": "451"
   },
   {
     "title": "zhiqi-li/BEVFormer",
     "url": "https://github.com/zhiqi-li/BEVFormer",
     "description": "This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
     "language": "Python",
-    "star": "24"
+    "star": "23"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "64"
+    "star": "75"
   },
   {
     "title": "n3r4zzurr0/svg-spinners",
     "url": "https://github.com/n3r4zzurr0/svg-spinners",
     "description": "A collection of 24 x 24 dp SVG spinners!",
     "language": "SVG",
-    "star": "272"
+    "star": "273"
   },
   {
     "title": "still-scene/t3",
@@ -102,7 +102,7 @@
     "url": "https://github.com/prettier/prettier",
     "description": "Prettier is an opinionated code formatter.",
     "language": "JavaScript",
-    "star": "41"
+    "star": "15"
   },
   {
     "title": "dotnetcore/FastGithub",
@@ -123,7 +123,7 @@
     "url": "https://github.com/yanfeizhang/coder-kung-fu",
     "description": "开发内功修炼",
     "language": "C",
-    "star": "33"
+    "star": "26"
   },
   {
     "title": "spring-projects/spring-framework",
@@ -172,6 +172,6 @@
     "url": "https://github.com/mapbox/mapbox-gl-js",
     "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
     "language": "JavaScript",
-    "star": "7"
+    "star": "5"
   }
 ]
