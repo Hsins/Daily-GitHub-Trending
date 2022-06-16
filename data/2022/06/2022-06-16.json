@@ -18,35 +18,35 @@
     "url": "https://github.com/lucacasonato/fresh",
     "description": "Preact, but super edgy",
     "language": "TypeScript",
-    "star": "259"
+    "star": "311"
   },
   {
     "title": "CeresDB/ceresdb",
     "url": "https://github.com/CeresDB/ceresdb",
     "description": "CeresDB is a high-performance, distributed, schema-less, cloud native time-series database that can handle both time-series and analytics workloads.",
     "language": "Rust",
-    "star": "164"
+    "star": "163"
   },
   {
     "title": "geekan/HowToLiveLonger",
     "url": "https://github.com/geekan/HowToLiveLonger",
     "description": "程序员延寿指南 | A programmer's guide to live longer",
     "language": "none",
-    "star": "227"
+    "star": "226"
   },
   {
     "title": "GitHubDaily/GitHubDaily",
     "url": "https://github.com/GitHubDaily/GitHubDaily",
     "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
     "language": "none",
-    "star": "40"
+    "star": "43"
   },
   {
     "title": "lxgr-linux/pokete",
     "url": "https://github.com/lxgr-linux/pokete",
     "description": "A terminal based Pokemon like game",
     "language": "Python",
-    "star": "134"
+    "star": "98"
   },
   {
     "title": "Tencent/spring-cloud-tencent",
@@ -95,7 +95,7 @@
     "url": "https://github.com/facebook/react",
     "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "language": "JavaScript",
-    "star": "74"
+    "star": "71"
   },
   {
     "title": "redis/redis-py",
@@ -144,7 +144,7 @@
     "url": "https://github.com/callstack/react-native-paper",
     "description": "Material Design for React Native (Android & iOS)",
     "language": "TypeScript",
-    "star": "24"
+    "star": "15"
   },
   {
     "title": "alan2207/bulletproof-react",
@@ -172,6 +172,6 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "348"
+    "star": "349"
   }
 ]
