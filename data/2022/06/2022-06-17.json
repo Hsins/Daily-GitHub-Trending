@@ -11,14 +11,14 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "494"
+    "star": "495"
   },
   {
     "title": "alan2207/bulletproof-react",
     "url": "https://github.com/alan2207/bulletproof-react",
     "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "language": "TypeScript",
-    "star": "212"
+    "star": "204"
   },
   {
     "title": "lxgr-linux/pokete",
@@ -46,7 +46,7 @@
     "url": "https://github.com/yanfeizhang/coder-kung-fu",
     "description": "开发内功修炼",
     "language": "C",
-    "star": "150"
+    "star": "242"
   },
   {
     "title": "THUDM/CogView2",
@@ -60,21 +60,21 @@
     "url": "https://github.com/free-audio/clap",
     "description": "Audio Plugin API",
     "language": "C",
-    "star": "68"
+    "star": "72"
   },
   {
     "title": "PaddlePaddle/PaddleClas",
     "url": "https://github.com/PaddlePaddle/PaddleClas",
     "description": "A treasure chest for visual recognition powered by PaddlePaddle",
     "language": "Python",
-    "star": "143"
+    "star": "131"
   },
   {
     "title": "hashicorp/raft",
     "url": "https://github.com/hashicorp/raft",
     "description": "Golang implementation of the Raft consensus protocol",
     "language": "Go",
-    "star": "13"
+    "star": "48"
   },
   {
     "title": "geekan/HowToLiveLonger",
@@ -102,14 +102,14 @@
     "url": "https://github.com/zhiqi-li/BEVFormer",
     "description": "This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
     "language": "Python",
-    "star": "65"
+    "star": "63"
   },
   {
     "title": "OpenAPITools/openapi-generator",
     "url": "https://github.com/OpenAPITools/openapi-generator",
     "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
     "language": "Java",
-    "star": "13"
+    "star": "14"
   },
   {
     "title": "ProjectOpenSea/seaport",
@@ -130,14 +130,14 @@
     "url": "https://github.com/Tencent/spring-cloud-tencent",
     "description": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.",
     "language": "Java",
-    "star": "46"
+    "star": "38"
   },
   {
     "title": "n3r4zzurr0/svg-spinners",
     "url": "https://github.com/n3r4zzurr0/svg-spinners",
     "description": "A collection of 24 x 24 dp SVG spinners!",
     "language": "SVG",
-    "star": "282"
+    "star": "395"
   },
   {
     "title": "google/jax",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Kong/kong",
     "description": "🦍 The Cloud-Native API Gateway",
     "language": "Lua",
-    "star": "36"
+    "star": "30"
   },
   {
     "title": "PaddlePaddle/PaddleOCR",
@@ -165,13 +165,13 @@
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "29"
+    "star": "66"
   },
   {
     "title": "pytorch/vision",
     "url": "https://github.com/pytorch/vision",
     "description": "Datasets, Transforms and Models specific to Computer Vision",
     "language": "Python",
-    "star": "10"
+    "star": "8"
   }
 ]
