@@ -4,28 +4,28 @@
     "url": "https://github.com/grafana/oncall",
     "description": "Developer-friendly incident response with brilliant Slack integration",
     "language": "Python",
-    "star": "282"
+    "star": "279"
   },
   {
     "title": "tauri-apps/tauri",
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "495"
+    "star": "376"
   },
   {
     "title": "alan2207/bulletproof-react",
     "url": "https://github.com/alan2207/bulletproof-react",
     "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "language": "TypeScript",
-    "star": "199"
+    "star": "215"
   },
   {
     "title": "lxgr-linux/pokete",
     "url": "https://github.com/lxgr-linux/pokete",
     "description": "A terminal based Pokemon like game",
     "language": "Python",
-    "star": "354"
+    "star": "374"
   },
   {
     "title": "elastic/eui",
@@ -46,7 +46,7 @@
     "url": "https://github.com/yanfeizhang/coder-kung-fu",
     "description": "开发内功修炼",
     "language": "C",
-    "star": "242"
+    "star": "255"
   },
   {
     "title": "THUDM/CogView2",
@@ -60,21 +60,21 @@
     "url": "https://github.com/free-audio/clap",
     "description": "Audio Plugin API",
     "language": "C",
-    "star": "72"
+    "star": "69"
   },
   {
     "title": "PaddlePaddle/PaddleClas",
     "url": "https://github.com/PaddlePaddle/PaddleClas",
     "description": "A treasure chest for visual recognition powered by PaddlePaddle",
     "language": "Python",
-    "star": "131"
+    "star": "114"
   },
   {
     "title": "hashicorp/raft",
     "url": "https://github.com/hashicorp/raft",
     "description": "Golang implementation of the Raft consensus protocol",
     "language": "Go",
-    "star": "48"
+    "star": "14"
   },
   {
     "title": "geekan/HowToLiveLonger",
@@ -102,7 +102,7 @@
     "url": "https://github.com/zhiqi-li/BEVFormer",
     "description": "This is the official implementation of BEVFormer, a camera-only framework for autonomous driving perception, e.g., 3D object detection and semantic map segmentation.",
     "language": "Python",
-    "star": "63"
+    "star": "65"
   },
   {
     "title": "OpenAPITools/openapi-generator",
@@ -165,13 +165,13 @@
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "66"
+    "star": "29"
   },
   {
     "title": "pytorch/vision",
     "url": "https://github.com/pytorch/vision",
     "description": "Datasets, Transforms and Models specific to Computer Vision",
     "language": "Python",
-    "star": "8"
+    "star": "7"
   }
 ]
