@@ -11,14 +11,14 @@
     "url": "https://github.com/spacedriveapp/spacedrive",
     "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
     "language": "TypeScript",
-    "star": "107"
+    "star": "181"
   },
   {
     "title": "ToolJet/ToolJet",
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "78"
+    "star": "80"
   },
   {
     "title": "v2fly/v2ray-core",
@@ -32,7 +32,7 @@
     "url": "https://github.com/foundry-rs/foundry",
     "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
     "language": "Rust",
-    "star": "40"
+    "star": "35"
   },
   {
     "title": "fyne-io/fyne",
@@ -53,7 +53,7 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "349"
+    "star": "334"
   },
   {
     "title": "elebumm/RedditVideoMakerBot",
@@ -67,28 +67,28 @@
     "url": "https://github.com/free-audio/clap",
     "description": "Audio Plugin API",
     "language": "C",
-    "star": "69"
+    "star": "79"
   },
   {
     "title": "girliemac/a-picture-is-worth-a-1000-words",
     "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
     "description": "I am trying to describe complex matters in simple doodles!",
     "language": "none",
-    "star": "320"
+    "star": "323"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "447"
+    "star": "233"
   },
   {
     "title": "open-goal/jak-project",
     "url": "https://github.com/open-goal/jak-project",
     "description": "Reviving the language that brought us the Jak & Daxter Series",
     "language": "Common Lisp",
-    "star": "153"
+    "star": "158"
   },
   {
     "title": "mpv-player/mpv",
@@ -102,7 +102,7 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "111"
+    "star": "79"
   },
   {
     "title": "omair2084/CVE-2022-26937",
@@ -151,7 +151,7 @@
     "url": "https://github.com/IVProjects/Engineering_Projects",
     "description": "",
     "language": "C++",
-    "star": "33"
+    "star": "34"
   },
   {
     "title": "charmbracelet/bubbletea",
@@ -165,7 +165,7 @@
     "url": "https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap",
     "description": "Nick's Roadmap for a .NET Backend Developer working with Microservices",
     "language": "none",
-    "star": "25"
+    "star": "11"
   },
   {
     "title": "commaai/openpilot",
