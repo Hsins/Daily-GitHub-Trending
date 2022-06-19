@@ -1,0 +1,177 @@
+[
+  {
+    "title": "jfecher/ante",
+    "url": "https://github.com/jfecher/ante",
+    "description": "A safe, easy systems language",
+    "language": "Rust",
+    "star": "120"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "language": "TypeScript",
+    "star": "111"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "language": "JavaScript",
+    "star": "52"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "star": "17"
+  },
+  {
+    "title": "foundry-rs/foundry",
+    "url": "https://github.com/foundry-rs/foundry",
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "language": "Rust",
+    "star": "35"
+  },
+  {
+    "title": "fyne-io/fyne",
+    "url": "https://github.com/fyne-io/fyne",
+    "description": "Cross platform GUI in Go inspired by Material Design",
+    "language": "Go",
+    "star": "33"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "16"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "348"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just✨ one command ✨",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "free-audio/clap",
+    "url": "https://github.com/free-audio/clap",
+    "description": "Audio Plugin API",
+    "language": "C",
+    "star": "79"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "description": "I am trying to describe complex matters in simple doodles!",
+    "language": "none",
+    "star": "338"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "473"
+  },
+  {
+    "title": "open-goal/jak-project",
+    "url": "https://github.com/open-goal/jak-project",
+    "description": "Reviving the language that brought us the Jak & Daxter Series",
+    "language": "Common Lisp",
+    "star": "157"
+  },
+  {
+    "title": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "description": "🎥 Command line video player",
+    "language": "C",
+    "star": "12"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "118"
+  },
+  {
+    "title": "omair2084/CVE-2022-26937",
+    "url": "https://github.com/omair2084/CVE-2022-26937",
+    "description": "Windows Network File System Crash PoC",
+    "language": "Python",
+    "star": "5"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "32"
+  },
+  {
+    "title": "libsdl-org/SDL",
+    "url": "https://github.com/libsdl-org/SDL",
+    "description": "Simple Directmedia Layer",
+    "language": "C",
+    "star": "4"
+  },
+  {
+    "title": "education/PR-Pao-de-Queijo-Request",
+    "url": "https://github.com/education/PR-Pao-de-Queijo-Request",
+    "description": "",
+    "language": "HTML",
+    "star": "9"
+  },
+  {
+    "title": "kovidgoyal/calibre",
+    "url": "https://github.com/kovidgoyal/calibre",
+    "description": "The official source code repository for the calibre ebook manager",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "readysettech/readyset",
+    "url": "https://github.com/readysettech/readyset",
+    "description": "ReadySet is a lightweight SQL caching engine that helps developers enhance the performance and scalability of existing applications.",
+    "language": "Rust",
+    "star": "50"
+  },
+  {
+    "title": "IVProjects/Engineering_Projects",
+    "url": "https://github.com/IVProjects/Engineering_Projects",
+    "description": "",
+    "language": "C++",
+    "star": "36"
+  },
+  {
+    "title": "charmbracelet/bubbletea",
+    "url": "https://github.com/charmbracelet/bubbletea",
+    "description": "A powerful little TUI framework 🏗",
+    "language": "Go",
+    "star": "33"
+  },
+  {
+    "title": "Elfocrash/.NET-Backend-Developer-Roadmap",
+    "url": "https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap",
+    "description": "Nick's Roadmap for a .NET Backend Developer working with Microservices",
+    "language": "none",
+    "star": "11"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 150 supported car makes and models.",
+    "language": "Python",
+    "star": "12"
+  }
+]
