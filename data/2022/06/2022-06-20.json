@@ -1,0 +1,177 @@
+[
+  {
+    "title": "TGX-Android/Telegram-X",
+    "url": "https://github.com/TGX-Android/Telegram-X",
+    "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
+    "language": "Java",
+    "star": "73"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just✨ one command ✨",
+    "language": "Python",
+    "star": "68"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "language": "JavaScript",
+    "star": "247"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "language": "TypeScript",
+    "star": "275"
+  },
+  {
+    "title": "open-goal/jak-project",
+    "url": "https://github.com/open-goal/jak-project",
+    "description": "Reviving the language that brought us the Jak & Daxter Series",
+    "language": "Common Lisp",
+    "star": "161"
+  },
+  {
+    "title": "revanced/revanced-patches",
+    "url": "https://github.com/revanced/revanced-patches",
+    "description": "🧩 Official patches maintained by ReVanced",
+    "language": "Kotlin",
+    "star": "9"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "language": "Shell",
+    "star": "57"
+  },
+  {
+    "title": "readysettech/readyset",
+    "url": "https://github.com/readysettech/readyset",
+    "description": "ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications.",
+    "language": "Rust",
+    "star": "272"
+  },
+  {
+    "title": "LunarVim/nvim-basic-ide",
+    "url": "https://github.com/LunarVim/nvim-basic-ide",
+    "description": "This is my attempt at a basic stable starting point for a Neovim IDE.",
+    "language": "Lua",
+    "star": "18"
+  },
+  {
+    "title": "jfecher/ante",
+    "url": "https://github.com/jfecher/ante",
+    "description": "A safe, easy systems language",
+    "language": "Rust",
+    "star": "123"
+  },
+  {
+    "title": "wdzeng/bot-automation",
+    "url": "https://github.com/wdzeng/bot-automation",
+    "description": "💰 簽到機器人 on GitHub Action! 💰",
+    "language": "none",
+    "star": "95"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "description": "I am trying to describe complex matters in simple doodles!",
+    "language": "none",
+    "star": "268"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability",
+    "language": "Vim script",
+    "star": "40"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "27"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "star": "37"
+  },
+  {
+    "title": "runelite/runelite",
+    "url": "https://github.com/runelite/runelite",
+    "description": "Open source Old School RuneScape client",
+    "language": "Java",
+    "star": "2"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "159"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "26"
+  },
+  {
+    "title": "Elfocrash/.NET-Backend-Developer-Roadmap",
+    "url": "https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap",
+    "description": "Nick's Roadmap for a .NET Backend Developer working with Microservices",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "32"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "127"
+  },
+  {
+    "title": "python-telegram-bot/python-telegram-bot",
+    "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+    "description": "We have made you a wrapper you can't refuse",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "21"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "description": "A collection of New Grad full time roles in SWE, Quant, and PM.",
+    "language": "none",
+    "star": "40"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "star": "30"
+  }
+]
