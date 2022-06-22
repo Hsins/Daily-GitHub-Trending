@@ -1,0 +1,177 @@
+[
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "7"
+  },
+  {
+    "title": "facebook/lexical",
+    "url": "https://github.com/facebook/lexical",
+    "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+    "language": "TypeScript",
+    "star": "79"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "description": "I am trying to describe complex matters in simple doodles!",
+    "language": "none",
+    "star": "762"
+  },
+  {
+    "title": "WenchaoD/FSCalendar",
+    "url": "https://github.com/WenchaoD/FSCalendar",
+    "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
+    "language": "Objective-C",
+    "star": "0"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "description": "The easiest way to automate your data",
+    "language": "Python",
+    "star": "6"
+  },
+  {
+    "title": "Reiten966/Polyformer",
+    "url": "https://github.com/Reiten966/Polyformer",
+    "description": "Polyformer is an open-source project that aims to recycle plastics into FDM filaments",
+    "language": "none",
+    "star": "35"
+  },
+  {
+    "title": "hashicorp/hcl",
+    "url": "https://github.com/hashicorp/hcl",
+    "description": "HCL is the HashiCorp configuration language.",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "description": "Collection of Summer 2023 tech internships!",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "Technawi/SOC-Analyst-Diploma",
+    "url": "https://github.com/Technawi/SOC-Analyst-Diploma",
+    "description": "",
+    "language": "none",
+    "star": "10"
+  },
+  {
+    "title": "apache/hbase",
+    "url": "https://github.com/apache/hbase",
+    "description": "Apache HBase",
+    "language": "Java",
+    "star": "3"
+  },
+  {
+    "title": "codeedu/imersao8",
+    "url": "https://github.com/codeedu/imersao8",
+    "description": "",
+    "language": "TypeScript",
+    "star": "34"
+  },
+  {
+    "title": "go-gorm/gorm",
+    "url": "https://github.com/go-gorm/gorm",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "language": "Go",
+    "star": "11"
+  },
+  {
+    "title": "elixir-ecto/ecto",
+    "url": "https://github.com/elixir-ecto/ecto",
+    "description": "A toolkit for data mapping and language integrated query.",
+    "language": "Elixir",
+    "star": "3"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "description": "Vector database for scalable similarity search and AI applications.",
+    "language": "Go",
+    "star": "12"
+  },
+  {
+    "title": "knative/serving",
+    "url": "https://github.com/knative/serving",
+    "description": "Kubernetes-based, scale-to-zero, request-driven compute",
+    "language": "Go",
+    "star": "3"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+    "language": "Java",
+    "star": "0"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "star": "21"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "description": "The OpenAPI Specification Repository",
+    "language": "JavaScript",
+    "star": "9"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-alb",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-alb",
+    "description": "Terraform module to create an AWS Application/Network Load Balancer (ALB/NLB) and associated resources 🇺🇦",
+    "language": "HCL",
+    "star": "0"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "11"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "language": "Ruby",
+    "star": "9"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "description": "Universal code search (self-hosted)",
+    "language": "Go",
+    "star": "6"
+  },
+  {
+    "title": "woocommerce/woocommerce",
+    "url": "https://github.com/woocommerce/woocommerce",
+    "description": "A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.",
+    "language": "PHP",
+    "star": "2"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "description": "Firebase iOS SDK",
+    "language": "Objective-C",
+    "star": "5"
+  }
+]
