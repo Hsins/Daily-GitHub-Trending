@@ -4,7 +4,7 @@
     "url": "https://github.com/mingrammer/diagrams",
     "description": "🎨 Diagram as Code for prototyping cloud system architectures",
     "language": "Python",
-    "star": "989"
+    "star": "1"
   },
   {
     "title": "hashicorp/nomad",
@@ -46,7 +46,7 @@
     "url": "https://github.com/Reiten966/Polyformer",
     "description": "Polyformer is an open-source project that aims to recycle plastics into FDM filaments",
     "language": "none",
-    "star": "16"
+    "star": "35"
   },
   {
     "title": "hashicorp/hcl",
@@ -144,7 +144,7 @@
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "10"
+    "star": "11"
   },
   {
     "title": "fastlane/fastlane",
