@@ -4,7 +4,7 @@
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "87"
+    "star": "51"
   },
   {
     "title": "cloudwego/hertz",
@@ -32,7 +32,7 @@
     "url": "https://github.com/mingrammer/diagrams",
     "description": "🎨 Diagram as Code for prototyping cloud system architectures",
     "language": "Python",
-    "star": "716"
+    "star": "760"
   },
   {
     "title": "mosaicml/composer",
@@ -102,28 +102,28 @@
     "url": "https://github.com/daffainfo/AllAboutBugBounty",
     "description": "All about bug bounty (bypasses, payloads, and etc)",
     "language": "none",
-    "star": "23"
+    "star": "47"
   },
   {
     "title": "stretchr/testify",
     "url": "https://github.com/stretchr/testify",
     "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
     "language": "Go",
-    "star": "20"
+    "star": "36"
   },
   {
     "title": "Reiten966/Polyformer",
     "url": "https://github.com/Reiten966/Polyformer",
     "description": "Polyformer is an open-source project that aims to recycle plastics into FDM filaments",
     "language": "none",
-    "star": "32"
+    "star": "51"
   },
   {
     "title": "fastlane/fastlane",
     "url": "https://github.com/fastlane/fastlane",
     "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "language": "Ruby",
-    "star": "87"
+    "star": "51"
   },
   {
     "title": "squizlabs/PHP_CodeSniffer",
@@ -151,7 +151,7 @@
     "url": "https://github.com/easychen/lean-side-bussiness",
     "description": "精益副业：程序员如何优雅地做副业",
     "language": "none",
-    "star": "116"
+    "star": "124"
   },
   {
     "title": "ehids/ecapture",
@@ -172,6 +172,6 @@
     "url": "https://github.com/grafana/helm-charts",
     "description": "",
     "language": "Smarty",
-    "star": "4"
+    "star": "12"
   }
 ]
