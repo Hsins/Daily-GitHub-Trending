@@ -4,7 +4,7 @@
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "175"
+    "star": "176"
   },
   {
     "title": "cloudwego/hertz",
@@ -32,7 +32,7 @@
     "url": "https://github.com/mingrammer/diagrams",
     "description": "🎨 Diagram as Code for prototyping cloud system architectures",
     "language": "Python",
-    "star": "774"
+    "star": "780"
   },
   {
     "title": "mosaicml/composer",
@@ -67,7 +67,7 @@
     "url": "https://github.com/rxyhn/dotfiles",
     "description": "My awesomewm dotfiles for awesome people! ✨",
     "language": "CSS",
-    "star": "102"
+    "star": "113"
   },
   {
     "title": "milvus-io/milvus",
@@ -88,42 +88,42 @@
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "88"
+    "star": "97"
   },
   {
     "title": "xmu-xiaoma666/External-Attention-pytorch",
     "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
     "description": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
     "language": "Python",
-    "star": "26"
+    "star": "25"
   },
   {
     "title": "daffainfo/AllAboutBugBounty",
     "url": "https://github.com/daffainfo/AllAboutBugBounty",
     "description": "All about bug bounty (bypasses, payloads, and etc)",
     "language": "none",
-    "star": "43"
+    "star": "107"
   },
   {
     "title": "stretchr/testify",
     "url": "https://github.com/stretchr/testify",
     "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
     "language": "Go",
-    "star": "35"
+    "star": "55"
   },
   {
     "title": "Reiten966/Polyformer",
     "url": "https://github.com/Reiten966/Polyformer",
     "description": "Polyformer is an open-source project that aims to recycle plastics into FDM filaments",
     "language": "G-code",
-    "star": "51"
+    "star": "31"
   },
   {
     "title": "fastlane/fastlane",
     "url": "https://github.com/fastlane/fastlane",
     "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
     "language": "Ruby",
-    "star": "148"
+    "star": "146"
   },
   {
     "title": "squizlabs/PHP_CodeSniffer",
@@ -137,14 +137,14 @@
     "url": "https://github.com/jordibruin/Swift-Charts-Examples",
     "description": "An overview of the different types of charts you can make with Swift Charts",
     "language": "Swift",
-    "star": "163"
+    "star": "162"
   },
   {
     "title": "dair-ai/MLOPs-Primer",
     "url": "https://github.com/dair-ai/MLOPs-Primer",
     "description": "A collection of resources to learn about MLOPs.",
     "language": "none",
-    "star": "215"
+    "star": "103"
   },
   {
     "title": "easychen/lean-side-bussiness",
@@ -172,6 +172,6 @@
     "url": "https://github.com/grafana/helm-charts",
     "description": "",
     "language": "Smarty",
-    "star": "10"
+    "star": "36"
   }
 ]
