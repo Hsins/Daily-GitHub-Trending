@@ -1,0 +1,177 @@
+[
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "175"
+  },
+  {
+    "title": "cloudwego/hertz",
+    "url": "https://github.com/cloudwego/hertz",
+    "description": "A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.",
+    "language": "Go",
+    "star": "118"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "description": "The OpenAPI Specification Repository",
+    "language": "JavaScript",
+    "star": "71"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "93"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "774"
+  },
+  {
+    "title": "mosaicml/composer",
+    "url": "https://github.com/mosaicml/composer",
+    "description": "train neural networks up to 7x faster",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "LeadCoding/3-weeks-Google-Prep",
+    "url": "https://github.com/LeadCoding/3-weeks-Google-Prep",
+    "description": "",
+    "language": "C++",
+    "star": "78"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "description": "Firebase iOS SDK",
+    "language": "Objective-C",
+    "star": "35"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "description": "Documentation for GitHub Copilot",
+    "language": "Python",
+    "star": "124"
+  },
+  {
+    "title": "rxyhn/dotfiles",
+    "url": "https://github.com/rxyhn/dotfiles",
+    "description": "My awesomewm dotfiles for awesome people! ✨",
+    "language": "CSS",
+    "star": "102"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "description": "Vector database for scalable similarity search and AI applications.",
+    "language": "Go",
+    "star": "118"
+  },
+  {
+    "title": "Tencent/spring-cloud-tencent",
+    "url": "https://github.com/Tencent/spring-cloud-tencent",
+    "description": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.",
+    "language": "Java",
+    "star": "81"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "description": "Haptic input knob with software-defined endstops and virtual detents",
+    "language": "C++",
+    "star": "88"
+  },
+  {
+    "title": "xmu-xiaoma666/External-Attention-pytorch",
+    "url": "https://github.com/xmu-xiaoma666/External-Attention-pytorch",
+    "description": "🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐",
+    "language": "Python",
+    "star": "26"
+  },
+  {
+    "title": "daffainfo/AllAboutBugBounty",
+    "url": "https://github.com/daffainfo/AllAboutBugBounty",
+    "description": "All about bug bounty (bypasses, payloads, and etc)",
+    "language": "none",
+    "star": "43"
+  },
+  {
+    "title": "stretchr/testify",
+    "url": "https://github.com/stretchr/testify",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "language": "Go",
+    "star": "35"
+  },
+  {
+    "title": "Reiten966/Polyformer",
+    "url": "https://github.com/Reiten966/Polyformer",
+    "description": "Polyformer is an open-source project that aims to recycle plastics into FDM filaments",
+    "language": "G-code",
+    "star": "51"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "language": "Ruby",
+    "star": "148"
+  },
+  {
+    "title": "squizlabs/PHP_CodeSniffer",
+    "url": "https://github.com/squizlabs/PHP_CodeSniffer",
+    "description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
+    "language": "PHP",
+    "star": "15"
+  },
+  {
+    "title": "jordibruin/Swift-Charts-Examples",
+    "url": "https://github.com/jordibruin/Swift-Charts-Examples",
+    "description": "An overview of the different types of charts you can make with Swift Charts",
+    "language": "Swift",
+    "star": "163"
+  },
+  {
+    "title": "dair-ai/MLOPs-Primer",
+    "url": "https://github.com/dair-ai/MLOPs-Primer",
+    "description": "A collection of resources to learn about MLOPs.",
+    "language": "none",
+    "star": "215"
+  },
+  {
+    "title": "easychen/lean-side-bussiness",
+    "url": "https://github.com/easychen/lean-side-bussiness",
+    "description": "精益副业：程序员如何优雅地做副业",
+    "language": "none",
+    "star": "140"
+  },
+  {
+    "title": "ehids/ecapture",
+    "url": "https://github.com/ehids/ecapture",
+    "description": "capture SSL/TLS text content without CA cert using eBPF. supports Linux x86_64/Aarch64, Android(GKI) Aarch64.",
+    "language": "C",
+    "star": "33"
+  },
+  {
+    "title": "woocommerce/woocommerce",
+    "url": "https://github.com/woocommerce/woocommerce",
+    "description": "A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.",
+    "language": "PHP",
+    "star": "40"
+  },
+  {
+    "title": "grafana/helm-charts",
+    "url": "https://github.com/grafana/helm-charts",
+    "description": "",
+    "language": "Smarty",
+    "star": "10"
+  }
+]
