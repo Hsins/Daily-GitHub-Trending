@@ -11,35 +11,35 @@
     "url": "https://github.com/dolthub/dolt",
     "description": "Dolt – It's Git for Data",
     "language": "Go",
-    "star": "178"
+    "star": "148"
   },
   {
     "title": "meituan/YOLOv6",
     "url": "https://github.com/meituan/YOLOv6",
     "description": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
     "language": "Python",
-    "star": "184"
+    "star": "302"
   },
   {
     "title": "Tencent/spring-cloud-tencent",
     "url": "https://github.com/Tencent/spring-cloud-tencent",
     "description": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.",
     "language": "Java",
-    "star": "259"
+    "star": "260"
   },
   {
     "title": "milvus-io/milvus",
     "url": "https://github.com/milvus-io/milvus",
     "description": "Vector database for scalable similarity search and AI applications.",
     "language": "Go",
-    "star": "113"
+    "star": "111"
   },
   {
     "title": "OAI/OpenAPI-Specification",
     "url": "https://github.com/OAI/OpenAPI-Specification",
     "description": "The OpenAPI Specification Repository",
     "language": "JavaScript",
-    "star": "74"
+    "star": "73"
   },
   {
     "title": "yandex/YaLM-100B",
@@ -102,14 +102,14 @@
     "url": "https://github.com/optiv/Mangle",
     "description": "Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs",
     "language": "Go",
-    "star": "60"
+    "star": "42"
   },
   {
     "title": "Cpp-Club/Cxx_HOPL4_zh",
     "url": "https://github.com/Cpp-Club/Cxx_HOPL4_zh",
     "description": "Chinese translation of Bjarne Stroustrup's HOPL4 paper",
     "language": "none",
-    "star": "45"
+    "star": "47"
   },
   {
     "title": "flameshot-org/flameshot",
@@ -137,7 +137,7 @@
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "133"
+    "star": "135"
   },
   {
     "title": "google-research/parti",
