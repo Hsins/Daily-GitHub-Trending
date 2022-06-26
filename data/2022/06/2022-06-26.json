@@ -11,14 +11,14 @@
     "url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
     "description": "",
     "language": "Java",
-    "star": "109"
+    "star": "123"
   },
   {
     "title": "meituan/YOLOv6",
     "url": "https://github.com/meituan/YOLOv6",
     "description": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
     "language": "Python",
-    "star": "138"
+    "star": "133"
   },
   {
     "title": "Wsine/android_builder",
@@ -46,7 +46,7 @@
     "url": "https://github.com/scottbez1/smartknob",
     "description": "Haptic input knob with software-defined endstops and virtual detents",
     "language": "C++",
-    "star": "107"
+    "star": "114"
   },
   {
     "title": "hollischuang/toBeTopJavaer",
@@ -60,7 +60,7 @@
     "url": "https://github.com/rougier/numpy-100",
     "description": "100 numpy exercises (with solutions)",
     "language": "Python",
-    "star": "50"
+    "star": "33"
   },
   {
     "title": "luin/ioredis",
@@ -81,14 +81,14 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "87"
+    "star": "42"
   },
   {
     "title": "gophish/gophish",
     "url": "https://github.com/gophish/gophish",
     "description": "Open-Source Phishing Toolkit",
     "language": "Go",
-    "star": "39"
+    "star": "37"
   },
   {
     "title": "JustArchiNET/ArchiSteamFarm",
@@ -109,14 +109,14 @@
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "25"
+    "star": "23"
   },
   {
     "title": "WebKit/WebKit",
     "url": "https://github.com/WebKit/WebKit",
     "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
     "language": "none",
-    "star": "82"
+    "star": "102"
   },
   {
     "title": "BeyondDimension/SteamTools",
@@ -137,7 +137,7 @@
     "url": "https://github.com/openwrt/openwrt",
     "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
     "language": "C",
-    "star": "10"
+    "star": "7"
   },
   {
     "title": "Z4nzu/hackingtool",
