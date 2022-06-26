@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Tencent/spring-cloud-tencent",
+    "url": "https://github.com/Tencent/spring-cloud-tencent",
+    "description": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.",
+    "language": "Java",
+    "star": "123"
+  },
+  {
+    "title": "CatVodTVOfficial/TVBoxOSC",
+    "url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
+    "description": "",
+    "language": "Java",
+    "star": "109"
+  },
+  {
+    "title": "meituan/YOLOv6",
+    "url": "https://github.com/meituan/YOLOv6",
+    "description": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+    "language": "Python",
+    "star": "138"
+  },
+  {
+    "title": "Wsine/android_builder",
+    "url": "https://github.com/Wsine/android_builder",
+    "description": "",
+    "language": "none",
+    "star": "15"
+  },
+  {
+    "title": "YuanHsing/freed",
+    "url": "https://github.com/YuanHsing/freed",
+    "description": "",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "cremich/cdk-bill-bot",
+    "url": "https://github.com/cremich/cdk-bill-bot",
+    "description": "The serverless cost optimization bot",
+    "language": "TypeScript",
+    "star": "26"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "description": "Haptic input knob with software-defined endstops and virtual detents",
+    "language": "C++",
+    "star": "107"
+  },
+  {
+    "title": "hollischuang/toBeTopJavaer",
+    "url": "https://github.com/hollischuang/toBeTopJavaer",
+    "description": "To Be Top Javaer - Java工程师成神之路",
+    "language": "Java",
+    "star": "64"
+  },
+  {
+    "title": "rougier/numpy-100",
+    "url": "https://github.com/rougier/numpy-100",
+    "description": "100 numpy exercises (with solutions)",
+    "language": "Python",
+    "star": "50"
+  },
+  {
+    "title": "luin/ioredis",
+    "url": "https://github.com/luin/ioredis",
+    "description": "🚀 A robust, performance-focused, and full-featured Redis client for Node.js.",
+    "language": "TypeScript",
+    "star": "32"
+  },
+  {
+    "title": "projectdiscovery/tlsx",
+    "url": "https://github.com/projectdiscovery/tlsx",
+    "description": "Fast and configurable TLS grabber focused on TLS based data collection.",
+    "language": "Go",
+    "star": "29"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "86"
+  },
+  {
+    "title": "gophish/gophish",
+    "url": "https://github.com/gophish/gophish",
+    "description": "Open-Source Phishing Toolkit",
+    "language": "Go",
+    "star": "39"
+  },
+  {
+    "title": "JustArchiNET/ArchiSteamFarm",
+    "url": "https://github.com/JustArchiNET/ArchiSteamFarm",
+    "description": "C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.",
+    "language": "C#",
+    "star": "10"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "language": "Rust",
+    "star": "45"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "25"
+  },
+  {
+    "title": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit",
+    "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+    "language": "none",
+    "star": "82"
+  },
+  {
+    "title": "BeyondDimension/SteamTools",
+    "url": "https://github.com/BeyondDimension/SteamTools",
+    "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。",
+    "language": "C#",
+    "star": "20"
+  },
+  {
+    "title": "azerothcore/azerothcore-wotlk",
+    "url": "https://github.com/azerothcore/azerothcore-wotlk",
+    "description": "Complete Open Source and Modular solution for MMO",
+    "language": "C++",
+    "star": "3"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "language": "C",
+    "star": "10"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "star": "107"
+  },
+  {
+    "title": "casdoor/casdoor",
+    "url": "https://github.com/casdoor/casdoor",
+    "description": "An Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML and CAS, QQ group: 645200447",
+    "language": "Go",
+    "star": "34"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "language": "Dockerfile",
+    "star": "8"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "description": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
+    "language": "none",
+    "star": "26"
+  },
+  {
+    "title": "kbeckmann/PicoCart64",
+    "url": "https://github.com/kbeckmann/PicoCart64",
+    "description": "Nintendo 64 flash cart using a Raspberry Pi RP2040",
+    "language": "none",
+    "star": "22"
+  }
+]
