@@ -4,7 +4,7 @@
     "url": "https://github.com/meituan/YOLOv6",
     "description": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
     "language": "Python",
-    "star": "625"
+    "star": "651"
   },
   {
     "title": "insidegui/VirtualBuddy",
@@ -18,28 +18,28 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "240"
+    "star": "216"
   },
   {
     "title": "opensumi/core",
     "url": "https://github.com/opensumi/core",
     "description": "🚀 A framework helps you quickly build Cloud or Desktop IDE products.",
     "language": "TypeScript",
-    "star": "41"
+    "star": "43"
   },
   {
     "title": "TheAlgorithms/Rust",
     "url": "https://github.com/TheAlgorithms/Rust",
     "description": "All Algorithms implemented in Rust",
     "language": "Rust",
-    "star": "136"
+    "star": "161"
   },
   {
     "title": "CatVodTVOfficial/TVBoxOSC",
     "url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
     "description": "开发阶段请不要提没有意义的PR，也不要用PR来提意见！",
     "language": "Java",
-    "star": "137"
+    "star": "166"
   },
   {
     "title": "edoardottt/awesome-hacker-search-engines",
@@ -53,7 +53,7 @@
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "340"
+    "star": "349"
   },
   {
     "title": "o0HalfLife0o/TVBoxOSC",
@@ -67,28 +67,28 @@
     "url": "https://github.com/faif/python-patterns",
     "description": "A collection of design patterns/idioms in Python",
     "language": "Python",
-    "star": "57"
+    "star": "81"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "189"
+    "star": "187"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "278"
+    "star": "199"
   },
   {
     "title": "coderQuad/New-Grad-Positions-2023",
     "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
     "description": "A collection of New Grad full time roles in SWE, Quant, and PM.",
     "language": "none",
-    "star": "61"
+    "star": "65"
   },
   {
     "title": "practical-tutorials/project-based-learning",
@@ -116,7 +116,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "125"
+    "star": "100"
   },
   {
     "title": "ascoders/weekly",
@@ -137,7 +137,7 @@
     "url": "https://github.com/Tencent/spring-cloud-tencent",
     "description": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.",
     "language": "Java",
-    "star": "92"
+    "star": "89"
   },
   {
     "title": "getify/You-Dont-Know-JS",
