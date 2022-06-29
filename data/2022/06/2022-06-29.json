@@ -1,0 +1,170 @@
+[
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "306"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+    "language": "Jupyter Notebook",
+    "star": "22"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "description": "All Algorithms implemented in Rust",
+    "language": "Rust",
+    "star": "193"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "184"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "29"
+  },
+  {
+    "title": "D3Ext/WEF",
+    "url": "https://github.com/D3Ext/WEF",
+    "description": "Wi-Fi Exploitation Framework",
+    "language": "Hack",
+    "star": "118"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "333"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "language": "none",
+    "star": "75"
+  },
+  {
+    "title": "meituan/YOLOv6",
+    "url": "https://github.com/meituan/YOLOv6",
+    "description": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+    "language": "Python",
+    "star": "463"
+  },
+  {
+    "title": "qiangmzsx/Software-Engineering-at-Google",
+    "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
+    "description": "《Software Engineering at Google》的中文翻译版本",
+    "language": "HTML",
+    "star": "199"
+  },
+  {
+    "title": "edoardottt/awesome-hacker-search-engines",
+    "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
+    "description": "A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more",
+    "language": "none",
+    "star": "322"
+  },
+  {
+    "title": "carlospolop/PEASS-ng",
+    "url": "https://github.com/carlospolop/PEASS-ng",
+    "description": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+    "language": "C#",
+    "star": "67"
+  },
+  {
+    "title": "liu673cn/mao",
+    "url": "https://github.com/liu673cn/mao",
+    "description": "猫影视TV（停运）---> TVbox（空壳）",
+    "language": "HTML",
+    "star": "22"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "description": "A collection of design patterns/idioms in Python",
+    "language": "Python",
+    "star": "158"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "language": "Groovy",
+    "star": "18"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "description": "The next-gen web framework.",
+    "language": "TypeScript",
+    "star": "516"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "vim/vim",
+    "url": "https://github.com/vim/vim",
+    "description": "The official Vim repository",
+    "language": "Vim script",
+    "star": "64"
+  },
+  {
+    "title": "tldraw/tldraw",
+    "url": "https://github.com/tldraw/tldraw",
+    "description": "A tiny little drawing app.",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "402"
+  },
+  {
+    "title": "pterodactyl/panel",
+    "url": "https://github.com/pterodactyl/panel",
+    "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+    "language": "PHP",
+    "star": "11"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "179"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "The modern web developer’s platform",
+    "language": "TypeScript",
+    "star": "69"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "language": "TypeScript",
+    "star": "15"
+  }
+]
