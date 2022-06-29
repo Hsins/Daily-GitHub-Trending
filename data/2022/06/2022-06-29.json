@@ -4,49 +4,49 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "306"
+    "star": "324"
   },
   {
     "title": "Azure/azureml-examples",
     "url": "https://github.com/Azure/azureml-examples",
     "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
     "language": "Jupyter Notebook",
-    "star": "22"
+    "star": "35"
   },
   {
     "title": "TheAlgorithms/Rust",
     "url": "https://github.com/TheAlgorithms/Rust",
     "description": "All Algorithms implemented in Rust",
     "language": "Rust",
-    "star": "193"
+    "star": "190"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "184"
+    "star": "190"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "29"
+    "star": "30"
   },
   {
     "title": "D3Ext/WEF",
     "url": "https://github.com/D3Ext/WEF",
     "description": "Wi-Fi Exploitation Framework",
     "language": "Hack",
-    "star": "118"
+    "star": "70"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "333"
+    "star": "314"
   },
   {
     "title": "Hack-with-Github/Awesome-Hacking",
@@ -60,21 +60,21 @@
     "url": "https://github.com/meituan/YOLOv6",
     "description": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
     "language": "Python",
-    "star": "463"
+    "star": "456"
   },
   {
     "title": "qiangmzsx/Software-Engineering-at-Google",
     "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
     "description": "《Software Engineering at Google》的中文翻译版本",
     "language": "HTML",
-    "star": "199"
+    "star": "201"
   },
   {
     "title": "edoardottt/awesome-hacker-search-engines",
     "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
     "description": "A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more",
     "language": "none",
-    "star": "322"
+    "star": "326"
   },
   {
     "title": "carlospolop/PEASS-ng",
@@ -88,14 +88,14 @@
     "url": "https://github.com/liu673cn/mao",
     "description": "猫影视TV（停运）---> TVbox（空壳）",
     "language": "HTML",
-    "star": "22"
+    "star": "20"
   },
   {
     "title": "faif/python-patterns",
     "url": "https://github.com/faif/python-patterns",
     "description": "A collection of design patterns/idioms in Python",
     "language": "Python",
-    "star": "158"
+    "star": "156"
   },
   {
     "title": "bregman-arie/devops-resources",
@@ -130,14 +130,14 @@
     "url": "https://github.com/tldraw/tldraw",
     "description": "A tiny little drawing app.",
     "language": "TypeScript",
-    "star": "42"
+    "star": "35"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "402"
+    "star": "392"
   },
   {
     "title": "pterodactyl/panel",
@@ -151,14 +151,14 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "179"
+    "star": "191"
   },
   {
     "title": "angular/angular",
     "url": "https://github.com/angular/angular",
     "description": "The modern web developer’s platform",
     "language": "TypeScript",
-    "star": "69"
+    "star": "63"
   },
   {
     "title": "payloadcms/payload",
