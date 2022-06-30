@@ -4,14 +4,14 @@
     "url": "https://github.com/delta-io/delta",
     "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",
     "language": "Scala",
-    "star": "26"
+    "star": "12"
   },
   {
     "title": "denoland/fresh",
     "url": "https://github.com/denoland/fresh",
     "description": "The next-gen web framework.",
     "language": "TypeScript",
-    "star": "607"
+    "star": "612"
   },
   {
     "title": "Azure/azureml-examples",
@@ -32,7 +32,7 @@
     "url": "https://github.com/edoardottt/awesome-hacker-search-engines",
     "description": "A list of search engines useful during Penetration testing, vulnerability assessments, red team operations, bug bounty and more",
     "language": "none",
-    "star": "600"
+    "star": "621"
   },
   {
     "title": "qq8e/qq",
@@ -46,14 +46,14 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "451"
+    "star": "452"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "45"
+    "star": "44"
   },
   {
     "title": "storybookjs/storybook",
@@ -74,21 +74,21 @@
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "58"
+    "star": "103"
   },
   {
     "title": "D3Ext/WEF",
     "url": "https://github.com/D3Ext/WEF",
     "description": "Wi-Fi Exploitation Framework",
     "language": "Hack",
-    "star": "114"
+    "star": "112"
   },
   {
     "title": "remix-run/remix",
     "url": "https://github.com/remix-run/remix",
     "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
     "language": "TypeScript",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "dotnet/maui",
@@ -116,21 +116,21 @@
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "language": "Java",
-    "star": "28"
+    "star": "17"
   },
   {
     "title": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
     "language": "none",
-    "star": "268"
+    "star": "104"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "15"
+    "star": "16"
   },
   {
     "title": "lydiahallie/javascript-questions",
@@ -165,13 +165,13 @@
     "url": "https://github.com/vim/vim",
     "description": "The official Vim repository",
     "language": "Vim script",
-    "star": "76"
+    "star": "75"
   },
   {
     "title": "qiangmzsx/Software-Engineering-at-Google",
     "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
     "description": "《Software Engineering at Google》的中文翻译版本",
     "language": "HTML",
-    "star": "227"
+    "star": "234"
   }
 ]
