@@ -4,21 +4,21 @@
     "url": "https://github.com/denoland/fresh",
     "description": "The next-gen web framework.",
     "language": "TypeScript",
-    "star": "682"
+    "star": "699"
   },
   {
     "title": "python-discord/code-jam-qualifier-9",
     "url": "https://github.com/python-discord/code-jam-qualifier-9",
     "description": "Qualifier for Python Discord Code Jam 9 - Summer 2022",
     "language": "Python",
-    "star": "5"
+    "star": "9"
   },
   {
     "title": "micropython/micropython",
     "url": "https://github.com/micropython/micropython",
     "description": "MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems",
     "language": "C",
-    "star": "21"
+    "star": "61"
   },
   {
     "title": "laravel/vite-plugin",
@@ -32,14 +32,14 @@
     "url": "https://github.com/libevm/subway",
     "description": "A practical example on how to perform sandwich attacks on Ethereum",
     "language": "Solidity",
-    "star": "74"
+    "star": "67"
   },
   {
     "title": "ialberquilla/aave-liquidation",
     "url": "https://github.com/ialberquilla/aave-liquidation",
     "description": "Liquidation Aave protocol example",
     "language": "JavaScript",
-    "star": "44"
+    "star": "56"
   },
   {
     "title": "duckdegen/apebot",
@@ -53,7 +53,7 @@
     "url": "https://github.com/ccyanxyz/uniswap-arbitrage-analysis",
     "description": "Uniswap arbitrage problem analysis",
     "language": "Python",
-    "star": "53"
+    "star": "48"
   },
   {
     "title": "AMAI-GmbH/AI-Expert-Roadmap",
@@ -67,111 +67,111 @@
     "url": "https://github.com/wmjordan/PDFPatcher",
     "description": "PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等",
     "language": "C#",
-    "star": "175"
+    "star": "147"
   },
   {
     "title": "Azure/azureml-examples",
     "url": "https://github.com/Azure/azureml-examples",
     "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
     "language": "Jupyter Notebook",
-    "star": "56"
+    "star": "46"
   },
   {
     "title": "jinfagang/yolov7",
     "url": "https://github.com/jinfagang/yolov7",
     "description": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
     "language": "Python",
-    "star": "101"
+    "star": "109"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "91"
+    "star": "112"
   },
   {
     "title": "ethereum/go-ethereum",
     "url": "https://github.com/ethereum/go-ethereum",
     "description": "Official Go implementation of the Ethereum protocol",
     "language": "Go",
-    "star": "25"
+    "star": "27"
   },
   {
     "title": "521xueweihan/HelloGitHub",
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "47"
+    "star": "48"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "88"
+    "star": "90"
   },
   {
     "title": "bregman-arie/devops-resources",
     "url": "https://github.com/bregman-arie/devops-resources",
     "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
     "language": "Groovy",
-    "star": "32"
+    "star": "38"
   },
   {
     "title": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
     "language": "none",
-    "star": "201"
+    "star": "207"
   },
   {
     "title": "muesli/duf",
     "url": "https://github.com/muesli/duf",
     "description": "Disk Usage/Free Utility - a better 'df' alternative",
     "language": "Go",
-    "star": "139"
+    "star": "120"
   },
   {
     "title": "flashbots/simple-arbitrage",
     "url": "https://github.com/flashbots/simple-arbitrage",
     "description": "Example arbitrage bot using Flashbots",
     "language": "TypeScript",
-    "star": "22"
+    "star": "20"
   },
   {
     "title": "rui314/chibicc",
     "url": "https://github.com/rui314/chibicc",
     "description": "A small C compiler",
     "language": "C",
-    "star": "49"
+    "star": "47"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a developer in 2022",
     "language": "TypeScript",
-    "star": "160"
+    "star": "189"
   },
   {
     "title": "lydiahallie/javascript-questions",
     "url": "https://github.com/lydiahallie/javascript-questions",
     "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
     "language": "none",
-    "star": "225"
+    "star": "231"
   },
   {
     "title": "qiangmzsx/Software-Engineering-at-Google",
     "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
     "description": "《Software Engineering at Google》的中文翻译版本",
     "language": "HTML",
-    "star": "291"
+    "star": "193"
   },
   {
     "title": "thebookisclosed/ViVe",
     "url": "https://github.com/thebookisclosed/ViVe",
     "description": "C# library and console app for using new feature control APIs available in Windows 10 version 2004 and newer",
     "language": "C#",
-    "star": "15"
+    "star": "16"
   }
 ]
