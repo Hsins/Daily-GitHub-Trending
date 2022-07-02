@@ -1,0 +1,177 @@
+[
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "description": "The next-gen web framework.",
+    "language": "TypeScript",
+    "star": "503"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+    "language": "V",
+    "star": "120"
+  },
+  {
+    "title": "Shopify/flash-list",
+    "url": "https://github.com/Shopify/flash-list",
+    "description": "A better list for React Native",
+    "language": "TypeScript",
+    "star": "350"
+  },
+  {
+    "title": "StarRocks/starrocks",
+    "url": "https://github.com/StarRocks/starrocks",
+    "description": "StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",
+    "language": "C++",
+    "star": "6"
+  },
+  {
+    "title": "LearningOS/rust-based-os-comp2022",
+    "url": "https://github.com/LearningOS/rust-based-os-comp2022",
+    "description": "[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)",
+    "language": "Rust",
+    "star": "37"
+  },
+  {
+    "title": "michaelgutmann/ml-pen-and-paper-exercises",
+    "url": "https://github.com/michaelgutmann/ml-pen-and-paper-exercises",
+    "description": "Pen and paper exercises in machine learning",
+    "language": "TeX",
+    "star": "228"
+  },
+  {
+    "title": "qq8e/qq",
+    "url": "https://github.com/qq8e/qq",
+    "description": "8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多",
+    "language": "CSS",
+    "star": "43"
+  },
+  {
+    "title": "christophercalm/if-im-gone",
+    "url": "https://github.com/christophercalm/if-im-gone",
+    "description": "A cheat sheet for if I am somehow incapacitated.",
+    "language": "none",
+    "star": "144"
+  },
+  {
+    "title": "messense/aliyundrive-webdav",
+    "url": "https://github.com/messense/aliyundrive-webdav",
+    "description": "阿里云盘 WebDAV 服务",
+    "language": "Rust",
+    "star": "113"
+  },
+  {
+    "title": "delta-io/delta",
+    "url": "https://github.com/delta-io/delta",
+    "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs for Scala, Java, Rust, Ruby, and Python.",
+    "language": "Scala",
+    "star": "28"
+  },
+  {
+    "title": "webhdx/PicoBoot",
+    "url": "https://github.com/webhdx/PicoBoot",
+    "description": "Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube",
+    "language": "Python",
+    "star": "51"
+  },
+  {
+    "title": "focus-creative-games/huatuo",
+    "url": "https://github.com/focus-creative-games/huatuo",
+    "description": "huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
+    "language": "C++",
+    "star": "24"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "256"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Shell",
+    "star": "35"
+  },
+  {
+    "title": "deepmind/educational",
+    "url": "https://github.com/deepmind/educational",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "142"
+  },
+  {
+    "title": "pystardust/ani-cli",
+    "url": "https://github.com/pystardust/ani-cli",
+    "description": "A cli tool to browse and play anime",
+    "language": "Shell",
+    "star": "24"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "language": "Java",
+    "star": "39"
+  },
+  {
+    "title": "laravel/vite-plugin",
+    "url": "https://github.com/laravel/vite-plugin",
+    "description": "Laravel plugin for Vite.",
+    "language": "TypeScript",
+    "star": "41"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "379"
+  },
+  {
+    "title": "o0HalfLife0o/TVBoxOSC",
+    "url": "https://github.com/o0HalfLife0o/TVBoxOSC",
+    "description": "",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "tModLoader/tModLoader",
+    "url": "https://github.com/tModLoader/tModLoader",
+    "description": "A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations",
+    "language": "C#",
+    "star": "11"
+  },
+  {
+    "title": "opensearch-project/OpenSearch",
+    "url": "https://github.com/opensearch-project/OpenSearch",
+    "description": "🔎 Open source distributed and RESTful search engine.",
+    "language": "Java",
+    "star": "10"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "description": "A layer 1 for everyone!",
+    "language": "Rust",
+    "star": "28"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "description": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
+    "language": "TypeScript",
+    "star": "29"
+  },
+  {
+    "title": "antlr/antlr4",
+    "url": "https://github.com/antlr/antlr4",
+    "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
+    "language": "Java",
+    "star": "5"
+  }
+]
