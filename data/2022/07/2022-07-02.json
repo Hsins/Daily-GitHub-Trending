@@ -4,14 +4,14 @@
     "url": "https://github.com/denoland/fresh",
     "description": "The next-gen web framework.",
     "language": "TypeScript",
-    "star": "553"
+    "star": "483"
   },
   {
     "title": "vlang/v",
     "url": "https://github.com/vlang/v",
     "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
     "language": "V",
-    "star": "76"
+    "star": "120"
   },
   {
     "title": "Shopify/flash-list",
@@ -32,28 +32,28 @@
     "url": "https://github.com/LearningOS/rust-based-os-comp2022",
     "description": "[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)",
     "language": "Rust",
-    "star": "38"
+    "star": "37"
   },
   {
     "title": "michaelgutmann/ml-pen-and-paper-exercises",
     "url": "https://github.com/michaelgutmann/ml-pen-and-paper-exercises",
     "description": "Pen and paper exercises in machine learning",
     "language": "TeX",
-    "star": "211"
+    "star": "228"
   },
   {
     "title": "qq8e/qq",
     "url": "https://github.com/qq8e/qq",
     "description": "8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多",
     "language": "CSS",
-    "star": "40"
+    "star": "43"
   },
   {
     "title": "christophercalm/if-im-gone",
     "url": "https://github.com/christophercalm/if-im-gone",
     "description": "A cheat sheet for if I am somehow incapacitated.",
     "language": "none",
-    "star": "56"
+    "star": "144"
   },
   {
     "title": "messense/aliyundrive-webdav",
@@ -74,21 +74,21 @@
     "url": "https://github.com/webhdx/PicoBoot",
     "description": "Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube",
     "language": "Python",
-    "star": "57"
+    "star": "51"
   },
   {
     "title": "focus-creative-games/huatuo",
     "url": "https://github.com/focus-creative-games/huatuo",
     "description": "huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
     "language": "C++",
-    "star": "15"
+    "star": "24"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "462"
+    "star": "256"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
@@ -102,7 +102,7 @@
     "url": "https://github.com/deepmind/educational",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "154"
+    "star": "142"
   },
   {
     "title": "pystardust/ani-cli",
@@ -123,55 +123,55 @@
     "url": "https://github.com/laravel/vite-plugin",
     "description": "Laravel plugin for Vite.",
     "language": "TypeScript",
-    "star": "36"
+    "star": "41"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "304"
+    "star": "379"
   },
   {
     "title": "o0HalfLife0o/TVBoxOSC",
     "url": "https://github.com/o0HalfLife0o/TVBoxOSC",
     "description": "",
     "language": "none",
-    "star": "20"
+    "star": "19"
   },
   {
     "title": "tModLoader/tModLoader",
     "url": "https://github.com/tModLoader/tModLoader",
     "description": "A mod to make and play Terraria mods. Supports Terraria 1.4 (and earlier) installations",
     "language": "C#",
-    "star": "19"
+    "star": "24"
   },
   {
     "title": "opensearch-project/OpenSearch",
     "url": "https://github.com/opensearch-project/OpenSearch",
     "description": "🔎 Open source distributed and RESTful search engine.",
     "language": "Java",
-    "star": "4"
+    "star": "10"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "23"
+    "star": "28"
   },
   {
     "title": "storybookjs/storybook",
     "url": "https://github.com/storybookjs/storybook",
     "description": "📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!",
     "language": "TypeScript",
-    "star": "46"
+    "star": "29"
   },
   {
     "title": "antlr/antlr4",
     "url": "https://github.com/antlr/antlr4",
     "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
     "language": "Java",
-    "star": "5"
+    "star": "27"
   }
 ]
