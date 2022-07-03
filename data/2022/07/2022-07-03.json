@@ -4,49 +4,49 @@
     "url": "https://github.com/searxng/searxng",
     "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
     "language": "Python",
-    "star": "105"
+    "star": "131"
   },
   {
     "title": "messense/aliyundrive-webdav",
     "url": "https://github.com/messense/aliyundrive-webdav",
     "description": "阿里云盘 WebDAV 服务",
     "language": "Rust",
-    "star": "85"
+    "star": "75"
   },
   {
     "title": "denoland/fresh",
     "url": "https://github.com/denoland/fresh",
     "description": "The next-gen web framework.",
     "language": "TypeScript",
-    "star": "402"
+    "star": "438"
   },
   {
     "title": "Shopify/flash-list",
     "url": "https://github.com/Shopify/flash-list",
     "description": "A better list for React Native",
     "language": "TypeScript",
-    "star": "198"
+    "star": "189"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "275"
+    "star": "296"
   },
   {
     "title": "juanfont/headscale",
     "url": "https://github.com/juanfont/headscale",
     "description": "An open source, self-hosted implementation of the Tailscale control server",
     "language": "Go",
-    "star": "100"
+    "star": "118"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "404"
+    "star": "247"
   },
   {
     "title": "charlax/professional-programming",
@@ -67,70 +67,70 @@
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "329"
+    "star": "444"
   },
   {
     "title": "Koenkk/zigbee2mqtt",
     "url": "https://github.com/Koenkk/zigbee2mqtt",
     "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
     "language": "JavaScript",
-    "star": "10"
+    "star": "3"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "201"
+    "star": "198"
   },
   {
     "title": "decalage2/awesome-security-hardening",
     "url": "https://github.com/decalage2/awesome-security-hardening",
     "description": "A collection of awesome security hardening guides, tools and other resources",
     "language": "none",
-    "star": "152"
+    "star": "162"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "175"
+    "star": "176"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "168"
+    "star": "170"
   },
   {
     "title": "deepmind/educational",
     "url": "https://github.com/deepmind/educational",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "163"
+    "star": "162"
   },
   {
     "title": "dair-ai/ML-Course-Notes",
     "url": "https://github.com/dair-ai/ML-Course-Notes",
     "description": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.",
     "language": "none",
-    "star": "273"
+    "star": "258"
   },
   {
     "title": "WhaleFell/SMSBoom",
     "url": "https://github.com/WhaleFell/SMSBoom",
     "description": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
     "language": "Python",
-    "star": "236"
+    "star": "173"
   },
   {
     "title": "jina-ai/discoart",
     "url": "https://github.com/jina-ai/discoart",
     "description": "Create Disco Diffusion artworks in one line",
     "language": "Python",
-    "star": "105"
+    "star": "120"
   },
   {
     "title": "raspberrypi/pico-sdk",
@@ -158,20 +158,20 @@
     "url": "https://github.com/michaelgutmann/ml-pen-and-paper-exercises",
     "description": "Pen and paper exercises in machine learning",
     "language": "TeX",
-    "star": "170"
+    "star": "191"
   },
   {
     "title": "tihmstar/jbinit",
     "url": "https://github.com/tihmstar/jbinit",
     "description": "iOS booter ramdisk creator for checkm8 based jailbreaks",
     "language": "C",
-    "star": "14"
+    "star": "12"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "49"
+    "star": "44"
   }
 ]
