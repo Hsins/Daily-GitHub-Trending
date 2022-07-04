@@ -4,21 +4,21 @@
     "url": "https://github.com/WhaleFell/SMSBoom",
     "description": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
     "language": "Python",
-    "star": "250"
+    "star": "622"
   },
   {
     "title": "webhdx/PicoBoot",
     "url": "https://github.com/webhdx/PicoBoot",
     "description": "Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube",
     "language": "Python",
-    "star": "72"
+    "star": "83"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "261"
+    "star": "260"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
@@ -32,28 +32,28 @@
     "url": "https://github.com/rebuy-de/aws-nuke",
     "description": "Nuke a whole AWS account and delete all its resources.",
     "language": "Go",
-    "star": "93"
+    "star": "114"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "265"
+    "star": "322"
   },
   {
     "title": "elebumm/RedditVideoMakerBot",
     "url": "https://github.com/elebumm/RedditVideoMakerBot",
     "description": "Create Reddit Videos with just✨ one command ✨",
     "language": "Python",
-    "star": "45"
+    "star": "36"
   },
   {
     "title": "soimort/you-get",
     "url": "https://github.com/soimort/you-get",
     "description": "⏬ Dumb downloader that scrapes the web",
     "language": "Python",
-    "star": "24"
+    "star": "55"
   },
   {
     "title": "yt-dlp/yt-dlp",
@@ -67,56 +67,56 @@
     "url": "https://github.com/searx/searx",
     "description": "Privacy-respecting metasearch engine",
     "language": "Python",
-    "star": "18"
+    "star": "40"
   },
   {
     "title": "dair-ai/ML-Course-Notes",
     "url": "https://github.com/dair-ai/ML-Course-Notes",
     "description": "🎓 Sharing course notes on all topics related to machine learning, NLP, and AI.",
     "language": "none",
-    "star": "174"
+    "star": "103"
   },
   {
     "title": "zergtant/pytorch-handbook",
     "url": "https://github.com/zergtant/pytorch-handbook",
     "description": "pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行",
     "language": "Jupyter Notebook",
-    "star": "32"
+    "star": "25"
   },
   {
     "title": "gfx-rs/wgpu",
     "url": "https://github.com/gfx-rs/wgpu",
     "description": "Safe and portable GPU abstraction in Rust, implementing WebGPU API.",
     "language": "Rust",
-    "star": "51"
+    "star": "39"
   },
   {
     "title": "chvancooten/maldev-for-dummies",
     "url": "https://github.com/chvancooten/maldev-for-dummies",
     "description": "A workshop about Malware Development",
     "language": "C#",
-    "star": "92"
+    "star": "98"
   },
   {
     "title": "solidjs/solid",
     "url": "https://github.com/solidjs/solid",
     "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "language": "TypeScript",
-    "star": "32"
+    "star": "71"
   },
   {
     "title": "Dreamacro/clash",
     "url": "https://github.com/Dreamacro/clash",
     "description": "A rule-based tunnel in Go.",
     "language": "Go",
-    "star": "39"
+    "star": "58"
   },
   {
     "title": "sveltejs/svelte",
     "url": "https://github.com/sveltejs/svelte",
     "description": "Cybernetically enhanced web apps",
     "language": "TypeScript",
-    "star": "141"
+    "star": "170"
   },
   {
     "title": "searxng/searxng",
@@ -130,42 +130,42 @@
     "url": "https://github.com/pallets/flask",
     "description": "The Python micro framework for building web applications.",
     "language": "Python",
-    "star": "71"
+    "star": "70"
   },
   {
     "title": "StarRocks/starrocks",
     "url": "https://github.com/StarRocks/starrocks",
     "description": "StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.",
     "language": "C++",
-    "star": "13"
+    "star": "18"
   },
   {
     "title": "laurent22/joplin",
     "url": "https://github.com/laurent22/joplin",
     "description": "Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
     "language": "TypeScript",
-    "star": "15"
+    "star": "43"
   },
   {
     "title": "fiveoutofnine/cool-contracts",
     "url": "https://github.com/fiveoutofnine/cool-contracts",
     "description": "A compilation of smart contracts I find cool/fun/interesting.",
     "language": "none",
-    "star": "116"
+    "star": "100"
   },
   {
     "title": "darktable-org/darktable",
     "url": "https://github.com/darktable-org/darktable",
     "description": "darktable is an open source photography workflow application and raw developer",
     "language": "C",
-    "star": "49"
+    "star": "57"
   },
   {
     "title": "qbittorrent/qBittorrent",
     "url": "https://github.com/qbittorrent/qBittorrent",
     "description": "qBittorrent BitTorrent client",
     "language": "C++",
-    "star": "15"
+    "star": "23"
   },
   {
     "title": "sherlock-project/sherlock",
