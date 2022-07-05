@@ -1,0 +1,177 @@
+[
+  {
+    "title": "WhaleFell/SMSBoom",
+    "url": "https://github.com/WhaleFell/SMSBoom",
+    "description": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
+    "language": "Python",
+    "star": "690"
+  },
+  {
+    "title": "searxng/searxng",
+    "url": "https://github.com/searxng/searxng",
+    "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+    "language": "Python",
+    "star": "153"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "375"
+  },
+  {
+    "title": "webhdx/PicoBoot",
+    "url": "https://github.com/webhdx/PicoBoot",
+    "description": "Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "soimort/you-get",
+    "url": "https://github.com/soimort/you-get",
+    "description": "⏬ Dumb downloader that scrapes the web",
+    "language": "Python",
+    "star": "196"
+  },
+  {
+    "title": "t3-oss/create-t3-app",
+    "url": "https://github.com/t3-oss/create-t3-app",
+    "description": "CLI to scaffold a starting project using the t3 stack",
+    "language": "TypeScript",
+    "star": "427"
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "language": "JavaScript",
+    "star": "131"
+  },
+  {
+    "title": "searxng/searxng-docker",
+    "url": "https://github.com/searxng/searxng-docker",
+    "description": "The docker-compose files for setting up a SearXNG instance with docker.",
+    "language": "Shell",
+    "star": "13"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "174"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+    "language": "Ruby",
+    "star": "10"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "TypeScript",
+    "star": "151"
+  },
+  {
+    "title": "kwea123/ngp_pl",
+    "url": "https://github.com/kwea123/ngp_pl",
+    "description": "Instant-ngp in pytorch+cuda trained with pytorch-lightning (high quality with high speed, with only few lines of legible code)",
+    "language": "Jupyter Notebook",
+    "star": "33"
+  },
+  {
+    "title": "LearningOS/rust-based-os-comp2022",
+    "url": "https://github.com/LearningOS/rust-based-os-comp2022",
+    "description": "[2022开源操作系统训练营](https://learningos.github.io/rust-based-os-comp2022/)",
+    "language": "Rust",
+    "star": "99"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "223"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "37"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "150"
+  },
+  {
+    "title": "Megvii-BaseDetection/YOLOX",
+    "url": "https://github.com/Megvii-BaseDetection/YOLOX",
+    "description": "YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/",
+    "language": "Python",
+    "star": "45"
+  },
+  {
+    "title": "4ian/GDevelop",
+    "url": "https://github.com/4ian/GDevelop",
+    "description": "🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.",
+    "language": "JavaScript",
+    "star": "45"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "description": "Just Announced - \"Learn Spring Security OAuth\":",
+    "language": "Java",
+    "star": "23"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "star": "73"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "star": "12"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "40"
+  },
+  {
+    "title": "babysor/MockingBird",
+    "url": "https://github.com/babysor/MockingBird",
+    "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "language": "Python",
+    "star": "45"
+  },
+  {
+    "title": "qianguyihao/Web",
+    "url": "https://github.com/qianguyihao/Web",
+    "description": "千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。",
+    "language": "none",
+    "star": "55"
+  }
+]
