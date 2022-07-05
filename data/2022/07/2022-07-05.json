@@ -4,56 +4,56 @@
     "url": "https://github.com/WhaleFell/SMSBoom",
     "description": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！高一美术生开发全网首发！！",
     "language": "Python",
-    "star": "690"
+    "star": "696"
   },
   {
     "title": "searxng/searxng",
     "url": "https://github.com/searxng/searxng",
     "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
     "language": "Python",
-    "star": "153"
+    "star": "229"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "99"
+    "star": "94"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "375"
+    "star": "341"
   },
   {
     "title": "webhdx/PicoBoot",
     "url": "https://github.com/webhdx/PicoBoot",
     "description": "Raspberry Pi Pico (RP2040) based IPL replacement modchip for GameCube",
     "language": "Python",
-    "star": "80"
+    "star": "76"
   },
   {
     "title": "soimort/you-get",
     "url": "https://github.com/soimort/you-get",
     "description": "⏬ Dumb downloader that scrapes the web",
     "language": "Python",
-    "star": "196"
+    "star": "201"
   },
   {
     "title": "t3-oss/create-t3-app",
     "url": "https://github.com/t3-oss/create-t3-app",
     "description": "CLI to scaffold a starting project using the t3 stack",
     "language": "TypeScript",
-    "star": "427"
+    "star": "438"
   },
   {
     "title": "jaywcjlove/awesome-mac",
     "url": "https://github.com/jaywcjlove/awesome-mac",
     "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
     "language": "JavaScript",
-    "star": "131"
+    "star": "114"
   },
   {
     "title": "searxng/searxng-docker",
@@ -67,28 +67,28 @@
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "174"
+    "star": "172"
   },
   {
     "title": "chatwoot/chatwoot",
     "url": "https://github.com/chatwoot/chatwoot",
     "description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
     "language": "Ruby",
-    "star": "10"
+    "star": "52"
   },
   {
     "title": "solidjs/solid",
     "url": "https://github.com/solidjs/solid",
     "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "language": "TypeScript",
-    "star": "151"
+    "star": "147"
   },
   {
     "title": "kwea123/ngp_pl",
     "url": "https://github.com/kwea123/ngp_pl",
     "description": "Instant-ngp in pytorch+cuda trained with pytorch-lightning (high quality with high speed, with only few lines of legible code)",
     "language": "Jupyter Notebook",
-    "star": "33"
+    "star": "35"
   },
   {
     "title": "LearningOS/rust-based-os-comp2022",
@@ -102,49 +102,49 @@
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "223"
+    "star": "218"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "37"
+    "star": "31"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "150"
+    "star": "121"
   },
   {
     "title": "Megvii-BaseDetection/YOLOX",
     "url": "https://github.com/Megvii-BaseDetection/YOLOX",
     "description": "YOLOX is a high-performance anchor-free YOLO, exceeding yolov3~v5 with MegEngine, ONNX, TensorRT, ncnn, and OpenVINO supported. Documentation: https://yolox.readthedocs.io/",
     "language": "Python",
-    "star": "45"
+    "star": "10"
   },
   {
     "title": "4ian/GDevelop",
     "url": "https://github.com/4ian/GDevelop",
     "description": "🎮 GDevelop is an open-source, cross-platform game engine designed to be used by everyone.",
     "language": "JavaScript",
-    "star": "45"
+    "star": "42"
   },
   {
     "title": "eugenp/tutorials",
     "url": "https://github.com/eugenp/tutorials",
     "description": "Just Announced - \"Learn Spring Security OAuth\":",
     "language": "Java",
-    "star": "23"
+    "star": "18"
   },
   {
     "title": "torvalds/linux",
     "url": "https://github.com/torvalds/linux",
     "description": "Linux kernel source tree",
     "language": "C",
-    "star": "73"
+    "star": "67"
   },
   {
     "title": "catchorg/Catch2",
@@ -158,14 +158,14 @@
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "40"
+    "star": "28"
   },
   {
     "title": "babysor/MockingBird",
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "45"
+    "star": "33"
   },
   {
     "title": "qianguyihao/Web",
