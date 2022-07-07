@@ -18,77 +18,77 @@
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "111"
+    "star": "137"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "681"
+    "star": "640"
   },
   {
     "title": "OpenEthan/SMSBoom",
     "url": "https://github.com/OpenEthan/SMSBoom",
     "description": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
     "language": "Python",
-    "star": "526"
+    "star": "528"
   },
   {
     "title": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "251"
+    "star": "252"
   },
   {
     "title": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
     "language": "Rust",
-    "star": "110"
+    "star": "53"
   },
   {
     "title": "secretflow/secretflow",
     "url": "https://github.com/secretflow/secretflow",
     "description": "A unified framework for privacy-preserving data analysis and machine learning",
     "language": "Python",
-    "star": "104"
+    "star": "99"
   },
   {
     "title": "awesomekling/ladybird",
     "url": "https://github.com/awesomekling/ladybird",
     "description": "Ladybird web browser",
     "language": "C++",
-    "star": "73"
+    "star": "75"
   },
   {
     "title": "focus-creative-games/hybridclr",
     "url": "https://github.com/focus-creative-games/hybridclr",
     "description": "HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
     "language": "C++",
-    "star": "67"
+    "star": "66"
   },
   {
     "title": "t3-oss/create-t3-app",
     "url": "https://github.com/t3-oss/create-t3-app",
     "description": "Quickest way to start a new web app with full stack typesafety",
     "language": "TypeScript",
-    "star": "530"
+    "star": "507"
   },
   {
     "title": "jaywcjlove/awesome-mac",
     "url": "https://github.com/jaywcjlove/awesome-mac",
     "description": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
     "language": "JavaScript",
-    "star": "111"
+    "star": "90"
   },
   {
     "title": "alexbieber/Bug_Bounty_writeups",
     "url": "https://github.com/alexbieber/Bug_Bounty_writeups",
     "description": "BUG BOUNTY WRITEUPS - OWASP TOP 10 🔴🔴🔴🔴✔",
     "language": "Python",
-    "star": "131"
+    "star": "127"
   },
   {
     "title": "ReactiveX/RxSwift",
@@ -102,7 +102,7 @@
     "url": "https://github.com/asdfugil/haxx",
     "description": "Untethered + Unsandboxed code execution haxx as root on iOS 14 - iOS 14.8.1.",
     "language": "C",
-    "star": "15"
+    "star": "13"
   },
   {
     "title": "pointfreeco/swift-composable-architecture",
@@ -123,35 +123,35 @@
     "url": "https://github.com/facebook/flipper",
     "description": "A desktop debugging platform for mobile developers.",
     "language": "TypeScript",
-    "star": "26"
+    "star": "18"
   },
   {
     "title": "angular/angular-cli",
     "url": "https://github.com/angular/angular-cli",
     "description": "CLI tool for Angular",
     "language": "TypeScript",
-    "star": "19"
+    "star": "20"
   },
   {
     "title": "rubocop/rubocop",
     "url": "https://github.com/rubocop/rubocop",
     "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
     "language": "Ruby",
-    "star": "12"
+    "star": "13"
   },
   {
     "title": "NVlabs/eg3d",
     "url": "https://github.com/NVlabs/eg3d",
     "description": "",
     "language": "Python",
-    "star": "27"
+    "star": "24"
   },
   {
     "title": "nomi-sec/PoC-in-GitHub",
     "url": "https://github.com/nomi-sec/PoC-in-GitHub",
     "description": "📡 PoC auto collect from GitHub. ⚠️ Be careful Malware.",
     "language": "none",
-    "star": "25"
+    "star": "31"
   },
   {
     "title": "nuxt/nuxt.js",
@@ -165,13 +165,13 @@
     "url": "https://github.com/massCodeIO/massCode",
     "description": "Next version of massCode. A free and open source code snippets manager for developers",
     "language": "TypeScript",
-    "star": "140"
+    "star": "175"
   },
   {
     "title": "Orange-Cyberdefense/GOAD",
     "url": "https://github.com/Orange-Cyberdefense/GOAD",
     "description": "game of active directory",
     "language": "PowerShell",
-    "star": "57"
+    "star": "56"
   }
 ]
