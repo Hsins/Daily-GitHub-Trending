@@ -4,42 +4,42 @@
     "url": "https://github.com/Jarred-Sumner/bun",
     "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
     "language": "Zig",
-    "star": "4"
+    "star": "3"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "323"
+    "star": "327"
   },
   {
     "title": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "188"
+    "star": "173"
   },
   {
     "title": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
     "language": "Rust",
-    "star": "177"
+    "star": "285"
   },
   {
     "title": "massCodeIO/massCode",
     "url": "https://github.com/massCodeIO/massCode",
     "description": "Next version of massCode. A free and open source code snippets manager for developers",
     "language": "TypeScript",
-    "star": "320"
+    "star": "409"
   },
   {
     "title": "jinfagang/yolov7",
     "url": "https://github.com/jinfagang/yolov7",
     "description": "🔥🔥🔥🔥 YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
     "language": "Python",
-    "star": "128"
+    "star": "132"
   },
   {
     "title": "facebookresearch/fairseq",
@@ -53,105 +53,105 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "187"
+    "star": "189"
   },
   {
     "title": "infracost/vscode-infracost",
     "url": "https://github.com/infracost/vscode-infracost",
     "description": "See cost estimates for Terraform right in your editor💰📉",
     "language": "TypeScript",
-    "star": "332"
+    "star": "363"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "656"
+    "star": "599"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "505"
+    "star": "503"
   },
   {
     "title": "facebook/flipper",
     "url": "https://github.com/facebook/flipper",
     "description": "A desktop debugging platform for mobile developers.",
     "language": "TypeScript",
-    "star": "90"
+    "star": "85"
   },
   {
     "title": "YauhenKavalchuk/interview-questions",
     "url": "https://github.com/YauhenKavalchuk/interview-questions",
     "description": "Коллекция вопросов и ответов на собеседовании по веб-разработке (https://tinyurl.com/wxysrpsy)",
     "language": "none",
-    "star": "52"
+    "star": "57"
   },
   {
     "title": "t3-oss/create-t3-app",
     "url": "https://github.com/t3-oss/create-t3-app",
     "description": "Quickest way to start a new web app with full stack typesafety",
     "language": "TypeScript",
-    "star": "477"
+    "star": "256"
   },
   {
     "title": "robmarkcole/satellite-image-deep-learning",
     "url": "https://github.com/robmarkcole/satellite-image-deep-learning",
     "description": "Resources for deep learning with satellite & aerial imagery",
     "language": "none",
-    "star": "45"
+    "star": "56"
   },
   {
     "title": "babysor/MockingBird",
     "url": "https://github.com/babysor/MockingBird",
     "description": "🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time",
     "language": "Python",
-    "star": "303"
+    "star": "259"
   },
   {
     "title": "NVlabs/eg3d",
     "url": "https://github.com/NVlabs/eg3d",
     "description": "",
     "language": "Python",
-    "star": "40"
+    "star": "38"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "236"
+    "star": "266"
   },
   {
     "title": "secretflow/secretflow",
     "url": "https://github.com/secretflow/secretflow",
     "description": "A unified framework for privacy-preserving data analysis and machine learning",
     "language": "Python",
-    "star": "96"
+    "star": "93"
   },
   {
     "title": "serverless-stack/sst",
     "url": "https://github.com/serverless-stack/sst",
     "description": "💥 SST makes it easy to build serverless apps. Set breakpoints and test your functions locally.",
     "language": "TypeScript",
-    "star": "26"
+    "star": "39"
   },
   {
     "title": "CRED-CLUB/neopop-web",
     "url": "https://github.com/CRED-CLUB/neopop-web",
     "description": "NeoPOP components library based on CRED's design system",
     "language": "TypeScript",
-    "star": "113"
+    "star": "107"
   },
   {
     "title": "ReactiveX/RxSwift",
     "url": "https://github.com/ReactiveX/RxSwift",
     "description": "Reactive Programming in Swift",
     "language": "Swift",
-    "star": "17"
+    "star": "30"
   },
   {
     "title": "ossu/computer-science",
@@ -165,7 +165,7 @@
     "url": "https://github.com/ultralytics/yolov5",
     "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "69"
+    "star": "82"
   },
   {
     "title": "aquasecurity/chain-bench",
