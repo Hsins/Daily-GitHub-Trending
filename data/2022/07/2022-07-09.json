@@ -11,7 +11,7 @@
     "url": "https://github.com/WongKinYiu/yolov7",
     "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
     "language": "Python",
-    "star": "234"
+    "star": "218"
   },
   {
     "title": "All-Cups/aicup22",
@@ -32,14 +32,14 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "462"
+    "star": "402"
   },
   {
     "title": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
     "language": "Rust",
-    "star": "286"
+    "star": "262"
   },
   {
     "title": "qiangmzsx/Software-Engineering-at-Google",
@@ -53,7 +53,7 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "302"
+    "star": "293"
   },
   {
     "title": "h5bp/Front-end-Developer-Interview-Questions",
@@ -88,14 +88,14 @@
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "266"
+    "star": "278"
   },
   {
     "title": "jinfagang/yolov7",
     "url": "https://github.com/jinfagang/yolov7",
     "description": "🔥🔥🔥🔥 (Earlier YOLOv7 not official one) YOLO with Transformers and Instance Segmentation, with TensorRT acceleration! 🔥🔥🔥",
     "language": "Python",
-    "star": "149"
+    "star": "154"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -109,7 +109,7 @@
     "url": "https://github.com/PINTO0309/PINTO_model_zoo",
     "description": "A repository for storing models that have been inter-converted between various frameworks. Supported frameworks are TensorFlow, PyTorch, ONNX, OpenVINO, TFJS, TFTRT, TensorFlowLite (Float32/16/INT8), EdgeTPU, CoreML.",
     "language": "Python",
-    "star": "33"
+    "star": "35"
   },
   {
     "title": "goabstract/Awesome-Design-Tools",
@@ -123,55 +123,55 @@
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "305"
+    "star": "304"
   },
   {
     "title": "ShareX/ShareX",
     "url": "https://github.com/ShareX/ShareX",
     "description": "ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to many supported destinations you can choose from.",
     "language": "C#",
-    "star": "81"
+    "star": "61"
   },
   {
     "title": "bradtraversy/design-resources-for-developers",
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "122"
+    "star": "134"
   },
   {
     "title": "facebookresearch/fairseq",
     "url": "https://github.com/facebookresearch/fairseq",
     "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
     "language": "Python",
-    "star": "146"
+    "star": "115"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "185"
+    "star": "196"
   },
   {
     "title": "moment/moment",
     "url": "https://github.com/moment/moment",
     "description": "Parse, validate, manipulate, and display dates in javascript.",
     "language": "JavaScript",
-    "star": "30"
+    "star": "6"
   },
   {
     "title": "sensity-ai/dot",
     "url": "https://github.com/sensity-ai/dot",
     "description": "The Deepfake Offensive Toolkit",
     "language": "Python",
-    "star": "52"
+    "star": "19"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "335"
+    "star": "348"
   }
 ]
