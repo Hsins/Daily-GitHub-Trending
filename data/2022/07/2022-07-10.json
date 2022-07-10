@@ -18,35 +18,35 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "385"
+    "star": "384"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "297"
+    "star": "299"
   },
   {
     "title": "facundoolano/software-papers",
     "url": "https://github.com/facundoolano/software-papers",
     "description": "📚 A curated list of papers for Software Engineers",
     "language": "Python",
-    "star": "177"
+    "star": "174"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "281"
+    "star": "277"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "178"
+    "star": "218"
   },
   {
     "title": "coolsnowwolf/lede",
@@ -60,21 +60,21 @@
     "url": "https://github.com/sensity-ai/dot",
     "description": "The Deepfake Offensive Toolkit",
     "language": "Python",
-    "star": "94"
+    "star": "33"
   },
   {
     "title": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
     "language": "Rust",
-    "star": "289"
+    "star": "291"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "100"
+    "star": "307"
   },
   {
     "title": "pucherot/Pi.Alert",
@@ -88,14 +88,14 @@
     "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
     "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
     "language": "Nunjucks",
-    "star": "165"
+    "star": "90"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "224"
+    "star": "230"
   },
   {
     "title": "pi-hole/pi-hole",
@@ -109,28 +109,28 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "19"
+    "star": "24"
   },
   {
     "title": "massCodeIO/massCode",
     "url": "https://github.com/massCodeIO/massCode",
     "description": "Next version of massCode. A free and open source code snippets manager for developers",
     "language": "TypeScript",
-    "star": "216"
+    "star": "180"
   },
   {
     "title": "All-Cups/aicup22",
     "url": "https://github.com/All-Cups/aicup22",
     "description": "",
     "language": "Java",
-    "star": "6"
+    "star": "4"
   },
   {
     "title": "Creators-of-Create/Create",
     "url": "https://github.com/Creators-of-Create/Create",
     "description": "[Forge Mod] Building Tools and Aesthetic Technology",
     "language": "Java",
-    "star": "14"
+    "star": "18"
   },
   {
     "title": "withfig/autocomplete",
@@ -158,14 +158,14 @@
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "18"
+    "star": "16"
   },
   {
     "title": "qiangmzsx/Software-Engineering-at-Google",
     "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
     "description": "《Software Engineering at Google》的中文翻译版本",
     "language": "HTML",
-    "star": "95"
+    "star": "96"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
