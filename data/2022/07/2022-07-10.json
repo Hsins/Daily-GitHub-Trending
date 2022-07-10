@@ -18,21 +18,21 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "384"
+    "star": "385"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "303"
+    "star": "297"
   },
   {
     "title": "facundoolano/software-papers",
     "url": "https://github.com/facundoolano/software-papers",
     "description": "📚 A curated list of papers for Software Engineers",
     "language": "Python",
-    "star": "164"
+    "star": "177"
   },
   {
     "title": "public-apis/public-apis",
@@ -46,7 +46,7 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "185"
+    "star": "178"
   },
   {
     "title": "coolsnowwolf/lede",
@@ -60,21 +60,21 @@
     "url": "https://github.com/sensity-ai/dot",
     "description": "The Deepfake Offensive Toolkit",
     "language": "Python",
-    "star": "43"
+    "star": "94"
   },
   {
     "title": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
     "language": "Rust",
-    "star": "292"
+    "star": "289"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "268"
+    "star": "100"
   },
   {
     "title": "pucherot/Pi.Alert",
@@ -88,14 +88,14 @@
     "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
     "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
     "language": "Nunjucks",
-    "star": "90"
+    "star": "165"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated interview preparation materials for busy engineers",
     "language": "JavaScript",
-    "star": "226"
+    "star": "224"
   },
   {
     "title": "pi-hole/pi-hole",
@@ -116,7 +116,7 @@
     "url": "https://github.com/massCodeIO/massCode",
     "description": "Next version of massCode. A free and open source code snippets manager for developers",
     "language": "TypeScript",
-    "star": "114"
+    "star": "216"
   },
   {
     "title": "All-Cups/aicup22",
@@ -130,7 +130,7 @@
     "url": "https://github.com/Creators-of-Create/Create",
     "description": "[Forge Mod] Building Tools and Aesthetic Technology",
     "language": "Java",
-    "star": "13"
+    "star": "14"
   },
   {
     "title": "withfig/autocomplete",
@@ -151,21 +151,21 @@
     "url": "https://github.com/GhostPack/Koh",
     "description": "The Token Stealer",
     "language": "C#",
-    "star": "36"
+    "star": "35"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "21"
+    "star": "18"
   },
   {
     "title": "qiangmzsx/Software-Engineering-at-Google",
     "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
     "description": "《Software Engineering at Google》的中文翻译版本",
     "language": "HTML",
-    "star": "111"
+    "star": "95"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
