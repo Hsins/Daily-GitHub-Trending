@@ -1,0 +1,177 @@
+[
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "language": "Go",
+    "star": "977"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "220"
+  },
+  {
+    "title": "tiltedphoques/TiltedEvolution",
+    "url": "https://github.com/tiltedphoques/TiltedEvolution",
+    "description": "Skyrim and Fallout 4 mod to play online!",
+    "language": "C++",
+    "star": "102"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "language": "Shell",
+    "star": "175"
+  },
+  {
+    "title": "ahrm/sioyek",
+    "url": "https://github.com/ahrm/sioyek",
+    "description": "Sioyek is a PDF viewer designed for reading research papers and technical books.",
+    "language": "C",
+    "star": "36"
+  },
+  {
+    "title": "withfig/autocomplete",
+    "url": "https://github.com/withfig/autocomplete",
+    "description": "Fig adds autocomplete to your terminal.",
+    "language": "TypeScript",
+    "star": "124"
+  },
+  {
+    "title": "h5bp/Front-end-Developer-Interview-Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+    "language": "Nunjucks",
+    "star": "165"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "description": "Collection of Summer 2023 tech internships!",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "122"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "description": "Free and open source manga reader for Android.",
+    "language": "Kotlin",
+    "star": "24"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "description": "一个基于 electron 的音乐软件",
+    "language": "JavaScript",
+    "star": "27"
+  },
+  {
+    "title": "sunface/rust-by-practice",
+    "url": "https://github.com/sunface/rust-by-practice",
+    "description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
+    "language": "Rust",
+    "star": "189"
+  },
+  {
+    "title": "The-Japan-DataScientist-Society/100knocks-preprocess",
+    "url": "https://github.com/The-Japan-DataScientist-Society/100knocks-preprocess",
+    "description": "データサイエンス100本ノック（構造化データ加工編）",
+    "language": "HTML",
+    "star": "34"
+  },
+  {
+    "title": "facundoolano/software-papers",
+    "url": "https://github.com/facundoolano/software-papers",
+    "description": "📚 A curated list of papers for Software Engineers",
+    "language": "Python",
+    "star": "173"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "language": "JavaScript",
+    "star": "288"
+  },
+  {
+    "title": "ZaneH/piano-trainer",
+    "url": "https://github.com/ZaneH/piano-trainer",
+    "description": "🎹 Memorize piano scales with ease! A music practice program w/ MIDI support. Consider it an interactive reference manual",
+    "language": "TypeScript",
+    "star": "84"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "38"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "24"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "446"
+  },
+  {
+    "title": "facebookresearch/demucs",
+    "url": "https://github.com/facebookresearch/demucs",
+    "description": "Code for the paper Hybrid Spectrogram and Waveform Source Separation",
+    "language": "Python",
+    "star": "14"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "description": "A post-modern modal text editor.",
+    "language": "Rust",
+    "star": "23"
+  },
+  {
+    "title": "Creators-of-Create/Create",
+    "url": "https://github.com/Creators-of-Create/Create",
+    "description": "[Forge Mod] Building Tools and Aesthetic Technology",
+    "language": "Java",
+    "star": "23"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "221"
+  }
+]
