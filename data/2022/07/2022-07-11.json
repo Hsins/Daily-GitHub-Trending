@@ -4,7 +4,7 @@
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "977"
+    "star": "905"
   },
   {
     "title": "swisskyrepo/PayloadsAllTheThings",
@@ -32,7 +32,7 @@
     "url": "https://github.com/pi-hole/pi-hole",
     "description": "A black hole for Internet advertisements",
     "language": "Shell",
-    "star": "175"
+    "star": "64"
   },
   {
     "title": "ahrm/sioyek",
@@ -53,14 +53,14 @@
     "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
     "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
     "language": "Nunjucks",
-    "star": "165"
+    "star": "152"
   },
   {
     "title": "pittcsc/Summer2023-Internships",
     "url": "https://github.com/pittcsc/Summer2023-Internships",
     "description": "Collection of Summer 2023 tech internships!",
     "language": "Python",
-    "star": "48"
+    "star": "50"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -81,21 +81,21 @@
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "47"
+    "star": "43"
   },
   {
     "title": "lyswhut/lx-music-desktop",
     "url": "https://github.com/lyswhut/lx-music-desktop",
     "description": "一个基于 electron 的音乐软件",
     "language": "JavaScript",
-    "star": "27"
+    "star": "40"
   },
   {
     "title": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
     "language": "Rust",
-    "star": "189"
+    "star": "190"
   },
   {
     "title": "The-Japan-DataScientist-Society/100knocks-preprocess",
@@ -109,14 +109,14 @@
     "url": "https://github.com/facundoolano/software-papers",
     "description": "📚 A curated list of papers for Software Engineers",
     "language": "Python",
-    "star": "173"
+    "star": "170"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "288"
+    "star": "284"
   },
   {
     "title": "ZaneH/piano-trainer",
@@ -130,7 +130,7 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "38"
+    "star": "58"
   },
   {
     "title": "bitcoin/bitcoin",
@@ -144,7 +144,7 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "446"
+    "star": "371"
   },
   {
     "title": "facebookresearch/demucs",
@@ -158,14 +158,14 @@
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "23"
+    "star": "21"
   },
   {
     "title": "Creators-of-Create/Create",
     "url": "https://github.com/Creators-of-Create/Create",
     "description": "[Forge Mod] Building Tools and Aesthetic Technology",
     "language": "Java",
-    "star": "23"
+    "star": "38"
   },
   {
     "title": "donnemartin/system-design-primer",
