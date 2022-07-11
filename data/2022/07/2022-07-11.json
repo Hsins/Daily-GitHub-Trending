@@ -4,7 +4,7 @@
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "905"
+    "star": "906"
   },
   {
     "title": "swisskyrepo/PayloadsAllTheThings",
@@ -25,14 +25,14 @@
     "url": "https://github.com/tiltedphoques/TiltedEvolution",
     "description": "Skyrim and Fallout 4 mod to play online!",
     "language": "C++",
-    "star": "102"
+    "star": "107"
   },
   {
     "title": "pi-hole/pi-hole",
     "url": "https://github.com/pi-hole/pi-hole",
     "description": "A black hole for Internet advertisements",
     "language": "Shell",
-    "star": "64"
+    "star": "66"
   },
   {
     "title": "ahrm/sioyek",
@@ -46,21 +46,21 @@
     "url": "https://github.com/withfig/autocomplete",
     "description": "Fig adds autocomplete to your terminal.",
     "language": "TypeScript",
-    "star": "124"
+    "star": "129"
   },
   {
     "title": "h5bp/Front-end-Developer-Interview-Questions",
     "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
     "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
     "language": "Nunjucks",
-    "star": "152"
+    "star": "165"
   },
   {
     "title": "pittcsc/Summer2023-Internships",
     "url": "https://github.com/pittcsc/Summer2023-Internships",
     "description": "Collection of Summer 2023 tech internships!",
     "language": "Python",
-    "star": "50"
+    "star": "37"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -81,21 +81,21 @@
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "43"
+    "star": "46"
   },
   {
     "title": "lyswhut/lx-music-desktop",
     "url": "https://github.com/lyswhut/lx-music-desktop",
     "description": "一个基于 electron 的音乐软件",
     "language": "JavaScript",
-    "star": "40"
+    "star": "36"
   },
   {
     "title": "sunface/rust-by-practice",
     "url": "https://github.com/sunface/rust-by-practice",
     "description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.",
     "language": "Rust",
-    "star": "190"
+    "star": "202"
   },
   {
     "title": "The-Japan-DataScientist-Society/100knocks-preprocess",
@@ -109,14 +109,14 @@
     "url": "https://github.com/facundoolano/software-papers",
     "description": "📚 A curated list of papers for Software Engineers",
     "language": "Python",
-    "star": "170"
+    "star": "181"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "284"
+    "star": "288"
   },
   {
     "title": "ZaneH/piano-trainer",
@@ -130,7 +130,7 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "58"
+    "star": "59"
   },
   {
     "title": "bitcoin/bitcoin",
@@ -144,14 +144,14 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "371"
+    "star": "368"
   },
   {
     "title": "facebookresearch/demucs",
     "url": "https://github.com/facebookresearch/demucs",
     "description": "Code for the paper Hybrid Spectrogram and Waveform Source Separation",
     "language": "Python",
-    "star": "14"
+    "star": "41"
   },
   {
     "title": "helix-editor/helix",
@@ -165,7 +165,7 @@
     "url": "https://github.com/Creators-of-Create/Create",
     "description": "[Forge Mod] Building Tools and Aesthetic Technology",
     "language": "Java",
-    "star": "38"
+    "star": "23"
   },
   {
     "title": "donnemartin/system-design-primer",
