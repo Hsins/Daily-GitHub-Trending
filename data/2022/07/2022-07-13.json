@@ -1,0 +1,177 @@
+[
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "479"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "language": "TypeScript",
+    "star": "56"
+  },
+  {
+    "title": "streamxhub/streamx",
+    "url": "https://github.com/streamxhub/streamx",
+    "description": "Make stream processing easier! Flink & Spark development scaffold, The original intention of StreamX is to make the development of Flink easier. StreamX focuses on the management of development phases and tasks. Our ultimate goal is to build a one-stop big data solution integrating stream processing, batch processing, data warehouse and data laker.",
+    "language": "Java",
+    "star": "4"
+  },
+  {
+    "title": "PlayCover/PlayCover",
+    "url": "https://github.com/PlayCover/PlayCover",
+    "description": "Community fork of PlayCover",
+    "language": "Swift",
+    "star": "65"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "language": "Rust",
+    "star": "33"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "description": "The Unified Machine Learning Framework",
+    "language": "Python",
+    "star": "151"
+  },
+  {
+    "title": "devsuperior/sds-dsmeta",
+    "url": "https://github.com/devsuperior/sds-dsmeta",
+    "description": "",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "zhaojun1998/zfile",
+    "url": "https://github.com/zhaojun1998/zfile",
+    "description": "在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai",
+    "language": "Java",
+    "star": "58"
+  },
+  {
+    "title": "IDEACVR/DINO",
+    "url": "https://github.com/IDEACVR/DINO",
+    "description": "Official implementation of the paper \"DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection\"",
+    "language": "Python",
+    "star": "26"
+  },
+  {
+    "title": "afontcu/awesome-learning",
+    "url": "https://github.com/afontcu/awesome-learning",
+    "description": "A curated list of awesome learning material",
+    "language": "none",
+    "star": "45"
+  },
+  {
+    "title": "spack/spack",
+    "url": "https://github.com/spack/spack",
+    "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+    "language": "Python",
+    "star": "4"
+  },
+  {
+    "title": "tw93/MiaoYan",
+    "url": "https://github.com/tw93/MiaoYan",
+    "description": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
+    "language": "Swift",
+    "star": "16"
+  },
+  {
+    "title": "vueschool/vuejs-forge-boilerplate",
+    "url": "https://github.com/vueschool/vuejs-forge-boilerplate",
+    "description": "Boilerplate Code for the Vue.js Forge Conference",
+    "language": "TypeScript",
+    "star": "21"
+  },
+  {
+    "title": "nitnelave/lldap",
+    "url": "https://github.com/nitnelave/lldap",
+    "description": "Light LDAP implementation",
+    "language": "Rust",
+    "star": "267"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "language": "Swift",
+    "star": "7"
+  },
+  {
+    "title": "snipe/snipe-it",
+    "url": "https://github.com/snipe/snipe-it",
+    "description": "A free open source IT asset/license management system",
+    "language": "PHP",
+    "star": "2"
+  },
+  {
+    "title": "arcxingye/EatKano",
+    "url": "https://github.com/arcxingye/EatKano",
+    "description": "H5 Games",
+    "language": "JavaScript",
+    "star": "17"
+  },
+  {
+    "title": "MaartenGr/BERTopic",
+    "url": "https://github.com/MaartenGr/BERTopic",
+    "description": "Leveraging BERT and c-TF-IDF to create easily interpretable topics.",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "h5bp/Front-end-Developer-Interview-Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.",
+    "language": "Nunjucks",
+    "star": "181"
+  },
+  {
+    "title": "rod-trent/MustLearnKQL",
+    "url": "https://github.com/rod-trent/MustLearnKQL",
+    "description": "Code included as part of the MustLearnKQL blog series",
+    "language": "none",
+    "star": "6"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "15"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "12"
+  },
+  {
+    "title": "mrcodedev/frontend-developer-resources",
+    "url": "https://github.com/mrcodedev/frontend-developer-resources",
+    "description": "Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos",
+    "language": "none",
+    "star": "181"
+  },
+  {
+    "title": "brentvollebregt/auto-py-to-exe",
+    "url": "https://github.com/brentvollebregt/auto-py-to-exe",
+    "description": "Converts .py to .exe using a simple graphical interface",
+    "language": "JavaScript",
+    "star": "54"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "32"
+  }
+]
