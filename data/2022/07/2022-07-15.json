@@ -4,14 +4,14 @@
     "url": "https://github.com/shengcaishizhan/kkndme_tianya",
     "description": "天涯 kkndme 神贴聊房价",
     "language": "none",
-    "star": "96"
+    "star": "102"
   },
   {
     "title": "unifyai/ivy",
     "url": "https://github.com/unifyai/ivy",
     "description": "The Unified Machine Learning Framework",
     "language": "Python",
-    "star": "133"
+    "star": "134"
   },
   {
     "title": "apache/doris",
@@ -53,21 +53,21 @@
     "url": "https://github.com/TheAlgorithms/JavaScript",
     "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
     "language": "JavaScript",
-    "star": "95"
+    "star": "96"
   },
   {
     "title": "Akebi-Group/Akebi-GC",
     "url": "https://github.com/Akebi-Group/Akebi-GC",
     "description": "The great software for some game that exploiting anime girls (and boys).",
     "language": "C++",
-    "star": "29"
+    "star": "33"
   },
   {
     "title": "MystenLabs/sui",
     "url": "https://github.com/MystenLabs/sui",
     "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
     "language": "Rust",
-    "star": "60"
+    "star": "30"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -81,7 +81,7 @@
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "137"
+    "star": "138"
   },
   {
     "title": "brillout/awesome-react-components",
@@ -116,21 +116,21 @@
     "url": "https://github.com/tw93/MiaoYan",
     "description": "⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言",
     "language": "Swift",
-    "star": "29"
+    "star": "84"
   },
   {
     "title": "srush/GPU-Puzzles",
     "url": "https://github.com/srush/GPU-Puzzles",
     "description": "Solve puzzles. Learn CUDA.",
     "language": "Jupyter Notebook",
-    "star": "428"
+    "star": "176"
   },
   {
     "title": "Anduin2017/HowToCook",
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "Shell",
-    "star": "37"
+    "star": "39"
   },
   {
     "title": "apache/shardingsphere",
@@ -144,7 +144,7 @@
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "45"
+    "star": "9"
   },
   {
     "title": "firebase/firebase-ios-sdk",
@@ -165,6 +165,6 @@
     "url": "https://github.com/UberGuidoZ/Flipper",
     "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
     "language": "Python",
-    "star": "18"
+    "star": "17"
   }
 ]
