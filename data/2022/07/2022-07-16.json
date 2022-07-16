@@ -1,0 +1,170 @@
+[
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+    "language": "TypeScript",
+    "star": "249"
+  },
+  {
+    "title": "srush/GPU-Puzzles",
+    "url": "https://github.com/srush/GPU-Puzzles",
+    "description": "Solve puzzles. Learn CUDA.",
+    "language": "Jupyter Notebook",
+    "star": "427"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "description": "Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more",
+    "language": "Java",
+    "star": "38"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "description": "Sarama is a Go library for Apache Kafka.",
+    "language": "Go",
+    "star": "39"
+  },
+  {
+    "title": "microsoft/sbom-tool",
+    "url": "https://github.com/microsoft/sbom-tool",
+    "description": "The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.",
+    "language": "C#",
+    "star": "74"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "70"
+  },
+  {
+    "title": "macrozheng/springcloud-learning",
+    "url": "https://github.com/macrozheng/springcloud-learning",
+    "description": "一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。",
+    "language": "Java",
+    "star": "39"
+  },
+  {
+    "title": "vasanthk/how-web-works",
+    "url": "https://github.com/vasanthk/how-web-works",
+    "description": "What happens behind the scenes when we type www.google.com in a browser?",
+    "language": "none",
+    "star": "259"
+  },
+  {
+    "title": "hackerhouse-opensource/iscsicpl_bypassUAC",
+    "url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
+    "description": "UAC bypass for x64 Windows 7 - 11",
+    "language": "C++",
+    "star": "30"
+  },
+  {
+    "title": "near/stakewars-iii",
+    "url": "https://github.com/near/stakewars-iii",
+    "description": "Stake Wars: Episode 3 challenges and place to report issues",
+    "language": "none",
+    "star": "6"
+  },
+  {
+    "title": "quickwit-oss/tantivy",
+    "url": "https://github.com/quickwit-oss/tantivy",
+    "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+    "language": "Rust",
+    "star": "15"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "description": "The Unified Machine Learning Framework",
+    "language": "Python",
+    "star": "136"
+  },
+  {
+    "title": "amd64fox/SpotX",
+    "url": "https://github.com/amd64fox/SpotX",
+    "description": "Blocking ads and updates for the desktop version of Spotify, disabling podcasts and something else.",
+    "language": "PowerShell",
+    "star": "28"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+    "description": "📺 A place to discover the latest machine learning courses on YouTube.",
+    "language": "none",
+    "star": "205"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "6"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "description": "Firebase iOS SDK",
+    "language": "Objective-C",
+    "star": "17"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "language": "TypeScript",
+    "star": "46"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "description": "build-once run-anywhere c library",
+    "language": "C",
+    "star": "29"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "231"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+    "language": "TypeScript",
+    "star": "19"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "description": "🧑‍🚀 Logto helps you build the sign-in experience and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.",
+    "language": "TypeScript",
+    "star": "77"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "farcasterxyz/protocol",
+    "url": "https://github.com/farcasterxyz/protocol",
+    "description": "Specification of the Farcaster Protocol",
+    "language": "none",
+    "star": "9"
+  }
+]
