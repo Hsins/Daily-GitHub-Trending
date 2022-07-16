@@ -4,14 +4,14 @@
     "url": "https://github.com/trpc/trpc",
     "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
     "language": "TypeScript",
-    "star": "249"
+    "star": "177"
   },
   {
     "title": "srush/GPU-Puzzles",
     "url": "https://github.com/srush/GPU-Puzzles",
     "description": "Solve puzzles. Learn CUDA.",
     "language": "Jupyter Notebook",
-    "star": "427"
+    "star": "274"
   },
   {
     "title": "apache/shardingsphere",
@@ -25,42 +25,42 @@
     "url": "https://github.com/Shopify/sarama",
     "description": "Sarama is a Go library for Apache Kafka.",
     "language": "Go",
-    "star": "39"
+    "star": "23"
   },
   {
     "title": "microsoft/sbom-tool",
     "url": "https://github.com/microsoft/sbom-tool",
     "description": "The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.",
     "language": "C#",
-    "star": "74"
+    "star": "82"
   },
   {
     "title": "hashicorp/nomad",
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "70"
+    "star": "96"
   },
   {
     "title": "macrozheng/springcloud-learning",
     "url": "https://github.com/macrozheng/springcloud-learning",
     "description": "一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。篇篇精华，涵盖大部分应用场景。",
     "language": "Java",
-    "star": "39"
+    "star": "63"
   },
   {
     "title": "vasanthk/how-web-works",
     "url": "https://github.com/vasanthk/how-web-works",
     "description": "What happens behind the scenes when we type www.google.com in a browser?",
     "language": "none",
-    "star": "259"
+    "star": "243"
   },
   {
     "title": "hackerhouse-opensource/iscsicpl_bypassUAC",
     "url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
     "description": "UAC bypass for x64 Windows 7 - 11",
     "language": "C++",
-    "star": "30"
+    "star": "51"
   },
   {
     "title": "near/stakewars-iii",
@@ -74,7 +74,7 @@
     "url": "https://github.com/quickwit-oss/tantivy",
     "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
     "language": "Rust",
-    "star": "15"
+    "star": "37"
   },
   {
     "title": "unifyai/ivy",
@@ -88,7 +88,7 @@
     "url": "https://github.com/amd64fox/SpotX",
     "description": "Blocking ads and updates for the desktop version of Spotify, disabling podcasts and something else.",
     "language": "PowerShell",
-    "star": "28"
+    "star": "29"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
@@ -116,35 +116,35 @@
     "url": "https://github.com/firebase/firebase-ios-sdk",
     "description": "Firebase iOS SDK",
     "language": "Objective-C",
-    "star": "17"
+    "star": "10"
   },
   {
     "title": "vuejs/vue",
     "url": "https://github.com/vuejs/vue",
     "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
     "language": "TypeScript",
-    "star": "46"
+    "star": "50"
   },
   {
     "title": "jart/cosmopolitan",
     "url": "https://github.com/jart/cosmopolitan",
     "description": "build-once run-anywhere c library",
     "language": "C",
-    "star": "29"
+    "star": "26"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "231"
+    "star": "208"
   },
   {
     "title": "remix-run/remix",
     "url": "https://github.com/remix-run/remix",
     "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
     "language": "TypeScript",
-    "star": "19"
+    "star": "24"
   },
   {
     "title": "logto-io/logto",
@@ -165,6 +165,6 @@
     "url": "https://github.com/farcasterxyz/protocol",
     "description": "Specification of the Farcaster Protocol",
     "language": "none",
-    "star": "9"
+    "star": "16"
   }
 ]
