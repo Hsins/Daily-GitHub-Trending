@@ -4,14 +4,14 @@
     "url": "https://github.com/rust-lang/rustlings",
     "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
     "language": "Rust",
-    "star": "126"
+    "star": "99"
   },
   {
     "title": "logto-io/logto",
     "url": "https://github.com/logto-io/logto",
     "description": "🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.",
     "language": "TypeScript",
-    "star": "148"
+    "star": "390"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
@@ -25,7 +25,7 @@
     "url": "https://github.com/srush/GPU-Puzzles",
     "description": "Solve puzzles. Learn CUDA.",
     "language": "Jupyter Notebook",
-    "star": "295"
+    "star": "263"
   },
   {
     "title": "ytdl-org/youtube-dl",
@@ -39,28 +39,28 @@
     "url": "https://github.com/jart/cosmopolitan",
     "description": "build-once run-anywhere c library",
     "language": "C",
-    "star": "25"
+    "star": "30"
   },
   {
     "title": "TheAlgorithms/JavaScript",
     "url": "https://github.com/TheAlgorithms/JavaScript",
     "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
     "language": "JavaScript",
-    "star": "61"
+    "star": "59"
   },
   {
     "title": "trpc/trpc",
     "url": "https://github.com/trpc/trpc",
     "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
     "language": "TypeScript",
-    "star": "255"
+    "star": "242"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
     "url": "https://github.com/dair-ai/ML-YouTube-Courses",
     "description": "📺 A place to discover the latest machine learning courses on YouTube.",
     "language": "none",
-    "star": "289"
+    "star": "294"
   },
   {
     "title": "fossabot/typoraCracker",
@@ -74,14 +74,14 @@
     "url": "https://github.com/shengcaishizhan/kkndme_tianya",
     "description": "天涯 kkndme 神贴聊房价",
     "language": "none",
-    "star": "70"
+    "star": "112"
   },
   {
     "title": "bambulab/BambuStudio",
     "url": "https://github.com/bambulab/BambuStudio",
     "description": "PC Software for BambuLab's 3D printers",
     "language": "C++",
-    "star": "11"
+    "star": "20"
   },
   {
     "title": "Moataz-Elmesmary/Data-Science-Roadmap",
@@ -95,7 +95,7 @@
     "url": "https://github.com/freqtrade/freqtrade",
     "description": "Free, open source crypto trading bot",
     "language": "Python",
-    "star": "16"
+    "star": "49"
   },
   {
     "title": "Anduin2017/HowToCook",
@@ -137,14 +137,14 @@
     "url": "https://github.com/wailsapp/wails",
     "description": "Create beautiful applications using Go",
     "language": "Go",
-    "star": "108"
+    "star": "156"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "21"
+    "star": "23"
   },
   {
     "title": "Hunlongyu/ZY-Player",
