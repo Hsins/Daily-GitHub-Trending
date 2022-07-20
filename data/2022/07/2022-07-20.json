@@ -1,0 +1,177 @@
+[
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "language": "Rust",
+    "star": "296"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "17"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "description": "🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, with extendable multi-language support.",
+    "language": "TypeScript",
+    "star": "504"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "591"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "16"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "Shell",
+    "star": "48"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "Short JavaScript code snippets for all your development needs",
+    "language": "JavaScript",
+    "star": "409"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "description": "Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included",
+    "language": "TypeScript",
+    "star": "196"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "description": "A collection of full-stack resources for programmers.",
+    "language": "Python",
+    "star": "437"
+  },
+  {
+    "title": "hkchengrex/XMem",
+    "url": "https://github.com/hkchengrex/XMem",
+    "description": "[ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model",
+    "language": "Python",
+    "star": "83"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "71"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "339"
+  },
+  {
+    "title": "MasterBin-IIAU/Unicorn",
+    "url": "https://github.com/MasterBin-IIAU/Unicorn",
+    "description": "[ECCV'22 Oral] Towards Grand Unification of Object Tracking",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "focus-creative-games/hybridclr",
+    "url": "https://github.com/focus-creative-games/hybridclr",
+    "description": "HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix",
+    "language": "C++",
+    "star": "40"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "description": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "language": "Shell",
+    "star": "5"
+  },
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "description": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。",
+    "language": "TypeScript",
+    "star": "23"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "description": "Create beautiful applications using Go",
+    "language": "Go",
+    "star": "320"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "260"
+  },
+  {
+    "title": "adriankumpf/teslamate",
+    "url": "https://github.com/adriankumpf/teslamate",
+    "description": "A self-hosted data logger for your Tesla 🚘",
+    "language": "Elixir",
+    "star": "5"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "description": "The next-gen web framework.",
+    "language": "TypeScript",
+    "star": "49"
+  },
+  {
+    "title": "rocketseat-education/ignite-lab-rockethelp",
+    "url": "https://github.com/rocketseat-education/ignite-lab-rockethelp",
+    "description": "Aplicação desenvolvida no evento Ignite Lab 03 - React Native",
+    "language": "TypeScript",
+    "star": "10"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "238"
+  },
+  {
+    "title": "eserozvataf/telegram",
+    "url": "https://github.com/eserozvataf/telegram",
+    "description": "Yazılımcı Telegram Topluluk ve Kanalları",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "Redocly/redoc",
+    "url": "https://github.com/Redocly/redoc",
+    "description": "📘 OpenAPI/Swagger-generated API Reference Documentation",
+    "language": "TypeScript",
+    "star": "11"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "star": "5"
+  }
+]
