@@ -11,21 +11,21 @@
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "Shell",
-    "star": "63"
+    "star": "62"
   },
   {
     "title": "AppFlowy-IO/AppFlowy",
     "url": "https://github.com/AppFlowy-IO/AppFlowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "language": "Rust",
-    "star": "461"
+    "star": "328"
   },
   {
     "title": "hashicorp/vault",
     "url": "https://github.com/hashicorp/vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "170"
+    "star": "71"
   },
   {
     "title": "alura-cursos/imersao-java",
@@ -74,35 +74,35 @@
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "323"
+    "star": "232"
   },
   {
     "title": "charlax/professional-programming",
     "url": "https://github.com/charlax/professional-programming",
     "description": "A collection of full-stack resources for programmers.",
     "language": "Python",
-    "star": "304"
+    "star": "324"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "233"
+    "star": "232"
   },
   {
     "title": "rocketseat-education/ignite-lab-rockethelp",
     "url": "https://github.com/rocketseat-education/ignite-lab-rockethelp",
     "description": "Aplicação desenvolvida no evento Ignite Lab 03 - React Native",
     "language": "TypeScript",
-    "star": "33"
+    "star": "24"
   },
   {
     "title": "terraform-aws-modules/terraform-aws-vpc",
     "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
     "description": "Terraform module which creates VPC resources on AWS 🇺🇦",
     "language": "HCL",
-    "star": "4"
+    "star": "1"
   },
   {
     "title": "dbserver/startdb-2022",
@@ -137,21 +137,21 @@
     "url": "https://github.com/Sairyss/domain-driven-hexagon",
     "description": "Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included",
     "language": "TypeScript",
-    "star": "290"
+    "star": "288"
   },
   {
     "title": "unknwon/the-way-to-go_ZH_CN",
     "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
     "description": "《The Way to Go》中文译本，中文正式名《Go 入门指南》",
     "language": "Go",
-    "star": "43"
+    "star": "14"
   },
   {
     "title": "kraanzu/termtyper",
     "url": "https://github.com/kraanzu/termtyper",
     "description": "A typing application to level up your fingers!",
     "language": "Python",
-    "star": "56"
+    "star": "109"
   },
   {
     "title": "martinshkreli/models",
@@ -165,7 +165,7 @@
     "url": "https://github.com/hkchengrex/XMem",
     "description": "[ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model",
     "language": "Python",
-    "star": "92"
+    "star": "120"
   },
   {
     "title": "OAI/OpenAPI-Specification",
