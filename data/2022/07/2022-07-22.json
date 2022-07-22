@@ -11,14 +11,14 @@
     "url": "https://github.com/hashicorp/vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "162"
+    "star": "174"
   },
   {
     "title": "HalseySpicy/Geeker-Admin",
     "url": "https://github.com/HalseySpicy/Geeker-Admin",
     "description": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。",
     "language": "TypeScript",
-    "star": "38"
+    "star": "113"
   },
   {
     "title": "mitsuba-renderer/mitsuba3",
@@ -39,14 +39,14 @@
     "url": "https://github.com/hktalent/scan4all",
     "description": "Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...",
     "language": "Go",
-    "star": "183"
+    "star": "195"
   },
   {
     "title": "NVIDIA/DeepLearningExamples",
     "url": "https://github.com/NVIDIA/DeepLearningExamples",
     "description": "Deep Learning Examples",
     "language": "Python",
-    "star": "37"
+    "star": "128"
   },
   {
     "title": "prowler-cloud/prowler",
@@ -60,7 +60,7 @@
     "url": "https://github.com/TheOfficialFloW/bd-jb",
     "description": "The first bd-j hack.",
     "language": "Java",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "NVlabs/eg3d",
@@ -74,7 +74,7 @@
     "url": "https://github.com/hkchengrex/XMem",
     "description": "[ECCV 2022] XMem: Long-Term Video Object Segmentation with an Atkinson-Shiffrin Memory Model",
     "language": "Python",
-    "star": "69"
+    "star": "121"
   },
   {
     "title": "goldbergyoni/javascript-testing-best-practices",
@@ -88,14 +88,14 @@
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "10"
+    "star": "13"
   },
   {
     "title": "AppFlowy-IO/AppFlowy",
     "url": "https://github.com/AppFlowy-IO/AppFlowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "language": "Rust",
-    "star": "400"
+    "star": "396"
   },
   {
     "title": "microsoft/qlib",
@@ -151,7 +151,7 @@
     "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
     "description": "Terraform module which creates VPC resources on AWS 🇺🇦",
     "language": "HCL",
-    "star": "7"
+    "star": "4"
   },
   {
     "title": "louislam/uptime-kuma",
