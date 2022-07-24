@@ -4,14 +4,14 @@
     "url": "https://github.com/carbon-language/carbon-lang",
     "description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
     "language": "C++",
-    "star": "1"
+    "star": "2"
   },
   {
     "title": "Tencent/lemon-cleaner",
     "url": "https://github.com/Tencent/lemon-cleaner",
     "description": "腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。",
     "language": "Objective-C",
-    "star": "213"
+    "star": "185"
   },
   {
     "title": "flipperdevices/flipperzero-firmware",
@@ -25,28 +25,28 @@
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "78"
+    "star": "76"
   },
   {
     "title": "android/nowinandroid",
     "url": "https://github.com/android/nowinandroid",
     "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
     "language": "Kotlin",
-    "star": "36"
+    "star": "38"
   },
   {
     "title": "mitsuba-renderer/mitsuba3",
     "url": "https://github.com/mitsuba-renderer/mitsuba3",
     "description": "Mitsuba 3: A Retargetable Forward and Inverse Renderer",
     "language": "C++",
-    "star": "61"
+    "star": "40"
   },
   {
     "title": "Code-Pop/Intro-to-Vue-3",
     "url": "https://github.com/Code-Pop/Intro-to-Vue-3",
     "description": "Code for Vue Mastery's Intro to Vue 3 course:",
     "language": "CSS",
-    "star": "8"
+    "star": "6"
   },
   {
     "title": "fastai/fastbook",
@@ -109,7 +109,7 @@
     "url": "https://github.com/KurtBestor/Hitomi-Downloader",
     "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
     "language": "Python",
-    "star": "12"
+    "star": "11"
   },
   {
     "title": "Grasscutters/Grasscutter",
@@ -130,7 +130,7 @@
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "HTML",
-    "star": "60"
+    "star": "28"
   },
   {
     "title": "coder/code-server",
