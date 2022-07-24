@@ -32,14 +32,14 @@
     "url": "https://github.com/android/nowinandroid",
     "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
     "language": "Kotlin",
-    "star": "38"
+    "star": "36"
   },
   {
     "title": "mitsuba-renderer/mitsuba3",
     "url": "https://github.com/mitsuba-renderer/mitsuba3",
     "description": "Mitsuba 3: A Retargetable Forward and Inverse Renderer",
     "language": "C++",
-    "star": "40"
+    "star": "67"
   },
   {
     "title": "Code-Pop/Intro-to-Vue-3",
@@ -95,7 +95,7 @@
     "url": "https://github.com/rui314/mold",
     "description": "mold: A Modern Linker",
     "language": "C++",
-    "star": "18"
+    "star": "39"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
@@ -123,21 +123,21 @@
     "url": "https://github.com/kottans/frontend",
     "description": "Kottans frontend course 🎓",
     "language": "none",
-    "star": "25"
+    "star": "50"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "HTML",
-    "star": "28"
+    "star": "45"
   },
   {
     "title": "coder/code-server",
     "url": "https://github.com/coder/code-server",
     "description": "VS Code in the browser",
     "language": "TypeScript",
-    "star": "92"
+    "star": "91"
   },
   {
     "title": "SerenityOS/jakt",
