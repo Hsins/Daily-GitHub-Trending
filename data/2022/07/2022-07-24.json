@@ -1,0 +1,177 @@
+[
+  {
+    "title": "carbon-language/carbon-lang",
+    "url": "https://github.com/carbon-language/carbon-lang",
+    "description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "Tencent/lemon-cleaner",
+    "url": "https://github.com/Tencent/lemon-cleaner",
+    "description": "腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。",
+    "language": "Objective-C",
+    "star": "213"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "description": "Flipper Zero firmware source code",
+    "language": "C",
+    "star": "30"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "78"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "language": "Kotlin",
+    "star": "36"
+  },
+  {
+    "title": "mitsuba-renderer/mitsuba3",
+    "url": "https://github.com/mitsuba-renderer/mitsuba3",
+    "description": "Mitsuba 3: A Retargetable Forward and Inverse Renderer",
+    "language": "C++",
+    "star": "61"
+  },
+  {
+    "title": "Code-Pop/Intro-to-Vue-3",
+    "url": "https://github.com/Code-Pop/Intro-to-Vue-3",
+    "description": "Code for Vue Mastery's Intro to Vue 3 course:",
+    "language": "CSS",
+    "star": "8"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "The fastai book, published as Jupyter Notebooks",
+    "language": "Jupyter Notebook",
+    "star": "32"
+  },
+  {
+    "title": "brave/brave-browser",
+    "url": "https://github.com/brave/brave-browser",
+    "description": "Next generation Brave browser for Android, Linux, macOS, Windows.",
+    "language": "JavaScript",
+    "star": "8"
+  },
+  {
+    "title": "CleverRaven/Cataclysm-DDA",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "language": "C++",
+    "star": "8"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA",
+    "description": "Integrate Magisk root and Google Apps (OpenGApps) into WSA (Windows Subsystem for Android)",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "carlospolop/PEASS-ng",
+    "url": "https://github.com/carlospolop/PEASS-ng",
+    "description": "PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)",
+    "language": "C#",
+    "star": "12"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "description": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "description": "mold: A Modern Linker",
+    "language": "C++",
+    "star": "18"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "language": "Python",
+    "star": "60"
+  },
+  {
+    "title": "KurtBestor/Hitomi-Downloader",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "32"
+  },
+  {
+    "title": "kottans/frontend",
+    "url": "https://github.com/kottans/frontend",
+    "description": "Kottans frontend course 🎓",
+    "language": "none",
+    "star": "25"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "HTML",
+    "star": "60"
+  },
+  {
+    "title": "coder/code-server",
+    "url": "https://github.com/coder/code-server",
+    "description": "VS Code in the browser",
+    "language": "TypeScript",
+    "star": "92"
+  },
+  {
+    "title": "SerenityOS/jakt",
+    "url": "https://github.com/SerenityOS/jakt",
+    "description": "The Jakt Programming Language",
+    "language": "Rust",
+    "star": "17"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "9"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "64"
+  },
+  {
+    "title": "espressif/arduino-esp32",
+    "url": "https://github.com/espressif/arduino-esp32",
+    "description": "Arduino core for the ESP32",
+    "language": "C",
+    "star": "5"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "description": "A Neovim config designed from scratch to be understandable",
+    "language": "Lua",
+    "star": "20"
+  }
+]
