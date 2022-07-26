@@ -1,0 +1,177 @@
+[
+  {
+    "title": "cloudscape-design/components",
+    "url": "https://github.com/cloudscape-design/components",
+    "description": "React components for Cloudscape Design System",
+    "language": "TypeScript",
+    "star": "362"
+  },
+  {
+    "title": "liyupi/yuindex",
+    "url": "https://github.com/liyupi/yuindex",
+    "description": "✨ 新项目 - 极客范儿的浏览器主页 💻 Vue 3 + Node.js 全栈项目，自实现 web 终端 + 命令系统",
+    "language": "TypeScript",
+    "star": "146"
+  },
+  {
+    "title": "BetaSu/big-react",
+    "url": "https://github.com/BetaSu/big-react",
+    "description": "跟着我，从0实现React18",
+    "language": "TypeScript",
+    "star": "184"
+  },
+  {
+    "title": "williamboman/mason.nvim",
+    "url": "https://github.com/williamboman/mason.nvim",
+    "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "language": "Lua",
+    "star": "168"
+  },
+  {
+    "title": "b7leung/MLE-Flashcards",
+    "url": "https://github.com/b7leung/MLE-Flashcards",
+    "description": "200+ detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science.",
+    "language": "none",
+    "star": "182"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "description": "The fastai book, published as Jupyter Notebooks",
+    "language": "Jupyter Notebook",
+    "star": "70"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "269"
+  },
+  {
+    "title": "mandiant/Azure_Workshop",
+    "url": "https://github.com/mandiant/Azure_Workshop",
+    "description": "",
+    "language": "HCL",
+    "star": "120"
+  },
+  {
+    "title": "Lissy93/awesome-privacy",
+    "url": "https://github.com/Lissy93/awesome-privacy",
+    "description": "🦄 A curated list of privacy & security-focused software and services",
+    "language": "none",
+    "star": "227"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "HTML",
+    "star": "236"
+  },
+  {
+    "title": "beego/beego",
+    "url": "https://github.com/beego/beego",
+    "description": "beego is an open-source, high-performance web framework for the Go programming language.",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "description": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
+    "language": "Batchfile",
+    "star": "73"
+  },
+  {
+    "title": "X1192176811/blog",
+    "url": "https://github.com/X1192176811/blog",
+    "description": "基于SpringBoot + Vue 开发的前后端分离博客，采用SpringSecurity进行权限管理，ElasticSearch全文搜索，支持QQ、微博第三方登录、在线聊天、发布说说等功能。",
+    "language": "Java",
+    "star": "24"
+  },
+  {
+    "title": "ruesandora/stride-testnet",
+    "url": "https://github.com/ruesandora/stride-testnet",
+    "description": "stride testnet guide",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "VoronDesign/Voron-Stealthburner",
+    "url": "https://github.com/VoronDesign/Voron-Stealthburner",
+    "description": "",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "55"
+  },
+  {
+    "title": "mgeeky/ProtectMyTooling",
+    "url": "https://github.com/mgeeky/ProtectMyTooling",
+    "description": "Multi-Packer wrapper letting us daisy-chain various packers, obfuscators and other Red Team oriented weaponry. Featured with artifacts watermarking, IOCs collection & PE Backdooring. You feed it with your implant, it does a lot of sneaky things and spits out obfuscated executable.",
+    "language": "PowerShell",
+    "star": "42"
+  },
+  {
+    "title": "realm/SwiftLint",
+    "url": "https://github.com/realm/SwiftLint",
+    "description": "A tool to enforce Swift style and conventions.",
+    "language": "Swift",
+    "star": "5"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "star": "65"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "description": "A Django content management system focused on flexibility and user experience",
+    "language": "Python",
+    "star": "7"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "12"
+  },
+  {
+    "title": "rapiz1/catp",
+    "url": "https://github.com/rapiz1/catp",
+    "description": "Print the output of a running process",
+    "language": "Rust",
+    "star": "149"
+  },
+  {
+    "title": "CleverRaven/Cataclysm-DDA",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "sphinx-doc/sphinx",
+    "url": "https://github.com/sphinx-doc/sphinx",
+    "description": "Main repository for the Sphinx documentation builder",
+    "language": "Python",
+    "star": "4"
+  },
+  {
+    "title": "rathena/rathena",
+    "url": "https://github.com/rathena/rathena",
+    "description": "rAthena is an open-source cross-platform MMORPG server.",
+    "language": "C++",
+    "star": "2"
+  }
+]
