@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "language": "Python",
+    "star": "138"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "description": "A layer 1 for everyone!",
+    "language": "Rust",
+    "star": "25"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "HTML",
+    "star": "210"
+  },
+  {
+    "title": "BetaSu/big-react",
+    "url": "https://github.com/BetaSu/big-react",
+    "description": "跟着我，从0实现React18",
+    "language": "TypeScript",
+    "star": "355"
+  },
+  {
+    "title": "Lissy93/awesome-privacy",
+    "url": "https://github.com/Lissy93/awesome-privacy",
+    "description": "🦄 A curated list of privacy & security-focused software and services",
+    "language": "none",
+    "star": "296"
+  },
+  {
+    "title": "p0dalirius/Awesome-RCE-techniques",
+    "url": "https://github.com/p0dalirius/Awesome-RCE-techniques",
+    "description": "Awesome list of step by step techniques to achieve Remote Code Execution on various apps!",
+    "language": "Dockerfile",
+    "star": "23"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "description": "Flipper Zero firmware source code",
+    "language": "C",
+    "star": "78"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
+    "language": "Rust",
+    "star": "800"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
+    "language": "none",
+    "star": "35"
+  },
+  {
+    "title": "williamboman/mason.nvim",
+    "url": "https://github.com/williamboman/mason.nvim",
+    "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "language": "Lua",
+    "star": "163"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "description": "A small C compiler",
+    "language": "C",
+    "star": "31"
+  },
+  {
+    "title": "Anjok07/ultimatevocalremovergui",
+    "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+    "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+    "language": "Python",
+    "star": "130"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "language": "C++",
+    "star": "42"
+  },
+  {
+    "title": "macrozheng/mall-swarm",
+    "url": "https://github.com/macrozheng/mall-swarm",
+    "description": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
+    "language": "Java",
+    "star": "32"
+  },
+  {
+    "title": "enkomio/AlanFramework",
+    "url": "https://github.com/enkomio/AlanFramework",
+    "description": "A C2 post-exploitation framework",
+    "language": "Assembly",
+    "star": "41"
+  },
+  {
+    "title": "symfony/symfony",
+    "url": "https://github.com/symfony/symfony",
+    "description": "The Symfony PHP framework",
+    "language": "PHP",
+    "star": "11"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "language": "PHP",
+    "star": "35"
+  },
+  {
+    "title": "tylertreat/comcast",
+    "url": "https://github.com/tylertreat/comcast",
+    "description": "Simulating shitty network connections so you can build better systems.",
+    "language": "Go",
+    "star": "105"
+  },
+  {
+    "title": "kubewharf/kubezoo",
+    "url": "https://github.com/kubewharf/kubezoo",
+    "description": "a lightweight kubernetes multi-tenancy gateway",
+    "language": "Go",
+    "star": "15"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "description": "Just Announced - \"Learn Spring Security OAuth\":",
+    "language": "Java",
+    "star": "13"
+  },
+  {
+    "title": "scottbez1/smartknob",
+    "url": "https://github.com/scottbez1/smartknob",
+    "description": "Haptic input knob with software-defined endstops and virtual detents",
+    "language": "C++",
+    "star": "41"
+  },
+  {
+    "title": "BloodHoundAD/BloodHound",
+    "url": "https://github.com/BloodHoundAD/BloodHound",
+    "description": "Six Degrees of Domain Admin",
+    "language": "PowerShell",
+    "star": "6"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "language": "Swift",
+    "star": "6"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "25"
+  },
+  {
+    "title": "move-language/move",
+    "url": "https://github.com/move-language/move",
+    "description": "",
+    "language": "Rust",
+    "star": "40"
+  }
+]
