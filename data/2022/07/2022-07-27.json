@@ -4,21 +4,21 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "138"
+    "star": "93"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "25"
+    "star": "24"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
     "url": "https://github.com/sunym1993/flash-linux0.11-talk",
     "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
     "language": "HTML",
-    "star": "210"
+    "star": "207"
   },
   {
     "title": "BetaSu/big-react",
@@ -32,7 +32,7 @@
     "url": "https://github.com/Lissy93/awesome-privacy",
     "description": "🦄 A curated list of privacy & security-focused software and services",
     "language": "none",
-    "star": "296"
+    "star": "298"
   },
   {
     "title": "p0dalirius/Awesome-RCE-techniques",
@@ -46,56 +46,56 @@
     "url": "https://github.com/flipperdevices/flipperzero-firmware",
     "description": "Flipper Zero firmware source code",
     "language": "C",
-    "star": "78"
+    "star": "92"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
     "language": "Rust",
-    "star": "800"
+    "star": "585"
   },
   {
     "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
     "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
     "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
     "language": "none",
-    "star": "35"
+    "star": "34"
   },
   {
     "title": "williamboman/mason.nvim",
     "url": "https://github.com/williamboman/mason.nvim",
     "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
     "language": "Lua",
-    "star": "163"
+    "star": "162"
   },
   {
     "title": "rui314/chibicc",
     "url": "https://github.com/rui314/chibicc",
     "description": "A small C compiler",
     "language": "C",
-    "star": "31"
+    "star": "12"
   },
   {
     "title": "Anjok07/ultimatevocalremovergui",
     "url": "https://github.com/Anjok07/ultimatevocalremovergui",
     "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
     "language": "Python",
-    "star": "130"
+    "star": "118"
   },
   {
     "title": "WerWolv/ImHex",
     "url": "https://github.com/WerWolv/ImHex",
     "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
     "language": "C++",
-    "star": "42"
+    "star": "43"
   },
   {
     "title": "macrozheng/mall-swarm",
     "url": "https://github.com/macrozheng/mall-swarm",
     "description": "mall-swarm是一套微服务商城系统，采用了 Spring Cloud 2021 & Alibaba、Spring Boot 2.7、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。",
     "language": "Java",
-    "star": "32"
+    "star": "11"
   },
   {
     "title": "enkomio/AlanFramework",
@@ -109,7 +109,7 @@
     "url": "https://github.com/symfony/symfony",
     "description": "The Symfony PHP framework",
     "language": "PHP",
-    "star": "11"
+    "star": "13"
   },
   {
     "title": "danielmiessler/SecLists",
@@ -123,7 +123,7 @@
     "url": "https://github.com/tylertreat/comcast",
     "description": "Simulating shitty network connections so you can build better systems.",
     "language": "Go",
-    "star": "102"
+    "star": "154"
   },
   {
     "title": "kubewharf/kubezoo",
@@ -172,6 +172,6 @@
     "url": "https://github.com/move-language/move",
     "description": "",
     "language": "Rust",
-    "star": "44"
+    "star": "18"
   }
 ]
