@@ -123,7 +123,7 @@
     "url": "https://github.com/tylertreat/comcast",
     "description": "Simulating shitty network connections so you can build better systems.",
     "language": "Go",
-    "star": "164"
+    "star": "170"
   },
   {
     "title": "kubewharf/kubezoo",
@@ -172,6 +172,6 @@
     "url": "https://github.com/move-language/move",
     "description": "",
     "language": "Rust",
-    "star": "95"
+    "star": "93"
   }
 ]
