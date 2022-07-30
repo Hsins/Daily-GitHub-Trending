@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Dashibase/lotion",
+    "url": "https://github.com/Dashibase/lotion",
+    "description": "An open-source Notion UI built with Vue 3",
+    "language": "Vue",
+    "star": "660"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "language": "C++",
+    "star": "340"
+  },
+  {
+    "title": "apache/shenyu",
+    "url": "https://github.com/apache/shenyu",
+    "description": "Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.",
+    "language": "Java",
+    "star": "12"
+  },
+  {
+    "title": "tabler/tabler",
+    "url": "https://github.com/tabler/tabler",
+    "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
+    "language": "HTML",
+    "star": "1"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "description": "A layer 1 for everyone!",
+    "language": "Rust",
+    "star": "92"
+  },
+  {
+    "title": "revanced/revanced-patches",
+    "url": "https://github.com/revanced/revanced-patches",
+    "description": "🧩 Official patches by ReVanced",
+    "language": "Kotlin",
+    "star": "14"
+  },
+  {
+    "title": "charmbracelet/gum",
+    "url": "https://github.com/charmbracelet/gum",
+    "description": "A tool for glamorous shell scripts 🎀",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "jorgef/engineeringladders",
+    "url": "https://github.com/jorgef/engineeringladders",
+    "description": "A framework for Engineering Managers",
+    "language": "none",
+    "star": "791"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "language": "Python",
+    "star": "368"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
+    "language": "none",
+    "star": "234"
+  },
+  {
+    "title": "manticoresoftware/manticoresearch",
+    "url": "https://github.com/manticoresoftware/manticoresearch",
+    "description": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon",
+    "language": "C++",
+    "star": "225"
+  },
+  {
+    "title": "fastai/nbdev",
+    "url": "https://github.com/fastai/nbdev",
+    "description": "Create delightful python projects using Jupyter Notebooks",
+    "language": "Jupyter Notebook",
+    "star": "26"
+  },
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "description": "",
+    "language": "TypeScript",
+    "star": "10"
+  },
+  {
+    "title": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "language": "Kotlin",
+    "star": "73"
+  },
+  {
+    "title": "Omyyyy/pycom",
+    "url": "https://github.com/Omyyyy/pycom",
+    "description": "A Python compiler, down to native code, using C++",
+    "language": "C++",
+    "star": "237"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "description": "你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码",
+    "language": "HTML",
+    "star": "375"
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "description": "An iOS library to natively render After Effects vector animations",
+    "language": "Swift",
+    "star": "11"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "description": "Declarative continuous deployment for Kubernetes.",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "star": "88"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "description": "深度学习经典、新论文逐段精读",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "AstroNvim/AstroNvim",
+    "url": "https://github.com/AstroNvim/AstroNvim",
+    "description": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "language": "Lua",
+    "star": "33"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "language": "C++",
+    "star": "17"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "language": "Python",
+    "star": "59"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "language": "JavaScript",
+    "star": "32"
+  },
+  {
+    "title": "aws-ia/terraform-aws-eks-blueprints",
+    "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints",
+    "description": "Configure and deploy complete EKS clusters.",
+    "language": "HCL",
+    "star": "12"
+  }
+]
