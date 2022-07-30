@@ -4,14 +4,14 @@
     "url": "https://github.com/Dashibase/lotion",
     "description": "An open-source Notion UI built with Vue 3",
     "language": "Vue",
-    "star": "660"
+    "star": "395"
   },
   {
     "title": "WerWolv/ImHex",
     "url": "https://github.com/WerWolv/ImHex",
     "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
     "language": "C++",
-    "star": "340"
+    "star": "586"
   },
   {
     "title": "apache/shenyu",
@@ -60,14 +60,14 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "368"
+    "star": "420"
   },
   {
     "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
     "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
     "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
     "language": "none",
-    "star": "234"
+    "star": "239"
   },
   {
     "title": "manticoresoftware/manticoresearch",
@@ -88,21 +88,21 @@
     "url": "https://github.com/Tencent/tmagic-editor",
     "description": "",
     "language": "TypeScript",
-    "star": "10"
+    "star": "17"
   },
   {
     "title": "pppscn/SmsForwarder",
     "url": "https://github.com/pppscn/SmsForwarder",
     "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
     "language": "Kotlin",
-    "star": "73"
+    "star": "39"
   },
   {
     "title": "Omyyyy/pycom",
     "url": "https://github.com/Omyyyy/pycom",
     "description": "A Python compiler, down to native code, using C++",
     "language": "C++",
-    "star": "237"
+    "star": "238"
   },
   {
     "title": "sunym1993/flash-linux0.11-talk",
@@ -116,21 +116,21 @@
     "url": "https://github.com/airbnb/lottie-ios",
     "description": "An iOS library to natively render After Effects vector animations",
     "language": "Swift",
-    "star": "11"
+    "star": "9"
   },
   {
     "title": "argoproj/argo-cd",
     "url": "https://github.com/argoproj/argo-cd",
     "description": "Declarative continuous deployment for Kubernetes.",
     "language": "Go",
-    "star": "9"
+    "star": "24"
   },
   {
     "title": "facebook/react",
     "url": "https://github.com/facebook/react",
     "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "language": "JavaScript",
-    "star": "88"
+    "star": "98"
   },
   {
     "title": "mli/paper-reading",
