@@ -4,7 +4,7 @@
     "url": "https://github.com/WerWolv/ImHex",
     "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
     "language": "C++",
-    "star": "672"
+    "star": "659"
   },
   {
     "title": "charmbracelet/gum",
@@ -32,7 +32,7 @@
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "Go",
-    "star": "2"
+    "star": "3"
   },
   {
     "title": "MystenLabs/sui",
@@ -46,21 +46,21 @@
     "url": "https://github.com/userver-framework/userver",
     "description": "The C++ Asynchronous Framework (beta)",
     "language": "C++",
-    "star": "180"
+    "star": "173"
   },
   {
     "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
     "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
     "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
     "language": "none",
-    "star": "210"
+    "star": "212"
   },
   {
     "title": "Dashibase/lotion",
     "url": "https://github.com/Dashibase/lotion",
     "description": "An open-source Notion UI built with Vue 3",
     "language": "Vue",
-    "star": "311"
+    "star": "367"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
@@ -95,7 +95,7 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "295"
+    "star": "314"
   },
   {
     "title": "pittcsc/Summer2023-Internships",
@@ -123,7 +123,7 @@
     "url": "https://github.com/Omyyyy/pycom",
     "description": "A Python compiler, down to native code, using C++",
     "language": "C++",
-    "star": "219"
+    "star": "220"
   },
   {
     "title": "pi-hole/pi-hole",
@@ -165,13 +165,13 @@
     "url": "https://github.com/htr-tech/zphisher",
     "description": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
     "language": "Hack",
-    "star": "14"
+    "star": "10"
   },
   {
     "title": "jorgef/engineeringladders",
     "url": "https://github.com/jorgef/engineeringladders",
     "description": "A framework for Engineering Managers",
     "language": "none",
-    "star": "504"
+    "star": "672"
   }
 ]
