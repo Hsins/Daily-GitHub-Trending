@@ -1,0 +1,177 @@
+[
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "language": "C++",
+    "star": "672"
+  },
+  {
+    "title": "charmbracelet/gum",
+    "url": "https://github.com/charmbracelet/gum",
+    "description": "A tool for glamorous shell scripts 🎀",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "tabler/tabler",
+    "url": "https://github.com/tabler/tabler",
+    "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
+    "language": "HTML",
+    "star": "1"
+  },
+  {
+    "title": "hktalent/scan4all",
+    "url": "https://github.com/hktalent/scan4all",
+    "description": "Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...",
+    "language": "Go",
+    "star": "171"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
+    "language": "Go",
+    "star": "2"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "language": "Rust",
+    "star": "48"
+  },
+  {
+    "title": "userver-framework/userver",
+    "url": "https://github.com/userver-framework/userver",
+    "description": "The C++ Asynchronous Framework (beta)",
+    "language": "C++",
+    "star": "180"
+  },
+  {
+    "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
+    "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
+    "language": "none",
+    "star": "210"
+  },
+  {
+    "title": "Dashibase/lotion",
+    "url": "https://github.com/Dashibase/lotion",
+    "description": "An open-source Notion UI built with Vue 3",
+    "language": "Vue",
+    "star": "311"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "104"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "53"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "111"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "49"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "language": "Python",
+    "star": "295"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "description": "Collection of Summer 2023 tech internships!",
+    "language": "Python",
+    "star": "29"
+  },
+  {
+    "title": "minetest/minetest",
+    "url": "https://github.com/minetest/minetest",
+    "description": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "language": "C++",
+    "star": "45"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning",
+    "description": "Resources for deep learning with satellite & aerial imagery",
+    "language": "none",
+    "star": "53"
+  },
+  {
+    "title": "Omyyyy/pycom",
+    "url": "https://github.com/Omyyyy/pycom",
+    "description": "A Python compiler, down to native code, using C++",
+    "language": "C++",
+    "star": "219"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "language": "Shell",
+    "star": "31"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "description": "A platform for building proxies to bypass network restrictions.",
+    "language": "Go",
+    "star": "6"
+  },
+  {
+    "title": "nsqio/nsq",
+    "url": "https://github.com/nsqio/nsq",
+    "description": "A realtime distributed messaging platform",
+    "language": "Go",
+    "star": "7"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "description": "分流规则、重写写规则及脚本。",
+    "language": "JavaScript",
+    "star": "13"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "htr-tech/zphisher",
+    "url": "https://github.com/htr-tech/zphisher",
+    "description": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
+    "language": "Hack",
+    "star": "14"
+  },
+  {
+    "title": "jorgef/engineeringladders",
+    "url": "https://github.com/jorgef/engineeringladders",
+    "description": "A framework for Engineering Managers",
+    "language": "none",
+    "star": "504"
+  }
+]
