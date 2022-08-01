@@ -1,0 +1,177 @@
+[
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "language": "C++",
+    "star": "901"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "language": "Python",
+    "star": "189"
+  },
+  {
+    "title": "charmbracelet/gum",
+    "url": "https://github.com/charmbracelet/gum",
+    "description": "A tool for glamorous shell scripts 🎀",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "124"
+  },
+  {
+    "title": "imbushuo/EnergyStar",
+    "url": "https://github.com/imbushuo/EnergyStar",
+    "description": "A terrible application setting SV2 Efficiency Mode for inactive Windows apps and user background apps",
+    "language": "C#",
+    "star": "170"
+  },
+  {
+    "title": "userver-framework/userver",
+    "url": "https://github.com/userver-framework/userver",
+    "description": "The C++ Asynchronous Framework (beta)",
+    "language": "C++",
+    "star": "172"
+  },
+  {
+    "title": "google-research/parti",
+    "url": "https://github.com/google-research/parti",
+    "description": "",
+    "language": "none",
+    "star": "54"
+  },
+  {
+    "title": "hktalent/scan4all",
+    "url": "https://github.com/hktalent/scan4all",
+    "description": "Vulnerabilities Scan: 15000+PoCs; 20 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty...",
+    "language": "Go",
+    "star": "395"
+  },
+  {
+    "title": "serverless-dns/serverless-dns",
+    "url": "https://github.com/serverless-dns/serverless-dns",
+    "description": "The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io",
+    "language": "JavaScript",
+    "star": "97"
+  },
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "language": "Swift",
+    "star": "62"
+  },
+  {
+    "title": "Datalux/Osintgram",
+    "url": "https://github.com/Datalux/Osintgram",
+    "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+    "language": "Python",
+    "star": "107"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "104"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "language": "Shell",
+    "star": "171"
+  },
+  {
+    "title": "AstroNvim/AstroNvim",
+    "url": "https://github.com/AstroNvim/AstroNvim",
+    "description": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "language": "Lua",
+    "star": "45"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "59"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "145"
+  },
+  {
+    "title": "minetest/minetest",
+    "url": "https://github.com/minetest/minetest",
+    "description": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "language": "C++",
+    "star": "90"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "117"
+  },
+  {
+    "title": "pppscn/SmsForwarder",
+    "url": "https://github.com/pppscn/SmsForwarder",
+    "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+    "language": "Kotlin",
+    "star": "78"
+  },
+  {
+    "title": "glepnir/lspsaga.nvim",
+    "url": "https://github.com/glepnir/lspsaga.nvim",
+    "description": "neovim lsp plugin",
+    "language": "Lua",
+    "star": "34"
+  },
+  {
+    "title": "tabler/tabler",
+    "url": "https://github.com/tabler/tabler",
+    "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
+    "language": "HTML",
+    "star": "606"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated coding interview preparation materials for busy software engineers",
+    "language": "JavaScript",
+    "star": "109"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "134"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "description": "Collection of Summer 2023 tech internships!",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "Dashibase/lotion",
+    "url": "https://github.com/Dashibase/lotion",
+    "description": "An open-source Notion UI built with Vue 3",
+    "language": "Vue",
+    "star": "290"
+  }
+]
