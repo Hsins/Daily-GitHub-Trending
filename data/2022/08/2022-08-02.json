@@ -11,14 +11,14 @@
     "url": "https://github.com/aidenybai/million",
     "description": "Virtual DOM into the future! ✨🦁🚀✨",
     "language": "TypeScript",
-    "star": "450"
+    "star": "472"
   },
   {
     "title": "nsqio/nsq",
     "url": "https://github.com/nsqio/nsq",
     "description": "A realtime distributed messaging platform",
     "language": "Go",
-    "star": "74"
+    "star": "86"
   },
   {
     "title": "TencentARC/GFPGAN",
@@ -32,35 +32,35 @@
     "url": "https://github.com/apache/shenyu",
     "description": "Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.",
     "language": "Java",
-    "star": "41"
+    "star": "43"
   },
   {
     "title": "OIRNOIR/WebM-Maker-Thing-Idk",
     "url": "https://github.com/OIRNOIR/WebM-Maker-Thing-Idk",
     "description": "This is a simple tool to allow you to create WebM files with changing aspect ratios.",
     "language": "JavaScript",
-    "star": "46"
+    "star": "49"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "228"
+    "star": "217"
   },
   {
     "title": "minetest/minetest",
     "url": "https://github.com/minetest/minetest",
     "description": "Minetest is an open source voxel game engine with easy modding and game creation",
     "language": "C++",
-    "star": "92"
+    "star": "90"
   },
   {
     "title": "Nickyie/Cybersecurity-Resources",
     "url": "https://github.com/Nickyie/Cybersecurity-Resources",
     "description": "A Library of various cybersecurity resources",
     "language": "none",
-    "star": "64"
+    "star": "67"
   },
   {
     "title": "hktalent/scan4all",
@@ -81,63 +81,63 @@
     "url": "https://github.com/charmbracelet/gum",
     "description": "A tool for glamorous shell scripts 🎀",
     "language": "Go",
-    "star": "1"
+    "star": "998"
   },
   {
     "title": "WerWolv/ImHex",
     "url": "https://github.com/WerWolv/ImHex",
     "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
     "language": "C++",
-    "star": "592"
+    "star": "593"
   },
   {
     "title": "MystenLabs/sui",
     "url": "https://github.com/MystenLabs/sui",
     "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
     "language": "Rust",
-    "star": "29"
+    "star": "28"
   },
   {
     "title": "google-research/parti",
     "url": "https://github.com/google-research/parti",
     "description": "",
     "language": "none",
-    "star": "91"
+    "star": "88"
   },
   {
     "title": "userver-framework/userver",
     "url": "https://github.com/userver-framework/userver",
     "description": "The C++ Asynchronous Framework (beta)",
     "language": "C++",
-    "star": "122"
+    "star": "114"
   },
   {
     "title": "pittcsc/Summer2023-Internships",
     "url": "https://github.com/pittcsc/Summer2023-Internships",
     "description": "Collection of Summer 2023 tech internships!",
     "language": "Python",
-    "star": "120"
+    "star": "119"
   },
   {
     "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
     "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
     "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
     "language": "none",
-    "star": "155"
+    "star": "156"
   },
   {
     "title": "coderQuad/New-Grad-Positions-2023",
     "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
     "description": "A collection of New Grad full time roles in SWE, Quant, and PM.",
     "language": "none",
-    "star": "37"
+    "star": "39"
   },
   {
     "title": "go-gitea/gitea",
     "url": "https://github.com/go-gitea/gitea",
     "description": "Git with a cup of tea, painless self-hosted git service",
     "language": "Go",
-    "star": "76"
+    "star": "77"
   },
   {
     "title": "tabler/tabler",
@@ -151,7 +151,7 @@
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "Go",
-    "star": "10"
+    "star": "9"
   },
   {
     "title": "facebook/docusaurus",
@@ -172,6 +172,6 @@
     "url": "https://github.com/rust-lang/rust",
     "description": "Empowering everyone to build reliable and efficient software.",
     "language": "Rust",
-    "star": "141"
+    "star": "140"
   }
 ]
