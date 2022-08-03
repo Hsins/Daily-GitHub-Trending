@@ -4,28 +4,28 @@
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "196"
+    "star": "195"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "108"
+    "star": "109"
   },
   {
     "title": "phiresky/sqlite-zstd",
     "url": "https://github.com/phiresky/sqlite-zstd",
     "description": "Transparent dictionary-based row-level compression for SQLite",
     "language": "Rust",
-    "star": "101"
+    "star": "103"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "166"
+    "star": "160"
   },
   {
     "title": "HVML/PurC",
@@ -39,28 +39,28 @@
     "url": "https://github.com/Shopify/react-native-skia",
     "description": "High-performance React Native Graphics using Skia",
     "language": "TypeScript",
-    "star": "99"
+    "star": "97"
   },
   {
     "title": "aidenybai/million",
     "url": "https://github.com/aidenybai/million",
     "description": "Virtual DOM into the future! ✨🦁🚀✨",
     "language": "TypeScript",
-    "star": "498"
+    "star": "486"
   },
   {
     "title": "peng-zhihui/HelloWord-Keyboard",
     "url": "https://github.com/peng-zhihui/HelloWord-Keyboard",
     "description": "",
     "language": "C",
-    "star": "360"
+    "star": "359"
   },
   {
     "title": "nearform/lyra",
     "url": "https://github.com/nearform/lyra",
     "description": "🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
     "language": "TypeScript",
-    "star": "505"
+    "star": "509"
   },
   {
     "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
@@ -81,35 +81,35 @@
     "url": "https://github.com/padloc/padloc",
     "description": "A modern, open source password manager for individuals and teams.",
     "language": "JavaScript",
-    "star": "106"
+    "star": "108"
   },
   {
     "title": "mit-pdos/xv6-riscv",
     "url": "https://github.com/mit-pdos/xv6-riscv",
     "description": "Xv6 for RISC-V",
     "language": "C",
-    "star": "15"
+    "star": "16"
   },
   {
     "title": "coderQuad/New-Grad-Positions-2023",
     "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
     "description": "A collection of New Grad full time roles in SWE, Quant, and PM.",
     "language": "none",
-    "star": "49"
+    "star": "50"
   },
   {
     "title": "jgraph/drawio-desktop",
     "url": "https://github.com/jgraph/drawio-desktop",
     "description": "Official electron build of draw.io",
     "language": "Shell",
-    "star": "74"
+    "star": "73"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "314"
+    "star": "323"
   },
   {
     "title": "open-mmlab/mmrotate",
@@ -123,14 +123,14 @@
     "url": "https://github.com/pittcsc/Summer2023-Internships",
     "description": "Collection of Summer 2023 tech internships!",
     "language": "Python",
-    "star": "118"
+    "star": "117"
   },
   {
     "title": "mautic/mautic",
     "url": "https://github.com/mautic/mautic",
     "description": "Mautic: Open Source Marketing Automation Software.",
     "language": "PHP",
-    "star": "27"
+    "star": "2"
   },
   {
     "title": "yangshun/tech-interview-handbook",
@@ -158,14 +158,14 @@
     "url": "https://github.com/wandb/wandb",
     "description": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
     "language": "Python",
-    "star": "50"
+    "star": "51"
   },
   {
     "title": "OIRNOIR/WebM-Maker-Thing-Idk",
     "url": "https://github.com/OIRNOIR/WebM-Maker-Thing-Idk",
     "description": "This is a simple tool to allow you to create WebM files with changing aspect ratios.",
     "language": "JavaScript",
-    "star": "67"
+    "star": "66"
   },
   {
     "title": "Alamofire/Alamofire",
