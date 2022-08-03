@@ -4,28 +4,28 @@
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "190"
+    "star": "196"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "96"
+    "star": "108"
   },
   {
     "title": "phiresky/sqlite-zstd",
     "url": "https://github.com/phiresky/sqlite-zstd",
     "description": "Transparent dictionary-based row-level compression for SQLite",
     "language": "Rust",
-    "star": "102"
+    "star": "101"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "171"
+    "star": "166"
   },
   {
     "title": "HVML/PurC",
@@ -39,56 +39,56 @@
     "url": "https://github.com/Shopify/react-native-skia",
     "description": "High-performance React Native Graphics using Skia",
     "language": "TypeScript",
-    "star": "101"
+    "star": "99"
   },
   {
     "title": "aidenybai/million",
     "url": "https://github.com/aidenybai/million",
     "description": "Virtual DOM into the future! ✨🦁🚀✨",
     "language": "TypeScript",
-    "star": "511"
+    "star": "498"
   },
   {
     "title": "peng-zhihui/HelloWord-Keyboard",
     "url": "https://github.com/peng-zhihui/HelloWord-Keyboard",
     "description": "",
     "language": "C",
-    "star": "385"
+    "star": "360"
   },
   {
     "title": "nearform/lyra",
     "url": "https://github.com/nearform/lyra",
     "description": "🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
     "language": "TypeScript",
-    "star": "509"
+    "star": "505"
   },
   {
     "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
     "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
     "description": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
     "language": "none",
-    "star": "56"
+    "star": "60"
   },
   {
     "title": "antoniosarosi/Wallpapers",
     "url": "https://github.com/antoniosarosi/Wallpapers",
     "description": "",
     "language": "none",
-    "star": "33"
+    "star": "36"
   },
   {
     "title": "padloc/padloc",
     "url": "https://github.com/padloc/padloc",
     "description": "A modern, open source password manager for individuals and teams.",
     "language": "JavaScript",
-    "star": "100"
+    "star": "106"
   },
   {
     "title": "mit-pdos/xv6-riscv",
     "url": "https://github.com/mit-pdos/xv6-riscv",
     "description": "Xv6 for RISC-V",
     "language": "C",
-    "star": "18"
+    "star": "15"
   },
   {
     "title": "coderQuad/New-Grad-Positions-2023",
@@ -102,14 +102,14 @@
     "url": "https://github.com/jgraph/drawio-desktop",
     "description": "Official electron build of draw.io",
     "language": "Shell",
-    "star": "70"
+    "star": "74"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "329"
+    "star": "314"
   },
   {
     "title": "open-mmlab/mmrotate",
@@ -123,14 +123,14 @@
     "url": "https://github.com/pittcsc/Summer2023-Internships",
     "description": "Collection of Summer 2023 tech internships!",
     "language": "Python",
-    "star": "119"
+    "star": "118"
   },
   {
     "title": "mautic/mautic",
     "url": "https://github.com/mautic/mautic",
     "description": "Mautic: Open Source Marketing Automation Software.",
     "language": "PHP",
-    "star": "24"
+    "star": "27"
   },
   {
     "title": "yangshun/tech-interview-handbook",
@@ -144,34 +144,34 @@
     "url": "https://github.com/open-telemetry/opentelemetry-go",
     "description": "OpenTelemetry Go API and SDK",
     "language": "Go",
-    "star": "15"
+    "star": "20"
   },
   {
     "title": "soyHenry/Prep-Course",
     "url": "https://github.com/soyHenry/Prep-Course",
     "description": "",
     "language": "JavaScript",
-    "star": "5"
+    "star": "6"
   },
   {
     "title": "wandb/wandb",
     "url": "https://github.com/wandb/wandb",
     "description": "🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.",
     "language": "Python",
-    "star": "38"
+    "star": "50"
   },
   {
     "title": "OIRNOIR/WebM-Maker-Thing-Idk",
     "url": "https://github.com/OIRNOIR/WebM-Maker-Thing-Idk",
     "description": "This is a simple tool to allow you to create WebM files with changing aspect ratios.",
     "language": "JavaScript",
-    "star": "66"
+    "star": "67"
   },
   {
     "title": "Alamofire/Alamofire",
     "url": "https://github.com/Alamofire/Alamofire",
     "description": "Elegant HTTP Networking in Swift",
     "language": "Swift",
-    "star": "19"
+    "star": "20"
   }
 ]
