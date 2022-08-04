@@ -4,14 +4,14 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "197"
+    "star": "199"
   },
   {
     "title": "Nickyie/Cybersecurity-Resources",
     "url": "https://github.com/Nickyie/Cybersecurity-Resources",
     "description": "A Library of various cybersecurity resources",
     "language": "none",
-    "star": "82"
+    "star": "88"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
@@ -46,7 +46,7 @@
     "url": "https://github.com/antoniosarosi/Wallpapers",
     "description": "",
     "language": "none",
-    "star": "72"
+    "star": "69"
   },
   {
     "title": "public-apis/public-apis",
@@ -74,42 +74,42 @@
     "url": "https://github.com/eslam3kl/SQLiDetector",
     "description": "Simple python script that helps you to detect SQL injection \"Error based\" by sending multiple requests with different payloads and check for 152 regex pattern for different databases.",
     "language": "BlitzBasic",
-    "star": "41"
+    "star": "43"
   },
   {
     "title": "theonedev/onedev",
     "url": "https://github.com/theonedev/onedev",
     "description": "Self-hosted Git Server with CI/CD and Kanban",
     "language": "Java",
-    "star": "157"
+    "star": "164"
   },
   {
     "title": "probml/pml2-book",
     "url": "https://github.com/probml/pml2-book",
     "description": "Probabilistic Machine Learning: Advanced Topics",
     "language": "none",
-    "star": "43"
+    "star": "41"
   },
   {
     "title": "peng-zhihui/HelloWord-Keyboard",
     "url": "https://github.com/peng-zhihui/HelloWord-Keyboard",
     "description": "",
     "language": "C",
-    "star": "177"
+    "star": "176"
   },
   {
     "title": "heartexlabs/label-studio",
     "url": "https://github.com/heartexlabs/label-studio",
     "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
     "language": "Python",
-    "star": "49"
+    "star": "53"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "265"
+    "star": "257"
   },
   {
     "title": "debezium/debezium",
@@ -123,7 +123,7 @@
     "url": "https://github.com/getsentry/sentry",
     "description": "Sentry is cross-platform application monitoring, with a focus on error reporting.",
     "language": "Python",
-    "star": "26"
+    "star": "32"
   },
   {
     "title": "Hack-with-Github/Awesome-Hacking",
@@ -144,7 +144,7 @@
     "url": "https://github.com/dotnet/runtime",
     "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
     "language": "C#",
-    "star": "16"
+    "star": "13"
   },
   {
     "title": "revanced/revanced-manager",
@@ -158,7 +158,7 @@
     "url": "https://github.com/alembics/disco-diffusion",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "27"
+    "star": "28"
   },
   {
     "title": "MystenLabs/sui",
