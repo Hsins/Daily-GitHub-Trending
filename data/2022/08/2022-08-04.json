@@ -4,42 +4,42 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "199"
+    "star": "201"
   },
   {
     "title": "Nickyie/Cybersecurity-Resources",
     "url": "https://github.com/Nickyie/Cybersecurity-Resources",
     "description": "A Library of various cybersecurity resources",
     "language": "none",
-    "star": "88"
+    "star": "97"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "241"
+    "star": "236"
   },
   {
     "title": "aidenybai/million",
     "url": "https://github.com/aidenybai/million",
     "description": "Virtual DOM into the future! ✨🦁🚀✨",
     "language": "TypeScript",
-    "star": "236"
+    "star": "233"
   },
   {
     "title": "WhatsApp/eqwalizer",
     "url": "https://github.com/WhatsApp/eqwalizer",
     "description": "A type-checker for Erlang",
     "language": "Erlang",
-    "star": "90"
+    "star": "79"
   },
   {
     "title": "TencentARC/GFPGAN",
     "url": "https://github.com/TencentARC/GFPGAN",
     "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
     "language": "Python",
-    "star": "99"
+    "star": "116"
   },
   {
     "title": "antoniosarosi/Wallpapers",
@@ -53,91 +53,91 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "348"
+    "star": "332"
   },
   {
     "title": "nsqio/nsq",
     "url": "https://github.com/nsqio/nsq",
     "description": "A realtime distributed messaging platform",
     "language": "Go",
-    "star": "39"
+    "star": "50"
   },
   {
     "title": "nearform/lyra",
     "url": "https://github.com/nearform/lyra",
     "description": "🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
     "language": "TypeScript",
-    "star": "524"
+    "star": "505"
   },
   {
     "title": "eslam3kl/SQLiDetector",
     "url": "https://github.com/eslam3kl/SQLiDetector",
     "description": "Simple python script that helps you to detect SQL injection \"Error based\" by sending multiple requests with different payloads and check for 152 regex pattern for different databases.",
     "language": "BlitzBasic",
-    "star": "43"
+    "star": "41"
   },
   {
     "title": "theonedev/onedev",
     "url": "https://github.com/theonedev/onedev",
     "description": "Self-hosted Git Server with CI/CD and Kanban",
     "language": "Java",
-    "star": "164"
+    "star": "163"
   },
   {
     "title": "probml/pml2-book",
     "url": "https://github.com/probml/pml2-book",
     "description": "Probabilistic Machine Learning: Advanced Topics",
     "language": "none",
-    "star": "41"
+    "star": "40"
   },
   {
     "title": "peng-zhihui/HelloWord-Keyboard",
     "url": "https://github.com/peng-zhihui/HelloWord-Keyboard",
     "description": "",
     "language": "C",
-    "star": "176"
+    "star": "174"
   },
   {
     "title": "heartexlabs/label-studio",
     "url": "https://github.com/heartexlabs/label-studio",
     "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
     "language": "Python",
-    "star": "53"
+    "star": "56"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "257"
+    "star": "256"
   },
   {
     "title": "debezium/debezium",
     "url": "https://github.com/debezium/debezium",
     "description": "Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.",
     "language": "Java",
-    "star": "19"
+    "star": "22"
   },
   {
     "title": "getsentry/sentry",
     "url": "https://github.com/getsentry/sentry",
     "description": "Sentry is cross-platform application monitoring, with a focus on error reporting.",
     "language": "Python",
-    "star": "32"
+    "star": "33"
   },
   {
     "title": "Hack-with-Github/Awesome-Hacking",
     "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
     "description": "A collection of various awesome lists for hackers, pentesters and security researchers",
     "language": "none",
-    "star": "79"
+    "star": "86"
   },
   {
     "title": "facebook/docusaurus",
     "url": "https://github.com/facebook/docusaurus",
     "description": "Easy to maintain open source documentation websites.",
     "language": "TypeScript",
-    "star": "130"
+    "star": "139"
   },
   {
     "title": "dotnet/runtime",
@@ -151,27 +151,27 @@
     "url": "https://github.com/revanced/revanced-manager",
     "description": "💊 The official ReVanced Manager",
     "language": "Kotlin",
-    "star": "29"
+    "star": "36"
   },
   {
     "title": "alembics/disco-diffusion",
     "url": "https://github.com/alembics/disco-diffusion",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "28"
+    "star": "29"
   },
   {
     "title": "MystenLabs/sui",
     "url": "https://github.com/MystenLabs/sui",
     "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
     "language": "Rust",
-    "star": "28"
+    "star": "27"
   },
   {
     "title": "apache/superset",
     "url": "https://github.com/apache/superset",
     "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
     "language": "TypeScript",
-    "star": "31"
+    "star": "47"
   }
 ]
