@@ -11,7 +11,7 @@
     "url": "https://github.com/NVIDIAGameWorks/kaolin-wisp",
     "description": "NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).",
     "language": "Python",
-    "star": "70"
+    "star": "79"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
@@ -25,14 +25,14 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "182"
+    "star": "183"
   },
   {
     "title": "elastic/protections-artifacts",
     "url": "https://github.com/elastic/protections-artifacts",
     "description": "Elastic Security detection content for Endpoint",
     "language": "YARA",
-    "star": "97"
+    "star": "96"
   },
   {
     "title": "sobinge/2022-HW-POC",
@@ -60,14 +60,14 @@
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "161"
+    "star": "153"
   },
   {
     "title": "HeliXonProtein/OmegaFold",
     "url": "https://github.com/HeliXonProtein/OmegaFold",
     "description": "OmegaFold Release Code",
     "language": "Python",
-    "star": "36"
+    "star": "37"
   },
   {
     "title": "UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram",
@@ -81,21 +81,21 @@
     "url": "https://github.com/HVML/PurC",
     "description": "The prime HVML interpreter for C Language.",
     "language": "C",
-    "star": "38"
+    "star": "42"
   },
   {
     "title": "golang/go",
     "url": "https://github.com/golang/go",
     "description": "The Go programming language",
     "language": "Go",
-    "star": "62"
+    "star": "75"
   },
   {
     "title": "YDHCUI/manjusaka",
     "url": "https://github.com/YDHCUI/manjusaka",
     "description": "牛屎花 一款C2远控",
     "language": "none",
-    "star": "31"
+    "star": "30"
   },
   {
     "title": "public-apis/public-apis",
@@ -116,42 +116,42 @@
     "url": "https://github.com/cri-o/cri-o",
     "description": "Open Container Initiative-based implementation of Kubernetes Container Runtime Interface",
     "language": "Go",
-    "star": "16"
+    "star": "17"
   },
   {
     "title": "99designs/gqlgen",
     "url": "https://github.com/99designs/gqlgen",
     "description": "go generate based graphql server library",
     "language": "Go",
-    "star": "27"
+    "star": "30"
   },
   {
     "title": "facebook/facebook-ios-sdk",
     "url": "https://github.com/facebook/facebook-ios-sdk",
     "description": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
     "language": "Swift",
-    "star": "7"
+    "star": "8"
   },
   {
     "title": "jgraph/drawio-desktop",
     "url": "https://github.com/jgraph/drawio-desktop",
     "description": "Official electron build of draw.io",
     "language": "Shell",
-    "star": "64"
+    "star": "67"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "59"
+    "star": "68"
   },
   {
     "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
     "language": "none",
-    "star": "15"
+    "star": "21"
   },
   {
     "title": "snipe/snipe-it",
@@ -165,7 +165,7 @@
     "url": "https://github.com/adiwajshing/Baileys",
     "description": "Lightweight full-featured WhatsApp Web + Multi-Device API",
     "language": "JavaScript",
-    "star": "11"
+    "star": "17"
   },
   {
     "title": "Textualize/textual",
