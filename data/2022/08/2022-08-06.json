@@ -1,0 +1,170 @@
+[
+  {
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "language": "TypeScript",
+    "star": "554"
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "description": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "110"
+  },
+  {
+    "title": "moyix/fauxpilot",
+    "url": "https://github.com/moyix/fauxpilot",
+    "description": "FauxPilot - an open-source GitHub Copilot server",
+    "language": "Python",
+    "star": "584"
+  },
+  {
+    "title": "juliocesarfort/public-pentesting-reports",
+    "url": "https://github.com/juliocesarfort/public-pentesting-reports",
+    "description": "Curated list of public penetration test reports released by several consulting firms and academic security groups",
+    "language": "CSS",
+    "star": "46"
+  },
+  {
+    "title": "last-byte/PersistenceSniper",
+    "url": "https://github.com/last-byte/PersistenceSniper",
+    "description": "Powershell script that can be used by Blue Teams, Incident Responders and System Administrators to hunt persistences implanted in Windows machines.",
+    "language": "PowerShell",
+    "star": "82"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "language": "JavaScript",
+    "star": "37"
+  },
+  {
+    "title": "NVIDIAGameWorks/kaolin-wisp",
+    "url": "https://github.com/NVIDIAGameWorks/kaolin-wisp",
+    "description": "NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).",
+    "language": "Python",
+    "star": "104"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a developer in 2022",
+    "language": "TypeScript",
+    "star": "239"
+  },
+  {
+    "title": "pesser/stable-diffusion",
+    "url": "https://github.com/pesser/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "15"
+  },
+  {
+    "title": "elastic/protections-artifacts",
+    "url": "https://github.com/elastic/protections-artifacts",
+    "description": "Elastic Security detection content for Endpoint",
+    "language": "YARA",
+    "star": "65"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "121"
+  },
+  {
+    "title": "pratikratadiya/awesome-ml-internships",
+    "url": "https://github.com/pratikratadiya/awesome-ml-internships",
+    "description": "List of companies offering Machine learning and Data Science internships",
+    "language": "none",
+    "star": "35"
+  },
+  {
+    "title": "kingToolbox/WindTerm",
+    "url": "https://github.com/kingToolbox/WindTerm",
+    "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.",
+    "language": "C",
+    "star": "132"
+  },
+  {
+    "title": "livebud/bud",
+    "url": "https://github.com/livebud/bud",
+    "description": "The Full-Stack Web Framework for Go",
+    "language": "JavaScript",
+    "star": "60"
+  },
+  {
+    "title": "pbatard/rufus",
+    "url": "https://github.com/pbatard/rufus",
+    "description": "The Reliable USB Formatting Utility",
+    "language": "C",
+    "star": "34"
+  },
+  {
+    "title": "jina-ai/discoart",
+    "url": "https://github.com/jina-ai/discoart",
+    "description": "Create Disco Diffusion artworks in one line",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "NVlabs/instant-ngp",
+    "url": "https://github.com/NVlabs/instant-ngp",
+    "description": "Instant neural graphics primitives: lightning fast NeRF and more",
+    "language": "Cuda",
+    "star": "31"
+  },
+  {
+    "title": "valinet/ExplorerPatcher",
+    "url": "https://github.com/valinet/ExplorerPatcher",
+    "description": "This project aims to enhance the working environment on Windows",
+    "language": "C",
+    "star": "29"
+  },
+  {
+    "title": "google/paranoid_crypto",
+    "url": "https://github.com/google/paranoid_crypto",
+    "description": "",
+    "language": "Python",
+    "star": "63"
+  },
+  {
+    "title": "facebookresearch/ParlAI",
+    "url": "https://github.com/facebookresearch/ParlAI",
+    "description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
+    "language": "Python",
+    "star": "41"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "114"
+  },
+  {
+    "title": "acorn-io/acorn",
+    "url": "https://github.com/acorn-io/acorn",
+    "description": "A simple application deployment framework for Kubernetes",
+    "language": "Go",
+    "star": "30"
+  },
+  {
+    "title": "Crepe-Inc/CrepeSR",
+    "url": "https://github.com/Crepe-Inc/CrepeSR",
+    "description": "SR",
+    "language": "TypeScript",
+    "star": "46"
+  }
+]
