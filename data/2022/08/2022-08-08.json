@@ -11,42 +11,42 @@
     "url": "https://github.com/utmapp/UTM",
     "description": "Virtual machines for iOS and macOS",
     "language": "Swift",
-    "star": "298"
+    "star": "300"
   },
   {
     "title": "NVIDIAGameWorks/kaolin-wisp",
     "url": "https://github.com/NVIDIAGameWorks/kaolin-wisp",
     "description": "NVIDIA Kaolin Wisp is a PyTorch library powered by NVIDIA Kaolin Core to work with neural fields (including NeRFs, NGLOD, instant-ngp and VQAD).",
     "language": "Python",
-    "star": "83"
+    "star": "81"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "144"
+    "star": "148"
   },
   {
     "title": "jina-ai/discoart",
     "url": "https://github.com/jina-ai/discoart",
     "description": "Create Disco Diffusion artworks in one line",
     "language": "Python",
-    "star": "321"
+    "star": "315"
   },
   {
     "title": "martinshkreli/models",
     "url": "https://github.com/martinshkreli/models",
     "description": "stock market models - have fun",
     "language": "none",
-    "star": "65"
+    "star": "69"
   },
   {
     "title": "facebookresearch/ParlAI",
     "url": "https://github.com/facebookresearch/ParlAI",
     "description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
     "language": "Python",
-    "star": "62"
+    "star": "104"
   },
   {
     "title": "KalleHallden/exer_log",
@@ -67,14 +67,14 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "255"
+    "star": "267"
   },
   {
     "title": "moyix/fauxpilot",
     "url": "https://github.com/moyix/fauxpilot",
     "description": "FauxPilot - an open-source GitHub Copilot server",
     "language": "Python",
-    "star": "455"
+    "star": "457"
   },
   {
     "title": "josejesusguzman/acordeon-az500-innoovaccion",
@@ -88,14 +88,14 @@
     "url": "https://github.com/adiwajshing/Baileys",
     "description": "Lightweight full-featured WhatsApp Web + Multi-Device API",
     "language": "JavaScript",
-    "star": "43"
+    "star": "45"
   },
   {
     "title": "qmk/qmk_firmware",
     "url": "https://github.com/qmk/qmk_firmware",
     "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
     "language": "C",
-    "star": "32"
+    "star": "31"
   },
   {
     "title": "valinet/ExplorerPatcher",
@@ -109,14 +109,14 @@
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "188"
+    "star": "186"
   },
   {
     "title": "lucidrains/imagen-pytorch",
     "url": "https://github.com/lucidrains/imagen-pytorch",
     "description": "Implementation of Imagen, Google's Text-to-Image Neural Network, in Pytorch",
     "language": "Python",
-    "star": "98"
+    "star": "94"
   },
   {
     "title": "Womsxd/AutoMihoyoBBS",
@@ -130,48 +130,48 @@
     "url": "https://github.com/getify/You-Dont-Know-JS",
     "description": "A book series on JavaScript. @YDKJS on twitter.",
     "language": "none",
-    "star": "112"
+    "star": "107"
   },
   {
     "title": "coolsnowwolf/lede",
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's OpenWrt source",
     "language": "C",
-    "star": "25"
+    "star": "24"
   },
   {
     "title": "google-research/multinerf",
     "url": "https://github.com/google-research/multinerf",
     "description": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
     "language": "Python",
-    "star": "69"
+    "star": "72"
   },
   {
     "title": "termux/termux-app",
     "url": "https://github.com/termux/termux-app",
     "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
     "language": "Java",
-    "star": "110"
+    "star": "118"
   },
   {
     "title": "godotengine/godot",
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "119"
+    "star": "113"
   },
   {
     "title": "rust-lang/rust-analyzer",
     "url": "https://github.com/rust-lang/rust-analyzer",
     "description": "A Rust compiler front-end for IDEs",
     "language": "Rust",
-    "star": "58"
+    "star": "59"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "145"
+    "star": "150"
   }
 ]
