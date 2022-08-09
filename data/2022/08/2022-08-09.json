@@ -4,35 +4,35 @@
     "url": "https://github.com/toeverything/AFFiNE",
     "description": "There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
     "language": "TypeScript",
-    "star": "889"
+    "star": "892"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "340"
+    "star": "330"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "259"
+    "star": "277"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "179"
+    "star": "178"
   },
   {
     "title": "MarlinFirmware/Marlin",
     "url": "https://github.com/MarlinFirmware/Marlin",
     "description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
     "language": "C++",
-    "star": "43"
+    "star": "50"
   },
   {
     "title": "Dreamacro/clash",
@@ -60,84 +60,84 @@
     "url": "https://github.com/MatrixTM/MHDDoS",
     "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
     "language": "Python",
-    "star": "209"
+    "star": "198"
   },
   {
     "title": "t3-oss/create-t3-app",
     "url": "https://github.com/t3-oss/create-t3-app",
     "description": "Quickest way to start a new web app with full stack typesafety",
     "language": "TypeScript",
-    "star": "156"
+    "star": "174"
   },
   {
     "title": "punk-security/dnsReaper",
     "url": "https://github.com/punk-security/dnsReaper",
     "description": "dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!",
     "language": "Python",
-    "star": "129"
+    "star": "135"
   },
   {
     "title": "juliocesarfort/public-pentesting-reports",
     "url": "https://github.com/juliocesarfort/public-pentesting-reports",
     "description": "Curated list of public penetration test reports released by several consulting firms and academic security groups",
     "language": "CSS",
-    "star": "89"
+    "star": "94"
   },
   {
     "title": "facebookresearch/ParlAI",
     "url": "https://github.com/facebookresearch/ParlAI",
     "description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.",
     "language": "Python",
-    "star": "86"
+    "star": "89"
   },
   {
     "title": "utmapp/UTM",
     "url": "https://github.com/utmapp/UTM",
     "description": "Virtual machines for iOS and macOS",
     "language": "Swift",
-    "star": "137"
+    "star": "139"
   },
   {
     "title": "theboy181/switch-ptchtxt-mods",
     "url": "https://github.com/theboy181/switch-ptchtxt-mods",
     "description": "",
     "language": "none",
-    "star": "22"
+    "star": "21"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
     "language": "JavaScript",
-    "star": "113"
+    "star": "125"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "73"
+    "star": "81"
   },
   {
     "title": "josephmisiti/awesome-machine-learning",
     "url": "https://github.com/josephmisiti/awesome-machine-learning",
     "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "language": "Python",
-    "star": "114"
+    "star": "122"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "120"
+    "star": "117"
   },
   {
     "title": "jina-ai/discoart",
     "url": "https://github.com/jina-ai/discoart",
     "description": "Create Disco Diffusion artworks in one line",
     "language": "Python",
-    "star": "192"
+    "star": "189"
   },
   {
     "title": "trickest/cve",
@@ -158,20 +158,20 @@
     "url": "https://github.com/hyprwm/Hyprland",
     "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
     "language": "C++",
-    "star": "91"
+    "star": "92"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "241"
+    "star": "234"
   },
   {
     "title": "moyix/fauxpilot",
     "url": "https://github.com/moyix/fauxpilot",
     "description": "FauxPilot - an open-source GitHub Copilot server",
     "language": "Python",
-    "star": "311"
+    "star": "314"
   }
 ]
