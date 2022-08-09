@@ -4,28 +4,28 @@
     "url": "https://github.com/toeverything/AFFiNE",
     "description": "There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
     "language": "TypeScript",
-    "star": "892"
+    "star": "884"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "330"
+    "star": "360"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "277"
+    "star": "278"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "178"
+    "star": "187"
   },
   {
     "title": "MarlinFirmware/Marlin",
@@ -39,35 +39,35 @@
     "url": "https://github.com/Dreamacro/clash",
     "description": "A rule-based tunnel in Go.",
     "language": "Go",
-    "star": "103"
+    "star": "113"
   },
   {
     "title": "arthurspk/guiadevbrasil",
     "url": "https://github.com/arthurspk/guiadevbrasil",
     "description": "GUIA EXTENSO DE PROGRAMAÇÃO:",
     "language": "none",
-    "star": "73"
+    "star": "72"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "187"
+    "star": "188"
   },
   {
     "title": "MatrixTM/MHDDoS",
     "url": "https://github.com/MatrixTM/MHDDoS",
     "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
     "language": "Python",
-    "star": "198"
+    "star": "221"
   },
   {
     "title": "t3-oss/create-t3-app",
     "url": "https://github.com/t3-oss/create-t3-app",
     "description": "Quickest way to start a new web app with full stack typesafety",
     "language": "TypeScript",
-    "star": "174"
+    "star": "177"
   },
   {
     "title": "punk-security/dnsReaper",
@@ -81,7 +81,7 @@
     "url": "https://github.com/juliocesarfort/public-pentesting-reports",
     "description": "Curated list of public penetration test reports released by several consulting firms and academic security groups",
     "language": "CSS",
-    "star": "91"
+    "star": "89"
   },
   {
     "title": "facebookresearch/ParlAI",
@@ -95,49 +95,49 @@
     "url": "https://github.com/utmapp/UTM",
     "description": "Virtual machines for iOS and macOS",
     "language": "Swift",
-    "star": "139"
+    "star": "140"
   },
   {
     "title": "theboy181/switch-ptchtxt-mods",
     "url": "https://github.com/theboy181/switch-ptchtxt-mods",
     "description": "",
     "language": "none",
-    "star": "21"
+    "star": "24"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
     "language": "JavaScript",
-    "star": "125"
+    "star": "127"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "81"
+    "star": "84"
   },
   {
     "title": "josephmisiti/awesome-machine-learning",
     "url": "https://github.com/josephmisiti/awesome-machine-learning",
     "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "language": "Python",
-    "star": "122"
+    "star": "123"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "117"
+    "star": "114"
   },
   {
     "title": "jina-ai/discoart",
     "url": "https://github.com/jina-ai/discoart",
     "description": "Create Disco Diffusion artworks in one line",
     "language": "Python",
-    "star": "188"
+    "star": "186"
   },
   {
     "title": "trickest/cve",
@@ -151,27 +151,27 @@
     "url": "https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes",
     "description": "Notes about courses Dive into Deep Learning by Mu Li",
     "language": "Jupyter Notebook",
-    "star": "73"
+    "star": "74"
   },
   {
     "title": "hyprwm/Hyprland",
     "url": "https://github.com/hyprwm/Hyprland",
     "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
     "language": "C++",
-    "star": "92"
+    "star": "102"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "234"
+    "star": "228"
   },
   {
     "title": "moyix/fauxpilot",
     "url": "https://github.com/moyix/fauxpilot",
     "description": "FauxPilot - an open-source GitHub Copilot server",
     "language": "Python",
-    "star": "314"
+    "star": "291"
   }
 ]
