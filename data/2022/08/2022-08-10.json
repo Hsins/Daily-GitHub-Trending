@@ -1,0 +1,177 @@
+[
+  {
+    "title": "pacocoursey/cmdk",
+    "url": "https://github.com/pacocoursey/cmdk",
+    "description": "Fast, unstyled command menu React component.",
+    "language": "TypeScript",
+    "star": "376"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "102"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "description": "These are the best resources for System Design on the Internet",
+    "language": "none",
+    "star": "56"
+  },
+  {
+    "title": "Alcibiades-Capital/mev_bundle_generator",
+    "url": "https://github.com/Alcibiades-Capital/mev_bundle_generator",
+    "description": "A MEV bundle generator written in Rust",
+    "language": "Rust",
+    "star": "32"
+  },
+  {
+    "title": "craftzdog/dotfiles-public",
+    "url": "https://github.com/craftzdog/dotfiles-public",
+    "description": "My personal dotfiles",
+    "language": "Lua",
+    "star": "49"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "language": "Haskell",
+    "star": "6"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "168"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "language": "Python",
+    "star": "237"
+  },
+  {
+    "title": "onekey-sec/unblob",
+    "url": "https://github.com/onekey-sec/unblob",
+    "description": "Extract files from any kind of container formats",
+    "language": "Python",
+    "star": "100"
+  },
+  {
+    "title": "rad9800/TamperingSyscalls",
+    "url": "https://github.com/rad9800/TamperingSyscalls",
+    "description": "",
+    "language": "C++",
+    "star": "41"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "354"
+  },
+  {
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "language": "TypeScript",
+    "star": "871"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "language": "Jupyter Notebook",
+    "star": "258"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "language": "JavaScript",
+    "star": "120"
+  },
+  {
+    "title": "duckdb/duckdb",
+    "url": "https://github.com/duckdb/duckdb",
+    "description": "DuckDB is an in-process SQL OLAP Database Management System",
+    "language": "C++",
+    "star": "42"
+  },
+  {
+    "title": "RalfJung/minirust",
+    "url": "https://github.com/RalfJung/minirust",
+    "description": "A precise specification for \"Rust lite / MIR plus\"",
+    "language": "none",
+    "star": "43"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "description": "The Metadata Platform for the Modern Data Stack",
+    "language": "Java",
+    "star": "7"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "description": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies. An increasing number of SOTA Quant research works/papers are released in Qlib.",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "description": "🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "language": "Jupyter Notebook",
+    "star": "95"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "272"
+  },
+  {
+    "title": "leochen-g/wechat-assistant-pro",
+    "url": "https://github.com/leochen-g/wechat-assistant-pro",
+    "description": "智能微秘书客户端，搭配",
+    "language": "JavaScript",
+    "star": "11"
+  },
+  {
+    "title": "openairplay/airplay2-receiver",
+    "url": "https://github.com/openairplay/airplay2-receiver",
+    "description": "AirPlay 2 Receiver - Python implementation",
+    "language": "Python",
+    "star": "73"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "50"
+  },
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "description": "Build faster websites with Astro's next-gen island architecture 🏝✨",
+    "language": "TypeScript",
+    "star": "749"
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "description": "⚡️ Express inspired web framework written in Go",
+    "language": "Go",
+    "star": "32"
+  }
+]
