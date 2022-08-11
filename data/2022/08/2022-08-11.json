@@ -4,14 +4,14 @@
     "url": "https://github.com/withastro/astro",
     "description": "Build faster websites with Astro's next-gen island architecture 🏝✨",
     "language": "TypeScript",
-    "star": "585"
+    "star": "786"
   },
   {
     "title": "novuhq/novu",
     "url": "https://github.com/novuhq/novu",
     "description": "🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...",
     "language": "TypeScript",
-    "star": "178"
+    "star": "141"
   },
   {
     "title": "labmlai/annotated_deep_learning_paper_implementations",
@@ -39,7 +39,7 @@
     "url": "https://github.com/dragonflydb/dragonfly",
     "description": "A modern replacement for Redis and Memcached",
     "language": "C++",
-    "star": "161"
+    "star": "124"
   },
   {
     "title": "craftzdog/dotfiles-public",
@@ -53,14 +53,14 @@
     "url": "https://github.com/Baiyuetribe/paper2gui",
     "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
     "language": "Jupyter Notebook",
-    "star": "475"
+    "star": "257"
   },
   {
     "title": "eugeneyan/applied-ml",
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "180"
+    "star": "179"
   },
   {
     "title": "microsoft/AI-For-Beginners",
@@ -74,14 +74,14 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "265"
+    "star": "254"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "124"
+    "star": "155"
   },
   {
     "title": "punk-security/dnsReaper",
@@ -102,14 +102,14 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "337"
+    "star": "313"
   },
   {
     "title": "josephmisiti/awesome-machine-learning",
     "url": "https://github.com/josephmisiti/awesome-machine-learning",
     "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
     "language": "Python",
-    "star": "33"
+    "star": "40"
   },
   {
     "title": "dotnet/aspnetcore",
@@ -123,14 +123,14 @@
     "url": "https://github.com/curl/curl",
     "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",
     "language": "C",
-    "star": "49"
+    "star": "23"
   },
   {
     "title": "datahub-project/datahub",
     "url": "https://github.com/datahub-project/datahub",
     "description": "The Metadata Platform for the Modern Data Stack",
     "language": "Java",
-    "star": "17"
+    "star": "36"
   },
   {
     "title": "imbushuo/EnergyStar",
@@ -172,6 +172,6 @@
     "url": "https://github.com/solidjs/solid",
     "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "language": "TypeScript",
-    "star": "84"
+    "star": "59"
   }
 ]
