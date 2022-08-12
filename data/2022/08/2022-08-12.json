@@ -11,35 +11,35 @@
     "url": "https://github.com/ange-yaghi/engine-sim",
     "description": "Combustion engine simulator that generates realistic audio.",
     "language": "C++",
-    "star": "748"
+    "star": "739"
   },
   {
     "title": "withastro/astro",
     "url": "https://github.com/withastro/astro",
     "description": "Build faster websites with Astro's next-gen island architecture 🏝✨",
     "language": "TypeScript",
-    "star": "542"
+    "star": "552"
   },
   {
     "title": "craftzdog/dotfiles-public",
     "url": "https://github.com/craftzdog/dotfiles-public",
     "description": "My personal dotfiles",
     "language": "Lua",
-    "star": "173"
+    "star": "150"
   },
   {
     "title": "dragonflydb/dragonfly",
     "url": "https://github.com/dragonflydb/dragonfly",
     "description": "A modern replacement for Redis and Memcached",
     "language": "C++",
-    "star": "176"
+    "star": "236"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "274"
+    "star": "253"
   },
   {
     "title": "microsoft/fluentui-emoji",
@@ -67,7 +67,7 @@
     "url": "https://github.com/Baiyuetribe/paper2gui",
     "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
     "language": "Jupyter Notebook",
-    "star": "472"
+    "star": "449"
   },
   {
     "title": "Unity-Technologies/com.unity.demoteam.hair",
@@ -88,21 +88,21 @@
     "url": "https://github.com/novuhq/novu",
     "description": "🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...",
     "language": "TypeScript",
-    "star": "250"
+    "star": "368"
   },
   {
     "title": "MatrixTM/MHDDoS",
     "url": "https://github.com/MatrixTM/MHDDoS",
     "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
     "language": "Python",
-    "star": "213"
+    "star": "215"
   },
   {
     "title": "datahub-project/datahub",
     "url": "https://github.com/datahub-project/datahub",
     "description": "The Metadata Platform for the Modern Data Stack",
     "language": "Java",
-    "star": "82"
+    "star": "83"
   },
   {
     "title": "leonardomso/33-js-concepts",
@@ -123,7 +123,7 @@
     "url": "https://github.com/GetStream/whatsApp-clone-compose",
     "description": "📱 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose.",
     "language": "Kotlin",
-    "star": "47"
+    "star": "46"
   },
   {
     "title": "dotnet/docs",
@@ -137,7 +137,7 @@
     "url": "https://github.com/Tencent/ncnn",
     "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
     "language": "C++",
-    "star": "12"
+    "star": "27"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
@@ -165,7 +165,7 @@
     "url": "https://github.com/openvinotoolkit/openvino",
     "description": "OpenVINO™ Toolkit repository",
     "language": "C++",
-    "star": "4"
+    "star": "3"
   },
   {
     "title": "apache/doris",
