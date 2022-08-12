@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "460"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "description": "Combustion engine simulator that generates realistic audio.",
+    "language": "C++",
+    "star": "750"
+  },
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "description": "Build faster websites with Astro's next-gen island architecture 🏝✨",
+    "language": "TypeScript",
+    "star": "541"
+  },
+  {
+    "title": "craftzdog/dotfiles-public",
+    "url": "https://github.com/craftzdog/dotfiles-public",
+    "description": "My personal dotfiles",
+    "language": "Lua",
+    "star": "162"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "description": "A modern replacement for Redis and Memcached",
+    "language": "C++",
+    "star": "202"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "276"
+  },
+  {
+    "title": "microsoft/fluentui-emoji",
+    "url": "https://github.com/microsoft/fluentui-emoji",
+    "description": "",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "ocsf/ocsf-schema",
+    "url": "https://github.com/ocsf/ocsf-schema",
+    "description": "OCSF Schema",
+    "language": "none",
+    "star": "90"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "The automation tower defense RTS",
+    "language": "Java",
+    "star": "202"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+    "language": "Jupyter Notebook",
+    "star": "466"
+  },
+  {
+    "title": "Unity-Technologies/com.unity.demoteam.hair",
+    "url": "https://github.com/Unity-Technologies/com.unity.demoteam.hair",
+    "description": "An integrated solution for authoring / importing / simulating / rendering strand-based hair in Unity.",
+    "language": "C#",
+    "star": "31"
+  },
+  {
+    "title": "redballoonsecurity/ofrak",
+    "url": "https://github.com/redballoonsecurity/ofrak",
+    "description": "OFRAK: unpack, modify, and repack binaries.",
+    "language": "Python",
+    "star": "163"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "description": "🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...",
+    "language": "TypeScript",
+    "star": "211"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+    "language": "Python",
+    "star": "213"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "description": "The Metadata Platform for the Modern Data Stack",
+    "language": "Java",
+    "star": "82"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 JavaScript concepts every developer should know.",
+    "language": "JavaScript",
+    "star": "23"
+  },
+  {
+    "title": "dotnet/efcore",
+    "url": "https://github.com/dotnet/efcore",
+    "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
+    "language": "C#",
+    "star": "8"
+  },
+  {
+    "title": "GetStream/whatsApp-clone-compose",
+    "url": "https://github.com/GetStream/whatsApp-clone-compose",
+    "description": "📱 WhatsApp clone project demonstrates modern Android development built with Jetpack Compose and Stream Chat SDK for Compose.",
+    "language": "Kotlin",
+    "star": "47"
+  },
+  {
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "description": "This repository contains .NET Documentation.",
+    "language": "Dockerfile",
+    "star": "7"
+  },
+  {
+    "title": "Tencent/ncnn",
+    "url": "https://github.com/Tencent/ncnn",
+    "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+    "language": "C++",
+    "star": "12"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "6"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog",
+    "description": "冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "11"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "description": "OpenVINO™ Toolkit repository",
+    "language": "C++",
+    "star": "4"
+  },
+  {
+    "title": "apache/doris",
+    "url": "https://github.com/apache/doris",
+    "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
+    "language": "C++",
+    "star": "45"
+  }
+]
