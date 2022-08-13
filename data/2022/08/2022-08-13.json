@@ -11,21 +11,21 @@
     "url": "https://github.com/redballoonsecurity/ofrak",
     "description": "OFRAK: unpack, modify, and repack binaries.",
     "language": "Python",
-    "star": "159"
+    "star": "158"
   },
   {
     "title": "novuhq/novu",
     "url": "https://github.com/novuhq/novu",
     "description": "🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...",
     "language": "TypeScript",
-    "star": "667"
+    "star": "666"
   },
   {
     "title": "juicedata/juicefs",
     "url": "https://github.com/juicedata/juicefs",
     "description": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
     "language": "Go",
-    "star": "86"
+    "star": "83"
   },
   {
     "title": "CompVis/stable-diffusion",
@@ -39,14 +39,14 @@
     "url": "https://github.com/withastro/astro",
     "description": "Build faster websites with Astro's next-gen island architecture 🏝✨",
     "language": "TypeScript",
-    "star": "482"
+    "star": "465"
   },
   {
     "title": "ange-yaghi/engine-sim",
     "url": "https://github.com/ange-yaghi/engine-sim",
     "description": "Combustion engine simulator that generates realistic audio.",
     "language": "C++",
-    "star": "613"
+    "star": "502"
   },
   {
     "title": "dragonflydb/dragonfly",
@@ -67,7 +67,7 @@
     "url": "https://github.com/vandadnp/flutter-tips-and-tricks",
     "description": "A Collection of Flutter and Dart Tips and Tricks",
     "language": "Dart",
-    "star": "38"
+    "star": "57"
   },
   {
     "title": "microsoft/fluentui-emoji",
@@ -88,7 +88,7 @@
     "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
     "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
     "language": "Jupyter Notebook",
-    "star": "24"
+    "star": "25"
   },
   {
     "title": "Baiyuetribe/paper2gui",
@@ -123,21 +123,21 @@
     "url": "https://github.com/FreeTubeApp/FreeTube",
     "description": "An Open Source YouTube app for privacy",
     "language": "JavaScript",
-    "star": "9"
+    "star": "53"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "18"
+    "star": "19"
   },
   {
     "title": "emrecancubukcu/Terrain-Decorator",
     "url": "https://github.com/emrecancubukcu/Terrain-Decorator",
     "description": "lightweight terrain tool for unity3d",
     "language": "C#",
-    "star": "43"
+    "star": "39"
   },
   {
     "title": "TheAlgorithms/Python",
@@ -151,7 +151,7 @@
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "33"
+    "star": "31"
   },
   {
     "title": "NvChad/NvChad",
