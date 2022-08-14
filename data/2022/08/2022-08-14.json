@@ -11,7 +11,7 @@
     "url": "https://github.com/CompVis/stable-diffusion",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "311"
+    "star": "310"
   },
   {
     "title": "pittcsc/Summer2023-Internships",
@@ -32,7 +32,7 @@
     "url": "https://github.com/roc-lang/roc",
     "description": "Roc is a language for making delightful software.",
     "language": "Rust",
-    "star": "143"
+    "star": "134"
   },
   {
     "title": "TheAlgorithms/Python",
@@ -81,14 +81,14 @@
     "url": "https://github.com/craftzdog/dotfiles-public",
     "description": "My personal dotfiles",
     "language": "Lua",
-    "star": "52"
+    "star": "38"
   },
   {
     "title": "redballoonsecurity/ofrak",
     "url": "https://github.com/redballoonsecurity/ofrak",
     "description": "OFRAK: unpack, modify, and repack binaries.",
     "language": "Python",
-    "star": "152"
+    "star": "157"
   },
   {
     "title": "azmatt/chasing_your_tail",
@@ -172,6 +172,6 @@
     "url": "https://github.com/hakimel/reveal.js",
     "description": "The HTML Presentation Framework",
     "language": "JavaScript",
-    "star": "16"
+    "star": "72"
   }
 ]
