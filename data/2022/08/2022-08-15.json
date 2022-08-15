@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "349"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "description": "Offline build planner for Path of Exile.",
+    "language": "Lua",
+    "star": "9"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "108"
+  },
+  {
+    "title": "photonstorm/phaser",
+    "url": "https://github.com/photonstorm/phaser",
+    "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+    "language": "JavaScript",
+    "star": "9"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "description": "Bitcoin Core integration/staging tree",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "pintariching/rustle",
+    "url": "https://github.com/pintariching/rustle",
+    "description": "Svelte compiler rewritten in Rust",
+    "language": "Rust",
+    "star": "61"
+  },
+  {
+    "title": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "url": "https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra",
+    "description": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
+    "language": "TeX",
+    "star": "194"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "50"
+  },
+  {
+    "title": "q164749/weixin",
+    "url": "https://github.com/q164749/weixin",
+    "description": "微信公众号推送模板消息",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "language": "Rust",
+    "star": "19"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "description": "The HTML Presentation Framework",
+    "language": "JavaScript",
+    "star": "54"
+  },
+  {
+    "title": "redballoonsecurity/ofrak",
+    "url": "https://github.com/redballoonsecurity/ofrak",
+    "description": "OFRAK: unpack, modify, and repack binaries.",
+    "language": "Python",
+    "star": "132"
+  },
+  {
+    "title": "erg-lang/erg",
+    "url": "https://github.com/erg-lang/erg",
+    "description": "A Python-compatible statically typed language",
+    "language": "Rust",
+    "star": "378"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "description": "Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+    "language": "TypeScript",
+    "star": "29"
+  },
+  {
+    "title": "mikf/gallery-dl",
+    "url": "https://github.com/mikf/gallery-dl",
+    "description": "Command-line program to download image galleries and collections from several image hosting sites",
+    "language": "Python",
+    "star": "21"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "description": "A cross-platform, OpenGL terminal emulator.",
+    "language": "Rust",
+    "star": "32"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "star": "54"
+  },
+  {
+    "title": "awesomedata/awesome-public-datasets",
+    "url": "https://github.com/awesomedata/awesome-public-datasets",
+    "description": "A topic-centric list of HQ open datasets.",
+    "language": "none",
+    "star": "50"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "description": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 JavaScript concepts every developer should know.",
+    "language": "JavaScript",
+    "star": "87"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "description": "Free and open source manga reader for Android.",
+    "language": "Kotlin",
+    "star": "27"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "JavaScript",
+    "star": "13"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "description": "Investment Research for Everyone, Anywhere.",
+    "language": "Python",
+    "star": "150"
+  },
+  {
+    "title": "aiogram/aiogram",
+    "url": "https://github.com/aiogram/aiogram",
+    "description": "Is a pretty simple and fully asynchronous framework for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.",
+    "language": "Python",
+    "star": "4"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "language": "C",
+    "star": "8"
+  }
+]
