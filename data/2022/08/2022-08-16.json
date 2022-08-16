@@ -1,0 +1,170 @@
+[
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "552"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "description": "Investment Research for Everyone, Anywhere.",
+    "language": "Python",
+    "star": "169"
+  },
+  {
+    "title": "erg-lang/erg",
+    "url": "https://github.com/erg-lang/erg",
+    "description": "A Python-compatible statically typed language",
+    "language": "Rust",
+    "star": "327"
+  },
+  {
+    "title": "davidbombal/python-keylogger",
+    "url": "https://github.com/davidbombal/python-keylogger",
+    "description": "",
+    "language": "Python",
+    "star": "40"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "155"
+  },
+  {
+    "title": "labstack/echo",
+    "url": "https://github.com/labstack/echo",
+    "description": "High performance, minimalist Go web framework",
+    "language": "Go",
+    "star": "87"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "",
+    "language": "Shell",
+    "star": "94"
+  },
+  {
+    "title": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "url": "https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra",
+    "description": "Graphic notes on Gilbert Strang's \"Linear Algebra for Everyone\"",
+    "language": "TeX",
+    "star": "442"
+  },
+  {
+    "title": "notpresident35/learn-awesome-gamedev",
+    "url": "https://github.com/notpresident35/learn-awesome-gamedev",
+    "description": "A curated collection of game development resources",
+    "language": "none",
+    "star": "144"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "description": "The HTML Presentation Framework",
+    "language": "JavaScript",
+    "star": "220"
+  },
+  {
+    "title": "KULeuven-COSIC/Starlink-FI",
+    "url": "https://github.com/KULeuven-COSIC/Starlink-FI",
+    "description": "",
+    "language": "HTML",
+    "star": "59"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "description": "TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",
+    "language": "C",
+    "star": "16"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "description": "The next-gen web framework.",
+    "language": "TypeScript",
+    "star": "38"
+  },
+  {
+    "title": "juanfont/headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "description": "An open source, self-hosted implementation of the Tailscale control server",
+    "language": "Go",
+    "star": "177"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "description": "A collection of New Grad full time roles in SWE, Quant, and PM.",
+    "language": "none",
+    "star": "56"
+  },
+  {
+    "title": "adrianhajdin/project_hoobank",
+    "url": "https://github.com/adrianhajdin/project_hoobank",
+    "description": "Modern UI/UX website using React.js & Tailwind CSS",
+    "language": "JavaScript",
+    "star": "40"
+  },
+  {
+    "title": "tyranid/blackhat-usa-2022-demos",
+    "url": "https://github.com/tyranid/blackhat-usa-2022-demos",
+    "description": "Demos for the Blackhat USA 2022 talk \"Taking Kerberos to the Next Level\"",
+    "language": "PowerShell",
+    "star": "49"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "language": "Dart",
+    "star": "40"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated coding interview preparation materials for busy software engineers",
+    "language": "JavaScript",
+    "star": "80"
+  },
+  {
+    "title": "davidbombal/express-server-basic",
+    "url": "https://github.com/davidbombal/express-server-basic",
+    "description": "",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "description": "Collection of Summer 2023 tech internships!",
+    "language": "Python",
+    "star": "103"
+  },
+  {
+    "title": "containerd/containerd",
+    "url": "https://github.com/containerd/containerd",
+    "description": "An open and reliable container runtime",
+    "language": "Go",
+    "star": "14"
+  }
+]
