@@ -60,21 +60,21 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "163"
+    "star": "147"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (August 2022)",
     "language": "JavaScript",
-    "star": "189"
+    "star": "178"
   },
   {
     "title": "OpenBB-finance/OpenBBTerminal",
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone, Anywhere.",
     "language": "Python",
-    "star": "71"
+    "star": "65"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -88,35 +88,35 @@
     "url": "https://github.com/roboticcam/machine-learning-notes",
     "description": "My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides) 我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接",
     "language": "Jupyter Notebook",
-    "star": "61"
+    "star": "56"
   },
   {
     "title": "lydiahallie/javascript-questions",
     "url": "https://github.com/lydiahallie/javascript-questions",
     "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
     "language": "none",
-    "star": "149"
+    "star": "134"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "290"
+    "star": "275"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "299"
+    "star": "285"
   },
   {
     "title": "juanfont/headscale",
     "url": "https://github.com/juanfont/headscale",
     "description": "An open source, self-hosted implementation of the Tailscale control server",
     "language": "Go",
-    "star": "144"
+    "star": "143"
   },
   {
     "title": "sindresorhus/awesome",
@@ -137,7 +137,7 @@
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps",
     "language": "JavaScript",
-    "star": "26"
+    "star": "45"
   },
   {
     "title": "getify/You-Dont-Know-JS",
@@ -158,7 +158,7 @@
     "url": "https://github.com/Tencent/wujie",
     "description": "极致的微前端框架",
     "language": "TypeScript",
-    "star": "45"
+    "star": "36"
   },
   {
     "title": "projectdiscovery/nuclei",
