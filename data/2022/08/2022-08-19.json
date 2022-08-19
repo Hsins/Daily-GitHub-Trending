@@ -1,0 +1,177 @@
+[
+  {
+    "title": "blizzless/blizzless-diiis",
+    "url": "https://github.com/blizzless/blizzless-diiis",
+    "description": "Fully-functional open-source server implementation for Diablo 3",
+    "language": "C#",
+    "star": "27"
+  },
+  {
+    "title": "flashbots/mev-boost-relay",
+    "url": "https://github.com/flashbots/mev-boost-relay",
+    "description": "Flashbots Eth2/mev-boost relay",
+    "language": "Go",
+    "star": "27"
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "description": "Learn how to design systems at scale and prepare for system design interviews",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "58"
+  },
+  {
+    "title": "kifuan/helang",
+    "url": "https://github.com/kifuan/helang",
+    "description": "何语言，次世代赛博编程语言。",
+    "language": "Python",
+    "star": "393"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "description": "📙 Amazon Web Services — a practical guide",
+    "language": "Shell",
+    "star": "229"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "star": "22"
+  },
+  {
+    "title": "ravynsoft/ravynos",
+    "url": "https://github.com/ravynsoft/ravynos",
+    "description": "A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS)",
+    "language": "C",
+    "star": "244"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just✨ one command ✨",
+    "language": "Python",
+    "star": "26"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (August 2022)",
+    "language": "JavaScript",
+    "star": "190"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "39"
+  },
+  {
+    "title": "TimDettmers/bitsandbytes",
+    "url": "https://github.com/TimDettmers/bitsandbytes",
+    "description": "8-bit CUDA functions for PyTorch",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "286"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated coding interview preparation materials for busy software engineers",
+    "language": "JavaScript",
+    "star": "194"
+  },
+  {
+    "title": "didi/KnowStreaming",
+    "url": "https://github.com/didi/KnowStreaming",
+    "description": "一站式Apache Kafka管控平台",
+    "language": "Java",
+    "star": "59"
+  },
+  {
+    "title": "TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "url": "https://github.com/TCM-Course-Resources/Practical-Ethical-Hacking-Resources",
+    "description": "Compilation of Resources from TCM's Practical Ethical Hacking Udemy Course",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "JetBrains/intellij-community",
+    "url": "https://github.com/JetBrains/intellij-community",
+    "description": "IntelliJ IDEA Community Edition & IntelliJ Platform",
+    "language": "none",
+    "star": "7"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Roadmap to becoming a developer in 2022",
+    "language": "TypeScript",
+    "star": "200"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "The modern web developer’s platform",
+    "language": "TypeScript",
+    "star": "25"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "331"
+  },
+  {
+    "title": "mulaRahul/keyviz",
+    "url": "https://github.com/mulaRahul/keyviz",
+    "description": "Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ in real-time.",
+    "language": "Dart",
+    "star": "82"
+  },
+  {
+    "title": "Rubberduckycooly/Sonic-Mania-Decompilation",
+    "url": "https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation",
+    "description": "A complete decompilation of Sonic Mania (2017)",
+    "language": "C",
+    "star": "35"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "110"
+  }
+]
