@@ -4,7 +4,7 @@
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "46"
+    "star": "47"
   },
   {
     "title": "karanpratapsingh/system-design",
@@ -25,21 +25,21 @@
     "url": "https://github.com/supabase/supabase",
     "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
     "language": "TypeScript",
-    "star": "226"
+    "star": "250"
   },
   {
     "title": "blizzless/blizzless-diiis",
     "url": "https://github.com/blizzless/blizzless-diiis",
     "description": "Fully-functional open-source server implementation for Diablo 3",
     "language": "C#",
-    "star": "69"
+    "star": "81"
   },
   {
     "title": "fmtlib/fmt",
     "url": "https://github.com/fmtlib/fmt",
     "description": "A modern formatting library",
     "language": "C++",
-    "star": "81"
+    "star": "82"
   },
   {
     "title": "jbhuang0604/awesome-computer-vision",
@@ -60,7 +60,7 @@
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "75"
+    "star": "109"
   },
   {
     "title": "zinclabs/zinc",
@@ -81,7 +81,7 @@
     "url": "https://github.com/233boy/v2ray",
     "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
     "language": "Shell",
-    "star": "15"
+    "star": "10"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -95,7 +95,7 @@
     "url": "https://github.com/vitejs/vite",
     "description": "Next generation frontend tooling. It's fast!",
     "language": "TypeScript",
-    "star": "64"
+    "star": "65"
   },
   {
     "title": "arendst/Tasmota",
