@@ -1,0 +1,170 @@
+[
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "46"
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "description": "Learn how to design systems at scale and prepare for system design interviews",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "description": "The fastest way to build Svelte apps",
+    "language": "JavaScript",
+    "star": "25"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "226"
+  },
+  {
+    "title": "blizzless/blizzless-diiis",
+    "url": "https://github.com/blizzless/blizzless-diiis",
+    "description": "Fully-functional open-source server implementation for Diablo 3",
+    "language": "C#",
+    "star": "69"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "star": "81"
+  },
+  {
+    "title": "jbhuang0604/awesome-computer-vision",
+    "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+    "description": "A curated list of awesome computer vision resources",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "kifuan/helang",
+    "url": "https://github.com/kifuan/helang",
+    "description": "何语言，次世代赛博编程语言。",
+    "language": "Python",
+    "star": "370"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "75"
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "description": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Go",
+    "star": "119"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "JavaScript",
+    "star": "11"
+  },
+  {
+    "title": "233boy/v2ray",
+    "url": "https://github.com/233boy/v2ray",
+    "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
+    "language": "Shell",
+    "star": "14"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "137"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "description": "Next generation frontend tooling. It's fast!",
+    "language": "TypeScript",
+    "star": "64"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "star": "9"
+  },
+  {
+    "title": "duo001/evil.js",
+    "url": "https://github.com/duo001/evil.js",
+    "description": "Use with caution",
+    "language": "JavaScript",
+    "star": "81"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated coding interview preparation materials for busy software engineers",
+    "language": "JavaScript",
+    "star": "172"
+  },
+  {
+    "title": "AvaloniaUI/Avalonia",
+    "url": "https://github.com/AvaloniaUI/Avalonia",
+    "description": "A cross-platform UI framework for .NET",
+    "language": "C#",
+    "star": "19"
+  },
+  {
+    "title": "SeleniumHQ/docker-selenium",
+    "url": "https://github.com/SeleniumHQ/docker-selenium",
+    "description": "Docker images for Selenium Grid",
+    "language": "Shell",
+    "star": "5"
+  },
+  {
+    "title": "elebumm/RedditVideoMakerBot",
+    "url": "https://github.com/elebumm/RedditVideoMakerBot",
+    "description": "Create Reddit Videos with just✨ one command ✨",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "apache/kafka",
+    "url": "https://github.com/apache/kafka",
+    "description": "Mirror of Apache Kafka",
+    "language": "Java",
+    "star": "4"
+  },
+  {
+    "title": "jina-ai/jina",
+    "url": "https://github.com/jina-ai/jina",
+    "description": "Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "description": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "language": "Jupyter Notebook",
+    "star": "89"
+  }
+]
