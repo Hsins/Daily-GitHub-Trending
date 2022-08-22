@@ -4,28 +4,28 @@
     "url": "https://github.com/zinclabs/zinc",
     "description": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Go",
-    "star": "209"
+    "star": "208"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "A layer 1 for everyone!",
     "language": "Rust",
-    "star": "42"
+    "star": "36"
   },
   {
     "title": "airbnb/javascript",
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "135"
+    "star": "145"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "107"
+    "star": "108"
   },
   {
     "title": "ytdl-org/youtube-dl",
@@ -39,7 +39,7 @@
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "26"
+    "star": "28"
   },
   {
     "title": "supabase/supabase",
@@ -53,7 +53,7 @@
     "url": "https://github.com/jart/cosmopolitan",
     "description": "build-once run-anywhere c library",
     "language": "C",
-    "star": "48"
+    "star": "44"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -81,14 +81,14 @@
     "url": "https://github.com/ThrillQuks/Pitraix",
     "description": "Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR",
     "language": "Go",
-    "star": "63"
+    "star": "60"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "38"
+    "star": "43"
   },
   {
     "title": "gothinkster/realworld",
@@ -102,7 +102,7 @@
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "description": "⭐️ Companies that don't have a broken hiring process",
     "language": "JavaScript",
-    "star": "125"
+    "star": "124"
   },
   {
     "title": "karanpratapsingh/system-design",
@@ -137,14 +137,14 @@
     "url": "https://github.com/AvaloniaUI/Avalonia",
     "description": "A cross-platform UI framework for .NET",
     "language": "C#",
-    "star": "117"
+    "star": "118"
   },
   {
     "title": "arendst/Tasmota",
     "url": "https://github.com/arendst/Tasmota",
     "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
     "language": "C",
-    "star": "14"
+    "star": "10"
   },
   {
     "title": "android/nowinandroid",
