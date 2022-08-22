@@ -1,0 +1,177 @@
+[
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "description": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Go",
+    "star": "212"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "description": "A layer 1 for everyone!",
+    "language": "Rust",
+    "star": "43"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "145"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "110"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "26"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "166"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "description": "build-once run-anywhere c library",
+    "language": "C",
+    "star": "43"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "220"
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "description": "🗡️ Pokedex demonstrates modern Android development with Hilt, Material Motion, Coroutines, Flow, Jetpack (Room, ViewModel) based on MVVM architecture.",
+    "language": "Kotlin",
+    "star": "89"
+  },
+  {
+    "title": "CollabCodeTech/backend-challenges",
+    "url": "https://github.com/CollabCodeTech/backend-challenges",
+    "description": "A public list of open-source challenges from jobs around the world",
+    "language": "none",
+    "star": "57"
+  },
+  {
+    "title": "ThrillQuks/Pitraix",
+    "url": "https://github.com/ThrillQuks/Pitraix",
+    "description": "Modern Self-Modifying Cross-Platform Peer-to-Peer Botnet over TOR",
+    "language": "Go",
+    "star": "50"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "38"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "Shell",
+    "star": "103"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "star": "124"
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "description": "Learn how to design systems at scale and prepare for system design interviews",
+    "language": "none",
+    "star": "791"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "star": "81"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "description": "The Unified Machine Learning Framework",
+    "language": "Python",
+    "star": "53"
+  },
+  {
+    "title": "networkx/networkx",
+    "url": "https://github.com/networkx/networkx",
+    "description": "Network Analysis in Python",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "AvaloniaUI/Avalonia",
+    "url": "https://github.com/AvaloniaUI/Avalonia",
+    "description": "A cross-platform UI framework for .NET",
+    "language": "C#",
+    "star": "117"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "language": "C",
+    "star": "10"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "description": "A fully functional Android app built entirely with Kotlin and Jetpack Compose",
+    "language": "Kotlin",
+    "star": "88"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "description": "A rule-based tunnel in Go.",
+    "language": "Go",
+    "star": "37"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "164"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "star": "92"
+  }
+]
