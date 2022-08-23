@@ -1,0 +1,177 @@
+[
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "language": "Python",
+    "star": "379"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "994"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "star": "329"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "description": "All Algorithms implemented in Rust",
+    "language": "Rust",
+    "star": "390"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "249"
+  },
+  {
+    "title": "erwanjun/weixin_tuisong",
+    "url": "https://github.com/erwanjun/weixin_tuisong",
+    "description": "基于猪咪不是猪老哥制作的微信公众号推送教程",
+    "language": "TeX",
+    "star": "34"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "star": "139"
+  },
+  {
+    "title": "Idov31/Sandman",
+    "url": "https://github.com/Idov31/Sandman",
+    "description": "Sandman is a NTP based backdoor for red team engagements in hardened networks.",
+    "language": "C#",
+    "star": "59"
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design",
+    "description": "Learn how to design systems at scale and prepare for system design interviews",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "194"
+  },
+  {
+    "title": "opcodesio/log-viewer",
+    "url": "https://github.com/opcodesio/log-viewer",
+    "description": "Fast and easy-to-use Log Viewer for your Laravel application",
+    "language": "PHP",
+    "star": "95"
+  },
+  {
+    "title": "rahuldkjain/github-profile-readme-generator",
+    "url": "https://github.com/rahuldkjain/github-profile-readme-generator",
+    "description": "🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.",
+    "language": "JavaScript",
+    "star": "75"
+  },
+  {
+    "title": "heejkoo/Awesome-Diffusion-Models",
+    "url": "https://github.com/heejkoo/Awesome-Diffusion-Models",
+    "description": "A collection of resources and papers on Diffusion Models and Score-based Models, a darkhorse in the field of Generative Models",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "f2e-developer/chinese-f2e-developer",
+    "url": "https://github.com/f2e-developer/chinese-f2e-developer",
+    "description": "中国前端开发者。",
+    "language": "TypeScript",
+    "star": "92"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "199"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "231"
+  },
+  {
+    "title": "OffcierCia/DeFi-Developer-Road-Map",
+    "url": "https://github.com/OffcierCia/DeFi-Developer-Road-Map",
+    "description": "DeFi Developer roadmap is a curated Web3.0 Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks.",
+    "language": "none",
+    "star": "30"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "language": "Java",
+    "star": "13"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "63"
+  },
+  {
+    "title": "zephyrproject-rtos/zephyr",
+    "url": "https://github.com/zephyrproject-rtos/zephyr",
+    "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+    "language": "C",
+    "star": "10"
+  },
+  {
+    "title": "blacklanternsecurity/bbot",
+    "url": "https://github.com/blacklanternsecurity/bbot",
+    "description": "OSINT automation for hackers.",
+    "language": "Python",
+    "star": "92"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "description": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "language": "Jupyter Notebook",
+    "star": "56"
+  },
+  {
+    "title": "confluentinc/confluent-kafka-go",
+    "url": "https://github.com/confluentinc/confluent-kafka-go",
+    "description": "Confluent's Apache Kafka Golang client",
+    "language": "Go",
+    "star": "3"
+  },
+  {
+    "title": "sib-swiss/training-collection",
+    "url": "https://github.com/sib-swiss/training-collection",
+    "description": "Collection of bioinformatics training materials",
+    "language": "none",
+    "star": "15"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "13"
+  }
+]
