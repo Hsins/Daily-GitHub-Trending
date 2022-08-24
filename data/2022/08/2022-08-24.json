@@ -1,0 +1,177 @@
+[
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "star": "1"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "language": "Python",
+    "star": "459"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "CyberAgentGameEntertainment/UnityPerformanceTuningBible",
+    "url": "https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible",
+    "description": "Unity Performance Tuning knowledge book",
+    "language": "C++",
+    "star": "64"
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "description": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Go",
+    "star": "155"
+  },
+  {
+    "title": "rinongal/textual_inversion",
+    "url": "https://github.com/rinongal/textual_inversion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "36"
+  },
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "description": "给别人家的女朋友发早安",
+    "language": "Python",
+    "star": "72"
+  },
+  {
+    "title": "Markakd/DirtyCred",
+    "url": "https://github.com/Markakd/DirtyCred",
+    "description": "",
+    "language": "LLVM",
+    "star": "62"
+  },
+  {
+    "title": "headwaymaps/headway",
+    "url": "https://github.com/headwaymaps/headway",
+    "description": "Self-hostable maps stack, powered by OpenStreetMap.",
+    "language": "Vue",
+    "star": "143"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "description": "All Algorithms implemented in Rust",
+    "language": "Rust",
+    "star": "392"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "250"
+  },
+  {
+    "title": "berthubert/googerteller",
+    "url": "https://github.com/berthubert/googerteller",
+    "description": "audible feedback on just how much your browsing feeds into google",
+    "language": "C++",
+    "star": "219"
+  },
+  {
+    "title": "facebookresearch/esm",
+    "url": "https://github.com/facebookresearch/esm",
+    "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "kubescape/kubescape",
+    "url": "https://github.com/kubescape/kubescape",
+    "description": "Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",
+    "language": "Go",
+    "star": "39"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "162"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "opcodesio/log-viewer",
+    "url": "https://github.com/opcodesio/log-viewer",
+    "description": "Fast and beautiful Log Viewer for Laravel",
+    "language": "PHP",
+    "star": "87"
+  },
+  {
+    "title": "networkx/networkx",
+    "url": "https://github.com/networkx/networkx",
+    "description": "Network Analysis in Python",
+    "language": "Python",
+    "star": "75"
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "description": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "language": "Python",
+    "star": "157"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "129"
+  },
+  {
+    "title": "blacklanternsecurity/bbot",
+    "url": "https://github.com/blacklanternsecurity/bbot",
+    "description": "OSINT automation for hackers.",
+    "language": "Python",
+    "star": "107"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "230"
+  },
+  {
+    "title": "oracle/docker-images",
+    "url": "https://github.com/oracle/docker-images",
+    "description": "Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects",
+    "language": "Shell",
+    "star": "5"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "65"
+  },
+  {
+    "title": "Koko-boya/Grasscutter_Resources",
+    "url": "https://github.com/Koko-boya/Grasscutter_Resources",
+    "description": "Combined Resource Folder from Multiple Sources of certain anime game",
+    "language": "Lua",
+    "star": "7"
+  }
+]
