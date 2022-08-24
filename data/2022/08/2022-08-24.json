@@ -32,7 +32,7 @@
     "url": "https://github.com/zinclabs/zinc",
     "description": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Go",
-    "star": "155"
+    "star": "297"
   },
   {
     "title": "rinongal/textual_inversion",
@@ -46,7 +46,7 @@
     "url": "https://github.com/rxrw/daily_morning",
     "description": "给别人家的女朋友发早安",
     "language": "Python",
-    "star": "72"
+    "star": "67"
   },
   {
     "title": "Markakd/DirtyCred",
@@ -60,21 +60,21 @@
     "url": "https://github.com/headwaymaps/headway",
     "description": "Self-hostable maps stack, powered by OpenStreetMap.",
     "language": "Vue",
-    "star": "143"
+    "star": "122"
   },
   {
     "title": "TheAlgorithms/Rust",
     "url": "https://github.com/TheAlgorithms/Rust",
     "description": "All Algorithms implemented in Rust",
     "language": "Rust",
-    "star": "392"
+    "star": "350"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "250"
+    "star": "163"
   },
   {
     "title": "berthubert/googerteller",
@@ -88,14 +88,14 @@
     "url": "https://github.com/facebookresearch/esm",
     "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
     "language": "Python",
-    "star": "27"
+    "star": "23"
   },
   {
     "title": "kubescape/kubescape",
     "url": "https://github.com/kubescape/kubescape",
     "description": "Kubescape is a K8s open-source tool providing a multi-cloud K8s single pane of glass, including risk analysis, security compliance, RBAC visualizer and image vulnerabilities scanning.",
     "language": "Go",
-    "star": "39"
+    "star": "36"
   },
   {
     "title": "airbnb/javascript",
@@ -109,21 +109,21 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "35"
+    "star": "63"
   },
   {
     "title": "opcodesio/log-viewer",
     "url": "https://github.com/opcodesio/log-viewer",
     "description": "Fast and beautiful Log Viewer for Laravel",
     "language": "PHP",
-    "star": "87"
+    "star": "88"
   },
   {
     "title": "networkx/networkx",
     "url": "https://github.com/networkx/networkx",
     "description": "Network Analysis in Python",
     "language": "Python",
-    "star": "75"
+    "star": "26"
   },
   {
     "title": "google-research/multinerf",
@@ -137,7 +137,7 @@
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "129"
+    "star": "132"
   },
   {
     "title": "blacklanternsecurity/bbot",
@@ -151,7 +151,7 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "230"
+    "star": "217"
   },
   {
     "title": "oracle/docker-images",
@@ -165,7 +165,7 @@
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "65"
+    "star": "35"
   },
   {
     "title": "Koko-boya/Grasscutter_Resources",
