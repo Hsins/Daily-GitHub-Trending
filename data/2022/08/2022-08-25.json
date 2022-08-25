@@ -25,7 +25,7 @@
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "151"
+    "star": "84"
   },
   {
     "title": "Akebi-Group/Akebi-GC",
@@ -39,14 +39,14 @@
     "url": "https://github.com/firstcontributions/first-contributions",
     "description": "🚀✨ Help beginners to contribute to open source projects",
     "language": "none",
-    "star": "148"
+    "star": "192"
   },
   {
     "title": "surrealdb/surrealdb",
     "url": "https://github.com/surrealdb/surrealdb",
     "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
     "language": "Rust",
-    "star": "661"
+    "star": "693"
   },
   {
     "title": "onetrueawk/awk",
@@ -60,14 +60,14 @@
     "url": "https://github.com/pintariching/rustle",
     "description": "Svelte compiler rewritten in Rust",
     "language": "Rust",
-    "star": "140"
+    "star": "174"
   },
   {
     "title": "Baiyuetribe/paper2gui",
     "url": "https://github.com/Baiyuetribe/paper2gui",
     "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
     "language": "Jupyter Notebook",
-    "star": "116"
+    "star": "156"
   },
   {
     "title": "layerhub-io/react-design-editor",
@@ -81,7 +81,7 @@
     "url": "https://github.com/huggingface/diffusers",
     "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
     "language": "Python",
-    "star": "600"
+    "star": "594"
   },
   {
     "title": "CS-BAOYAN/CSYuTuiMian2022",
@@ -95,7 +95,7 @@
     "url": "https://github.com/CompVis/stable-diffusion",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "917"
+    "star": "882"
   },
   {
     "title": "kubescape/kubescape",
@@ -130,14 +130,14 @@
     "url": "https://github.com/blacklanternsecurity/bbot",
     "description": "OSINT automation for hackers.",
     "language": "Python",
-    "star": "189"
+    "star": "207"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "93"
+    "star": "88"
   },
   {
     "title": "shimohq/chinese-programmer-wrong-pronunciation",
