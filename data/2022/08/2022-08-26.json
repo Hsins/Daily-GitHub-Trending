@@ -1,0 +1,177 @@
+[
+  {
+    "title": "cemu-project/Cemu",
+    "url": "https://github.com/cemu-project/Cemu",
+    "description": "Cemu is a Wii U emulator",
+    "language": "C++",
+    "star": "382"
+  },
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "description": "给别人家的女朋友发早安",
+    "language": "Python",
+    "star": "628"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "language": "Java",
+    "star": "93"
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "description": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
+    "language": "Python",
+    "star": "260"
+  },
+  {
+    "title": "goatcorp/FFXIVQuickLauncher",
+    "url": "https://github.com/goatcorp/FFXIVQuickLauncher",
+    "description": "Custom launcher for FFXIV",
+    "language": "C#",
+    "star": "5"
+  },
+  {
+    "title": "total-typescript/beginners-typescript",
+    "url": "https://github.com/total-typescript/beginners-typescript",
+    "description": "18 interactive exercises for TypeScript beginners",
+    "language": "TypeScript",
+    "star": "303"
+  },
+  {
+    "title": "itorr/sakana",
+    "url": "https://github.com/itorr/sakana",
+    "description": "🐟「Sakana!」石蒜虚拟器",
+    "language": "JavaScript",
+    "star": "210"
+  },
+  {
+    "title": "cmdr2/stable-diffusion-ui",
+    "url": "https://github.com/cmdr2/stable-diffusion-ui",
+    "description": "A simple way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+    "language": "HTML",
+    "star": "29"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
+    "language": "none",
+    "star": "159"
+  },
+  {
+    "title": "limoest/daily_reminder",
+    "url": "https://github.com/limoest/daily_reminder",
+    "description": "微信公众号全自动每日推送",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "bittentech/Bug-Bounty-Beginner-Roadmap",
+    "url": "https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap",
+    "description": "This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "language": "Go",
+    "star": "126"
+  },
+  {
+    "title": "matchy233/chi-cv-template",
+    "url": "https://github.com/matchy233/chi-cv-template",
+    "description": "🤩 Rip-off of skyzh's CV",
+    "language": "TeX",
+    "star": "14"
+  },
+  {
+    "title": "runsidekick/sidekick",
+    "url": "https://github.com/runsidekick/sidekick",
+    "description": "Free and open-source live application debugger. Like chrome dev tools but for your backend",
+    "language": "Java",
+    "star": "261"
+  },
+  {
+    "title": "snesrev/zelda3",
+    "url": "https://github.com/snesrev/zelda3",
+    "description": "",
+    "language": "C++",
+    "star": "126"
+  },
+  {
+    "title": "graphql/graphiql",
+    "url": "https://github.com/graphql/graphiql",
+    "description": "GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.",
+    "language": "TypeScript",
+    "star": "12"
+  },
+  {
+    "title": "Stability-AI/stability-sdk",
+    "url": "https://github.com/Stability-AI/stability-sdk",
+    "description": "SDK for interacting with stability.ai APIs (e.g. stable diffusion inference)",
+    "language": "Jupyter Notebook",
+    "star": "83"
+  },
+  {
+    "title": "fadeevab/design-patterns-rust",
+    "url": "https://github.com/fadeevab/design-patterns-rust",
+    "description": "Rust examples for all 23 classic GoF design patterns, and even a little more",
+    "language": "Rust",
+    "star": "108"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "157"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+    "language": "V",
+    "star": "29"
+  },
+  {
+    "title": "Akebi-Group/Akebi-GC",
+    "url": "https://github.com/Akebi-Group/Akebi-GC",
+    "description": "The great software for some game that exploiting anime girls (and boys).",
+    "language": "C++",
+    "star": "78"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "666"
+  },
+  {
+    "title": "rinongal/textual_inversion",
+    "url": "https://github.com/rinongal/textual_inversion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "40"
+  },
+  {
+    "title": "blacklanternsecurity/bbot",
+    "url": "https://github.com/blacklanternsecurity/bbot",
+    "description": "OSINT automation for hackers.",
+    "language": "Python",
+    "star": "205"
+  },
+  {
+    "title": "apify/crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "description": "Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
+    "language": "TypeScript",
+    "star": "171"
+  }
+]
