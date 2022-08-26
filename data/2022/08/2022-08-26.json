@@ -11,21 +11,21 @@
     "url": "https://github.com/rxrw/daily_morning",
     "description": "给别人家的女朋友发早安",
     "language": "Python",
-    "star": "646"
+    "star": "628"
   },
   {
     "title": "doocs/leetcode",
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "98"
+    "star": "93"
   },
   {
     "title": "google-research/multinerf",
     "url": "https://github.com/google-research/multinerf",
     "description": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
     "language": "Python",
-    "star": "261"
+    "star": "260"
   },
   {
     "title": "goatcorp/FFXIVQuickLauncher",
@@ -67,7 +67,7 @@
     "url": "https://github.com/limoest/daily_reminder",
     "description": "微信公众号全自动每日推送",
     "language": "Python",
-    "star": "39"
+    "star": "44"
   },
   {
     "title": "bittentech/Bug-Bounty-Beginner-Roadmap",
@@ -81,7 +81,7 @@
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "99"
+    "star": "126"
   },
   {
     "title": "matchy233/chi-cv-template",
@@ -130,7 +130,7 @@
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "150"
+    "star": "157"
   },
   {
     "title": "vlang/v",
@@ -144,14 +144,14 @@
     "url": "https://github.com/Akebi-Group/Akebi-GC",
     "description": "The great software for some game that exploiting anime girls (and boys).",
     "language": "C++",
-    "star": "79"
+    "star": "78"
   },
   {
     "title": "CompVis/stable-diffusion",
     "url": "https://github.com/CompVis/stable-diffusion",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "691"
+    "star": "666"
   },
   {
     "title": "rinongal/textual_inversion",
@@ -165,13 +165,13 @@
     "url": "https://github.com/blacklanternsecurity/bbot",
     "description": "OSINT automation for hackers.",
     "language": "Python",
-    "star": "222"
+    "star": "205"
   },
   {
     "title": "apify/crawlee",
     "url": "https://github.com/apify/crawlee",
     "description": "Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
     "language": "TypeScript",
-    "star": "169"
+    "star": "171"
   }
 ]
