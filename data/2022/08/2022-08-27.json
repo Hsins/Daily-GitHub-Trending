@@ -4,7 +4,7 @@
     "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
     "description": "An interactive TypeScript tutorial for beginners",
     "language": "TypeScript",
-    "star": "457"
+    "star": "459"
   },
   {
     "title": "doocs/leetcode",
@@ -25,7 +25,7 @@
     "url": "https://github.com/runsidekick/sidekick",
     "description": "Free and open-source live application debugger. Like chrome dev tools but for your backend",
     "language": "Java",
-    "star": "194"
+    "star": "153"
   },
   {
     "title": "microsoft/TypeScript",
@@ -53,21 +53,21 @@
     "url": "https://github.com/cemu-project/Cemu",
     "description": "Cemu is a Wii U emulator",
     "language": "C++",
-    "star": "388"
+    "star": "390"
   },
   {
     "title": "pocketbase/pocketbase",
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "263"
+    "star": "270"
   },
   {
     "title": "milvus-io/milvus",
     "url": "https://github.com/milvus-io/milvus",
     "description": "Vector database for scalable similarity search and AI applications.",
     "language": "Go",
-    "star": "103"
+    "star": "126"
   },
   {
     "title": "itorr/sakana",
@@ -81,7 +81,7 @@
     "url": "https://github.com/rxrw/daily_morning",
     "description": "给别人家的女朋友发早安",
     "language": "Python",
-    "star": "595"
+    "star": "632"
   },
   {
     "title": "influxdata/telegraf",
@@ -116,7 +116,7 @@
     "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
     "description": "An evolving how-to guide for securing a Linux server.",
     "language": "none",
-    "star": "41"
+    "star": "29"
   },
   {
     "title": "ethereum/EIPs",
@@ -144,7 +144,7 @@
     "url": "https://github.com/teivah/100-go-mistakes",
     "description": "Source code and community space of 📖 100 Go Mistakes",
     "language": "Go",
-    "star": "135"
+    "star": "131"
   },
   {
     "title": "apify/crawlee",
@@ -158,7 +158,7 @@
     "url": "https://github.com/google-research/multinerf",
     "description": "A Code Release for Mip-NeRF 360, Ref-NeRF, and RawNeRF",
     "language": "Python",
-    "star": "198"
+    "star": "193"
   },
   {
     "title": "zachgoll/fullstack-roadmap-series",
