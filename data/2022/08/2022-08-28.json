@@ -1,0 +1,177 @@
+[
+  {
+    "title": "total-typescript/beginners-typescript-tutorial",
+    "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
+    "description": "An interactive TypeScript tutorial for beginners",
+    "language": "TypeScript",
+    "star": "830"
+  },
+  {
+    "title": "divkit/divkit",
+    "url": "https://github.com/divkit/divkit",
+    "description": "DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app",
+    "language": "Swift",
+    "star": "141"
+  },
+  {
+    "title": "doocs/leetcode",
+    "url": "https://github.com/doocs/leetcode",
+    "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+    "language": "Java",
+    "star": "156"
+  },
+  {
+    "title": "teivah/100-go-mistakes",
+    "url": "https://github.com/teivah/100-go-mistakes",
+    "description": "Source code and community space of 📖 100 Go Mistakes",
+    "language": "Go",
+    "star": "175"
+  },
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "description": "给别人家的女朋友发早安",
+    "language": "Python",
+    "star": "693"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "apify/crawlee",
+    "url": "https://github.com/apify/crawlee",
+    "description": "Crawlee—A web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.",
+    "language": "TypeScript",
+    "star": "423"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "jetpack-io/devbox",
+    "url": "https://github.com/jetpack-io/devbox",
+    "description": "Instant, easy, predictable shells and containers.",
+    "language": "Go",
+    "star": "314"
+  },
+  {
+    "title": "discourse/discourse",
+    "url": "https://github.com/discourse/discourse",
+    "description": "A platform for community discussion. Free, open, simple.",
+    "language": "Ruby",
+    "star": "4"
+  },
+  {
+    "title": "hunar4321/life_code",
+    "url": "https://github.com/hunar4321/life_code",
+    "description": "A simple program to simulate attraction/reuplsion forces between many particles",
+    "language": "C++",
+    "star": "59"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "description": "Vector database for scalable similarity search and AI applications.",
+    "language": "Go",
+    "star": "111"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "description": "Collection of Summer 2023 tech internships!",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "cmdr2/stable-diffusion-ui",
+    "url": "https://github.com/cmdr2/stable-diffusion-ui",
+    "description": "A simple way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+    "language": "HTML",
+    "star": "44"
+  },
+  {
+    "title": "rayepps/radash",
+    "url": "https://github.com/rayepps/radash",
+    "description": "Functional utility library - modern, simple, typed, powerful",
+    "language": "TypeScript",
+    "star": "123"
+  },
+  {
+    "title": "0x192/universal-android-debloater",
+    "url": "https://github.com/0x192/universal-android-debloater",
+    "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.",
+    "language": "Rust",
+    "star": "12"
+  },
+  {
+    "title": "runsidekick/sidekick",
+    "url": "https://github.com/runsidekick/sidekick",
+    "description": "Free and open-source live application debugger. Like chrome dev tools but for your backend",
+    "language": "Java",
+    "star": "157"
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "language": "C",
+    "star": "30"
+  },
+  {
+    "title": "bittentech/Bug-Bounty-Beginner-Roadmap",
+    "url": "https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap",
+    "description": "This is a resource factory for anyone looking forward to starting bug hunting and would require guidance as a beginner.",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "udacity/cloud-developer",
+    "url": "https://github.com/udacity/cloud-developer",
+    "description": "content for Udacity's cloud developer nanodegree",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "rinongal/textual_inversion",
+    "url": "https://github.com/rinongal/textual_inversion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "36"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's OpenWrt source",
+    "language": "C",
+    "star": "19"
+  },
+  {
+    "title": "blackmatrix7/ios_rule_script",
+    "url": "https://github.com/blackmatrix7/ios_rule_script",
+    "description": "分流规则、重写写规则及脚本。",
+    "language": "JavaScript",
+    "star": "21"
+  },
+  {
+    "title": "adityatelange/hugo-PaperMod",
+    "url": "https://github.com/adityatelange/hugo-PaperMod",
+    "description": "A fast, clean, responsive Hugo theme.",
+    "language": "HTML",
+    "star": "9"
+  }
+]
