@@ -11,7 +11,7 @@
     "url": "https://github.com/hunar4321/life_code",
     "description": "A simple program to simulate attraction/reuplsion forces between many particles",
     "language": "C++",
-    "star": "228"
+    "star": "242"
   },
   {
     "title": "bes-dev/stable_diffusion.openvino",
@@ -32,14 +32,14 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "136"
+    "star": "135"
   },
   {
     "title": "iperov/DeepFaceLab",
     "url": "https://github.com/iperov/DeepFaceLab",
     "description": "DeepFaceLab is the leading software for creating deepfakes.",
     "language": "Python",
-    "star": "62"
+    "star": "77"
   },
   {
     "title": "microsoft/ML-For-Beginners",
@@ -60,7 +60,7 @@
     "url": "https://github.com/ainfosec/FISSURE",
     "description": "The RF and reverse engineering framework for everyone",
     "language": "HTML",
-    "star": "469"
+    "star": "464"
   },
   {
     "title": "cwi-reset/edicao-04-level-1",
@@ -81,7 +81,7 @@
     "url": "https://github.com/divkit/divkit",
     "description": "DivKit is an open source Server-Driven UI (SDUI) framework. SDUI is a an emerging technique that leverage the server to build the user interfaces of their mobile app",
     "language": "Swift",
-    "star": "251"
+    "star": "250"
   },
   {
     "title": "total-typescript/beginners-typescript-tutorial",
@@ -116,7 +116,7 @@
     "url": "https://github.com/TencentARC/GFPGAN",
     "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
     "language": "Python",
-    "star": "60"
+    "star": "95"
   },
   {
     "title": "Azure/azure-rest-api-specs",
@@ -151,14 +151,14 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "174"
+    "star": "148"
   },
   {
     "title": "khast3x/Redcloud",
     "url": "https://github.com/khast3x/Redcloud",
     "description": "Automated Red Team Infrastructure deployement using Docker",
     "language": "Python",
-    "star": "20"
+    "star": "50"
   },
   {
     "title": "thoughtbot/dotfiles",
@@ -172,6 +172,6 @@
     "url": "https://github.com/tiangolo/sqlmodel",
     "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
     "language": "Python",
-    "star": "33"
+    "star": "37"
   }
 ]
