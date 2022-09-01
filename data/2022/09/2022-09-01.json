@@ -4,105 +4,105 @@
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "289"
+    "star": "291"
   },
   {
     "title": "apple/swift-book",
     "url": "https://github.com/apple/swift-book",
     "description": "The Swift Programming Language book",
     "language": "Markdown",
-    "star": "161"
+    "star": "151"
   },
   {
     "title": "tiangolo/sqlmodel",
     "url": "https://github.com/tiangolo/sqlmodel",
     "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
     "language": "Python",
-    "star": "60"
+    "star": "63"
   },
   {
     "title": "mstrYoda/kubernetes-kitap",
     "url": "https://github.com/mstrYoda/kubernetes-kitap",
     "description": "",
     "language": "none",
-    "star": "48"
+    "star": "45"
   },
   {
     "title": "apache/doris",
     "url": "https://github.com/apache/doris",
     "description": "Apache Doris is an easy-to-use, high performance and unified analytics database.",
     "language": "C++",
-    "star": "43"
+    "star": "24"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "49"
+    "star": "63"
   },
   {
     "title": "python-poetry/poetry",
     "url": "https://github.com/python-poetry/poetry",
     "description": "Python dependency management and packaging made easy.",
     "language": "Python",
-    "star": "56"
+    "star": "59"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "242"
+    "star": "239"
   },
   {
     "title": "Joshua-Ashton/VPhysics-Jolt",
     "url": "https://github.com/Joshua-Ashton/VPhysics-Jolt",
     "description": "Volt (VPhysics Jolt) is a replacement physics module for the Source Engine.",
     "language": "C++",
-    "star": "105"
+    "star": "103"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "52"
+    "star": "45"
   },
   {
     "title": "vulhub/vulhub",
     "url": "https://github.com/vulhub/vulhub",
     "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
     "language": "Dockerfile",
-    "star": "84"
+    "star": "80"
   },
   {
     "title": "priyankavergadia/google-cloud-4-words",
     "url": "https://github.com/priyankavergadia/google-cloud-4-words",
     "description": "The Google Cloud Developer's Cheat Sheet",
     "language": "none",
-    "star": "49"
+    "star": "50"
   },
   {
     "title": "CompVis/stable-diffusion",
     "url": "https://github.com/CompVis/stable-diffusion",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "721"
+    "star": "717"
   },
   {
     "title": "total-typescript/typescript-generics-tutorial",
     "url": "https://github.com/total-typescript/typescript-generics-tutorial",
     "description": "Interactive tutorial on using generics in TypeScript",
     "language": "TypeScript",
-    "star": "54"
+    "star": "52"
   },
   {
     "title": "EvanLi/Github-Ranking",
     "url": "https://github.com/EvanLi/Github-Ranking",
     "description": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
     "language": "Python",
-    "star": "97"
+    "star": "95"
   },
   {
     "title": "altryne/sd-webui-colab",
@@ -116,21 +116,21 @@
     "url": "https://github.com/eugenp/tutorials",
     "description": "Just Announced - \"Learn Spring Security OAuth\":",
     "language": "Java",
-    "star": "15"
+    "star": "16"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "244"
+    "star": "245"
   },
   {
     "title": "bes-dev/stable_diffusion.openvino",
     "url": "https://github.com/bes-dev/stable_diffusion.openvino",
     "description": "",
     "language": "Python",
-    "star": "164"
+    "star": "139"
   },
   {
     "title": "Azure/azure-rest-api-specs",
@@ -144,7 +144,7 @@
     "url": "https://github.com/CompVis/latent-diffusion",
     "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
     "language": "Jupyter Notebook",
-    "star": "41"
+    "star": "40"
   },
   {
     "title": "OAI/OpenAPI-Specification",
@@ -158,7 +158,7 @@
     "url": "https://github.com/altryne/awesome-ai-art-image-synthesis",
     "description": "A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools.",
     "language": "none",
-    "star": "85"
+    "star": "88"
   },
   {
     "title": "girliemac/a-picture-is-worth-a-1000-words",
@@ -172,6 +172,6 @@
     "url": "https://github.com/heartcombo/devise",
     "description": "Flexible authentication solution for Rails with Warden.",
     "language": "Ruby",
-    "star": "13"
+    "star": "14"
   }
 ]
