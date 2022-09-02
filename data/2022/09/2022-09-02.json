@@ -1,0 +1,177 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
+    "language": "Swift",
+    "star": "277"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "description": "A post-modern modal text editor.",
+    "language": "Rust",
+    "star": "105"
+  },
+  {
+    "title": "alyssaxuu/motionity",
+    "url": "https://github.com/alyssaxuu/motionity",
+    "description": "The web-based motion graphics editor for everyone 📽",
+    "language": "JavaScript",
+    "star": "179"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "description": "Awesome Docker Compose samples",
+    "language": "HTML",
+    "star": "51"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "description": "I am trying to describe complex matters in simple doodles!",
+    "language": "none",
+    "star": "245"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "8"
+  },
+  {
+    "title": "gskinnerTeam/flutter-wonderous-app",
+    "url": "https://github.com/gskinnerTeam/flutter-wonderous-app",
+    "description": "A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.",
+    "language": "Dart",
+    "star": "100"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "language": "TypeScript",
+    "star": "120"
+  },
+  {
+    "title": "mstrYoda/kubernetes-kitap",
+    "url": "https://github.com/mstrYoda/kubernetes-kitap",
+    "description": "",
+    "language": "none",
+    "star": "102"
+  },
+  {
+    "title": "kaist-cp/cs220",
+    "url": "https://github.com/kaist-cp/cs220",
+    "description": "",
+    "language": "Rust",
+    "star": "12"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "description": "Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB",
+    "language": "TypeScript",
+    "star": "66"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "99"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "description": "Combustion engine simulator that generates realistic audio.",
+    "language": "C++",
+    "star": "144"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "description": "Just Announced - \"Learn Spring Security OAuth\":",
+    "language": "Java",
+    "star": "21"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+    "language": "Jupyter Notebook",
+    "star": "10"
+  },
+  {
+    "title": "heartcombo/devise",
+    "url": "https://github.com/heartcombo/devise",
+    "description": "Flexible authentication solution for Rails with Warden.",
+    "language": "Ruby",
+    "star": "23"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "959"
+  },
+  {
+    "title": "opcodesio/log-viewer",
+    "url": "https://github.com/opcodesio/log-viewer",
+    "description": "Fast and beautiful Log Viewer for Laravel",
+    "language": "PHP",
+    "star": "176"
+  },
+  {
+    "title": "rainbow-me/rainbow",
+    "url": "https://github.com/rainbow-me/rainbow",
+    "description": "🌈‒ the Ethereum wallet that lives in your pocket",
+    "language": "TypeScript",
+    "star": "17"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "language": "Dockerfile",
+    "star": "80"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "description": "Python dependency management and packaging made easy.",
+    "language": "Python",
+    "star": "104"
+  },
+  {
+    "title": "apple/swift-book",
+    "url": "https://github.com/apple/swift-book",
+    "description": "The Swift Programming Language book",
+    "language": "Markdown",
+    "star": "159"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "description": "MUI Core is a collection of React UI libraries for shipping new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.",
+    "language": "JavaScript",
+    "star": "37"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "15"
+  }
+]
