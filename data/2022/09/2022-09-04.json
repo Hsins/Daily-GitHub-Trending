@@ -4,28 +4,28 @@
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "190"
+    "star": "195"
   },
   {
     "title": "TuGraph-db/tugraph-db",
     "url": "https://github.com/TuGraph-db/tugraph-db",
     "description": "",
     "language": "C++",
-    "star": "59"
+    "star": "35"
   },
   {
     "title": "opcodesio/log-viewer",
     "url": "https://github.com/opcodesio/log-viewer",
     "description": "Fast and beautiful Log Viewer for Laravel",
     "language": "PHP",
-    "star": "104"
+    "star": "116"
   },
   {
     "title": "EvanLi/Github-Ranking",
     "url": "https://github.com/EvanLi/Github-Ranking",
     "description": "⭐Github Ranking⭐ Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新",
     "language": "Python",
-    "star": "206"
+    "star": "131"
   },
   {
     "title": "community/community",
@@ -39,28 +39,28 @@
     "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
     "description": "I am trying to describe complex matters in simple doodles!",
     "language": "none",
-    "star": "163"
+    "star": "166"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "144"
+    "star": "176"
   },
   {
     "title": "alyssaxuu/motionity",
     "url": "https://github.com/alyssaxuu/motionity",
     "description": "The web-based motion graphics editor for everyone 📽",
     "language": "JavaScript",
-    "star": "289"
+    "star": "290"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "57"
+    "star": "85"
   },
   {
     "title": "WebKit/WebKit",
@@ -74,70 +74,70 @@
     "url": "https://github.com/CompVis/stable-diffusion",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "543"
+    "star": "544"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "59"
+    "star": "54"
   },
   {
     "title": "WongKinYiu/yolov7",
     "url": "https://github.com/WongKinYiu/yolov7",
     "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
     "language": "Jupyter Notebook",
-    "star": "48"
+    "star": "52"
   },
   {
     "title": "alembics/disco-diffusion",
     "url": "https://github.com/alembics/disco-diffusion",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "36"
+    "star": "45"
   },
   {
     "title": "nextcloud/server",
     "url": "https://github.com/nextcloud/server",
     "description": "☁️ Nextcloud server, a safe home for all your data",
     "language": "PHP",
-    "star": "87"
+    "star": "64"
   },
   {
     "title": "dataease/dataease",
     "url": "https://github.com/dataease/dataease",
     "description": "人人可用的开源数据可视化分析工具。",
     "language": "Java",
-    "star": "54"
+    "star": "60"
   },
   {
     "title": "apple/swift-book",
     "url": "https://github.com/apple/swift-book",
     "description": "The Swift Programming Language book",
     "language": "Markdown",
-    "star": "68"
+    "star": "76"
   },
   {
     "title": "total-typescript/typescript-generics-tutorial",
     "url": "https://github.com/total-typescript/typescript-generics-tutorial",
     "description": "Interactive tutorial on using generics in TypeScript",
     "language": "TypeScript",
-    "star": "86"
+    "star": "85"
   },
   {
     "title": "Azure/azure-rest-api-specs",
     "url": "https://github.com/Azure/azure-rest-api-specs",
     "description": "The source for REST API specifications for Microsoft Azure.",
     "language": "TypeScript",
-    "star": "24"
+    "star": "14"
   },
   {
     "title": "adap/flower",
     "url": "https://github.com/adap/flower",
     "description": "Flower - A Friendly Federated Learning Framework",
     "language": "Python",
-    "star": "75"
+    "star": "69"
   },
   {
     "title": "nestjs/nest",
@@ -151,27 +151,27 @@
     "url": "https://github.com/vmware-tanzu/kubeapps",
     "description": "A web-based UI for deploying and managing applications in Kubernetes clusters",
     "language": "Go",
-    "star": "147"
+    "star": "105"
   },
   {
     "title": "alibaba/EasyCV",
     "url": "https://github.com/alibaba/EasyCV",
     "description": "An all-in-one toolkit for computer vision",
     "language": "Python",
-    "star": "84"
+    "star": "115"
   },
   {
     "title": "rust-lang/rustlings",
     "url": "https://github.com/rust-lang/rustlings",
     "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
     "language": "Rust",
-    "star": "94"
+    "star": "101"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "134"
+    "star": "124"
   }
 ]
