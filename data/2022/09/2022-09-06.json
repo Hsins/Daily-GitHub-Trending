@@ -18,14 +18,14 @@
     "url": "https://github.com/lapce/lapce",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "303"
+    "star": "308"
   },
   {
     "title": "girliemac/a-picture-is-worth-a-1000-words",
     "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
     "description": "I am trying to describe complex matters in simple doodles!",
     "language": "none",
-    "star": "423"
+    "star": "417"
   },
   {
     "title": "WZMIAOMIAO/deep-learning-for-image-processing",
@@ -46,7 +46,7 @@
     "url": "https://github.com/alibaba/EasyCV",
     "description": "An all-in-one toolkit for computer vision",
     "language": "Python",
-    "star": "69"
+    "star": "68"
   },
   {
     "title": "alexeygrigorev/mlbookcamp-code",
@@ -74,14 +74,14 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Roadmap to becoming a developer in 2022",
     "language": "TypeScript",
-    "star": "335"
+    "star": "337"
   },
   {
     "title": "leon-ai/leon",
     "url": "https://github.com/leon-ai/leon",
     "description": "🧠 Leon is your open-source personal assistant.",
     "language": "JavaScript",
-    "star": "309"
+    "star": "301"
   },
   {
     "title": "EvanLi/Github-Ranking",
@@ -109,7 +109,7 @@
     "url": "https://github.com/opa334/TrollStore",
     "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
     "language": "C",
-    "star": "290"
+    "star": "289"
   },
   {
     "title": "photoprism/photoprism",
@@ -123,7 +123,7 @@
     "url": "https://github.com/vmware-tanzu/kubeapps",
     "description": "A web-based UI for deploying and managing applications in Kubernetes clusters",
     "language": "Go",
-    "star": "138"
+    "star": "176"
   },
   {
     "title": "firebase/firebase-ios-sdk",
@@ -144,7 +144,7 @@
     "url": "https://github.com/nuxt/framework",
     "description": "The Hybrid Vue(3) Framework.",
     "language": "TypeScript",
-    "star": "46"
+    "star": "53"
   },
   {
     "title": "robmarkcole/satellite-image-deep-learning",
@@ -172,6 +172,6 @@
     "url": "https://github.com/openshiporg/openship",
     "description": "multi-channel fulfillment at scale",
     "language": "JavaScript",
-    "star": "93"
+    "star": "89"
   }
 ]
