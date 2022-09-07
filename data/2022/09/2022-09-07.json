@@ -1,0 +1,177 @@
+[
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "173"
+  },
+  {
+    "title": "MaikKlein/unreal-rust",
+    "url": "https://github.com/MaikKlein/unreal-rust",
+    "description": "Rust integration for Unreal Engine 5",
+    "language": "Rust",
+    "star": "147"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "463"
+  },
+  {
+    "title": "Sanakan8472/copy-dialog-lunar-lander",
+    "url": "https://github.com/Sanakan8472/copy-dialog-lunar-lander",
+    "description": "Play lunar lander in you windows file copy dialog",
+    "language": "C#",
+    "star": "343"
+  },
+  {
+    "title": "DroidKaigi/conference-app-2022",
+    "url": "https://github.com/DroidKaigi/conference-app-2022",
+    "description": "The Official Conference App for DroidKaigi 2022",
+    "language": "Kotlin",
+    "star": "34"
+  },
+  {
+    "title": "total-typescript/beginners-typescript-tutorial",
+    "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
+    "description": "An interactive TypeScript tutorial for beginners",
+    "language": "TypeScript",
+    "star": "177"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "description": "The code from the Machine Learning Bookcamp book and a free course based on the book",
+    "language": "Jupyter Notebook",
+    "star": "94"
+  },
+  {
+    "title": "vmware-tanzu/kubeapps",
+    "url": "https://github.com/vmware-tanzu/kubeapps",
+    "description": "A web-based UI for deploying and managing applications in Kubernetes clusters",
+    "language": "Go",
+    "star": "137"
+  },
+  {
+    "title": "JoelGMSec/EvilnoVNC",
+    "url": "https://github.com/JoelGMSec/EvilnoVNC",
+    "description": "Ready to go Phishing Platform",
+    "language": "JavaScript",
+    "star": "47"
+  },
+  {
+    "title": "devsuperior/sds-dsmeta",
+    "url": "https://github.com/devsuperior/sds-dsmeta",
+    "description": "",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words",
+    "description": "I am trying to describe complex matters in simple doodles!",
+    "language": "none",
+    "star": "243"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "valence-rs/valence",
+    "url": "https://github.com/valence-rs/valence",
+    "description": "A Rust framework for building Minecraft servers.",
+    "language": "Rust",
+    "star": "259"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "137"
+  },
+  {
+    "title": "opa334/TrollStore",
+    "url": "https://github.com/opa334/TrollStore",
+    "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+    "language": "C",
+    "star": "155"
+  },
+  {
+    "title": "rolling-scopes-school/tasks",
+    "url": "https://github.com/rolling-scopes-school/tasks",
+    "description": "",
+    "language": "JavaScript",
+    "star": "15"
+  },
+  {
+    "title": "gndx/javascript-challenges",
+    "url": "https://github.com/gndx/javascript-challenges",
+    "description": "",
+    "language": "JavaScript",
+    "star": "13"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "129"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "153"
+  },
+  {
+    "title": "Nickyie/Cybersecurity-Resources",
+    "url": "https://github.com/Nickyie/Cybersecurity-Resources",
+    "description": "A Library of various cybersecurity resources",
+    "language": "none",
+    "star": "26"
+  },
+  {
+    "title": "BehaviorTree/BehaviorTree.CPP",
+    "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+    "description": "Behavior Trees Library in C++. Batteries included.",
+    "language": "C++",
+    "star": "42"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "coqui-ai/TTS",
+    "url": "https://github.com/coqui-ai/TTS",
+    "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+    "language": "Python",
+    "star": "60"
+  },
+  {
+    "title": "umami-software/umami",
+    "url": "https://github.com/umami-software/umami",
+    "description": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
+    "language": "JavaScript",
+    "star": "103"
+  }
+]
