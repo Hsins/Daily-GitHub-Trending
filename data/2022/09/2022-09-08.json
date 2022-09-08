@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "117"
+  },
+  {
+    "title": "sd-webui/stable-diffusion-webui",
+    "url": "https://github.com/sd-webui/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "280"
+  },
+  {
+    "title": "IdreesInc/Monocraft",
+    "url": "https://github.com/IdreesInc/Monocraft",
+    "description": "A programming font based on the typeface used in Minecraft",
+    "language": "none",
+    "star": "852"
+  },
+  {
+    "title": "Wilfred/difftastic",
+    "url": "https://github.com/Wilfred/difftastic",
+    "description": "a structural diff that understands syntax 🟥🟩",
+    "language": "Rust",
+    "star": "420"
+  },
+  {
+    "title": "apache/incubator-streampark",
+    "url": "https://github.com/apache/incubator-streampark",
+    "description": "StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",
+    "language": "Java",
+    "star": "25"
+  },
+  {
+    "title": "zhanymkanov/fastapi-best-practices",
+    "url": "https://github.com/zhanymkanov/fastapi-best-practices",
+    "description": "FastAPI Best Practices and Conventions we used @ hi.peerlink.me",
+    "language": "none",
+    "star": "78"
+  },
+  {
+    "title": "gskinnerTeam/flutter-wonderous-app",
+    "url": "https://github.com/gskinnerTeam/flutter-wonderous-app",
+    "description": "A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.",
+    "language": "Dart",
+    "star": "114"
+  },
+  {
+    "title": "valence-rs/valence",
+    "url": "https://github.com/valence-rs/valence",
+    "description": "A Rust framework for building Minecraft servers.",
+    "language": "Rust",
+    "star": "128"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "270"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "829"
+  },
+  {
+    "title": "ElvisQin/thegibook",
+    "url": "https://github.com/ElvisQin/thegibook",
+    "description": "《全局光照技术：从离线到实时渲染》",
+    "language": "TeX",
+    "star": "78"
+  },
+  {
+    "title": "NotCapengeR/ShowHiddenChannelsReturns",
+    "url": "https://github.com/NotCapengeR/ShowHiddenChannelsReturns",
+    "description": "Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)",
+    "language": "JavaScript",
+    "star": "27"
+  },
+  {
+    "title": "vmware-tanzu/kubeapps",
+    "url": "https://github.com/vmware-tanzu/kubeapps",
+    "description": "A web-based UI for deploying and managing applications in Kubernetes clusters",
+    "language": "Go",
+    "star": "113"
+  },
+  {
+    "title": "microsoft/SynapseML",
+    "url": "https://github.com/microsoft/SynapseML",
+    "description": "Simple and Distributed Machine Learning",
+    "language": "Scala",
+    "star": "34"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "262"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "414"
+  },
+  {
+    "title": "WZMIAOMIAO/deep-learning-for-image-processing",
+    "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+    "description": "deep learning for image processing including classification and object-detection etc.",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "dbt-labs/dbt-core",
+    "url": "https://github.com/dbt-labs/dbt-core",
+    "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+    "language": "Python",
+    "star": "91"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "description": "Documentation for ASP.NET Core",
+    "language": "C#",
+    "star": "9"
+  },
+  {
+    "title": "actions/runner-images",
+    "url": "https://github.com/actions/runner-images",
+    "description": "GitHub Actions runner images",
+    "language": "PowerShell",
+    "star": "18"
+  },
+  {
+    "title": "cmdr2/stable-diffusion-ui",
+    "url": "https://github.com/cmdr2/stable-diffusion-ui",
+    "description": "A simple 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
+    "language": "HTML",
+    "star": "45"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "language": "Dart",
+    "star": "206"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "186"
+  },
+  {
+    "title": "BehaviorTree/BehaviorTree.CPP",
+    "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+    "description": "Behavior Trees Library in C++. Batteries included.",
+    "language": "C++",
+    "star": "89"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "130"
+  }
+]
