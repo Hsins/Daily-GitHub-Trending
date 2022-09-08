@@ -4,133 +4,133 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "121"
+    "star": "128"
   },
   {
     "title": "sd-webui/stable-diffusion-webui",
     "url": "https://github.com/sd-webui/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "281"
+    "star": "287"
   },
   {
     "title": "IdreesInc/Monocraft",
     "url": "https://github.com/IdreesInc/Monocraft",
     "description": "A programming font based on the typeface used in Minecraft",
     "language": "none",
-    "star": "846"
+    "star": "818"
   },
   {
     "title": "Wilfred/difftastic",
     "url": "https://github.com/Wilfred/difftastic",
     "description": "a structural diff that understands syntax 🟥🟩",
     "language": "Rust",
-    "star": "402"
+    "star": "398"
   },
   {
     "title": "apache/incubator-streampark",
     "url": "https://github.com/apache/incubator-streampark",
     "description": "StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",
     "language": "Java",
-    "star": "27"
+    "star": "30"
   },
   {
     "title": "zhanymkanov/fastapi-best-practices",
     "url": "https://github.com/zhanymkanov/fastapi-best-practices",
     "description": "FastAPI Best Practices and Conventions we used @ hi.peerlink.me",
     "language": "none",
-    "star": "79"
+    "star": "82"
   },
   {
     "title": "gskinnerTeam/flutter-wonderous-app",
     "url": "https://github.com/gskinnerTeam/flutter-wonderous-app",
     "description": "A showcase app for the Flutter SDK. Wonderous will educate and entertain as you uncover information about some of the most famous structures in the world.",
     "language": "Dart",
-    "star": "117"
+    "star": "118"
   },
   {
     "title": "valence-rs/valence",
     "url": "https://github.com/valence-rs/valence",
     "description": "A Rust framework for building Minecraft servers.",
     "language": "Rust",
-    "star": "121"
+    "star": "117"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "267"
+    "star": "259"
   },
   {
     "title": "CompVis/stable-diffusion",
     "url": "https://github.com/CompVis/stable-diffusion",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "822"
+    "star": "806"
   },
   {
     "title": "ElvisQin/thegibook",
     "url": "https://github.com/ElvisQin/thegibook",
     "description": "《全局光照技术：从离线到实时渲染》",
     "language": "TeX",
-    "star": "80"
+    "star": "81"
   },
   {
     "title": "NotCapengeR/ShowHiddenChannelsReturns",
     "url": "https://github.com/NotCapengeR/ShowHiddenChannelsReturns",
     "description": "Displays all hidden Channels, which can't be accessed due to Role Restrictions, this won't allow you to read them (impossible)",
     "language": "JavaScript",
-    "star": "25"
+    "star": "27"
   },
   {
     "title": "vmware-tanzu/kubeapps",
     "url": "https://github.com/vmware-tanzu/kubeapps",
     "description": "A web-based UI for deploying and managing applications in Kubernetes clusters",
     "language": "Go",
-    "star": "112"
+    "star": "111"
   },
   {
     "title": "microsoft/SynapseML",
     "url": "https://github.com/microsoft/SynapseML",
     "description": "Simple and Distributed Machine Learning",
     "language": "Scala",
-    "star": "37"
+    "star": "40"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "265"
+    "star": "268"
   },
   {
     "title": "lapce/lapce",
     "url": "https://github.com/lapce/lapce",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "390"
+    "star": "386"
   },
   {
     "title": "WZMIAOMIAO/deep-learning-for-image-processing",
     "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
     "description": "deep learning for image processing including classification and object-detection etc.",
     "language": "Python",
-    "star": "30"
+    "star": "31"
   },
   {
     "title": "dbt-labs/dbt-core",
     "url": "https://github.com/dbt-labs/dbt-core",
     "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
     "language": "Python",
-    "star": "91"
+    "star": "90"
   },
   {
     "title": "dotnet/AspNetCore.Docs",
     "url": "https://github.com/dotnet/AspNetCore.Docs",
     "description": "Documentation for ASP.NET Core",
     "language": "C#",
-    "star": "10"
+    "star": "9"
   },
   {
     "title": "actions/runner-images",
@@ -144,28 +144,28 @@
     "url": "https://github.com/cmdr2/stable-diffusion-ui",
     "description": "A simple 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
     "language": "HTML",
-    "star": "47"
+    "star": "50"
   },
   {
     "title": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
     "language": "Dart",
-    "star": "272"
+    "star": "280"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "183"
+    "star": "186"
   },
   {
     "title": "BehaviorTree/BehaviorTree.CPP",
     "url": "https://github.com/BehaviorTree/BehaviorTree.CPP",
     "description": "Behavior Trees Library in C++. Batteries included.",
     "language": "C++",
-    "star": "86"
+    "star": "85"
   },
   {
     "title": "ruanyf/weekly",
