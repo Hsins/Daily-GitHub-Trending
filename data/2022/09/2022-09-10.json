@@ -4,35 +4,35 @@
     "url": "https://github.com/somebasj/ParallelsDesktopCrack",
     "description": "Parallels Desktop for mac Crack",
     "language": "Shell",
-    "star": "400"
+    "star": "402"
   },
   {
     "title": "AykutSarac/jsoncrack.com",
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "528"
+    "star": "533"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "175"
+    "star": "245"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "186"
+    "star": "198"
   },
   {
     "title": "apache/incubator-streampark",
     "url": "https://github.com/apache/incubator-streampark",
     "description": "StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",
     "language": "Java",
-    "star": "133"
+    "star": "130"
   },
   {
     "title": "TheAlgorithms/Python",
@@ -53,7 +53,7 @@
     "url": "https://github.com/charlax/professional-programming",
     "description": "A collection of full-stack resources for programmers.",
     "language": "Python",
-    "star": "65"
+    "star": "45"
   },
   {
     "title": "akka/akka",
@@ -67,56 +67,56 @@
     "url": "https://github.com/taichi-dev/taichi",
     "description": "Productive & portable high-performance programming in Python.",
     "language": "C++",
-    "star": "157"
+    "star": "136"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "41"
+    "star": "53"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "161"
+    "star": "166"
   },
   {
     "title": "100devs/binary-upload-boom",
     "url": "https://github.com/100devs/binary-upload-boom",
     "description": "The 100Devs Social Network",
     "language": "JavaScript",
-    "star": "10"
+    "star": "12"
   },
   {
     "title": "hiroi-sora/Umi-OCR",
     "url": "https://github.com/hiroi-sora/Umi-OCR",
     "description": "OCR批量图片转文字识别软件，带界面，离线运行。可排除图片中水印区域的干扰，提取干净的文本。基于 PaddleOCR 。",
     "language": "Python",
-    "star": "84"
+    "star": "87"
   },
   {
     "title": "sd-webui/stable-diffusion-webui",
     "url": "https://github.com/sd-webui/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "314"
+    "star": "322"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "235"
+    "star": "238"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "47"
+    "star": "130"
   },
   {
     "title": "inkasadev/osib-frontend-pt",
@@ -144,14 +144,14 @@
     "url": "https://github.com/actions/runner-images",
     "description": "GitHub Actions runner images",
     "language": "PowerShell",
-    "star": "30"
+    "star": "31"
   },
   {
     "title": "huggingface/transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
     "language": "Python",
-    "star": "80"
+    "star": "81"
   },
   {
     "title": "benphelps/homepage",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "213"
+    "star": "214"
   }
 ]
