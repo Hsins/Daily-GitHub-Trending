@@ -4,7 +4,7 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "587"
+    "star": "588"
   },
   {
     "title": "sd-webui/stable-diffusion-webui",
@@ -25,7 +25,7 @@
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "489"
+    "star": "488"
   },
   {
     "title": "surrealdb/surrealdb",
@@ -60,7 +60,7 @@
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "250"
+    "star": "249"
   },
   {
     "title": "Alcibiades-Capital/mev_bundle_generator",
@@ -95,7 +95,7 @@
     "url": "https://github.com/benphelps/homepage",
     "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
     "language": "JavaScript",
-    "star": "52"
+    "star": "61"
   },
   {
     "title": "jaakkopasanen/AutoEq",
@@ -109,7 +109,7 @@
     "url": "https://github.com/NvChad/NvChad",
     "description": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",
     "language": "Lua",
-    "star": "17"
+    "star": "16"
   },
   {
     "title": "mdn/content",
@@ -137,14 +137,14 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "175"
+    "star": "159"
   },
   {
     "title": "apache/incubator-streampark",
     "url": "https://github.com/apache/incubator-streampark",
     "description": "StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",
     "language": "Java",
-    "star": "53"
+    "star": "52"
   },
   {
     "title": "34306/TrollStoreiPA",
@@ -158,7 +158,7 @@
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "27"
+    "star": "55"
   },
   {
     "title": "ziglang/zig",
