@@ -4,70 +4,70 @@
     "url": "https://github.com/surrealdb/surrealdb",
     "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
     "language": "Rust",
-    "star": "492"
+    "star": "530"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "149"
+    "star": "140"
   },
   {
     "title": "meienberger/runtipi",
     "url": "https://github.com/meienberger/runtipi",
     "description": "⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨",
     "language": "TypeScript",
-    "star": "686"
+    "star": "1"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "75"
+    "star": "178"
   },
   {
     "title": "NvChad/NvChad",
     "url": "https://github.com/NvChad/NvChad",
     "description": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",
     "language": "Lua",
-    "star": "119"
+    "star": "89"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "142"
+    "star": "135"
   },
   {
     "title": "karpathy/nn-zero-to-hero",
     "url": "https://github.com/karpathy/nn-zero-to-hero",
     "description": "Neural Networks: Zero to Hero",
     "language": "Jupyter Notebook",
-    "star": "187"
+    "star": "111"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "77"
+    "star": "50"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "44"
+    "star": "55"
   },
   {
     "title": "benphelps/homepage",
     "url": "https://github.com/benphelps/homepage",
     "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
     "language": "JavaScript",
-    "star": "114"
+    "star": "119"
   },
   {
     "title": "SerenityOS/serenity",
@@ -81,14 +81,14 @@
     "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
     "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
     "language": "Python",
-    "star": "187"
+    "star": "186"
   },
   {
     "title": "ytdl-org/youtube-dl",
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "145"
+    "star": "85"
   },
   {
     "title": "alexeygrigorev/mlbookcamp-code",
@@ -102,7 +102,7 @@
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "Go",
-    "star": "3"
+    "star": "12"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -137,7 +137,7 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "25"
+    "star": "32"
   },
   {
     "title": "somebasj/ParallelsDesktopCrack",
@@ -151,27 +151,27 @@
     "url": "https://github.com/neurreps/awesome-neural-geometry",
     "description": "A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond",
     "language": "none",
-    "star": "46"
+    "star": "47"
   },
   {
     "title": "ContainerSSH/ContainerSSH",
     "url": "https://github.com/ContainerSSH/ContainerSSH",
     "description": "ContainerSSH: Launch containers on demand",
     "language": "Go",
-    "star": "143"
+    "star": "132"
   },
   {
     "title": "n8n-io/n8n",
     "url": "https://github.com/n8n-io/n8n",
     "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
     "language": "TypeScript",
-    "star": "39"
+    "star": "37"
   },
   {
     "title": "trpc/trpc",
     "url": "https://github.com/trpc/trpc",
     "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
     "language": "TypeScript",
-    "star": "117"
+    "star": "114"
   }
 ]
