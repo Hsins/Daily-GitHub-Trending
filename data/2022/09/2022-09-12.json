@@ -4,70 +4,70 @@
     "url": "https://github.com/surrealdb/surrealdb",
     "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
     "language": "Rust",
-    "star": "530"
+    "star": "472"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "140"
+    "star": "151"
   },
   {
     "title": "meienberger/runtipi",
     "url": "https://github.com/meienberger/runtipi",
     "description": "⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨",
     "language": "TypeScript",
-    "star": "1"
+    "star": "785"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "178"
+    "star": "128"
   },
   {
     "title": "NvChad/NvChad",
     "url": "https://github.com/NvChad/NvChad",
     "description": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms",
     "language": "Lua",
-    "star": "89"
+    "star": "116"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "135"
+    "star": "142"
   },
   {
     "title": "karpathy/nn-zero-to-hero",
     "url": "https://github.com/karpathy/nn-zero-to-hero",
     "description": "Neural Networks: Zero to Hero",
     "language": "Jupyter Notebook",
-    "star": "111"
+    "star": "181"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "50"
+    "star": "74"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "55"
+    "star": "44"
   },
   {
     "title": "benphelps/homepage",
     "url": "https://github.com/benphelps/homepage",
     "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
     "language": "JavaScript",
-    "star": "119"
+    "star": "118"
   },
   {
     "title": "SerenityOS/serenity",
@@ -81,7 +81,7 @@
     "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
     "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
     "language": "Python",
-    "star": "186"
+    "star": "190"
   },
   {
     "title": "ytdl-org/youtube-dl",
@@ -95,14 +95,14 @@
     "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
     "description": "The code from the Machine Learning Bookcamp book and a free course based on the book",
     "language": "Jupyter Notebook",
-    "star": "180"
+    "star": "174"
   },
   {
     "title": "trustwallet/assets",
     "url": "https://github.com/trustwallet/assets",
     "description": "A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.",
     "language": "Go",
-    "star": "12"
+    "star": "3"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -130,21 +130,21 @@
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "154"
+    "star": "173"
   },
   {
     "title": "ocornut/imgui",
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "32"
+    "star": "26"
   },
   {
     "title": "somebasj/ParallelsDesktopCrack",
     "url": "https://github.com/somebasj/ParallelsDesktopCrack",
     "description": "Parallels Desktop for mac Crack",
     "language": "Shell",
-    "star": "190"
+    "star": "177"
   },
   {
     "title": "neurreps/awesome-neural-geometry",
@@ -172,6 +172,6 @@
     "url": "https://github.com/trpc/trpc",
     "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
     "language": "TypeScript",
-    "star": "114"
+    "star": "115"
   }
 ]
