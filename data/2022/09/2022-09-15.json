@@ -1,0 +1,177 @@
+[
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "language": "Go",
+    "star": "884"
+  },
+  {
+    "title": "alura/techguide",
+    "url": "https://github.com/alura/techguide",
+    "description": "TechGuide main repository with the code that guides your tech carrer!",
+    "language": "TypeScript",
+    "star": "170"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "language": "Swift",
+    "star": "61"
+  },
+  {
+    "title": "ethereum/ethereum-org-website",
+    "url": "https://github.com/ethereum/ethereum-org-website",
+    "description": "Ethereum.org is a primary online resource for the Ethereum community.",
+    "language": "Markdown",
+    "star": "11"
+  },
+  {
+    "title": "revanced/revanced-manager",
+    "url": "https://github.com/revanced/revanced-manager",
+    "description": "💊 The official ReVanced Manager",
+    "language": "Dart",
+    "star": "199"
+  },
+  {
+    "title": "remix-run/react-router",
+    "url": "https://github.com/remix-run/react-router",
+    "description": "Declarative routing for React",
+    "language": "TypeScript",
+    "star": "22"
+  },
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "description": "Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)",
+    "language": "Python",
+    "star": "270"
+  },
+  {
+    "title": "malwaredllc/byob",
+    "url": "https://github.com/malwaredllc/byob",
+    "description": "An open-source post-exploitation framework for students, researchers and developers.",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "star": "455"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "38"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "description": "👽 Open source API development ecosystem - https://hoppscotch.io",
+    "language": "Vue",
+    "star": "40"
+  },
+  {
+    "title": "YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
+    "url": "https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
+    "description": "Diffusion model papers, survey, and taxonomy",
+    "language": "none",
+    "star": "51"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "description": "Home repository for .NET Core",
+    "language": "PowerShell",
+    "star": "34"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "star": "17"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "23"
+  },
+  {
+    "title": "cloud-custodian/cloud-custodian",
+    "url": "https://github.com/cloud-custodian/cloud-custodian",
+    "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "SerenityOS/ladybird",
+    "url": "https://github.com/SerenityOS/ladybird",
+    "description": "Ladybird web browser",
+    "language": "C++",
+    "star": "128"
+  },
+  {
+    "title": "joaocarvalhoopen/How_to_learn_modern_Rust",
+    "url": "https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust",
+    "description": "A guide to the adventurer.",
+    "language": "none",
+    "star": "191"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+    "language": "TypeScript",
+    "star": "131"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "language": "JavaScript",
+    "star": "17"
+  },
+  {
+    "title": "LSPosed/LSPosed",
+    "url": "https://github.com/LSPosed/LSPosed",
+    "description": "LSPosed Framework",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "description": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js.",
+    "language": "TypeScript",
+    "star": "3"
+  },
+  {
+    "title": "CocoaPods/Specs",
+    "url": "https://github.com/CocoaPods/Specs",
+    "description": "The CocoaPods Master Repo",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "google/glog",
+    "url": "https://github.com/google/glog",
+    "description": "C++ implementation of the Google logging module",
+    "language": "C++",
+    "star": "8"
+  }
+]
