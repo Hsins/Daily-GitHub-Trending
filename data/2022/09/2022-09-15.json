@@ -4,7 +4,7 @@
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "884"
+    "star": "1"
   },
   {
     "title": "alura/techguide",
@@ -18,7 +18,7 @@
     "url": "https://github.com/danielgindi/Charts",
     "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
     "language": "Swift",
-    "star": "61"
+    "star": "51"
   },
   {
     "title": "ethereum/ethereum-org-website",
@@ -32,21 +32,21 @@
     "url": "https://github.com/revanced/revanced-manager",
     "description": "💊 The official ReVanced Manager",
     "language": "Dart",
-    "star": "199"
+    "star": "200"
   },
   {
     "title": "remix-run/react-router",
     "url": "https://github.com/remix-run/react-router",
     "description": "Declarative routing for React",
     "language": "TypeScript",
-    "star": "22"
+    "star": "23"
   },
   {
     "title": "PaddlePaddle/PaddleHub",
     "url": "https://github.com/PaddlePaddle/PaddleHub",
     "description": "Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)",
     "language": "Python",
-    "star": "270"
+    "star": "327"
   },
   {
     "title": "malwaredllc/byob",
@@ -60,21 +60,21 @@
     "url": "https://github.com/surrealdb/surrealdb",
     "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
     "language": "Rust",
-    "star": "455"
+    "star": "465"
   },
   {
     "title": "ascoders/weekly",
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "38"
+    "star": "41"
   },
   {
     "title": "hoppscotch/hoppscotch",
     "url": "https://github.com/hoppscotch/hoppscotch",
     "description": "👽 Open source API development ecosystem - https://hoppscotch.io",
     "language": "Vue",
-    "star": "40"
+    "star": "38"
   },
   {
     "title": "YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
@@ -88,14 +88,14 @@
     "url": "https://github.com/dotnet/core",
     "description": "Home repository for .NET Core",
     "language": "PowerShell",
-    "star": "34"
+    "star": "23"
   },
   {
     "title": "Alamofire/Alamofire",
     "url": "https://github.com/Alamofire/Alamofire",
     "description": "Elegant HTTP Networking in Swift",
     "language": "Swift",
-    "star": "17"
+    "star": "21"
   },
   {
     "title": "protocolbuffers/protobuf",
@@ -116,28 +116,28 @@
     "url": "https://github.com/SerenityOS/ladybird",
     "description": "Ladybird web browser",
     "language": "C++",
-    "star": "128"
+    "star": "144"
   },
   {
     "title": "joaocarvalhoopen/How_to_learn_modern_Rust",
     "url": "https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust",
     "description": "A guide to the adventurer.",
     "language": "none",
-    "star": "191"
+    "star": "190"
   },
   {
     "title": "microsoft/playwright",
     "url": "https://github.com/microsoft/playwright",
     "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
     "language": "TypeScript",
-    "star": "131"
+    "star": "132"
   },
   {
     "title": "d3/d3",
     "url": "https://github.com/d3/d3",
     "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
     "language": "JavaScript",
-    "star": "17"
+    "star": "19"
   },
   {
     "title": "LSPosed/LSPosed",
@@ -172,6 +172,6 @@
     "url": "https://github.com/google/glog",
     "description": "C++ implementation of the Google logging module",
     "language": "C++",
-    "star": "8"
+    "star": "6"
   }
 ]
