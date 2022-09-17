@@ -11,7 +11,7 @@
     "url": "https://github.com/Lcry/a-sheep-assistant",
     "description": "羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊",
     "language": "none",
-    "star": "203"
+    "star": "204"
   },
   {
     "title": "milvus-io/milvus",
@@ -32,7 +32,7 @@
     "url": "https://github.com/nuttyartist/notes",
     "description": "Note-taking application, write down your thoughts.",
     "language": "C++",
-    "star": "368"
+    "star": "422"
   },
   {
     "title": "RocketChat/Rocket.Chat",
@@ -46,7 +46,7 @@
     "url": "https://github.com/penpot/penpot",
     "description": "Penpot - The Open-Source design & prototyping platform",
     "language": "Clojure",
-    "star": "780"
+    "star": "779"
   },
   {
     "title": "george-jiang-wow/yanglegeyang",
@@ -67,7 +67,7 @@
     "url": "https://github.com/ascoders/weekly",
     "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
     "language": "JavaScript",
-    "star": "99"
+    "star": "128"
   },
   {
     "title": "mlfoundations/open_clip",
@@ -81,7 +81,7 @@
     "url": "https://github.com/revanced/revanced-manager",
     "description": "💊 The official ReVanced Manager",
     "language": "Dart",
-    "star": "190"
+    "star": "347"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -95,7 +95,7 @@
     "url": "https://github.com/OpenEthan/SMSBoom",
     "description": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
     "language": "Python",
-    "star": "158"
+    "star": "95"
   },
   {
     "title": "theatre-js/theatre",
@@ -109,28 +109,28 @@
     "url": "https://github.com/vxunderground/MalwareSourceCode",
     "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
     "language": "Assembly",
-    "star": "15"
+    "star": "31"
   },
   {
     "title": "Alamofire/Alamofire",
     "url": "https://github.com/Alamofire/Alamofire",
     "description": "Elegant HTTP Networking in Swift",
     "language": "Swift",
-    "star": "25"
+    "star": "29"
   },
   {
     "title": "tauri-apps/tauri",
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "123"
+    "star": "116"
   },
   {
     "title": "pocketbase/pocketbase",
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "548"
+    "star": "535"
   },
   {
     "title": "ansible/ansible",
@@ -158,20 +158,20 @@
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "58"
+    "star": "43"
   },
   {
     "title": "ethereum/go-ethereum",
     "url": "https://github.com/ethereum/go-ethereum",
     "description": "Official Go implementation of the Ethereum protocol",
     "language": "Go",
-    "star": "65"
+    "star": "42"
   },
   {
     "title": "alist-org/alist",
     "url": "https://github.com/alist-org/alist",
     "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
     "language": "Go",
-    "star": "100"
+    "star": "131"
   }
 ]
