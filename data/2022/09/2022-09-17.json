@@ -1,0 +1,177 @@
+[
+  {
+    "title": "zc2638/ylgy",
+    "url": "https://github.com/zc2638/ylgy",
+    "description": "羊了个羊 通关程序，支持无限通关",
+    "language": "Go",
+    "star": "59"
+  },
+  {
+    "title": "Lcry/a-sheep-assistant",
+    "url": "https://github.com/Lcry/a-sheep-assistant",
+    "description": "羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。更多好玩黑科技关注作者公众号： 《码上有效率》，口令羊了个羊",
+    "language": "none",
+    "star": "203"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "description": "Vector database for scalable similarity search and AI applications.",
+    "language": "Go",
+    "star": "64"
+  },
+  {
+    "title": "ethereum/ethereum-org-website",
+    "url": "https://github.com/ethereum/ethereum-org-website",
+    "description": "Ethereum.org is a primary online resource for the Ethereum community.",
+    "language": "Markdown",
+    "star": "8"
+  },
+  {
+    "title": "nuttyartist/notes",
+    "url": "https://github.com/nuttyartist/notes",
+    "description": "Note-taking application, write down your thoughts.",
+    "language": "C++",
+    "star": "368"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "description": "The communications platform that puts data protection first.",
+    "language": "TypeScript",
+    "star": "47"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot - The Open-Source design & prototyping platform",
+    "language": "Clojure",
+    "star": "780"
+  },
+  {
+    "title": "george-jiang-wow/yanglegeyang",
+    "url": "https://github.com/george-jiang-wow/yanglegeyang",
+    "description": "羊了个羊在线版",
+    "language": "JavaScript",
+    "star": "30"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "star": "2"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "description": "前端精读周刊。帮你理解最前沿、实用的技术。",
+    "language": "JavaScript",
+    "star": "99"
+  },
+  {
+    "title": "mlfoundations/open_clip",
+    "url": "https://github.com/mlfoundations/open_clip",
+    "description": "An open source implementation of CLIP.",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "revanced/revanced-manager",
+    "url": "https://github.com/revanced/revanced-manager",
+    "description": "💊 The official ReVanced Manager",
+    "language": "Dart",
+    "star": "190"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "554"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "description": "短信轰炸/短信测压/ | 一个健壮免费的python短信轰炸程序，专门炸坏蛋蛋，百万接口，多线程全自动添加有效接口，支持异步协程百万并发，全免费的短信轰炸工具！！hongkonger开发全网首发！！",
+    "language": "Python",
+    "star": "158"
+  },
+  {
+    "title": "theatre-js/theatre",
+    "url": "https://github.com/theatre-js/theatre",
+    "description": "Motion design editor for the web",
+    "language": "TypeScript",
+    "star": "247"
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "language": "Assembly",
+    "star": "15"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "star": "25"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "123"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "language": "Go",
+    "star": "548"
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "78ResearchLab/PoC",
+    "url": "https://github.com/78ResearchLab/PoC",
+    "description": "",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "IceWhaleTech/CasaOS",
+    "url": "https://github.com/IceWhaleTech/CasaOS",
+    "description": "CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",
+    "language": "Go",
+    "star": "15"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "58"
+  },
+  {
+    "title": "ethereum/go-ethereum",
+    "url": "https://github.com/ethereum/go-ethereum",
+    "description": "Official Go implementation of the Ethereum protocol",
+    "language": "Go",
+    "star": "65"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "language": "Go",
+    "star": "100"
+  }
+]
