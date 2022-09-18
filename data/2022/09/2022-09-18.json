@@ -1,0 +1,177 @@
+[
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "description": "Penpot - The Open-Source design & prototyping platform",
+    "language": "Clojure",
+    "star": "580"
+  },
+  {
+    "title": "nuttyartist/notes",
+    "url": "https://github.com/nuttyartist/notes",
+    "description": "Note-taking application, write down your thoughts.",
+    "language": "C++",
+    "star": "208"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "star": "1"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "language": "HTML",
+    "star": "51"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "description": "Vector database for scalable similarity search and AI applications.",
+    "language": "Go",
+    "star": "91"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "137"
+  },
+  {
+    "title": "Lcry/a-sheep-assistant",
+    "url": "https://github.com/Lcry/a-sheep-assistant",
+    "description": "羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊",
+    "language": "Python",
+    "star": "161"
+  },
+  {
+    "title": "Selina1981/yanglegeyang",
+    "url": "https://github.com/Selina1981/yanglegeyang",
+    "description": "羊了个羊通关助手（java稳定版）全网唯一，禁止盗版！羊了个羊助手，羊了个羊一键闯关。",
+    "language": "Java",
+    "star": "4"
+  },
+  {
+    "title": "zc2638/ylgy",
+    "url": "https://github.com/zc2638/ylgy",
+    "description": "羊了个羊 通关程序，支持无限通关",
+    "language": "Go",
+    "star": "54"
+  },
+  {
+    "title": "relogX/system-design-questions",
+    "url": "https://github.com/relogX/system-design-questions",
+    "description": "Problem statements on System Design and Software Architecture as part of Arpit's System Design Masterclass",
+    "language": "Python",
+    "star": "10"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "description": "Scheduling infrastructure for absolutely everyone.",
+    "language": "TypeScript",
+    "star": "30"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "365"
+  },
+  {
+    "title": "AbdBarho/stable-diffusion-webui-docker",
+    "url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
+    "description": "Easy Docker setup for Stable Diffusion with user-friendly UI",
+    "language": "Dockerfile",
+    "star": "35"
+  },
+  {
+    "title": "johguse/profanity",
+    "url": "https://github.com/johguse/profanity",
+    "description": "Vanity address generator for Ethereum",
+    "language": "C++",
+    "star": "1"
+  },
+  {
+    "title": "george-jiang-wow/yanglegeyang",
+    "url": "https://github.com/george-jiang-wow/yanglegeyang",
+    "description": "羊了个羊在线版",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "theatre-js/theatre",
+    "url": "https://github.com/theatre-js/theatre",
+    "description": "Motion design editor for the web",
+    "language": "TypeScript",
+    "star": "186"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "178"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "language": "TypeScript",
+    "star": "45"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "description": "The Unified Machine Learning Framework",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "extrawurst/gitui",
+    "url": "https://github.com/extrawurst/gitui",
+    "description": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
+    "language": "Rust",
+    "star": "465"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "description": "A cross-platform, OpenGL terminal emulator.",
+    "language": "Rust",
+    "star": "36"
+  },
+  {
+    "title": "gohugoio/hugo",
+    "url": "https://github.com/gohugoio/hugo",
+    "description": "The world’s fastest framework for building websites.",
+    "language": "Go",
+    "star": "71"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "linuxdeepin/unilang",
+    "url": "https://github.com/linuxdeepin/unilang",
+    "description": "",
+    "language": "C++",
+    "star": "23"
+  }
+]
