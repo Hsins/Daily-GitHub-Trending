@@ -11,49 +11,49 @@
     "url": "https://github.com/penpot/penpot",
     "description": "Penpot - The Open-Source design & prototyping platform",
     "language": "Clojure",
-    "star": "565"
+    "star": "563"
   },
   {
     "title": "revanced/revanced-manager",
     "url": "https://github.com/revanced/revanced-manager",
     "description": "💊 The official ReVanced Manager",
     "language": "Dart",
-    "star": "156"
+    "star": "159"
   },
   {
     "title": "Lcry/a-sheep-assistant",
     "url": "https://github.com/Lcry/a-sheep-assistant",
     "description": "羊了个羊助手，羊了个羊一键闯关，本项目仅用于学习研究使用，请勿将本项目的任何内容用于商业或非法目的，否则后果自负。保姆级学习教程关注作者公众号： 《码上有效率》，口令羊了个羊",
     "language": "Python",
-    "star": "111"
+    "star": "102"
   },
   {
     "title": "godotengine/godot",
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "55"
+    "star": "41"
   },
   {
     "title": "t3-oss/create-t3-app",
     "url": "https://github.com/t3-oss/create-t3-app",
     "description": "Quickest way to start a new web app with full stack typesafety",
     "language": "TypeScript",
-    "star": "81"
+    "star": "100"
   },
   {
     "title": "carson-katri/dream-textures",
     "url": "https://github.com/carson-katri/dream-textures",
     "description": "Stable Diffusion built-in to the Blender shader editor",
     "language": "Python",
-    "star": "358"
+    "star": "505"
   },
   {
     "title": "milvus-io/milvus",
     "url": "https://github.com/milvus-io/milvus",
     "description": "Vector database for scalable similarity search and AI applications.",
     "language": "Go",
-    "star": "130"
+    "star": "131"
   },
   {
     "title": "liyupi/yulegeyu",
@@ -74,21 +74,21 @@
     "url": "https://github.com/UberGuidoZ/Flipper",
     "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
     "language": "HTML",
-    "star": "63"
+    "star": "69"
   },
   {
     "title": "unifyai/ivy",
     "url": "https://github.com/unifyai/ivy",
     "description": "The Unified Machine Learning Framework",
     "language": "Python",
-    "star": "26"
+    "star": "27"
   },
   {
     "title": "extrawurst/gitui",
     "url": "https://github.com/extrawurst/gitui",
     "description": "Blazing 💥 fast terminal-ui for git written in rust 🦀",
     "language": "Rust",
-    "star": "300"
+    "star": "449"
   },
   {
     "title": "Developer-Y/cs-video-courses",
@@ -102,14 +102,14 @@
     "url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
     "description": "Easy Docker setup for Stable Diffusion with user-friendly UI",
     "language": "Dockerfile",
-    "star": "45"
+    "star": "48"
   },
   {
     "title": "nuttyartist/notes",
     "url": "https://github.com/nuttyartist/notes",
     "description": "Note-taking application, write down your thoughts.",
     "language": "C++",
-    "star": "315"
+    "star": "209"
   },
   {
     "title": "OpenEthan/SMSBoom",
@@ -130,28 +130,28 @@
     "url": "https://github.com/zc2638/ylgy",
     "description": "羊了个羊 通关程序，支持自动通关，支持 关卡重写",
     "language": "Go",
-    "star": "68"
+    "star": "70"
   },
   {
     "title": "gohugoio/hugo",
     "url": "https://github.com/gohugoio/hugo",
     "description": "The world’s fastest framework for building websites.",
     "language": "Go",
-    "star": "215"
+    "star": "111"
   },
   {
     "title": "carbon-language/carbon-lang",
     "url": "https://github.com/carbon-language/carbon-lang",
     "description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
     "language": "C++",
-    "star": "75"
+    "star": "51"
   },
   {
     "title": "alist-org/alist",
     "url": "https://github.com/alist-org/alist",
     "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
     "language": "Go",
-    "star": "158"
+    "star": "74"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -172,6 +172,6 @@
     "url": "https://github.com/mrdbourke/pytorch-deep-learning",
     "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
     "language": "Jupyter Notebook",
-    "star": "70"
+    "star": "22"
   }
 ]
