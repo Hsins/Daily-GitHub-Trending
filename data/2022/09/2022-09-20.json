@@ -4,7 +4,7 @@
     "url": "https://github.com/milvus-io/milvus",
     "description": "Vector database for scalable similarity search and AI applications.",
     "language": "Go",
-    "star": "200"
+    "star": "203"
   },
   {
     "title": "aws/aws-cdk",
@@ -25,14 +25,14 @@
     "url": "https://github.com/hsutter/cppfront",
     "description": "A personal experimental C++ Syntax 2 -> Syntax 1 compiler",
     "language": "C++",
-    "star": "299"
+    "star": "291"
   },
   {
     "title": "liyupi/yulegeyu",
     "url": "https://github.com/liyupi/yulegeyu",
     "description": "羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn",
     "language": "TypeScript",
-    "star": "103"
+    "star": "227"
   },
   {
     "title": "brycedrennan/imaginAIry",
@@ -60,14 +60,14 @@
     "url": "https://github.com/linuxdeepin/unilang",
     "description": "",
     "language": "C++",
-    "star": "74"
+    "star": "76"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "249"
+    "star": "306"
   },
   {
     "title": "dair-ai/ML-YouTube-Courses",
@@ -81,21 +81,21 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "198"
+    "star": "188"
   },
   {
     "title": "gohugoio/hugo",
     "url": "https://github.com/gohugoio/hugo",
     "description": "The world’s fastest framework for building websites.",
     "language": "Go",
-    "star": "199"
+    "star": "218"
   },
   {
     "title": "freefq/free",
     "url": "https://github.com/freefq/free",
     "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
     "language": "none",
-    "star": "89"
+    "star": "24"
   },
   {
     "title": "apache/arrow",
@@ -123,7 +123,7 @@
     "url": "https://github.com/penpot/penpot",
     "description": "Penpot - The Open-Source design & prototyping platform",
     "language": "Clojure",
-    "star": "892"
+    "star": "913"
   },
   {
     "title": "xinntao/Real-ESRGAN",
