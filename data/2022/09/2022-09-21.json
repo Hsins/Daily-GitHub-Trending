@@ -4,7 +4,7 @@
     "url": "https://github.com/liyupi/yulegeyu",
     "description": "羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn",
     "language": "TypeScript",
-    "star": "219"
+    "star": "281"
   },
   {
     "title": "TheAlgorithms/Python",
@@ -18,7 +18,7 @@
     "url": "https://github.com/carson-katri/dream-textures",
     "description": "Stable Diffusion built-in to the Blender shader editor",
     "language": "Python",
-    "star": "645"
+    "star": "504"
   },
   {
     "title": "nas5w/interview-resources",
@@ -32,14 +32,14 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "267"
+    "star": "263"
   },
   {
     "title": "brycedrennan/imaginAIry",
     "url": "https://github.com/brycedrennan/imaginAIry",
     "description": "AI imagined images. Pythonic generation of stable diffusion images.",
     "language": "Python",
-    "star": "123"
+    "star": "111"
   },
   {
     "title": "mrdbourke/pytorch-deep-learning",
@@ -53,14 +53,14 @@
     "url": "https://github.com/OhMyGuus/I-Dont-Care-About-Cookies",
     "description": "Debloated fork of the extension \"I don't care about cookies\" (WIP)",
     "language": "CSS",
-    "star": "295"
+    "star": "296"
   },
   {
     "title": "johguse/profanity",
     "url": "https://github.com/johguse/profanity",
     "description": "Vanity address generator for Ethereum",
     "language": "C++",
-    "star": "11"
+    "star": "17"
   },
   {
     "title": "AykutSarac/jsoncrack.com",
@@ -74,28 +74,28 @@
     "url": "https://github.com/divamgupta/stable-diffusion-tensorflow",
     "description": "Stable Diffusion in TensorFlow / Keras",
     "language": "Python",
-    "star": "180"
+    "star": "182"
   },
   {
     "title": "coroot/coroot",
     "url": "https://github.com/coroot/coroot",
     "description": "A monitoring and troubleshooting tool for microservice architectures.",
     "language": "Go",
-    "star": "152"
+    "star": "153"
   },
   {
     "title": "Azure/azure-sdk-for-python",
     "url": "https://github.com/Azure/azure-sdk-for-python",
     "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
     "language": "Python",
-    "star": "5"
+    "star": "4"
   },
   {
     "title": "ThereforeGames/txt2mask",
     "url": "https://github.com/ThereforeGames/txt2mask",
     "description": "Automatically create masks for Stable Diffusion inpainting using natural language.",
     "language": "Python",
-    "star": "55"
+    "star": "57"
   },
   {
     "title": "torvalds/linux",
