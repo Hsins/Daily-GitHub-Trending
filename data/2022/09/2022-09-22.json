@@ -4,7 +4,7 @@
     "url": "https://github.com/bytecodealliance/wasmtime",
     "description": "A fast and secure runtime for WebAssembly",
     "language": "Rust",
-    "star": "375"
+    "star": "335"
   },
   {
     "title": "inancgumus/learngo",
@@ -32,28 +32,28 @@
     "url": "https://github.com/OhMyGuus/I-Dont-Care-About-Cookies",
     "description": "Debloated fork of the extension \"I don't care about cookies\" (WIP)",
     "language": "CSS",
-    "star": "542"
+    "star": "305"
   },
   {
     "title": "apache/nifi",
     "url": "https://github.com/apache/nifi",
     "description": "Apache NiFi",
     "language": "Java",
-    "star": "11"
+    "star": "21"
   },
   {
     "title": "TheAlgorithms/JavaScript",
     "url": "https://github.com/TheAlgorithms/JavaScript",
     "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
     "language": "JavaScript",
-    "star": "106"
+    "star": "119"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated coding interview preparation materials for busy software engineers",
     "language": "JavaScript",
-    "star": "157"
+    "star": "118"
   },
   {
     "title": "Launch-X-Latam/OnBoarding",
@@ -74,7 +74,7 @@
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "557"
+    "star": "710"
   },
   {
     "title": "lydiahallie/javascript-questions",
@@ -102,14 +102,14 @@
     "url": "https://github.com/sudheerj/reactjs-interview-questions",
     "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
     "language": "JavaScript",
-    "star": "103"
+    "star": "115"
   },
   {
     "title": "liyupi/yulegeyu",
     "url": "https://github.com/liyupi/yulegeyu",
     "description": "羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn",
     "language": "TypeScript",
-    "star": "286"
+    "star": "221"
   },
   {
     "title": "desktop/desktop",
@@ -137,7 +137,7 @@
     "url": "https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist",
     "description": "Checklist of the most important security countermeasures when designing, creating, testing your web/mobile application",
     "language": "none",
-    "star": "19"
+    "star": "51"
   },
   {
     "title": "prestodb/presto",
