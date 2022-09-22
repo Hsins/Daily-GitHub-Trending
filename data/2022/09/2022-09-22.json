@@ -1,0 +1,177 @@
+[
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "description": "A fast and secure runtime for WebAssembly",
+    "language": "Rust",
+    "star": "324"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "apache/arrow",
+    "url": "https://github.com/apache/arrow",
+    "description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
+    "language": "C++",
+    "star": "4"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "172"
+  },
+  {
+    "title": "OhMyGuus/I-Dont-Care-About-Cookies",
+    "url": "https://github.com/OhMyGuus/I-Dont-Care-About-Cookies",
+    "description": "Debloated fork of the extension \"I don't care about cookies\" (WIP)",
+    "language": "CSS",
+    "star": "427"
+  },
+  {
+    "title": "apache/nifi",
+    "url": "https://github.com/apache/nifi",
+    "description": "Apache NiFi",
+    "language": "Java",
+    "star": "11"
+  },
+  {
+    "title": "TheAlgorithms/JavaScript",
+    "url": "https://github.com/TheAlgorithms/JavaScript",
+    "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
+    "language": "JavaScript",
+    "star": "113"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "description": "💯 Curated coding interview preparation materials for busy software engineers",
+    "language": "JavaScript",
+    "star": "147"
+  },
+  {
+    "title": "Launch-X-Latam/OnBoarding",
+    "url": "https://github.com/Launch-X-Latam/OnBoarding",
+    "description": "",
+    "language": "none",
+    "star": "21"
+  },
+  {
+    "title": "open-mmlab/mmyolo",
+    "url": "https://github.com/open-mmlab/mmyolo",
+    "description": "OpenMMLab YOLO series toolbox and benchmark",
+    "language": "Python",
+    "star": "291"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "language": "TypeScript",
+    "star": "701"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "87"
+  },
+  {
+    "title": "epfml/ML_course",
+    "url": "https://github.com/epfml/ML_course",
+    "description": "EPFL Machine Learning Course, Fall 2021",
+    "language": "Jupyter Notebook",
+    "star": "2"
+  },
+  {
+    "title": "Visual-Attention-Network/SegNeXt",
+    "url": "https://github.com/Visual-Attention-Network/SegNeXt",
+    "description": "Official Pytorch implementations for \"SegNeXt: Rethinking Convolutional Attention Design for Semantic Segmentation\" (NeurIPS 2022)",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "language": "JavaScript",
+    "star": "104"
+  },
+  {
+    "title": "liyupi/yulegeyu",
+    "url": "https://github.com/liyupi/yulegeyu",
+    "description": "羊了个羊纯前端实现版【鱼了个鱼】，自定义关卡+图案+无限道具，可在线玩：https://yulegeyu.cn",
+    "language": "TypeScript",
+    "star": "286"
+  },
+  {
+    "title": "desktop/desktop",
+    "url": "https://github.com/desktop/desktop",
+    "description": "Simple collaboration from your desktop",
+    "language": "TypeScript",
+    "star": "10"
+  },
+  {
+    "title": "Markakd/CVE-2022-2588",
+    "url": "https://github.com/Markakd/CVE-2022-2588",
+    "description": "exploit for CVE-2022-2588",
+    "language": "C",
+    "star": "23"
+  },
+  {
+    "title": "vasanthk/how-web-works",
+    "url": "https://github.com/vasanthk/how-web-works",
+    "description": "What happens behind the scenes when we type www.google.com in a browser?",
+    "language": "none",
+    "star": "108"
+  },
+  {
+    "title": "MahdiMashrur/Awesome-Application-Security-Checklist",
+    "url": "https://github.com/MahdiMashrur/Awesome-Application-Security-Checklist",
+    "description": "Checklist of the most important security countermeasures when designing, creating, testing your web/mobile application",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "prestodb/presto",
+    "url": "https://github.com/prestodb/presto",
+    "description": "The official home of the Presto distributed SQL query engine for big data",
+    "language": "Java",
+    "star": "8"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "zadam/trilium",
+    "url": "https://github.com/zadam/trilium",
+    "description": "Build your personal knowledge base with Trilium Notes",
+    "language": "JavaScript",
+    "star": "40"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "description": "🗺 The 2022 Android Developer Roadmap suggests learning paths to understanding Android development.",
+    "language": "Kotlin",
+    "star": "15"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "13"
+  }
+]
