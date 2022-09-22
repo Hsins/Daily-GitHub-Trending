@@ -4,7 +4,7 @@
     "url": "https://github.com/bytecodealliance/wasmtime",
     "description": "A fast and secure runtime for WebAssembly",
     "language": "Rust",
-    "star": "324"
+    "star": "375"
   },
   {
     "title": "inancgumus/learngo",
@@ -32,7 +32,7 @@
     "url": "https://github.com/OhMyGuus/I-Dont-Care-About-Cookies",
     "description": "Debloated fork of the extension \"I don't care about cookies\" (WIP)",
     "language": "CSS",
-    "star": "427"
+    "star": "542"
   },
   {
     "title": "apache/nifi",
@@ -46,14 +46,14 @@
     "url": "https://github.com/TheAlgorithms/JavaScript",
     "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
     "language": "JavaScript",
-    "star": "113"
+    "star": "106"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated coding interview preparation materials for busy software engineers",
     "language": "JavaScript",
-    "star": "147"
+    "star": "157"
   },
   {
     "title": "Launch-X-Latam/OnBoarding",
@@ -74,7 +74,7 @@
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "701"
+    "star": "557"
   },
   {
     "title": "lydiahallie/javascript-questions",
@@ -102,7 +102,7 @@
     "url": "https://github.com/sudheerj/reactjs-interview-questions",
     "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
     "language": "JavaScript",
-    "star": "104"
+    "star": "103"
   },
   {
     "title": "liyupi/yulegeyu",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Azure/azure-sdk-for-python",
     "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
     "language": "Python",
-    "star": "19"
+    "star": "18"
   },
   {
     "title": "zadam/trilium",
@@ -172,6 +172,6 @@
     "url": "https://github.com/hashicorp/vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "13"
+    "star": "19"
   }
 ]
