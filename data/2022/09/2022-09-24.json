@@ -1,0 +1,177 @@
+[
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "2"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "language": "Java",
+    "star": "156"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "language": "Go",
+    "star": "329"
+  },
+  {
+    "title": "pointfreeco/swift-snapshot-testing",
+    "url": "https://github.com/pointfreeco/swift-snapshot-testing",
+    "description": "📸 Delightful Swift snapshot testing.",
+    "language": "Swift",
+    "star": "14"
+  },
+  {
+    "title": "steven-tey/dub",
+    "url": "https://github.com/steven-tey/dub",
+    "description": "An open-source link shortener with built-in analytics + free custom domains.",
+    "language": "TypeScript",
+    "star": "245"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Shell",
+    "star": "70"
+  },
+  {
+    "title": "Launch-X-Latam/OnBoarding",
+    "url": "https://github.com/Launch-X-Latam/OnBoarding",
+    "description": "",
+    "language": "none",
+    "star": "67"
+  },
+  {
+    "title": "IDEA-Research/detrex",
+    "url": "https://github.com/IDEA-Research/detrex",
+    "description": "IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+    "language": "C++",
+    "star": "8"
+  },
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "description": "A fast and secure runtime for WebAssembly",
+    "language": "Rust",
+    "star": "315"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "207"
+  },
+  {
+    "title": "3xp0rt/LockBit-Black-Builder",
+    "url": "https://github.com/3xp0rt/LockBit-Black-Builder",
+    "description": "",
+    "language": "none",
+    "star": "67"
+  },
+  {
+    "title": "salesforce/LAVIS",
+    "url": "https://github.com/salesforce/LAVIS",
+    "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "language": "Python",
+    "star": "58"
+  },
+  {
+    "title": "xkcoding/spring-boot-demo",
+    "url": "https://github.com/xkcoding/spring-boot-demo",
+    "description": "该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、ema…",
+    "language": "Java",
+    "star": "11"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "description": "These are the best resources for System Design on the Internet",
+    "language": "none",
+    "star": "18"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "description": "Create beautiful applications using Go",
+    "language": "Go",
+    "star": "295"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "description": "Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS",
+    "language": "Go",
+    "star": "44"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "description": "A modern replacement for Redis and Memcached",
+    "language": "C++",
+    "star": "30"
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "description": "ZincSearch. A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Go",
+    "star": "56"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "language": "Dart",
+    "star": "43"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+    "language": "Dockerfile",
+    "star": "8"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "description": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "language": "C#",
+    "star": "9"
+  },
+  {
+    "title": "hyperium/tonic",
+    "url": "https://github.com/hyperium/tonic",
+    "description": "A native gRPC client & server implementation with async/await support.",
+    "language": "Rust",
+    "star": "42"
+  },
+  {
+    "title": "FreeRTOS/FreeRTOS-Kernel",
+    "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+    "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+    "language": "C",
+    "star": "6"
+  }
+]
