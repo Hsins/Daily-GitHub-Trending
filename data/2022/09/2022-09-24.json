@@ -11,21 +11,21 @@
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "146"
+    "star": "157"
   },
   {
     "title": "inancgumus/learngo",
     "url": "https://github.com/inancgumus/learngo",
     "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
     "language": "Go",
-    "star": "328"
+    "star": "329"
   },
   {
     "title": "pointfreeco/swift-snapshot-testing",
     "url": "https://github.com/pointfreeco/swift-snapshot-testing",
     "description": "📸 Delightful Swift snapshot testing.",
     "language": "Swift",
-    "star": "16"
+    "star": "14"
   },
   {
     "title": "steven-tey/dub",
@@ -39,14 +39,14 @@
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "102"
+    "star": "70"
   },
   {
     "title": "Launch-X-Latam/OnBoarding",
     "url": "https://github.com/Launch-X-Latam/OnBoarding",
     "description": "",
     "language": "none",
-    "star": "68"
+    "star": "67"
   },
   {
     "title": "IDEA-Research/detrex",
@@ -67,21 +67,21 @@
     "url": "https://github.com/bytecodealliance/wasmtime",
     "description": "A fast and secure runtime for WebAssembly",
     "language": "Rust",
-    "star": "291"
+    "star": "315"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "197"
+    "star": "207"
   },
   {
     "title": "3xp0rt/LockBit-Black-Builder",
     "url": "https://github.com/3xp0rt/LockBit-Black-Builder",
     "description": "",
     "language": "none",
-    "star": "63"
+    "star": "67"
   },
   {
     "title": "salesforce/LAVIS",
@@ -123,7 +123,7 @@
     "url": "https://github.com/caddyserver/caddy",
     "description": "Fast and extensible multi-platform HTTP/3 web server with automatic HTTPS",
     "language": "Go",
-    "star": "45"
+    "star": "44"
   },
   {
     "title": "dragonflydb/dragonfly",
@@ -165,7 +165,7 @@
     "url": "https://github.com/hyperium/tonic",
     "description": "A native gRPC client & server implementation with async/await support.",
     "language": "Rust",
-    "star": "10"
+    "star": "43"
   },
   {
     "title": "FreeRTOS/FreeRTOS-Kernel",
