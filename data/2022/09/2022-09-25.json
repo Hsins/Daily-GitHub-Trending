@@ -4,7 +4,7 @@
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "162"
+    "star": "158"
   },
   {
     "title": "openai/whisper",
@@ -53,7 +53,7 @@
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "133"
+    "star": "127"
   },
   {
     "title": "Launch-X-Latam/OnBoarding",
@@ -67,7 +67,7 @@
     "url": "https://github.com/ange-yaghi/engine-sim",
     "description": "Combustion engine simulator that generates realistic audio.",
     "language": "C++",
-    "star": "72"
+    "star": "70"
   },
   {
     "title": "XavierXiao/Dreambooth-Stable-Diffusion",
@@ -88,14 +88,14 @@
     "url": "https://github.com/steven-tey/dub",
     "description": "An open-source link shortener with built-in analytics + free custom domains.",
     "language": "TypeScript",
-    "star": "230"
+    "star": "231"
   },
   {
     "title": "inancgumus/learngo",
     "url": "https://github.com/inancgumus/learngo",
     "description": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
     "language": "Go",
-    "star": "123"
+    "star": "121"
   },
   {
     "title": "AveYo/MediaCreationTool.bat",
@@ -116,14 +116,14 @@
     "url": "https://github.com/rust-lang/rust",
     "description": "Empowering everyone to build reliable and efficient software.",
     "language": "Rust",
-    "star": "51"
+    "star": "48"
   },
   {
     "title": "desktop/desktop",
     "url": "https://github.com/desktop/desktop",
     "description": "Simple collaboration from your desktop",
     "language": "TypeScript",
-    "star": "25"
+    "star": "36"
   },
   {
     "title": "zhongyang219/TrafficMonitor",
@@ -165,13 +165,13 @@
     "url": "https://github.com/TheAlgorithms/JavaScript",
     "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
     "language": "JavaScript",
-    "star": "109"
+    "star": "111"
   },
   {
     "title": "Akebi-Group/Akebi-GC",
     "url": "https://github.com/Akebi-Group/Akebi-GC",
     "description": "The great software for some game that exploiting anime girls (and boys).",
     "language": "C++",
-    "star": "20"
+    "star": "18"
   }
 ]
