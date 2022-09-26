@@ -1,0 +1,177 @@
+[
+  {
+    "title": "jzimmerman/langcc",
+    "url": "https://github.com/jzimmerman/langcc",
+    "description": "langcc: A Next-Generation Compiler Compiler",
+    "language": "C++",
+    "star": "175"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
+    "language": "Java",
+    "star": "125"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "97"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "language": "Dart",
+    "star": "52"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "160"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "242"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "218"
+  },
+  {
+    "title": "nv-tlabs/GET3D",
+    "url": "https://github.com/nv-tlabs/GET3D",
+    "description": "",
+    "language": "none",
+    "star": "182"
+  },
+  {
+    "title": "octocat/Spoon-Knife",
+    "url": "https://github.com/octocat/Spoon-Knife",
+    "description": "This repo is for demonstration purposes only.",
+    "language": "HTML",
+    "star": "11"
+  },
+  {
+    "title": "XavierXiao/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
+    "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion",
+    "language": "Jupyter Notebook",
+    "star": "70"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "123"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "36"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "",
+    "language": "Shell",
+    "star": "55"
+  },
+  {
+    "title": "yewstack/yew",
+    "url": "https://github.com/yewstack/yew",
+    "description": "Rust / Wasm framework for building client web apps",
+    "language": "Rust",
+    "star": "32"
+  },
+  {
+    "title": "cemu-project/Cemu",
+    "url": "https://github.com/cemu-project/Cemu",
+    "description": "Cemu is a Wii U emulator",
+    "language": "C++",
+    "star": "22"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Shell",
+    "star": "133"
+  },
+  {
+    "title": "steven-tey/dub",
+    "url": "https://github.com/steven-tey/dub",
+    "description": "An open-source link shortener with built-in analytics + free custom domains.",
+    "language": "TypeScript",
+    "star": "423"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "121"
+  },
+  {
+    "title": "termux/termux-app",
+    "url": "https://github.com/termux/termux-app",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "language": "Java",
+    "star": "31"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "description": "A modern replacement for Redis and Memcached",
+    "language": "C++",
+    "star": "66"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "description": "All Algorithms implemented in Rust",
+    "language": "Rust",
+    "star": "39"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "135"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "description": "A build system and primary set of packages for Termux.",
+    "language": "Shell",
+    "star": "4"
+  },
+  {
+    "title": "Launch-X-Latam/OnBoarding",
+    "url": "https://github.com/Launch-X-Latam/OnBoarding",
+    "description": "",
+    "language": "none",
+    "star": "37"
+  }
+]
