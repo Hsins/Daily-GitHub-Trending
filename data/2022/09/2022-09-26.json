@@ -4,14 +4,14 @@
     "url": "https://github.com/jzimmerman/langcc",
     "description": "langcc: A Next-Generation Compiler Compiler",
     "language": "C++",
-    "star": "185"
+    "star": "175"
   },
   {
     "title": "doocs/advanced-java",
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "356"
+    "star": "125"
   },
   {
     "title": "trekhleb/javascript-algorithms",
@@ -25,21 +25,21 @@
     "url": "https://github.com/AppFlowy-IO/AppFlowy",
     "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
     "language": "Dart",
-    "star": "51"
+    "star": "52"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "113"
+    "star": "160"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "289"
+    "star": "242"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -60,14 +60,14 @@
     "url": "https://github.com/octocat/Spoon-Knife",
     "description": "This repo is for demonstration purposes only.",
     "language": "HTML",
-    "star": "12"
+    "star": "11"
   },
   {
     "title": "XavierXiao/Dreambooth-Stable-Diffusion",
     "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
     "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion",
     "language": "Jupyter Notebook",
-    "star": "75"
+    "star": "70"
   },
   {
     "title": "jlevy/the-art-of-command-line",
@@ -81,21 +81,21 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "80"
+    "star": "36"
   },
   {
     "title": "LSPosed/MagiskOnWSALocal",
     "url": "https://github.com/LSPosed/MagiskOnWSALocal",
     "description": "",
     "language": "Shell",
-    "star": "34"
+    "star": "55"
   },
   {
     "title": "yewstack/yew",
     "url": "https://github.com/yewstack/yew",
     "description": "Rust / Wasm framework for building client web apps",
     "language": "Rust",
-    "star": "90"
+    "star": "32"
   },
   {
     "title": "cemu-project/Cemu",
@@ -109,21 +109,21 @@
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "80"
+    "star": "79"
   },
   {
     "title": "MichaelCade/90DaysOfDevOps",
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "140"
+    "star": "133"
   },
   {
     "title": "steven-tey/dub",
     "url": "https://github.com/steven-tey/dub",
     "description": "An open-source link shortener with built-in analytics + free custom domains.",
     "language": "TypeScript",
-    "star": "429"
+    "star": "423"
   },
   {
     "title": "ossu/computer-science",
@@ -137,21 +137,21 @@
     "url": "https://github.com/termux/termux-app",
     "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
     "language": "Java",
-    "star": "33"
+    "star": "31"
   },
   {
     "title": "dragonflydb/dragonfly",
     "url": "https://github.com/dragonflydb/dragonfly",
     "description": "A modern replacement for Redis and Memcached",
     "language": "C++",
-    "star": "69"
+    "star": "66"
   },
   {
     "title": "TheAlgorithms/Rust",
     "url": "https://github.com/TheAlgorithms/Rust",
     "description": "All Algorithms implemented in Rust",
     "language": "Rust",
-    "star": "37"
+    "star": "39"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Launch-X-Latam/OnBoarding",
     "description": "",
     "language": "none",
-    "star": "35"
+    "star": "37"
   }
 ]
