@@ -4,35 +4,35 @@
     "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
     "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) with Stable Diffusion",
     "language": "Jupyter Notebook",
-    "star": "466"
+    "star": "258"
   },
   {
     "title": "jzimmerman/langcc",
     "url": "https://github.com/jzimmerman/langcc",
     "description": "langcc: A Next-Generation Compiler Compiler",
     "language": "C++",
-    "star": "309"
+    "star": "291"
   },
   {
     "title": "google/tensorstore",
     "url": "https://github.com/google/tensorstore",
     "description": "Library for reading and writing large multi-dimensional arrays.",
     "language": "C++",
-    "star": "93"
+    "star": "99"
   },
   {
     "title": "nv-tlabs/GET3D",
     "url": "https://github.com/nv-tlabs/GET3D",
     "description": "",
     "language": "none",
-    "star": "203"
+    "star": "174"
   },
   {
     "title": "doocs/advanced-java",
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "225"
+    "star": "228"
   },
   {
     "title": "karanpratapsingh/system-design",
@@ -46,21 +46,21 @@
     "url": "https://github.com/SagerNet/sing-box",
     "description": "The universal proxy platform",
     "language": "Go",
-    "star": "79"
+    "star": "105"
   },
   {
     "title": "firstcontributions/first-contributions",
     "url": "https://github.com/firstcontributions/first-contributions",
     "description": "🚀✨ Help beginners to contribute to open source projects",
     "language": "none",
-    "star": "56"
+    "star": "118"
   },
   {
     "title": "ahrm/UnstableFusion",
     "url": "https://github.com/ahrm/UnstableFusion",
     "description": "A Stable Diffusion desktop frontend with inpainting, img2img and more!",
     "language": "Jupyter Notebook",
-    "star": "110"
+    "star": "152"
   },
   {
     "title": "WordPress/wordpress-wasm",
@@ -74,7 +74,7 @@
     "url": "https://github.com/steven-tey/dub",
     "description": "An open-source link shortener with built-in analytics + free custom domains.",
     "language": "TypeScript",
-    "star": "454"
+    "star": "336"
   },
   {
     "title": "octocat/Spoon-Knife",
@@ -88,63 +88,63 @@
     "url": "https://github.com/anaer/Sub",
     "description": "自用clash订阅链接",
     "language": "JavaScript",
-    "star": "8"
+    "star": "35"
   },
   {
     "title": "fffaraz/awesome-cpp",
     "url": "https://github.com/fffaraz/awesome-cpp",
     "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
     "language": "none",
-    "star": "57"
+    "star": "65"
   },
   {
     "title": "evilsocket/spycast",
     "url": "https://github.com/evilsocket/spycast",
     "description": "A crossplatform mDNS enumeration tool.",
     "language": "HTML",
-    "star": "13"
+    "star": "21"
   },
   {
     "title": "m1guelpf/yt-whisper",
     "url": "https://github.com/m1guelpf/yt-whisper",
     "description": "Using OpenAI's Whisper to automatically generate YouTube subtitles",
     "language": "Python",
-    "star": "53"
+    "star": "66"
   },
   {
     "title": "envoyproxy/protoc-gen-validate",
     "url": "https://github.com/envoyproxy/protoc-gen-validate",
     "description": "protoc plugin to generate polyglot message validators",
     "language": "Go",
-    "star": "18"
+    "star": "19"
   },
   {
     "title": "dotnet/efcore",
     "url": "https://github.com/dotnet/efcore",
     "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
     "language": "C#",
-    "star": "4"
+    "star": "9"
   },
   {
     "title": "xkcoding/spring-boot-demo",
     "url": "https://github.com/xkcoding/spring-boot-demo",
     "description": "该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、ema…",
     "language": "Java",
-    "star": "46"
+    "star": "56"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "83"
+    "star": "161"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "137"
+    "star": "145"
   },
   {
     "title": "angular/angular-cli",
@@ -165,13 +165,13 @@
     "url": "https://github.com/termux/termux-packages",
     "description": "A build system and primary set of packages for Termux.",
     "language": "Shell",
-    "star": "13"
+    "star": "47"
   },
   {
     "title": "ReactiveX/RxSwift",
     "url": "https://github.com/ReactiveX/RxSwift",
     "description": "Reactive Programming in Swift",
     "language": "Swift",
-    "star": "3"
+    "star": "25"
   }
 ]
