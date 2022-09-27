@@ -11,7 +11,7 @@
     "url": "https://github.com/jzimmerman/langcc",
     "description": "langcc: A Next-Generation Compiler Compiler",
     "language": "C++",
-    "star": "370"
+    "star": "309"
   },
   {
     "title": "google/tensorstore",
@@ -25,14 +25,14 @@
     "url": "https://github.com/nv-tlabs/GET3D",
     "description": "",
     "language": "none",
-    "star": "204"
+    "star": "203"
   },
   {
     "title": "doocs/advanced-java",
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "354"
+    "star": "225"
   },
   {
     "title": "karanpratapsingh/system-design",
@@ -46,14 +46,14 @@
     "url": "https://github.com/SagerNet/sing-box",
     "description": "The universal proxy platform",
     "language": "Go",
-    "star": "80"
+    "star": "79"
   },
   {
     "title": "firstcontributions/first-contributions",
     "url": "https://github.com/firstcontributions/first-contributions",
     "description": "🚀✨ Help beginners to contribute to open source projects",
     "language": "none",
-    "star": "61"
+    "star": "56"
   },
   {
     "title": "ahrm/UnstableFusion",
@@ -67,14 +67,14 @@
     "url": "https://github.com/WordPress/wordpress-wasm",
     "description": "Run WordPress in the browser thanks to WebAssembly magic",
     "language": "PHP",
-    "star": "69"
+    "star": "68"
   },
   {
     "title": "steven-tey/dub",
     "url": "https://github.com/steven-tey/dub",
     "description": "An open-source link shortener with built-in analytics + free custom domains.",
     "language": "TypeScript",
-    "star": "455"
+    "star": "454"
   },
   {
     "title": "octocat/Spoon-Knife",
@@ -109,14 +109,14 @@
     "url": "https://github.com/m1guelpf/yt-whisper",
     "description": "Using OpenAI's Whisper to automatically generate YouTube subtitles",
     "language": "Python",
-    "star": "50"
+    "star": "53"
   },
   {
     "title": "envoyproxy/protoc-gen-validate",
     "url": "https://github.com/envoyproxy/protoc-gen-validate",
     "description": "protoc plugin to generate polyglot message validators",
     "language": "Go",
-    "star": "3"
+    "star": "18"
   },
   {
     "title": "dotnet/efcore",
@@ -130,14 +130,14 @@
     "url": "https://github.com/xkcoding/spring-boot-demo",
     "description": "该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、ema…",
     "language": "Java",
-    "star": "45"
+    "star": "46"
   },
   {
     "title": "jackfrued/Python-100-Days",
     "url": "https://github.com/jackfrued/Python-100-Days",
     "description": "Python - 100天从新手到大师",
     "language": "Python",
-    "star": "84"
+    "star": "83"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -151,7 +151,7 @@
     "url": "https://github.com/angular/angular-cli",
     "description": "CLI tool for Angular",
     "language": "TypeScript",
-    "star": "5"
+    "star": "4"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
