@@ -4,154 +4,154 @@
     "url": "https://github.com/total-typescript/beginners-typescript-tutorial",
     "description": "An interactive TypeScript tutorial for beginners",
     "language": "TypeScript",
-    "star": "126"
+    "star": "135"
   },
   {
     "title": "penpot/penpot",
     "url": "https://github.com/penpot/penpot",
     "description": "Penpot - The Open-Source design & prototyping platform",
     "language": "Clojure",
-    "star": "236"
+    "star": "214"
   },
   {
     "title": "cypress-io/cypress",
     "url": "https://github.com/cypress-io/cypress",
     "description": "Fast, easy and reliable testing for anything that runs in a browser.",
     "language": "JavaScript",
-    "star": "73"
+    "star": "137"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "58"
+    "star": "67"
   },
   {
     "title": "lucidrains/make-a-video-pytorch",
     "url": "https://github.com/lucidrains/make-a-video-pytorch",
     "description": "Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch",
     "language": "Python",
-    "star": "92"
+    "star": "108"
   },
   {
     "title": "NielsRogge/Transformers-Tutorials",
     "url": "https://github.com/NielsRogge/Transformers-Tutorials",
     "description": "This repository contains demos I made with the Transformers library by HuggingFace.",
     "language": "Jupyter Notebook",
-    "star": "150"
+    "star": "165"
   },
   {
     "title": "nv-tlabs/GET3D",
     "url": "https://github.com/nv-tlabs/GET3D",
     "description": "",
     "language": "Python",
-    "star": "173"
+    "star": "177"
   },
   {
     "title": "inspiradanacomputacao/tecnologistas-contra-bolsonaro",
     "url": "https://github.com/inspiradanacomputacao/tecnologistas-contra-bolsonaro",
     "description": "Manifesto de Pessoas Tecnologistas contra Bolsonaro",
     "language": "none",
-    "star": "27"
+    "star": "25"
   },
   {
     "title": "Ildaron/Laser_control",
     "url": "https://github.com/Ildaron/Laser_control",
     "description": "Open-Source Laser for control mosquito, weed, and pest",
     "language": "Python",
-    "star": "30"
+    "star": "43"
   },
   {
     "title": "developedbyed/react-portofolio-with-tailwind",
     "url": "https://github.com/developedbyed/react-portofolio-with-tailwind",
     "description": "",
     "language": "JavaScript",
-    "star": "9"
+    "star": "10"
   },
   {
     "title": "Nickyie/Cybersecurity-Resources",
     "url": "https://github.com/Nickyie/Cybersecurity-Resources",
     "description": "A Library of various cybersecurity resources",
     "language": "none",
-    "star": "28"
+    "star": "27"
   },
   {
     "title": "isaced/V2exOS",
     "url": "https://github.com/isaced/V2exOS",
     "description": "一个用 SwiftUI 编写的 V2ex macOS 客户端（Beta）",
     "language": "Swift",
-    "star": "22"
+    "star": "29"
   },
   {
     "title": "IceWhaleTech/CasaOS",
     "url": "https://github.com/IceWhaleTech/CasaOS",
     "description": "CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.",
     "language": "Go",
-    "star": "52"
+    "star": "84"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "105"
+    "star": "108"
   },
   {
     "title": "google/latexify_py",
     "url": "https://github.com/google/latexify_py",
     "description": "Generates LaTeX math description from Python functions.",
     "language": "Python",
-    "star": "177"
+    "star": "166"
   },
   {
     "title": "denoland/deno",
     "url": "https://github.com/denoland/deno",
     "description": "A modern runtime for JavaScript and TypeScript.",
     "language": "Rust",
-    "star": "44"
+    "star": "24"
   },
   {
     "title": "phoenixframework/phoenix",
     "url": "https://github.com/phoenixframework/phoenix",
     "description": "Peace of mind from prototype to production",
     "language": "Elixir",
-    "star": "12"
+    "star": "14"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "43"
+    "star": "37"
   },
   {
     "title": "CompVis/stable-diffusion",
     "url": "https://github.com/CompVis/stable-diffusion",
     "description": "A latent text-to-image diffusion model",
     "language": "Jupyter Notebook",
-    "star": "174"
+    "star": "161"
   },
   {
     "title": "fireship-io/fireship.io",
     "url": "https://github.com/fireship-io/fireship.io",
     "description": "Build and ship your app faster https://fireship.io",
     "language": "Svelte",
-    "star": "6"
+    "star": "5"
   },
   {
     "title": "lidangzzz/How-to-run",
     "url": "https://github.com/lidangzzz/How-to-run",
     "description": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
     "language": "none",
-    "star": "56"
+    "star": "62"
   },
   {
     "title": "novuhq/novu",
     "url": "https://github.com/novuhq/novu",
     "description": "🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...",
     "language": "TypeScript",
-    "star": "62"
+    "star": "46"
   },
   {
     "title": "docker/awesome-compose",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "34"
+    "star": "38"
   },
   {
     "title": "dosisod/refurb",
     "url": "https://github.com/dosisod/refurb",
     "description": "A tool for refurbishing and modernizing Python codebases",
     "language": "Python",
-    "star": "222"
+    "star": "243"
   }
 ]
