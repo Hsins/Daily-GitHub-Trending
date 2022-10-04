@@ -4,56 +4,56 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "162"
+    "star": "159"
   },
   {
     "title": "TheAlgorithms/C-Plus-Plus",
     "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
     "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
     "language": "C++",
-    "star": "165"
+    "star": "160"
   },
   {
     "title": "firstcontributions/first-contributions",
     "url": "https://github.com/firstcontributions/first-contributions",
     "description": "🚀✨ Help beginners to contribute to open source projects",
     "language": "none",
-    "star": "230"
+    "star": "236"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "155"
+    "star": "153"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "147"
+    "star": "149"
   },
   {
     "title": "TryGhost/Ghost",
     "url": "https://github.com/TryGhost/Ghost",
     "description": "Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.",
     "language": "JavaScript",
-    "star": "71"
+    "star": "72"
   },
   {
     "title": "SigNoz/signoz",
     "url": "https://github.com/SigNoz/signoz",
     "description": "SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool",
     "language": "TypeScript",
-    "star": "155"
+    "star": "158"
   },
   {
     "title": "soxoj/maigret",
     "url": "https://github.com/soxoj/maigret",
     "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
     "language": "Python",
-    "star": "471"
+    "star": "464"
   },
   {
     "title": "FernandaCader/recursos-datos",
@@ -67,14 +67,14 @@
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "117"
+    "star": "115"
   },
   {
     "title": "leeoniya/uFuzzy",
     "url": "https://github.com/leeoniya/uFuzzy",
     "description": "A tiny, efficient fuzzy search that doesn't suck",
     "language": "JavaScript",
-    "star": "167"
+    "star": "168"
   },
   {
     "title": "iced-rs/iced",
@@ -88,21 +88,21 @@
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "55"
+    "star": "52"
   },
   {
     "title": "bufbuild/protoc-gen-validate",
     "url": "https://github.com/bufbuild/protoc-gen-validate",
     "description": "protoc plugin to generate polyglot message validators",
     "language": "Go",
-    "star": "26"
+    "star": "24"
   },
   {
     "title": "stephrobert/awesome-french-devops",
     "url": "https://github.com/stephrobert/awesome-french-devops",
     "description": "Une liste de liens permettant de se former aux outils utilisés dans le domaine du Devops",
     "language": "none",
-    "star": "84"
+    "star": "85"
   },
   {
     "title": "palera1n/palera1n",
@@ -116,21 +116,21 @@
     "url": "https://github.com/novuhq/novu",
     "description": "⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest engine, user preferences, and delivers Email, SMS, Push and Chat notifications using a single API. ⚡",
     "language": "TypeScript",
-    "star": "163"
+    "star": "159"
   },
   {
     "title": "odoo/odoo",
     "url": "https://github.com/odoo/odoo",
     "description": "Odoo. Open Source Apps To Grow Your Business.",
     "language": "JavaScript",
-    "star": "34"
+    "star": "33"
   },
   {
     "title": "lkwq007/stablediffusion-infinity",
     "url": "https://github.com/lkwq007/stablediffusion-infinity",
     "description": "Outpainting with Stable Diffusion on an infinite canvas",
     "language": "Python",
-    "star": "203"
+    "star": "196"
   },
   {
     "title": "nvm-sh/nvm",
@@ -144,21 +144,21 @@
     "url": "https://github.com/stefanprodan/podinfo",
     "description": "Go microservice template for Kubernetes",
     "language": "Go",
-    "star": "176"
+    "star": "181"
   },
   {
     "title": "huggingface/transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
     "language": "Python",
-    "star": "80"
+    "star": "83"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
     "language": "TypeScript",
-    "star": "132"
+    "star": "144"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
@@ -172,6 +172,6 @@
     "url": "https://github.com/remoteintech/remote-jobs",
     "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
     "language": "JavaScript",
-    "star": "120"
+    "star": "125"
   }
 ]
