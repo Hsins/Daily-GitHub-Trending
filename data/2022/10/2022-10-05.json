@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebookincubator/AITemplate",
+    "url": "https://github.com/facebookincubator/AITemplate",
+    "description": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
+    "language": "Python",
+    "star": "378"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "snaplet/postgres-wasm",
+    "url": "https://github.com/snaplet/postgres-wasm",
+    "description": "A PostgresQL server running in your browser",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "Cryptogenic/PS5-4.03-Kernel-Exploit",
+    "url": "https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit",
+    "description": "An experimental webkit-based kernel exploit (Arb. R/W) for the PS5 on 4.03FW/4.50FW",
+    "language": "JavaScript",
+    "star": "79"
+  },
+  {
+    "title": "folke/noice.nvim",
+    "url": "https://github.com/folke/noice.nvim",
+    "description": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
+    "language": "Lua",
+    "star": "138"
+  },
+  {
+    "title": "iced-rs/iced",
+    "url": "https://github.com/iced-rs/iced",
+    "description": "A cross-platform GUI library for Rust, inspired by Elm",
+    "language": "Rust",
+    "star": "139"
+  },
+  {
+    "title": "itsnebulalol/ios15-tweaks",
+    "url": "https://github.com/itsnebulalol/ios15-tweaks",
+    "description": "List of supported, partially supported, and unsupported *non-rootless* tweaks for iOS 15.",
+    "language": "Makefile",
+    "star": "14"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly",
+    "language": "JavaScript",
+    "star": "107"
+  },
+  {
+    "title": "Expensify/App",
+    "url": "https://github.com/Expensify/App",
+    "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+    "language": "JavaScript",
+    "star": "20"
+  },
+  {
+    "title": "asottile/pyupgrade",
+    "url": "https://github.com/asottile/pyupgrade",
+    "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "apple/swift-collections",
+    "url": "https://github.com/apple/swift-collections",
+    "description": "Commonly used data structures for Swift",
+    "language": "Swift",
+    "star": "18"
+  },
+  {
+    "title": "DefectDojo/django-DefectDojo",
+    "url": "https://github.com/DefectDojo/django-DefectDojo",
+    "description": "DefectDojo is a DevSecOps and vulnerability management tool.",
+    "language": "HTML",
+    "star": "19"
+  },
+  {
+    "title": "he4rt/he4rtoberfest-2022",
+    "url": "https://github.com/he4rt/he4rtoberfest-2022",
+    "description": "Repo oficial do He4rtoberfest da He4rt Developers 2022",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "language": "JavaScript",
+    "star": "72"
+  },
+  {
+    "title": "surveyjs/survey-library",
+    "url": "https://github.com/surveyjs/survey-library",
+    "description": "JavaScript Survey and Form Library",
+    "language": "TypeScript",
+    "star": "26"
+  },
+  {
+    "title": "hashicorp/terraform-cdk",
+    "url": "https://github.com/hashicorp/terraform-cdk",
+    "description": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+    "language": "TypeScript",
+    "star": "27"
+  },
+  {
+    "title": "fineanmol/Hacktoberfest2022",
+    "url": "https://github.com/fineanmol/Hacktoberfest2022",
+    "description": "Make your first Pull Request on Hacktoberfest 2022. Don't forget to spread love and if you like give us a ⭐️",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "description": "This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.",
+    "language": "Java",
+    "star": "19"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
+    "language": "TypeScript",
+    "star": "7"
+  },
+  {
+    "title": "jbogard/MediatR",
+    "url": "https://github.com/jbogard/MediatR",
+    "description": "Simple, unambitious mediator implementation in .NET",
+    "language": "C#",
+    "star": "14"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "language": "C++",
+    "star": "139"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "description": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "language": "Jupyter Notebook",
+    "star": "14"
+  },
+  {
+    "title": "swagger-api/swagger-codegen",
+    "url": "https://github.com/swagger-api/swagger-codegen",
+    "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+    "language": "Mustache",
+    "star": "26"
+  },
+  {
+    "title": "bufbuild/protoc-gen-validate",
+    "url": "https://github.com/bufbuild/protoc-gen-validate",
+    "description": "protoc plugin to generate polyglot message validators",
+    "language": "Go",
+    "star": "36"
+  }
+]
