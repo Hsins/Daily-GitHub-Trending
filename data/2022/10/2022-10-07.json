@@ -4,56 +4,56 @@
     "url": "https://github.com/libsql/libsql",
     "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
     "language": "C",
-    "star": "316"
+    "star": "311"
   },
   {
     "title": "remoteintech/remote-jobs",
     "url": "https://github.com/remoteintech/remote-jobs",
     "description": "A list of semi to fully remote-friendly companies (jobs) in tech.",
     "language": "JavaScript",
-    "star": "377"
+    "star": "378"
   },
   {
     "title": "psf/black",
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "102"
+    "star": "97"
   },
   {
     "title": "facebookincubator/AITemplate",
     "url": "https://github.com/facebookincubator/AITemplate",
     "description": "AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.",
     "language": "Python",
-    "star": "173"
+    "star": "175"
   },
   {
     "title": "net4people/bbs",
     "url": "https://github.com/net4people/bbs",
     "description": "Forum for discussing Internet censorship circumvention",
     "language": "Python",
-    "star": "137"
+    "star": "133"
   },
   {
     "title": "xcad2k/cheat-sheets",
     "url": "https://github.com/xcad2k/cheat-sheets",
     "description": "This is my personal knowledge-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies.",
     "language": "none",
-    "star": "188"
+    "star": "181"
   },
   {
     "title": "snaplet/postgres-wasm",
     "url": "https://github.com/snaplet/postgres-wasm",
     "description": "A PostgresQL server running in your browser",
     "language": "Shell",
-    "star": "217"
+    "star": "214"
   },
   {
     "title": "shubhamgrg04/awesome-diagramming",
     "url": "https://github.com/shubhamgrg04/awesome-diagramming",
     "description": "A curated collection of diagramming tools used by leading software engineering teams",
     "language": "none",
-    "star": "332"
+    "star": "333"
   },
   {
     "title": "deepset-ai/haystack",
@@ -67,7 +67,7 @@
     "url": "https://github.com/palera1n/palera1n",
     "description": "iOS 15.0-15.3.1 tethered checkm8 \"jailbreak\" (rootless is 15.0-15.7 semi-tethered, no tweaks)",
     "language": "Shell",
-    "star": "68"
+    "star": "70"
   },
   {
     "title": "SecureAuthCorp/impacket",
@@ -81,56 +81,56 @@
     "url": "https://github.com/pola-rs/polars",
     "description": "Fast multi-threaded DataFrame library in Rust | Python | Node.js",
     "language": "Rust",
-    "star": "111"
+    "star": "110"
   },
   {
     "title": "sourcegraph/sourcegraph",
     "url": "https://github.com/sourcegraph/sourcegraph",
     "description": "Universal code search (self-hosted)",
     "language": "Go",
-    "star": "132"
+    "star": "123"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "300"
+    "star": "291"
   },
   {
     "title": "sqlfluff/sqlfluff",
     "url": "https://github.com/sqlfluff/sqlfluff",
     "description": "A SQL linter and auto-formatter for Humans",
     "language": "Python",
-    "star": "153"
+    "star": "150"
   },
   {
     "title": "huggingface/datasets",
     "url": "https://github.com/huggingface/datasets",
     "description": "🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools",
     "language": "Python",
-    "star": "168"
+    "star": "165"
   },
   {
     "title": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "49"
+    "star": "52"
   },
   {
     "title": "gradio-app/gradio",
     "url": "https://github.com/gradio-app/gradio",
     "description": "Create UIs for your machine learning model in Python in 3 minutes",
     "language": "Python",
-    "star": "125"
+    "star": "124"
   },
   {
     "title": "helm/helm",
     "url": "https://github.com/helm/helm",
     "description": "The Kubernetes Package Manager",
     "language": "Go",
-    "star": "56"
+    "star": "61"
   },
   {
     "title": "wagtail/wagtail",
@@ -144,7 +144,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "189"
+    "star": "187"
   },
   {
     "title": "copy/v86",
@@ -158,20 +158,20 @@
     "url": "https://github.com/torvalds/linux",
     "description": "Linux kernel source tree",
     "language": "C",
-    "star": "157"
+    "star": "169"
   },
   {
     "title": "zhanwen/MathModel",
     "url": "https://github.com/zhanwen/MathModel",
     "description": "研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT",
     "language": "TeX",
-    "star": "53"
+    "star": "50"
   },
   {
     "title": "community/community",
     "url": "https://github.com/community/community",
     "description": "Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!",
     "language": "none",
-    "star": "57"
+    "star": "59"
   }
 ]
