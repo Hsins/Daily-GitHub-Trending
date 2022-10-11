@@ -18,14 +18,14 @@
     "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
     "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
     "language": "JavaScript",
-    "star": "51"
+    "star": "7"
   },
   {
     "title": "wagtail/wagtail",
     "url": "https://github.com/wagtail/wagtail",
     "description": "A Django content management system focused on flexibility and user experience",
     "language": "Python",
-    "star": "75"
+    "star": "70"
   },
   {
     "title": "hashicorp/nomad",
@@ -53,7 +53,7 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "901"
+    "star": "876"
   },
   {
     "title": "FairCrypto/XEN-crypto",
@@ -74,7 +74,7 @@
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "128"
+    "star": "104"
   },
   {
     "title": "koishijs/novelai-bot",
@@ -102,7 +102,7 @@
     "url": "https://github.com/apache/skywalking",
     "description": "APM, Application Performance Monitoring System",
     "language": "Java",
-    "star": "31"
+    "star": "71"
   },
   {
     "title": "lewagon/setup",
@@ -116,35 +116,35 @@
     "url": "https://github.com/halo-dev/halo",
     "description": "✍ 一款现代化的开源博客 / CMS 系统。",
     "language": "Java",
-    "star": "33"
+    "star": "38"
   },
   {
     "title": "vbenjs/vue-vben-admin",
     "url": "https://github.com/vbenjs/vue-vben-admin",
     "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
     "language": "Vue",
-    "star": "73"
+    "star": "91"
   },
   {
     "title": "massalabs/massa",
     "url": "https://github.com/massalabs/massa",
     "description": "The Decentralized and Scaled Blockchain",
     "language": "Rust",
-    "star": "69"
+    "star": "68"
   },
   {
     "title": "massgravel/Microsoft-Activation-Scripts",
     "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "description": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
     "language": "Batchfile",
-    "star": "377"
+    "star": "376"
   },
   {
     "title": "iluwatar/java-design-patterns",
     "url": "https://github.com/iluwatar/java-design-patterns",
     "description": "Design patterns implemented in Java",
     "language": "Java",
-    "star": "31"
+    "star": "30"
   },
   {
     "title": "jupyterhub/jupyterhub",
