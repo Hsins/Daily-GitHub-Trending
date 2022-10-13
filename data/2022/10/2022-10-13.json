@@ -39,7 +39,7 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "817"
+    "star": "797"
   },
   {
     "title": "KAIR-BAIR/nerfacc",
@@ -53,14 +53,14 @@
     "url": "https://github.com/FyroxEngine/Fyrox",
     "description": "3D and 2D game engine written in Rust",
     "language": "Rust",
-    "star": "21"
+    "star": "20"
   },
   {
     "title": "hashicorp/nomad",
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "75"
+    "star": "70"
   },
   {
     "title": "codinasion/program",
@@ -95,7 +95,7 @@
     "url": "https://github.com/wagtail/wagtail",
     "description": "A Django content management system focused on flexibility and user experience",
     "language": "Python",
-    "star": "19"
+    "star": "18"
   },
   {
     "title": "sveltejs/kit",
@@ -144,7 +144,7 @@
     "url": "https://github.com/jupyterhub/jupyterhub",
     "description": "Multi-user server for Jupyter notebooks",
     "language": "Python",
-    "star": "10"
+    "star": "8"
   },
   {
     "title": "facebook/folly",
@@ -165,13 +165,13 @@
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "79"
+    "star": "90"
   },
   {
     "title": "MobSF/Mobile-Security-Framework-MobSF",
     "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
     "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
     "language": "JavaScript",
-    "star": "69"
+    "star": "33"
   }
 ]
