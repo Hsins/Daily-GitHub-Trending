@@ -1,0 +1,177 @@
+[
+  {
+    "title": "koishijs/novelai-bot",
+    "url": "https://github.com/koishijs/novelai-bot",
+    "description": "Generate images by NovelAI | 基于 NovelAI 的画图机器人",
+    "language": "TypeScript",
+    "star": "91"
+  },
+  {
+    "title": "toss/slash",
+    "url": "https://github.com/toss/slash",
+    "description": "A collection of TypeScript/JavaScript packages to build high-quality web services.",
+    "language": "JavaScript",
+    "star": "128"
+  },
+  {
+    "title": "InboxSDK/InboxSDK",
+    "url": "https://github.com/InboxSDK/InboxSDK",
+    "description": "The InboxSDK lets you build apps for Gmail.",
+    "language": "HTML",
+    "star": "142"
+  },
+  {
+    "title": "t3l3machus/hoaxshell",
+    "url": "https://github.com/t3l3machus/hoaxshell",
+    "description": "An unconventional Windows reverse shell, currently undetected by Microsoft Defender and various other AV solutions, solely based on http(s) traffic.",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "language": "C++",
+    "star": "34"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "797"
+  },
+  {
+    "title": "KAIR-BAIR/nerfacc",
+    "url": "https://github.com/KAIR-BAIR/nerfacc",
+    "description": "A General NeRF Acceleration Toolbox in PyTorch.",
+    "language": "Python",
+    "star": "50"
+  },
+  {
+    "title": "FyroxEngine/Fyrox",
+    "url": "https://github.com/FyroxEngine/Fyrox",
+    "description": "3D and 2D game engine written in Rust",
+    "language": "Rust",
+    "star": "20"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "70"
+  },
+  {
+    "title": "codinasion/program",
+    "url": "https://github.com/codinasion/program",
+    "description": "An open source codebase for sharing programming solutions.",
+    "language": "JavaScript",
+    "star": "8"
+  },
+  {
+    "title": "dylanaraps/pure-bash-bible",
+    "url": "https://github.com/dylanaraps/pure-bash-bible",
+    "description": "📖 A collection of pure bash alternatives to external processes.",
+    "language": "Shell",
+    "star": "21"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
+    "language": "none",
+    "star": "81"
+  },
+  {
+    "title": "forthespada/CS-Books",
+    "url": "https://github.com/forthespada/CS-Books",
+    "description": "🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~",
+    "language": "none",
+    "star": "56"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "description": "A Django content management system focused on flexibility and user experience",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "description": "The fastest way to build Svelte apps",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "SunWeb3Sec/DeFiHackLabs",
+    "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+    "description": "Reproduce DeFi hack incidents using Foundry.",
+    "language": "Solidity",
+    "star": "17"
+  },
+  {
+    "title": "tj-actions/changed-files",
+    "url": "https://github.com/tj-actions/changed-files",
+    "description": "Github action to retrieve all (added, copied, modified, deleted, renamed, type changed, unmerged, unknown) files and directories.",
+    "language": "Shell",
+    "star": "4"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "description": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦",
+    "language": "HCL",
+    "star": "3"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "description": "Elegant HTTP Networking in Swift",
+    "language": "Swift",
+    "star": "6"
+  },
+  {
+    "title": "kata-containers/kata-containers",
+    "url": "https://github.com/kata-containers/kata-containers",
+    "description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "jupyterhub/jupyterhub",
+    "url": "https://github.com/jupyterhub/jupyterhub",
+    "description": "Multi-user server for Jupyter notebooks",
+    "language": "Python",
+    "star": "8"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "11"
+  },
+  {
+    "title": "justjavac/awesome-wechat-weapp",
+    "url": "https://github.com/justjavac/awesome-wechat-weapp",
+    "description": "微信小程序开发资源汇总 💯",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "90"
+  },
+  {
+    "title": "MobSF/Mobile-Security-Framework-MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "language": "JavaScript",
+    "star": "33"
+  }
+]
