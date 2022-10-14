@@ -11,7 +11,7 @@
     "url": "https://github.com/koishijs/novelai-bot",
     "description": "Generate images by NovelAI | 基于 NovelAI 的画图机器人",
     "language": "TypeScript",
-    "star": "178"
+    "star": "158"
   },
   {
     "title": "holbertonschool/Betty",
@@ -46,21 +46,21 @@
     "url": "https://github.com/wazuh/wazuh",
     "description": "Wazuh - The Open Source Security Platform",
     "language": "C",
-    "star": "13"
+    "star": "14"
   },
   {
     "title": "awesome-devblog/awesome-devblog",
     "url": "https://github.com/awesome-devblog/awesome-devblog",
     "description": "어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로).",
     "language": "none",
-    "star": "10"
+    "star": "16"
   },
   {
     "title": "pointfreeco/swift-composable-architecture",
     "url": "https://github.com/pointfreeco/swift-composable-architecture",
     "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
     "language": "Swift",
-    "star": "11"
+    "star": "10"
   },
   {
     "title": "remix-run/react-router",
@@ -81,7 +81,7 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "973"
+    "star": "944"
   },
   {
     "title": "vavkamil/awesome-bugbounty-tools",
@@ -95,7 +95,7 @@
     "url": "https://github.com/facebook/create-react-app",
     "description": "Set up a modern web app by running one command.",
     "language": "JavaScript",
-    "star": "21"
+    "star": "83"
   },
   {
     "title": "itdevbooks/pdf",
@@ -116,21 +116,21 @@
     "url": "https://github.com/toss/slash",
     "description": "A collection of TypeScript/JavaScript packages to build high-quality web services.",
     "language": "JavaScript",
-    "star": "254"
+    "star": "264"
   },
   {
     "title": "justjavac/awesome-wechat-weapp",
     "url": "https://github.com/justjavac/awesome-wechat-weapp",
     "description": "微信小程序开发资源汇总 💯",
     "language": "none",
-    "star": "50"
+    "star": "39"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "26"
+    "star": "19"
   },
   {
     "title": "Azure/Azure-Sentinel",
@@ -144,7 +144,7 @@
     "url": "https://github.com/macrozheng/mall",
     "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
     "language": "Java",
-    "star": "29"
+    "star": "30"
   },
   {
     "title": "chakra-ui/chakra-ui",
@@ -158,7 +158,7 @@
     "url": "https://github.com/IDEA-Research/detrex",
     "description": "IDEA Open Source Toolbox for Transformer Based Object Detection Algorithms",
     "language": "Python",
-    "star": "41"
+    "star": "70"
   },
   {
     "title": "microsoft/vscode",
@@ -172,6 +172,6 @@
     "url": "https://github.com/doocs/advanced-java",
     "description": "😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识",
     "language": "Java",
-    "star": "55"
+    "star": "49"
   }
 ]
