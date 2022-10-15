@@ -1,0 +1,177 @@
+[
+  {
+    "title": "holbertonschool/Betty",
+    "url": "https://github.com/holbertonschool/Betty",
+    "description": "Holberton-style C code checker written in Perl",
+    "language": "Perl",
+    "star": "39"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "52"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "language": "C#",
+    "star": "30"
+  },
+  {
+    "title": "midudev/preguntas-entrevista-react",
+    "url": "https://github.com/midudev/preguntas-entrevista-react",
+    "description": "Preguntas típicas sobre React para entrevistas de trabajo ⚛️",
+    "language": "JavaScript",
+    "star": "103"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
+    "language": "none",
+    "star": "142"
+  },
+  {
+    "title": "InterviewReady/system-design-resources",
+    "url": "https://github.com/InterviewReady/system-design-resources",
+    "description": "These are the best resources for System Design on the Internet",
+    "language": "none",
+    "star": "56"
+  },
+  {
+    "title": "rocketseat-education/ignite-lab-design-system",
+    "url": "https://github.com/rocketseat-education/ignite-lab-design-system",
+    "description": "Projeto desenvolvido durante o Ignite Lab 03",
+    "language": "TypeScript",
+    "star": "22"
+  },
+  {
+    "title": "SunWeb3Sec/DeFiHackLabs",
+    "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+    "description": "Reproduce DeFi hack incidents using Foundry.",
+    "language": "Solidity",
+    "star": "13"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "14"
+  },
+  {
+    "title": "koishijs/novelai-bot",
+    "url": "https://github.com/koishijs/novelai-bot",
+    "description": "Generate images by NovelAI | 基于 NovelAI 的画图机器人",
+    "language": "TypeScript",
+    "star": "271"
+  },
+  {
+    "title": "horizon3ai/CVE-2022-40684",
+    "url": "https://github.com/horizon3ai/CVE-2022-40684",
+    "description": "A proof of concept exploit for CVE-2022-40684 affecting Fortinet FortiOS, FortiProxy, and FortiSwitchManager",
+    "language": "Python",
+    "star": "54"
+  },
+  {
+    "title": "lxgw/LxgwWenKai",
+    "url": "https://github.com/lxgw/LxgwWenKai",
+    "description": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。",
+    "language": "Batchfile",
+    "star": "65"
+  },
+  {
+    "title": "Unity-Technologies/game-programming-patterns-demo",
+    "url": "https://github.com/Unity-Technologies/game-programming-patterns-demo",
+    "description": "A repo of small demos that assemble some of the well-known design patterns in Unity development to support the ebook \"Level up your code with game programming patterns\"",
+    "language": "C#",
+    "star": "46"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "description": "",
+    "language": "Rust",
+    "star": "104"
+  },
+  {
+    "title": "toss/slash",
+    "url": "https://github.com/toss/slash",
+    "description": "A collection of TypeScript/JavaScript packages to build high-quality web services.",
+    "language": "JavaScript",
+    "star": "260"
+  },
+  {
+    "title": "sw-yx/prompt-eng",
+    "url": "https://github.com/sw-yx/prompt-eng",
+    "description": "notes for prompt engineering",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "angular/components",
+    "url": "https://github.com/angular/components",
+    "description": "Component infrastructure and Material Design components for Angular",
+    "language": "TypeScript",
+    "star": "4"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "language": "TypeScript",
+    "star": "33"
+  },
+  {
+    "title": "JingShing/novelai-colab-ver",
+    "url": "https://github.com/JingShing/novelai-colab-ver",
+    "description": "You can use this version to experience how novelai works without a good gpu.",
+    "language": "Jupyter Notebook",
+    "star": "70"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "8"
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "description": "📋 React Hooks for form state management and validation (Web + React Native)",
+    "language": "TypeScript",
+    "star": "20"
+  },
+  {
+    "title": "great-expectations/great_expectations",
+    "url": "https://github.com/great-expectations/great_expectations",
+    "description": "Always know what to expect from your data.",
+    "language": "Python",
+    "star": "14"
+  },
+  {
+    "title": "djsime1/awesome-flipperzero",
+    "url": "https://github.com/djsime1/awesome-flipperzero",
+    "description": "🐬 A collection of awesome resources for the Flipper Zero device.",
+    "language": "none",
+    "star": "15"
+  },
+  {
+    "title": "YuzukiHD/YuzukiLOHCC-PRO",
+    "url": "https://github.com/YuzukiHD/YuzukiLOHCC-PRO",
+    "description": "Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332",
+    "language": "none",
+    "star": "240"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "124"
+  }
+]
