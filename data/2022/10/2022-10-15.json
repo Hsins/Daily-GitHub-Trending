@@ -4,7 +4,7 @@
     "url": "https://github.com/holbertonschool/Betty",
     "description": "Holberton-style C code checker written in Perl",
     "language": "Perl",
-    "star": "35"
+    "star": "39"
   },
   {
     "title": "facebook/folly",
@@ -60,7 +60,7 @@
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "14"
+    "star": "15"
   },
   {
     "title": "koishijs/novelai-bot",
@@ -81,7 +81,7 @@
     "url": "https://github.com/lxgw/LxgwWenKai",
     "description": "An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。",
     "language": "Batchfile",
-    "star": "65"
+    "star": "66"
   },
   {
     "title": "Unity-Technologies/game-programming-patterns-demo",
@@ -95,14 +95,14 @@
     "url": "https://github.com/smallnest/concurrency-programming-via-rust",
     "description": "",
     "language": "Rust",
-    "star": "119"
+    "star": "104"
   },
   {
     "title": "toss/slash",
     "url": "https://github.com/toss/slash",
     "description": "A collection of TypeScript/JavaScript packages to build high-quality web services.",
     "language": "JavaScript",
-    "star": "203"
+    "star": "260"
   },
   {
     "title": "sw-yx/prompt-eng",
@@ -116,28 +116,28 @@
     "url": "https://github.com/angular/components",
     "description": "Component infrastructure and Material Design components for Angular",
     "language": "TypeScript",
-    "star": "4"
+    "star": "5"
   },
   {
     "title": "nestjs/nest",
     "url": "https://github.com/nestjs/nest",
     "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
     "language": "TypeScript",
-    "star": "37"
+    "star": "44"
   },
   {
     "title": "JingShing/novelai-colab-ver",
     "url": "https://github.com/JingShing/novelai-colab-ver",
     "description": "You can use this version to experience how novelai works without a good gpu.",
     "language": "Jupyter Notebook",
-    "star": "68"
+    "star": "70"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "9"
+    "star": "7"
   },
   {
     "title": "react-hook-form/react-hook-form",
@@ -151,7 +151,7 @@
     "url": "https://github.com/great-expectations/great_expectations",
     "description": "Always know what to expect from your data.",
     "language": "Python",
-    "star": "16"
+    "star": "15"
   },
   {
     "title": "djsime1/awesome-flipperzero",
