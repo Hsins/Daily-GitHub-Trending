@@ -4,14 +4,14 @@
     "url": "https://github.com/holbertonschool/Betty",
     "description": "Holberton-style C code checker written in Perl",
     "language": "Perl",
-    "star": "39"
+    "star": "35"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "52"
+    "star": "55"
   },
   {
     "title": "dotnet/aspnetcore",
@@ -67,7 +67,7 @@
     "url": "https://github.com/koishijs/novelai-bot",
     "description": "Generate images by NovelAI | 基于 NovelAI 的画图机器人",
     "language": "TypeScript",
-    "star": "271"
+    "star": "279"
   },
   {
     "title": "horizon3ai/CVE-2022-40684",
@@ -95,14 +95,14 @@
     "url": "https://github.com/smallnest/concurrency-programming-via-rust",
     "description": "",
     "language": "Rust",
-    "star": "104"
+    "star": "119"
   },
   {
     "title": "toss/slash",
     "url": "https://github.com/toss/slash",
     "description": "A collection of TypeScript/JavaScript packages to build high-quality web services.",
     "language": "JavaScript",
-    "star": "260"
+    "star": "203"
   },
   {
     "title": "sw-yx/prompt-eng",
@@ -123,21 +123,21 @@
     "url": "https://github.com/nestjs/nest",
     "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
     "language": "TypeScript",
-    "star": "33"
+    "star": "37"
   },
   {
     "title": "JingShing/novelai-colab-ver",
     "url": "https://github.com/JingShing/novelai-colab-ver",
     "description": "You can use this version to experience how novelai works without a good gpu.",
     "language": "Jupyter Notebook",
-    "star": "70"
+    "star": "68"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "8"
+    "star": "9"
   },
   {
     "title": "react-hook-form/react-hook-form",
@@ -151,7 +151,7 @@
     "url": "https://github.com/great-expectations/great_expectations",
     "description": "Always know what to expect from your data.",
     "language": "Python",
-    "star": "14"
+    "star": "16"
   },
   {
     "title": "djsime1/awesome-flipperzero",
