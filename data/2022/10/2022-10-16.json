@@ -1,0 +1,177 @@
+[
+  {
+    "title": "dunglas/frankenphp",
+    "url": "https://github.com/dunglas/frankenphp",
+    "description": "The modern PHP app server",
+    "language": "Go",
+    "star": "333"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "description": "🤱🏻 很简单的用 Rust 来打包网页 Mac App",
+    "language": "Rust",
+    "star": "77"
+  },
+  {
+    "title": "cisagov/RedEye",
+    "url": "https://github.com/cisagov/RedEye",
+    "description": "RedEye is a visual analytic tool supporting Red & Blue Team operations",
+    "language": "TypeScript",
+    "star": "215"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+    "language": "TypeScript",
+    "star": "82"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "description": "",
+    "language": "Rust",
+    "star": "171"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "language": "Rust",
+    "star": "78"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "language": "Rust",
+    "star": "15"
+  },
+  {
+    "title": "YuzukiHD/YuzukiLOHCC-PRO",
+    "url": "https://github.com/YuzukiHD/YuzukiLOHCC-PRO",
+    "description": "Low cost USB3.2Gen1 HDMI-USB Video Acquisition With Loop Out (Loop Out HDMI Capture Card) base on MS2130 & MS9332",
+    "language": "none",
+    "star": "183"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "description": "A server software reimplementation for a certain anime game.",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "language": "Rust",
+    "star": "19"
+  },
+  {
+    "title": "amotile/stable-diffusion-studio",
+    "url": "https://github.com/amotile/stable-diffusion-studio",
+    "description": "An animation focused workflow frontend for Stable Diffusion",
+    "language": "TypeScript",
+    "star": "77"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+    "language": "C",
+    "star": "12"
+  },
+  {
+    "title": "itsnebulalol/deb-to-ipa",
+    "url": "https://github.com/itsnebulalol/deb-to-ipa",
+    "description": "▶️ Convert an application from a deb to an IPA with a GitHub workflow.",
+    "language": "none",
+    "star": "9"
+  },
+  {
+    "title": "JingShing/novelai-colab-ver",
+    "url": "https://github.com/JingShing/novelai-colab-ver",
+    "description": "You can use this version to experience how novelai works without a good gpu.",
+    "language": "Jupyter Notebook",
+    "star": "51"
+  },
+  {
+    "title": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit",
+    "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+    "language": "none",
+    "star": "16"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "49"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
+    "language": "Clojure",
+    "star": "65"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "star": "117"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "star": "22"
+  },
+  {
+    "title": "FedML-AI/FedML",
+    "url": "https://github.com/FedML-AI/FedML",
+    "description": "FedML - The federated learning and analytics library enabling secure and collaborative machine learning on decentralized data anywhere at any scale. Supporting large-scale cross-silo federated learning, cross-device federated learning on smartphones/IoTs, and research simulation. MLOps and App Marketplace are also enabled (https://open.fedml.ai).",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "33"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+    "language": "Python",
+    "star": "45"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's LEDE source",
+    "language": "C",
+    "star": "15"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "description": "World's fastest and most advanced password recovery utility",
+    "language": "C",
+    "star": "8"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "description": "A V2Ray client for Windows, support Xray core and v2fly core",
+    "language": "C#",
+    "star": "37"
+  }
+]
