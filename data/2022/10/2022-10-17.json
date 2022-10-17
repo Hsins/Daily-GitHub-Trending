@@ -11,14 +11,14 @@
     "url": "https://github.com/dunglas/frankenphp",
     "description": "The modern PHP app server",
     "language": "Go",
-    "star": "296"
+    "star": "458"
   },
   {
     "title": "cisagov/RedEye",
     "url": "https://github.com/cisagov/RedEye",
     "description": "RedEye is a visual analytic tool supporting Red & Blue Team operations",
     "language": "TypeScript",
-    "star": "208"
+    "star": "211"
   },
   {
     "title": "gothinkster/realworld",
@@ -60,14 +60,14 @@
     "url": "https://github.com/logseq/logseq",
     "description": "A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap",
     "language": "Clojure",
-    "star": "97"
+    "star": "99"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "95"
+    "star": "88"
   },
   {
     "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
@@ -109,7 +109,7 @@
     "url": "https://github.com/starship/starship",
     "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
     "language": "Rust",
-    "star": "63"
+    "star": "65"
   },
   {
     "title": "OpenAPITools/openapi-generator",
@@ -137,7 +137,7 @@
     "url": "https://github.com/topjohnwu/Magisk",
     "description": "The Magic Mask for Android",
     "language": "C++",
-    "star": "27"
+    "star": "26"
   },
   {
     "title": "ccxt/ccxt",
@@ -151,7 +151,7 @@
     "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
     "description": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
     "language": "Java",
-    "star": "14"
+    "star": "16"
   },
   {
     "title": "rust-lang/rust",
