@@ -4,28 +4,28 @@
     "url": "https://github.com/dragonflydb/dragonfly",
     "description": "A modern replacement for Redis and Memcached",
     "language": "C++",
-    "star": "526"
+    "star": "506"
   },
   {
     "title": "google/prompt-to-prompt",
     "url": "https://github.com/google/prompt-to-prompt",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "88"
+    "star": "89"
   },
   {
     "title": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
     "description": "🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.",
     "language": "Rust",
-    "star": "261"
+    "star": "264"
   },
   {
     "title": "cisagov/RedEye",
     "url": "https://github.com/cisagov/RedEye",
     "description": "RedEye is a visual analytic tool supporting Red & Blue Team operations",
     "language": "TypeScript",
-    "star": "313"
+    "star": "311"
   },
   {
     "title": "oceanbase/miniob",
@@ -53,21 +53,21 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "141"
+    "star": "134"
   },
   {
     "title": "pop3ret/AWSome-Pentesting",
     "url": "https://github.com/pop3ret/AWSome-Pentesting",
     "description": "My cheatsheet notes to pentest AWS infrastructure",
     "language": "none",
-    "star": "52"
+    "star": "53"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "105"
+    "star": "43"
   },
   {
     "title": "Wind4/vlmcsd",
@@ -95,7 +95,7 @@
     "url": "https://github.com/dunglas/frankenphp",
     "description": "The modern PHP app server",
     "language": "Go",
-    "star": "470"
+    "star": "475"
   },
   {
     "title": "Solido/awesome-flutter",
@@ -109,7 +109,7 @@
     "url": "https://github.com/hasura/graphql-engine",
     "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
     "language": "TypeScript",
-    "star": "60"
+    "star": "58"
   },
   {
     "title": "paritytech/substrate",
@@ -130,7 +130,7 @@
     "url": "https://github.com/OpenAPITools/openapi-generator",
     "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
     "language": "Java",
-    "star": "67"
+    "star": "66"
   },
   {
     "title": "appsmithorg/appsmith",
@@ -151,7 +151,7 @@
     "url": "https://github.com/google/zerocopy",
     "description": "",
     "language": "Rust",
-    "star": "114"
+    "star": "35"
   },
   {
     "title": "silverhack/monkey365",
@@ -165,7 +165,7 @@
     "url": "https://github.com/smallnest/concurrency-programming-via-rust",
     "description": "",
     "language": "Rust",
-    "star": "79"
+    "star": "63"
   },
   {
     "title": "madebyollin/maple-diffusion",
