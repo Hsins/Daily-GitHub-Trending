@@ -1,0 +1,177 @@
+[
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "description": "A modern replacement for Redis and Memcached",
+    "language": "C++",
+    "star": "526"
+  },
+  {
+    "title": "google/prompt-to-prompt",
+    "url": "https://github.com/google/prompt-to-prompt",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "88"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "description": "🤱🏻 很简单的用 Rust 打包网页生成很小的 Mac App 🤱🏻 A simple way to package a web page with Rust to create Mac App.",
+    "language": "Rust",
+    "star": "261"
+  },
+  {
+    "title": "cisagov/RedEye",
+    "url": "https://github.com/cisagov/RedEye",
+    "description": "RedEye is a visual analytic tool supporting Red & Blue Team operations",
+    "language": "TypeScript",
+    "star": "313"
+  },
+  {
+    "title": "oceanbase/miniob",
+    "url": "https://github.com/oceanbase/miniob",
+    "description": "",
+    "language": "C++",
+    "star": "7"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "description": "A terminal for a more modern age",
+    "language": "TypeScript",
+    "star": "104"
+  },
+  {
+    "title": "p8952/bocker",
+    "url": "https://github.com/p8952/bocker",
+    "description": "Docker implemented in around 100 lines of bash",
+    "language": "Shell",
+    "star": "131"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "141"
+  },
+  {
+    "title": "pop3ret/AWSome-Pentesting",
+    "url": "https://github.com/pop3ret/AWSome-Pentesting",
+    "description": "My cheatsheet notes to pentest AWS infrastructure",
+    "language": "none",
+    "star": "52"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "105"
+  },
+  {
+    "title": "Wind4/vlmcsd",
+    "url": "https://github.com/Wind4/vlmcsd",
+    "description": "KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)",
+    "language": "C",
+    "star": "61"
+  },
+  {
+    "title": "makermoekoe/Picoclick-C3",
+    "url": "https://github.com/makermoekoe/Picoclick-C3",
+    "description": "",
+    "language": "C",
+    "star": "30"
+  },
+  {
+    "title": "sw-yx/prompt-eng",
+    "url": "https://github.com/sw-yx/prompt-eng",
+    "description": "notes for prompt engineering",
+    "language": "none",
+    "star": "123"
+  },
+  {
+    "title": "dunglas/frankenphp",
+    "url": "https://github.com/dunglas/frankenphp",
+    "description": "The modern PHP app server",
+    "language": "Go",
+    "star": "470"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "language": "Dart",
+    "star": "28"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "description": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "language": "TypeScript",
+    "star": "60"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "5"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "52"
+  },
+  {
+    "title": "OpenAPITools/openapi-generator",
+    "url": "https://github.com/OpenAPITools/openapi-generator",
+    "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+    "language": "Java",
+    "star": "67"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "language": "TypeScript",
+    "star": "38"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning",
+    "description": "Deep learning with satellite & aerial imagery",
+    "language": "none",
+    "star": "28"
+  },
+  {
+    "title": "google/zerocopy",
+    "url": "https://github.com/google/zerocopy",
+    "description": "",
+    "language": "Rust",
+    "star": "114"
+  },
+  {
+    "title": "silverhack/monkey365",
+    "url": "https://github.com/silverhack/monkey365",
+    "description": "Monkey365 provides a tool for security consultants to easily conduct not only Microsoft 365, but also Azure subscriptions and Azure Active Directory security configuration reviews.",
+    "language": "PowerShell",
+    "star": "15"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "description": "",
+    "language": "Rust",
+    "star": "79"
+  },
+  {
+    "title": "madebyollin/maple-diffusion",
+    "url": "https://github.com/madebyollin/maple-diffusion",
+    "description": "Stable Diffusion inference on iOS / macOS using MPSGraph",
+    "language": "Swift",
+    "star": "32"
+  }
+]
