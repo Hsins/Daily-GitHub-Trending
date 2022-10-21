@@ -39,7 +39,7 @@
     "url": "https://github.com/codeedu/imersao10",
     "description": "",
     "language": "TypeScript",
-    "star": "23"
+    "star": "21"
   },
   {
     "title": "danielgindi/Charts",
@@ -81,7 +81,7 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "201"
+    "star": "202"
   },
   {
     "title": "rocketseat-education/explorer-lab-01",
@@ -95,7 +95,7 @@
     "url": "https://github.com/minio/minio",
     "description": "Multi-Cloud ☁️ Object Storage",
     "language": "Go",
-    "star": "56"
+    "star": "16"
   },
   {
     "title": "t3-oss/create-t3-turbo",
@@ -123,7 +123,7 @@
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "21"
+    "star": "19"
   },
   {
     "title": "microsoft/CBL-Mariner",
@@ -137,7 +137,7 @@
     "url": "https://github.com/moby/moby",
     "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
     "language": "Go",
-    "star": "20"
+    "star": "23"
   },
   {
     "title": "rancher/rancher",
@@ -151,14 +151,14 @@
     "url": "https://github.com/argoproj/argo-workflows",
     "description": "Workflow engine for Kubernetes",
     "language": "Go",
-    "star": "19"
+    "star": "9"
   },
   {
     "title": "AmbiML/sparrow-kata",
     "url": "https://github.com/AmbiML/sparrow-kata",
     "description": "Project Sparrow: KataOS",
     "language": "Rust",
-    "star": "35"
+    "star": "40"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
