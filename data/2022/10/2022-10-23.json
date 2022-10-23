@@ -4,14 +4,14 @@
     "url": "https://github.com/Automattic/pocket-casts-android",
     "description": "Pocket Casts Android 🎧",
     "language": "Kotlin",
-    "star": "229"
+    "star": "230"
   },
   {
     "title": "Automattic/pocket-casts-ios",
     "url": "https://github.com/Automattic/pocket-casts-ios",
     "description": "Pocket Casts iOS app 🎧",
     "language": "Swift",
-    "star": "186"
+    "star": "130"
   },
   {
     "title": "MystenLabs/sui",
@@ -25,14 +25,14 @@
     "url": "https://github.com/halfrost/LeetCode-Go",
     "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
     "language": "Go",
-    "star": "85"
+    "star": "54"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "70"
+    "star": "51"
   },
   {
     "title": "rustdesk/rustdesk",
@@ -74,7 +74,7 @@
     "url": "https://github.com/ayush714/data-science-roadmap",
     "description": "Roadmap for Data Science",
     "language": "none",
-    "star": "25"
+    "star": "12"
   },
   {
     "title": "jlevy/the-art-of-command-line",
@@ -88,7 +88,7 @@
     "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
     "description": "Latex code for making neural networks diagrams",
     "language": "TeX",
-    "star": "67"
+    "star": "64"
   },
   {
     "title": "Fndroid/clash_for_windows_pkg",
@@ -109,7 +109,7 @@
     "url": "https://github.com/chainguard-dev/osquery-defense-kit",
     "description": "Production-ready detection & response queries for osquery",
     "language": "Makefile",
-    "star": "76"
+    "star": "77"
   },
   {
     "title": "ethereum-lists/chains",
@@ -123,14 +123,14 @@
     "url": "https://github.com/sea-protocol/seaprotocol",
     "description": "Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime!",
     "language": "Move",
-    "star": "522"
+    "star": "608"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "17"
+    "star": "14"
   },
   {
     "title": "ziglang/zig",
@@ -144,7 +144,7 @@
     "url": "https://github.com/TGSAN/CMWTAT_Digital_Edition",
     "description": "CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！",
     "language": "C#",
-    "star": "32"
+    "star": "29"
   },
   {
     "title": "open-mmlab/mmrotate",
@@ -158,7 +158,7 @@
     "url": "https://github.com/runwayml/stable-diffusion",
     "description": "Latent Text-to-Image Diffusion",
     "language": "Jupyter Notebook",
-    "star": "166"
+    "star": "161"
   },
   {
     "title": "MiCode/Xiaomi_Kernel_OpenSource",
@@ -172,6 +172,6 @@
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "language": "Java",
-    "star": "169"
+    "star": "168"
   }
 ]
