@@ -1,0 +1,177 @@
+[
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "language": "Rust",
+    "star": "44"
+  },
+  {
+    "title": "TelegramMessenger/telemint",
+    "url": "https://github.com/TelegramMessenger/telemint",
+    "description": "Telegram Auction Platform smart contracts",
+    "language": "none",
+    "star": "29"
+  },
+  {
+    "title": "Automattic/pocket-casts-android",
+    "url": "https://github.com/Automattic/pocket-casts-android",
+    "description": "Pocket Casts Android 🎧",
+    "language": "Kotlin",
+    "star": "246"
+  },
+  {
+    "title": "guacsec/guac",
+    "url": "https://github.com/guacsec/guac",
+    "description": "",
+    "language": "Go",
+    "star": "40"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "language": "Go",
+    "star": "116"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "",
+    "language": "Shell",
+    "star": "29"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "657"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "description": "A curated list of software and architecture related design patterns.",
+    "language": "none",
+    "star": "211"
+  },
+  {
+    "title": "Automattic/pocket-casts-ios",
+    "url": "https://github.com/Automattic/pocket-casts-ios",
+    "description": "Pocket Casts iOS app 🎧",
+    "language": "Swift",
+    "star": "182"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "172"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "star": "81"
+  },
+  {
+    "title": "liyupi/sql-father-backend-public",
+    "url": "https://github.com/liyupi/sql-father-backend-public",
+    "description": "新项目：快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮",
+    "language": "Java",
+    "star": "60"
+  },
+  {
+    "title": "liyupi/sql-father-frontend-public",
+    "url": "https://github.com/liyupi/sql-father-frontend-public",
+    "description": "新项目：快速生成 SQL 和模拟数据的网站（React 前端），大幅提高开发测试效率！by 程序员鱼皮",
+    "language": "TypeScript",
+    "star": "60"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "language": "Rust",
+    "star": "55"
+  },
+  {
+    "title": "MonsterNone/tmall-miao",
+    "url": "https://github.com/MonsterNone/tmall-miao",
+    "description": "喵币助手：618天猫（淘宝）、京东任务一键完成。基于Auto.JS。打包版已做防检测处理。",
+    "language": "JavaScript",
+    "star": "63"
+  },
+  {
+    "title": "cmhungsteve/Awesome-Transformer-Attention",
+    "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
+    "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
+    "language": "none",
+    "star": "68"
+  },
+  {
+    "title": "open-mmlab/mmrotate",
+    "url": "https://github.com/open-mmlab/mmrotate",
+    "description": "OpenMMLab Rotated Object Detection Toolbox and Benchmark",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "description": "⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and delivers Email, SMS, Push and Chat ⚡",
+    "language": "TypeScript",
+    "star": "147"
+  },
+  {
+    "title": "davatorium/rofi",
+    "url": "https://github.com/davatorium/rofi",
+    "description": "Rofi: A window switcher, application launcher and dmenu replacement",
+    "language": "C",
+    "star": "7"
+  },
+  {
+    "title": "lkwq007/stablediffusion-infinity",
+    "url": "https://github.com/lkwq007/stablediffusion-infinity",
+    "description": "Outpainting with Stable Diffusion on an infinite canvas",
+    "language": "Python",
+    "star": "40"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "language": "JavaScript",
+    "star": "14"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "description": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "language": "TypeScript",
+    "star": "186"
+  },
+  {
+    "title": "recloudstream/cloudstream",
+    "url": "https://github.com/recloudstream/cloudstream",
+    "description": "Android app for streaming and downloading Movies, TV-Series and Anime.",
+    "language": "Kotlin",
+    "star": "12"
+  },
+  {
+    "title": "anonystick/anonystick",
+    "url": "https://github.com/anonystick/anonystick",
+    "description": "",
+    "language": "none",
+    "star": "12"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "73"
+  }
+]
