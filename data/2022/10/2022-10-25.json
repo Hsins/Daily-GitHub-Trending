@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "272"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "description": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "language": "TypeScript",
+    "star": "328"
+  },
+  {
+    "title": "guacsec/guac",
+    "url": "https://github.com/guacsec/guac",
+    "description": "",
+    "language": "Go",
+    "star": "60"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "language": "Go",
+    "star": "171"
+  },
+  {
+    "title": "losvedir/transit-lang-cmp",
+    "url": "https://github.com/losvedir/transit-lang-cmp",
+    "description": "Programming language comparison by reimplementing the same transit data app",
+    "language": "Elixir",
+    "star": "95"
+  },
+  {
+    "title": "mikeroyal/Self-Hosting-Guide",
+    "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+    "description": "Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.",
+    "language": "Dockerfile",
+    "star": "494"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "493"
+  },
+  {
+    "title": "avitorio/outstatic",
+    "url": "https://github.com/avitorio/outstatic",
+    "description": "Outstatic - A static CMS for Next.js",
+    "language": "TypeScript",
+    "star": "160"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "language": "Rust",
+    "star": "96"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "language": "Markdown",
+    "star": "99"
+  },
+  {
+    "title": "cmhungsteve/Awesome-Transformer-Attention",
+    "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention",
+    "description": "An ultimately comprehensive paper list of Vision Transformer/Attention, including papers, codes, and related websites",
+    "language": "none",
+    "star": "65"
+  },
+  {
+    "title": "Automattic/pocket-casts-ios",
+    "url": "https://github.com/Automattic/pocket-casts-ios",
+    "description": "Pocket Casts iOS app 🎧",
+    "language": "Swift",
+    "star": "222"
+  },
+  {
+    "title": "stretchr/testify",
+    "url": "https://github.com/stretchr/testify",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "26"
+  },
+  {
+    "title": "tenable/terrascan",
+    "url": "https://github.com/tenable/terrascan",
+    "description": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+    "language": "Go",
+    "star": "44"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "120"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
+    "language": "Rust",
+    "star": "73"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "2"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "language": "Go",
+    "star": "27"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "description": "Flipper Zero firmware source code",
+    "language": "C",
+    "star": "27"
+  },
+  {
+    "title": "FTM-Labs/Aptos-NFT-Mint",
+    "url": "https://github.com/FTM-Labs/Aptos-NFT-Mint",
+    "description": "",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "",
+    "language": "Shell",
+    "star": "37"
+  },
+  {
+    "title": "CodeXTF2/ScreenshotBOF",
+    "url": "https://github.com/CodeXTF2/ScreenshotBOF",
+    "description": "An alternative screenshot capability for Cobalt Strike that uses WinAPI and does not perform a fork & run. Screenshot saved to disk as a file.",
+    "language": "C",
+    "star": "30"
+  },
+  {
+    "title": "djsime1/awesome-flipperzero",
+    "url": "https://github.com/djsime1/awesome-flipperzero",
+    "description": "🐬 A collection of awesome resources for the Flipper Zero device.",
+    "language": "none",
+    "star": "38"
+  }
+]
