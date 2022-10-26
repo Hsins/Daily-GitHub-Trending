@@ -11,21 +11,21 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "587"
+    "star": "586"
   },
   {
     "title": "valeriansaliou/sonic",
     "url": "https://github.com/valeriansaliou/sonic",
     "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
     "language": "Rust",
-    "star": "284"
+    "star": "277"
   },
   {
     "title": "ToolJet/ToolJet",
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "38"
+    "star": "66"
   },
   {
     "title": "JoePenna/Dreambooth-Stable-Diffusion",
@@ -60,28 +60,28 @@
     "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
     "description": "Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.",
     "language": "Dockerfile",
-    "star": "522"
+    "star": "494"
   },
   {
     "title": "Textualize/textual",
     "url": "https://github.com/Textualize/textual",
     "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
     "language": "Python",
-    "star": "301"
+    "star": "306"
   },
   {
     "title": "vercel/next.js",
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "138"
+    "star": "137"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
     "language": "JavaScript",
-    "star": "54"
+    "star": "86"
   },
   {
     "title": "komodorio/helm-dashboard",
@@ -109,14 +109,14 @@
     "url": "https://github.com/pop-os/cosmic-text",
     "description": "Pure Rust multi-line text handling",
     "language": "Rust",
-    "star": "46"
+    "star": "44"
   },
   {
     "title": "PowerShell/PowerShell",
     "url": "https://github.com/PowerShell/PowerShell",
     "description": "PowerShell for every system!",
     "language": "C#",
-    "star": "54"
+    "star": "41"
   },
   {
     "title": "SerenityOS/serenity",
@@ -130,7 +130,7 @@
     "url": "https://github.com/TheLastBen/fast-stable-diffusion",
     "description": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
     "language": "Python",
-    "star": "128"
+    "star": "91"
   },
   {
     "title": "WalletConnect/web3modal",
@@ -144,7 +144,7 @@
     "url": "https://github.com/jaywcjlove/linux-command",
     "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
     "language": "Markdown",
-    "star": "135"
+    "star": "134"
   },
   {
     "title": "asdf-vm/asdf",
