@@ -1,0 +1,177 @@
+[
+  {
+    "title": "answerdev/answer",
+    "url": "https://github.com/answerdev/answer",
+    "description": "An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",
+    "language": "Go",
+    "star": "286"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "587"
+  },
+  {
+    "title": "valeriansaliou/sonic",
+    "url": "https://github.com/valeriansaliou/sonic",
+    "description": "🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+    "language": "Rust",
+    "star": "284"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "language": "JavaScript",
+    "star": "38"
+  },
+  {
+    "title": "JoePenna/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/JoePenna/Dreambooth-Stable-Diffusion",
+    "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.",
+    "language": "Jupyter Notebook",
+    "star": "107"
+  },
+  {
+    "title": "vercel/turbo",
+    "url": "https://github.com/vercel/turbo",
+    "description": "Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.",
+    "language": "Rust",
+    "star": "2"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "description": "Experience macOS just like before",
+    "language": "Python",
+    "star": "100"
+  },
+  {
+    "title": "tenable/terrascan",
+    "url": "https://github.com/tenable/terrascan",
+    "description": "Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.",
+    "language": "Go",
+    "star": "77"
+  },
+  {
+    "title": "mikeroyal/Self-Hosting-Guide",
+    "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+    "description": "Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.",
+    "language": "Dockerfile",
+    "star": "522"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "301"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "138"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "language": "JavaScript",
+    "star": "54"
+  },
+  {
+    "title": "komodorio/helm-dashboard",
+    "url": "https://github.com/komodorio/helm-dashboard",
+    "description": "The missing UI for Helm - visualize your releases",
+    "language": "Go",
+    "star": "55"
+  },
+  {
+    "title": "aheze/OpenFind",
+    "url": "https://github.com/aheze/OpenFind",
+    "description": "An app to find text in real life. Now open-source!",
+    "language": "Swift",
+    "star": "67"
+  },
+  {
+    "title": "MonsterNone/tmall-miao",
+    "url": "https://github.com/MonsterNone/tmall-miao",
+    "description": "喵币助手：双十一天猫（淘宝）、京东任务一键完成。基于Auto.JS。打包版已做防检测处理。（热爱穿行纪、喵果总动员）",
+    "language": "JavaScript",
+    "star": "194"
+  },
+  {
+    "title": "pop-os/cosmic-text",
+    "url": "https://github.com/pop-os/cosmic-text",
+    "description": "Pure Rust multi-line text handling",
+    "language": "Rust",
+    "star": "46"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "54"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "description": "The Serenity Operating System 🐞",
+    "language": "C++",
+    "star": "45"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "description": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
+    "language": "Python",
+    "star": "128"
+  },
+  {
+    "title": "WalletConnect/web3modal",
+    "url": "https://github.com/WalletConnect/web3modal",
+    "description": "A single Web3 provider solution for all Wallets",
+    "language": "TypeScript",
+    "star": "17"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "language": "Markdown",
+    "star": "135"
+  },
+  {
+    "title": "asdf-vm/asdf",
+    "url": "https://github.com/asdf-vm/asdf",
+    "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+    "language": "Shell",
+    "star": "20"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "language": "none",
+    "star": "3"
+  },
+  {
+    "title": "patriciogonzalezvivo/glslViewer",
+    "url": "https://github.com/patriciogonzalezvivo/glslViewer",
+    "description": "Console-based GLSL Sandbox for 2D/3D shaders",
+    "language": "C++",
+    "star": "16"
+  },
+  {
+    "title": "ethereum-optimism/optimism",
+    "url": "https://github.com/ethereum-optimism/optimism",
+    "description": "Optimism is Ethereum, scaled.",
+    "language": "Go",
+    "star": "21"
+  }
+]
