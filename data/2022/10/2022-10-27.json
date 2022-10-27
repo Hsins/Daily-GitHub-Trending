@@ -4,7 +4,7 @@
     "url": "https://github.com/nerfstudio-project/nerfstudio",
     "description": "A collaboration friendly studio for NeRFs",
     "language": "Python",
-    "star": "79"
+    "star": "91"
   },
   {
     "title": "bumble-tech/private-detector",
@@ -25,7 +25,7 @@
     "url": "https://github.com/answerdev/answer",
     "description": "An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",
     "language": "Go",
-    "star": "385"
+    "star": "453"
   },
   {
     "title": "bregman-arie/devops-exercises",
@@ -39,7 +39,7 @@
     "url": "https://github.com/Textualize/textual",
     "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
     "language": "Python",
-    "star": "382"
+    "star": "383"
   },
   {
     "title": "TheLastBen/fast-stable-diffusion",
@@ -60,7 +60,7 @@
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "243"
+    "star": "223"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
@@ -74,21 +74,21 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "432"
+    "star": "424"
   },
   {
     "title": "JoePenna/Dreambooth-Stable-Diffusion",
     "url": "https://github.com/JoePenna/Dreambooth-Stable-Diffusion",
     "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.",
     "language": "Jupyter Notebook",
-    "star": "121"
+    "star": "112"
   },
   {
     "title": "stretchr/testify",
     "url": "https://github.com/stretchr/testify",
     "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
     "language": "Go",
-    "star": "21"
+    "star": "15"
   },
   {
     "title": "Azure/azure-rest-api-specs",
@@ -102,7 +102,7 @@
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
     "language": "Rust",
-    "star": "104"
+    "star": "112"
   },
   {
     "title": "freefq/free",
@@ -130,7 +130,7 @@
     "url": "https://github.com/go-gorm/gorm",
     "description": "The fantastic ORM library for Golang, aims to be developer friendly",
     "language": "Go",
-    "star": "23"
+    "star": "14"
   },
   {
     "title": "coderQuad/New-Grad-Positions-2023",
@@ -151,7 +151,7 @@
     "url": "https://github.com/facebook/react",
     "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
     "language": "JavaScript",
-    "star": "73"
+    "star": "74"
   },
   {
     "title": "go-redis/redis",
