@@ -1,0 +1,177 @@
+[
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "description": "A collaboration friendly studio for NeRFs",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "bumble-tech/private-detector",
+    "url": "https://github.com/bumble-tech/private-detector",
+    "description": "Bumble's Private Detector - a pretrained model for detecting lewd images",
+    "language": "Python",
+    "star": "85"
+  },
+  {
+    "title": "vercel/turbo",
+    "url": "https://github.com/vercel/turbo",
+    "description": "Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.",
+    "language": "Rust",
+    "star": "2"
+  },
+  {
+    "title": "answerdev/answer",
+    "url": "https://github.com/answerdev/answer",
+    "description": "An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",
+    "language": "Go",
+    "star": "385"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "description": "Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.",
+    "language": "Python",
+    "star": "382"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "description": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
+    "language": "Python",
+    "star": "136"
+  },
+  {
+    "title": "ageron/handson-ml3",
+    "url": "https://github.com/ageron/handson-ml3",
+    "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "language": "Jupyter Notebook",
+    "star": "59"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "star": "243"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "80"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "432"
+  },
+  {
+    "title": "JoePenna/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/JoePenna/Dreambooth-Stable-Diffusion",
+    "description": "Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles.",
+    "language": "Jupyter Notebook",
+    "star": "121"
+  },
+  {
+    "title": "stretchr/testify",
+    "url": "https://github.com/stretchr/testify",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "language": "Go",
+    "star": "21"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
+    "language": "Rust",
+    "star": "104"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "40"
+  },
+  {
+    "title": "dotnet/samples",
+    "url": "https://github.com/dotnet/samples",
+    "description": "Sample code referenced by the .NET documentation",
+    "language": "C#",
+    "star": "3"
+  },
+  {
+    "title": "apache/incubator-streampark",
+    "url": "https://github.com/apache/incubator-streampark",
+    "description": "StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform",
+    "language": "Vue",
+    "star": "1"
+  },
+  {
+    "title": "go-gorm/gorm",
+    "url": "https://github.com/go-gorm/gorm",
+    "description": "The fantastic ORM library for Golang, aims to be developer friendly",
+    "language": "Go",
+    "star": "23"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023",
+    "description": "A collection of New Grad full time roles in SWE, Quant, and PM.",
+    "language": "none",
+    "star": "13"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (November 2022)",
+    "language": "JavaScript",
+    "star": "34"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "star": "73"
+  },
+  {
+    "title": "go-redis/redis",
+    "url": "https://github.com/go-redis/redis",
+    "description": "Type-safe Redis client for Golang",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "language": "JavaScript",
+    "star": "30"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-demo",
+    "url": "https://github.com/open-telemetry/opentelemetry-demo",
+    "description": "OpenTelemetry Community Demo Application",
+    "language": "Erlang",
+    "star": "21"
+  }
+]
