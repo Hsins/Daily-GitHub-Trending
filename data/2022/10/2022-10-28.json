@@ -11,7 +11,7 @@
     "url": "https://github.com/answerdev/answer",
     "description": "An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",
     "language": "Go",
-    "star": "722"
+    "star": "705"
   },
   {
     "title": "simeydotme/pokemon-cards-css",
@@ -32,7 +32,7 @@
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "43"
+    "star": "108"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
@@ -60,7 +60,7 @@
     "url": "https://github.com/jetlinks/jetlinks-community",
     "description": "JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",
     "language": "Java",
-    "star": "25"
+    "star": "14"
   },
   {
     "title": "google/googletest",
@@ -74,14 +74,14 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "96"
+    "star": "98"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
     "language": "JavaScript",
-    "star": "36"
+    "star": "81"
   },
   {
     "title": "PaddlePaddle/PaddleNLP",
@@ -95,7 +95,7 @@
     "url": "https://github.com/bumble-tech/private-detector",
     "description": "Bumble's Private Detector - a pretrained model for detecting lewd images",
     "language": "Python",
-    "star": "121"
+    "star": "181"
   },
   {
     "title": "spring-projects/spring-framework",
@@ -151,7 +151,7 @@
     "url": "https://github.com/AbdurRKhalid/Design-Patterns",
     "description": "Design Patterns play an important role in the writing of the re-usable object oriented code in the both desktop and web applications. This repository contains all information related to design patterns alongside with implementation in Java.",
     "language": "Java",
-    "star": "66"
+    "star": "64"
   },
   {
     "title": "PrefectHQ/prefect",
