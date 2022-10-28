@@ -1,0 +1,177 @@
+[
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "language": "TypeScript",
+    "star": "152"
+  },
+  {
+    "title": "answerdev/answer",
+    "url": "https://github.com/answerdev/answer",
+    "description": "An open-source knowledge based community software. You can use it to quickly build your Q&A community for product technical support, customer support, user communication, and more.",
+    "language": "Go",
+    "star": "705"
+  },
+  {
+    "title": "simeydotme/pokemon-cards-css",
+    "url": "https://github.com/simeydotme/pokemon-cards-css",
+    "description": "",
+    "language": "CSS",
+    "star": "485"
+  },
+  {
+    "title": "vercel/turbo",
+    "url": "https://github.com/vercel/turbo",
+    "description": "Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.",
+    "language": "Rust",
+    "star": "1"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "language": "JavaScript",
+    "star": "108"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "none",
+    "star": "120"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+    "language": "Groovy",
+    "star": "22"
+  },
+  {
+    "title": "RareSkills/gas-puzzles",
+    "url": "https://github.com/RareSkills/gas-puzzles",
+    "description": "A sequence of smart contracts to practice gas optimization. These are used as practice assignments for RareSkills.io and the Udemy Gas Optimization Course",
+    "language": "JavaScript",
+    "star": "11"
+  },
+  {
+    "title": "jetlinks/jetlinks-community",
+    "url": "https://github.com/jetlinks/jetlinks-community",
+    "description": "JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",
+    "language": "Java",
+    "star": "14"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "description": "GoogleTest - Google Testing and Mocking Framework",
+    "language": "C++",
+    "star": "15"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "98"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
+    "language": "JavaScript",
+    "star": "81"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "description": "Easy-to-use and powerful NLP library with Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including Neural Search, Question Answering, Information Extraction and Sentiment Analysis end-to-end system.",
+    "language": "Python",
+    "star": "29"
+  },
+  {
+    "title": "bumble-tech/private-detector",
+    "url": "https://github.com/bumble-tech/private-detector",
+    "description": "Bumble's Private Detector - a pretrained model for detecting lewd images",
+    "language": "Python",
+    "star": "181"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "description": "Spring Framework",
+    "language": "Java",
+    "star": "22"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "language": "Markdown",
+    "star": "67"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "star": "39"
+  },
+  {
+    "title": "numencyber/VulnerabilityPoC",
+    "url": "https://github.com/numencyber/VulnerabilityPoC",
+    "description": "",
+    "language": "C++",
+    "star": "19"
+  },
+  {
+    "title": "cloudwego/hertz",
+    "url": "https://github.com/cloudwego/hertz",
+    "description": "A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.",
+    "language": "Go",
+    "star": "134"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (November 2022)",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "language": "Go",
+    "star": "70"
+  },
+  {
+    "title": "AbdurRKhalid/Design-Patterns",
+    "url": "https://github.com/AbdurRKhalid/Design-Patterns",
+    "description": "Design Patterns play an important role in the writing of the re-usable object oriented code in the both desktop and web applications. This repository contains all information related to design patterns alongside with implementation in Java.",
+    "language": "Java",
+    "star": "64"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "description": "The easiest way to coordinate your dataflow",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "garmeeh/next-seo",
+    "url": "https://github.com/garmeeh/next-seo",
+    "description": "Next SEO is a plug in that makes managing your SEO easier in Next.js projects.",
+    "language": "JavaScript",
+    "star": "20"
+  },
+  {
+    "title": "apache/arrow",
+    "url": "https://github.com/apache/arrow",
+    "description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
+    "language": "C++",
+    "star": "11"
+  }
+]
