@@ -18,7 +18,7 @@
     "url": "https://github.com/simeydotme/pokemon-cards-css",
     "description": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
     "language": "Svelte",
-    "star": "566"
+    "star": "590"
   },
   {
     "title": "alvaroreis/bolsonaro2turno",
@@ -39,7 +39,7 @@
     "url": "https://github.com/vercel/app-playground",
     "description": "https://app-dir.vercel.app/",
     "language": "TypeScript",
-    "star": "32"
+    "star": "31"
   },
   {
     "title": "shadcn/taxonomy",
@@ -60,21 +60,21 @@
     "url": "https://github.com/sismo-core/sismo-protocol",
     "description": "Contracts of the Sismo Attestation Protocol",
     "language": "TypeScript",
-    "star": "303"
+    "star": "409"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "35"
+    "star": "27"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "92"
+    "star": "113"
   },
   {
     "title": "minbrowser/min",
@@ -102,7 +102,7 @@
     "url": "https://github.com/curl/curl",
     "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",
     "language": "C",
-    "star": "27"
+    "star": "20"
   },
   {
     "title": "JustAnotherArchivist/snscrape",
@@ -123,7 +123,7 @@
     "url": "https://github.com/apache/incubator-seatunnel",
     "description": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
     "language": "Java",
-    "star": "8"
+    "star": "5"
   },
   {
     "title": "hashicorp/terraform",
@@ -137,21 +137,21 @@
     "url": "https://github.com/dotnet/samples",
     "description": "Sample code referenced by the .NET documentation",
     "language": "C#",
-    "star": "1"
+    "star": "10"
   },
   {
     "title": "jetlinks/jetlinks-community",
     "url": "https://github.com/jetlinks/jetlinks-community",
     "description": "JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",
     "language": "Java",
-    "star": "45"
+    "star": "57"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "7"
+    "star": "10"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vercel/next.js",
     "description": "The React Framework",
     "language": "JavaScript",
-    "star": "178"
+    "star": "179"
   }
 ]
