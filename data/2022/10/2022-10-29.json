@@ -11,14 +11,14 @@
     "url": "https://github.com/bytedance/bitsail",
     "description": "BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day.",
     "language": "Java",
-    "star": "75"
+    "star": "138"
   },
   {
     "title": "simeydotme/pokemon-cards-css",
     "url": "https://github.com/simeydotme/pokemon-cards-css",
     "description": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
     "language": "Svelte",
-    "star": "449"
+    "star": "566"
   },
   {
     "title": "alvaroreis/bolsonaro2turno",
@@ -32,14 +32,14 @@
     "url": "https://github.com/shieldfy/API-Security-Checklist",
     "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
     "language": "none",
-    "star": "87"
+    "star": "88"
   },
   {
     "title": "vercel/app-playground",
     "url": "https://github.com/vercel/app-playground",
     "description": "https://app-dir.vercel.app/",
     "language": "TypeScript",
-    "star": "30"
+    "star": "32"
   },
   {
     "title": "shadcn/taxonomy",
@@ -53,35 +53,35 @@
     "url": "https://github.com/vercel/turbo",
     "description": "Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.",
     "language": "Rust",
-    "star": "775"
+    "star": "782"
   },
   {
     "title": "sismo-core/sismo-protocol",
     "url": "https://github.com/sismo-core/sismo-protocol",
     "description": "Contracts of the Sismo Attestation Protocol",
     "language": "TypeScript",
-    "star": "213"
+    "star": "303"
   },
   {
     "title": "google/googletest",
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "37"
+    "star": "35"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "85"
+    "star": "92"
   },
   {
     "title": "minbrowser/min",
     "url": "https://github.com/minbrowser/min",
     "description": "A fast, minimal browser that protects your privacy",
     "language": "JavaScript",
-    "star": "58"
+    "star": "28"
   },
   {
     "title": "oven-sh/bun",
@@ -102,14 +102,14 @@
     "url": "https://github.com/curl/curl",
     "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features",
     "language": "C",
-    "star": "20"
+    "star": "27"
   },
   {
     "title": "JustAnotherArchivist/snscrape",
     "url": "https://github.com/JustAnotherArchivist/snscrape",
     "description": "A social networking service scraper in Python",
     "language": "Python",
-    "star": "41"
+    "star": "46"
   },
   {
     "title": "fzyzcjy/flutter_smooth",
@@ -123,14 +123,14 @@
     "url": "https://github.com/apache/incubator-seatunnel",
     "description": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
     "language": "Java",
-    "star": "4"
+    "star": "8"
   },
   {
     "title": "hashicorp/terraform",
     "url": "https://github.com/hashicorp/terraform",
     "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
     "language": "Go",
-    "star": "35"
+    "star": "14"
   },
   {
     "title": "dotnet/samples",
@@ -144,14 +144,14 @@
     "url": "https://github.com/jetlinks/jetlinks-community",
     "description": "JetLinks 基于Java8,Spring Boot 2.x ,WebFlux,Netty,Vert.x,Reactor等开发, 是一个全响应式的企业级物联网平台。支持统一物模型管理,多种设备,多种厂家,统一管理。统一设备连接管理,多协议适配(TCP,MQTT,UDP,CoAP,HTTP等),屏蔽网络编程复杂性,灵活接入不同厂家不同协议等设备。实时数据处理,设备告警,消息通知,数据转发。地理位置,数据可视化等。能帮助你快速建立物联网相关业务系统。",
     "language": "Java",
-    "star": "58"
+    "star": "45"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "9"
+    "star": "7"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
