@@ -11,7 +11,7 @@
     "url": "https://github.com/bytedance/bitsail",
     "description": "BitSail is a distributed high-performance data integration engine which supports batch, streaming and incremental scenarios. BitSail is widely used to synchronize hundreds of trillions of data every day.",
     "language": "Java",
-    "star": "72"
+    "star": "75"
   },
   {
     "title": "simeydotme/pokemon-cards-css",
@@ -67,7 +67,7 @@
     "url": "https://github.com/google/googletest",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "34"
+    "star": "37"
   },
   {
     "title": "mastodon/mastodon",
@@ -81,7 +81,7 @@
     "url": "https://github.com/minbrowser/min",
     "description": "A fast, minimal browser that protects your privacy",
     "language": "JavaScript",
-    "star": "54"
+    "star": "58"
   },
   {
     "title": "oven-sh/bun",
@@ -130,7 +130,7 @@
     "url": "https://github.com/hashicorp/terraform",
     "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
     "language": "Go",
-    "star": "31"
+    "star": "35"
   },
   {
     "title": "dotnet/samples",
