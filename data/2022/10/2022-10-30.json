@@ -11,14 +11,14 @@
     "url": "https://github.com/charmbracelet/vhs",
     "description": "Your CLI home video recorder 📼",
     "language": "Go",
-    "star": "912"
+    "star": "884"
   },
   {
     "title": "simeydotme/pokemon-cards-css",
     "url": "https://github.com/simeydotme/pokemon-cards-css",
     "description": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
     "language": "Svelte",
-    "star": "278"
+    "star": "249"
   },
   {
     "title": "ocornut/imgui",
@@ -39,14 +39,14 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "126"
+    "star": "124"
   },
   {
     "title": "alvaroreis/bolsonaro2turno",
     "url": "https://github.com/alvaroreis/bolsonaro2turno",
     "description": "Gere seu flyer personalizado com seu nome de apoio ao Bolsonaro para o segundo turno das eleições brasileira",
     "language": "HTML",
-    "star": "49"
+    "star": "50"
   },
   {
     "title": "ossu/computer-science",
@@ -67,14 +67,14 @@
     "url": "https://github.com/jellyfin/jellyfin",
     "description": "The Free Software Media System",
     "language": "C#",
-    "star": "94"
+    "star": "88"
   },
   {
     "title": "shadcn/taxonomy",
     "url": "https://github.com/shadcn/taxonomy",
     "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
     "language": "TypeScript",
-    "star": "201"
+    "star": "198"
   },
   {
     "title": "mattermost/focalboard",
@@ -95,21 +95,21 @@
     "url": "https://github.com/TheAlgorithms/Rust",
     "description": "All Algorithms implemented in Rust",
     "language": "Rust",
-    "star": "99"
+    "star": "96"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "65"
+    "star": "71"
   },
   {
     "title": "folke/noice.nvim",
     "url": "https://github.com/folke/noice.nvim",
     "description": "💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.",
     "language": "Lua",
-    "star": "30"
+    "star": "15"
   },
   {
     "title": "trimstray/the-book-of-secret-knowledge",
@@ -130,7 +130,7 @@
     "url": "https://github.com/AmazingAng/WTF-Solidity",
     "description": "我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy",
     "language": "Solidity",
-    "star": "24"
+    "star": "22"
   },
   {
     "title": "ripienaar/free-for-dev",
