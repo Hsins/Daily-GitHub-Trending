@@ -11,14 +11,14 @@
     "url": "https://github.com/charmbracelet/vhs",
     "description": "Your CLI home video recorder 📼",
     "language": "Go",
-    "star": "884"
+    "star": "887"
   },
   {
     "title": "simeydotme/pokemon-cards-css",
     "url": "https://github.com/simeydotme/pokemon-cards-css",
     "description": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
     "language": "Svelte",
-    "star": "249"
+    "star": "279"
   },
   {
     "title": "ocornut/imgui",
@@ -32,21 +32,21 @@
     "url": "https://github.com/acmesh-official/acme.sh",
     "description": "A pure Unix shell script implementing ACME client protocol",
     "language": "Shell",
-    "star": "116"
+    "star": "85"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "124"
+    "star": "126"
   },
   {
     "title": "alvaroreis/bolsonaro2turno",
     "url": "https://github.com/alvaroreis/bolsonaro2turno",
     "description": "Gere seu flyer personalizado com seu nome de apoio ao Bolsonaro para o segundo turno das eleições brasileira",
     "language": "HTML",
-    "star": "50"
+    "star": "49"
   },
   {
     "title": "ossu/computer-science",
@@ -67,14 +67,14 @@
     "url": "https://github.com/jellyfin/jellyfin",
     "description": "The Free Software Media System",
     "language": "C#",
-    "star": "88"
+    "star": "71"
   },
   {
     "title": "shadcn/taxonomy",
     "url": "https://github.com/shadcn/taxonomy",
     "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
     "language": "TypeScript",
-    "star": "198"
+    "star": "161"
   },
   {
     "title": "mattermost/focalboard",
@@ -95,14 +95,14 @@
     "url": "https://github.com/TheAlgorithms/Rust",
     "description": "All Algorithms implemented in Rust",
     "language": "Rust",
-    "star": "96"
+    "star": "72"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "71"
+    "star": "70"
   },
   {
     "title": "folke/noice.nvim",
@@ -116,7 +116,7 @@
     "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
     "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
     "language": "none",
-    "star": "166"
+    "star": "155"
   },
   {
     "title": "AMAI-GmbH/AI-Expert-Roadmap",
@@ -137,7 +137,7 @@
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "94"
+    "star": "91"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
