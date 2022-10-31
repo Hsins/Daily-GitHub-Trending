@@ -4,7 +4,7 @@
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "38"
+    "star": "36"
   },
   {
     "title": "mastodon/mastodon",
@@ -18,14 +18,14 @@
     "url": "https://github.com/josean-dev/dev-environment-files",
     "description": "",
     "language": "Lua",
-    "star": "12"
+    "star": "18"
   },
   {
     "title": "jellyfin/jellyfin",
     "url": "https://github.com/jellyfin/jellyfin",
     "description": "The Free Software Media System",
     "language": "C#",
-    "star": "89"
+    "star": "101"
   },
   {
     "title": "XavierXiao/Dreambooth-Stable-Diffusion",
@@ -53,28 +53,28 @@
     "url": "https://github.com/dudykr/stc",
     "description": "Speedy TypeScript type checker",
     "language": "Rust",
-    "star": "310"
+    "star": "315"
   },
   {
     "title": "shadcn/taxonomy",
     "url": "https://github.com/shadcn/taxonomy",
     "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
     "language": "TypeScript",
-    "star": "128"
+    "star": "130"
   },
   {
     "title": "AMAI-GmbH/AI-Expert-Roadmap",
     "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
     "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
     "language": "JavaScript",
-    "star": "204"
+    "star": "93"
   },
   {
     "title": "SerenityOS/serenity",
     "url": "https://github.com/SerenityOS/serenity",
     "description": "The Serenity Operating System 🐞",
     "language": "C++",
-    "star": "38"
+    "star": "51"
   },
   {
     "title": "yangshun/tech-interview-handbook",
@@ -88,42 +88,42 @@
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "115"
+    "star": "106"
   },
   {
     "title": "30-seconds/30-seconds-of-code",
     "url": "https://github.com/30-seconds/30-seconds-of-code",
     "description": "Short JavaScript code snippets for all your development needs",
     "language": "JavaScript",
-    "star": "51"
+    "star": "49"
   },
   {
     "title": "mattermost/focalboard",
     "url": "https://github.com/mattermost/focalboard",
     "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
     "language": "TypeScript",
-    "star": "62"
+    "star": "57"
   },
   {
     "title": "charmbracelet/vhs",
     "url": "https://github.com/charmbracelet/vhs",
     "description": "Your CLI home video recorder 📼",
     "language": "Go",
-    "star": "966"
+    "star": "967"
   },
   {
     "title": "bradtraversy/50projects50days",
     "url": "https://github.com/bradtraversy/50projects50days",
     "description": "50+ mini web projects using HTML, CSS & JS",
     "language": "CSS",
-    "star": "76"
+    "star": "72"
   },
   {
     "title": "TheAlgorithms/Rust",
     "url": "https://github.com/TheAlgorithms/Rust",
     "description": "All Algorithms implemented in Rust",
     "language": "Rust",
-    "star": "114"
+    "star": "116"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -137,7 +137,7 @@
     "url": "https://github.com/WerWolv/ImHex",
     "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
     "language": "C++",
-    "star": "68"
+    "star": "62"
   },
   {
     "title": "termux/termux-packages",
@@ -158,7 +158,7 @@
     "url": "https://github.com/acmesh-official/acme.sh",
     "description": "A pure Unix shell script implementing ACME client protocol",
     "language": "Shell",
-    "star": "83"
+    "star": "86"
   },
   {
     "title": "shieldfy/API-Security-Checklist",
