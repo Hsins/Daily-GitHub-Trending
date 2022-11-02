@@ -4,63 +4,63 @@
     "url": "https://github.com/hellof2e/quark-design",
     "description": "Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)",
     "language": "TypeScript",
-    "star": "197"
+    "star": "202"
   },
   {
     "title": "remix-run/remix",
     "url": "https://github.com/remix-run/remix",
     "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
     "language": "TypeScript",
-    "star": "105"
+    "star": "109"
   },
   {
     "title": "NCSC-NL/OpenSSL-2022",
     "url": "https://github.com/NCSC-NL/OpenSSL-2022",
     "description": "Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3",
     "language": "none",
-    "star": "157"
+    "star": "150"
   },
   {
     "title": "AMAI-GmbH/AI-Expert-Roadmap",
     "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
     "description": "Roadmap to becoming an Artificial Intelligence Expert in 2022",
     "language": "JavaScript",
-    "star": "224"
+    "star": "228"
   },
   {
     "title": "TeamNewPipe/NewPipe",
     "url": "https://github.com/TeamNewPipe/NewPipe",
     "description": "A libre lightweight streaming front-end for Android.",
     "language": "Java",
-    "star": "50"
+    "star": "52"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated coding interview preparation materials for busy software engineers",
     "language": "TypeScript",
-    "star": "361"
+    "star": "363"
   },
   {
     "title": "Eilonh/s3crets_scanner",
     "url": "https://github.com/Eilonh/s3crets_scanner",
     "description": "",
     "language": "Python",
-    "star": "73"
+    "star": "72"
   },
   {
     "title": "openssl/openssl",
     "url": "https://github.com/openssl/openssl",
     "description": "TLS/SSL and crypto library",
     "language": "C",
-    "star": "82"
+    "star": "76"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "212"
+    "star": "207"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -74,14 +74,14 @@
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "description": "⭐️ Companies that don't have a broken hiring process",
     "language": "JavaScript",
-    "star": "91"
+    "star": "86"
   },
   {
     "title": "mattermost/focalboard",
     "url": "https://github.com/mattermost/focalboard",
     "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
     "language": "TypeScript",
-    "star": "55"
+    "star": "56"
   },
   {
     "title": "bharathsudharsan/TinyML-CAM",
@@ -95,83 +95,83 @@
     "url": "https://github.com/AvaloniaUI/Avalonia",
     "description": "A cross-platform UI framework for .NET",
     "language": "C#",
-    "star": "37"
+    "star": "40"
   },
   {
     "title": "kubernetes/client-go",
     "url": "https://github.com/kubernetes/client-go",
     "description": "Go client for Kubernetes.",
     "language": "Go",
-    "star": "25"
+    "star": "26"
   },
   {
     "title": "vuetifyjs/vuetify",
     "url": "https://github.com/vuetifyjs/vuetify",
     "description": "🐉 Material Component Framework for Vue",
     "language": "TypeScript",
-    "star": "44"
+    "star": "48"
   },
   {
     "title": "bluesky-social/atproto",
     "url": "https://github.com/bluesky-social/atproto",
     "description": "A social networking technology created by Bluesky",
     "language": "TypeScript",
-    "star": "99"
+    "star": "101"
   },
   {
     "title": "SnapKit/SnapKit",
     "url": "https://github.com/SnapKit/SnapKit",
     "description": "A Swift Autolayout DSL for iOS & OS X",
     "language": "Swift",
-    "star": "13"
+    "star": "14"
   },
   {
     "title": "lightningnetwork/lnd",
     "url": "https://github.com/lightningnetwork/lnd",
     "description": "Lightning Network Daemon ⚡️",
     "language": "Go",
-    "star": "14"
+    "star": "17"
   },
   {
     "title": "geohot/tinygrad",
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "82"
+    "star": "83"
   },
   {
     "title": "ocornut/imgui",
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "39"
+    "star": "37"
   },
   {
     "title": "NVIDIA/DeepLearningExamples",
     "url": "https://github.com/NVIDIA/DeepLearningExamples",
     "description": "Deep Learning Examples",
     "language": "Python",
-    "star": "64"
+    "star": "66"
   },
   {
     "title": "ripienaar/free-for-dev",
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "132"
+    "star": "128"
   },
   {
     "title": "bellard/quickjs",
     "url": "https://github.com/bellard/quickjs",
     "description": "Public repository of the QuickJS Javascript Engine. Pull requests are not accepted. Use the mailing list to submit patches.",
     "language": "C",
-    "star": "42"
+    "star": "43"
   },
   {
     "title": "nushell/nushell",
     "url": "https://github.com/nushell/nushell",
     "description": "A new type of shell",
     "language": "Rust",
-    "star": "83"
+    "star": "84"
   }
 ]
