@@ -4,7 +4,7 @@
     "url": "https://github.com/refinedev/refine",
     "description": "Build your React-based CRUD applications, without constraints.",
     "language": "TypeScript",
-    "star": "157"
+    "star": "158"
   },
   {
     "title": "Sanster/lama-cleaner",
@@ -18,14 +18,14 @@
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated coding interview preparation materials for busy software engineers",
     "language": "TypeScript",
-    "star": "211"
+    "star": "212"
   },
   {
     "title": "milanm/DevOps-Roadmap",
     "url": "https://github.com/milanm/DevOps-Roadmap",
     "description": "DevOps Roadmap for 2022. with learning resources",
     "language": "none",
-    "star": "444"
+    "star": "435"
   },
   {
     "title": "SagerNet/sing-box",
@@ -39,14 +39,14 @@
     "url": "https://github.com/alirezadir/machine-learning-interview-enlightener",
     "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews.",
     "language": "Jupyter Notebook",
-    "star": "86"
+    "star": "85"
   },
   {
     "title": "NCSC-NL/OpenSSL-2022",
     "url": "https://github.com/NCSC-NL/OpenSSL-2022",
     "description": "Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3",
     "language": "none",
-    "star": "89"
+    "star": "84"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -67,14 +67,14 @@
     "url": "https://github.com/Taiga74164/Akebi-GC",
     "description": "Akebi Genshin Cheat source for OS/CN 3.0",
     "language": "C++",
-    "star": "62"
+    "star": "61"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
     "language": "Python",
-    "star": "49"
+    "star": "51"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
@@ -95,7 +95,7 @@
     "url": "https://github.com/openssl/openssl",
     "description": "TLS/SSL and crypto library",
     "language": "C",
-    "star": "91"
+    "star": "90"
   },
   {
     "title": "colmmacc/CVE-2022-3602",
@@ -116,7 +116,7 @@
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "40"
+    "star": "41"
   },
   {
     "title": "facebookresearch/esm",
@@ -130,28 +130,28 @@
     "url": "https://github.com/windows-powertool/Powertool",
     "description": "Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.",
     "language": "none",
-    "star": "38"
+    "star": "40"
   },
   {
     "title": "SheerSt/pokewilds",
     "url": "https://github.com/SheerSt/pokewilds",
     "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
     "language": "Assembly",
-    "star": "71"
+    "star": "72"
   },
   {
     "title": "grafana/grafana",
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "76"
+    "star": "80"
   },
   {
     "title": "kubernetes/client-go",
     "url": "https://github.com/kubernetes/client-go",
     "description": "Go client for Kubernetes.",
     "language": "Go",
-    "star": "66"
+    "star": "65"
   },
   {
     "title": "microsoft/PowerToys",
