@@ -4,133 +4,133 @@
     "url": "https://github.com/refinedev/refine",
     "description": "Build your React-based CRUD applications, without constraints.",
     "language": "TypeScript",
-    "star": "147"
+    "star": "157"
   },
   {
     "title": "Sanster/lama-cleaner",
     "url": "https://github.com/Sanster/lama-cleaner",
     "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
     "language": "Python",
-    "star": "242"
+    "star": "239"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated coding interview preparation materials for busy software engineers",
     "language": "TypeScript",
-    "star": "210"
+    "star": "211"
   },
   {
     "title": "milanm/DevOps-Roadmap",
     "url": "https://github.com/milanm/DevOps-Roadmap",
     "description": "DevOps Roadmap for 2022. with learning resources",
     "language": "none",
-    "star": "453"
+    "star": "444"
   },
   {
     "title": "SagerNet/sing-box",
     "url": "https://github.com/SagerNet/sing-box",
     "description": "The universal proxy platform",
     "language": "Go",
-    "star": "44"
+    "star": "47"
   },
   {
     "title": "alirezadir/machine-learning-interview-enlightener",
     "url": "https://github.com/alirezadir/machine-learning-interview-enlightener",
     "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews.",
     "language": "Jupyter Notebook",
-    "star": "83"
+    "star": "86"
   },
   {
     "title": "NCSC-NL/OpenSSL-2022",
     "url": "https://github.com/NCSC-NL/OpenSSL-2022",
     "description": "Operational information regarding CVE-2022-3602 and CVE-2022-3786, two vulnerabilities in OpenSSL 3",
     "language": "none",
-    "star": "90"
+    "star": "89"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "162"
+    "star": "161"
   },
   {
     "title": "jamealg/KT-companion",
     "url": "https://github.com/jamealg/KT-companion",
     "description": "A hiking and backpacking trail companion progressive web app",
     "language": "JavaScript",
-    "star": "50"
+    "star": "51"
   },
   {
     "title": "Taiga74164/Akebi-GC",
     "url": "https://github.com/Taiga74164/Akebi-GC",
     "description": "Akebi Genshin Cheat source for OS/CN 3.0",
     "language": "C++",
-    "star": "57"
+    "star": "62"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
     "language": "Python",
-    "star": "41"
+    "star": "49"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "description": "⭐️ Companies that don't have a broken hiring process",
     "language": "JavaScript",
-    "star": "218"
+    "star": "230"
   },
   {
     "title": "remix-run/remix",
     "url": "https://github.com/remix-run/remix",
     "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
     "language": "TypeScript",
-    "star": "208"
+    "star": "210"
   },
   {
     "title": "openssl/openssl",
     "url": "https://github.com/openssl/openssl",
     "description": "TLS/SSL and crypto library",
     "language": "C",
-    "star": "88"
+    "star": "91"
   },
   {
     "title": "colmmacc/CVE-2022-3602",
     "url": "https://github.com/colmmacc/CVE-2022-3602",
     "description": "",
     "language": "Python",
-    "star": "31"
+    "star": "33"
   },
   {
     "title": "TeamNewPipe/NewPipe",
     "url": "https://github.com/TeamNewPipe/NewPipe",
     "description": "A libre lightweight streaming front-end for Android.",
     "language": "Java",
-    "star": "94"
+    "star": "100"
   },
   {
     "title": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "37"
+    "star": "40"
   },
   {
     "title": "facebookresearch/esm",
     "url": "https://github.com/facebookresearch/esm",
     "description": "Evolutionary Scale Modeling (esm): Pretrained language models for proteins",
     "language": "Python",
-    "star": "44"
+    "star": "46"
   },
   {
     "title": "windows-powertool/Powertool",
     "url": "https://github.com/windows-powertool/Powertool",
     "description": "Windows powertool is a windows 10 and 11 utility designed to provide one click solution to reduce and trim down unnecessary burden that comes by default with windows. its used to Improve speed, remove bloatware, protect privacy, eliminate data collection, and so more.",
     "language": "none",
-    "star": "37"
+    "star": "38"
   },
   {
     "title": "SheerSt/pokewilds",
@@ -144,21 +144,21 @@
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "69"
+    "star": "76"
   },
   {
     "title": "kubernetes/client-go",
     "url": "https://github.com/kubernetes/client-go",
     "description": "Go client for Kubernetes.",
     "language": "Go",
-    "star": "67"
+    "star": "66"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "163"
+    "star": "175"
   },
   {
     "title": "NVIDIA/DeepLearningExamples",
@@ -172,6 +172,6 @@
     "url": "https://github.com/puppeteer/puppeteer",
     "description": "Headless Chrome Node.js API",
     "language": "TypeScript",
-    "star": "43"
+    "star": "48"
   }
 ]
