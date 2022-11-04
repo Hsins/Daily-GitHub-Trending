@@ -4,7 +4,7 @@
     "url": "https://github.com/grafana/phlare",
     "description": "🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system",
     "language": "Go",
-    "star": "234"
+    "star": "230"
   },
   {
     "title": "SheerSt/pokewilds",
@@ -18,21 +18,21 @@
     "url": "https://github.com/refinedev/refine",
     "description": "Build your React-based CRUD applications, without constraints.",
     "language": "TypeScript",
-    "star": "294"
+    "star": "289"
   },
   {
     "title": "milanm/DevOps-Roadmap",
     "url": "https://github.com/milanm/DevOps-Roadmap",
     "description": "DevOps Roadmap for 2022. with learning resources",
     "language": "none",
-    "star": "483"
+    "star": "482"
   },
   {
     "title": "Netflix/conductor",
     "url": "https://github.com/Netflix/conductor",
     "description": "Conductor is a microservices orchestration engine.",
     "language": "Java",
-    "star": "197"
+    "star": "198"
   },
   {
     "title": "Taiga74164/Akebi-GC",
@@ -67,14 +67,14 @@
     "url": "https://github.com/strapi/strapi",
     "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
     "language": "JavaScript",
-    "star": "69"
+    "star": "70"
   },
   {
     "title": "lidangzzz/How-to-run",
     "url": "https://github.com/lidangzzz/How-to-run",
     "description": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
     "language": "TypeScript",
-    "star": "172"
+    "star": "173"
   },
   {
     "title": "microsoft/PowerToys",
@@ -88,7 +88,7 @@
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "162"
+    "star": "166"
   },
   {
     "title": "Olde-Skuul/doom3do",
@@ -109,7 +109,7 @@
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "description": "⭐️ Companies that don't have a broken hiring process",
     "language": "JavaScript",
-    "star": "198"
+    "star": "197"
   },
   {
     "title": "microsoft/TypeScript",
@@ -123,21 +123,21 @@
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "language": "Java",
-    "star": "61"
+    "star": "62"
   },
   {
     "title": "apache/pulsar",
     "url": "https://github.com/apache/pulsar",
     "description": "Apache Pulsar - distributed pub-sub messaging system",
     "language": "Java",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "prometheus/client_python",
     "url": "https://github.com/prometheus/client_python",
     "description": "Prometheus instrumentation library for Python applications",
     "language": "Python",
-    "star": "21"
+    "star": "20"
   },
   {
     "title": "dotnet/AspNetCore.Docs",
@@ -172,6 +172,6 @@
     "url": "https://github.com/SoftwareBrothers/adminjs",
     "description": "AdminJS is an admin panel for apps written in node.js",
     "language": "TypeScript",
-    "star": "91"
+    "star": "96"
   }
 ]
