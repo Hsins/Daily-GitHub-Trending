@@ -11,147 +11,147 @@
     "url": "https://github.com/SheerSt/pokewilds",
     "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
     "language": "Assembly",
-    "star": "125"
+    "star": "123"
   },
   {
     "title": "refinedev/refine",
     "url": "https://github.com/refinedev/refine",
     "description": "Build your React-based CRUD applications, without constraints.",
     "language": "TypeScript",
-    "star": "295"
+    "star": "294"
   },
   {
     "title": "milanm/DevOps-Roadmap",
     "url": "https://github.com/milanm/DevOps-Roadmap",
     "description": "DevOps Roadmap for 2022. with learning resources",
     "language": "none",
-    "star": "500"
+    "star": "483"
   },
   {
     "title": "Netflix/conductor",
     "url": "https://github.com/Netflix/conductor",
     "description": "Conductor is a microservices orchestration engine.",
     "language": "Java",
-    "star": "194"
+    "star": "197"
   },
   {
     "title": "Taiga74164/Akebi-GC",
     "url": "https://github.com/Taiga74164/Akebi-GC",
     "description": "Akebi Genshin Cheat source for OS/CN 3.0",
     "language": "C++",
-    "star": "49"
+    "star": "48"
   },
   {
     "title": "karmada-io/karmada",
     "url": "https://github.com/karmada-io/karmada",
     "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
     "language": "Go",
-    "star": "24"
+    "star": "26"
   },
   {
     "title": "labmlai/annotated_deep_learning_paper_implementations",
     "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
     "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
     "language": "Jupyter Notebook",
-    "star": "106"
+    "star": "107"
   },
   {
     "title": "hellof2e/quark-design",
     "url": "https://github.com/hellof2e/quark-design",
     "description": "Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)",
     "language": "TypeScript",
-    "star": "42"
+    "star": "43"
   },
   {
     "title": "strapi/strapi",
     "url": "https://github.com/strapi/strapi",
     "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
     "language": "JavaScript",
-    "star": "62"
+    "star": "69"
   },
   {
     "title": "lidangzzz/How-to-run",
     "url": "https://github.com/lidangzzz/How-to-run",
     "description": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
     "language": "TypeScript",
-    "star": "169"
+    "star": "172"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "215"
+    "star": "207"
   },
   {
     "title": "pocketbase/pocketbase",
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "153"
+    "star": "162"
   },
   {
     "title": "Olde-Skuul/doom3do",
     "url": "https://github.com/Olde-Skuul/doom3do",
     "description": "The complete archive for DOOM for the 3DO",
     "language": "C",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "benphelps/homepage",
     "url": "https://github.com/benphelps/homepage",
     "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
     "language": "JavaScript",
-    "star": "59"
+    "star": "58"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "description": "⭐️ Companies that don't have a broken hiring process",
     "language": "JavaScript",
-    "star": "206"
+    "star": "198"
   },
   {
     "title": "microsoft/TypeScript",
     "url": "https://github.com/microsoft/TypeScript",
     "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
     "language": "TypeScript",
-    "star": "52"
+    "star": "53"
   },
   {
     "title": "NationalSecurityAgency/ghidra",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "language": "Java",
-    "star": "63"
+    "star": "61"
   },
   {
     "title": "apache/pulsar",
     "url": "https://github.com/apache/pulsar",
     "description": "Apache Pulsar - distributed pub-sub messaging system",
     "language": "Java",
-    "star": "19"
+    "star": "20"
   },
   {
     "title": "prometheus/client_python",
     "url": "https://github.com/prometheus/client_python",
     "description": "Prometheus instrumentation library for Python applications",
     "language": "Python",
-    "star": "16"
+    "star": "21"
   },
   {
     "title": "dotnet/AspNetCore.Docs",
     "url": "https://github.com/dotnet/AspNetCore.Docs",
     "description": "Documentation for ASP.NET Core",
     "language": "C#",
-    "star": "5"
+    "star": "7"
   },
   {
     "title": "AykutSarac/jsoncrack.com",
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "57"
+    "star": "63"
   },
   {
     "title": "foundry-rs/forge-std",
@@ -165,13 +165,13 @@
     "url": "https://github.com/kubernetes/client-go",
     "description": "Go client for Kubernetes.",
     "language": "Go",
-    "star": "37"
+    "star": "33"
   },
   {
     "title": "SoftwareBrothers/adminjs",
     "url": "https://github.com/SoftwareBrothers/adminjs",
     "description": "AdminJS is an admin panel for apps written in node.js",
     "language": "TypeScript",
-    "star": "85"
+    "star": "91"
   }
 ]
