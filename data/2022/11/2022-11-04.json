@@ -1,0 +1,177 @@
+[
+  {
+    "title": "grafana/phlare",
+    "url": "https://github.com/grafana/phlare",
+    "description": "🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system",
+    "language": "Go",
+    "star": "234"
+  },
+  {
+    "title": "SheerSt/pokewilds",
+    "url": "https://github.com/SheerSt/pokewilds",
+    "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
+    "language": "Assembly",
+    "star": "125"
+  },
+  {
+    "title": "refinedev/refine",
+    "url": "https://github.com/refinedev/refine",
+    "description": "Build your React-based CRUD applications, without constraints.",
+    "language": "TypeScript",
+    "star": "295"
+  },
+  {
+    "title": "milanm/DevOps-Roadmap",
+    "url": "https://github.com/milanm/DevOps-Roadmap",
+    "description": "DevOps Roadmap for 2022. with learning resources",
+    "language": "none",
+    "star": "500"
+  },
+  {
+    "title": "Netflix/conductor",
+    "url": "https://github.com/Netflix/conductor",
+    "description": "Conductor is a microservices orchestration engine.",
+    "language": "Java",
+    "star": "194"
+  },
+  {
+    "title": "Taiga74164/Akebi-GC",
+    "url": "https://github.com/Taiga74164/Akebi-GC",
+    "description": "Akebi Genshin Cheat source for OS/CN 3.0",
+    "language": "C++",
+    "star": "49"
+  },
+  {
+    "title": "karmada-io/karmada",
+    "url": "https://github.com/karmada-io/karmada",
+    "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
+    "language": "Go",
+    "star": "24"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "language": "Jupyter Notebook",
+    "star": "106"
+  },
+  {
+    "title": "hellof2e/quark-design",
+    "url": "https://github.com/hellof2e/quark-design",
+    "description": "Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。)",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
+    "language": "JavaScript",
+    "star": "62"
+  },
+  {
+    "title": "lidangzzz/How-to-run",
+    "url": "https://github.com/lidangzzz/How-to-run",
+    "description": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
+    "language": "TypeScript",
+    "star": "169"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "215"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "language": "Go",
+    "star": "153"
+  },
+  {
+    "title": "Olde-Skuul/doom3do",
+    "url": "https://github.com/Olde-Skuul/doom3do",
+    "description": "The complete archive for DOOM for the 3DO",
+    "language": "C",
+    "star": "20"
+  },
+  {
+    "title": "benphelps/homepage",
+    "url": "https://github.com/benphelps/homepage",
+    "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "language": "JavaScript",
+    "star": "59"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "star": "206"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "language": "TypeScript",
+    "star": "52"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "star": "63"
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "description": "Apache Pulsar - distributed pub-sub messaging system",
+    "language": "Java",
+    "star": "19"
+  },
+  {
+    "title": "prometheus/client_python",
+    "url": "https://github.com/prometheus/client_python",
+    "description": "Prometheus instrumentation library for Python applications",
+    "language": "Python",
+    "star": "16"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "description": "Documentation for ASP.NET Core",
+    "language": "C#",
+    "star": "5"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
+    "language": "TypeScript",
+    "star": "57"
+  },
+  {
+    "title": "foundry-rs/forge-std",
+    "url": "https://github.com/foundry-rs/forge-std",
+    "description": "Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.",
+    "language": "Solidity",
+    "star": "10"
+  },
+  {
+    "title": "kubernetes/client-go",
+    "url": "https://github.com/kubernetes/client-go",
+    "description": "Go client for Kubernetes.",
+    "language": "Go",
+    "star": "37"
+  },
+  {
+    "title": "SoftwareBrothers/adminjs",
+    "url": "https://github.com/SoftwareBrothers/adminjs",
+    "description": "AdminJS is an admin panel for apps written in node.js",
+    "language": "TypeScript",
+    "star": "85"
+  }
+]
