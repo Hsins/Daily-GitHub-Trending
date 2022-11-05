@@ -4,49 +4,49 @@
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "349"
+    "star": "303"
   },
   {
     "title": "stashapp/stash",
     "url": "https://github.com/stashapp/stash",
     "description": "An organizer for your porn, written in Go",
     "language": "Go",
-    "star": "313"
+    "star": "331"
   },
   {
     "title": "refinedev/refine",
     "url": "https://github.com/refinedev/refine",
     "description": "Build your React-based CRUD applications, without constraints.",
     "language": "TypeScript",
-    "star": "174"
+    "star": "245"
   },
   {
     "title": "Sanster/lama-cleaner",
     "url": "https://github.com/Sanster/lama-cleaner",
     "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
     "language": "Python",
-    "star": "105"
+    "star": "94"
   },
   {
     "title": "alibaba/havenask",
     "url": "https://github.com/alibaba/havenask",
     "description": "",
     "language": "C++",
-    "star": "27"
+    "star": "24"
   },
   {
     "title": "SheerSt/pokewilds",
     "url": "https://github.com/SheerSt/pokewilds",
     "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
     "language": "Assembly",
-    "star": "124"
+    "star": "138"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "159"
+    "star": "140"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -60,70 +60,70 @@
     "url": "https://github.com/Bdenneu/CVE-2022-33679",
     "description": "One day based on https://googleprojectzero.blogspot.com/2022/10/rc4-is-still-considered-harmful.html",
     "language": "Python",
-    "star": "52"
+    "star": "62"
   },
   {
     "title": "sottlmarek/DevSecOps",
     "url": "https://github.com/sottlmarek/DevSecOps",
     "description": "Ultimate DevSecOps library",
     "language": "none",
-    "star": "43"
+    "star": "40"
   },
   {
     "title": "rodrigorgtic/nlwcopa-mobile-components",
     "url": "https://github.com/rodrigorgtic/nlwcopa-mobile-components",
     "description": "⚽ NLW Copa - Componentes do App Mobile.",
     "language": "TypeScript",
-    "star": "14"
+    "star": "15"
   },
   {
     "title": "prowler-cloud/prowler",
     "url": "https://github.com/prowler-cloud/prowler",
     "description": "Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
     "language": "Shell",
-    "star": "29"
+    "star": "9"
   },
   {
     "title": "milanm/DevOps-Roadmap",
     "url": "https://github.com/milanm/DevOps-Roadmap",
     "description": "DevOps Roadmap for 2022. with learning resources",
     "language": "none",
-    "star": "417"
+    "star": "436"
   },
   {
     "title": "grafana/grafana",
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "22"
+    "star": "21"
   },
   {
     "title": "ssnhd/googlevoice",
     "url": "https://github.com/ssnhd/googlevoice",
     "description": "注册 Google Voice 号码详细步骤",
     "language": "none",
-    "star": "26"
+    "star": "15"
   },
   {
     "title": "prometheus/prometheus",
     "url": "https://github.com/prometheus/prometheus",
     "description": "The Prometheus monitoring system and time series database.",
     "language": "Go",
-    "star": "37"
+    "star": "18"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
     "language": "Python",
-    "star": "52"
+    "star": "49"
   },
   {
     "title": "NationalSecurityAgency/ghidra",
     "url": "https://github.com/NationalSecurityAgency/ghidra",
     "description": "Ghidra is a software reverse engineering (SRE) framework",
     "language": "Java",
-    "star": "93"
+    "star": "98"
   },
   {
     "title": "pointfreeco/swift-composable-architecture",
@@ -144,21 +144,21 @@
     "url": "https://github.com/Netflix/conductor",
     "description": "Conductor is a microservices orchestration engine.",
     "language": "Java",
-    "star": "217"
+    "star": "238"
   },
   {
     "title": "Wechat-ggGitHub/Awesome-GitHub-Repo",
     "url": "https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo",
     "description": "收集整理 GitHub 上高质量、有趣的开源项目。",
     "language": "none",
-    "star": "46"
+    "star": "21"
   },
   {
     "title": "surrealdb/surrealdb",
     "url": "https://github.com/surrealdb/surrealdb",
     "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
     "language": "Rust",
-    "star": "37"
+    "star": "32"
   },
   {
     "title": "unifyai/ivy",
@@ -172,6 +172,6 @@
     "url": "https://github.com/danielgindi/Charts",
     "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
     "language": "Swift",
-    "star": "8"
+    "star": "10"
   }
 ]
