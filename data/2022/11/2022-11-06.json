@@ -1,0 +1,177 @@
+[
+  {
+    "title": "stashapp/stash",
+    "url": "https://github.com/stashapp/stash",
+    "description": "An organizer for your porn, written in Go",
+    "language": "Go",
+    "star": "338"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "337"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "language": "Python",
+    "star": "194"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "128"
+  },
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "description": "Next-generation Cloud Native Gateway",
+    "language": "C++",
+    "star": "74"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "star": "84"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "213"
+  },
+  {
+    "title": "huggingface/diffusion-models-class",
+    "url": "https://github.com/huggingface/diffusion-models-class",
+    "description": "Materials for the Hugging Face Diffusion Models Course",
+    "language": "none",
+    "star": "23"
+  },
+  {
+    "title": "tiangolo/typer",
+    "url": "https://github.com/tiangolo/typer",
+    "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+    "language": "Rust",
+    "star": "76"
+  },
+  {
+    "title": "Netflix/conductor",
+    "url": "https://github.com/Netflix/conductor",
+    "description": "Conductor is a microservices orchestration engine.",
+    "language": "Java",
+    "star": "112"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "description": "Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡",
+    "language": "JavaScript",
+    "star": "75"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "",
+    "language": "Shell",
+    "star": "22"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "description": "The content behind MDN Web Docs",
+    "language": "Markdown",
+    "star": "21"
+  },
+  {
+    "title": "rocketseat-education/nlw-copa-ignite",
+    "url": "https://github.com/rocketseat-education/nlw-copa-ignite",
+    "description": "Projeto desenvolvido durante a Next Level Week Copa, na trilha Ignite.",
+    "language": "TypeScript",
+    "star": "10"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "description": "A black hole for Internet advertisements",
+    "language": "Shell",
+    "star": "35"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "description": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "language": "Go",
+    "star": "51"
+  },
+  {
+    "title": "Ehviewer-Overhauled/Ehviewer",
+    "url": "https://github.com/Ehviewer-Overhauled/Ehviewer",
+    "description": "EhViewer overhauled with Material Design 3 and more",
+    "language": "Java",
+    "star": "43"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "25"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "language": "Python",
+    "star": "121"
+  },
+  {
+    "title": "lidangzzz/How-to-run",
+    "url": "https://github.com/lidangzzz/How-to-run",
+    "description": "立党老师的润学（零基础转码/移民/留学/海外创业/永居）笔记",
+    "language": "TypeScript",
+    "star": "53"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "star": "24"
+  },
+  {
+    "title": "pygame/pygame",
+    "url": "https://github.com/pygame/pygame",
+    "description": "🐍🎮 pygame (the library) is a Free and Open Source python programming language library for making multimedia applications like games built on top of the excellent SDL library. C, Python, Native, OpenGL.",
+    "language": "C",
+    "star": "5"
+  },
+  {
+    "title": "pi-hole/docker-pi-hole",
+    "url": "https://github.com/pi-hole/docker-pi-hole",
+    "description": "Pi-hole in a docker container",
+    "language": "Shell",
+    "star": "4"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "star": "173"
+  }
+]
