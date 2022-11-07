@@ -4,21 +4,21 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "538"
+    "star": "549"
   },
   {
     "title": "algorithm-visualizer/algorithm-visualizer",
     "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
     "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
     "language": "JavaScript",
-    "star": "153"
+    "star": "158"
   },
   {
     "title": "MubertAI/Mubert-Text-to-Music",
     "url": "https://github.com/MubertAI/Mubert-Text-to-Music",
     "description": "A simple notebook demonstrating prompt-based music generation via Mubert API",
     "language": "Jupyter Notebook",
-    "star": "93"
+    "star": "100"
   },
   {
     "title": "stashapp/stash",
@@ -32,112 +32,112 @@
     "url": "https://github.com/facebook/react-native",
     "description": "A framework for building native applications using React",
     "language": "JavaScript",
-    "star": "54"
+    "star": "57"
   },
   {
     "title": "rodrigorgtic/nlwcopa-mobile-components",
     "url": "https://github.com/rodrigorgtic/nlwcopa-mobile-components",
     "description": "⚽ NLW Copa - Componentes do App Mobile.",
     "language": "TypeScript",
-    "star": "30"
+    "star": "31"
   },
   {
     "title": "surrealdb/surrealdb",
     "url": "https://github.com/surrealdb/surrealdb",
     "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
     "language": "Rust",
-    "star": "213"
+    "star": "202"
   },
   {
     "title": "helix-editor/helix",
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "236"
+    "star": "243"
   },
   {
     "title": "geohot/tinygrad",
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "277"
+    "star": "279"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "130"
+    "star": "126"
   },
   {
     "title": "alibaba/higress",
     "url": "https://github.com/alibaba/higress",
     "description": "Next-generation Cloud Native Gateway",
     "language": "C++",
-    "star": "189"
+    "star": "190"
   },
   {
     "title": "pi-hole/pi-hole",
     "url": "https://github.com/pi-hole/pi-hole",
     "description": "A black hole for Internet advertisements",
     "language": "Shell",
-    "star": "165"
+    "star": "168"
   },
   {
     "title": "openai/whisper",
     "url": "https://github.com/openai/whisper",
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
     "language": "Jupyter Notebook",
-    "star": "202"
+    "star": "205"
   },
   {
     "title": "diracdeltas/tweets",
     "url": "https://github.com/diracdeltas/tweets",
     "description": "janky twitter replacement.",
     "language": "Shell",
-    "star": "146"
+    "star": "145"
   },
   {
     "title": "trinib/Linux-Bash-Commands",
     "url": "https://github.com/trinib/Linux-Bash-Commands",
     "description": "Ultimate list of Linux bash commands",
     "language": "none",
-    "star": "485"
+    "star": "489"
   },
   {
     "title": "idanya/algo-trader",
     "url": "https://github.com/idanya/algo-trader",
     "description": "Trading bot with support for realtime trading, backtesting, custom strategies and much more.",
     "language": "Python",
-    "star": "91"
+    "star": "88"
   },
   {
     "title": "linyiLYi/pose-monitor",
     "url": "https://github.com/linyiLYi/pose-monitor",
     "description": "“让爷康康”是一款手机 AI 应用程序，可以监测不良坐姿并进行语音提示",
     "language": "Jupyter Notebook",
-    "star": "145"
+    "star": "142"
   },
   {
     "title": "CryoByte33/steam-deck-utilities",
     "url": "https://github.com/CryoByte33/steam-deck-utilities",
     "description": "Scripts to help make the Steam Deck the best it can be.",
     "language": "Shell",
-    "star": "65"
+    "star": "66"
   },
   {
     "title": "superseriousbusiness/gotosocial",
     "url": "https://github.com/superseriousbusiness/gotosocial",
     "description": "Fast, fun, ActivityPub server, powered by Go.",
     "language": "Go",
-    "star": "60"
+    "star": "71"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "144"
+    "star": "143"
   },
   {
     "title": "iterativv/NostalgiaForInfinity",
@@ -158,20 +158,20 @@
     "url": "https://github.com/mastodon/mastodon-android",
     "description": "Official Android app for Mastodon",
     "language": "Java",
-    "star": "70"
+    "star": "71"
   },
   {
     "title": "dillongoostudios/goo-engine",
     "url": "https://github.com/dillongoostudios/goo-engine",
     "description": "Custom build of blender with some extra NPR features.",
     "language": "C",
-    "star": "33"
+    "star": "34"
   },
   {
     "title": "mdn/content",
     "url": "https://github.com/mdn/content",
     "description": "The content behind MDN Web Docs",
     "language": "Markdown",
-    "star": "93"
+    "star": "90"
   }
 ]
