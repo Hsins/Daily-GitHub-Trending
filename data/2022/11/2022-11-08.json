@@ -4,21 +4,21 @@
     "url": "https://github.com/stashapp/stash",
     "description": "An organizer for your porn, written in Go",
     "language": "Go",
-    "star": "247"
+    "star": "251"
   },
   {
     "title": "MubertAI/Mubert-Text-to-Music",
     "url": "https://github.com/MubertAI/Mubert-Text-to-Music",
     "description": "A simple notebook demonstrating prompt-based music generation via Mubert API",
     "language": "Jupyter Notebook",
-    "star": "234"
+    "star": "235"
   },
   {
     "title": "lensterxyz/lenster",
     "url": "https://github.com/lensterxyz/lenster",
     "description": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
     "language": "TypeScript",
-    "star": "708"
+    "star": "690"
   },
   {
     "title": "alibaba/higress",
@@ -32,70 +32,70 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "246"
+    "star": "244"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "576"
+    "star": "577"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "609"
+    "star": "603"
   },
   {
     "title": "ProjectOpenSea/operator-filter-registry",
     "url": "https://github.com/ProjectOpenSea/operator-filter-registry",
     "description": "",
     "language": "Solidity",
-    "star": "28"
+    "star": "29"
   },
   {
     "title": "trinib/Linux-Bash-Commands",
     "url": "https://github.com/trinib/Linux-Bash-Commands",
     "description": "Ultimate list of Linux bash commands",
     "language": "none",
-    "star": "380"
+    "star": "377"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "95"
+    "star": "97"
   },
   {
     "title": "6mile/DevSecOps-Playbook",
     "url": "https://github.com/6mile/DevSecOps-Playbook",
     "description": "This is a step-by-step guide to implementing a DevSecOps program for any size organization",
     "language": "none",
-    "star": "96"
+    "star": "102"
   },
   {
     "title": "ossu/computer-science",
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "453"
+    "star": "435"
   },
   {
     "title": "facebook/react-native",
     "url": "https://github.com/facebook/react-native",
     "description": "A framework for building native applications using React",
     "language": "JavaScript",
-    "star": "96"
+    "star": "94"
   },
   {
     "title": "geohot/tinygrad",
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "156"
+    "star": "153"
   },
   {
     "title": "algorithm-visualizer/algorithm-visualizer",
@@ -109,14 +109,14 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "564"
+    "star": "561"
   },
   {
     "title": "Budibase/budibase",
     "url": "https://github.com/Budibase/budibase",
     "description": "Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡",
     "language": "JavaScript",
-    "star": "74"
+    "star": "73"
   },
   {
     "title": "nathanlesage/academics-on-mastodon",
@@ -130,14 +130,14 @@
     "url": "https://github.com/dillongoostudios/goo-engine",
     "description": "Custom build of blender with some extra NPR features.",
     "language": "C",
-    "star": "59"
+    "star": "55"
   },
   {
     "title": "RustScan/RustScan",
     "url": "https://github.com/RustScan/RustScan",
     "description": "🤖 The Modern Port Scanner 🤖",
     "language": "Rust",
-    "star": "137"
+    "star": "149"
   },
   {
     "title": "mastodon/mastodon-android",
@@ -158,20 +158,20 @@
     "url": "https://github.com/CyC2018/CS-Notes",
     "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
     "language": "none",
-    "star": "57"
+    "star": "60"
   },
   {
     "title": "mdn/content",
     "url": "https://github.com/mdn/content",
     "description": "The content behind MDN Web Docs",
     "language": "Markdown",
-    "star": "113"
+    "star": "115"
   },
   {
     "title": "safing/portmaster",
     "url": "https://github.com/safing/portmaster",
     "description": "🏔 Love Freedom - ❌ Block Mass Surveillance",
     "language": "Go",
-    "star": "151"
+    "star": "158"
   }
 ]
