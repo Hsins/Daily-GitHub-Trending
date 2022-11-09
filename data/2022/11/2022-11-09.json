@@ -4,28 +4,28 @@
     "url": "https://github.com/projectdiscovery/katana",
     "description": "A next-generation crawling and spidering framework.",
     "language": "Go",
-    "star": "555"
+    "star": "575"
   },
   {
     "title": "AdguardTeam/AdGuardHome",
     "url": "https://github.com/AdguardTeam/AdGuardHome",
     "description": "Network-wide ads & trackers blocking DNS server",
     "language": "Go",
-    "star": "99"
+    "star": "110"
   },
   {
     "title": "MubertAI/Mubert-Text-to-Music",
     "url": "https://github.com/MubertAI/Mubert-Text-to-Music",
     "description": "A simple notebook demonstrating prompt-based music generation via Mubert API",
     "language": "Jupyter Notebook",
-    "star": "162"
+    "star": "160"
   },
   {
     "title": "ilovexjp/health-code-index",
     "url": "https://github.com/ilovexjp/health-code-index",
     "description": "健康码模拟 - 索引",
     "language": "HTML",
-    "star": "539"
+    "star": "535"
   },
   {
     "title": "binwiederhier/ntfy",
@@ -39,28 +39,28 @@
     "url": "https://github.com/The-Run-Philosophy-Organization/run",
     "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
     "language": "none",
-    "star": "497"
+    "star": "481"
   },
   {
     "title": "memphisdev/memphis-broker",
     "url": "https://github.com/memphisdev/memphis-broker",
     "description": "Memphis is an Open-Source, Real-Time Data Processing Platform",
     "language": "Go",
-    "star": "159"
+    "star": "166"
   },
   {
     "title": "DovAmir/awesome-design-patterns",
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "98"
+    "star": "99"
   },
   {
     "title": "martinothamar/Mediator",
     "url": "https://github.com/martinothamar/Mediator",
     "description": "A high performance implementation of Mediator pattern in .NET using source generators.",
     "language": "C#",
-    "star": "93"
+    "star": "95"
   },
   {
     "title": "Kaiser-DMr/-3D",
@@ -74,14 +74,14 @@
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "372"
+    "star": "371"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "380"
+    "star": "379"
   },
   {
     "title": "jlevy/the-art-of-command-line",
@@ -95,7 +95,7 @@
     "url": "https://github.com/ossu/computer-science",
     "description": "🎓 Path to a free self-taught education in Computer Science!",
     "language": "none",
-    "star": "214"
+    "star": "212"
   },
   {
     "title": "fr0gger/Awesome_Malware_Techniques",
@@ -109,35 +109,35 @@
     "url": "https://github.com/monkeyWie/gopeed",
     "description": "High speed downloader that supports all platforms.",
     "language": "Go",
-    "star": "164"
+    "star": "166"
   },
   {
     "title": "leonardomso/33-js-concepts",
     "url": "https://github.com/leonardomso/33-js-concepts",
     "description": "📜 33 JavaScript concepts every developer should know.",
     "language": "JavaScript",
-    "star": "65"
+    "star": "69"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "223"
+    "star": "219"
   },
   {
     "title": "nicoburns/blessed-rs",
     "url": "https://github.com/nicoburns/blessed-rs",
     "description": "A community guide to the Rust ecosystem",
     "language": "HTML",
-    "star": "105"
+    "star": "106"
   },
   {
     "title": "alura-challenges/aluratube",
     "url": "https://github.com/alura-challenges/aluratube",
     "description": "",
     "language": "none",
-    "star": "39"
+    "star": "40"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
@@ -151,21 +151,21 @@
     "url": "https://github.com/novuhq/novu",
     "description": "⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and delivers Email, SMS, Push and Chat ⚡",
     "language": "TypeScript",
-    "star": "117"
+    "star": "114"
   },
   {
     "title": "RustScan/RustScan",
     "url": "https://github.com/RustScan/RustScan",
     "description": "🤖 The Modern Port Scanner 🤖",
     "language": "Rust",
-    "star": "300"
+    "star": "301"
   },
   {
     "title": "Oneflow-Inc/oneflow",
     "url": "https://github.com/Oneflow-Inc/oneflow",
     "description": "OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.",
     "language": "C++",
-    "star": "51"
+    "star": "53"
   },
   {
     "title": "ben-manes/caffeine",
