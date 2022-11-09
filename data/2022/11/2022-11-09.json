@@ -1,0 +1,177 @@
+[
+  {
+    "title": "projectdiscovery/katana",
+    "url": "https://github.com/projectdiscovery/katana",
+    "description": "A next-generation crawling and spidering framework.",
+    "language": "Go",
+    "star": "555"
+  },
+  {
+    "title": "AdguardTeam/AdGuardHome",
+    "url": "https://github.com/AdguardTeam/AdGuardHome",
+    "description": "Network-wide ads & trackers blocking DNS server",
+    "language": "Go",
+    "star": "99"
+  },
+  {
+    "title": "MubertAI/Mubert-Text-to-Music",
+    "url": "https://github.com/MubertAI/Mubert-Text-to-Music",
+    "description": "A simple notebook demonstrating prompt-based music generation via Mubert API",
+    "language": "Jupyter Notebook",
+    "star": "162"
+  },
+  {
+    "title": "ilovexjp/health-code-index",
+    "url": "https://github.com/ilovexjp/health-code-index",
+    "description": "健康码模拟 - 索引",
+    "language": "HTML",
+    "star": "539"
+  },
+  {
+    "title": "binwiederhier/ntfy",
+    "url": "https://github.com/binwiederhier/ntfy",
+    "description": "Send push notifications to your phone or desktop using PUT/POST",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
+    "language": "none",
+    "star": "497"
+  },
+  {
+    "title": "memphisdev/memphis-broker",
+    "url": "https://github.com/memphisdev/memphis-broker",
+    "description": "Memphis is an Open-Source, Real-Time Data Processing Platform",
+    "language": "Go",
+    "star": "159"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "description": "A curated list of software and architecture related design patterns.",
+    "language": "none",
+    "star": "98"
+  },
+  {
+    "title": "martinothamar/Mediator",
+    "url": "https://github.com/martinothamar/Mediator",
+    "description": "A high performance implementation of Mediator pattern in .NET using source generators.",
+    "language": "C#",
+    "star": "93"
+  },
+  {
+    "title": "Kaiser-DMr/-3D",
+    "url": "https://github.com/Kaiser-DMr/-3D",
+    "description": "李洵爱心跳动代码",
+    "language": "JavaScript",
+    "star": "18"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "372"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "380"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "224"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "214"
+  },
+  {
+    "title": "fr0gger/Awesome_Malware_Techniques",
+    "url": "https://github.com/fr0gger/Awesome_Malware_Techniques",
+    "description": "This is a repository of resource about Malware techniques",
+    "language": "none",
+    "star": "55"
+  },
+  {
+    "title": "monkeyWie/gopeed",
+    "url": "https://github.com/monkeyWie/gopeed",
+    "description": "High speed downloader that supports all platforms.",
+    "language": "Go",
+    "star": "164"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "📜 33 JavaScript concepts every developer should know.",
+    "language": "JavaScript",
+    "star": "65"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "223"
+  },
+  {
+    "title": "nicoburns/blessed-rs",
+    "url": "https://github.com/nicoburns/blessed-rs",
+    "description": "A community guide to the Rust ecosystem",
+    "language": "HTML",
+    "star": "105"
+  },
+  {
+    "title": "alura-challenges/aluratube",
+    "url": "https://github.com/alura-challenges/aluratube",
+    "description": "",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "language": "Java",
+    "star": "160"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "description": "⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and delivers Email, SMS, Push and Chat ⚡",
+    "language": "TypeScript",
+    "star": "117"
+  },
+  {
+    "title": "RustScan/RustScan",
+    "url": "https://github.com/RustScan/RustScan",
+    "description": "🤖 The Modern Port Scanner 🤖",
+    "language": "Rust",
+    "star": "300"
+  },
+  {
+    "title": "Oneflow-Inc/oneflow",
+    "url": "https://github.com/Oneflow-Inc/oneflow",
+    "description": "OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.",
+    "language": "C++",
+    "star": "51"
+  },
+  {
+    "title": "ben-manes/caffeine",
+    "url": "https://github.com/ben-manes/caffeine",
+    "description": "A high performance caching library for Java",
+    "language": "Java",
+    "star": "26"
+  }
+]
