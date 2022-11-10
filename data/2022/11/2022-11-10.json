@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ilovexjp/health-code-index",
+    "url": "https://github.com/ilovexjp/health-code-index",
+    "description": "健康码模拟 - 索引",
+    "language": "HTML",
+    "star": "544"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "YanG-1989/m3u",
+    "url": "https://github.com/YanG-1989/m3u",
+    "description": "",
+    "language": "none",
+    "star": "69"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "40"
+  },
+  {
+    "title": "projectdiscovery/katana",
+    "url": "https://github.com/projectdiscovery/katana",
+    "description": "A next-generation crawling and spidering framework.",
+    "language": "Go",
+    "star": "551"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run",
+    "description": "润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。",
+    "language": "none",
+    "star": "472"
+  },
+  {
+    "title": "binwiederhier/ntfy",
+    "url": "https://github.com/binwiederhier/ntfy",
+    "description": "Send push notifications to your phone or desktop using PUT/POST",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "NVIDIA-Omniverse/PhysX",
+    "url": "https://github.com/NVIDIA-Omniverse/PhysX",
+    "description": "NVIDIA PhysX SDK",
+    "language": "C++",
+    "star": "232"
+  },
+  {
+    "title": "cozodb/cozo",
+    "url": "https://github.com/cozodb/cozo",
+    "description": "A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms",
+    "language": "Rust",
+    "star": "321"
+  },
+  {
+    "title": "TanStack/router",
+    "url": "https://github.com/TanStack/router",
+    "description": "🤖 Powerful routing and search-params for JS/TS, React, Solid, Vue and Svelte",
+    "language": "TypeScript",
+    "star": "97"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "description": "Neural Networks: Zero to Hero",
+    "language": "Jupyter Notebook",
+    "star": "89"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "language": "Java",
+    "star": "155"
+  },
+  {
+    "title": "zurichat/zc_main",
+    "url": "https://github.com/zurichat/zc_main",
+    "description": "A Workspace Web App powered by React and Node Js.",
+    "language": "JavaScript",
+    "star": "5"
+  },
+  {
+    "title": "leduyminhcn20b/duyminhbio",
+    "url": "https://github.com/leduyminhcn20b/duyminhbio",
+    "description": "",
+    "language": "HTML",
+    "star": "4"
+  },
+  {
+    "title": "rome/tools",
+    "url": "https://github.com/rome/tools",
+    "description": "Unified developer tools for JavaScript, TypeScript, and the web",
+    "language": "Rust",
+    "star": "157"
+  },
+  {
+    "title": "Zeal8bit/Zeal-8-bit-OS",
+    "url": "https://github.com/Zeal8bit/Zeal-8-bit-OS",
+    "description": "An Operating System for Z80 computers, written in assembly",
+    "language": "Assembly",
+    "star": "40"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "156"
+  },
+  {
+    "title": "oceanbase/oceanbase",
+    "url": "https://github.com/oceanbase/oceanbase",
+    "description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",
+    "language": "C++",
+    "star": "11"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "description": "PowerShell for every system!",
+    "language": "C#",
+    "star": "29"
+  },
+  {
+    "title": "medplum/medplum",
+    "url": "https://github.com/medplum/medplum",
+    "description": "Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.",
+    "language": "TypeScript",
+    "star": "34"
+  },
+  {
+    "title": "safing/portmaster",
+    "url": "https://github.com/safing/portmaster",
+    "description": "🏔 Love Freedom - ❌ Block Mass Surveillance",
+    "language": "Go",
+    "star": "156"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "131"
+  },
+  {
+    "title": "aws/amazon-sagemaker-examples",
+    "url": "https://github.com/aws/amazon-sagemaker-examples",
+    "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+    "language": "Jupyter Notebook",
+    "star": "5"
+  },
+  {
+    "title": "a16z/helios",
+    "url": "https://github.com/a16z/helios",
+    "description": "A fast, secure, and portable light client for Ethereum",
+    "language": "Rust",
+    "star": "84"
+  },
+  {
+    "title": "MubertAI/Mubert-Text-to-Music",
+    "url": "https://github.com/MubertAI/Mubert-Text-to-Music",
+    "description": "A simple notebook demonstrating prompt-based music generation via Mubert API",
+    "language": "Jupyter Notebook",
+    "star": "155"
+  }
+]
