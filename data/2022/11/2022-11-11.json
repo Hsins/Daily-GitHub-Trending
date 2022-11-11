@@ -11,14 +11,14 @@
     "url": "https://github.com/projectdiscovery/katana",
     "description": "A next-generation crawling and spidering framework.",
     "language": "Go",
-    "star": "760"
+    "star": "869"
   },
   {
     "title": "binwiederhier/ntfy",
     "url": "https://github.com/binwiederhier/ntfy",
     "description": "Send push notifications to your phone or desktop using PUT/POST",
     "language": "Go",
-    "star": "712"
+    "star": "744"
   },
   {
     "title": "The-Run-Philosophy-Organization/run",
@@ -32,7 +32,7 @@
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
     "language": "Python",
-    "star": "239"
+    "star": "250"
   },
   {
     "title": "solidjs/solid-start",
@@ -46,7 +46,7 @@
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "25"
+    "star": "26"
   },
   {
     "title": "AdguardTeam/AdGuardHome",
@@ -60,14 +60,14 @@
     "url": "https://github.com/mli/autocut",
     "description": "",
     "language": "Python",
-    "star": "165"
+    "star": "233"
   },
   {
     "title": "rome/tools",
     "url": "https://github.com/rome/tools",
     "description": "Unified developer tools for JavaScript, TypeScript, and the web",
     "language": "Rust",
-    "star": "153"
+    "star": "163"
   },
   {
     "title": "doitsujin/dxvk",
@@ -88,35 +88,35 @@
     "url": "https://github.com/infosecB/awesome-detection-engineering",
     "description": "A list of useful Detection Engineering-related resources.",
     "language": "none",
-    "star": "40"
+    "star": "20"
   },
   {
     "title": "mouredev/Hello-Python",
     "url": "https://github.com/mouredev/Hello-Python",
     "description": "Python desde cero",
     "language": "Python",
-    "star": "102"
+    "star": "160"
   },
   {
     "title": "Azure/azure-sdk-for-python",
     "url": "https://github.com/Azure/azure-sdk-for-python",
     "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
     "language": "Python",
-    "star": "7"
+    "star": "9"
   },
   {
     "title": "karpathy/nn-zero-to-hero",
     "url": "https://github.com/karpathy/nn-zero-to-hero",
     "description": "Neural Networks: Zero to Hero",
     "language": "Jupyter Notebook",
-    "star": "97"
+    "star": "72"
   },
   {
     "title": "Ryujinx/Ryujinx",
     "url": "https://github.com/Ryujinx/Ryujinx",
     "description": "Experimental Nintendo Switch Emulator written in C#",
     "language": "C#",
-    "star": "54"
+    "star": "37"
   },
   {
     "title": "Kaiser-DMr/-3D",
@@ -137,7 +137,7 @@
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "156"
+    "star": "157"
   },
   {
     "title": "Asabeneh/30-Days-Of-JavaScript",
@@ -158,7 +158,7 @@
     "url": "https://github.com/TanStack/router",
     "description": "🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular",
     "language": "TypeScript",
-    "star": "108"
+    "star": "130"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
