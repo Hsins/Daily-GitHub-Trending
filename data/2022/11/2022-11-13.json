@@ -11,7 +11,7 @@
     "url": "https://github.com/hyprwm/Hyprland",
     "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
     "language": "C++",
-    "star": "19"
+    "star": "23"
   },
   {
     "title": "bevyengine/bevy",
@@ -25,7 +25,7 @@
     "url": "https://github.com/Ryujinx/Ryujinx",
     "description": "Experimental Nintendo Switch Emulator written in C#",
     "language": "C#",
-    "star": "75"
+    "star": "73"
   },
   {
     "title": "tokio-rs/axum",
@@ -53,14 +53,14 @@
     "url": "https://github.com/jaywcjlove/reference",
     "description": "为开发人员分享快速参考备忘清单(速查表)",
     "language": "CSS",
-    "star": "144"
+    "star": "159"
   },
   {
     "title": "Anuken/Mindustry",
     "url": "https://github.com/Anuken/Mindustry",
     "description": "The automation tower defense RTS",
     "language": "Java",
-    "star": "12"
+    "star": "10"
   },
   {
     "title": "danielgatis/rembg",
@@ -74,7 +74,7 @@
     "url": "https://github.com/solidjs/solid-start",
     "description": "SolidStart, the Solid app framework",
     "language": "TypeScript",
-    "star": "184"
+    "star": "186"
   },
   {
     "title": "mingrammer/diagrams",
@@ -123,14 +123,14 @@
     "url": "https://github.com/2dust/v2rayN",
     "description": "A V2Ray client for Windows, support Xray core and v2fly core",
     "language": "C#",
-    "star": "21"
+    "star": "18"
   },
   {
     "title": "danielmiessler/SecLists",
     "url": "https://github.com/danielmiessler/SecLists",
     "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
     "language": "PHP",
-    "star": "26"
+    "star": "18"
   },
   {
     "title": "MaximilianAnzinger/pgdp2223-tests",
@@ -151,7 +151,7 @@
     "url": "https://github.com/gustavoguanabara/html-css",
     "description": "Curso de HTML5 e CSS3",
     "language": "HTML",
-    "star": "9"
+    "star": "7"
   },
   {
     "title": "termux/termux-packages",
