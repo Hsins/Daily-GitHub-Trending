@@ -1,0 +1,177 @@
+[
+  {
+    "title": "timhutton/twitter-archive-parser",
+    "url": "https://github.com/timhutton/twitter-archive-parser",
+    "description": "Python code to parse a Twitter archive and output in various ways",
+    "language": "Python",
+    "star": "135"
+  },
+  {
+    "title": "hyprwm/Hyprland",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "star": "19"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "51"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "description": "Experimental Nintendo Switch Emulator written in C#",
+    "language": "C#",
+    "star": "75"
+  },
+  {
+    "title": "tokio-rs/axum",
+    "url": "https://github.com/tokio-rs/axum",
+    "description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper",
+    "language": "Rust",
+    "star": "27"
+  },
+  {
+    "title": "wseagar/eight-dollars",
+    "url": "https://github.com/wseagar/eight-dollars",
+    "description": "A browser extension that shows twitter blue vs real verified users",
+    "language": "JavaScript",
+    "star": "154"
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "description": "A Decentralized Operating System for ZK Applications",
+    "language": "Rust",
+    "star": "10"
+  },
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "description": "为开发人员分享快速参考备忘清单(速查表)",
+    "language": "CSS",
+    "star": "144"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "The automation tower defense RTS",
+    "language": "Java",
+    "star": "12"
+  },
+  {
+    "title": "danielgatis/rembg",
+    "url": "https://github.com/danielgatis/rembg",
+    "description": "Rembg is a tool to remove images background.",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "solidjs/solid-start",
+    "url": "https://github.com/solidjs/solid-start",
+    "description": "SolidStart, the Solid app framework",
+    "language": "TypeScript",
+    "star": "184"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "language": "Python",
+    "star": "100"
+  },
+  {
+    "title": "github/hubot-sans",
+    "url": "https://github.com/github/hubot-sans",
+    "description": "Hubot Sans, a variable font from GitHub",
+    "language": "none",
+    "star": "103"
+  },
+  {
+    "title": "User9684/stupid-discord-badge",
+    "url": "https://github.com/User9684/stupid-discord-badge",
+    "description": "Port this repo into https://replit.com and read the readme file for instructions on how to SHIT on discord",
+    "language": "JavaScript",
+    "star": "3"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "138"
+  },
+  {
+    "title": "alanzjl/AlkaidMount",
+    "url": "https://github.com/alanzjl/AlkaidMount",
+    "description": "HarmonicDrive equatorial mount",
+    "language": "C",
+    "star": "8"
+  },
+  {
+    "title": "PojavLauncherTeam/PojavLauncher",
+    "url": "https://github.com/PojavLauncherTeam/PojavLauncher",
+    "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. This repository contains source code for Android platform.",
+    "language": "Java",
+    "star": "9"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "description": "A V2Ray client for Windows, support Xray core and v2fly core",
+    "language": "C#",
+    "star": "21"
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "language": "PHP",
+    "star": "26"
+  },
+  {
+    "title": "MaximilianAnzinger/pgdp2223-tests",
+    "url": "https://github.com/MaximilianAnzinger/pgdp2223-tests",
+    "description": "Collection of JUnit Tests for PGdP exercises at TUM in WS22/23",
+    "language": "Java",
+    "star": "2"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "",
+    "language": "Shell",
+    "star": "24"
+  },
+  {
+    "title": "gustavoguanabara/html-css",
+    "url": "https://github.com/gustavoguanabara/html-css",
+    "description": "Curso de HTML5 e CSS3",
+    "language": "HTML",
+    "star": "9"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "description": "A build system and primary set of packages for Termux.",
+    "language": "Shell",
+    "star": "8"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "description": "Collection of TypeScript type challenges with online judge",
+    "language": "TypeScript",
+    "star": "155"
+  },
+  {
+    "title": "rome/tools",
+    "url": "https://github.com/rome/tools",
+    "description": "Unified developer tools for JavaScript, TypeScript, and the web",
+    "language": "Rust",
+    "star": "223"
+  }
+]
