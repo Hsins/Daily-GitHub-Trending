@@ -1,0 +1,177 @@
+[
+  {
+    "title": "timhutton/twitter-archive-parser",
+    "url": "https://github.com/timhutton/twitter-archive-parser",
+    "description": "Python code to parse a Twitter archive and output in various ways",
+    "language": "Python",
+    "star": "225"
+  },
+  {
+    "title": "jaywcjlove/reference",
+    "url": "https://github.com/jaywcjlove/reference",
+    "description": "为开发人员分享快速参考备忘清单(速查表)",
+    "language": "CSS",
+    "star": "366"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "description": "A refreshingly simple data-driven game engine built in Rust",
+    "language": "Rust",
+    "star": "88"
+  },
+  {
+    "title": "type-challenges/type-challenges",
+    "url": "https://github.com/type-challenges/type-challenges",
+    "description": "Collection of TypeScript type challenges with online judge",
+    "language": "TypeScript",
+    "star": "159"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "description": "Experimental Nintendo Switch Emulator written in C#",
+    "language": "C#",
+    "star": "55"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "151"
+  },
+  {
+    "title": "ChristianLempa/dotfiles",
+    "url": "https://github.com/ChristianLempa/dotfiles",
+    "description": "This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience.",
+    "language": "Shell",
+    "star": "10"
+  },
+  {
+    "title": "mpv-player/mpv",
+    "url": "https://github.com/mpv-player/mpv",
+    "description": "🎥 Command line video player",
+    "language": "C",
+    "star": "46"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "76"
+  },
+  {
+    "title": "rqlite/rqlite",
+    "url": "https://github.com/rqlite/rqlite",
+    "description": "The lightweight, distributed relational database built on SQLite",
+    "language": "Go",
+    "star": "60"
+  },
+  {
+    "title": "LSPosed/LSPosed",
+    "url": "https://github.com/LSPosed/LSPosed",
+    "description": "LSPosed Framework",
+    "language": "Java",
+    "star": "19"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "description": "A small C compiler",
+    "language": "C",
+    "star": "166"
+  },
+  {
+    "title": "aleixrodriala/wa-tunnel",
+    "url": "https://github.com/aleixrodriala/wa-tunnel",
+    "description": "Tunneling Internet traffic over Whatsapp",
+    "language": "JavaScript",
+    "star": "233"
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "description": "Generates LaTeX math description from Python functions.",
+    "language": "Python",
+    "star": "153"
+  },
+  {
+    "title": "AlexFlipnote/GiveMeBadge",
+    "url": "https://github.com/AlexFlipnote/GiveMeBadge",
+    "description": "Pretty simple Discord bot to get the active developer badge",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "vcheckzen/KeepAliveE5",
+    "url": "https://github.com/vcheckzen/KeepAliveE5",
+    "description": "",
+    "language": "Shell",
+    "star": "9"
+  },
+  {
+    "title": "dataease/dataease",
+    "url": "https://github.com/dataease/dataease",
+    "description": "人人可用的开源数据可视化分析工具。",
+    "language": "Java",
+    "star": "17"
+  },
+  {
+    "title": "go-sonic/sonic",
+    "url": "https://github.com/go-sonic/sonic",
+    "description": "Sonic is a blogging platform developed by Go. Simple and powerful",
+    "language": "Go",
+    "star": "77"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "description": "iOS 15.0-15.7.1 (semi-)tethered checkm8 \"jailbreak\"",
+    "language": "Shell",
+    "star": "62"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+    "language": "Python",
+    "star": "99"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "description": "A build system and primary set of packages for Termux.",
+    "language": "Shell",
+    "star": "14"
+  },
+  {
+    "title": "RedditWritesCode/RedditWritesCode",
+    "url": "https://github.com/RedditWritesCode/RedditWritesCode",
+    "description": "The mirror of the series \"The most upvoted comment picks the next line of code\" on Reddit by https://www.reddit.com/user/AggravatingCorner133/",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "160"
+  }
+]
