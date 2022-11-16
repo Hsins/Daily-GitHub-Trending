@@ -4,56 +4,56 @@
     "url": "https://github.com/godot-rust/gdextension",
     "description": "",
     "language": "Rust",
-    "star": "55"
+    "star": "77"
   },
   {
     "title": "type-challenges/type-challenges",
     "url": "https://github.com/type-challenges/type-challenges",
     "description": "Collection of TypeScript type challenges with online judge",
     "language": "TypeScript",
-    "star": "272"
+    "star": "304"
   },
   {
     "title": "vcheckzen/KeepAliveE5",
     "url": "https://github.com/vcheckzen/KeepAliveE5",
     "description": "",
     "language": "Shell",
-    "star": "59"
+    "star": "25"
   },
   {
     "title": "palera1n/palera1n",
     "url": "https://github.com/palera1n/palera1n",
     "description": "iOS 15.0-15.7.1 (semi-)tethered checkm8 \"jailbreak\"",
     "language": "Shell",
-    "star": "132"
+    "star": "90"
   },
   {
     "title": "jaywcjlove/reference",
     "url": "https://github.com/jaywcjlove/reference",
     "description": "为开发人员分享快速参考备忘清单(速查表)",
     "language": "CSS",
-    "star": "403"
+    "star": "239"
   },
   {
     "title": "Ryujinx/Ryujinx",
     "url": "https://github.com/Ryujinx/Ryujinx",
     "description": "Experimental Nintendo Switch Emulator written in C#",
     "language": "C#",
-    "star": "191"
+    "star": "223"
   },
   {
     "title": "sehno/Bug-bounty",
     "url": "https://github.com/sehno/Bug-bounty",
     "description": "Ressources for bug bounty hunting",
     "language": "none",
-    "star": "57"
+    "star": "54"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "221"
+    "star": "227"
   },
   {
     "title": "helm/helm",
@@ -67,42 +67,42 @@
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "161"
+    "star": "172"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
     "language": "Rust",
-    "star": "162"
+    "star": "156"
   },
   {
     "title": "mli/autocut",
     "url": "https://github.com/mli/autocut",
     "description": "用文本编辑器剪视频",
     "language": "Python",
-    "star": "170"
+    "star": "204"
   },
   {
     "title": "timhutton/twitter-archive-parser",
     "url": "https://github.com/timhutton/twitter-archive-parser",
     "description": "Python code to parse a Twitter archive and output in various ways",
     "language": "Python",
-    "star": "195"
+    "star": "270"
   },
   {
     "title": "trustwallet/wallet-core",
     "url": "https://github.com/trustwallet/wallet-core",
     "description": "Cross-platform, cross-blockchain wallet library.",
     "language": "C++",
-    "star": "46"
+    "star": "40"
   },
   {
     "title": "davidfowl/TodoApi",
     "url": "https://github.com/davidfowl/TodoApi",
     "description": "ASP.NET Core API with JWT authentication and authorization",
     "language": "C#",
-    "star": "59"
+    "star": "66"
   },
   {
     "title": "alibaba/havenask",
@@ -116,7 +116,7 @@
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "41"
+    "star": "44"
   },
   {
     "title": "jackfrued/Python-100-Days",
@@ -130,7 +130,7 @@
     "url": "https://github.com/firebase/firebase-ios-sdk",
     "description": "Firebase SDK for Apple App Development",
     "language": "Objective-C",
-    "star": "19"
+    "star": "14"
   },
   {
     "title": "daffainfo/AllAboutBugBounty",
@@ -144,34 +144,34 @@
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "252"
+    "star": "246"
   },
   {
     "title": "pittcsc/Summer2023-Internships",
     "url": "https://github.com/pittcsc/Summer2023-Internships",
     "description": "Collection of Summer 2023 tech internships!",
     "language": "Python",
-    "star": "64"
+    "star": "57"
   },
   {
     "title": "danielgatis/rembg",
     "url": "https://github.com/danielgatis/rembg",
     "description": "Rembg is a tool to remove images background.",
     "language": "Python",
-    "star": "154"
+    "star": "170"
   },
   {
     "title": "open-mmlab/mmrotate",
     "url": "https://github.com/open-mmlab/mmrotate",
     "description": "OpenMMLab Rotated Object Detection Toolbox and Benchmark",
     "language": "Python",
-    "star": "36"
+    "star": "17"
   },
   {
     "title": "google/latexify_py",
     "url": "https://github.com/google/latexify_py",
     "description": "Generates LaTeX math description from Python functions.",
     "language": "Python",
-    "star": "249"
+    "star": "250"
   }
 ]
