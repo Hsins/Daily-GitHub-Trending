@@ -1,0 +1,177 @@
+[
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "description": "CLI tool for Angular",
+    "language": "TypeScript",
+    "star": "17"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "description": "The modern web developer’s platform",
+    "language": "TypeScript",
+    "star": "88"
+  },
+  {
+    "title": "GreptimeTeam/greptimedb",
+    "url": "https://github.com/GreptimeTeam/greptimedb",
+    "description": "GreptimeDB, an open-source, cloud-native, distributed time-series database.",
+    "language": "Rust",
+    "star": "366"
+  },
+  {
+    "title": "facebook/sapling",
+    "url": "https://github.com/facebook/sapling",
+    "description": "A Scalable, User-Friendly Source Control System.",
+    "language": "Rust",
+    "star": "468"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "description": "The Intuitive Web Framework, based on Vue 3.",
+    "language": "TypeScript",
+    "star": "121"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "description": "⚙️ NGINX config generator on steroids 💉",
+    "language": "JavaScript",
+    "star": "64"
+  },
+  {
+    "title": "paperswithcode/galai",
+    "url": "https://github.com/paperswithcode/galai",
+    "description": "Model API for GALACTICA",
+    "language": "Python",
+    "star": "228"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "206"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "An enterprise-class UI design language and React UI library",
+    "language": "TypeScript",
+    "star": "28"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+    "language": "none",
+    "star": "97"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "language": "JavaScript",
+    "star": "59"
+  },
+  {
+    "title": "raminmh/CfC",
+    "url": "https://github.com/raminmh/CfC",
+    "description": "Closed-form Continuous-time Neural Networks",
+    "language": "Python",
+    "star": "50"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "10"
+  },
+  {
+    "title": "nathanlesage/academics-on-mastodon",
+    "url": "https://github.com/nathanlesage/academics-on-mastodon",
+    "description": "A list of various lists consisting of academics on Mastodon",
+    "language": "none",
+    "star": "36"
+  },
+  {
+    "title": "hashicorp/golang-lru",
+    "url": "https://github.com/hashicorp/golang-lru",
+    "description": "Golang LRU cache",
+    "language": "Go",
+    "star": "30"
+  },
+  {
+    "title": "heroaku/TVboxo",
+    "url": "https://github.com/heroaku/TVboxo",
+    "description": "自用资源",
+    "language": "JavaScript",
+    "star": "5"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "255"
+  },
+  {
+    "title": "onnx/onnx",
+    "url": "https://github.com/onnx/onnx",
+    "description": "Open standard for machine learning interoperability",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "description": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).",
+    "language": "Java",
+    "star": "14"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "description": "All the deals for InfoSec related software/tools this Black Friday",
+    "language": "none",
+    "star": "48"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "language": "Swift",
+    "star": "18"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "JavaScript",
+    "star": "81"
+  },
+  {
+    "title": "pingc0y/go_proxy_pool",
+    "url": "https://github.com/pingc0y/go_proxy_pool",
+    "description": "无环境依赖开箱即用的代理IP池",
+    "language": "Go",
+    "star": "12"
+  }
+]
