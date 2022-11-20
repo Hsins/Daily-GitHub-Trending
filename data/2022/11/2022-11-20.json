@@ -18,21 +18,21 @@
     "url": "https://github.com/MystenLabs/sui",
     "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
     "language": "Rust",
-    "star": "17"
+    "star": "15"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "172"
+    "star": "176"
   },
   {
     "title": "facebook/sapling",
     "url": "https://github.com/facebook/sapling",
     "description": "A Scalable, User-Friendly Source Control System.",
     "language": "Rust",
-    "star": "322"
+    "star": "327"
   },
   {
     "title": "ShoufaChen/DiffusionDet",
@@ -46,14 +46,14 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "273"
+    "star": "270"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
     "language": "Python",
-    "star": "46"
+    "star": "24"
   },
   {
     "title": "Dreamacro/clash",
@@ -74,14 +74,14 @@
     "url": "https://github.com/mRs-/Black-Friday-Deals",
     "description": "Black Friday Deals for macOS / iOS Software & Books",
     "language": "Swift",
-    "star": "14"
+    "star": "15"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "356"
+    "star": "289"
   },
   {
     "title": "cheatsnake/backend-cheats",
@@ -95,7 +95,7 @@
     "url": "https://github.com/mastodon/mastodon-ios",
     "description": "Official iOS app for Mastodon",
     "language": "Swift",
-    "star": "37"
+    "star": "41"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
@@ -172,6 +172,6 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "156"
+    "star": "151"
   }
 ]
