@@ -1,0 +1,177 @@
+[
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "HTML",
+    "star": "278"
+  },
+  {
+    "title": "andrewgodwin/takahe",
+    "url": "https://github.com/andrewgodwin/takahe",
+    "description": "An ActivityPub/Fediverse server",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "metabolist/metatext",
+    "url": "https://github.com/metabolist/metatext",
+    "description": "A free, open-source iOS Mastodon client.",
+    "language": "Swift",
+    "star": "28"
+  },
+  {
+    "title": "ShoufaChen/DiffusionDet",
+    "url": "https://github.com/ShoufaChen/DiffusionDet",
+    "description": "PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)",
+    "language": "Python",
+    "star": "114"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "language": "Rust",
+    "star": "29"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "355"
+  },
+  {
+    "title": "cachix/devenv",
+    "url": "https://github.com/cachix/devenv",
+    "description": "Fast, Declarative, Reproducible, and Composable Developer Environments",
+    "language": "Nix",
+    "star": "118"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "language": "JavaScript",
+    "star": "62"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "description": "Port of OpenAI's Whisper model in C/C++",
+    "language": "C",
+    "star": "80"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "language": "Batchfile",
+    "star": "34"
+  },
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "description": "An open-source, self-hosted memo hub with knowledge management and collaboration.",
+    "language": "TypeScript",
+    "star": "173"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "576"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "294"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "description": "🔎 Hunt down social media accounts by username across social networks",
+    "language": "Python",
+    "star": "29"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "151"
+  },
+  {
+    "title": "BuilderIO/qwik",
+    "url": "https://github.com/BuilderIO/qwik",
+    "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS",
+    "language": "TypeScript",
+    "star": "57"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
+    "language": "none",
+    "star": "130"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "",
+    "language": "Shell",
+    "star": "16"
+  },
+  {
+    "title": "yeswehack/vulnerable-code-snippets",
+    "url": "https://github.com/yeswehack/vulnerable-code-snippets",
+    "description": "Twitter vulnerable snippets",
+    "language": "PHP",
+    "star": "47"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "superseriousbusiness/gotosocial",
+    "url": "https://github.com/superseriousbusiness/gotosocial",
+    "description": "Fast, fun, ActivityPub server, powered by Go.",
+    "language": "Go",
+    "star": "46"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "description": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.",
+    "language": "Java",
+    "star": "18"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "language": "Java",
+    "star": "7"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "description": "A Collection of application ideas which can be used to improve your coding skills.",
+    "language": "none",
+    "star": "59"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (November 2022)",
+    "language": "JavaScript",
+    "star": "88"
+  }
+]
