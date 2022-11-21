@@ -4,7 +4,7 @@
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "278"
+    "star": "279"
   },
   {
     "title": "andrewgodwin/takahe",
@@ -25,21 +25,21 @@
     "url": "https://github.com/ShoufaChen/DiffusionDet",
     "description": "PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)",
     "language": "Python",
-    "star": "114"
+    "star": "125"
   },
   {
     "title": "MystenLabs/sui",
     "url": "https://github.com/MystenLabs/sui",
     "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
     "language": "Rust",
-    "star": "29"
+    "star": "34"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "355"
+    "star": "275"
   },
   {
     "title": "cachix/devenv",
@@ -53,42 +53,42 @@
     "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
     "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
     "language": "JavaScript",
-    "star": "62"
+    "star": "63"
   },
   {
     "title": "ggerganov/whisper.cpp",
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "80"
+    "star": "79"
   },
   {
     "title": "UberGuidoZ/Flipper",
     "url": "https://github.com/UberGuidoZ/Flipper",
     "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
     "language": "Batchfile",
-    "star": "34"
+    "star": "33"
   },
   {
     "title": "usememos/memos",
     "url": "https://github.com/usememos/memos",
     "description": "An open-source, self-hosted memo hub with knowledge management and collaboration.",
     "language": "TypeScript",
-    "star": "173"
+    "star": "262"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "576"
+    "star": "578"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "294"
+    "star": "296"
   },
   {
     "title": "sherlock-project/sherlock",
@@ -109,14 +109,14 @@
     "url": "https://github.com/BuilderIO/qwik",
     "description": "The HTML-first framework. Instant apps of any size with ~ 1kb JS",
     "language": "TypeScript",
-    "star": "57"
+    "star": "58"
   },
   {
     "title": "imDazui/Tvlist-awesome-m3u-m3u8",
     "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
     "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
     "language": "none",
-    "star": "130"
+    "star": "141"
   },
   {
     "title": "LSPosed/MagiskOnWSALocal",
@@ -137,7 +137,7 @@
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
     "language": "Python",
-    "star": "43"
+    "star": "105"
   },
   {
     "title": "superseriousbusiness/gotosocial",
@@ -158,7 +158,7 @@
     "url": "https://github.com/PaperMC/Paper",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
     "language": "Java",
-    "star": "7"
+    "star": "11"
   },
   {
     "title": "florinpop17/app-ideas",
