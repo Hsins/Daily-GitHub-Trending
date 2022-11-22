@@ -4,14 +4,14 @@
     "url": "https://github.com/usememos/memos",
     "description": "An open-source, self-hosted memo hub with knowledge management and collaboration.",
     "language": "TypeScript",
-    "star": "572"
+    "star": "591"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "294"
+    "star": "260"
   },
   {
     "title": "AndroidDev-social/MastodonCompose",
@@ -25,7 +25,7 @@
     "url": "https://github.com/FlagAI-Open/FlagAI",
     "description": "FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.",
     "language": "Python",
-    "star": "130"
+    "star": "143"
   },
   {
     "title": "shadcn/taxonomy",
@@ -39,49 +39,49 @@
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "260"
+    "star": "346"
   },
   {
     "title": "TanStack/router",
     "url": "https://github.com/TanStack/router",
     "description": "🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular",
     "language": "TypeScript",
-    "star": "109"
+    "star": "145"
   },
   {
     "title": "commaai/openpilot",
     "url": "https://github.com/commaai/openpilot",
     "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
     "language": "Python",
-    "star": "141"
+    "star": "107"
   },
   {
     "title": "teaxyz/cli",
     "url": "https://github.com/teaxyz/cli",
     "description": "the unified package manager (brew2)",
     "language": "TypeScript",
-    "star": "341"
+    "star": "340"
   },
   {
     "title": "chronicle/GCTI",
     "url": "https://github.com/chronicle/GCTI",
     "description": "",
     "language": "YARA",
-    "star": "113"
+    "star": "104"
   },
   {
     "title": "ShoufaChen/DiffusionDet",
     "url": "https://github.com/ShoufaChen/DiffusionDet",
     "description": "PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)",
     "language": "Python",
-    "star": "235"
+    "star": "226"
   },
   {
     "title": "btcpayserver/btcpayserver",
     "url": "https://github.com/btcpayserver/btcpayserver",
     "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
     "language": "C#",
-    "star": "31"
+    "star": "16"
   },
   {
     "title": "jart/blink",
@@ -95,14 +95,14 @@
     "url": "https://github.com/mRs-/Black-Friday-Deals",
     "description": "Black Friday Deals for macOS / iOS Software & Books",
     "language": "Swift",
-    "star": "27"
+    "star": "32"
   },
   {
     "title": "imDazui/Tvlist-awesome-m3u-m3u8",
     "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
     "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
     "language": "none",
-    "star": "153"
+    "star": "165"
   },
   {
     "title": "LaravelDaily/laravel-tips",
@@ -116,7 +116,7 @@
     "url": "https://github.com/bradtraversy/design-resources-for-developers",
     "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
     "language": "none",
-    "star": "81"
+    "star": "90"
   },
   {
     "title": "corkami/pics",
@@ -151,21 +151,21 @@
     "url": "https://github.com/termux/termux-app",
     "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
     "language": "Java",
-    "star": "53"
+    "star": "55"
   },
   {
     "title": "rolohaun/Rook",
     "url": "https://github.com/rolohaun/Rook",
     "description": "",
     "language": "none",
-    "star": "8"
+    "star": "7"
   },
   {
     "title": "goharbor/harbor",
     "url": "https://github.com/goharbor/harbor",
     "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
     "language": "Go",
-    "star": "16"
+    "star": "46"
   },
   {
     "title": "TonnyL/Awesome_APIs",
