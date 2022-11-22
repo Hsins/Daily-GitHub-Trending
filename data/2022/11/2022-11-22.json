@@ -1,0 +1,177 @@
+[
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "description": "An open-source, self-hosted memo hub with knowledge management and collaboration.",
+    "language": "TypeScript",
+    "star": "572"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "294"
+  },
+  {
+    "title": "AndroidDev-social/MastodonCompose",
+    "url": "https://github.com/AndroidDev-social/MastodonCompose",
+    "description": "🐘 Mastodon client for Android, iOS and Desktop (JVM)",
+    "language": "Kotlin",
+    "star": "9"
+  },
+  {
+    "title": "FlagAI-Open/FlagAI",
+    "url": "https://github.com/FlagAI-Open/FlagAI",
+    "description": "FlagAI (Fast LArge-scale General AI models) is a fast, easy-to-use and extensible toolkit for large-scale model.",
+    "language": "Python",
+    "star": "130"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "language": "TypeScript",
+    "star": "345"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "HTML",
+    "star": "260"
+  },
+  {
+    "title": "TanStack/router",
+    "url": "https://github.com/TanStack/router",
+    "description": "🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular",
+    "language": "TypeScript",
+    "star": "109"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models.",
+    "language": "Python",
+    "star": "141"
+  },
+  {
+    "title": "teaxyz/cli",
+    "url": "https://github.com/teaxyz/cli",
+    "description": "the unified package manager (brew2)",
+    "language": "TypeScript",
+    "star": "341"
+  },
+  {
+    "title": "chronicle/GCTI",
+    "url": "https://github.com/chronicle/GCTI",
+    "description": "",
+    "language": "YARA",
+    "star": "113"
+  },
+  {
+    "title": "ShoufaChen/DiffusionDet",
+    "url": "https://github.com/ShoufaChen/DiffusionDet",
+    "description": "PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)",
+    "language": "Python",
+    "star": "235"
+  },
+  {
+    "title": "btcpayserver/btcpayserver",
+    "url": "https://github.com/btcpayserver/btcpayserver",
+    "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+    "language": "C#",
+    "star": "31"
+  },
+  {
+    "title": "jart/blink",
+    "url": "https://github.com/jart/blink",
+    "description": "tiniest x86-64-linux emulator",
+    "language": "C",
+    "star": "108"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "description": "Black Friday Deals for macOS / iOS Software & Books",
+    "language": "Swift",
+    "star": "27"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
+    "language": "none",
+    "star": "153"
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "description": "Awesome tips for Laravel",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "81"
+  },
+  {
+    "title": "corkami/pics",
+    "url": "https://github.com/corkami/pics",
+    "description": "Posters, drawings...",
+    "language": "Assembly",
+    "star": "57"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "28"
+  },
+  {
+    "title": "actix/examples",
+    "url": "https://github.com/actix/examples",
+    "description": "Community showcase and examples of Actix ecosystem usage.",
+    "language": "Rust",
+    "star": "4"
+  },
+  {
+    "title": "opencv/cvat",
+    "url": "https://github.com/opencv/cvat",
+    "description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+    "language": "Open Policy Agent",
+    "star": "10"
+  },
+  {
+    "title": "termux/termux-app",
+    "url": "https://github.com/termux/termux-app",
+    "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+    "language": "Java",
+    "star": "53"
+  },
+  {
+    "title": "rolohaun/Rook",
+    "url": "https://github.com/rolohaun/Rook",
+    "description": "",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "goharbor/harbor",
+    "url": "https://github.com/goharbor/harbor",
+    "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+    "language": "Go",
+    "star": "16"
+  },
+  {
+    "title": "TonnyL/Awesome_APIs",
+    "url": "https://github.com/TonnyL/Awesome_APIs",
+    "description": "A collection of APIs",
+    "language": "none",
+    "star": "100"
+  }
+]
