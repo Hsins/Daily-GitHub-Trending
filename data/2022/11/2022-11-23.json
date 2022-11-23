@@ -11,21 +11,21 @@
     "url": "https://github.com/ShoufaChen/DiffusionDet",
     "description": "PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788)",
     "language": "Python",
-    "star": "193"
+    "star": "191"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "242"
+    "star": "234"
   },
   {
     "title": "shadcn/taxonomy",
     "url": "https://github.com/shadcn/taxonomy",
     "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
     "language": "TypeScript",
-    "star": "283"
+    "star": "286"
   },
   {
     "title": "roboflow-ai/notebooks",
@@ -60,7 +60,7 @@
     "url": "https://github.com/mRs-/Black-Friday-Deals",
     "description": "Black Friday Deals for macOS / iOS Software & Books",
     "language": "Swift",
-    "star": "34"
+    "star": "55"
   },
   {
     "title": "osintbrazuca/osint-brazuca-regex",
@@ -74,21 +74,21 @@
     "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
     "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
     "language": "none",
-    "star": "205"
+    "star": "202"
   },
   {
     "title": "chronicle/GCTI",
     "url": "https://github.com/chronicle/GCTI",
     "description": "",
     "language": "YARA",
-    "star": "81"
+    "star": "117"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "439"
+    "star": "347"
   },
   {
     "title": "bradtraversy/design-resources-for-developers",
@@ -102,14 +102,14 @@
     "url": "https://github.com/usememos/memos",
     "description": "An open-source, self-hosted memo hub with knowledge management and collaboration.",
     "language": "TypeScript",
-    "star": "394"
+    "star": "395"
   },
   {
     "title": "superseriousbusiness/gotosocial",
     "url": "https://github.com/superseriousbusiness/gotosocial",
     "description": "Fast, fun, ActivityPub server, powered by Go.",
     "language": "Go",
-    "star": "36"
+    "star": "45"
   },
   {
     "title": "actions/runner-images",
@@ -165,7 +165,7 @@
     "url": "https://github.com/teaxyz/cli",
     "description": "the unified package manager (brew2)",
     "language": "TypeScript",
-    "star": "297"
+    "star": "307"
   },
   {
     "title": "goldbergyoni/nodebestpractices",
