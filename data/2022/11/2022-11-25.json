@@ -11,7 +11,7 @@
     "url": "https://github.com/runfinch/finch",
     "description": "The Finch CLI an open source client for container development",
     "language": "Go",
-    "star": "128"
+    "star": "125"
   },
   {
     "title": "davidfowl/TodoApi",
@@ -53,14 +53,14 @@
     "url": "https://github.com/mlfoundations/open_clip",
     "description": "An open source implementation of CLIP.",
     "language": "Python",
-    "star": "41"
+    "star": "32"
   },
   {
     "title": "chidiwilliams/buzz",
     "url": "https://github.com/chidiwilliams/buzz",
     "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
     "language": "Python",
-    "star": "96"
+    "star": "85"
   },
   {
     "title": "mouredev/Hello-Python",
@@ -81,14 +81,14 @@
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "35"
+    "star": "42"
   },
   {
     "title": "youshandefeiyang/IPTV",
     "url": "https://github.com/youshandefeiyang/IPTV",
     "description": "肥羊的IPTV直播源搜集仓库",
     "language": "PHP",
-    "star": "108"
+    "star": "106"
   },
   {
     "title": "terrastruct/d2",
@@ -137,7 +137,7 @@
     "url": "https://github.com/sveltejs/kit",
     "description": "The fastest way to build Svelte apps",
     "language": "JavaScript",
-    "star": "27"
+    "star": "18"
   },
   {
     "title": "apache/superset",
