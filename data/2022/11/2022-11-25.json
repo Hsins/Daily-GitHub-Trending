@@ -1,0 +1,177 @@
+[
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "description": "The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀",
+    "language": "TypeScript",
+    "star": "356"
+  },
+  {
+    "title": "runfinch/finch",
+    "url": "https://github.com/runfinch/finch",
+    "description": "The Finch CLI an open source client for container development",
+    "language": "Go",
+    "star": "128"
+  },
+  {
+    "title": "davidfowl/TodoApi",
+    "url": "https://github.com/davidfowl/TodoApi",
+    "description": "ASP.NET Core API with JWT authentication and authorization",
+    "language": "C#",
+    "star": "34"
+  },
+  {
+    "title": "trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday",
+    "description": "Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.",
+    "language": "none",
+    "star": "261"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "882"
+  },
+  {
+    "title": "facebookresearch/diplomacy_cicero",
+    "url": "https://github.com/facebookresearch/diplomacy_cicero",
+    "description": "Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.",
+    "language": "Python",
+    "star": "121"
+  },
+  {
+    "title": "filipedeschamps/tabnews.com.br",
+    "url": "https://github.com/filipedeschamps/tabnews.com.br",
+    "description": "Conteúdos de valor concreto para quem vive de programação e tecnologia.",
+    "language": "HTML",
+    "star": "569"
+  },
+  {
+    "title": "mlfoundations/open_clip",
+    "url": "https://github.com/mlfoundations/open_clip",
+    "description": "An open source implementation of CLIP.",
+    "language": "Python",
+    "star": "41"
+  },
+  {
+    "title": "chidiwilliams/buzz",
+    "url": "https://github.com/chidiwilliams/buzz",
+    "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+    "language": "Python",
+    "star": "96"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "description": "Python desde cero",
+    "language": "Python",
+    "star": "73"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "201"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "youshandefeiyang/IPTV",
+    "url": "https://github.com/youshandefeiyang/IPTV",
+    "description": "肥羊的IPTV直播源搜集仓库",
+    "language": "PHP",
+    "star": "108"
+  },
+  {
+    "title": "terrastruct/d2",
+    "url": "https://github.com/terrastruct/d2",
+    "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "google/flatbuffers",
+    "url": "https://github.com/google/flatbuffers",
+    "description": "FlatBuffers: Memory Efficient Serialization Library",
+    "language": "C++",
+    "star": "16"
+  },
+  {
+    "title": "gulihua10010/playPiano",
+    "url": "https://github.com/gulihua10010/playPiano",
+    "description": "Java弹奏钢琴乐曲",
+    "language": "Java",
+    "star": "12"
+  },
+  {
+    "title": "tree-sitter/tree-sitter",
+    "url": "https://github.com/tree-sitter/tree-sitter",
+    "description": "An incremental parsing system for programming tools",
+    "language": "Rust",
+    "star": "13"
+  },
+  {
+    "title": "0x90n/InfoSec-Black-Friday",
+    "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+    "description": "All the deals for InfoSec related software/tools this Black Friday",
+    "language": "none",
+    "star": "118"
+  },
+  {
+    "title": "k88hudson/git-flight-rules",
+    "url": "https://github.com/k88hudson/git-flight-rules",
+    "description": "Flight rules for git",
+    "language": "none",
+    "star": "45"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "description": "The fastest way to build Svelte apps",
+    "language": "JavaScript",
+    "star": "27"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "TypeScript",
+    "star": "20"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "language": "C#",
+    "star": "13"
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "description": "The Laravel Framework.",
+    "language": "PHP",
+    "star": "6"
+  },
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "description": "A fast and secure runtime for WebAssembly",
+    "language": "Rust",
+    "star": "20"
+  },
+  {
+    "title": "vitkarpov/coding-interviews-blog-archive",
+    "url": "https://github.com/vitkarpov/coding-interviews-blog-archive",
+    "description": "vitkarpov.me blog archive",
+    "language": "none",
+    "star": "43"
+  }
+]
