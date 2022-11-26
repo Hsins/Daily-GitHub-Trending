@@ -39,14 +39,14 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "1"
+    "star": "922"
   },
   {
     "title": "GyulyVGC/sniffnet",
     "url": "https://github.com/GyulyVGC/sniffnet",
     "description": "Cross-platform application to monitor your network traffic with ease",
     "language": "Rust",
-    "star": "263"
+    "star": "211"
   },
   {
     "title": "starkware-libs/cairo",
@@ -81,21 +81,21 @@
     "url": "https://github.com/youshandefeiyang/IPTV",
     "description": "肥羊的IPTV直播源搜集仓库",
     "language": "PHP",
-    "star": "98"
+    "star": "100"
   },
   {
     "title": "facebookresearch/xformers",
     "url": "https://github.com/facebookresearch/xformers",
     "description": "Hackable and optimized Transformers building blocks, supporting a composable construction.",
     "language": "Python",
-    "star": "24"
+    "star": "25"
   },
   {
     "title": "spring-projects/spring-boot",
     "url": "https://github.com/spring-projects/spring-boot",
     "description": "Spring Boot",
     "language": "Java",
-    "star": "58"
+    "star": "38"
   },
   {
     "title": "community/community",
@@ -116,7 +116,7 @@
     "url": "https://github.com/Atlas-OS/Atlas",
     "description": "An open source modification of the Windows 10 operating system, designed to optimize performance, and latency.",
     "language": "Batchfile",
-    "star": "245"
+    "star": "229"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
@@ -137,21 +137,21 @@
     "url": "https://github.com/davidfowl/TodoApi",
     "description": "ASP.NET Core API with JWT authentication and authorization",
     "language": "C#",
-    "star": "34"
+    "star": "32"
   },
   {
     "title": "filipedeschamps/tabnews.com.br",
     "url": "https://github.com/filipedeschamps/tabnews.com.br",
     "description": "Conteúdos de valor concreto para quem vive de programação e tecnologia.",
     "language": "HTML",
-    "star": "299"
+    "star": "271"
   },
   {
     "title": "sudheerj/reactjs-interview-questions",
     "url": "https://github.com/sudheerj/reactjs-interview-questions",
     "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
     "language": "JavaScript",
-    "star": "25"
+    "star": "29"
   },
   {
     "title": "cypress-io/cypress",
