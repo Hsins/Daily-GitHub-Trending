@@ -1,0 +1,177 @@
+[
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "description": "TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.",
+    "language": "C",
+    "star": "82"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "157"
+  },
+  {
+    "title": "microsoft/torchscale",
+    "url": "https://github.com/microsoft/torchscale",
+    "description": "Transformers at any scale",
+    "language": "Python",
+    "star": "71"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "description": "A rule-based tunnel in Go.",
+    "language": "Go",
+    "star": "47"
+  },
+  {
+    "title": "MirrorX-Desktop/MirrorX",
+    "url": "https://github.com/MirrorX-Desktop/MirrorX",
+    "description": "Secure, Fast and Light remote desktop & file manager tool powered by Tauri and egui.",
+    "language": "Rust",
+    "star": "17"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "475"
+  },
+  {
+    "title": "davidfowl/TodoApi",
+    "url": "https://github.com/davidfowl/TodoApi",
+    "description": "ASP.NET Core API with JWT authentication and authorization",
+    "language": "C#",
+    "star": "79"
+  },
+  {
+    "title": "stashapp/stash",
+    "url": "https://github.com/stashapp/stash",
+    "description": "An organizer for your porn, written in Go",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "36"
+  },
+  {
+    "title": "gulihua10010/playPiano",
+    "url": "https://github.com/gulihua10010/playPiano",
+    "description": "Java弹奏钢琴乐曲",
+    "language": "Java",
+    "star": "39"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+    "language": "Shell",
+    "star": "19"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "37"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's LEDE source",
+    "language": "C",
+    "star": "19"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "290"
+  },
+  {
+    "title": "limoruirui/misaka",
+    "url": "https://github.com/limoruirui/misaka",
+    "description": "开源的一些乱七八糟的东西",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "73"
+  },
+  {
+    "title": "youshandefeiyang/IPTV",
+    "url": "https://github.com/youshandefeiyang/IPTV",
+    "description": "肥羊的IPTV直播源搜集仓库",
+    "language": "PHP",
+    "star": "93"
+  },
+  {
+    "title": "DIYgod/RSSHub",
+    "url": "https://github.com/DIYgod/RSSHub",
+    "description": "🍰 Everything is RSSible",
+    "language": "JavaScript",
+    "star": "15"
+  },
+  {
+    "title": "mlfoundations/open_clip",
+    "url": "https://github.com/mlfoundations/open_clip",
+    "description": "An open source implementation of CLIP.",
+    "language": "Python",
+    "star": "24"
+  },
+  {
+    "title": "runfinch/finch",
+    "url": "https://github.com/runfinch/finch",
+    "description": "The Finch CLI an open source client for container development",
+    "language": "Go",
+    "star": "286"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "description": "A modern and customizable python UI-library based on Tkinter",
+    "language": "Python",
+    "star": "86"
+  },
+  {
+    "title": "ChrisTitusTech/winutil",
+    "url": "https://github.com/ChrisTitusTech/winutil",
+    "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+    "language": "PowerShell",
+    "star": "28"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "180"
+  },
+  {
+    "title": "faif/python-patterns",
+    "url": "https://github.com/faif/python-patterns",
+    "description": "A collection of design patterns/idioms in Python",
+    "language": "Python",
+    "star": "26"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "description": "In-Database Machine Learning",
+    "language": "Python",
+    "star": "16"
+  }
+]
