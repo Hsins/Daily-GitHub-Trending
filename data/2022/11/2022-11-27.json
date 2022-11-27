@@ -11,7 +11,7 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "157"
+    "star": "156"
   },
   {
     "title": "microsoft/torchscale",
@@ -39,14 +39,14 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "475"
+    "star": "627"
   },
   {
     "title": "davidfowl/TodoApi",
     "url": "https://github.com/davidfowl/TodoApi",
     "description": "ASP.NET Core API with JWT authentication and authorization",
     "language": "C#",
-    "star": "79"
+    "star": "80"
   },
   {
     "title": "stashapp/stash",
@@ -102,7 +102,7 @@
     "url": "https://github.com/limoruirui/misaka",
     "description": "开源的一些乱七八糟的东西",
     "language": "Python",
-    "star": "22"
+    "star": "25"
   },
   {
     "title": "supabase/supabase",
@@ -116,7 +116,7 @@
     "url": "https://github.com/youshandefeiyang/IPTV",
     "description": "肥羊的IPTV直播源搜集仓库",
     "language": "PHP",
-    "star": "93"
+    "star": "89"
   },
   {
     "title": "DIYgod/RSSHub",
@@ -130,21 +130,21 @@
     "url": "https://github.com/mlfoundations/open_clip",
     "description": "An open source implementation of CLIP.",
     "language": "Python",
-    "star": "24"
+    "star": "32"
   },
   {
     "title": "runfinch/finch",
     "url": "https://github.com/runfinch/finch",
     "description": "The Finch CLI an open source client for container development",
     "language": "Go",
-    "star": "286"
+    "star": "284"
   },
   {
     "title": "TomSchimansky/CustomTkinter",
     "url": "https://github.com/TomSchimansky/CustomTkinter",
     "description": "A modern and customizable python UI-library based on Tkinter",
     "language": "Python",
-    "star": "86"
+    "star": "79"
   },
   {
     "title": "ChrisTitusTech/winutil",
@@ -158,7 +158,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "180"
+    "star": "179"
   },
   {
     "title": "faif/python-patterns",
