@@ -4,7 +4,7 @@
     "url": "https://github.com/microsoft/torchscale",
     "description": "Transformers at any scale",
     "language": "Python",
-    "star": "120"
+    "star": "121"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -18,7 +18,7 @@
     "url": "https://github.com/iluwatar/java-design-patterns",
     "description": "Design patterns implemented in Java",
     "language": "Java",
-    "star": "46"
+    "star": "47"
   },
   {
     "title": "mindsdb/mindsdb",
@@ -32,7 +32,7 @@
     "url": "https://github.com/davidfowl/TodoApi",
     "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
     "language": "C#",
-    "star": "70"
+    "star": "71"
   },
   {
     "title": "wesbos/JavaScript30",
@@ -53,7 +53,7 @@
     "url": "https://github.com/charlax/professional-programming",
     "description": "A collection of learning resources for curious software engineers",
     "language": "Python",
-    "star": "84"
+    "star": "85"
   },
   {
     "title": "godotengine/godot",
@@ -67,7 +67,7 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "224"
+    "star": "220"
   },
   {
     "title": "Koenkk/zigbee2mqtt",
@@ -95,21 +95,21 @@
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "138"
+    "star": "128"
   },
   {
     "title": "colinhacks/zod",
     "url": "https://github.com/colinhacks/zod",
     "description": "TypeScript-first schema validation with static type inference",
     "language": "TypeScript",
-    "star": "96"
+    "star": "119"
   },
   {
     "title": "LSPosed/MagiskOnWSALocal",
     "url": "https://github.com/LSPosed/MagiskOnWSALocal",
     "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
     "language": "Shell",
-    "star": "25"
+    "star": "27"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
@@ -137,7 +137,7 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
     "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
     "language": "JavaScript",
-    "star": "64"
+    "star": "70"
   },
   {
     "title": "gulihua10010/playPiano",
@@ -151,7 +151,7 @@
     "url": "https://github.com/DIYgod/RSSHub",
     "description": "🍰 Everything is RSSible",
     "language": "JavaScript",
-    "star": "91"
+    "star": "41"
   },
   {
     "title": "Ryujinx/Ryujinx",
@@ -165,13 +165,13 @@
     "url": "https://github.com/termux/termux-packages",
     "description": "A build system and primary set of packages for Termux.",
     "language": "Shell",
-    "star": "7"
+    "star": "20"
   },
   {
     "title": "TheLastBen/fast-stable-diffusion",
     "url": "https://github.com/TheLastBen/fast-stable-diffusion",
     "description": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
     "language": "Python",
-    "star": "34"
+    "star": "35"
   }
 ]
