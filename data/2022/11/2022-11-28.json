@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/torchscale",
+    "url": "https://github.com/microsoft/torchscale",
+    "description": "Transformers at any scale",
+    "language": "Python",
+    "star": "120"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "182"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "46"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "description": "In-Database Machine Learning",
+    "language": "Python",
+    "star": "40"
+  },
+  {
+    "title": "davidfowl/TodoApi",
+    "url": "https://github.com/davidfowl/TodoApi",
+    "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
+    "language": "C#",
+    "star": "70"
+  },
+  {
+    "title": "wesbos/JavaScript30",
+    "url": "https://github.com/wesbos/JavaScript30",
+    "description": "30 Day Vanilla JS Challenge",
+    "language": "HTML",
+    "star": "49"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "description": "A collection of learning resources for curious software engineers",
+    "language": "Python",
+    "star": "84"
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "language": "C++",
+    "star": "32"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "224"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "language": "JavaScript",
+    "star": "4"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "HTML",
+    "star": "765"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "83"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "138"
+  },
+  {
+    "title": "colinhacks/zod",
+    "url": "https://github.com/colinhacks/zod",
+    "description": "TypeScript-first schema validation with static type inference",
+    "language": "TypeScript",
+    "star": "96"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+    "language": "Shell",
+    "star": "25"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "350"
+  },
+  {
+    "title": "swaywm/sway",
+    "url": "https://github.com/swaywm/sway",
+    "description": "i3-compatible Wayland compositor",
+    "language": "C",
+    "star": "12"
+  },
+  {
+    "title": "steven-tey/dub",
+    "url": "https://github.com/steven-tey/dub",
+    "description": "An open-source link shortener with built-in analytics + free custom domains.",
+    "language": "TypeScript",
+    "star": "37"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace.",
+    "language": "JavaScript",
+    "star": "64"
+  },
+  {
+    "title": "gulihua10010/playPiano",
+    "url": "https://github.com/gulihua10010/playPiano",
+    "description": "Java弹奏钢琴乐曲",
+    "language": "Java",
+    "star": "34"
+  },
+  {
+    "title": "DIYgod/RSSHub",
+    "url": "https://github.com/DIYgod/RSSHub",
+    "description": "🍰 Everything is RSSible",
+    "language": "JavaScript",
+    "star": "91"
+  },
+  {
+    "title": "Ryujinx/Ryujinx",
+    "url": "https://github.com/Ryujinx/Ryujinx",
+    "description": "Experimental Nintendo Switch Emulator written in C#",
+    "language": "C#",
+    "star": "149"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "description": "A build system and primary set of packages for Termux.",
+    "language": "Shell",
+    "star": "7"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "description": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
+    "language": "Python",
+    "star": "34"
+  }
+]
