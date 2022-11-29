@@ -11,28 +11,28 @@
     "url": "https://github.com/google/rune",
     "description": "Rune is a programming language developed to test ideas for improving security and efficiency.",
     "language": "C",
-    "star": "271"
+    "star": "267"
   },
   {
     "title": "kuchin/awesome-cto",
     "url": "https://github.com/kuchin/awesome-cto",
     "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
     "language": "none",
-    "star": "981"
+    "star": "974"
   },
   {
     "title": "ggerganov/whisper.cpp",
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "219"
+    "star": "184"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "856"
+    "star": "826"
   },
   {
     "title": "VoronDesign/Voron-Tap",
@@ -53,14 +53,14 @@
     "url": "https://github.com/alan2207/bulletproof-react",
     "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "language": "TypeScript",
-    "star": "26"
+    "star": "27"
   },
   {
     "title": "stashapp/stash",
     "url": "https://github.com/stashapp/stash",
     "description": "An organizer for your porn, written in Go",
     "language": "Go",
-    "star": "83"
+    "star": "43"
   },
   {
     "title": "Z4nzu/hackingtool",
@@ -74,7 +74,7 @@
     "url": "https://github.com/davidfowl/TodoApi",
     "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
     "language": "C#",
-    "star": "112"
+    "star": "124"
   },
   {
     "title": "t3l3machus/Villain",
@@ -88,7 +88,7 @@
     "url": "https://github.com/TomSchimansky/CustomTkinter",
     "description": "A modern and customizable python UI-library based on Tkinter",
     "language": "Python",
-    "star": "135"
+    "star": "80"
   },
   {
     "title": "wso2/reference-architecture",
@@ -102,7 +102,7 @@
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "139"
+    "star": "156"
   },
   {
     "title": "ripienaar/free-for-dev",
@@ -116,14 +116,14 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "468"
+    "star": "425"
   },
   {
     "title": "charlax/professional-programming",
     "url": "https://github.com/charlax/professional-programming",
     "description": "A collection of learning resources for curious software engineers",
     "language": "Python",
-    "star": "118"
+    "star": "126"
   },
   {
     "title": "bradtraversy/50projects50days",
@@ -137,7 +137,7 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "299"
+    "star": "266"
   },
   {
     "title": "ldelossa/nvim-ide",
@@ -151,7 +151,7 @@
     "url": "https://github.com/microsoft/TypeScript",
     "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
     "language": "TypeScript",
-    "star": "46"
+    "star": "45"
   },
   {
     "title": "Visualize-ML/Book3_Elements-of-Mathematics",
@@ -165,7 +165,7 @@
     "url": "https://github.com/mindsdb/mindsdb",
     "description": "In-Database Machine Learning",
     "language": "Python",
-    "star": "176"
+    "star": "170"
   },
   {
     "title": "rolohaun/Rook",
