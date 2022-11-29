@@ -1,0 +1,177 @@
+[
+  {
+    "title": "google/mangle",
+    "url": "https://github.com/google/mangle",
+    "description": "",
+    "language": "Go",
+    "star": "162"
+  },
+  {
+    "title": "google/rune",
+    "url": "https://github.com/google/rune",
+    "description": "Rune is a programming language developed to test ideas for improving security and efficiency.",
+    "language": "C",
+    "star": "271"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto",
+    "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
+    "language": "none",
+    "star": "974"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "description": "Port of OpenAI's Whisper model in C/C++",
+    "language": "C",
+    "star": "219"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "HTML",
+    "star": "848"
+  },
+  {
+    "title": "VoronDesign/Voron-Tap",
+    "url": "https://github.com/VoronDesign/Voron-Tap",
+    "description": "",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "huggingface/diffusion-models-class",
+    "url": "https://github.com/huggingface/diffusion-models-class",
+    "description": "Materials for the Hugging Face Diffusion Models Course",
+    "language": "Jupyter Notebook",
+    "star": "137"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "language": "TypeScript",
+    "star": "27"
+  },
+  {
+    "title": "stashapp/stash",
+    "url": "https://github.com/stashapp/stash",
+    "description": "An organizer for your porn, written in Go",
+    "language": "Go",
+    "star": "40"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "star": "102"
+  },
+  {
+    "title": "davidfowl/TodoApi",
+    "url": "https://github.com/davidfowl/TodoApi",
+    "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
+    "language": "C#",
+    "star": "116"
+  },
+  {
+    "title": "t3l3machus/Villain",
+    "url": "https://github.com/t3l3machus/Villain",
+    "description": "Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.",
+    "language": "Python",
+    "star": "59"
+  },
+  {
+    "title": "TomSchimansky/CustomTkinter",
+    "url": "https://github.com/TomSchimansky/CustomTkinter",
+    "description": "A modern and customizable python UI-library based on Tkinter",
+    "language": "Python",
+    "star": "216"
+  },
+  {
+    "title": "wso2/reference-architecture",
+    "url": "https://github.com/wso2/reference-architecture",
+    "description": "The Reference Architecture for Agility is a technology-neutral logical architecture based on a disaggregated cloud-based model.",
+    "language": "none",
+    "star": "2"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "165"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "120"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "433"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "description": "A collection of learning resources for curious software engineers",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "description": "50+ mini web projects using HTML, CSS & JS",
+    "language": "CSS",
+    "star": "67"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "286"
+  },
+  {
+    "title": "ldelossa/nvim-ide",
+    "url": "https://github.com/ldelossa/nvim-ide",
+    "description": "",
+    "language": "Lua",
+    "star": "62"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "language": "TypeScript",
+    "star": "46"
+  },
+  {
+    "title": "Visualize-ML/Book3_Elements-of-Mathematics",
+    "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
+    "description": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "language": "Python",
+    "star": "83"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "description": "In-Database Machine Learning",
+    "language": "Python",
+    "star": "167"
+  },
+  {
+    "title": "rolohaun/Rook",
+    "url": "https://github.com/rolohaun/Rook",
+    "description": "",
+    "language": "none",
+    "star": "7"
+  }
+]
