@@ -11,7 +11,7 @@
     "url": "https://github.com/google/rune",
     "description": "Rune is a programming language developed to test ideas for improving security and efficiency.",
     "language": "C",
-    "star": "267"
+    "star": "268"
   },
   {
     "title": "kuchin/awesome-cto",
@@ -142,7 +142,7 @@
   {
     "title": "ldelossa/nvim-ide",
     "url": "https://github.com/ldelossa/nvim-ide",
-    "description": "",
+    "description": "A full featured IDE layer for Neovim. Heavily inspired by VSCode.",
     "language": "Lua",
     "star": "62"
   },
