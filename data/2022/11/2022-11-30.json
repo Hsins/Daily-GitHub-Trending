@@ -4,7 +4,7 @@
     "url": "https://github.com/huggingface/diffusion-models-class",
     "description": "Materials for the Hugging Face Diffusion Models Course",
     "language": "Jupyter Notebook",
-    "star": "145"
+    "star": "135"
   },
   {
     "title": "RocketChat/Rocket.Chat",
@@ -32,7 +32,7 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "186"
+    "star": "181"
   },
   {
     "title": "SHI-Labs/Versatile-Diffusion",
@@ -46,14 +46,14 @@
     "url": "https://github.com/google/mangle",
     "description": "",
     "language": "Go",
-    "star": "198"
+    "star": "196"
   },
   {
     "title": "Visualize-ML/Book3_Elements-of-Mathematics",
     "url": "https://github.com/Visualize-ML/Book3_Elements-of-Mathematics",
     "description": "Book_3_《数学要素》 | 鸢尾花书：从加减乘除到机器学习；本册有，583幅图，136个代码文件，其中24个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
     "language": "Python",
-    "star": "123"
+    "star": "121"
   },
   {
     "title": "IanLunn/Hover",
@@ -67,21 +67,21 @@
     "url": "https://github.com/forthespada/CampusShame",
     "description": "互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想绵薄之力！",
     "language": "none",
-    "star": "120"
+    "star": "119"
   },
   {
     "title": "metabase/metabase",
     "url": "https://github.com/metabase/metabase",
     "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
     "language": "Clojure",
-    "star": "14"
+    "star": "18"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "618"
+    "star": "619"
   },
   {
     "title": "facebook/folly",
@@ -102,14 +102,14 @@
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "302"
+    "star": "305"
   },
   {
     "title": "kuchin/awesome-cto",
     "url": "https://github.com/kuchin/awesome-cto",
     "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
     "language": "none",
-    "star": "1"
+    "star": "559"
   },
   {
     "title": "aws/aws-sdk-go",
@@ -137,7 +137,7 @@
     "url": "https://github.com/gbj/leptos",
     "description": "Build fast web applications with Rust.",
     "language": "Rust",
-    "star": "405"
+    "star": "427"
   },
   {
     "title": "OpenBB-finance/OpenBBTerminal",
