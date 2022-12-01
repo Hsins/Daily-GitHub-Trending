@@ -4,42 +4,42 @@
     "url": "https://github.com/gbj/leptos",
     "description": "Build fast web applications with Rust.",
     "language": "Rust",
-    "star": "226"
+    "star": "221"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "466"
+    "star": "462"
   },
   {
     "title": "kuchin/awesome-cto",
     "url": "https://github.com/kuchin/awesome-cto",
     "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
     "language": "none",
-    "star": "811"
+    "star": "797"
   },
   {
     "title": "huggingface/diffusion-models-class",
     "url": "https://github.com/huggingface/diffusion-models-class",
     "description": "Materials for the Hugging Face Diffusion Models Course",
     "language": "Jupyter Notebook",
-    "star": "190"
+    "star": "183"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "162"
+    "star": "163"
   },
   {
     "title": "sdmg15/Best-websites-a-programmer-should-visit",
     "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
     "description": "🔗 Some useful websites for programmers.",
     "language": "none",
-    "star": "323"
+    "star": "322"
   },
   {
     "title": "RocketChat/Rocket.Chat",
@@ -53,14 +53,14 @@
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "50"
+    "star": "53"
   },
   {
     "title": "chubin/cheat.sh",
     "url": "https://github.com/chubin/cheat.sh",
     "description": "the only cheat sheet you need",
     "language": "Python",
-    "star": "165"
+    "star": "166"
   },
   {
     "title": "cugu/awesome-forensics",
@@ -74,7 +74,7 @@
     "url": "https://github.com/zu1k/zlib-searcher",
     "description": "search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.",
     "language": "Rust",
-    "star": "240"
+    "star": "236"
   },
   {
     "title": "aws/aws-sdk-go",
@@ -88,14 +88,14 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "53"
+    "star": "54"
   },
   {
     "title": "rwightman/pytorch-image-models",
     "url": "https://github.com/rwightman/pytorch-image-models",
     "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
     "language": "Python",
-    "star": "24"
+    "star": "25"
   },
   {
     "title": "midudev/libros-programacion-gratis",
@@ -109,7 +109,7 @@
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "181"
+    "star": "180"
   },
   {
     "title": "rfordatascience/tidytuesday",
@@ -123,7 +123,7 @@
     "url": "https://github.com/hashicorp/vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "117"
+    "star": "115"
   },
   {
     "title": "corkami/pics",
@@ -144,34 +144,34 @@
     "url": "https://github.com/hashicorp/terraform",
     "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
     "language": "Go",
-    "star": "30"
+    "star": "33"
   },
   {
     "title": "siyuan-note/siyuan",
     "url": "https://github.com/siyuan-note/siyuan",
     "description": "Build Your Eternal Digital Garden 构建你永恒的数字花园",
     "language": "TypeScript",
-    "star": "55"
+    "star": "56"
   },
   {
     "title": "celery/celery",
     "url": "https://github.com/celery/celery",
     "description": "Distributed Task Queue (development branch)",
     "language": "Python",
-    "star": "31"
+    "star": "32"
   },
   {
     "title": "isocpp/CppCoreGuidelines",
     "url": "https://github.com/isocpp/CppCoreGuidelines",
     "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
     "language": "Python",
-    "star": "36"
+    "star": "40"
   },
   {
     "title": "WasmEdge/WasmEdge",
     "url": "https://github.com/WasmEdge/WasmEdge",
     "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
     "language": "WebAssembly",
-    "star": "132"
+    "star": "131"
   }
 ]
