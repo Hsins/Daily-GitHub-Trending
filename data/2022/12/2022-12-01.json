@@ -4,35 +4,35 @@
     "url": "https://github.com/gbj/leptos",
     "description": "Build fast web applications with Rust.",
     "language": "Rust",
-    "star": "488"
+    "star": "228"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "467"
+    "star": "464"
   },
   {
     "title": "kuchin/awesome-cto",
     "url": "https://github.com/kuchin/awesome-cto",
     "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
     "language": "none",
-    "star": "843"
+    "star": "823"
   },
   {
     "title": "huggingface/diffusion-models-class",
     "url": "https://github.com/huggingface/diffusion-models-class",
     "description": "Materials for the Hugging Face Diffusion Models Course",
     "language": "Jupyter Notebook",
-    "star": "200"
+    "star": "193"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "158"
+    "star": "162"
   },
   {
     "title": "sdmg15/Best-websites-a-programmer-should-visit",
@@ -46,28 +46,28 @@
     "url": "https://github.com/RocketChat/Rocket.Chat",
     "description": "The communications platform that puts data protection first.",
     "language": "TypeScript",
-    "star": "149"
+    "star": "140"
   },
   {
     "title": "grafana/grafana",
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "44"
+    "star": "48"
   },
   {
     "title": "chubin/cheat.sh",
     "url": "https://github.com/chubin/cheat.sh",
     "description": "the only cheat sheet you need",
     "language": "Python",
-    "star": "168"
+    "star": "169"
   },
   {
     "title": "cugu/awesome-forensics",
     "url": "https://github.com/cugu/awesome-forensics",
     "description": "A curated list of awesome forensic analysis tools and resources",
     "language": "none",
-    "star": "54"
+    "star": "56"
   },
   {
     "title": "zu1k/zlib-searcher",
@@ -81,7 +81,7 @@
     "url": "https://github.com/aws/aws-sdk-go",
     "description": "AWS SDK for the Go programming language.",
     "language": "Go",
-    "star": "31"
+    "star": "32"
   },
   {
     "title": "appsmithorg/appsmith",
@@ -123,55 +123,55 @@
     "url": "https://github.com/hashicorp/vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "118"
+    "star": "119"
   },
   {
     "title": "corkami/pics",
     "url": "https://github.com/corkami/pics",
     "description": "Posters, drawings...",
     "language": "Assembly",
-    "star": "46"
+    "star": "47"
   },
   {
     "title": "strapi/strapi",
     "url": "https://github.com/strapi/strapi",
     "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.",
     "language": "JavaScript",
-    "star": "48"
+    "star": "50"
   },
   {
     "title": "hashicorp/terraform",
     "url": "https://github.com/hashicorp/terraform",
     "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
     "language": "Go",
-    "star": "28"
+    "star": "29"
   },
   {
     "title": "siyuan-note/siyuan",
     "url": "https://github.com/siyuan-note/siyuan",
     "description": "Build Your Eternal Digital Garden 构建你永恒的数字花园",
     "language": "TypeScript",
-    "star": "50"
+    "star": "53"
   },
   {
     "title": "celery/celery",
     "url": "https://github.com/celery/celery",
     "description": "Distributed Task Queue (development branch)",
     "language": "Python",
-    "star": "27"
+    "star": "29"
   },
   {
     "title": "isocpp/CppCoreGuidelines",
     "url": "https://github.com/isocpp/CppCoreGuidelines",
     "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
     "language": "Python",
-    "star": "34"
+    "star": "36"
   },
   {
     "title": "WasmEdge/WasmEdge",
     "url": "https://github.com/WasmEdge/WasmEdge",
     "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
     "language": "WebAssembly",
-    "star": "132"
+    "star": "133"
   }
 ]
