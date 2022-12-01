@@ -4,7 +4,7 @@
     "url": "https://github.com/gbj/leptos",
     "description": "Build fast web applications with Rust.",
     "language": "Rust",
-    "star": "221"
+    "star": "488"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
@@ -18,70 +18,70 @@
     "url": "https://github.com/kuchin/awesome-cto",
     "description": "A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups",
     "language": "none",
-    "star": "797"
+    "star": "774"
   },
   {
     "title": "huggingface/diffusion-models-class",
     "url": "https://github.com/huggingface/diffusion-models-class",
     "description": "Materials for the Hugging Face Diffusion Models Course",
     "language": "Jupyter Notebook",
-    "star": "183"
+    "star": "175"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "163"
+    "star": "166"
   },
   {
     "title": "sdmg15/Best-websites-a-programmer-should-visit",
     "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
     "description": "🔗 Some useful websites for programmers.",
     "language": "none",
-    "star": "322"
+    "star": "316"
   },
   {
     "title": "RocketChat/Rocket.Chat",
     "url": "https://github.com/RocketChat/Rocket.Chat",
     "description": "The communications platform that puts data protection first.",
     "language": "TypeScript",
-    "star": "136"
+    "star": "135"
   },
   {
     "title": "grafana/grafana",
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "53"
+    "star": "56"
   },
   {
     "title": "chubin/cheat.sh",
     "url": "https://github.com/chubin/cheat.sh",
     "description": "the only cheat sheet you need",
     "language": "Python",
-    "star": "166"
+    "star": "169"
   },
   {
     "title": "cugu/awesome-forensics",
     "url": "https://github.com/cugu/awesome-forensics",
     "description": "A curated list of awesome forensic analysis tools and resources",
     "language": "none",
-    "star": "58"
+    "star": "57"
   },
   {
     "title": "zu1k/zlib-searcher",
     "url": "https://github.com/zu1k/zlib-searcher",
     "description": "search zlib/libgen index to get ipfs_cid. We don't save and provide files, we provide search. I hope everyone have a copy of the index locally, so that no need to rely on any centralized service.",
     "language": "Rust",
-    "star": "236"
+    "star": "237"
   },
   {
     "title": "aws/aws-sdk-go",
     "url": "https://github.com/aws/aws-sdk-go",
     "description": "AWS SDK for the Go programming language.",
     "language": "Go",
-    "star": "31"
+    "star": "30"
   },
   {
     "title": "appsmithorg/appsmith",
@@ -95,7 +95,7 @@
     "url": "https://github.com/rwightman/pytorch-image-models",
     "description": "PyTorch image models, scripts, pretrained weights -- ResNet, ResNeXT, EfficientNet, EfficientNetV2, NFNet, Vision Transformer, MixNet, MobileNet-V3/V2, RegNet, DPN, CSPNet, and more",
     "language": "Python",
-    "star": "25"
+    "star": "24"
   },
   {
     "title": "midudev/libros-programacion-gratis",
@@ -123,7 +123,7 @@
     "url": "https://github.com/hashicorp/vault",
     "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "115"
+    "star": "117"
   },
   {
     "title": "corkami/pics",
@@ -151,7 +151,7 @@
     "url": "https://github.com/siyuan-note/siyuan",
     "description": "Build Your Eternal Digital Garden 构建你永恒的数字花园",
     "language": "TypeScript",
-    "star": "56"
+    "star": "58"
   },
   {
     "title": "celery/celery",
@@ -165,13 +165,13 @@
     "url": "https://github.com/isocpp/CppCoreGuidelines",
     "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
     "language": "Python",
-    "star": "40"
+    "star": "41"
   },
   {
     "title": "WasmEdge/WasmEdge",
     "url": "https://github.com/WasmEdge/WasmEdge",
     "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.",
     "language": "WebAssembly",
-    "star": "131"
+    "star": "129"
   }
 ]
