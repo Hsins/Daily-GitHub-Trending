@@ -4,7 +4,7 @@
     "url": "https://github.com/thangchung/go-coffeeshop",
     "description": "☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",
     "language": "Go",
-    "star": "460"
+    "star": "451"
   },
   {
     "title": "facebook/folly",
@@ -18,7 +18,7 @@
     "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
     "description": "🔗 Some useful websites for programmers.",
     "language": "none",
-    "star": "257"
+    "star": "339"
   },
   {
     "title": "AykutSarac/jsoncrack.com",
@@ -46,7 +46,7 @@
     "url": "https://github.com/google/accompanist",
     "description": "A collection of extension libraries for Jetpack Compose",
     "language": "Kotlin",
-    "star": "17"
+    "star": "7"
   },
   {
     "title": "RocketChat/Rocket.Chat",
@@ -60,7 +60,7 @@
     "url": "https://github.com/waydabber/BetterDisplay",
     "description": "Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!",
     "language": "none",
-    "star": "101"
+    "star": "100"
   },
   {
     "title": "open-mmlab/mmyolo",
@@ -81,28 +81,28 @@
     "url": "https://github.com/apihero-run/jsonhero-web",
     "description": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀",
     "language": "TypeScript",
-    "star": "125"
+    "star": "126"
   },
   {
     "title": "grafana/grafana",
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "131"
+    "star": "130"
   },
   {
     "title": "siyuan-note/siyuan",
     "url": "https://github.com/siyuan-note/siyuan",
     "description": "Build Your Eternal Digital Garden 构建你永恒的数字花园",
     "language": "TypeScript",
-    "star": "188"
+    "star": "186"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "821"
+    "star": "825"
   },
   {
     "title": "huggingface/diffusion-models-class",
@@ -144,7 +144,7 @@
     "url": "https://github.com/gbj/leptos",
     "description": "Build fast web applications with Rust.",
     "language": "Rust",
-    "star": "268"
+    "star": "225"
   },
   {
     "title": "sqlalchemy/sqlalchemy",
@@ -158,7 +158,7 @@
     "url": "https://github.com/prometheus/prometheus",
     "description": "The Prometheus monitoring system and time series database.",
     "language": "Go",
-    "star": "33"
+    "star": "34"
   },
   {
     "title": "nvm-sh/nvm",
