@@ -18,14 +18,14 @@
     "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
     "description": "🔗 Some useful websites for programmers.",
     "language": "none",
-    "star": "339"
+    "star": "257"
   },
   {
     "title": "AykutSarac/jsoncrack.com",
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "65"
+    "star": "64"
   },
   {
     "title": "AleoHQ/snarkOS",
@@ -39,21 +39,21 @@
     "url": "https://github.com/xManager-v2/xManager-Spotify",
     "description": "An android application where you can manage and install all versions of the spotify app.",
     "language": "Java",
-    "star": "29"
+    "star": "28"
   },
   {
     "title": "google/accompanist",
     "url": "https://github.com/google/accompanist",
     "description": "A collection of extension libraries for Jetpack Compose",
     "language": "Kotlin",
-    "star": "7"
+    "star": "17"
   },
   {
     "title": "RocketChat/Rocket.Chat",
     "url": "https://github.com/RocketChat/Rocket.Chat",
     "description": "The communications platform that puts data protection first.",
     "language": "TypeScript",
-    "star": "76"
+    "star": "75"
   },
   {
     "title": "waydabber/BetterDisplay",
@@ -81,28 +81,28 @@
     "url": "https://github.com/apihero-run/jsonhero-web",
     "description": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀",
     "language": "TypeScript",
-    "star": "124"
+    "star": "125"
   },
   {
     "title": "grafana/grafana",
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "132"
+    "star": "131"
   },
   {
     "title": "siyuan-note/siyuan",
     "url": "https://github.com/siyuan-note/siyuan",
     "description": "Build Your Eternal Digital Garden 构建你永恒的数字花园",
     "language": "TypeScript",
-    "star": "187"
+    "star": "188"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "818"
+    "star": "821"
   },
   {
     "title": "huggingface/diffusion-models-class",
@@ -130,48 +130,48 @@
     "url": "https://github.com/datahub-project/datahub",
     "description": "The Metadata Platform for the Modern Data Stack",
     "language": "Java",
-    "star": "27"
+    "star": "29"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "352"
+    "star": "351"
   },
   {
     "title": "gbj/leptos",
     "url": "https://github.com/gbj/leptos",
     "description": "Build fast web applications with Rust.",
     "language": "Rust",
-    "star": "225"
+    "star": "268"
   },
   {
     "title": "sqlalchemy/sqlalchemy",
     "url": "https://github.com/sqlalchemy/sqlalchemy",
     "description": "The Database Toolkit for Python",
     "language": "Python",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "prometheus/prometheus",
     "url": "https://github.com/prometheus/prometheus",
     "description": "The Prometheus monitoring system and time series database.",
     "language": "Go",
-    "star": "34"
+    "star": "33"
   },
   {
     "title": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "31"
+    "star": "32"
   },
   {
     "title": "hiroi-sora/Umi-OCR",
     "url": "https://github.com/hiroi-sora/Umi-OCR",
     "description": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
     "language": "Python",
-    "star": "76"
+    "star": "78"
   }
 ]
