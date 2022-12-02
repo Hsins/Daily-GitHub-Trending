@@ -4,7 +4,7 @@
     "url": "https://github.com/thangchung/go-coffeeshop",
     "description": "☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",
     "language": "Go",
-    "star": "462"
+    "star": "459"
   },
   {
     "title": "facebook/folly",
@@ -25,21 +25,21 @@
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "62"
+    "star": "64"
   },
   {
     "title": "AleoHQ/snarkOS",
     "url": "https://github.com/AleoHQ/snarkOS",
     "description": "A Decentralized Operating System for ZK Applications",
     "language": "Rust",
-    "star": "35"
+    "star": "34"
   },
   {
     "title": "xManager-v2/xManager-Spotify",
     "url": "https://github.com/xManager-v2/xManager-Spotify",
     "description": "An android application where you can manage and install all versions of the spotify app.",
     "language": "Java",
-    "star": "26"
+    "star": "28"
   },
   {
     "title": "google/accompanist",
@@ -53,63 +53,63 @@
     "url": "https://github.com/RocketChat/Rocket.Chat",
     "description": "The communications platform that puts data protection first.",
     "language": "TypeScript",
-    "star": "77"
+    "star": "75"
   },
   {
     "title": "waydabber/BetterDisplay",
     "url": "https://github.com/waydabber/BetterDisplay",
     "description": "Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!",
     "language": "none",
-    "star": "93"
+    "star": "98"
   },
   {
     "title": "open-mmlab/mmyolo",
     "url": "https://github.com/open-mmlab/mmyolo",
     "description": "OpenMMLab YOLO series toolbox and benchmark",
     "language": "Python",
-    "star": "16"
+    "star": "17"
   },
   {
     "title": "t3l3machus/Villain",
     "url": "https://github.com/t3l3machus/Villain",
     "description": "Villain is a Windows & Linux backdoor generator and multi-session handler that allows users to connect with sibling servers (other machines running Villain) and share their backdoor sessions, handy for working as a team.",
     "language": "Python",
-    "star": "94"
+    "star": "92"
   },
   {
     "title": "apihero-run/jsonhero-web",
     "url": "https://github.com/apihero-run/jsonhero-web",
     "description": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀",
     "language": "TypeScript",
-    "star": "124"
+    "star": "125"
   },
   {
     "title": "grafana/grafana",
     "url": "https://github.com/grafana/grafana",
     "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
     "language": "TypeScript",
-    "star": "137"
+    "star": "134"
   },
   {
     "title": "siyuan-note/siyuan",
     "url": "https://github.com/siyuan-note/siyuan",
     "description": "Build Your Eternal Digital Garden 构建你永恒的数字花园",
     "language": "TypeScript",
-    "star": "191"
+    "star": "188"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "810"
+    "star": "812"
   },
   {
     "title": "huggingface/diffusion-models-class",
     "url": "https://github.com/huggingface/diffusion-models-class",
     "description": "Materials for the Hugging Face Diffusion Models Course",
     "language": "Jupyter Notebook",
-    "star": "85"
+    "star": "83"
   },
   {
     "title": "golang-migrate/migrate",
@@ -123,21 +123,21 @@
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "7"
+    "star": "9"
   },
   {
     "title": "datahub-project/datahub",
     "url": "https://github.com/datahub-project/datahub",
     "description": "The Metadata Platform for the Modern Data Stack",
     "language": "Java",
-    "star": "24"
+    "star": "26"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "356"
+    "star": "352"
   },
   {
     "title": "gbj/leptos",
@@ -151,14 +151,14 @@
     "url": "https://github.com/sqlalchemy/sqlalchemy",
     "description": "The Database Toolkit for Python",
     "language": "Python",
-    "star": "18"
+    "star": "20"
   },
   {
     "title": "prometheus/prometheus",
     "url": "https://github.com/prometheus/prometheus",
     "description": "The Prometheus monitoring system and time series database.",
     "language": "Go",
-    "star": "32"
+    "star": "33"
   },
   {
     "title": "nvm-sh/nvm",
@@ -172,6 +172,6 @@
     "url": "https://github.com/hiroi-sora/Umi-OCR",
     "description": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
     "language": "Python",
-    "star": "79"
+    "star": "78"
   }
 ]
