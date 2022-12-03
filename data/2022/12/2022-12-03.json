@@ -4,119 +4,119 @@
     "url": "https://github.com/apple/ml-stable-diffusion",
     "description": "Stable Diffusion with Core ML on Apple Silicon",
     "language": "Python",
-    "star": "964"
+    "star": "698"
   },
   {
     "title": "invoke-ai/InvokeAI",
     "url": "https://github.com/invoke-ai/InvokeAI",
     "description": "This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a \"dream bot\" style interface, and multiple features and other enhancements. For more info, see the website link below.",
     "language": "Jupyter Notebook",
-    "star": "267"
+    "star": "272"
   },
   {
     "title": "thangchung/go-coffeeshop",
     "url": "https://github.com/thangchung/go-coffeeshop",
     "description": "☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",
     "language": "Go",
-    "star": "484"
+    "star": "433"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "38"
+    "star": "39"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "587"
+    "star": "576"
   },
   {
     "title": "charlax/engineering-management",
     "url": "https://github.com/charlax/engineering-management",
     "description": "A collection of inspiring resources related to engineering management and tech leadership",
     "language": "Shell",
-    "star": "153"
+    "star": "142"
   },
   {
     "title": "calcom/cal.com",
     "url": "https://github.com/calcom/cal.com",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
-    "star": "33"
+    "star": "43"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "312"
+    "star": "213"
   },
   {
     "title": "Bogdanp/awesome-advent-of-code",
     "url": "https://github.com/Bogdanp/awesome-advent-of-code",
     "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
     "language": "none",
-    "star": "36"
+    "star": "44"
   },
   {
     "title": "AleoHQ/snarkOS",
     "url": "https://github.com/AleoHQ/snarkOS",
     "description": "A Decentralized Operating System for ZK Applications",
     "language": "Rust",
-    "star": "56"
+    "star": "58"
   },
   {
     "title": "bobby-didcoding/drf_course",
     "url": "https://github.com/bobby-didcoding/drf_course",
     "description": "Django Rest Framework Course",
     "language": "Dockerfile",
-    "star": "6"
+    "star": "7"
   },
   {
     "title": "Nixtla/statsforecast",
     "url": "https://github.com/Nixtla/statsforecast",
     "description": "Lightning ⚡️ fast forecasting with statistical and econometric models.",
     "language": "Jupyter Notebook",
-    "star": "33"
+    "star": "45"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "22"
+    "star": "19"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "26"
+    "star": "47"
   },
   {
     "title": "swisskyrepo/PayloadsAllTheThings",
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "51"
+    "star": "42"
   },
   {
     "title": "chubin/cheat.sh",
     "url": "https://github.com/chubin/cheat.sh",
     "description": "the only cheat sheet you need",
     "language": "Python",
-    "star": "93"
+    "star": "92"
   },
   {
     "title": "nocodb/nocodb",
     "url": "https://github.com/nocodb/nocodb",
     "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
     "language": "TypeScript",
-    "star": "34"
+    "star": "33"
   },
   {
     "title": "google/security-research",
@@ -130,14 +130,14 @@
     "url": "https://github.com/hehonghui/awesome-english-ebooks",
     "description": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
     "language": "CSS",
-    "star": "60"
+    "star": "63"
   },
   {
     "title": "excalidraw/excalidraw",
     "url": "https://github.com/excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "language": "TypeScript",
-    "star": "105"
+    "star": "110"
   },
   {
     "title": "benthosdev/benthos",
@@ -151,27 +151,27 @@
     "url": "https://github.com/openzfs/zfs",
     "description": "OpenZFS on Linux and FreeBSD",
     "language": "C",
-    "star": "12"
+    "star": "17"
   },
   {
     "title": "datahub-project/datahub",
     "url": "https://github.com/datahub-project/datahub",
     "description": "The Metadata Platform for the Modern Data Stack",
     "language": "Java",
-    "star": "89"
+    "star": "84"
   },
   {
     "title": "kotlin-hands-on/advent-of-code-kotlin-template",
     "url": "https://github.com/kotlin-hands-on/advent-of-code-kotlin-template",
     "description": "The Advent of Code template project for Kotlin",
     "language": "Kotlin",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "Cysharp/MemoryPack",
     "url": "https://github.com/Cysharp/MemoryPack",
     "description": "Zero encoding extreme performance binary serializer for C# and Unity.",
     "language": "C#",
-    "star": "28"
+    "star": "32"
   }
 ]
