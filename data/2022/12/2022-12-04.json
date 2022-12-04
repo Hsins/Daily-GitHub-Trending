@@ -4,14 +4,14 @@
     "url": "https://github.com/invoke-ai/InvokeAI",
     "description": "This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a \"dream bot\" style interface, and multiple features and other enhancements. For more info, see the website link below.",
     "language": "Jupyter Notebook",
-    "star": "302"
+    "star": "280"
   },
   {
     "title": "apple/ml-stable-diffusion",
     "url": "https://github.com/apple/ml-stable-diffusion",
     "description": "Stable Diffusion with Core ML on Apple Silicon",
     "language": "Python",
-    "star": "416"
+    "star": "388"
   },
   {
     "title": "AleoHQ/snarkOS",
@@ -46,14 +46,14 @@
     "url": "https://github.com/danielgross/whatsapp-gpt",
     "description": "",
     "language": "Go",
-    "star": "120"
+    "star": "87"
   },
   {
     "title": "hehonghui/awesome-english-ebooks",
     "url": "https://github.com/hehonghui/awesome-english-ebooks",
     "description": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
     "language": "CSS",
-    "star": "106"
+    "star": "113"
   },
   {
     "title": "Visualize-ML/Book4_Power-of-Matrix",
@@ -81,7 +81,7 @@
     "url": "https://github.com/coolsnowwolf/lede",
     "description": "Lean's LEDE source",
     "language": "C",
-    "star": "21"
+    "star": "16"
   },
   {
     "title": "Bogdanp/awesome-advent-of-code",
@@ -95,7 +95,7 @@
     "url": "https://github.com/palera1n/palera1n",
     "description": "iOS 15.0-15.7.1 (semi-)tethered checkm8 \"jailbreak\"",
     "language": "Shell",
-    "star": "18"
+    "star": "24"
   },
   {
     "title": "t3-oss/create-t3-app",
@@ -130,7 +130,7 @@
     "url": "https://github.com/evrone/go-clean-template",
     "description": "Clean Architecture template for Golang services",
     "language": "Go",
-    "star": "21"
+    "star": "43"
   },
   {
     "title": "openzfs/zfs",
@@ -144,7 +144,7 @@
     "url": "https://github.com/recloudstream/cloudstream",
     "description": "Android app for streaming and downloading Movies, TV-Series and Anime.",
     "language": "Kotlin",
-    "star": "6"
+    "star": "24"
   },
   {
     "title": "fspoettel/advent-of-code-rust",
