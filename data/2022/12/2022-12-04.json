@@ -1,0 +1,177 @@
+[
+  {
+    "title": "invoke-ai/InvokeAI",
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "description": "This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a \"dream bot\" style interface, and multiple features and other enhancements. For more info, see the website link below.",
+    "language": "Jupyter Notebook",
+    "star": "302"
+  },
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "description": "Stable Diffusion with Core ML on Apple Silicon",
+    "language": "Python",
+    "star": "416"
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "description": "A Decentralized Operating System for ZK Applications",
+    "language": "Rust",
+    "star": "44"
+  },
+  {
+    "title": "misskey-dev/misskey",
+    "url": "https://github.com/misskey-dev/misskey",
+    "description": "🌎 An interplanetary microblogging platform 🚀",
+    "language": "TypeScript",
+    "star": "12"
+  },
+  {
+    "title": "Klipper3d/klipper",
+    "url": "https://github.com/Klipper3d/klipper",
+    "description": "Klipper is a 3d-printer firmware",
+    "language": "C",
+    "star": "6"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "HTML",
+    "star": "547"
+  },
+  {
+    "title": "danielgross/whatsapp-gpt",
+    "url": "https://github.com/danielgross/whatsapp-gpt",
+    "description": "",
+    "language": "Go",
+    "star": "120"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "description": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "language": "CSS",
+    "star": "106"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "description": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
+    "language": "Python",
+    "star": "149"
+  },
+  {
+    "title": "thangchung/go-coffeeshop",
+    "url": "https://github.com/thangchung/go-coffeeshop",
+    "description": "☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment",
+    "language": "Go",
+    "star": "349"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "language": "PHP",
+    "star": "126"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "description": "Lean's LEDE source",
+    "language": "C",
+    "star": "21"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "description": "A collection of awesome resources related to the yearly Advent of Code challenge.",
+    "language": "none",
+    "star": "71"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "description": "iOS 15.0-15.7.1 (semi-)tethered checkm8 \"jailbreak\"",
+    "language": "Shell",
+    "star": "18"
+  },
+  {
+    "title": "t3-oss/create-t3-app",
+    "url": "https://github.com/t3-oss/create-t3-app",
+    "description": "The best way to start a full-stack, typesafe Next.js app",
+    "language": "TypeScript",
+    "star": "106"
+  },
+  {
+    "title": "maplecool/easytrojan",
+    "url": "https://github.com/maplecool/easytrojan",
+    "description": "世界上最简单的Trojan部署脚本，仅需一行命令即可搭建一台代理服务器",
+    "language": "Shell",
+    "star": "22"
+  },
+  {
+    "title": "openai/openai-quickstart-node",
+    "url": "https://github.com/openai/openai-quickstart-node",
+    "description": "Node.js example app from the OpenAI API quickstart tutorial",
+    "language": "JavaScript",
+    "star": "21"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "39"
+  },
+  {
+    "title": "evrone/go-clean-template",
+    "url": "https://github.com/evrone/go-clean-template",
+    "description": "Clean Architecture template for Golang services",
+    "language": "Go",
+    "star": "21"
+  },
+  {
+    "title": "openzfs/zfs",
+    "url": "https://github.com/openzfs/zfs",
+    "description": "OpenZFS on Linux and FreeBSD",
+    "language": "C",
+    "star": "61"
+  },
+  {
+    "title": "recloudstream/cloudstream",
+    "url": "https://github.com/recloudstream/cloudstream",
+    "description": "Android app for streaming and downloading Movies, TV-Series and Anime.",
+    "language": "Kotlin",
+    "star": "6"
+  },
+  {
+    "title": "fspoettel/advent-of-code-rust",
+    "url": "https://github.com/fspoettel/advent-of-code-rust",
+    "description": "🎄Starter template for solving Advent of Code in Rust.",
+    "language": "Rust",
+    "star": "31"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "openai/openai-quickstart-python",
+    "url": "https://github.com/openai/openai-quickstart-python",
+    "description": "Python example app from the OpenAI API quickstart tutorial",
+    "language": "CSS",
+    "star": "3"
+  },
+  {
+    "title": "linebender/xilem",
+    "url": "https://github.com/linebender/xilem",
+    "description": "An experimental Rust native UI framework",
+    "language": "Rust",
+    "star": "18"
+  }
+]
