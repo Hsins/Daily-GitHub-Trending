@@ -4,42 +4,42 @@
     "url": "https://github.com/transitive-bullshit/chatgpt-api",
     "description": "Node.js client for the unofficial ChatGPT API.",
     "language": "TypeScript",
-    "star": "221"
+    "star": "230"
   },
   {
     "title": "bettercap/bettercap",
     "url": "https://github.com/bettercap/bettercap",
     "description": "The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
     "language": "Go",
-    "star": "95"
+    "star": "100"
   },
   {
     "title": "vincelwt/chatgpt-mac",
     "url": "https://github.com/vincelwt/chatgpt-mac",
     "description": "ChatGPT for Mac, living in your menubar.",
     "language": "JavaScript",
-    "star": "165"
+    "star": "171"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
     "url": "https://github.com/PKUFlyingPig/cs-self-learning",
     "description": "计算机自学指南",
     "language": "HTML",
-    "star": "578"
+    "star": "568"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "76"
+    "star": "77"
   },
   {
     "title": "sickcodes/Docker-OSX",
     "url": "https://github.com/sickcodes/Docker-OSX",
     "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
     "language": "Shell",
-    "star": "75"
+    "star": "81"
   },
   {
     "title": "ytdl-org/youtube-dl",
@@ -53,42 +53,42 @@
     "url": "https://github.com/acheong08/ChatGPT",
     "description": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
     "language": "Python",
-    "star": "754"
+    "star": "779"
   },
   {
     "title": "liu673cn/xbb",
     "url": "https://github.com/liu673cn/xbb",
     "description": "biubiu播放器",
     "language": "HTML",
-    "star": "58"
+    "star": "57"
   },
   {
     "title": "taranjeet/chatgpt-api",
     "url": "https://github.com/taranjeet/chatgpt-api",
     "description": "This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT",
     "language": "Python",
-    "star": "97"
+    "star": "99"
   },
   {
     "title": "altryne/chatGPT-telegram-bot",
     "url": "https://github.com/altryne/chatGPT-telegram-bot",
     "description": "This is a very early attempt at having chatGPT work within a telegram bot",
     "language": "Python",
-    "star": "86"
+    "star": "88"
   },
   {
     "title": "Visualize-ML/Book4_Power-of-Matrix",
     "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
     "description": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
     "language": "Python",
-    "star": "131"
+    "star": "130"
   },
   {
     "title": "openai/openai-quickstart-python",
     "url": "https://github.com/openai/openai-quickstart-python",
     "description": "Python example app from the OpenAI API quickstart tutorial",
     "language": "CSS",
-    "star": "69"
+    "star": "67"
   },
   {
     "title": "muhammadthm/SantaGiftShop",
@@ -102,14 +102,14 @@
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "11"
+    "star": "13"
   },
   {
     "title": "Kaiyiwing/qwerty-learner",
     "url": "https://github.com/Kaiyiwing/qwerty-learner",
     "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
     "language": "TypeScript",
-    "star": "89"
+    "star": "92"
   },
   {
     "title": "openai/openai-quickstart-node",
@@ -123,55 +123,55 @@
     "url": "https://github.com/towfiqi/serpbear",
     "description": "Search Engine Position Rank Tracking App",
     "language": "TypeScript",
-    "star": "70"
+    "star": "73"
   },
   {
     "title": "danielgross/whatsapp-gpt",
     "url": "https://github.com/danielgross/whatsapp-gpt",
     "description": "",
     "language": "Go",
-    "star": "106"
+    "star": "108"
   },
   {
     "title": "fspoettel/advent-of-code-rust",
     "url": "https://github.com/fspoettel/advent-of-code-rust",
     "description": "🎄Starter template for solving Advent of Code in Rust.",
     "language": "Rust",
-    "star": "87"
+    "star": "82"
   },
   {
     "title": "apple/ml-stable-diffusion",
     "url": "https://github.com/apple/ml-stable-diffusion",
     "description": "Stable Diffusion with Core ML on Apple Silicon",
     "language": "Python",
-    "star": "420"
+    "star": "417"
   },
   {
     "title": "mxrch/GHunt",
     "url": "https://github.com/mxrch/GHunt",
     "description": "🕵️‍♂️ Offensive Google framework.",
     "language": "Python",
-    "star": "80"
+    "star": "79"
   },
   {
     "title": "facebookincubator/buck2",
     "url": "https://github.com/facebookincubator/buck2",
     "description": "Build system, successor to Buck",
     "language": "Rust",
-    "star": "58"
+    "star": "60"
   },
   {
     "title": "shuding/nextra",
     "url": "https://github.com/shuding/nextra",
     "description": "Simple, powerful and flexible site generation framework with everything you love from Next.js.",
     "language": "TypeScript",
-    "star": "80"
+    "star": "83"
   },
   {
     "title": "t3-oss/create-t3-app",
     "url": "https://github.com/t3-oss/create-t3-app",
     "description": "The best way to start a full-stack, typesafe Next.js app",
     "language": "TypeScript",
-    "star": "198"
+    "star": "196"
   }
 ]
