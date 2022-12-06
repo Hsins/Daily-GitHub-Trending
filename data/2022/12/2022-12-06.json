@@ -39,14 +39,14 @@
     "url": "https://github.com/max-sixty/aoc-gpt",
     "description": "Solve Advent of Code puzzles with GPT-3",
     "language": "Python",
-    "star": "40"
+    "star": "39"
   },
   {
     "title": "transitive-bullshit/chatgpt-api",
     "url": "https://github.com/transitive-bullshit/chatgpt-api",
     "description": "Node.js client for the unofficial ChatGPT API.",
     "language": "TypeScript",
-    "star": "510"
+    "star": "509"
   },
   {
     "title": "altryne/chatGPT-telegram-bot",
@@ -60,7 +60,7 @@
     "url": "https://github.com/m1guelpf/chatgpt-telegram",
     "description": "Run your own GPTChat Telegram bot, with a single command!",
     "language": "Go",
-    "star": "255"
+    "star": "211"
   },
   {
     "title": "xiaolincoder/CS-Base",
@@ -74,7 +74,7 @@
     "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
     "description": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；本册有，584幅图，81个代码文件，其中18个Streamlit App；状态：清华社五审五校中；Github稿件基本稳定，欢迎提意见，会及时修改",
     "language": "Python",
-    "star": "111"
+    "star": "112"
   },
   {
     "title": "hehonghui/awesome-english-ebooks",
@@ -95,14 +95,14 @@
     "url": "https://github.com/openai/openai-quickstart-node",
     "description": "Node.js example app from the OpenAI API quickstart tutorial",
     "language": "JavaScript",
-    "star": "73"
+    "star": "79"
   },
   {
     "title": "invoke-ai/InvokeAI",
     "url": "https://github.com/invoke-ai/InvokeAI",
     "description": "This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a \"dream bot\" style interface, and multiple features and other enhancements. For more info, see the website link below.",
     "language": "Jupyter Notebook",
-    "star": "314"
+    "star": "318"
   },
   {
     "title": "iamadamdev/bypass-paywalls-chrome",
@@ -130,28 +130,28 @@
     "url": "https://github.com/taranjeet/chatgpt-api",
     "description": "This repo is unofficial ChatGPT api. It is based on Daniel Gross's WhatsApp GPT",
     "language": "Python",
-    "star": "96"
+    "star": "98"
   },
   {
     "title": "evrone/go-clean-template",
     "url": "https://github.com/evrone/go-clean-template",
     "description": "Clean Architecture template for Golang services",
     "language": "Go",
-    "star": "38"
+    "star": "39"
   },
   {
     "title": "mmabrouk/chatgpt-wrapper",
     "url": "https://github.com/mmabrouk/chatgpt-wrapper",
     "description": "API for interacting with ChatGPT using Python and from Shell.",
     "language": "Python",
-    "star": "93"
+    "star": "69"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "70"
+    "star": "69"
   },
   {
     "title": "timqian/chinese-independent-blogs",
@@ -165,13 +165,13 @@
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "TypeScript",
-    "star": "25"
+    "star": "13"
   },
   {
     "title": "MariaLetta/free-gophers-pack",
     "url": "https://github.com/MariaLetta/free-gophers-pack",
     "description": "✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.",
     "language": "Go",
-    "star": "33"
+    "star": "47"
   }
 ]
