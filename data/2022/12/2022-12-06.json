@@ -25,7 +25,7 @@
     "url": "https://github.com/vincelwt/chatgpt-mac",
     "description": "ChatGPT for Mac, living in your menubar.",
     "language": "JavaScript",
-    "star": "318"
+    "star": "316"
   },
   {
     "title": "monicahq/monica",
@@ -46,28 +46,28 @@
     "url": "https://github.com/transitive-bullshit/chatgpt-api",
     "description": "Node.js client for the unofficial ChatGPT API.",
     "language": "TypeScript",
-    "star": "509"
+    "star": "508"
   },
   {
     "title": "altryne/chatGPT-telegram-bot",
     "url": "https://github.com/altryne/chatGPT-telegram-bot",
     "description": "This is a very early attempt at having chatGPT work within a telegram bot",
     "language": "Python",
-    "star": "174"
+    "star": "173"
   },
   {
     "title": "m1guelpf/chatgpt-telegram",
     "url": "https://github.com/m1guelpf/chatgpt-telegram",
     "description": "Run your own GPTChat Telegram bot, with a single command!",
     "language": "Go",
-    "star": "211"
+    "star": "212"
   },
   {
     "title": "xiaolincoder/CS-Base",
     "url": "https://github.com/xiaolincoder/CS-Base",
     "description": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com",
     "language": "none",
-    "star": "365"
+    "star": "334"
   },
   {
     "title": "Visualize-ML/Book4_Power-of-Matrix",
@@ -88,14 +88,14 @@
     "url": "https://github.com/hodgesmr/mastodon_digest",
     "description": "A Python script that aggregates recent popular tweets from your Mastodon timeline",
     "language": "Python",
-    "star": "48"
+    "star": "47"
   },
   {
     "title": "openai/openai-quickstart-node",
     "url": "https://github.com/openai/openai-quickstart-node",
     "description": "Node.js example app from the OpenAI API quickstart tutorial",
     "language": "JavaScript",
-    "star": "79"
+    "star": "73"
   },
   {
     "title": "invoke-ai/InvokeAI",
@@ -116,7 +116,7 @@
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "An index created by GPT to organize external information and answer queries!",
     "language": "Python",
-    "star": "42"
+    "star": "41"
   },
   {
     "title": "halo-dev/halo",
@@ -137,21 +137,21 @@
     "url": "https://github.com/evrone/go-clean-template",
     "description": "Clean Architecture template for Golang services",
     "language": "Go",
-    "star": "39"
+    "star": "38"
   },
   {
     "title": "mmabrouk/chatgpt-wrapper",
     "url": "https://github.com/mmabrouk/chatgpt-wrapper",
     "description": "API for interacting with ChatGPT using Python and from Shell.",
     "language": "Python",
-    "star": "69"
+    "star": "93"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "69"
+    "star": "71"
   },
   {
     "title": "timqian/chinese-independent-blogs",
@@ -165,13 +165,13 @@
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "TypeScript",
-    "star": "13"
+    "star": "19"
   },
   {
     "title": "MariaLetta/free-gophers-pack",
     "url": "https://github.com/MariaLetta/free-gophers-pack",
     "description": "✨ This pack of 100+ gopher pictures and elements will help you to build own design of almost anything related to Go Programming Language: presentations, posts in blogs or social media, courses, videos and many, many more.",
     "language": "Go",
-    "star": "47"
+    "star": "43"
   }
 ]
