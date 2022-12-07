@@ -4,7 +4,7 @@
     "url": "https://github.com/rawandahmad698/PyChatGPT",
     "description": "⚡️ TLS-based ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
     "language": "Python",
-    "star": "320"
+    "star": "321"
   },
   {
     "title": "acheong08/ChatGPT",
@@ -18,35 +18,35 @@
     "url": "https://github.com/transitive-bullshit/chatgpt-api",
     "description": "Node.js client for the unofficial ChatGPT API.",
     "language": "TypeScript",
-    "star": "459"
+    "star": "498"
   },
   {
     "title": "vincelwt/chatgpt-mac",
     "url": "https://github.com/vincelwt/chatgpt-mac",
     "description": "ChatGPT for Mac, living in your menubar.",
     "language": "JavaScript",
-    "star": "288"
+    "star": "317"
   },
   {
     "title": "JusticeRage/Gepetto",
     "url": "https://github.com/JusticeRage/Gepetto",
     "description": "IDA plugin which queries OpenAI's davinci-003 language model to speed up reverse-engineering",
     "language": "Python",
-    "star": "304"
+    "star": "313"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
     "url": "https://github.com/gragland/chatgpt-chrome-extension",
     "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
     "language": "JavaScript",
-    "star": "28"
+    "star": "44"
   },
   {
     "title": "xiaolincoder/CS-Base",
     "url": "https://github.com/xiaolincoder/CS-Base",
     "description": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com",
     "language": "none",
-    "star": "416"
+    "star": "378"
   },
   {
     "title": "bupticybee/ChineseAiDungeonChatGPT",
@@ -60,7 +60,7 @@
     "url": "https://github.com/mmabrouk/chatgpt-wrapper",
     "description": "API for interacting with ChatGPT using Python and from Shell.",
     "language": "Python",
-    "star": "83"
+    "star": "93"
   },
   {
     "title": "m1guelpf/chatgpt-telegram",
@@ -74,14 +74,14 @@
     "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
     "description": "Bypass Paywalls web browser extension for Chrome and Firefox.",
     "language": "JavaScript",
-    "star": "139"
+    "star": "160"
   },
   {
     "title": "Kaiyiwing/qwerty-learner",
     "url": "https://github.com/Kaiyiwing/qwerty-learner",
     "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
     "language": "TypeScript",
-    "star": "80"
+    "star": "167"
   },
   {
     "title": "android/architecture-templates",
@@ -95,7 +95,7 @@
     "url": "https://github.com/openai/openai-quickstart-node",
     "description": "Node.js example app from the OpenAI API quickstart tutorial",
     "language": "JavaScript",
-    "star": "85"
+    "star": "81"
   },
   {
     "title": "wong2/chat-gpt-google-extension",
@@ -109,14 +109,14 @@
     "url": "https://github.com/apache/iotdb",
     "description": "Apache IoTDB",
     "language": "Java",
-    "star": "15"
+    "star": "14"
   },
   {
     "title": "openai/gpt-3",
     "url": "https://github.com/openai/gpt-3",
     "description": "GPT-3: Language Models are Few-Shot Learners",
     "language": "none",
-    "star": "52"
+    "star": "44"
   },
   {
     "title": "PowerJob/PowerJob",
@@ -130,7 +130,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "55"
+    "star": "144"
   },
   {
     "title": "laravel/framework",
@@ -144,7 +144,7 @@
     "url": "https://github.com/mpociot/chatgpt-vscode",
     "description": "A VSCode extension that allows you to use ChatGPT",
     "language": "TypeScript",
-    "star": "209"
+    "star": "253"
   },
   {
     "title": "rolling-scopes-school/tasks",
@@ -172,6 +172,6 @@
     "url": "https://github.com/timqian/chinese-independent-blogs",
     "description": "中文独立博客列表",
     "language": "JavaScript",
-    "star": "61"
+    "star": "60"
   }
 ]
