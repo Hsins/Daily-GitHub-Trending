@@ -25,7 +25,7 @@
     "url": "https://github.com/openai/whisper",
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
     "language": "Jupyter Notebook",
-    "star": "379"
+    "star": "397"
   },
   {
     "title": "bupticybee/ChineseAiDungeonChatGPT",
@@ -39,28 +39,28 @@
     "url": "https://github.com/android/architecture-templates",
     "description": "",
     "language": "none",
-    "star": "90"
+    "star": "156"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "166"
+    "star": "167"
   },
   {
     "title": "transitive-bullshit/chatgpt-api",
     "url": "https://github.com/transitive-bullshit/chatgpt-api",
     "description": "Node.js client for the unofficial ChatGPT API. 🔥",
     "language": "TypeScript",
-    "star": "417"
+    "star": "418"
   },
   {
     "title": "rawandahmad698/PyChatGPT",
     "url": "https://github.com/rawandahmad698/PyChatGPT",
     "description": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
     "language": "Python",
-    "star": "346"
+    "star": "336"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
@@ -74,7 +74,7 @@
     "url": "https://github.com/airbnb/lottie-ios",
     "description": "An iOS library to natively render After Effects vector animations",
     "language": "Swift",
-    "star": "45"
+    "star": "50"
   },
   {
     "title": "cpq/bare-metal-programming-guide",
@@ -109,7 +109,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "94"
+    "star": "69"
   },
   {
     "title": "helix-editor/helix",
@@ -123,7 +123,7 @@
     "url": "https://github.com/sudoskys/Openaibot",
     "description": "🤖 Using OpenAi's Api on Telegram to achieve chatGPT func|在 Telegram 上使用 openai *API* 对话/续写 异步机器人| 👋 支持上下文对话 | 一键部署⚡️ | 非逆向",
     "language": "Python",
-    "star": "48"
+    "star": "49"
   },
   {
     "title": "Tencent/Hippy",
@@ -137,21 +137,21 @@
     "url": "https://github.com/Netflix/conductor",
     "description": "Conductor is a microservices orchestration engine.",
     "language": "Java",
-    "star": "501"
+    "star": "503"
   },
   {
     "title": "labteral/chatgpt-python",
     "url": "https://github.com/labteral/chatgpt-python",
     "description": "Unofficial Python SDK for OpenAI's ChatGPT",
     "language": "Python",
-    "star": "31"
+    "star": "30"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "",
     "language": "none",
-    "star": "69"
+    "star": "70"
   },
   {
     "title": "microsoft/vscode",
@@ -165,7 +165,7 @@
     "url": "https://github.com/gorilla/mux",
     "description": "A powerful HTTP router and URL matcher for building Go web servers with 🦍",
     "language": "Go",
-    "star": "58"
+    "star": "26"
   },
   {
     "title": "AutumnWhj/ChatGPT-wechat-bot",
