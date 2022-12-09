@@ -4,14 +4,14 @@
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "436"
+    "star": "437"
   },
   {
     "title": "ggerganov/whisper.cpp",
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "656"
+    "star": "672"
   },
   {
     "title": "remix-run/react-router",
@@ -46,28 +46,28 @@
     "url": "https://github.com/rawandahmad698/PyChatGPT",
     "description": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
     "language": "Python",
-    "star": "410"
+    "star": "409"
   },
   {
     "title": "surrealdb/surrealdb",
     "url": "https://github.com/surrealdb/surrealdb",
     "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
     "language": "Rust",
-    "star": "30"
+    "star": "31"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
     "url": "https://github.com/gragland/chatgpt-chrome-extension",
     "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
     "language": "JavaScript",
-    "star": "64"
+    "star": "66"
   },
   {
     "title": "Tencent/Hippy",
     "url": "https://github.com/Tencent/Hippy",
     "description": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
     "language": "C++",
-    "star": "20"
+    "star": "12"
   },
   {
     "title": "acheong08/ChatGPT",
@@ -95,7 +95,7 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "50"
+    "star": "46"
   },
   {
     "title": "humanloop/awesome-chatgpt",
@@ -109,7 +109,7 @@
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "star": "188"
+    "star": "252"
   },
   {
     "title": "lydiahallie/javascript-questions",
@@ -123,28 +123,28 @@
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT promt curation to use ChatGPT better.",
     "language": "none",
-    "star": "162"
+    "star": "163"
   },
   {
     "title": "LyraSearch/lyra",
     "url": "https://github.com/LyraSearch/lyra",
     "description": "🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
     "language": "TypeScript",
-    "star": "173"
+    "star": "150"
   },
   {
     "title": "vincelwt/chatgpt-mac",
     "url": "https://github.com/vincelwt/chatgpt-mac",
     "description": "ChatGPT for Mac, living in your menubar.",
     "language": "JavaScript",
-    "star": "340"
+    "star": "342"
   },
   {
     "title": "openai/whisper",
     "url": "https://github.com/openai/whisper",
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
     "language": "Jupyter Notebook",
-    "star": "247"
+    "star": "244"
   },
   {
     "title": "trekhleb/javascript-algorithms",
