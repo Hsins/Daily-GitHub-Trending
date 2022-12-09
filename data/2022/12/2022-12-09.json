@@ -1,0 +1,177 @@
+[
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "description": "Use ChatGPT On Wechat via wechaty",
+    "language": "TypeScript",
+    "star": "436"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "description": "Port of OpenAI's Whisper model in C/C++",
+    "language": "C",
+    "star": "656"
+  },
+  {
+    "title": "remix-run/react-router",
+    "url": "https://github.com/remix-run/react-router",
+    "description": "Declarative routing for React",
+    "language": "TypeScript",
+    "star": "15"
+  },
+  {
+    "title": "AutumnWhj/ChatGPT-wechat-bot",
+    "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+    "description": "ChatGPT for wechat",
+    "language": "TypeScript",
+    "star": "109"
+  },
+  {
+    "title": "paradigmxyz/reth",
+    "url": "https://github.com/paradigmxyz/reth",
+    "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
+    "language": "Rust",
+    "star": "127"
+  },
+  {
+    "title": "869413421/wechatbot",
+    "url": "https://github.com/869413421/wechatbot",
+    "description": "为个人微信接入ChatGPT",
+    "language": "Go",
+    "star": "125"
+  },
+  {
+    "title": "rawandahmad698/PyChatGPT",
+    "url": "https://github.com/rawandahmad698/PyChatGPT",
+    "description": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
+    "language": "Python",
+    "star": "410"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+    "language": "Rust",
+    "star": "30"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+    "language": "JavaScript",
+    "star": "64"
+  },
+  {
+    "title": "Tencent/Hippy",
+    "url": "https://github.com/Tencent/Hippy",
+    "description": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
+    "language": "C++",
+    "star": "20"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "description": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
+    "language": "Python",
+    "star": "941"
+  },
+  {
+    "title": "izackwu/TeachYourselfCS-CN",
+    "url": "https://github.com/izackwu/TeachYourselfCS-CN",
+    "description": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS",
+    "language": "none",
+    "star": "70"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2023",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2023",
+    "description": "Statistical Rethinking Course for Jan-Mar 2023",
+    "language": "none",
+    "star": "25"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "50"
+  },
+  {
+    "title": "humanloop/awesome-chatgpt",
+    "url": "https://github.com/humanloop/awesome-chatgpt",
+    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
+    "language": "none",
+    "star": "114"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "star": "188"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "73"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT promt curation to use ChatGPT better.",
+    "language": "none",
+    "star": "162"
+  },
+  {
+    "title": "LyraSearch/lyra",
+    "url": "https://github.com/LyraSearch/lyra",
+    "description": "🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.",
+    "language": "TypeScript",
+    "star": "177"
+  },
+  {
+    "title": "vincelwt/chatgpt-mac",
+    "url": "https://github.com/vincelwt/chatgpt-mac",
+    "description": "ChatGPT for Mac, living in your menubar.",
+    "language": "JavaScript",
+    "star": "340"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "language": "Jupyter Notebook",
+    "star": "247"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "84"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "description": "Investment Research for Everyone, Anywhere.",
+    "language": "Python",
+    "star": "41"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "114"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "123"
+  }
+]
