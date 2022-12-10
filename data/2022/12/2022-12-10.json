@@ -4,14 +4,14 @@
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "750"
+    "star": "730"
   },
   {
     "title": "869413421/wechatbot",
     "url": "https://github.com/869413421/wechatbot",
     "description": "为个人微信接入ChatGPT",
     "language": "Go",
-    "star": "145"
+    "star": "128"
   },
   {
     "title": "exaloop/codon",
@@ -25,21 +25,21 @@
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "440"
+    "star": "453"
   },
   {
     "title": "teaxyz/cli",
     "url": "https://github.com/teaxyz/cli",
     "description": "the unified package manager (brew2)",
     "language": "TypeScript",
-    "star": "667"
+    "star": "315"
   },
   {
     "title": "Tencent/Hippy",
     "url": "https://github.com/Tencent/Hippy",
     "description": "Hippy is designed to easily build cross-platform dynamic apps. 👏",
     "language": "C++",
-    "star": "94"
+    "star": "121"
   },
   {
     "title": "cloneofsimo/lora",
@@ -53,7 +53,7 @@
     "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
     "description": "ChatGPT for wechat",
     "language": "TypeScript",
-    "star": "151"
+    "star": "164"
   },
   {
     "title": "PathOfBuildingCommunity/PathOfBuilding",
@@ -67,21 +67,21 @@
     "url": "https://github.com/surrealdb/surrealdb",
     "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
     "language": "Rust",
-    "star": "56"
+    "star": "115"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
     "url": "https://github.com/gragland/chatgpt-chrome-extension",
     "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
     "language": "JavaScript",
-    "star": "88"
+    "star": "80"
   },
   {
     "title": "wangrongding/wechat-bot",
     "url": "https://github.com/wangrongding/wechat-bot",
     "description": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 可以用来帮助你自动回复微信消息，或者管理微信群/好友.",
     "language": "JavaScript",
-    "star": "37"
+    "star": "33"
   },
   {
     "title": "mohammadpz/pytorch_forward_forward",
@@ -102,14 +102,14 @@
     "url": "https://github.com/humanloop/awesome-chatgpt",
     "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
     "language": "none",
-    "star": "321"
+    "star": "312"
   },
   {
     "title": "rawandahmad698/PyChatGPT",
     "url": "https://github.com/rawandahmad698/PyChatGPT",
     "description": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
     "language": "Python",
-    "star": "312"
+    "star": "239"
   },
   {
     "title": "pulsar-edit/pulsar",
@@ -123,42 +123,42 @@
     "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
     "description": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
     "language": "Python",
-    "star": "117"
+    "star": "31"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT promt curation to use ChatGPT better.",
     "language": "none",
-    "star": "243"
+    "star": "230"
   },
   {
     "title": "louislam/uptime-kuma",
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "star": "144"
+    "star": "143"
   },
   {
     "title": "pichenettes/eurorack",
     "url": "https://github.com/pichenettes/eurorack",
     "description": "Eurorack modules",
     "language": "C++",
-    "star": "6"
+    "star": "7"
   },
   {
     "title": "acheong08/ChatGPT",
     "url": "https://github.com/acheong08/ChatGPT",
     "description": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
     "language": "Python",
-    "star": "769"
+    "star": "765"
   },
   {
     "title": "paradigmxyz/reth",
     "url": "https://github.com/paradigmxyz/reth",
     "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
     "language": "C",
-    "star": "122"
+    "star": "123"
   },
   {
     "title": "bytedance/sonic-cpp",
@@ -172,6 +172,6 @@
     "url": "https://github.com/AmazingAng/WTF-Solidity",
     "description": "我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy",
     "language": "Solidity",
-    "star": "33"
+    "star": "34"
   }
 ]
