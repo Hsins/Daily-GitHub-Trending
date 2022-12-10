@@ -4,14 +4,14 @@
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "780"
+    "star": "750"
   },
   {
     "title": "869413421/wechatbot",
     "url": "https://github.com/869413421/wechatbot",
     "description": "为个人微信接入ChatGPT",
     "language": "Go",
-    "star": "143"
+    "star": "145"
   },
   {
     "title": "exaloop/codon",
@@ -25,14 +25,14 @@
     "url": "https://github.com/doocs/leetcode",
     "description": "😏 LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
     "language": "Java",
-    "star": "117"
+    "star": "440"
   },
   {
     "title": "teaxyz/cli",
     "url": "https://github.com/teaxyz/cli",
     "description": "the unified package manager (brew2)",
     "language": "TypeScript",
-    "star": "314"
+    "star": "667"
   },
   {
     "title": "Tencent/Hippy",
@@ -46,14 +46,14 @@
     "url": "https://github.com/cloneofsimo/lora",
     "description": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
     "language": "Jupyter Notebook",
-    "star": "43"
+    "star": "45"
   },
   {
     "title": "AutumnWhj/ChatGPT-wechat-bot",
     "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
     "description": "ChatGPT for wechat",
     "language": "TypeScript",
-    "star": "157"
+    "star": "151"
   },
   {
     "title": "PathOfBuildingCommunity/PathOfBuilding",
@@ -67,14 +67,14 @@
     "url": "https://github.com/surrealdb/surrealdb",
     "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
     "language": "Rust",
-    "star": "124"
+    "star": "56"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
     "url": "https://github.com/gragland/chatgpt-chrome-extension",
     "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
     "language": "JavaScript",
-    "star": "119"
+    "star": "88"
   },
   {
     "title": "wangrongding/wechat-bot",
@@ -95,14 +95,14 @@
     "url": "https://github.com/holbertonschool/Betty",
     "description": "Holberton-style C code checker written in Perl",
     "language": "Perl",
-    "star": "8"
+    "star": "7"
   },
   {
     "title": "humanloop/awesome-chatgpt",
     "url": "https://github.com/humanloop/awesome-chatgpt",
     "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
     "language": "none",
-    "star": "319"
+    "star": "321"
   },
   {
     "title": "rawandahmad698/PyChatGPT",
@@ -116,14 +116,14 @@
     "url": "https://github.com/pulsar-edit/pulsar",
     "description": "A Community-led Hyper-Hackable Text Editor",
     "language": "JavaScript",
-    "star": "44"
+    "star": "42"
   },
   {
     "title": "bupticybee/ChineseAiDungeonChatGPT",
     "url": "https://github.com/bupticybee/ChineseAiDungeonChatGPT",
     "description": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
     "language": "Python",
-    "star": "22"
+    "star": "117"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -151,21 +151,21 @@
     "url": "https://github.com/acheong08/ChatGPT",
     "description": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
     "language": "Python",
-    "star": "464"
+    "star": "769"
   },
   {
     "title": "paradigmxyz/reth",
     "url": "https://github.com/paradigmxyz/reth",
     "description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust",
     "language": "C",
-    "star": "100"
+    "star": "122"
   },
   {
     "title": "bytedance/sonic-cpp",
     "url": "https://github.com/bytedance/sonic-cpp",
     "description": "A fast JSON serializing & deserializing library, accelerated by SIMD.",
     "language": "C++",
-    "star": "23"
+    "star": "25"
   },
   {
     "title": "AmazingAng/WTF-Solidity",
