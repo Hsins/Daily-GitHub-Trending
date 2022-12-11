@@ -4,35 +4,35 @@
     "url": "https://github.com/tw93/Pake",
     "description": "🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
     "language": "Rust",
-    "star": "462"
+    "star": "444"
   },
   {
     "title": "shinework/photoshot",
     "url": "https://github.com/shinework/photoshot",
     "description": "",
     "language": "TypeScript",
-    "star": "48"
+    "star": "98"
   },
   {
     "title": "exaloop/codon",
     "url": "https://github.com/exaloop/codon",
     "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
     "language": "C++",
-    "star": "462"
+    "star": "440"
   },
   {
     "title": "louislam/uptime-kuma",
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "star": "218"
+    "star": "251"
   },
   {
     "title": "hwchase17/langchain",
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "38"
+    "star": "45"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -53,7 +53,7 @@
     "url": "https://github.com/869413421/wechatbot",
     "description": "为个人微信接入ChatGPT",
     "language": "Go",
-    "star": "140"
+    "star": "131"
   },
   {
     "title": "TheLastBen/fast-stable-diffusion",
@@ -67,7 +67,7 @@
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "662"
+    "star": "632"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -81,7 +81,7 @@
     "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
     "description": "ChatGPT for wechat",
     "language": "TypeScript",
-    "star": "184"
+    "star": "218"
   },
   {
     "title": "deepmind/dramatron",
@@ -95,7 +95,7 @@
     "url": "https://github.com/revanced/revanced-patches",
     "description": "🧩 Patches for ReVanced",
     "language": "Kotlin",
-    "star": "24"
+    "star": "30"
   },
   {
     "title": "tiann/KernelSU",
@@ -109,14 +109,14 @@
     "url": "https://github.com/humanloop/awesome-chatgpt",
     "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
     "language": "none",
-    "star": "304"
+    "star": "316"
   },
   {
     "title": "ange-yaghi/engine-sim",
     "url": "https://github.com/ange-yaghi/engine-sim",
     "description": "Combustion engine simulator that generates realistic audio.",
     "language": "C++",
-    "star": "9"
+    "star": "14"
   },
   {
     "title": "iptv-org/iptv",
@@ -137,14 +137,14 @@
     "url": "https://github.com/UberGuidoZ/Flipper",
     "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
     "language": "Batchfile",
-    "star": "42"
+    "star": "41"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
     "url": "https://github.com/gragland/chatgpt-chrome-extension",
     "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
     "language": "JavaScript",
-    "star": "86"
+    "star": "89"
   },
   {
     "title": "wechaty/wechaty",
@@ -158,20 +158,20 @@
     "url": "https://github.com/holbertonschool/Betty",
     "description": "Holberton-style C code checker written in Perl",
     "language": "Perl",
-    "star": "16"
+    "star": "15"
   },
   {
     "title": "Grasscutters/Grasscutter",
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "21"
+    "star": "19"
   },
   {
     "title": "GitHubDaily/GitHubDaily",
     "url": "https://github.com/GitHubDaily/GitHubDaily",
     "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
     "language": "none",
-    "star": "28"
+    "star": "29"
   }
 ]
