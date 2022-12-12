@@ -11,42 +11,42 @@
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "657"
+    "star": "653"
   },
   {
     "title": "louislam/uptime-kuma",
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "star": "331"
+    "star": "421"
   },
   {
     "title": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
     "description": "🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
     "language": "Rust",
-    "star": "491"
+    "star": "657"
   },
   {
     "title": "Stability-AI/stablediffusion",
     "url": "https://github.com/Stability-AI/stablediffusion",
     "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
     "language": "Python",
-    "star": "379"
+    "star": "378"
   },
   {
     "title": "deepmind/dramatron",
     "url": "https://github.com/deepmind/dramatron",
     "description": "Dramatron uses large language models to generate coherent scripts and screenplays.",
     "language": "Jupyter Notebook",
-    "star": "53"
+    "star": "89"
   },
   {
     "title": "ggerganov/whisper.cpp",
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "328"
+    "star": "192"
   },
   {
     "title": "AutumnWhj/ChatGPT-wechat-bot",
@@ -60,84 +60,84 @@
     "url": "https://github.com/exaloop/codon",
     "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
     "language": "C++",
-    "star": "415"
+    "star": "445"
   },
   {
     "title": "Grasscutters/Grasscutter",
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "69"
+    "star": "36"
   },
   {
     "title": "calistus-igwilo/nitda-blockchain-scholarship",
     "url": "https://github.com/calistus-igwilo/nitda-blockchain-scholarship",
     "description": "Course materials for the NITDA Blockchain Scholarship",
     "language": "none",
-    "star": "673"
+    "star": "896"
   },
   {
     "title": "skydoves/chatgpt-android",
     "url": "https://github.com/skydoves/chatgpt-android",
     "description": "📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.",
     "language": "Kotlin",
-    "star": "113"
+    "star": "107"
   },
   {
     "title": "arendst/Tasmota",
     "url": "https://github.com/arendst/Tasmota",
     "description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
     "language": "C",
-    "star": "11"
+    "star": "12"
   },
   {
     "title": "wangrongding/wechat-bot",
     "url": "https://github.com/wangrongding/wechat-bot",
     "description": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
     "language": "JavaScript",
-    "star": "117"
+    "star": "110"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "218"
+    "star": "210"
   },
   {
     "title": "gtoxlili/wechat-chatGPT",
     "url": "https://github.com/gtoxlili/wechat-chatGPT",
     "description": "实现微信公众号被动返回接口的ChatGPT",
     "language": "Go",
-    "star": "26"
+    "star": "53"
   },
   {
     "title": "humanloop/awesome-chatgpt",
     "url": "https://github.com/humanloop/awesome-chatgpt",
     "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
     "language": "none",
-    "star": "281"
+    "star": "279"
   },
   {
     "title": "kubeshark/kubeshark",
     "url": "https://github.com/kubeshark/kubeshark",
     "description": "The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes",
     "language": "Go",
-    "star": "185"
+    "star": "129"
   },
   {
     "title": "hwchase17/langchain",
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "75"
+    "star": "53"
   },
   {
     "title": "shinework/photoshot",
     "url": "https://github.com/shinework/photoshot",
     "description": "",
     "language": "TypeScript",
-    "star": "341"
+    "star": "212"
   },
   {
     "title": "expressjs/express",
@@ -158,20 +158,20 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "116"
+    "star": "89"
   },
   {
     "title": "TheLastBen/fast-stable-diffusion",
     "url": "https://github.com/TheLastBen/fast-stable-diffusion",
     "description": "fast-stable-diffusion, +25-50% speed increase + memory efficient + DreamBooth",
     "language": "Python",
-    "star": "94"
+    "star": "84"
   },
   {
     "title": "revanced/revanced-manager",
     "url": "https://github.com/revanced/revanced-manager",
     "description": "💊 Android application to use ReVanced",
     "language": "Dart",
-    "star": "32"
+    "star": "21"
   }
 ]
