@@ -4,21 +4,21 @@
     "url": "https://github.com/shinework/photoshot",
     "description": "",
     "language": "TypeScript",
-    "star": "341"
+    "star": "342"
   },
   {
     "title": "wangrongding/wechat-bot",
     "url": "https://github.com/wangrongding/wechat-bot",
     "description": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
     "language": "JavaScript",
-    "star": "171"
+    "star": "167"
   },
   {
     "title": "ange-yaghi/engine-sim",
     "url": "https://github.com/ange-yaghi/engine-sim",
     "description": "Combustion engine simulator that generates realistic audio.",
     "language": "C++",
-    "star": "62"
+    "star": "18"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -32,49 +32,49 @@
     "url": "https://github.com/eatmoreapple/openwechat",
     "description": "golang版微信SDK",
     "language": "Go",
-    "star": "89"
+    "star": "68"
   },
   {
     "title": "skydoves/chatgpt-android",
     "url": "https://github.com/skydoves/chatgpt-android",
     "description": "📱 ChatGPT Android demonstrates OpenAI's ChatGPT on Android with Stream Chat SDK for Compose.",
     "language": "Kotlin",
-    "star": "123"
+    "star": "121"
   },
   {
     "title": "louislam/uptime-kuma",
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "star": "420"
+    "star": "417"
   },
   {
     "title": "mohammadpz/pytorch_forward_forward",
     "url": "https://github.com/mohammadpz/pytorch_forward_forward",
     "description": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
     "language": "Python",
-    "star": "84"
+    "star": "57"
   },
   {
     "title": "calistus-igwilo/nitda-blockchain-scholarship",
     "url": "https://github.com/calistus-igwilo/nitda-blockchain-scholarship",
     "description": "Course materials for the NITDA Blockchain Scholarship",
     "language": "none",
-    "star": "488"
+    "star": "482"
   },
   {
     "title": "fuergaosi233/wechat-chatgpt",
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "735"
+    "star": "434"
   },
   {
     "title": "humanloop/awesome-chatgpt",
     "url": "https://github.com/humanloop/awesome-chatgpt",
     "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
     "language": "none",
-    "star": "715"
+    "star": "268"
   },
   {
     "title": "GitHubDaily/GitHubDaily",
@@ -88,42 +88,42 @@
     "url": "https://github.com/lensterxyz/lenster",
     "description": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
     "language": "TypeScript",
-    "star": "203"
+    "star": "202"
   },
   {
     "title": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
     "description": "🤱🏻 A simple way to make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
     "language": "Rust",
-    "star": "671"
+    "star": "572"
   },
   {
     "title": "Stability-AI/stablediffusion",
     "url": "https://github.com/Stability-AI/stablediffusion",
     "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
     "language": "Python",
-    "star": "396"
+    "star": "393"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "7"
+    "star": "11"
   },
   {
     "title": "exaloop/codon",
     "url": "https://github.com/exaloop/codon",
     "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
     "language": "C++",
-    "star": "842"
+    "star": "822"
   },
   {
     "title": "deepmind/dramatron",
     "url": "https://github.com/deepmind/dramatron",
     "description": "Dramatron uses large language models to generate coherent scripts and screenplays.",
     "language": "Jupyter Notebook",
-    "star": "140"
+    "star": "121"
   },
   {
     "title": "colinhacks/zod",
@@ -151,20 +151,20 @@
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "74"
+    "star": "78"
   },
   {
     "title": "AutumnWhj/ChatGPT-wechat-bot",
     "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
     "description": "ChatGPT for wechat",
     "language": "TypeScript",
-    "star": "186"
+    "star": "170"
   },
   {
     "title": "awslabs/eks-node-viewer",
     "url": "https://github.com/awslabs/eks-node-viewer",
     "description": "EKS Node Viewer",
     "language": "Go",
-    "star": "51"
+    "star": "47"
   }
 ]
