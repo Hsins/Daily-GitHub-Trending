@@ -11,7 +11,7 @@
     "url": "https://github.com/cloneofsimo/lora",
     "description": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
     "language": "Jupyter Notebook",
-    "star": "100"
+    "star": "109"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
@@ -32,7 +32,7 @@
     "url": "https://github.com/palera1n/palera1n",
     "description": "iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak",
     "language": "Shell",
-    "star": "68"
+    "star": "66"
   },
   {
     "title": "directus/directus",
@@ -53,7 +53,7 @@
     "url": "https://github.com/nalgeon/sqlean",
     "description": "The ultimate set of SQLite extensions",
     "language": "C",
-    "star": "160"
+    "star": "155"
   },
   {
     "title": "zas023/JdBuyer",
@@ -67,21 +67,21 @@
     "url": "https://github.com/norvig/pytudes",
     "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
     "language": "Jupyter Notebook",
-    "star": "34"
+    "star": "28"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "JavaScript",
-    "star": "137"
+    "star": "136"
   },
   {
     "title": "humanloop/awesome-chatgpt",
     "url": "https://github.com/humanloop/awesome-chatgpt",
     "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
     "language": "none",
-    "star": "575"
+    "star": "855"
   },
   {
     "title": "nlohmann/json",
@@ -95,7 +95,7 @@
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "52"
+    "star": "53"
   },
   {
     "title": "aler9/rtsp-simple-server",
@@ -116,7 +116,7 @@
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "9"
+    "star": "25"
   },
   {
     "title": "mui/material-ui",
@@ -137,21 +137,21 @@
     "url": "https://github.com/Azure/azure-quickstart-templates",
     "description": "Azure Quickstart Templates",
     "language": "Bicep",
-    "star": "7"
+    "star": "6"
   },
   {
     "title": "home-assistant/frontend",
     "url": "https://github.com/home-assistant/frontend",
     "description": "🍭 Frontend for Home Assistant",
     "language": "TypeScript",
-    "star": "19"
+    "star": "6"
   },
   {
     "title": "alibaba/havenask",
     "url": "https://github.com/alibaba/havenask",
     "description": "",
     "language": "C++",
-    "star": "45"
+    "star": "46"
   },
   {
     "title": "wesbos/pommade",
@@ -172,6 +172,6 @@
     "url": "https://github.com/calistus-igwilo/nitda-blockchain-scholarship",
     "description": "Course materials for the NITDA Blockchain Scholarship",
     "language": "none",
-    "star": "444"
+    "star": "195"
   }
 ]
