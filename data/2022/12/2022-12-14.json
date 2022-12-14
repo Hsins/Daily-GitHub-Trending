@@ -11,7 +11,7 @@
     "url": "https://github.com/cloneofsimo/lora",
     "description": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
     "language": "Jupyter Notebook",
-    "star": "101"
+    "star": "109"
   },
   {
     "title": "PKUFlyingPig/cs-self-learning",
@@ -25,14 +25,14 @@
     "url": "https://github.com/pola-rs/polars",
     "description": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
     "language": "Rust",
-    "star": "137"
+    "star": "134"
   },
   {
     "title": "palera1n/palera1n",
     "url": "https://github.com/palera1n/palera1n",
     "description": "iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak",
     "language": "Shell",
-    "star": "59"
+    "star": "65"
   },
   {
     "title": "directus/directus",
@@ -53,21 +53,21 @@
     "url": "https://github.com/nalgeon/sqlean",
     "description": "The ultimate set of SQLite extensions",
     "language": "C",
-    "star": "53"
+    "star": "155"
   },
   {
     "title": "zas023/JdBuyer",
     "url": "https://github.com/zas023/JdBuyer",
     "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
     "language": "Python",
-    "star": "33"
+    "star": "12"
   },
   {
     "title": "norvig/pytudes",
     "url": "https://github.com/norvig/pytudes",
     "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
     "language": "Jupyter Notebook",
-    "star": "34"
+    "star": "29"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
@@ -81,21 +81,21 @@
     "url": "https://github.com/humanloop/awesome-chatgpt",
     "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
     "language": "none",
-    "star": "633"
+    "star": "855"
   },
   {
     "title": "nlohmann/json",
     "url": "https://github.com/nlohmann/json",
     "description": "JSON for Modern C++",
     "language": "C++",
-    "star": "12"
+    "star": "16"
   },
   {
     "title": "lencx/ChatGPT",
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "52"
+    "star": "53"
   },
   {
     "title": "aler9/rtsp-simple-server",
@@ -116,7 +116,7 @@
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "14"
+    "star": "26"
   },
   {
     "title": "mui/material-ui",
@@ -130,7 +130,7 @@
     "url": "https://github.com/mohammadpz/pytorch_forward_forward",
     "description": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
     "language": "Python",
-    "star": "60"
+    "star": "61"
   },
   {
     "title": "Azure/azure-quickstart-templates",
@@ -158,7 +158,7 @@
     "url": "https://github.com/wesbos/pommade",
     "description": "A menu bar app to check your hair",
     "language": "TypeScript",
-    "star": "15"
+    "star": "16"
   },
   {
     "title": "vuejs/core",
@@ -172,6 +172,6 @@
     "url": "https://github.com/calistus-igwilo/nitda-blockchain-scholarship",
     "description": "Course materials for the NITDA Blockchain Scholarship",
     "language": "none",
-    "star": "386"
+    "star": "192"
   }
 ]
