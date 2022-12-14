@@ -1,0 +1,177 @@
+[
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT promt curation to use ChatGPT better.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "cloneofsimo/lora",
+    "url": "https://github.com/cloneofsimo/lora",
+    "description": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
+    "language": "Jupyter Notebook",
+    "star": "100"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "description": "计算机自学指南",
+    "language": "HTML",
+    "star": "230"
+  },
+  {
+    "title": "pola-rs/polars",
+    "url": "https://github.com/pola-rs/polars",
+    "description": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
+    "language": "Rust",
+    "star": "134"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "description": "iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak",
+    "language": "Shell",
+    "star": "68"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+    "language": "TypeScript",
+    "star": "17"
+  },
+  {
+    "title": "facebookresearch/fairseq",
+    "url": "https://github.com/facebookresearch/fairseq",
+    "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "language": "Python",
+    "star": "81"
+  },
+  {
+    "title": "nalgeon/sqlean",
+    "url": "https://github.com/nalgeon/sqlean",
+    "description": "The ultimate set of SQLite extensions",
+    "language": "C",
+    "star": "160"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "norvig/pytudes",
+    "url": "https://github.com/norvig/pytudes",
+    "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+    "language": "Jupyter Notebook",
+    "star": "34"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "language": "JavaScript",
+    "star": "137"
+  },
+  {
+    "title": "humanloop/awesome-chatgpt",
+    "url": "https://github.com/humanloop/awesome-chatgpt",
+    "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
+    "language": "none",
+    "star": "575"
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "16"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "description": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "language": "Rust",
+    "star": "52"
+  },
+  {
+    "title": "aler9/rtsp-simple-server",
+    "url": "https://github.com/aler9/rtsp-simple-server",
+    "description": "ready-to-use RTSP / RTMP / LL-HLS server and proxy that allows to read, publish and proxy video and audio streams",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "dolthub/dolt",
+    "url": "https://github.com/dolthub/dolt",
+    "description": "Dolt – Git for Data",
+    "language": "Go",
+    "star": "26"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "description": "Open source documentation of Microsoft Azure",
+    "language": "PowerShell",
+    "star": "9"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+    "language": "JavaScript",
+    "star": "33"
+  },
+  {
+    "title": "mohammadpz/pytorch_forward_forward",
+    "url": "https://github.com/mohammadpz/pytorch_forward_forward",
+    "description": "Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation",
+    "language": "Python",
+    "star": "61"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "description": "Azure Quickstart Templates",
+    "language": "Bicep",
+    "star": "7"
+  },
+  {
+    "title": "home-assistant/frontend",
+    "url": "https://github.com/home-assistant/frontend",
+    "description": "🍭 Frontend for Home Assistant",
+    "language": "TypeScript",
+    "star": "19"
+  },
+  {
+    "title": "alibaba/havenask",
+    "url": "https://github.com/alibaba/havenask",
+    "description": "",
+    "language": "C++",
+    "star": "45"
+  },
+  {
+    "title": "wesbos/pommade",
+    "url": "https://github.com/wesbos/pommade",
+    "description": "A menu bar app to check your hair",
+    "language": "TypeScript",
+    "star": "16"
+  },
+  {
+    "title": "vuejs/core",
+    "url": "https://github.com/vuejs/core",
+    "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "language": "TypeScript",
+    "star": "35"
+  },
+  {
+    "title": "calistus-igwilo/nitda-blockchain-scholarship",
+    "url": "https://github.com/calistus-igwilo/nitda-blockchain-scholarship",
+    "description": "Course materials for the NITDA Blockchain Scholarship",
+    "language": "none",
+    "star": "444"
+  }
+]
