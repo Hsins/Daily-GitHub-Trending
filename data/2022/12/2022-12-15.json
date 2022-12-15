@@ -4,7 +4,7 @@
     "url": "https://github.com/jart/blink",
     "description": "tiniest x86-64-linux emulator",
     "language": "C",
-    "star": "265"
+    "star": "274"
   },
   {
     "title": "microsoft/terminal",
@@ -32,7 +32,7 @@
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT promt curation to use ChatGPT better.",
     "language": "none",
-    "star": "871"
+    "star": "872"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
@@ -60,14 +60,14 @@
     "url": "https://github.com/mifi/lossless-cut",
     "description": "The swiss army knife of lossless video/audio editing",
     "language": "JavaScript",
-    "star": "547"
+    "star": "544"
   },
   {
     "title": "jacksight/xina520_official_jailbreak",
     "url": "https://github.com/jacksight/xina520_official_jailbreak",
     "description": "This is the official download website for xina520's jailbreak (temporary)",
     "language": "none",
-    "star": "26"
+    "star": "27"
   },
   {
     "title": "f5/unovis",
@@ -88,7 +88,7 @@
     "url": "https://github.com/palera1n/palera1n",
     "description": "iOS 15.0-16.2 (semi-)tethered checkm8 jailbreak",
     "language": "Shell",
-    "star": "89"
+    "star": "63"
   },
   {
     "title": "colinhacks/zod",
@@ -102,21 +102,21 @@
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "17"
+    "star": "30"
   },
   {
     "title": "cloneofsimo/lora",
     "url": "https://github.com/cloneofsimo/lora",
     "description": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
     "language": "Jupyter Notebook",
-    "star": "68"
+    "star": "62"
   },
   {
     "title": "pola-rs/polars",
     "url": "https://github.com/pola-rs/polars",
     "description": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
     "language": "Rust",
-    "star": "91"
+    "star": "96"
   },
   {
     "title": "wang-edward/t-juno-copy-v2",
@@ -137,7 +137,7 @@
     "url": "https://github.com/dotnet/roslyn",
     "description": "The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.",
     "language": "C#",
-    "star": "10"
+    "star": "11"
   },
   {
     "title": "smartcontractkit/full-blockchain-solidity-course-js",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Azure/azure-quickstart-templates",
     "description": "Azure Quickstart Templates",
     "language": "Bicep",
-    "star": "9"
+    "star": "8"
   },
   {
     "title": "DovAmir/awesome-design-patterns",
@@ -165,7 +165,7 @@
     "url": "https://github.com/rocketseat-education/ignite-lab-nodejs",
     "description": "Microsserviço de notificações desenvolvido no Ignite Lab 04 de Node.js",
     "language": "TypeScript",
-    "star": "17"
+    "star": "18"
   },
   {
     "title": "krahets/hello-algo",
