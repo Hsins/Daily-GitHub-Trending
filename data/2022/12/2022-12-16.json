@@ -4,14 +4,14 @@
     "url": "https://github.com/google/osv-scanner",
     "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
     "language": "Go",
-    "star": "374"
+    "star": "375"
   },
   {
     "title": "dudykr/stc",
     "url": "https://github.com/dudykr/stc",
     "description": "Speedy TypeScript type checker",
     "language": "Rust",
-    "star": "266"
+    "star": "257"
   },
   {
     "title": "Jxck-S/plane-notify",
@@ -25,91 +25,91 @@
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "language": "Java",
-    "star": "978"
+    "star": "1"
   },
   {
     "title": "sveltejs/kit",
     "url": "https://github.com/sveltejs/kit",
     "description": "web development, streamlined",
     "language": "JavaScript",
-    "star": "100"
+    "star": "133"
   },
   {
     "title": "DovAmir/awesome-design-patterns",
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "635"
+    "star": "702"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "223"
+    "star": "266"
   },
   {
     "title": "zas023/JdBuyer",
     "url": "https://github.com/zas023/JdBuyer",
     "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
     "language": "Python",
-    "star": "138"
+    "star": "134"
   },
   {
     "title": "Samsar4/Ethical-Hacking-Labs",
     "url": "https://github.com/Samsar4/Ethical-Hacking-Labs",
     "description": "Practical Ethical Hacking Labs 🗡🛡",
     "language": "none",
-    "star": "137"
+    "star": "130"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "151"
+    "star": "166"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "183"
+    "star": "161"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "198"
+    "star": "248"
   },
   {
     "title": "alibaba/havenask",
     "url": "https://github.com/alibaba/havenask",
     "description": "",
     "language": "C++",
-    "star": "72"
+    "star": "73"
   },
   {
     "title": "skypilot-org/skypilot",
     "url": "https://github.com/skypilot-org/skypilot",
     "description": "SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface.",
     "language": "Python",
-    "star": "96"
+    "star": "115"
   },
   {
     "title": "coinspect/learn-evm-attacks",
     "url": "https://github.com/coinspect/learn-evm-attacks",
     "description": "Learn & Contribute on previously exploited vulnerabilities across several EVM projects.",
     "language": "Solidity",
-    "star": "76"
+    "star": "77"
   },
   {
     "title": "ossu/bioinformatics",
     "url": "https://github.com/ossu/bioinformatics",
     "description": "🔬 Path to a free self-taught education in Bioinformatics!",
     "language": "none",
-    "star": "25"
+    "star": "54"
   },
   {
     "title": "nvm-sh/nvm",
@@ -130,7 +130,7 @@
     "url": "https://github.com/rocketseat-education/ignite-lab-nodejs",
     "description": "Microsserviço de notificações desenvolvido no Ignite Lab 04 de Node.js",
     "language": "TypeScript",
-    "star": "35"
+    "star": "45"
   },
   {
     "title": "forthespada/CS-Books",
@@ -144,14 +144,14 @@
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "25"
+    "star": "35"
   },
   {
     "title": "pola-rs/polars",
     "url": "https://github.com/pola-rs/polars",
     "description": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
     "language": "Rust",
-    "star": "210"
+    "star": "201"
   },
   {
     "title": "kuchin/awesome-cto",
@@ -165,7 +165,7 @@
     "url": "https://github.com/mui/material-ui",
     "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
     "language": "JavaScript",
-    "star": "61"
+    "star": "63"
   },
   {
     "title": "SoftwareBrothers/adminjs",
