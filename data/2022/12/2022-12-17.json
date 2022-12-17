@@ -11,7 +11,7 @@
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "120"
+    "star": "106"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
@@ -32,14 +32,14 @@
     "url": "https://github.com/google/osv-scanner",
     "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
     "language": "Go",
-    "star": "435"
+    "star": "421"
   },
   {
     "title": "krahets/hello-algo",
     "url": "https://github.com/krahets/hello-algo",
     "description": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
     "language": "Java",
-    "star": "109"
+    "star": "251"
   },
   {
     "title": "hmartiro/riffusion-app",
@@ -53,7 +53,7 @@
     "url": "https://github.com/ThePrimeagen/init.lua",
     "description": "",
     "language": "Lua",
-    "star": "62"
+    "star": "60"
   },
   {
     "title": "hmartiro/riffusion-inference",
@@ -67,14 +67,14 @@
     "url": "https://github.com/carson-katri/dream-textures",
     "description": "Stable Diffusion built-in to the Blender shader editor",
     "language": "Python",
-    "star": "292"
+    "star": "291"
   },
   {
     "title": "zas023/JdBuyer",
     "url": "https://github.com/zas023/JdBuyer",
     "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
     "language": "Python",
-    "star": "117"
+    "star": "92"
   },
   {
     "title": "openai/openai-cookbook",
@@ -88,56 +88,56 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "48"
+    "star": "42"
   },
   {
     "title": "musescore/MuseScore",
     "url": "https://github.com/musescore/MuseScore",
     "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
     "language": "C++",
-    "star": "132"
+    "star": "91"
   },
   {
     "title": "atom/atom",
     "url": "https://github.com/atom/atom",
     "description": "The hackable text editor",
     "language": "JavaScript",
-    "star": "69"
+    "star": "77"
   },
   {
     "title": "mui/material-ui",
     "url": "https://github.com/mui/material-ui",
     "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
     "language": "JavaScript",
-    "star": "106"
+    "star": "90"
   },
   {
     "title": "m1guelpf/plz-cli",
     "url": "https://github.com/m1guelpf/plz-cli",
     "description": "Copilot for your terminal",
     "language": "Rust",
-    "star": "165"
+    "star": "170"
   },
   {
     "title": "Jxck-S/plane-notify",
     "url": "https://github.com/Jxck-S/plane-notify",
     "description": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
     "language": "Python",
-    "star": "151"
+    "star": "165"
   },
   {
     "title": "andyzys/jd_seckill",
     "url": "https://github.com/andyzys/jd_seckill",
     "description": "京东秒杀商品抢购",
     "language": "Python",
-    "star": "10"
+    "star": "16"
   },
   {
     "title": "jart/blink",
     "url": "https://github.com/jart/blink",
     "description": "tiniest x86-64-linux emulator",
     "language": "C",
-    "star": "86"
+    "star": "233"
   },
   {
     "title": "chartjs/Chart.js",
@@ -151,21 +151,21 @@
     "url": "https://github.com/mxrch/GHunt",
     "description": "🕵️‍♂️ Offensive Google framework.",
     "language": "Python",
-    "star": "68"
+    "star": "82"
   },
   {
     "title": "nostr-protocol/nostr",
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "231"
+    "star": "220"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "85"
+    "star": "144"
   },
   {
     "title": "mermaid-js/mermaid",
