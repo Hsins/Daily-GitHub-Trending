@@ -4,7 +4,7 @@
     "url": "https://github.com/jackMort/ChatGPT.nvim",
     "description": "Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.",
     "language": "Lua",
-    "star": "63"
+    "star": "38"
   },
   {
     "title": "mastodon/mastodon",
@@ -18,7 +18,7 @@
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "language": "Java",
-    "star": "603"
+    "star": "604"
   },
   {
     "title": "eryajf/chatgpt-dingtalk",
@@ -32,28 +32,28 @@
     "url": "https://github.com/google/osv-scanner",
     "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
     "language": "Go",
-    "star": "322"
+    "star": "435"
   },
   {
     "title": "krahets/hello-algo",
     "url": "https://github.com/krahets/hello-algo",
     "description": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
     "language": "Java",
-    "star": "135"
+    "star": "109"
   },
   {
     "title": "hmartiro/riffusion-app",
     "url": "https://github.com/hmartiro/riffusion-app",
     "description": "Stable diffusion for real-time music generation",
     "language": "TypeScript",
-    "star": "296"
+    "star": "339"
   },
   {
     "title": "ThePrimeagen/init.lua",
     "url": "https://github.com/ThePrimeagen/init.lua",
     "description": "",
     "language": "Lua",
-    "star": "61"
+    "star": "62"
   },
   {
     "title": "hmartiro/riffusion-inference",
@@ -67,14 +67,14 @@
     "url": "https://github.com/carson-katri/dream-textures",
     "description": "Stable Diffusion built-in to the Blender shader editor",
     "language": "Python",
-    "star": "291"
+    "star": "292"
   },
   {
     "title": "zas023/JdBuyer",
     "url": "https://github.com/zas023/JdBuyer",
     "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
     "language": "Python",
-    "star": "69"
+    "star": "117"
   },
   {
     "title": "openai/openai-cookbook",
@@ -95,35 +95,35 @@
     "url": "https://github.com/musescore/MuseScore",
     "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
     "language": "C++",
-    "star": "91"
+    "star": "132"
   },
   {
     "title": "atom/atom",
     "url": "https://github.com/atom/atom",
     "description": "The hackable text editor",
     "language": "JavaScript",
-    "star": "78"
+    "star": "69"
   },
   {
     "title": "mui/material-ui",
     "url": "https://github.com/mui/material-ui",
     "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
     "language": "JavaScript",
-    "star": "32"
+    "star": "106"
   },
   {
     "title": "m1guelpf/plz-cli",
     "url": "https://github.com/m1guelpf/plz-cli",
     "description": "Copilot for your terminal",
     "language": "Rust",
-    "star": "170"
+    "star": "165"
   },
   {
     "title": "Jxck-S/plane-notify",
     "url": "https://github.com/Jxck-S/plane-notify",
     "description": "Notify If a selected plane has taken off or landed using OpenSky or ADS-B Exchange data. Compares older data to newer data to determine if a landing or takeoff has occurred. As well as nav modes, emergency squawk and resolution advisory notifications. Can output to Twitter, Discord, and Pushbullet",
     "language": "Python",
-    "star": "169"
+    "star": "151"
   },
   {
     "title": "andyzys/jd_seckill",
@@ -137,7 +137,7 @@
     "url": "https://github.com/jart/blink",
     "description": "tiniest x86-64-linux emulator",
     "language": "C",
-    "star": "211"
+    "star": "86"
   },
   {
     "title": "chartjs/Chart.js",
@@ -151,21 +151,21 @@
     "url": "https://github.com/mxrch/GHunt",
     "description": "🕵️‍♂️ Offensive Google framework.",
     "language": "Python",
-    "star": "71"
+    "star": "68"
   },
   {
     "title": "nostr-protocol/nostr",
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "159"
+    "star": "231"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "145"
+    "star": "85"
   },
   {
     "title": "mermaid-js/mermaid",
