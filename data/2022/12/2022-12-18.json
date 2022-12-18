@@ -4,7 +4,7 @@
     "url": "https://github.com/carson-katri/dream-textures",
     "description": "Stable Diffusion built-in to the Blender shader editor",
     "language": "Python",
-    "star": "271"
+    "star": "174"
   },
   {
     "title": "ThePrimeagen/init.lua",
@@ -18,28 +18,28 @@
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "language": "Java",
-    "star": "318"
+    "star": "278"
   },
   {
     "title": "cmdr2/stable-diffusion-ui",
     "url": "https://github.com/cmdr2/stable-diffusion-ui",
     "description": "Easiest 1-click way to install and use Stable Diffusion on your own computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated image.",
     "language": "JavaScript",
-    "star": "14"
+    "star": "31"
   },
   {
     "title": "sveltejs/kit",
     "url": "https://github.com/sveltejs/kit",
     "description": "web development, streamlined",
     "language": "JavaScript",
-    "star": "57"
+    "star": "36"
   },
   {
     "title": "nvim-lua/kickstart.nvim",
     "url": "https://github.com/nvim-lua/kickstart.nvim",
     "description": "A launch point for your personal nvim configuration",
     "language": "Lua",
-    "star": "276"
+    "star": "203"
   },
   {
     "title": "google/forma",
@@ -53,91 +53,91 @@
     "url": "https://github.com/jackMort/ChatGPT.nvim",
     "description": "Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.",
     "language": "Lua",
-    "star": "55"
+    "star": "51"
   },
   {
     "title": "norvig/pytudes",
     "url": "https://github.com/norvig/pytudes",
     "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
     "language": "Jupyter Notebook",
-    "star": "57"
+    "star": "55"
   },
   {
     "title": "musescore/MuseScore",
     "url": "https://github.com/musescore/MuseScore",
     "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
     "language": "C++",
-    "star": "131"
+    "star": "136"
   },
   {
     "title": "andyzys/jd_seckill",
     "url": "https://github.com/andyzys/jd_seckill",
     "description": "京东秒杀商品抢购",
     "language": "Python",
-    "star": "19"
+    "star": "17"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "101"
+    "star": "123"
   },
   {
     "title": "zas023/JdBuyer",
     "url": "https://github.com/zas023/JdBuyer",
     "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
     "language": "Python",
-    "star": "137"
+    "star": "132"
   },
   {
     "title": "vishalxl/nostr_console",
     "url": "https://github.com/vishalxl/nostr_console",
     "description": "Nostr console is an open-source twitter-like social network, direct chat app and group chat all bundled into one program. Built on the decentralized Nostr protocol.",
     "language": "Dart",
-    "star": "10"
+    "star": "6"
   },
   {
     "title": "davidfowl/TodoApi",
     "url": "https://github.com/davidfowl/TodoApi",
     "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
     "language": "C#",
-    "star": "31"
+    "star": "26"
   },
   {
     "title": "williamboman/mason.nvim",
     "url": "https://github.com/williamboman/mason.nvim",
     "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
     "language": "Lua",
-    "star": "32"
+    "star": "29"
   },
   {
     "title": "hmartiro/riffusion-app",
     "url": "https://github.com/hmartiro/riffusion-app",
     "description": "Stable diffusion for real-time music generation",
     "language": "TypeScript",
-    "star": "186"
+    "star": "205"
   },
   {
     "title": "neovim/neovim",
     "url": "https://github.com/neovim/neovim",
     "description": "Vim-fork focused on extensibility and usability",
     "language": "Vim Script",
-    "star": "37"
+    "star": "40"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "40"
+    "star": "45"
   },
   {
     "title": "nostr-protocol/nostr",
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "187"
+    "star": "232"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
@@ -151,27 +151,27 @@
     "url": "https://github.com/m1guelpf/plz-cli",
     "description": "Copilot for your terminal",
     "language": "Rust",
-    "star": "101"
+    "star": "77"
   },
   {
     "title": "CorwinDev/Discord-Bot",
     "url": "https://github.com/CorwinDev/Discord-Bot",
     "description": "Discord Bot with over 400 commands and made for large servers",
     "language": "JavaScript",
-    "star": "13"
+    "star": "11"
   },
   {
     "title": "xiaoxian521/vue-pure-admin",
     "url": "https://github.com/xiaoxian521/vue-pure-admin",
     "description": "🔥 ✨✨ ✨ Vue3.0+TypeScript+Vite2.0+Element-Plus编写的一套后台管理系统（兼容移动端）",
     "language": "Vue",
-    "star": "87"
+    "star": "105"
   },
   {
     "title": "wbthomason/packer.nvim",
     "url": "https://github.com/wbthomason/packer.nvim",
     "description": "A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",
     "language": "Lua",
-    "star": "22"
+    "star": "23"
   }
 ]
