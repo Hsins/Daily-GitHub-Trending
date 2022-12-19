@@ -1,0 +1,177 @@
+[
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "description": "A launch point for your personal nvim configuration",
+    "language": "Lua",
+    "star": "220"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "description": "Your self-hosted, globally interconnected microblogging community",
+    "language": "Ruby",
+    "star": "152"
+  },
+  {
+    "title": "jackMort/ChatGPT.nvim",
+    "url": "https://github.com/jackMort/ChatGPT.nvim",
+    "description": "Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.",
+    "language": "Lua",
+    "star": "110"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "description": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书",
+    "language": "Java",
+    "star": "508"
+  },
+  {
+    "title": "musescore/MuseScore",
+    "url": "https://github.com/musescore/MuseScore",
+    "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+    "language": "C++",
+    "star": "137"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "description": "Stable Diffusion built-in to the Blender shader editor",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "ThePrimeagen/init.lua",
+    "url": "https://github.com/ThePrimeagen/init.lua",
+    "description": "",
+    "language": "Lua",
+    "star": "71"
+  },
+  {
+    "title": "jassics/security-study-plan",
+    "url": "https://github.com/jassics/security-study-plan",
+    "description": "Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...",
+    "language": "none",
+    "star": "408"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "language": "Python",
+    "star": "144"
+  },
+  {
+    "title": "ax/apk.sh",
+    "url": "https://github.com/ax/apk.sh",
+    "description": "apk.sh makes reverse engineering Android apps easier, automating some repetitive tasks like pulling, decoding, rebuilding and patching an APK.",
+    "language": "Shell",
+    "star": "387"
+  },
+  {
+    "title": "DarkFlippers/unleashed-firmware",
+    "url": "https://github.com/DarkFlippers/unleashed-firmware",
+    "description": "Flipper Zero Unleashed Firmware",
+    "language": "C",
+    "star": "43"
+  },
+  {
+    "title": "davidfowl/TodoApi",
+    "url": "https://github.com/davidfowl/TodoApi",
+    "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
+    "language": "C#",
+    "star": "37"
+  },
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "description": "An open-source, self-hosted memo hub with knowledge management and socialization.",
+    "language": "TypeScript",
+    "star": "114"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "description": "Integrate Magisk root and Google Apps into WSA (Windows Subsystem for Android)",
+    "language": "Shell",
+    "star": "19"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "54"
+  },
+  {
+    "title": "libsdl-org/SDL",
+    "url": "https://github.com/libsdl-org/SDL",
+    "description": "Simple Directmedia Layer",
+    "language": "C",
+    "star": "14"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "description": "Experience macOS just like before",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "language": "Batchfile",
+    "star": "39"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "description": "Lightweight full-featured WhatsApp Web + Multi-Device API",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "wbthomason/packer.nvim",
+    "url": "https://github.com/wbthomason/packer.nvim",
+    "description": "A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",
+    "language": "Lua",
+    "star": "37"
+  },
+  {
+    "title": "mastodon/mastodon-ios",
+    "url": "https://github.com/mastodon/mastodon-ios",
+    "description": "Official iOS app for Mastodon",
+    "language": "Swift",
+    "star": "36"
+  },
+  {
+    "title": "LizardByte/Sunshine",
+    "url": "https://github.com/LizardByte/Sunshine",
+    "description": "Sunshine is a Gamestream host for Moonlight.",
+    "language": "C++",
+    "star": "123"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr",
+    "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
+    "language": "none",
+    "star": "377"
+  },
+  {
+    "title": "williamboman/mason.nvim",
+    "url": "https://github.com/williamboman/mason.nvim",
+    "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
+    "language": "Lua",
+    "star": "37"
+  }
+]
