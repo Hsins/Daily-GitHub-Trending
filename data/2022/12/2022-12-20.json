@@ -4,42 +4,42 @@
     "url": "https://github.com/nvim-lua/kickstart.nvim",
     "description": "A launch point for your personal nvim configuration",
     "language": "Lua",
-    "star": "227"
+    "star": "220"
   },
   {
     "title": "davidfowl/TodoApi",
     "url": "https://github.com/davidfowl/TodoApi",
     "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
     "language": "C#",
-    "star": "39"
+    "star": "47"
   },
   {
     "title": "sundowndev/phoneinfoga",
     "url": "https://github.com/sundowndev/phoneinfoga",
     "description": "Information gathering framework for phone numbers",
     "language": "Go",
-    "star": "38"
+    "star": "51"
   },
   {
     "title": "jassics/security-study-plan",
     "url": "https://github.com/jassics/security-study-plan",
     "description": "Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...",
     "language": "none",
-    "star": "357"
+    "star": "355"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "173"
+    "star": "169"
   },
   {
     "title": "zas023/JdBuyer",
     "url": "https://github.com/zas023/JdBuyer",
     "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
     "language": "Python",
-    "star": "313"
+    "star": "376"
   },
   {
     "title": "gothinkster/realworld",
@@ -53,14 +53,14 @@
     "url": "https://github.com/xiaoxian521/vue-pure-admin",
     "description": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
     "language": "Vue",
-    "star": "109"
+    "star": "144"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "213"
+    "star": "239"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -102,7 +102,7 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
     "language": "TypeScript",
-    "star": "130"
+    "star": "135"
   },
   {
     "title": "komodorio/helm-dashboard",
@@ -116,7 +116,7 @@
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "357"
+    "star": "370"
   },
   {
     "title": "public-apis/public-apis",
@@ -130,7 +130,7 @@
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "40"
+    "star": "32"
   },
   {
     "title": "sindresorhus/awesome",
@@ -151,7 +151,7 @@
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "language": "Java",
-    "star": "378"
+    "star": "222"
   },
   {
     "title": "abpframework/abp",
@@ -172,6 +172,6 @@
     "url": "https://github.com/musescore/MuseScore",
     "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
     "language": "C++",
-    "star": "141"
+    "star": "159"
   }
 ]
