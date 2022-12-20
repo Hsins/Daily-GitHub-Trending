@@ -4,28 +4,28 @@
     "url": "https://github.com/nvim-lua/kickstart.nvim",
     "description": "A launch point for your personal nvim configuration",
     "language": "Lua",
-    "star": "227"
+    "star": "223"
   },
   {
     "title": "davidfowl/TodoApi",
     "url": "https://github.com/davidfowl/TodoApi",
     "description": "Todo application with ASP.NET Core Blazor WASM, Minimal APIs and Authentication",
     "language": "C#",
-    "star": "39"
+    "star": "40"
   },
   {
     "title": "sundowndev/phoneinfoga",
     "url": "https://github.com/sundowndev/phoneinfoga",
     "description": "Information gathering framework for phone numbers",
     "language": "Go",
-    "star": "38"
+    "star": "49"
   },
   {
     "title": "jassics/security-study-plan",
     "url": "https://github.com/jassics/security-study-plan",
     "description": "Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...",
     "language": "none",
-    "star": "357"
+    "star": "361"
   },
   {
     "title": "practical-tutorials/project-based-learning",
@@ -39,28 +39,28 @@
     "url": "https://github.com/zas023/JdBuyer",
     "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
     "language": "Python",
-    "star": "313"
+    "star": "344"
   },
   {
     "title": "gothinkster/realworld",
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "TypeScript",
-    "star": "42"
+    "star": "53"
   },
   {
     "title": "xiaoxian521/vue-pure-admin",
     "url": "https://github.com/xiaoxian521/vue-pure-admin",
     "description": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
     "language": "Vue",
-    "star": "109"
+    "star": "125"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "213"
+    "star": "203"
   },
   {
     "title": "jwasham/coding-interview-university",
@@ -81,7 +81,7 @@
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "44"
+    "star": "75"
   },
   {
     "title": "yangshun/tech-interview-handbook",
@@ -95,7 +95,7 @@
     "url": "https://github.com/ranaroussi/yfinance",
     "description": "Download market data from Yahoo! Finance's API",
     "language": "Python",
-    "star": "10"
+    "star": "15"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
@@ -116,7 +116,7 @@
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "357"
+    "star": "394"
   },
   {
     "title": "public-apis/public-apis",
@@ -130,21 +130,21 @@
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "40"
+    "star": "32"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "173"
+    "star": "172"
   },
   {
     "title": "zsyOAOA/DifFace",
     "url": "https://github.com/zsyOAOA/DifFace",
     "description": "DifFace: Blind Face Restoration with Diffused Error Contraction (PyTorch)",
     "language": "Python",
-    "star": "47"
+    "star": "26"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
@@ -172,6 +172,6 @@
     "url": "https://github.com/musescore/MuseScore",
     "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
     "language": "C++",
-    "star": "141"
+    "star": "138"
   }
 ]
