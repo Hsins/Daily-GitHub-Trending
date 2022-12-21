@@ -4,7 +4,7 @@
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "159"
+    "star": "106"
   },
   {
     "title": "krahets/hello-algo",
@@ -18,21 +18,21 @@
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Python",
-    "star": "625"
+    "star": "379"
   },
   {
     "title": "nvim-lua/kickstart.nvim",
     "url": "https://github.com/nvim-lua/kickstart.nvim",
     "description": "A launch point for your personal nvim configuration",
     "language": "Lua",
-    "star": "260"
+    "star": "265"
   },
   {
     "title": "score-spec/spec",
     "url": "https://github.com/score-spec/spec",
     "description": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
     "language": "none",
-    "star": "381"
+    "star": "276"
   },
   {
     "title": "adobe-research/custom-diffusion",
@@ -46,7 +46,7 @@
     "url": "https://github.com/jassics/security-study-plan",
     "description": "Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...",
     "language": "none",
-    "star": "274"
+    "star": "277"
   },
   {
     "title": "terrastruct/d2",
@@ -60,14 +60,14 @@
     "url": "https://github.com/facebook/zstd",
     "description": "Zstandard - Fast real-time compression algorithm",
     "language": "C",
-    "star": "182"
+    "star": "184"
   },
   {
     "title": "sczhou/CodeFormer",
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "15"
+    "star": "22"
   },
   {
     "title": "bazelbuild/bazel",
@@ -81,7 +81,7 @@
     "url": "https://github.com/sundowndev/phoneinfoga",
     "description": "Information gathering framework for phone numbers",
     "language": "Go",
-    "star": "42"
+    "star": "107"
   },
   {
     "title": "project-chip/connectedhomeip",
@@ -95,7 +95,7 @@
     "url": "https://github.com/xiaoxian521/vue-pure-admin",
     "description": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
     "language": "Vue",
-    "star": "110"
+    "star": "120"
   },
   {
     "title": "zas023/JdBuyer",
@@ -109,7 +109,7 @@
     "url": "https://github.com/acantril/learn-cantrill-io-labs",
     "description": "Standard and Advanced Demos for learn.cantrill.io courses",
     "language": "Python",
-    "star": "21"
+    "star": "19"
   },
   {
     "title": "visenger/awesome-mlops",
@@ -123,21 +123,21 @@
     "url": "https://github.com/ranaroussi/yfinance",
     "description": "Download market data from Yahoo! Finance's API",
     "language": "Python",
-    "star": "39"
+    "star": "22"
   },
   {
     "title": "THUDM/CodeGeeX",
     "url": "https://github.com/THUDM/CodeGeeX",
     "description": "CodeGeeX: An Open Multilingual Code Generation Model",
     "language": "Python",
-    "star": "80"
+    "star": "81"
   },
   {
     "title": "H4de5-7/powershell-obfuscation",
     "url": "https://github.com/H4de5-7/powershell-obfuscation",
     "description": "powershell免杀混淆器，简单有效，VT全过。A simple and effective powershell obfuscaiton tool bypass Anti-Virus",
     "language": "PowerShell",
-    "star": "77"
+    "star": "73"
   },
   {
     "title": "hashicorp/vault",
@@ -172,6 +172,6 @@
     "url": "https://github.com/answerdev/answer",
     "description": "An open-source knowledge-based community software. You can use it quickly to build Q&A community for your products, customers, teams, and more.",
     "language": "Go",
-    "star": "56"
+    "star": "58"
   }
 ]
