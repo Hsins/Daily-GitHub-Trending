@@ -1,0 +1,177 @@
+[
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "description": "Point cloud diffusion for 3D model synthesis",
+    "language": "Python",
+    "star": "787"
+  },
+  {
+    "title": "0xmaximus/Galaxy-Bugbounty-Checklist",
+    "url": "https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist",
+    "description": "Tips and Tutorials for Bug Bounty and also Penetration Tests.",
+    "language": "none",
+    "star": "124"
+  },
+  {
+    "title": "jassics/security-study-plan",
+    "url": "https://github.com/jassics/security-study-plan",
+    "description": "Complete Practical Study Plan to become a successful cybersecurity engineer based on roles like Pentest, AppSec, Cloud Security, DevSecOps and so on...",
+    "language": "none",
+    "star": "452"
+  },
+  {
+    "title": "illacloud/illa-builder",
+    "url": "https://github.com/illacloud/illa-builder",
+    "description": "An open-source low-code Platform for Developers.",
+    "language": "TypeScript",
+    "star": "198"
+  },
+  {
+    "title": "score-spec/spec",
+    "url": "https://github.com/score-spec/spec",
+    "description": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
+    "language": "none",
+    "star": "472"
+  },
+  {
+    "title": "folke/lazy.nvim",
+    "url": "https://github.com/folke/lazy.nvim",
+    "description": "💤 A modern plugin manager for Neovim",
+    "language": "Lua",
+    "star": "141"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Python",
+    "star": "429"
+  },
+  {
+    "title": "TanStack/router",
+    "url": "https://github.com/TanStack/router",
+    "description": "🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular",
+    "language": "TypeScript",
+    "star": "24"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "TypeScript",
+    "star": "55"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "description": "🔥 ✨✨ ✨ Vue3+Vite4+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+    "language": "Vue",
+    "star": "192"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "description": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "language": "Python",
+    "star": "89"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "38"
+  },
+  {
+    "title": "melonjs/melonJS",
+    "url": "https://github.com/melonjs/melonJS",
+    "description": "a fresh & lightweight javascript game engine",
+    "language": "JavaScript",
+    "star": "132"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "BlackWatch0/JDspyder",
+    "url": "https://github.com/BlackWatch0/JDspyder",
+    "description": "京东预约&抢购脚本，可以自定义商品链接",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "Tikam02/DevOps-Guide",
+    "url": "https://github.com/Tikam02/DevOps-Guide",
+    "description": "DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
+    "language": "HTML",
+    "star": "38"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "language": "Go",
+    "star": "32"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "description": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "description": "AWS SDK for the Go programming language.",
+    "language": "Go",
+    "star": "5"
+  },
+  {
+    "title": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "description": "NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.",
+    "language": "TypeScript",
+    "star": "5"
+  },
+  {
+    "title": "yaroslav-n/tweetGPT",
+    "url": "https://github.com/yaroslav-n/tweetGPT",
+    "description": "TweetGPT is a chrome extension that generates tweets and replies using chatGPT",
+    "language": "JavaScript",
+    "star": "46"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-js",
+    "url": "https://github.com/open-telemetry/opentelemetry-js",
+    "description": "OpenTelemetry JavaScript Client",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "alpkeskin/mosint",
+    "url": "https://github.com/alpkeskin/mosint",
+    "description": "An automated e-mail OSINT tool",
+    "language": "Go",
+    "star": "49"
+  },
+  {
+    "title": "certsocietegenerale/IRM",
+    "url": "https://github.com/certsocietegenerale/IRM",
+    "description": "Incident Response Methodologies 2022",
+    "language": "none",
+    "star": "12"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "description": "Reactive Programming in Swift",
+    "language": "Swift",
+    "star": "4"
+  }
+]
