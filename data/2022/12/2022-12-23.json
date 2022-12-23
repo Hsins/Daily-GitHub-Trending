@@ -1,0 +1,177 @@
+[
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "description": "Point cloud diffusion for 3D model synthesis",
+    "language": "Python",
+    "star": "717"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "description": "Open Source realtime backend in 1 file",
+    "language": "Go",
+    "star": "254"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "description": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion",
+    "language": "Python",
+    "star": "147"
+  },
+  {
+    "title": "mprimi/portable-secret",
+    "url": "https://github.com/mprimi/portable-secret",
+    "description": "Better privacy without special software",
+    "language": "HTML",
+    "star": "240"
+  },
+  {
+    "title": "CVCUDA/CV-CUDA",
+    "url": "https://github.com/CVCUDA/CV-CUDA",
+    "description": "CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.",
+    "language": "C++",
+    "star": "130"
+  },
+  {
+    "title": "YanG-1989/m3u",
+    "url": "https://github.com/YanG-1989/m3u",
+    "description": "",
+    "language": "none",
+    "star": "85"
+  },
+  {
+    "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
+    "language": "JavaScript",
+    "star": "71"
+  },
+  {
+    "title": "folke/lazy.nvim",
+    "url": "https://github.com/folke/lazy.nvim",
+    "description": "💤 A modern plugin manager for Neovim",
+    "language": "Lua",
+    "star": "123"
+  },
+  {
+    "title": "DataDog/go-profiler-notes",
+    "url": "https://github.com/DataDog/go-profiler-notes",
+    "description": "felixge's notes on the various go profiling methods that are available.",
+    "language": "Jupyter Notebook",
+    "star": "213"
+  },
+  {
+    "title": "BlackWatch0/JDspyder",
+    "url": "https://github.com/BlackWatch0/JDspyder",
+    "description": "京东预约&抢购脚本，可以自定义商品链接",
+    "language": "Python",
+    "star": "41"
+  },
+  {
+    "title": "Tikam02/DevOps-Guide",
+    "url": "https://github.com/Tikam02/DevOps-Guide",
+    "description": "DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
+    "language": "HTML",
+    "star": "46"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "description": "🐳 Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "language": "Jinja",
+    "star": "2"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "description": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "description": "Repo for external large-scale work",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "52"
+  },
+  {
+    "title": "intel/neural-compressor",
+    "url": "https://github.com/intel/neural-compressor",
+    "description": "Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.",
+    "language": "Python",
+    "star": "8"
+  },
+  {
+    "title": "JhumanJ/OpnForm",
+    "url": "https://github.com/JhumanJ/OpnForm",
+    "description": "Simple and open-source form builder",
+    "language": "Vue",
+    "star": "148"
+  },
+  {
+    "title": "m-bain/whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "description": "WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.",
+    "language": "Python",
+    "star": "75"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Shell",
+    "star": "61"
+  },
+  {
+    "title": "go-playground/validator",
+    "url": "https://github.com/go-playground/validator",
+    "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "description": "Python desde cero",
+    "language": "Python",
+    "star": "81"
+  },
+  {
+    "title": "PhilJay/MPAndroidChart",
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "description": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+    "language": "Java",
+    "star": "4"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "description": "The source for REST API specifications for Microsoft Azure.",
+    "language": "none",
+    "star": "2"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "description": "CodeGeeX: An Open Multilingual Code Generation Model",
+    "language": "Python",
+    "star": "129"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "202"
+  }
+]
