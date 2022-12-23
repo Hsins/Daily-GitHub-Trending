@@ -4,14 +4,14 @@
     "url": "https://github.com/openai/point-e",
     "description": "Point cloud diffusion for 3D model synthesis",
     "language": "Python",
-    "star": "781"
+    "star": "717"
   },
   {
     "title": "pocketbase/pocketbase",
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "319"
+    "star": "254"
   },
   {
     "title": "adobe-research/custom-diffusion",
@@ -39,7 +39,7 @@
     "url": "https://github.com/YanG-1989/m3u",
     "description": "",
     "language": "none",
-    "star": "225"
+    "star": "85"
   },
   {
     "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
@@ -53,7 +53,7 @@
     "url": "https://github.com/folke/lazy.nvim",
     "description": "💤 A modern plugin manager for Neovim",
     "language": "Lua",
-    "star": "137"
+    "star": "123"
   },
   {
     "title": "DataDog/go-profiler-notes",
@@ -74,7 +74,7 @@
     "url": "https://github.com/Tikam02/DevOps-Guide",
     "description": "DevOps Guide - Development to Production all configurations with basic notes to debug efficiently.",
     "language": "HTML",
-    "star": "43"
+    "star": "46"
   },
   {
     "title": "spantaleev/matrix-docker-ansible-deploy",
@@ -88,7 +88,7 @@
     "url": "https://github.com/prowler-cloud/prowler",
     "description": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
     "language": "Python",
-    "star": "18"
+    "star": "17"
   },
   {
     "title": "facebookresearch/metaseq",
@@ -102,7 +102,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "59"
+    "star": "52"
   },
   {
     "title": "intel/neural-compressor",
@@ -116,7 +116,7 @@
     "url": "https://github.com/JhumanJ/OpnForm",
     "description": "Simple and open-source form builder",
     "language": "Vue",
-    "star": "187"
+    "star": "148"
   },
   {
     "title": "m-bain/whisperX",
@@ -130,7 +130,7 @@
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "39"
+    "star": "61"
   },
   {
     "title": "go-playground/validator",
@@ -144,7 +144,7 @@
     "url": "https://github.com/mouredev/Hello-Python",
     "description": "Python desde cero",
     "language": "Python",
-    "star": "61"
+    "star": "81"
   },
   {
     "title": "PhilJay/MPAndroidChart",
@@ -165,7 +165,7 @@
     "url": "https://github.com/THUDM/CodeGeeX",
     "description": "CodeGeeX: An Open Multilingual Code Generation Model",
     "language": "Python",
-    "star": "117"
+    "star": "129"
   },
   {
     "title": "public-apis/public-apis",
