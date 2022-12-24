@@ -4,14 +4,14 @@
     "url": "https://github.com/google/comprehensive-rust",
     "description": "",
     "language": "Rust",
-    "star": "313"
+    "star": "303"
   },
   {
     "title": "folke/lazy.nvim",
     "url": "https://github.com/folke/lazy.nvim",
     "description": "💤 A modern plugin manager for Neovim",
     "language": "Lua",
-    "star": "107"
+    "star": "116"
   },
   {
     "title": "rails/docked",
@@ -25,42 +25,42 @@
     "url": "https://github.com/illacloud/illa-builder",
     "description": "An open-source low-code Platform for Developers.",
     "language": "TypeScript",
-    "star": "308"
+    "star": "147"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "6"
+    "star": "4"
   },
   {
     "title": "TapXWorld/Math",
     "url": "https://github.com/TapXWorld/Math",
     "description": "人教版小学到大学数学",
     "language": "none",
-    "star": "142"
+    "star": "64"
   },
   {
     "title": "CVCUDA/CV-CUDA",
     "url": "https://github.com/CVCUDA/CV-CUDA",
     "description": "CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.",
     "language": "C++",
-    "star": "128"
+    "star": "127"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "88"
+    "star": "89"
   },
   {
     "title": "mouredev/Hello-Python",
     "url": "https://github.com/mouredev/Hello-Python",
     "description": "Python desde cero",
     "language": "Python",
-    "star": "211"
+    "star": "222"
   },
   {
     "title": "kovidgoyal/kitty",
@@ -74,14 +74,14 @@
     "url": "https://github.com/MichaelCade/90DaysOfDevOps",
     "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
     "language": "Shell",
-    "star": "89"
+    "star": "90"
   },
   {
     "title": "lucidrains/PaLM-rlhf-pytorch",
     "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
     "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
     "language": "Python",
-    "star": "55"
+    "star": "60"
   },
   {
     "title": "microsoft/X-Decoder",
@@ -109,7 +109,7 @@
     "url": "https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist",
     "description": "Tips and Tutorials for Bug Bounty and also Penetration Tests.",
     "language": "none",
-    "star": "55"
+    "star": "54"
   },
   {
     "title": "huggingface/diffusion-models-class",
@@ -137,28 +137,28 @@
     "url": "https://github.com/golang/go",
     "description": "The Go programming language",
     "language": "Go",
-    "star": "55"
+    "star": "59"
   },
   {
     "title": "prowler-cloud/prowler",
     "url": "https://github.com/prowler-cloud/prowler",
     "description": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
     "language": "Python",
-    "star": "85"
+    "star": "43"
   },
   {
     "title": "openai/point-e",
     "url": "https://github.com/openai/point-e",
     "description": "Point cloud diffusion for 3D model synthesis",
     "language": "Python",
-    "star": "303"
+    "star": "291"
   },
   {
     "title": "facebookresearch/metaseq",
     "url": "https://github.com/facebookresearch/metaseq",
     "description": "Repo for external large-scale work",
     "language": "Python",
-    "star": "93"
+    "star": "125"
   },
   {
     "title": "adobe-research/custom-diffusion",
