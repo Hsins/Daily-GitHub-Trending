@@ -1,0 +1,177 @@
+[
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "description": "",
+    "language": "Rust",
+    "star": "313"
+  },
+  {
+    "title": "folke/lazy.nvim",
+    "url": "https://github.com/folke/lazy.nvim",
+    "description": "💤 A modern plugin manager for Neovim",
+    "language": "Lua",
+    "star": "107"
+  },
+  {
+    "title": "rails/docked",
+    "url": "https://github.com/rails/docked",
+    "description": "Running Rails from Docker for easy start to development",
+    "language": "Dockerfile",
+    "star": "68"
+  },
+  {
+    "title": "illacloud/illa-builder",
+    "url": "https://github.com/illacloud/illa-builder",
+    "description": "An open-source low-code Platform for Developers.",
+    "language": "TypeScript",
+    "star": "308"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+    "language": "C#",
+    "star": "6"
+  },
+  {
+    "title": "TapXWorld/Math",
+    "url": "https://github.com/TapXWorld/Math",
+    "description": "人教版小学到大学数学",
+    "language": "none",
+    "star": "142"
+  },
+  {
+    "title": "CVCUDA/CV-CUDA",
+    "url": "https://github.com/CVCUDA/CV-CUDA",
+    "description": "CV-CUDA™ is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.",
+    "language": "C++",
+    "star": "128"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "88"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "description": "Python desde cero",
+    "language": "Python",
+    "star": "211"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "description": "Cross-platform, fast, feature-rich, GPU based terminal",
+    "language": "Python",
+    "star": "54"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "description": "This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.",
+    "language": "Shell",
+    "star": "89"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "language": "Python",
+    "star": "55"
+  },
+  {
+    "title": "microsoft/X-Decoder",
+    "url": "https://github.com/microsoft/X-Decoder",
+    "description": "Official Implementation of X-Decoder for generalized decoding for pixel, image and language",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "star": "57"
+  },
+  {
+    "title": "certsocietegenerale/IRM",
+    "url": "https://github.com/certsocietegenerale/IRM",
+    "description": "Incident Response Methodologies 2022",
+    "language": "none",
+    "star": "34"
+  },
+  {
+    "title": "0xmaximus/Galaxy-Bugbounty-Checklist",
+    "url": "https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist",
+    "description": "Tips and Tutorials for Bug Bounty and also Penetration Tests.",
+    "language": "none",
+    "star": "55"
+  },
+  {
+    "title": "huggingface/diffusion-models-class",
+    "url": "https://github.com/huggingface/diffusion-models-class",
+    "description": "Materials for the Hugging Face Diffusion Models Course",
+    "language": "Jupyter Notebook",
+    "star": "19"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "61"
+  },
+  {
+    "title": "kentcdodds/react-fundamentals",
+    "url": "https://github.com/kentcdodds/react-fundamentals",
+    "description": "Material for my React Fundamentals Workshop",
+    "language": "JavaScript",
+    "star": "5"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "language": "Go",
+    "star": "55"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "description": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "language": "Python",
+    "star": "85"
+  },
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "description": "Point cloud diffusion for 3D model synthesis",
+    "language": "Python",
+    "star": "303"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "description": "Repo for external large-scale work",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "description": "Custom Diffusion: Multi-Concept Customization of Text-to-Image Diffusion",
+    "language": "Python",
+    "star": "100"
+  },
+  {
+    "title": "recloudstream/cloudstream",
+    "url": "https://github.com/recloudstream/cloudstream",
+    "description": "Android app for streaming and downloading Movies, TV-Series and Anime.",
+    "language": "Kotlin",
+    "star": "13"
+  }
+]
