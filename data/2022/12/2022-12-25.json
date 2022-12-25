@@ -11,7 +11,7 @@
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT promt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "190"
+    "star": "194"
   },
   {
     "title": "louislam/uptime-kuma",
@@ -25,7 +25,7 @@
     "url": "https://github.com/google/comprehensive-rust",
     "description": "",
     "language": "Rust",
-    "star": "389"
+    "star": "334"
   },
   {
     "title": "obsproject/obs-studio",
@@ -53,7 +53,7 @@
     "url": "https://github.com/mouredev/Hello-Python",
     "description": "Python desde cero",
     "language": "Python",
-    "star": "108"
+    "star": "164"
   },
   {
     "title": "dreamncn/ParallelsDesktopCrack",
@@ -74,14 +74,14 @@
     "url": "https://github.com/recloudstream/cloudstream",
     "description": "Android app for streaming and downloading Movies, TV-Series and Anime.",
     "language": "Kotlin",
-    "star": "86"
+    "star": "66"
   },
   {
     "title": "flipperdevices/flipperzero-firmware",
     "url": "https://github.com/flipperdevices/flipperzero-firmware",
     "description": "Flipper Zero firmware source code",
     "language": "C",
-    "star": "22"
+    "star": "23"
   },
   {
     "title": "rust-lang/book",
@@ -95,7 +95,7 @@
     "url": "https://github.com/Immediate-Mode-UI/Nuklear",
     "description": "A single-header ANSI C immediate mode cross-platform GUI library",
     "language": "C",
-    "star": "57"
+    "star": "129"
   },
   {
     "title": "judygab/web-dev-projects",
@@ -116,7 +116,7 @@
     "url": "https://github.com/TapXWorld/Math",
     "description": "人教版小学到大学数学",
     "language": "none",
-    "star": "79"
+    "star": "80"
   },
   {
     "title": "Grasscutters/Grasscutter",
@@ -158,20 +158,20 @@
     "url": "https://github.com/TanStack/query",
     "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for TS/JS, React, Solid, Svelte and Vue.",
     "language": "TypeScript",
-    "star": "20"
+    "star": "17"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "86"
+    "star": "165"
   },
   {
     "title": "dani-garcia/vaultwarden",
     "url": "https://github.com/dani-garcia/vaultwarden",
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
     "language": "Rust",
-    "star": "65"
+    "star": "68"
   }
 ]
