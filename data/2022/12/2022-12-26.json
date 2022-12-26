@@ -1,0 +1,177 @@
+[
+  {
+    "title": "skyzh/mini-lsm",
+    "url": "https://github.com/skyzh/mini-lsm",
+    "description": "A tutorial of building an LSM-Tree storage engine in a week! (WIP)",
+    "language": "Rust",
+    "star": "117"
+  },
+  {
+    "title": "adrianhajdin/project_openai_codex",
+    "url": "https://github.com/adrianhajdin/project_openai_codex",
+    "description": "",
+    "language": "JavaScript",
+    "star": "48"
+  },
+  {
+    "title": "louisfb01/best_AI_papers_2022",
+    "url": "https://github.com/louisfb01/best_AI_papers_2022",
+    "description": "A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.",
+    "language": "none",
+    "star": "302"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+    "language": "Jupyter Notebook",
+    "star": "146"
+  },
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "description": "",
+    "language": "Rust",
+    "star": "350"
+  },
+  {
+    "title": "khuyentran1401/Data-science",
+    "url": "https://github.com/khuyentran1401/Data-science",
+    "description": "Collection of useful data science topics along with code and articles",
+    "language": "Jupyter Notebook",
+    "star": "60"
+  },
+  {
+    "title": "dreamncn/ParallelsDesktopCrack",
+    "url": "https://github.com/dreamncn/ParallelsDesktopCrack",
+    "description": "",
+    "language": "Shell",
+    "star": "31"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "73"
+  },
+  {
+    "title": "ihhub/fheroes2",
+    "url": "https://github.com/ihhub/fheroes2",
+    "description": "fheroes2 is a recreation of Heroes of Might and Magic II game engine",
+    "language": "C++",
+    "star": "7"
+  },
+  {
+    "title": "openai/gpt-discord-bot",
+    "url": "https://github.com/openai/gpt-discord-bot",
+    "description": "Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",
+    "language": "Python",
+    "star": "59"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "102"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "62"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "description": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+    "language": "Go",
+    "star": "18"
+  },
+  {
+    "title": "pdfcpu/pdfcpu",
+    "url": "https://github.com/pdfcpu/pdfcpu",
+    "description": "A PDF processor written in Go.",
+    "language": "Go",
+    "star": "61"
+  },
+  {
+    "title": "DIYgod/RSSHub",
+    "url": "https://github.com/DIYgod/RSSHub",
+    "description": "🍰 Everything is RSSible",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "language": "Python",
+    "star": "329"
+  },
+  {
+    "title": "TapXWorld/Math",
+    "url": "https://github.com/TapXWorld/Math",
+    "description": "人教版小学到大学数学",
+    "language": "none",
+    "star": "75"
+  },
+  {
+    "title": "Anugrahsr/Awesome-web3-Security",
+    "url": "https://github.com/Anugrahsr/Awesome-web3-Security",
+    "description": "A curated list of web3Security materials and resources For Pentesters and Bug Hunters.",
+    "language": "none",
+    "star": "38"
+  },
+  {
+    "title": "pkivolowitz/asm_book",
+    "url": "https://github.com/pkivolowitz/asm_book",
+    "description": "A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level languages.",
+    "language": "Assembly",
+    "star": "230"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "description": "Python desde cero",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "124"
+  },
+  {
+    "title": "bitwarden/server",
+    "url": "https://github.com/bitwarden/server",
+    "description": "The core infrastructure backend (API, database, Docker, etc).",
+    "language": "C#",
+    "star": "19"
+  },
+  {
+    "title": "lensterxyz/lenster",
+    "url": "https://github.com/lensterxyz/lenster",
+    "description": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
+    "language": "TypeScript",
+    "star": "367"
+  },
+  {
+    "title": "louislam/uptime-kuma",
+    "url": "https://github.com/louislam/uptime-kuma",
+    "description": "A fancy self-hosted monitoring tool",
+    "language": "JavaScript",
+    "star": "167"
+  }
+]
