@@ -11,14 +11,14 @@
     "url": "https://github.com/adrianhajdin/project_openai_codex",
     "description": "",
     "language": "JavaScript",
-    "star": "45"
+    "star": "41"
   },
   {
     "title": "louisfb01/best_AI_papers_2022",
     "url": "https://github.com/louisfb01/best_AI_papers_2022",
     "description": "A curated list of the latest breakthroughs in AI (in 2022) by release date with a clear video explanation, link to a more in-depth article, and code.",
     "language": "none",
-    "star": "309"
+    "star": "509"
   },
   {
     "title": "labmlai/annotated_deep_learning_paper_implementations",
@@ -32,28 +32,28 @@
     "url": "https://github.com/google/comprehensive-rust",
     "description": "",
     "language": "Rust",
-    "star": "305"
+    "star": "494"
   },
   {
     "title": "khuyentran1401/Data-science",
     "url": "https://github.com/khuyentran1401/Data-science",
     "description": "Collection of useful data science topics along with code and articles",
     "language": "Jupyter Notebook",
-    "star": "57"
+    "star": "59"
   },
   {
     "title": "dreamncn/ParallelsDesktopCrack",
     "url": "https://github.com/dreamncn/ParallelsDesktopCrack",
     "description": "",
     "language": "Shell",
-    "star": "15"
+    "star": "30"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "74"
+    "star": "73"
   },
   {
     "title": "ihhub/fheroes2",
@@ -67,7 +67,7 @@
     "url": "https://github.com/openai/gpt-discord-bot",
     "description": "Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.",
     "language": "Python",
-    "star": "58"
+    "star": "88"
   },
   {
     "title": "practical-tutorials/project-based-learning",
@@ -81,35 +81,35 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "63"
+    "star": "71"
   },
   {
     "title": "prowler-cloud/prowler",
     "url": "https://github.com/prowler-cloud/prowler",
     "description": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
     "language": "Python",
-    "star": "9"
+    "star": "42"
   },
   {
     "title": "XTLS/Xray-core",
     "url": "https://github.com/XTLS/Xray-core",
     "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
     "language": "Go",
-    "star": "18"
+    "star": "17"
   },
   {
     "title": "pdfcpu/pdfcpu",
     "url": "https://github.com/pdfcpu/pdfcpu",
     "description": "A PDF processor written in Go.",
     "language": "Go",
-    "star": "61"
+    "star": "65"
   },
   {
     "title": "DIYgod/RSSHub",
     "url": "https://github.com/DIYgod/RSSHub",
     "description": "🍰 Everything is RSSible",
     "language": "JavaScript",
-    "star": "17"
+    "star": "15"
   },
   {
     "title": "lucidrains/PaLM-rlhf-pytorch",
@@ -123,7 +123,7 @@
     "url": "https://github.com/TapXWorld/Math",
     "description": "人教版小学到大学数学",
     "language": "none",
-    "star": "153"
+    "star": "82"
   },
   {
     "title": "Anugrahsr/Awesome-web3-Security",
@@ -137,21 +137,21 @@
     "url": "https://github.com/pkivolowitz/asm_book",
     "description": "A book teaching assembly language programming on the ARM 64 bit ISA. Along the way, good programming practices and insights into code development are offered which apply directly to higher level languages.",
     "language": "Assembly",
-    "star": "233"
+    "star": "393"
   },
   {
     "title": "mouredev/Hello-Python",
     "url": "https://github.com/mouredev/Hello-Python",
     "description": "Python desde cero",
     "language": "Python",
-    "star": "108"
+    "star": "114"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "128"
+    "star": "117"
   },
   {
     "title": "bitwarden/server",
@@ -172,6 +172,6 @@
     "url": "https://github.com/louislam/uptime-kuma",
     "description": "A fancy self-hosted monitoring tool",
     "language": "JavaScript",
-    "star": "168"
+    "star": "188"
   }
 ]
