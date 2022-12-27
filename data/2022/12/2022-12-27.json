@@ -4,14 +4,14 @@
     "url": "https://github.com/google/comprehensive-rust",
     "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
     "language": "Rust",
-    "star": "518"
+    "star": "517"
   },
   {
     "title": "LAION-AI/Open-Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "",
     "language": "Python",
-    "star": "188"
+    "star": "158"
   },
   {
     "title": "skyzh/mini-lsm",
@@ -25,7 +25,7 @@
     "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
     "description": "Reproduce DeFi hacked incidents using Foundry.",
     "language": "Solidity",
-    "star": "102"
+    "star": "83"
   },
   {
     "title": "adrianhajdin/project_openai_codex",
@@ -39,7 +39,7 @@
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT promt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "229"
+    "star": "232"
   },
   {
     "title": "louisfb01/best_AI_papers_2022",
@@ -81,7 +81,7 @@
     "url": "https://github.com/CarperAI/trlx",
     "description": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
     "language": "Python",
-    "star": "52"
+    "star": "54"
   },
   {
     "title": "below/HelloSilicon",
@@ -95,14 +95,14 @@
     "url": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB",
     "description": "Repository for my flipper zero badUSB payloads",
     "language": "PowerShell",
-    "star": "51"
+    "star": "49"
   },
   {
     "title": "labmlai/annotated_deep_learning_paper_implementations",
     "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
     "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
     "language": "Jupyter Notebook",
-    "star": "178"
+    "star": "177"
   },
   {
     "title": "JusticeRage/Gepetto",
@@ -123,7 +123,7 @@
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "225"
+    "star": "217"
   },
   {
     "title": "RustPython/RustPython",
@@ -151,27 +151,27 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "95"
+    "star": "96"
   },
   {
     "title": "RT-Thread/rt-thread",
     "url": "https://github.com/RT-Thread/rt-thread",
     "description": "RT-Thread is an open source IoT operating system.",
     "language": "C",
-    "star": "30"
+    "star": "16"
   },
   {
     "title": "obsproject/obs-studio",
     "url": "https://github.com/obsproject/obs-studio",
     "description": "OBS Studio - Free and open source software for live streaming and screen recording",
     "language": "C",
-    "star": "28"
+    "star": "26"
   },
   {
     "title": "gto76/python-cheatsheet",
     "url": "https://github.com/gto76/python-cheatsheet",
     "description": "Comprehensive Python Cheatsheet",
     "language": "Python",
-    "star": "67"
+    "star": "64"
   }
 ]
