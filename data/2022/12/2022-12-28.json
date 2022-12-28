@@ -11,28 +11,28 @@
     "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
     "description": "Reproduce DeFi hacked incidents using Foundry.",
     "language": "Solidity",
-    "star": "86"
+    "star": "104"
   },
   {
     "title": "ChatGPT-Hackers/ChatGPT-API-server",
     "url": "https://github.com/ChatGPT-Hackers/ChatGPT-API-server",
     "description": "API server for ChatGPT",
     "language": "Go",
-    "star": "20"
+    "star": "24"
   },
   {
     "title": "lencx/ChatGPT",
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "284"
+    "star": "297"
   },
   {
     "title": "skyzh/mini-lsm",
     "url": "https://github.com/skyzh/mini-lsm",
     "description": "A tutorial of building an LSM-Tree storage engine in a week! (WIP)",
     "language": "Rust",
-    "star": "236"
+    "star": "251"
   },
   {
     "title": "mouredev/retos-programacion-2023",
@@ -60,7 +60,7 @@
     "url": "https://github.com/acheong08/ChatGPT",
     "description": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
     "language": "Python",
-    "star": "115"
+    "star": "119"
   },
   {
     "title": "HavocFramework/Havoc",
@@ -74,7 +74,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "217"
+    "star": "211"
   },
   {
     "title": "dreamncn/ParallelsDesktopCrack",
@@ -88,42 +88,42 @@
     "url": "https://github.com/novuhq/novu",
     "description": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
     "language": "TypeScript",
-    "star": "82"
+    "star": "282"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "168"
+    "star": "136"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "271"
+    "star": "260"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "103"
+    "star": "121"
   },
   {
     "title": "google/comprehensive-rust",
     "url": "https://github.com/google/comprehensive-rust",
     "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
     "language": "Rust",
-    "star": "671"
+    "star": "652"
   },
   {
     "title": "RustPython/RustPython",
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Rust",
-    "star": "54"
+    "star": "42"
   },
   {
     "title": "jlevy/the-art-of-command-line",
@@ -137,7 +137,7 @@
     "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
     "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
     "language": "Python",
-    "star": "125"
+    "star": "117"
   },
   {
     "title": "gin-gonic/gin",
@@ -172,6 +172,6 @@
     "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
     "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
     "language": "Jupyter Notebook",
-    "star": "241"
+    "star": "245"
   }
 ]
