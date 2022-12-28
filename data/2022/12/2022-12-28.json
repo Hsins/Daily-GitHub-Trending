@@ -4,21 +4,21 @@
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "",
     "language": "Python",
-    "star": "193"
+    "star": "192"
   },
   {
     "title": "SunWeb3Sec/DeFiHackLabs",
     "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
     "description": "Reproduce DeFi hacked incidents using Foundry.",
     "language": "Solidity",
-    "star": "103"
+    "star": "86"
   },
   {
     "title": "ChatGPT-Hackers/ChatGPT-API-server",
     "url": "https://github.com/ChatGPT-Hackers/ChatGPT-API-server",
     "description": "API server for ChatGPT",
     "language": "Go",
-    "star": "23"
+    "star": "20"
   },
   {
     "title": "lencx/ChatGPT",
@@ -32,7 +32,7 @@
     "url": "https://github.com/skyzh/mini-lsm",
     "description": "A tutorial of building an LSM-Tree storage engine in a week! (WIP)",
     "language": "Rust",
-    "star": "253"
+    "star": "236"
   },
   {
     "title": "mouredev/retos-programacion-2023",
@@ -60,21 +60,21 @@
     "url": "https://github.com/acheong08/ChatGPT",
     "description": "Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.",
     "language": "Python",
-    "star": "118"
+    "star": "115"
   },
   {
     "title": "HavocFramework/Havoc",
     "url": "https://github.com/HavocFramework/Havoc",
     "description": "The Havoc Framework.",
     "language": "Go",
-    "star": "38"
+    "star": "49"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "201"
+    "star": "217"
   },
   {
     "title": "dreamncn/ParallelsDesktopCrack",
@@ -88,21 +88,21 @@
     "url": "https://github.com/novuhq/novu",
     "description": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
     "language": "TypeScript",
-    "star": "282"
+    "star": "82"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "135"
+    "star": "168"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "260"
+    "star": "271"
   },
   {
     "title": "donnemartin/system-design-primer",
@@ -116,14 +116,14 @@
     "url": "https://github.com/google/comprehensive-rust",
     "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
     "language": "Rust",
-    "star": "655"
+    "star": "671"
   },
   {
     "title": "RustPython/RustPython",
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Rust",
-    "star": "41"
+    "star": "54"
   },
   {
     "title": "jlevy/the-art-of-command-line",
@@ -137,14 +137,14 @@
     "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
     "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
     "language": "Python",
-    "star": "118"
+    "star": "125"
   },
   {
     "title": "gin-gonic/gin",
     "url": "https://github.com/gin-gonic/gin",
     "description": "Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.",
     "language": "Go",
-    "star": "42"
+    "star": "41"
   },
   {
     "title": "hehonghui/awesome-english-ebooks",
@@ -158,20 +158,20 @@
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "48"
+    "star": "19"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
     "language": "TypeScript",
-    "star": "162"
+    "star": "161"
   },
   {
     "title": "labmlai/annotated_deep_learning_paper_implementations",
     "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
     "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
     "language": "Jupyter Notebook",
-    "star": "248"
+    "star": "241"
   }
 ]
