@@ -4,28 +4,28 @@
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "",
     "language": "Python",
-    "star": "307"
+    "star": "311"
   },
   {
     "title": "apple/ml-stable-diffusion",
     "url": "https://github.com/apple/ml-stable-diffusion",
     "description": "Stable Diffusion with Core ML on Apple Silicon",
     "language": "Python",
-    "star": "71"
+    "star": "51"
   },
   {
     "title": "hehonghui/awesome-english-ebooks",
     "url": "https://github.com/hehonghui/awesome-english-ebooks",
     "description": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
     "language": "CSS",
-    "star": "319"
+    "star": "278"
   },
   {
     "title": "AmruthPillai/Reactive-Resume",
     "url": "https://github.com/AmruthPillai/Reactive-Resume",
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "language": "TypeScript",
-    "star": "418"
+    "star": "359"
   },
   {
     "title": "microfeed/microfeed",
@@ -39,7 +39,7 @@
     "url": "https://github.com/excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "language": "TypeScript",
-    "star": "142"
+    "star": "149"
   },
   {
     "title": "TheOfficialFloW/HENlo",
@@ -60,21 +60,21 @@
     "url": "https://github.com/zhuowei/WDBFontOverwrite",
     "description": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
     "language": "Swift",
-    "star": "102"
+    "star": "100"
   },
   {
     "title": "novuhq/novu",
     "url": "https://github.com/novuhq/novu",
     "description": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
     "language": "TypeScript",
-    "star": "473"
+    "star": "366"
   },
   {
     "title": "timqian/chinese-independent-blogs",
     "url": "https://github.com/timqian/chinese-independent-blogs",
     "description": "中文独立博客列表",
     "language": "JavaScript",
-    "star": "120"
+    "star": "154"
   },
   {
     "title": "gabiduarte/awesome-techleads",
@@ -95,7 +95,7 @@
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "296"
+    "star": "287"
   },
   {
     "title": "facebook/folly",
@@ -109,14 +109,14 @@
     "url": "https://github.com/mouredev/retos-programacion-2023",
     "description": "Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.",
     "language": "none",
-    "star": "71"
+    "star": "69"
   },
   {
     "title": "AmazingAng/WTF-Solidity",
     "url": "https://github.com/AmazingAng/WTF-Solidity",
     "description": "我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy",
     "language": "Solidity",
-    "star": "97"
+    "star": "93"
   },
   {
     "title": "zas023/JdBuyer",
@@ -130,14 +130,14 @@
     "url": "https://github.com/ChatGPT-Hackers/ChatGPT-API-server",
     "description": "API server for ChatGPT",
     "language": "Go",
-    "star": "50"
+    "star": "62"
   },
   {
     "title": "bregman-arie/devops-resources",
     "url": "https://github.com/bregman-arie/devops-resources",
     "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
     "language": "Groovy",
-    "star": "8"
+    "star": "27"
   },
   {
     "title": "zinclabs/zinc",
@@ -151,14 +151,14 @@
     "url": "https://github.com/google/comprehensive-rust",
     "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
     "language": "Rust",
-    "star": "722"
+    "star": "709"
   },
   {
     "title": "521xueweihan/HelloGitHub",
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "54"
+    "star": "71"
   },
   {
     "title": "openai-php/laravel",
@@ -172,6 +172,6 @@
     "url": "https://github.com/malkemit/namizun",
     "description": "Asymmetric upload and download",
     "language": "Python",
-    "star": "30"
+    "star": "31"
   }
 ]
