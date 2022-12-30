@@ -1,0 +1,177 @@
+[
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "description": "",
+    "language": "Python",
+    "star": "508"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "description": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
+    "language": "CSS",
+    "star": "165"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "description": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "language": "Rust",
+    "star": "398"
+  },
+  {
+    "title": "AmruthPillai/Reactive-Resume",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "language": "TypeScript",
+    "star": "345"
+  },
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "description": "Stable Diffusion with Core ML on Apple Silicon",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "wong2/chat-gpt-google-extension",
+    "url": "https://github.com/wong2/chat-gpt-google-extension",
+    "description": "A browser extension to display ChatGPT response alongside search engine results",
+    "language": "SCSS",
+    "star": "86"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "112"
+  },
+  {
+    "title": "sw-yx/ai-notes",
+    "url": "https://github.com/sw-yx/ai-notes",
+    "description": "notes for my AI studies, writing, and product brainstorming",
+    "language": "JavaScript",
+    "star": "87"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "language": "Go",
+    "star": "73"
+  },
+  {
+    "title": "transitive-bullshit/chatgpt-api",
+    "url": "https://github.com/transitive-bullshit/chatgpt-api",
+    "description": "Node.js client for the unofficial ChatGPT API. 🔥",
+    "language": "TypeScript",
+    "star": "72"
+  },
+  {
+    "title": "Cameri/nostream",
+    "url": "https://github.com/Cameri/nostream",
+    "description": "A Nostr Relay written in TypeScript",
+    "language": "TypeScript",
+    "star": "5"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "description": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
+    "language": "TypeScript",
+    "star": "407"
+  },
+  {
+    "title": "serverless-stack/sst",
+    "url": "https://github.com/serverless-stack/sst",
+    "description": "💥 SST makes it easy to build full-stack serverless apps.",
+    "language": "TypeScript",
+    "star": "58"
+  },
+  {
+    "title": "ChatGPT-Hackers/ChatGPT-API-server",
+    "url": "https://github.com/ChatGPT-Hackers/ChatGPT-API-server",
+    "description": "API server for ChatGPT",
+    "language": "Go",
+    "star": "143"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT promt curation to use ChatGPT better.",
+    "language": "HTML",
+    "star": "375"
+  },
+  {
+    "title": "HandBrake/HandBrake",
+    "url": "https://github.com/HandBrake/HandBrake",
+    "description": "HandBrake's main development repository",
+    "language": "C",
+    "star": "45"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "language": "TypeScript",
+    "star": "154"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "description": "京东抢购自动下单助手，GUI 支持 Windows 和 macOS",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "tamagui/tamagui",
+    "url": "https://github.com/tamagui/tamagui",
+    "description": "Universal UI kit and style system for React Native + Web - with an optimizing compiler 🚄",
+    "language": "TypeScript",
+    "star": "175"
+  },
+  {
+    "title": "symfony/symfony",
+    "url": "https://github.com/symfony/symfony",
+    "description": "The Symfony PHP framework",
+    "language": "PHP",
+    "star": "3"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+    "language": "C",
+    "star": "136"
+  },
+  {
+    "title": "gbj/leptos",
+    "url": "https://github.com/gbj/leptos",
+    "description": "Build fast web applications with Rust.",
+    "language": "Rust",
+    "star": "109"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "90"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "description": "The automation tower defense RTS",
+    "language": "Java",
+    "star": "8"
+  }
+]
