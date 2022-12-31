@@ -4,28 +4,28 @@
     "url": "https://github.com/AmruthPillai/Reactive-Resume",
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "language": "TypeScript",
-    "star": "328"
+    "star": "271"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "138"
+    "star": "135"
   },
   {
     "title": "hehonghui/awesome-english-ebooks",
     "url": "https://github.com/hehonghui/awesome-english-ebooks",
     "description": "经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新",
     "language": "CSS",
-    "star": "126"
+    "star": "224"
   },
   {
     "title": "LAION-AI/Open-Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Jupyter Notebook",
-    "star": "369"
+    "star": "371"
   },
   {
     "title": "JonasGeiping/cramming",
@@ -39,21 +39,21 @@
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "130"
+    "star": "131"
   },
   {
     "title": "lucidrains/PaLM-rlhf-pytorch",
     "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
     "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
     "language": "Python",
-    "star": "208"
+    "star": "595"
   },
   {
     "title": "timqian/chinese-independent-blogs",
     "url": "https://github.com/timqian/chinese-independent-blogs",
     "description": "中文独立博客列表",
     "language": "JavaScript",
-    "star": "147"
+    "star": "101"
   },
   {
     "title": "alibaba/arthas",
@@ -67,21 +67,21 @@
     "url": "https://github.com/UberGuidoZ/Flipper",
     "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
     "language": "C",
-    "star": "139"
+    "star": "131"
   },
   {
     "title": "sw-yx/ai-notes",
     "url": "https://github.com/sw-yx/ai-notes",
     "description": "notes for my AI studies, writing, and product brainstorming",
     "language": "JavaScript",
-    "star": "108"
+    "star": "112"
   },
   {
     "title": "microfeed/microfeed",
     "url": "https://github.com/microfeed/microfeed",
     "description": "a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.",
     "language": "JavaScript",
-    "star": "187"
+    "star": "231"
   },
   {
     "title": "sczhou/CodeFormer",
@@ -95,7 +95,7 @@
     "url": "https://github.com/youshandefeiyang/IPTV",
     "description": "肥羊的4K/8K超高清IPTV直播源&&直播代码仓库",
     "language": "none",
-    "star": "64"
+    "star": "75"
   },
   {
     "title": "unocss/unocss",
@@ -109,7 +109,7 @@
     "url": "https://github.com/nextcloud/server",
     "description": "☁️ Nextcloud server, a safe home for all your data",
     "language": "PHP",
-    "star": "12"
+    "star": "37"
   },
   {
     "title": "jerryjliu/gpt_index",
@@ -130,21 +130,21 @@
     "url": "https://github.com/upscayl/upscayl",
     "description": "🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
     "language": "TypeScript",
-    "star": "192"
+    "star": "209"
   },
   {
     "title": "DovAmir/awesome-design-patterns",
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "47"
+    "star": "48"
   },
   {
     "title": "lencx/ChatGPT",
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🤖 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "305"
+    "star": "257"
   },
   {
     "title": "Atlas-OS/Atlas",
@@ -165,13 +165,13 @@
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "86"
+    "star": "43"
   },
   {
     "title": "curl/curl",
     "url": "https://github.com/curl/curl",
     "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
     "language": "C",
-    "star": "20"
+    "star": "19"
   }
 ]
