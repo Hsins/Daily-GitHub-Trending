@@ -4,7 +4,7 @@
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Jupyter Notebook",
-    "star": "419"
+    "star": "415"
   },
   {
     "title": "karpathy/nanoGPT",
@@ -18,35 +18,35 @@
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "47"
+    "star": "50"
   },
   {
     "title": "DarkFlippers/unleashed-firmware",
     "url": "https://github.com/DarkFlippers/unleashed-firmware",
     "description": "Flipper Zero Unleashed Firmware",
     "language": "C",
-    "star": "37"
+    "star": "47"
   },
   {
     "title": "ytdl-org/youtube-dl",
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "28"
+    "star": "54"
   },
   {
     "title": "google/osv-scanner",
     "url": "https://github.com/google/osv-scanner",
     "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
     "language": "Go",
-    "star": "153"
+    "star": "174"
   },
   {
     "title": "pola-rs/polars",
     "url": "https://github.com/pola-rs/polars",
     "description": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
     "language": "Rust",
-    "star": "91"
+    "star": "94"
   },
   {
     "title": "neonbjb/tortoise-tts",
@@ -60,21 +60,21 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "57"
+    "star": "77"
   },
   {
     "title": "dair-ai/Prompt-Engineering-Guide",
     "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "description": "🐙 Guide and resources for prompt engineering",
     "language": "none",
-    "star": "25"
+    "star": "40"
   },
   {
     "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
     "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
     "description": "Full reference of LinkedIn answers 2022 for skill assessments (aws-lambda, rest-api, javascript, react, git, html, jquery, mongodb, java, Go, python, machine-learning, power-point) linkedin excel test lösungen, linkedin machine learning test LinkedIn test questions and answers",
     "language": "Python",
-    "star": "51"
+    "star": "35"
   },
   {
     "title": "ocornut/imgui",
@@ -88,28 +88,28 @@
     "url": "https://github.com/AmruthPillai/Reactive-Resume",
     "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
     "language": "TypeScript",
-    "star": "205"
+    "star": "196"
   },
   {
     "title": "PRQL/prql",
     "url": "https://github.com/PRQL/prql",
     "description": "PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement",
     "language": "Rust",
-    "star": "110"
+    "star": "183"
   },
   {
     "title": "A-poc/RedTeam-Tools",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
     "language": "none",
-    "star": "72"
+    "star": "137"
   },
   {
     "title": "jerryjliu/gpt_index",
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "An index created by GPT to organize external information and answer queries!",
     "language": "Python",
-    "star": "52"
+    "star": "41"
   },
   {
     "title": "imDazui/Tvlist-awesome-m3u-m3u8",
@@ -123,14 +123,14 @@
     "url": "https://github.com/aurae-runtime/aurae",
     "description": "Distributed systems runtime daemon written in Rust.",
     "language": "Rust",
-    "star": "24"
+    "star": "25"
   },
   {
     "title": "zlib-searcher/zlib-searcher",
     "url": "https://github.com/zlib-searcher/zlib-searcher",
     "description": "search zlib/libgen index to get ipfs_cid.",
     "language": "TypeScript",
-    "star": "214"
+    "star": "190"
   },
   {
     "title": "BrunoLevy/learn-fpga",
@@ -144,7 +144,7 @@
     "url": "https://github.com/alist-org/alist",
     "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
     "language": "Go",
-    "star": "85"
+    "star": "112"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
@@ -158,20 +158,20 @@
     "url": "https://github.com/Atlas-OS/Atlas",
     "description": "🚀 An open-source modification of Windows 10, designed to optimize performance, and latency.",
     "language": "Batchfile",
-    "star": "195"
+    "star": "218"
   },
   {
     "title": "SheerSt/pokewilds",
     "url": "https://github.com/SheerSt/pokewilds",
     "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
     "language": "Assembly",
-    "star": "26"
+    "star": "35"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "82"
+    "star": "66"
   }
 ]
