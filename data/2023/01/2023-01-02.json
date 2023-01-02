@@ -4,63 +4,63 @@
     "url": "https://github.com/zlib-searcher/zlib-searcher",
     "description": "search zlib/libgen index to get ipfs_cid.",
     "language": "TypeScript",
-    "star": "155"
+    "star": "157"
   },
   {
     "title": "LAION-AI/Open-Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Jupyter Notebook",
-    "star": "353"
+    "star": "340"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "132"
+    "star": "171"
   },
   {
     "title": "2dust/v2rayNG",
     "url": "https://github.com/2dust/v2rayNG",
     "description": "A V2Ray client for Android, support Xray core and v2fly core",
     "language": "Kotlin",
-    "star": "36"
+    "star": "34"
   },
   {
     "title": "karpathy/nanoGPT",
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "language": "Python",
-    "star": "351"
+    "star": "345"
   },
   {
     "title": "ashemery/exploitation-course",
     "url": "https://github.com/ashemery/exploitation-course",
     "description": "Offensive Software Exploitation Course",
     "language": "Python",
-    "star": "94"
+    "star": "88"
   },
   {
     "title": "mxssl/sre-interview-prep-guide",
     "url": "https://github.com/mxssl/sre-interview-prep-guide",
     "description": "Site Reliability Engineer Interview Preparation Guide",
     "language": "none",
-    "star": "56"
+    "star": "64"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "126"
+    "star": "122"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "406"
+    "star": "402"
   },
   {
     "title": "zakird/crux-top-lists",
@@ -74,70 +74,70 @@
     "url": "https://github.com/termux/termux-packages",
     "description": "A build system and primary set of packages for Termux.",
     "language": "Shell",
-    "star": "17"
+    "star": "19"
   },
   {
     "title": "priyankavergadia/GCPSketchnote",
     "url": "https://github.com/priyankavergadia/GCPSketchnote",
     "description": "If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.",
     "language": "none",
-    "star": "39"
+    "star": "58"
   },
   {
     "title": "vercel/hyper",
     "url": "https://github.com/vercel/hyper",
     "description": "A terminal built on web technologies",
     "language": "TypeScript",
-    "star": "23"
+    "star": "29"
   },
   {
     "title": "alist-org/alist",
     "url": "https://github.com/alist-org/alist",
     "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
     "language": "Go",
-    "star": "122"
+    "star": "123"
   },
   {
     "title": "ocornut/imgui",
     "url": "https://github.com/ocornut/imgui",
     "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
     "language": "C++",
-    "star": "67"
+    "star": "73"
   },
   {
     "title": "calcom/cal.com",
     "url": "https://github.com/calcom/cal.com",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
-    "star": "77"
+    "star": "89"
   },
   {
     "title": "pola-rs/polars",
     "url": "https://github.com/pola-rs/polars",
     "description": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
     "language": "Rust",
-    "star": "173"
+    "star": "165"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "36"
+    "star": "35"
   },
   {
     "title": "jerryjliu/gpt_index",
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "An index created by GPT to organize external information and answer queries!",
     "language": "Python",
-    "star": "50"
+    "star": "43"
   },
   {
     "title": "OpenBB-finance/OpenBBTerminal",
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone, Anywhere.",
     "language": "Python",
-    "star": "40"
+    "star": "47"
   },
   {
     "title": "itzg/docker-minecraft-server",
@@ -158,20 +158,20 @@
     "url": "https://github.com/google/osv-scanner",
     "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
     "language": "Go",
-    "star": "144"
+    "star": "140"
   },
   {
     "title": "jellyfin/Swiftfin",
     "url": "https://github.com/jellyfin/Swiftfin",
     "description": "Native Jellyfin Client for iOS and tvOS",
     "language": "Swift",
-    "star": "15"
+    "star": "17"
   },
   {
     "title": "laurent22/joplin",
     "url": "https://github.com/laurent22/joplin",
     "description": "Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
     "language": "TypeScript",
-    "star": "37"
+    "star": "49"
   }
 ]
