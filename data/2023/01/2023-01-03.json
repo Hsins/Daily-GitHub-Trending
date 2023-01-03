@@ -4,21 +4,21 @@
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "553"
+    "star": "589"
   },
   {
     "title": "karpathy/nanoGPT",
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "language": "Python",
-    "star": "750"
+    "star": "758"
   },
   {
     "title": "neonbjb/tortoise-tts",
     "url": "https://github.com/neonbjb/tortoise-tts",
     "description": "A multi-voice TTS system trained with an emphasis on quality",
     "language": "Python",
-    "star": "127"
+    "star": "129"
   },
   {
     "title": "papers-we-love/papers-we-love",
@@ -32,14 +32,14 @@
     "url": "https://github.com/mouredev/retos-programacion-2023",
     "description": "Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.",
     "language": "Python",
-    "star": "188"
+    "star": "189"
   },
   {
     "title": "bigscience-workshop/petals",
     "url": "https://github.com/bigscience-workshop/petals",
     "description": "🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
     "language": "Python",
-    "star": "562"
+    "star": "558"
   },
   {
     "title": "rmcelreath/stat_rethinking_2023",
@@ -53,14 +53,14 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-React",
     "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100…",
     "language": "JavaScript",
-    "star": "40"
+    "star": "59"
   },
   {
     "title": "gluon-framework/gluon",
     "url": "https://github.com/gluon-framework/gluon",
     "description": "A framework for creating \"desktop apps\" from websites, using system installed browsers (not webviews) and NodeJS",
     "language": "JavaScript",
-    "star": "156"
+    "star": "180"
   },
   {
     "title": "jerryjliu/gpt_index",
@@ -74,56 +74,56 @@
     "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "description": "Free Data Engineering course!",
     "language": "Jupyter Notebook",
-    "star": "117"
+    "star": "116"
   },
   {
     "title": "godly-devotion/MochiDiffusion",
     "url": "https://github.com/godly-devotion/MochiDiffusion",
     "description": "Run Stable Diffusion on Apple Silicon Macs natively",
     "language": "Swift",
-    "star": "51"
+    "star": "54"
   },
   {
     "title": "A-poc/RedTeam-Tools",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
     "language": "none",
-    "star": "170"
+    "star": "168"
   },
   {
     "title": "easychen/stack-roadmap",
     "url": "https://github.com/easychen/stack-roadmap",
     "description": "方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈",
     "language": "PHP",
-    "star": "232"
+    "star": "226"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "227"
+    "star": "228"
   },
   {
     "title": "pola-rs/polars",
     "url": "https://github.com/pola-rs/polars",
     "description": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
     "language": "Rust",
-    "star": "199"
+    "star": "197"
   },
   {
     "title": "mxssl/sre-interview-prep-guide",
     "url": "https://github.com/mxssl/sre-interview-prep-guide",
     "description": "Site Reliability Engineer Interview Preparation Guide",
     "language": "none",
-    "star": "120"
+    "star": "121"
   },
   {
     "title": "priyankavergadia/GCPSketchnote",
     "url": "https://github.com/priyankavergadia/GCPSketchnote",
     "description": "If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.",
     "language": "none",
-    "star": "117"
+    "star": "119"
   },
   {
     "title": "ashemery/exploitation-course",
@@ -144,7 +144,7 @@
     "url": "https://github.com/kubernetes/minikube",
     "description": "Run Kubernetes locally",
     "language": "Go",
-    "star": "16"
+    "star": "32"
   },
   {
     "title": "starkoora/wanted-pre-onboarding-challenge-fe-1-api",
@@ -158,20 +158,20 @@
     "url": "https://github.com/withastro/astro",
     "description": "Build faster websites with Astro's next-gen island architecture 🏝✨",
     "language": "TypeScript",
-    "star": "79"
+    "star": "82"
   },
   {
     "title": "github/docs",
     "url": "https://github.com/github/docs",
     "description": "The open-source repo for docs.github.com",
     "language": "JavaScript",
-    "star": "75"
+    "star": "71"
   },
   {
     "title": "airbnb/javascript",
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "83"
+    "star": "87"
   }
 ]
