@@ -11,42 +11,42 @@
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "language": "Python",
-    "star": "737"
+    "star": "750"
   },
   {
     "title": "neonbjb/tortoise-tts",
     "url": "https://github.com/neonbjb/tortoise-tts",
     "description": "A multi-voice TTS system trained with an emphasis on quality",
     "language": "Python",
-    "star": "123"
+    "star": "127"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "147"
+    "star": "154"
   },
   {
     "title": "mouredev/retos-programacion-2023",
     "url": "https://github.com/mouredev/retos-programacion-2023",
     "description": "Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.",
     "language": "Python",
-    "star": "199"
+    "star": "190"
   },
   {
     "title": "bigscience-workshop/petals",
     "url": "https://github.com/bigscience-workshop/petals",
     "description": "🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
     "language": "Python",
-    "star": "658"
+    "star": "562"
   },
   {
     "title": "rmcelreath/stat_rethinking_2023",
     "url": "https://github.com/rmcelreath/stat_rethinking_2023",
     "description": "Statistical Rethinking Course for Jan-Mar 2023",
     "language": "none",
-    "star": "62"
+    "star": "60"
   },
   {
     "title": "Asabeneh/30-Days-Of-React",
@@ -81,56 +81,56 @@
     "url": "https://github.com/godly-devotion/MochiDiffusion",
     "description": "Run Stable Diffusion on Apple Silicon Macs natively",
     "language": "Swift",
-    "star": "45"
+    "star": "49"
   },
   {
     "title": "A-poc/RedTeam-Tools",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
     "language": "none",
-    "star": "162"
+    "star": "169"
   },
   {
     "title": "easychen/stack-roadmap",
     "url": "https://github.com/easychen/stack-roadmap",
     "description": "方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈",
     "language": "PHP",
-    "star": "235"
+    "star": "232"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "240"
+    "star": "227"
   },
   {
     "title": "pola-rs/polars",
     "url": "https://github.com/pola-rs/polars",
     "description": "Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js",
     "language": "Rust",
-    "star": "201"
+    "star": "199"
   },
   {
     "title": "mxssl/sre-interview-prep-guide",
     "url": "https://github.com/mxssl/sre-interview-prep-guide",
     "description": "Site Reliability Engineer Interview Preparation Guide",
     "language": "none",
-    "star": "118"
+    "star": "120"
   },
   {
     "title": "priyankavergadia/GCPSketchnote",
     "url": "https://github.com/priyankavergadia/GCPSketchnote",
     "description": "If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.",
     "language": "none",
-    "star": "122"
+    "star": "117"
   },
   {
     "title": "ashemery/exploitation-course",
     "url": "https://github.com/ashemery/exploitation-course",
     "description": "Offensive Software Exploitation Course",
     "language": "Python",
-    "star": "128"
+    "star": "133"
   },
   {
     "title": "nvm-sh/nvm",
@@ -151,14 +151,14 @@
     "url": "https://github.com/starkoora/wanted-pre-onboarding-challenge-fe-1-api",
     "description": "",
     "language": "TypeScript",
-    "star": "8"
+    "star": "9"
   },
   {
     "title": "withastro/astro",
     "url": "https://github.com/withastro/astro",
     "description": "Build faster websites with Astro's next-gen island architecture 🏝✨",
     "language": "TypeScript",
-    "star": "74"
+    "star": "79"
   },
   {
     "title": "github/docs",
@@ -172,6 +172,6 @@
     "url": "https://github.com/airbnb/javascript",
     "description": "JavaScript Style Guide",
     "language": "JavaScript",
-    "star": "74"
+    "star": "83"
   }
 ]
