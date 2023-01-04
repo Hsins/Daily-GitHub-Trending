@@ -11,77 +11,77 @@
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "628"
+    "star": "614"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "321"
+    "star": "322"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "202"
+    "star": "200"
   },
   {
     "title": "karpathy/nanoGPT",
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "language": "Jupyter Notebook",
-    "star": "427"
+    "star": "423"
   },
   {
     "title": "lensapp/lens",
     "url": "https://github.com/lensapp/lens",
     "description": "Lens - The way the world runs Kubernetes",
     "language": "TypeScript",
-    "star": "45"
+    "star": "51"
   },
   {
     "title": "rmcelreath/stat_rethinking_2023",
     "url": "https://github.com/rmcelreath/stat_rethinking_2023",
     "description": "Statistical Rethinking Course for Jan-Mar 2023",
     "language": "none",
-    "star": "114"
+    "star": "111"
   },
   {
     "title": "zlib-searcher/zlib-searcher",
     "url": "https://github.com/zlib-searcher/zlib-searcher",
     "description": "search zlib/libgen index",
     "language": "TypeScript",
-    "star": "123"
+    "star": "122"
   },
   {
     "title": "TencentARC/GFPGAN",
     "url": "https://github.com/TencentARC/GFPGAN",
     "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
     "language": "Python",
-    "star": "62"
+    "star": "61"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "160"
+    "star": "159"
   },
   {
     "title": "MuhammedKalkan/OpenLens",
     "url": "https://github.com/MuhammedKalkan/OpenLens",
     "description": "OpenLens Binary Build Repository",
     "language": "JavaScript",
-    "star": "40"
+    "star": "45"
   },
   {
     "title": "microsoft/pyright",
     "url": "https://github.com/microsoft/pyright",
     "description": "Static type checker for Python",
     "language": "Python",
-    "star": "90"
+    "star": "89"
   },
   {
     "title": "sadanandpai/frontend-learning-kit",
@@ -95,7 +95,7 @@
     "url": "https://github.com/mouredev/retos-programacion-2023",
     "description": "Ejercicios de código semanales en 2023 de la comunidad MoureDev para practicar lógica en cualquier lenguaje de programación.",
     "language": "Python",
-    "star": "121"
+    "star": "116"
   },
   {
     "title": "jahidulislamzim/JavaScriptCodingChallenges",
@@ -109,69 +109,69 @@
     "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "description": "Free Data Engineering course!",
     "language": "Jupyter Notebook",
-    "star": "115"
+    "star": "113"
   },
   {
     "title": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "64"
+    "star": "65"
   },
   {
     "title": "ThioJoe/Auto-Synced-Translated-Dubs",
     "url": "https://github.com/ThioJoe/Auto-Synced-Translated-Dubs",
     "description": "Automatically translates the text of a video based on a subtitle file, and also uses AI voice to dub the video, and synced using the subtitle's timings",
     "language": "Python",
-    "star": "93"
+    "star": "98"
   },
   {
     "title": "appsmithorg/appsmith",
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "53"
+    "star": "58"
   },
   {
     "title": "gluon-framework/gluon",
     "url": "https://github.com/gluon-framework/gluon",
     "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",
     "language": "JavaScript",
-    "star": "304"
+    "star": "298"
   },
   {
     "title": "tobymao/sqlglot",
     "url": "https://github.com/tobymao/sqlglot",
     "description": "Python SQL Parser and Transpiler",
     "language": "Python",
-    "star": "212"
+    "star": "217"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "121"
+    "star": "127"
   },
   {
     "title": "Azure/azure-sdk-for-python",
     "url": "https://github.com/Azure/azure-sdk-for-python",
     "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
     "language": "Python",
-    "star": "15"
+    "star": "18"
   },
   {
     "title": "ray-project/ray",
     "url": "https://github.com/ray-project/ray",
     "description": "Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.",
     "language": "Python",
-    "star": "50"
+    "star": "57"
   },
   {
     "title": "bigscience-workshop/petals",
     "url": "https://github.com/bigscience-workshop/petals",
     "description": "🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
     "language": "Python",
-    "star": "301"
+    "star": "268"
   }
 ]
