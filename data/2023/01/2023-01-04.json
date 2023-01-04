@@ -4,7 +4,7 @@
     "url": "https://github.com/easychen/stack-roadmap",
     "description": "方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈",
     "language": "PHP",
-    "star": "229"
+    "star": "230"
   },
   {
     "title": "Z4nzu/hackingtool",
@@ -18,14 +18,14 @@
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "322"
+    "star": "323"
   },
   {
     "title": "vinta/awesome-python",
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "200"
+    "star": "202"
   },
   {
     "title": "karpathy/nanoGPT",
@@ -39,14 +39,14 @@
     "url": "https://github.com/lensapp/lens",
     "description": "Lens - The way the world runs Kubernetes",
     "language": "TypeScript",
-    "star": "51"
+    "star": "52"
   },
   {
     "title": "rmcelreath/stat_rethinking_2023",
     "url": "https://github.com/rmcelreath/stat_rethinking_2023",
     "description": "Statistical Rethinking Course for Jan-Mar 2023",
     "language": "none",
-    "star": "111"
+    "star": "113"
   },
   {
     "title": "zlib-searcher/zlib-searcher",
@@ -67,28 +67,28 @@
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "159"
+    "star": "161"
   },
   {
     "title": "MuhammedKalkan/OpenLens",
     "url": "https://github.com/MuhammedKalkan/OpenLens",
     "description": "OpenLens Binary Build Repository",
     "language": "JavaScript",
-    "star": "45"
+    "star": "43"
   },
   {
     "title": "microsoft/pyright",
     "url": "https://github.com/microsoft/pyright",
     "description": "Static type checker for Python",
     "language": "Python",
-    "star": "89"
+    "star": "87"
   },
   {
     "title": "sadanandpai/frontend-learning-kit",
     "url": "https://github.com/sadanandpai/frontend-learning-kit",
     "description": "Frontend tech guide and curated collection of frontend materials",
     "language": "none",
-    "star": "65"
+    "star": "73"
   },
   {
     "title": "mouredev/retos-programacion-2023",
@@ -109,14 +109,14 @@
     "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "description": "Free Data Engineering course!",
     "language": "Jupyter Notebook",
-    "star": "113"
+    "star": "114"
   },
   {
     "title": "nvm-sh/nvm",
     "url": "https://github.com/nvm-sh/nvm",
     "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
     "language": "Shell",
-    "star": "65"
+    "star": "64"
   },
   {
     "title": "ThioJoe/Auto-Synced-Translated-Dubs",
@@ -130,28 +130,28 @@
     "url": "https://github.com/appsmithorg/appsmith",
     "description": "Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "language": "TypeScript",
-    "star": "58"
+    "star": "59"
   },
   {
     "title": "gluon-framework/gluon",
     "url": "https://github.com/gluon-framework/gluon",
     "description": "A new framework for creating desktop apps from websites, using system installed browsers and NodeJS",
     "language": "JavaScript",
-    "star": "298"
+    "star": "292"
   },
   {
     "title": "tobymao/sqlglot",
     "url": "https://github.com/tobymao/sqlglot",
     "description": "Python SQL Parser and Transpiler",
     "language": "Python",
-    "star": "217"
+    "star": "218"
   },
   {
     "title": "CodeEditApp/CodeEdit",
     "url": "https://github.com/CodeEditApp/CodeEdit",
     "description": "CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.",
     "language": "Swift",
-    "star": "127"
+    "star": "132"
   },
   {
     "title": "Azure/azure-sdk-for-python",
@@ -165,13 +165,13 @@
     "url": "https://github.com/ray-project/ray",
     "description": "Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.",
     "language": "Python",
-    "star": "57"
+    "star": "58"
   },
   {
     "title": "bigscience-workshop/petals",
     "url": "https://github.com/bigscience-workshop/petals",
     "description": "🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading",
     "language": "Python",
-    "star": "268"
+    "star": "263"
   }
 ]
