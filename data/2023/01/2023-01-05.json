@@ -1,0 +1,177 @@
+[
+  {
+    "title": "gz-yami/mall4cloud",
+    "url": "https://github.com/gz-yami/mall4cloud",
+    "description": "⭐️⭐️⭐️ Springcloud商城 O2O商城 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 微服务商城",
+    "language": "Vue",
+    "star": "146"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
+    "language": "Python",
+    "star": "137"
+  },
+  {
+    "title": "sourcegraph/conc",
+    "url": "https://github.com/sourcegraph/conc",
+    "description": "Better structured concurrency for go",
+    "language": "Go",
+    "star": "292"
+  },
+  {
+    "title": "ambrosiogabe/MathAnimation",
+    "url": "https://github.com/ambrosiogabe/MathAnimation",
+    "description": "A simple C++/OpenGL application to create quick and dirty mathematically accurate animations",
+    "language": "C++",
+    "star": "104"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "description": "Protocol Buffers - Google's data interchange format",
+    "language": "C++",
+    "star": "31"
+  },
+  {
+    "title": "score-spec/spec",
+    "url": "https://github.com/score-spec/spec",
+    "description": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
+    "language": "none",
+    "star": "853"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "description": "Papers from the computer science community to read and discuss.",
+    "language": "Shell",
+    "star": "255"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "description": "12306智能刷票，订票",
+    "language": "Python",
+    "star": "33"
+  },
+  {
+    "title": "MuhammedKalkan/OpenLens",
+    "url": "https://github.com/MuhammedKalkan/OpenLens",
+    "description": "OpenLens Binary Build Repository",
+    "language": "JavaScript",
+    "star": "58"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "description": "ALL IN ONE Hacking Tool For Hackers",
+    "language": "Python",
+    "star": "490"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+    "language": "TypeScript",
+    "star": "70"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr",
+    "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
+    "language": "none",
+    "star": "67"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "language": "Python",
+    "star": "446"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2023",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2023",
+    "description": "Statistical Rethinking Course for Jan-Mar 2023",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "testcontainers/testcontainers-java",
+    "url": "https://github.com/testcontainers/testcontainers-java",
+    "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
+    "language": "Java",
+    "star": "10"
+  },
+  {
+    "title": "confluentinc/librdkafka",
+    "url": "https://github.com/confluentinc/librdkafka",
+    "description": "The Apache Kafka C/C++ library",
+    "language": "C",
+    "star": "5"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "language": "Java",
+    "star": "150"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "language": "C#",
+    "star": "19"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "language": "Go",
+    "star": "17"
+  },
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "description": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite3、Pinia、Element-Plus 开源的一套后台管理框架。",
+    "language": "Vue",
+    "star": "8"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "55"
+  },
+  {
+    "title": "swaggo/swag",
+    "url": "https://github.com/swaggo/swag",
+    "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "description": "The plugin-driven server agent for collecting & reporting metrics.",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "kubernetes/minikube",
+    "url": "https://github.com/kubernetes/minikube",
+    "description": "Run Kubernetes locally",
+    "language": "Go",
+    "star": "40"
+  }
+]
