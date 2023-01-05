@@ -11,14 +11,14 @@
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
     "language": "Python",
-    "star": "142"
+    "star": "143"
   },
   {
     "title": "sourcegraph/conc",
     "url": "https://github.com/sourcegraph/conc",
     "description": "Better structured concurrency for go",
     "language": "Go",
-    "star": "292"
+    "star": "290"
   },
   {
     "title": "ambrosiogabe/MathAnimation",
@@ -39,21 +39,21 @@
     "url": "https://github.com/score-spec/spec",
     "description": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
     "language": "none",
-    "star": "860"
+    "star": "863"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "248"
+    "star": "250"
   },
   {
     "title": "testerSunshine/12306",
     "url": "https://github.com/testerSunshine/12306",
     "description": "12306智能刷票，订票",
     "language": "Python",
-    "star": "34"
+    "star": "33"
   },
   {
     "title": "MuhammedKalkan/OpenLens",
@@ -67,14 +67,14 @@
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "483"
+    "star": "482"
   },
   {
     "title": "alan2207/bulletproof-react",
     "url": "https://github.com/alan2207/bulletproof-react",
     "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "language": "TypeScript",
-    "star": "71"
+    "star": "72"
   },
   {
     "title": "nostr-protocol/nostr",
@@ -116,7 +116,7 @@
     "url": "https://github.com/itwanger/toBeBetterJavaer",
     "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
     "language": "Java",
-    "star": "147"
+    "star": "146"
   },
   {
     "title": "dotnet/aspnetcore",
@@ -137,7 +137,7 @@
     "url": "https://github.com/HalseySpicy/Geeker-Admin",
     "description": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite3、Pinia、Element-Plus 开源的一套后台管理框架。",
     "language": "Vue",
-    "star": "12"
+    "star": "10"
   },
   {
     "title": "flutter/flutter",
@@ -151,7 +151,7 @@
     "url": "https://github.com/swaggo/swag",
     "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
     "language": "Go",
-    "star": "21"
+    "star": "20"
   },
   {
     "title": "influxdata/telegraf",
