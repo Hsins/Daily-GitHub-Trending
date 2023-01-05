@@ -18,7 +18,7 @@
     "url": "https://github.com/sourcegraph/conc",
     "description": "Better structured concurrency for go",
     "language": "Go",
-    "star": "292"
+    "star": "293"
   },
   {
     "title": "ambrosiogabe/MathAnimation",
@@ -88,7 +88,7 @@
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "446"
+    "star": "429"
   },
   {
     "title": "rmcelreath/stat_rethinking_2023",
@@ -102,7 +102,7 @@
     "url": "https://github.com/testcontainers/testcontainers-java",
     "description": "Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.",
     "language": "Java",
-    "star": "10"
+    "star": "13"
   },
   {
     "title": "confluentinc/librdkafka",
@@ -116,21 +116,21 @@
     "url": "https://github.com/itwanger/toBeBetterJavaer",
     "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
     "language": "Java",
-    "star": "150"
+    "star": "148"
   },
   {
     "title": "dotnet/aspnetcore",
     "url": "https://github.com/dotnet/aspnetcore",
     "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
     "language": "C#",
-    "star": "19"
+    "star": "16"
   },
   {
     "title": "hashicorp/nomad",
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "17"
+    "star": "22"
   },
   {
     "title": "HalseySpicy/Geeker-Admin",
@@ -144,7 +144,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "55"
+    "star": "57"
   },
   {
     "title": "swaggo/swag",
@@ -158,20 +158,20 @@
     "url": "https://github.com/influxdata/telegraf",
     "description": "The plugin-driven server agent for collecting & reporting metrics.",
     "language": "Go",
-    "star": "14"
+    "star": "16"
   },
   {
     "title": "Azure/azure-sdk-for-net",
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "none",
-    "star": "8"
+    "star": "9"
   },
   {
     "title": "kubernetes/minikube",
     "url": "https://github.com/kubernetes/minikube",
     "description": "Run Kubernetes locally",
     "language": "Go",
-    "star": "40"
+    "star": "44"
   }
 ]
