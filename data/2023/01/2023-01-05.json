@@ -11,21 +11,21 @@
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
     "language": "Python",
-    "star": "141"
+    "star": "142"
   },
   {
     "title": "sourcegraph/conc",
     "url": "https://github.com/sourcegraph/conc",
     "description": "Better structured concurrency for go",
     "language": "Go",
-    "star": "290"
+    "star": "292"
   },
   {
     "title": "ambrosiogabe/MathAnimation",
     "url": "https://github.com/ambrosiogabe/MathAnimation",
     "description": "A simple C++/OpenGL application to create quick and dirty mathematically accurate animations",
     "language": "C++",
-    "star": "103"
+    "star": "110"
   },
   {
     "title": "protocolbuffers/protobuf",
@@ -39,63 +39,63 @@
     "url": "https://github.com/score-spec/spec",
     "description": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
     "language": "none",
-    "star": "863"
+    "star": "860"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "249"
+    "star": "248"
   },
   {
     "title": "testerSunshine/12306",
     "url": "https://github.com/testerSunshine/12306",
     "description": "12306智能刷票，订票",
     "language": "Python",
-    "star": "33"
+    "star": "34"
   },
   {
     "title": "MuhammedKalkan/OpenLens",
     "url": "https://github.com/MuhammedKalkan/OpenLens",
     "description": "OpenLens Binary Build Repository",
     "language": "JavaScript",
-    "star": "59"
+    "star": "57"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "487"
+    "star": "483"
   },
   {
     "title": "alan2207/bulletproof-react",
     "url": "https://github.com/alan2207/bulletproof-react",
     "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
     "language": "TypeScript",
-    "star": "72"
+    "star": "71"
   },
   {
     "title": "nostr-protocol/nostr",
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "69"
+    "star": "70"
   },
   {
     "title": "karpathy/minGPT",
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "412"
+    "star": "413"
   },
   {
     "title": "rmcelreath/stat_rethinking_2023",
     "url": "https://github.com/rmcelreath/stat_rethinking_2023",
     "description": "Statistical Rethinking Course for Jan-Mar 2023",
     "language": "none",
-    "star": "65"
+    "star": "63"
   },
   {
     "title": "testcontainers/testcontainers-java",
@@ -109,14 +109,14 @@
     "url": "https://github.com/confluentinc/librdkafka",
     "description": "The Apache Kafka C/C++ library",
     "language": "C",
-    "star": "11"
+    "star": "12"
   },
   {
     "title": "itwanger/toBeBetterJavaer",
     "url": "https://github.com/itwanger/toBeBetterJavaer",
     "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
     "language": "Java",
-    "star": "145"
+    "star": "147"
   },
   {
     "title": "dotnet/aspnetcore",
@@ -130,28 +130,28 @@
     "url": "https://github.com/hashicorp/nomad",
     "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
     "language": "Go",
-    "star": "23"
+    "star": "25"
   },
   {
     "title": "HalseySpicy/Geeker-Admin",
     "url": "https://github.com/HalseySpicy/Geeker-Admin",
     "description": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite3、Pinia、Element-Plus 开源的一套后台管理框架。",
     "language": "Vue",
-    "star": "10"
+    "star": "12"
   },
   {
     "title": "flutter/flutter",
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "65"
+    "star": "67"
   },
   {
     "title": "swaggo/swag",
     "url": "https://github.com/swaggo/swag",
     "description": "Automatically generate RESTful API documentation with Swagger 2.0 for Go.",
     "language": "Go",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "influxdata/telegraf",
