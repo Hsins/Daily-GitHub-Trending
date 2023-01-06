@@ -18,35 +18,35 @@
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "48"
+    "star": "51"
   },
   {
     "title": "midudev/kings-league-project",
     "url": "https://github.com/midudev/kings-league-project",
     "description": "API y website de la Kings League Infojobs por temas didácticos",
     "language": "JavaScript",
-    "star": "294"
+    "star": "308"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "54"
+    "star": "55"
   },
   {
     "title": "recharts/recharts",
     "url": "https://github.com/recharts/recharts",
     "description": "Redefined chart library built with React and D3",
     "language": "TypeScript",
-    "star": "55"
+    "star": "59"
   },
   {
     "title": "karpathy/minGPT",
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "262"
+    "star": "260"
   },
   {
     "title": "mouredev/hello-git",
@@ -74,35 +74,35 @@
     "url": "https://github.com/sourcegraph/conc",
     "description": "Better structured concurrency for go",
     "language": "Go",
-    "star": "435"
+    "star": "444"
   },
   {
     "title": "nonebot/nonebot2",
     "url": "https://github.com/nonebot/nonebot2",
     "description": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
     "language": "Python",
-    "star": "67"
+    "star": "68"
   },
   {
     "title": "renovatebot/renovate",
     "url": "https://github.com/renovatebot/renovate",
     "description": "Universal dependency update tool that fits into your workflows.",
     "language": "TypeScript",
-    "star": "28"
+    "star": "31"
   },
   {
     "title": "Azure/azure-sdk-for-net",
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "none",
-    "star": "50"
+    "star": "49"
   },
   {
     "title": "score-spec/spec",
     "url": "https://github.com/score-spec/spec",
     "description": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
     "language": "none",
-    "star": "204"
+    "star": "169"
   },
   {
     "title": "rust-lang/mdBook",
@@ -116,7 +116,7 @@
     "url": "https://github.com/easychen/stack-roadmap",
     "description": "方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈",
     "language": "PHP",
-    "star": "52"
+    "star": "51"
   },
   {
     "title": "Azure/azure-rest-api-specs",
@@ -137,7 +137,7 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "110"
+    "star": "106"
   },
   {
     "title": "danielgindi/Charts",
@@ -151,21 +151,21 @@
     "url": "https://github.com/squizlabs/PHP_CodeSniffer",
     "description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
     "language": "PHP",
-    "star": "12"
+    "star": "13"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "174"
+    "star": "170"
   },
   {
     "title": "ali-bouali/spring-boot-3-jwt-security",
     "url": "https://github.com/ali-bouali/spring-boot-3-jwt-security",
     "description": "",
     "language": "Java",
-    "star": "10"
+    "star": "9"
   },
   {
     "title": "tailwindlabs/tailwindcss",
