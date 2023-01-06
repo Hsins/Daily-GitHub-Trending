@@ -11,7 +11,7 @@
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "173"
+    "star": "176"
   },
   {
     "title": "microsoft/terminal",
@@ -25,7 +25,7 @@
     "url": "https://github.com/midudev/kings-league-project",
     "description": "API y website de la Kings League Infojobs por temas didácticos",
     "language": "JavaScript",
-    "star": "323"
+    "star": "322"
   },
   {
     "title": "protocolbuffers/protobuf",
@@ -46,14 +46,14 @@
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "254"
+    "star": "259"
   },
   {
     "title": "mouredev/hello-git",
     "url": "https://github.com/mouredev/hello-git",
     "description": "Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.",
     "language": "none",
-    "star": "60"
+    "star": "61"
   },
   {
     "title": "laravel/framework",
@@ -74,7 +74,7 @@
     "url": "https://github.com/sourcegraph/conc",
     "description": "Better structured concurrency for go",
     "language": "Go",
-    "star": "473"
+    "star": "475"
   },
   {
     "title": "nonebot/nonebot2",
@@ -130,7 +130,7 @@
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
     "language": "Python",
-    "star": "172"
+    "star": "171"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
@@ -151,14 +151,14 @@
     "url": "https://github.com/squizlabs/PHP_CodeSniffer",
     "description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
     "language": "PHP",
-    "star": "15"
+    "star": "13"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "167"
+    "star": "168"
   },
   {
     "title": "ali-bouali/spring-boot-3-jwt-security",
