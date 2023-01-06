@@ -4,84 +4,84 @@
     "url": "https://github.com/jart/blink",
     "description": "tiniest x86-64-linux emulator",
     "language": "C",
-    "star": "168"
+    "star": "169"
   },
   {
     "title": "AykutSarac/jsoncrack.com",
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "161"
+    "star": "173"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "51"
+    "star": "48"
   },
   {
     "title": "midudev/kings-league-project",
     "url": "https://github.com/midudev/kings-league-project",
     "description": "API y website de la Kings League Infojobs por temas didácticos",
     "language": "JavaScript",
-    "star": "308"
+    "star": "322"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "55"
+    "star": "56"
   },
   {
     "title": "recharts/recharts",
     "url": "https://github.com/recharts/recharts",
     "description": "Redefined chart library built with React and D3",
     "language": "TypeScript",
-    "star": "59"
+    "star": "60"
   },
   {
     "title": "karpathy/minGPT",
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "260"
+    "star": "258"
   },
   {
     "title": "mouredev/hello-git",
     "url": "https://github.com/mouredev/hello-git",
     "description": "Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.",
     "language": "none",
-    "star": "59"
+    "star": "60"
   },
   {
     "title": "laravel/framework",
     "url": "https://github.com/laravel/framework",
     "description": "The Laravel Framework.",
     "language": "PHP",
-    "star": "16"
+    "star": "19"
   },
   {
     "title": "midudev/preguntas-entrevista-react",
     "url": "https://github.com/midudev/preguntas-entrevista-react",
     "description": "Preguntas típicas sobre React para entrevistas de trabajo ⚛️",
     "language": "JavaScript",
-    "star": "77"
+    "star": "72"
   },
   {
     "title": "sourcegraph/conc",
     "url": "https://github.com/sourcegraph/conc",
     "description": "Better structured concurrency for go",
     "language": "Go",
-    "star": "444"
+    "star": "443"
   },
   {
     "title": "nonebot/nonebot2",
     "url": "https://github.com/nonebot/nonebot2",
     "description": "跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python",
     "language": "Python",
-    "star": "68"
+    "star": "71"
   },
   {
     "title": "renovatebot/renovate",
@@ -95,14 +95,14 @@
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "none",
-    "star": "49"
+    "star": "47"
   },
   {
     "title": "score-spec/spec",
     "url": "https://github.com/score-spec/spec",
     "description": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
     "language": "none",
-    "star": "169"
+    "star": "149"
   },
   {
     "title": "rust-lang/mdBook",
@@ -130,14 +130,14 @@
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
     "language": "Python",
-    "star": "174"
+    "star": "171"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "106"
+    "star": "101"
   },
   {
     "title": "danielgindi/Charts",
@@ -151,7 +151,7 @@
     "url": "https://github.com/squizlabs/PHP_CodeSniffer",
     "description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
     "language": "PHP",
-    "star": "13"
+    "star": "14"
   },
   {
     "title": "papers-we-love/papers-we-love",
@@ -172,6 +172,6 @@
     "url": "https://github.com/tailwindlabs/tailwindcss",
     "description": "A utility-first CSS framework for rapid UI development.",
     "language": "JavaScript",
-    "star": "87"
+    "star": "95"
   }
 ]
