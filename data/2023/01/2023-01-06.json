@@ -4,7 +4,7 @@
     "url": "https://github.com/jart/blink",
     "description": "tiniest x86-64-linux emulator",
     "language": "C",
-    "star": "169"
+    "star": "171"
   },
   {
     "title": "AykutSarac/jsoncrack.com",
@@ -18,21 +18,21 @@
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "48"
+    "star": "54"
   },
   {
     "title": "midudev/kings-league-project",
     "url": "https://github.com/midudev/kings-league-project",
     "description": "API y website de la Kings League Infojobs por temas didácticos",
     "language": "JavaScript",
-    "star": "322"
+    "star": "323"
   },
   {
     "title": "protocolbuffers/protobuf",
     "url": "https://github.com/protocolbuffers/protobuf",
     "description": "Protocol Buffers - Google's data interchange format",
     "language": "C++",
-    "star": "56"
+    "star": "57"
   },
   {
     "title": "recharts/recharts",
@@ -46,7 +46,7 @@
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "258"
+    "star": "254"
   },
   {
     "title": "mouredev/hello-git",
@@ -67,14 +67,14 @@
     "url": "https://github.com/midudev/preguntas-entrevista-react",
     "description": "Preguntas típicas sobre React para entrevistas de trabajo ⚛️",
     "language": "JavaScript",
-    "star": "72"
+    "star": "70"
   },
   {
     "title": "sourcegraph/conc",
     "url": "https://github.com/sourcegraph/conc",
     "description": "Better structured concurrency for go",
     "language": "Go",
-    "star": "443"
+    "star": "473"
   },
   {
     "title": "nonebot/nonebot2",
@@ -102,14 +102,14 @@
     "url": "https://github.com/score-spec/spec",
     "description": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
     "language": "none",
-    "star": "149"
+    "star": "141"
   },
   {
     "title": "rust-lang/mdBook",
     "url": "https://github.com/rust-lang/mdBook",
     "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
     "language": "Rust",
-    "star": "111"
+    "star": "112"
   },
   {
     "title": "easychen/stack-roadmap",
@@ -130,14 +130,14 @@
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
     "language": "Python",
-    "star": "171"
+    "star": "172"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "101"
+    "star": "100"
   },
   {
     "title": "danielgindi/Charts",
@@ -151,14 +151,14 @@
     "url": "https://github.com/squizlabs/PHP_CodeSniffer",
     "description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
     "language": "PHP",
-    "star": "14"
+    "star": "15"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "170"
+    "star": "167"
   },
   {
     "title": "ali-bouali/spring-boot-3-jwt-security",
@@ -172,6 +172,6 @@
     "url": "https://github.com/tailwindlabs/tailwindcss",
     "description": "A utility-first CSS framework for rapid UI development.",
     "language": "JavaScript",
-    "star": "95"
+    "star": "97"
   }
 ]
