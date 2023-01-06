@@ -4,7 +4,7 @@
     "url": "https://github.com/jart/blink",
     "description": "tiniest x86-64-linux emulator",
     "language": "C",
-    "star": "171"
+    "star": "173"
   },
   {
     "title": "AykutSarac/jsoncrack.com",
@@ -39,21 +39,21 @@
     "url": "https://github.com/recharts/recharts",
     "description": "Redefined chart library built with React and D3",
     "language": "TypeScript",
-    "star": "60"
+    "star": "61"
   },
   {
     "title": "karpathy/minGPT",
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "259"
+    "star": "253"
   },
   {
     "title": "mouredev/hello-git",
     "url": "https://github.com/mouredev/hello-git",
     "description": "Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.",
     "language": "none",
-    "star": "61"
+    "star": "60"
   },
   {
     "title": "laravel/framework",
@@ -67,14 +67,14 @@
     "url": "https://github.com/midudev/preguntas-entrevista-react",
     "description": "Preguntas típicas sobre React para entrevistas de trabajo ⚛️",
     "language": "JavaScript",
-    "star": "70"
+    "star": "69"
   },
   {
     "title": "sourcegraph/conc",
     "url": "https://github.com/sourcegraph/conc",
     "description": "Better structured concurrency for go",
     "language": "Go",
-    "star": "475"
+    "star": "478"
   },
   {
     "title": "nonebot/nonebot2",
@@ -88,21 +88,21 @@
     "url": "https://github.com/renovatebot/renovate",
     "description": "Universal dependency update tool that fits into your workflows.",
     "language": "TypeScript",
-    "star": "31"
+    "star": "32"
   },
   {
     "title": "Azure/azure-sdk-for-net",
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "none",
-    "star": "47"
+    "star": "46"
   },
   {
     "title": "score-spec/spec",
     "url": "https://github.com/score-spec/spec",
     "description": "The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between environments.",
     "language": "none",
-    "star": "141"
+    "star": "137"
   },
   {
     "title": "rust-lang/mdBook",
@@ -130,35 +130,35 @@
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
     "language": "Python",
-    "star": "171"
+    "star": "172"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "100"
+    "star": "99"
   },
   {
     "title": "danielgindi/Charts",
     "url": "https://github.com/danielgindi/Charts",
     "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
     "language": "Swift",
-    "star": "9"
+    "star": "10"
   },
   {
     "title": "squizlabs/PHP_CodeSniffer",
     "url": "https://github.com/squizlabs/PHP_CodeSniffer",
     "description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.",
     "language": "PHP",
-    "star": "13"
+    "star": "15"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "168"
+    "star": "167"
   },
   {
     "title": "ali-bouali/spring-boot-3-jwt-security",
@@ -172,6 +172,6 @@
     "url": "https://github.com/tailwindlabs/tailwindcss",
     "description": "A utility-first CSS framework for rapid UI development.",
     "language": "JavaScript",
-    "star": "97"
+    "star": "99"
   }
 ]
