@@ -4,14 +4,14 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "106"
+    "star": "151"
   },
   {
     "title": "karpathy/minGPT",
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "346"
+    "star": "361"
   },
   {
     "title": "itwanger/toBeBetterJavaer",
@@ -25,42 +25,42 @@
     "url": "https://github.com/sourcegraph/conc",
     "description": "Better structured concurrency for go",
     "language": "Go",
-    "star": "579"
+    "star": "524"
   },
   {
     "title": "WhatsApp/proxy",
     "url": "https://github.com/WhatsApp/proxy",
     "description": "This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)",
     "language": "Shell",
-    "star": "134"
+    "star": "132"
   },
   {
     "title": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
     "description": "🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
     "language": "Rust",
-    "star": "212"
+    "star": "229"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "326"
+    "star": "283"
   },
   {
     "title": "AykutSarac/jsoncrack.com",
     "url": "https://github.com/AykutSarac/jsoncrack.com",
     "description": "🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!",
     "language": "TypeScript",
-    "star": "259"
+    "star": "206"
   },
   {
     "title": "midudev/kings-league-project",
     "url": "https://github.com/midudev/kings-league-project",
     "description": "API y website de la Kings League Infojobs por temas didácticos",
     "language": "JavaScript",
-    "star": "205"
+    "star": "207"
   },
   {
     "title": "vitoplantamura/BugChecker",
@@ -74,28 +74,28 @@
     "url": "https://github.com/rmcelreath/stat_rethinking_2023",
     "description": "Statistical Rethinking Course for Jan-Mar 2023",
     "language": "none",
-    "star": "40"
+    "star": "29"
   },
   {
     "title": "EddieHubCommunity/LinkFree",
     "url": "https://github.com/EddieHubCommunity/LinkFree",
     "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
     "language": "JavaScript",
-    "star": "57"
+    "star": "73"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "175"
+    "star": "171"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated coding interview preparation materials for busy software engineers",
     "language": "TypeScript",
-    "star": "194"
+    "star": "191"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
@@ -109,28 +109,28 @@
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Colossal-AI: A Unified Deep Learning System for Big Model Era",
     "language": "Python",
-    "star": "145"
+    "star": "148"
   },
   {
     "title": "jart/blink",
     "url": "https://github.com/jart/blink",
     "description": "tiniest x86-64-linux emulator",
     "language": "C",
-    "star": "191"
+    "star": "165"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "200"
+    "star": "199"
   },
   {
     "title": "book-searcher-org/book-searcher",
     "url": "https://github.com/book-searcher-org/book-searcher",
     "description": "Search books index, create your private local library.",
     "language": "TypeScript",
-    "star": "117"
+    "star": "111"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -144,21 +144,21 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "220"
+    "star": "205"
   },
   {
     "title": "alist-org/alist",
     "url": "https://github.com/alist-org/alist",
     "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
     "language": "Go",
-    "star": "227"
+    "star": "198"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "102"
+    "star": "90"
   },
   {
     "title": "google/googletest",
@@ -172,6 +172,6 @@
     "url": "https://github.com/toeverything/AFFiNE",
     "description": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
     "language": "TypeScript",
-    "star": "50"
+    "star": "87"
   }
 ]
