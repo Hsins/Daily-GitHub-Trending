@@ -4,77 +4,77 @@
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "621"
+    "star": "579"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "181"
+    "star": "184"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "227"
+    "star": "224"
   },
   {
     "title": "WhatsApp/proxy",
     "url": "https://github.com/WhatsApp/proxy",
     "description": "This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)",
     "language": "Shell",
-    "star": "124"
+    "star": "137"
   },
   {
     "title": "ProgrammingHero1/new-year-new-me",
     "url": "https://github.com/ProgrammingHero1/new-year-new-me",
     "description": "",
     "language": "none",
-    "star": "9"
+    "star": "6"
   },
   {
     "title": "komeilmehranfar/visa-sponsers-companies-for-iranians",
     "url": "https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians",
     "description": "",
     "language": "none",
-    "star": "88"
+    "star": "87"
   },
   {
     "title": "1c7/chinese-independent-developer",
     "url": "https://github.com/1c7/chinese-independent-developer",
     "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
     "language": "none",
-    "star": "92"
+    "star": "95"
   },
   {
     "title": "ACM-Alexandria-SC/Internships",
     "url": "https://github.com/ACM-Alexandria-SC/Internships",
     "description": "",
     "language": "none",
-    "star": "54"
+    "star": "70"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "262"
+    "star": "240"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "214"
+    "star": "217"
   },
   {
     "title": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
     "description": "🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
     "language": "Rust",
-    "star": "280"
+    "star": "244"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
@@ -102,76 +102,76 @@
     "url": "https://github.com/alist-org/alist",
     "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
     "language": "Go",
-    "star": "208"
+    "star": "205"
   },
   {
     "title": "ripienaar/free-for-dev",
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "77"
+    "star": "76"
   },
   {
     "title": "microsoft/unilm",
     "url": "https://github.com/microsoft/unilm",
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "language": "Python",
-    "star": "39"
+    "star": "29"
   },
   {
     "title": "EddieHubCommunity/LinkFree",
     "url": "https://github.com/EddieHubCommunity/LinkFree",
     "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
     "language": "JavaScript",
-    "star": "122"
+    "star": "97"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "195"
+    "star": "196"
   },
   {
     "title": "vitoplantamura/BugChecker",
     "url": "https://github.com/vitoplantamura/BugChecker",
     "description": "SoftICE-like kernel debugger for Windows 11",
     "language": "C",
-    "star": "103"
+    "star": "140"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "88"
+    "star": "131"
   },
   {
     "title": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun",
     "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
     "language": "Zig",
-    "star": "72"
+    "star": "67"
   },
   {
     "title": "blakeblackshear/frigate",
     "url": "https://github.com/blakeblackshear/frigate",
     "description": "NVR with realtime local object detection for IP cameras",
     "language": "Python",
-    "star": "31"
+    "star": "32"
   },
   {
     "title": "weak1337/Alcatraz",
     "url": "https://github.com/weak1337/Alcatraz",
     "description": "x64 binary obfuscator",
     "language": "C++",
-    "star": "53"
+    "star": "65"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "147"
+    "star": "155"
   }
 ]
