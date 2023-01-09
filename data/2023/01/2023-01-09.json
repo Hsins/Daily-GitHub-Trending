@@ -11,42 +11,42 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "189"
+    "star": "195"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "360"
+    "star": "363"
   },
   {
     "title": "WhatsApp/proxy",
     "url": "https://github.com/WhatsApp/proxy",
     "description": "This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)",
     "language": "Shell",
-    "star": "119"
+    "star": "118"
   },
   {
     "title": "EddieHubCommunity/LinkFree",
     "url": "https://github.com/EddieHubCommunity/LinkFree",
     "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
     "language": "JavaScript",
-    "star": "121"
+    "star": "123"
   },
   {
     "title": "karpathy/minGPT",
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "303"
+    "star": "301"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "494"
+    "star": "502"
   },
   {
     "title": "XTLS/Xray-core",
@@ -67,28 +67,28 @@
     "url": "https://github.com/THUDM/GLM-130B",
     "description": "GLM-130B: An Open Bilingual Pre-Trained Model",
     "language": "Python",
-    "star": "143"
+    "star": "142"
   },
   {
     "title": "krishnaik06/6-Months-Data-Science-Roadmap-",
     "url": "https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-",
     "description": "",
     "language": "none",
-    "star": "69"
+    "star": "71"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "252"
+    "star": "260"
   },
   {
     "title": "obsproject/obs-studio",
     "url": "https://github.com/obsproject/obs-studio",
     "description": "OBS Studio - Free and open source software for live streaming and screen recording",
     "language": "C",
-    "star": "83"
+    "star": "87"
   },
   {
     "title": "hyprwm/Hyprland",
@@ -102,28 +102,28 @@
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone, Anywhere.",
     "language": "Python",
-    "star": "34"
+    "star": "37"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "404"
+    "star": "409"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "230"
+    "star": "231"
   },
   {
     "title": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
     "description": "🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
     "language": "Rust",
-    "star": "354"
+    "star": "353"
   },
   {
     "title": "komeilmehranfar/visa-sponsers-companies-for-iranians",
@@ -137,21 +137,21 @@
     "url": "https://github.com/ACM-Alexandria-SC/Internships",
     "description": "",
     "language": "none",
-    "star": "104"
+    "star": "103"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "623"
+    "star": "641"
   },
   {
     "title": "qmk/qmk_firmware",
     "url": "https://github.com/qmk/qmk_firmware",
     "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
     "language": "C",
-    "star": "20"
+    "star": "19"
   },
   {
     "title": "Snapchat/KeyDB",
@@ -165,13 +165,13 @@
     "url": "https://github.com/VoronDesign/VoronUsers",
     "description": "Voron Community mods, slicer profiles and firmware configurations.",
     "language": "GAP",
-    "star": "8"
+    "star": "9"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
     "url": "https://github.com/gragland/chatgpt-chrome-extension",
     "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
     "language": "JavaScript",
-    "star": "129"
+    "star": "130"
   }
 ]
