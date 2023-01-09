@@ -11,28 +11,28 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "183"
+    "star": "189"
   },
   {
     "title": "public-apis/public-apis",
     "url": "https://github.com/public-apis/public-apis",
     "description": "A collective list of free APIs",
     "language": "Python",
-    "star": "359"
+    "star": "360"
   },
   {
     "title": "WhatsApp/proxy",
     "url": "https://github.com/WhatsApp/proxy",
     "description": "This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP and media upload/download not currently proxied)",
     "language": "Shell",
-    "star": "122"
+    "star": "119"
   },
   {
     "title": "EddieHubCommunity/LinkFree",
     "url": "https://github.com/EddieHubCommunity/LinkFree",
     "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
     "language": "JavaScript",
-    "star": "122"
+    "star": "121"
   },
   {
     "title": "karpathy/minGPT",
@@ -46,7 +46,7 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "496"
+    "star": "494"
   },
   {
     "title": "XTLS/Xray-core",
@@ -67,7 +67,7 @@
     "url": "https://github.com/THUDM/GLM-130B",
     "description": "GLM-130B: An Open Bilingual Pre-Trained Model",
     "language": "Python",
-    "star": "142"
+    "star": "143"
   },
   {
     "title": "krishnaik06/6-Months-Data-Science-Roadmap-",
@@ -95,7 +95,7 @@
     "url": "https://github.com/hyprwm/Hyprland",
     "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
     "language": "C++",
-    "star": "42"
+    "star": "41"
   },
   {
     "title": "OpenBB-finance/OpenBBTerminal",
@@ -109,21 +109,21 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "405"
+    "star": "404"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "226"
+    "star": "230"
   },
   {
     "title": "tw93/Pake",
     "url": "https://github.com/tw93/Pake",
     "description": "🤱🏻 Simply make any web page a desktop application using Rust. 🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App",
     "language": "Rust",
-    "star": "355"
+    "star": "354"
   },
   {
     "title": "komeilmehranfar/visa-sponsers-companies-for-iranians",
@@ -137,7 +137,7 @@
     "url": "https://github.com/ACM-Alexandria-SC/Internships",
     "description": "",
     "language": "none",
-    "star": "102"
+    "star": "104"
   },
   {
     "title": "Developer-Y/cs-video-courses",
@@ -165,13 +165,13 @@
     "url": "https://github.com/VoronDesign/VoronUsers",
     "description": "Voron Community mods, slicer profiles and firmware configurations.",
     "language": "GAP",
-    "star": "7"
+    "star": "8"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
     "url": "https://github.com/gragland/chatgpt-chrome-extension",
     "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
     "language": "JavaScript",
-    "star": "130"
+    "star": "129"
   }
 ]
