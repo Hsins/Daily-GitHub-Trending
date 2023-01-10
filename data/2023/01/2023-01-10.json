@@ -11,21 +11,21 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "226"
+    "star": "259"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
     "url": "https://github.com/gragland/chatgpt-chrome-extension",
     "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
     "language": "JavaScript",
-    "star": "130"
+    "star": "129"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "631"
+    "star": "606"
   },
   {
     "title": "JuanCrg90/Clean-Code-Notes",
@@ -53,7 +53,7 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "507"
+    "star": "477"
   },
   {
     "title": "1c7/chinese-independent-developer",
@@ -74,7 +74,7 @@
     "url": "https://github.com/facebookresearch/hyperreel",
     "description": "Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling",
     "language": "Python",
-    "star": "37"
+    "star": "36"
   },
   {
     "title": "binhnguyennus/awesome-scalability",
@@ -88,14 +88,14 @@
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "402"
+    "star": "398"
   },
   {
     "title": "krishnaik06/6-Months-Data-Science-Roadmap-",
     "url": "https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-",
     "description": "",
     "language": "none",
-    "star": "75"
+    "star": "65"
   },
   {
     "title": "mouredev/Hello-Python",
@@ -109,7 +109,7 @@
     "url": "https://github.com/THUDM/GLM-130B",
     "description": "GLM-130B: An Open Bilingual Pre-Trained Model",
     "language": "Python",
-    "star": "141"
+    "star": "129"
   },
   {
     "title": "trpc/trpc",
@@ -144,7 +144,7 @@
     "url": "https://github.com/EddieHubCommunity/LinkFree",
     "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
     "language": "JavaScript",
-    "star": "133"
+    "star": "138"
   },
   {
     "title": "VoronDesign/Voron-0",
@@ -158,7 +158,7 @@
     "url": "https://github.com/Snapchat/KeyDB",
     "description": "A Multithreaded Fork of Redis",
     "language": "C++",
-    "star": "59"
+    "star": "60"
   },
   {
     "title": "ultralytics/yolov5",
@@ -172,6 +172,6 @@
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "88"
+    "star": "66"
   }
 ]
