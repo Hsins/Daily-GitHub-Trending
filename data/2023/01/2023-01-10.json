@@ -1,0 +1,177 @@
+[
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "226"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+    "language": "JavaScript",
+    "star": "130"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "631"
+  },
+  {
+    "title": "JuanCrg90/Clean-Code-Notes",
+    "url": "https://github.com/JuanCrg90/Clean-Code-Notes",
+    "description": "My notes of Clean Code book",
+    "language": "none",
+    "star": "715"
+  },
+  {
+    "title": "sismo-core/sismo-protocol",
+    "url": "https://github.com/sismo-core/sismo-protocol",
+    "description": "Contracts of the Sismo Attestation Protocol",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "google/cdc-file-transfer",
+    "url": "https://github.com/google/cdc-file-transfer",
+    "description": "Tools for synching and streaming files from Windows to Linux",
+    "language": "C++",
+    "star": "626"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "507"
+  },
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+    "language": "none",
+    "star": "308"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "facebookresearch/hyperreel",
+    "url": "https://github.com/facebookresearch/hyperreel",
+    "description": "Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+    "language": "none",
+    "star": "29"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "402"
+  },
+  {
+    "title": "krishnaik06/6-Months-Data-Science-Roadmap-",
+    "url": "https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-",
+    "description": "",
+    "language": "none",
+    "star": "75"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos.",
+    "language": "Python",
+    "star": "154"
+  },
+  {
+    "title": "THUDM/GLM-130B",
+    "url": "https://github.com/THUDM/GLM-130B",
+    "description": "GLM-130B: An Open Bilingual Pre-Trained Model",
+    "language": "Python",
+    "star": "141"
+  },
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+    "language": "TypeScript",
+    "star": "152"
+  },
+  {
+    "title": "qax-os/excelize",
+    "url": "https://github.com/qax-os/excelize",
+    "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
+    "language": "Go",
+    "star": "36"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "language": "Ruby",
+    "star": "7"
+  },
+  {
+    "title": "wiidev/usbloadergx",
+    "url": "https://github.com/wiidev/usbloadergx",
+    "description": "This version of USB Loader GX supersedes the SourceForge version, which was last updated in 2019.",
+    "language": "C",
+    "star": "7"
+  },
+  {
+    "title": "EddieHubCommunity/LinkFree",
+    "url": "https://github.com/EddieHubCommunity/LinkFree",
+    "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
+    "language": "JavaScript",
+    "star": "133"
+  },
+  {
+    "title": "VoronDesign/Voron-0",
+    "url": "https://github.com/VoronDesign/Voron-0",
+    "description": "Voron 0 CoreXY 3D Printer design",
+    "language": "none",
+    "star": "4"
+  },
+  {
+    "title": "Snapchat/KeyDB",
+    "url": "https://github.com/Snapchat/KeyDB",
+    "description": "A Multithreaded Fork of Redis",
+    "language": "C++",
+    "star": "59"
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "description": "YOLOv5 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "language": "Python",
+    "star": "45"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "language": "HTML",
+    "star": "88"
+  }
+]
