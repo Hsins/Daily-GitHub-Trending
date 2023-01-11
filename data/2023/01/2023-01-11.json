@@ -1,0 +1,177 @@
+[
+  {
+    "title": "amitshekhariitbhu/go-backend-clean-architecture",
+    "url": "https://github.com/amitshekhariitbhu/go-backend-clean-architecture",
+    "description": "A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",
+    "language": "Go",
+    "star": "67"
+  },
+  {
+    "title": "pointfreeco/swift-dependencies",
+    "url": "https://github.com/pointfreeco/swift-dependencies",
+    "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
+    "language": "Swift",
+    "star": "71"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "245"
+  },
+  {
+    "title": "sismo-core/sismo-protocol",
+    "url": "https://github.com/sismo-core/sismo-protocol",
+    "description": "Contracts of the Sismo Attestation Protocol",
+    "language": "TypeScript",
+    "star": "3"
+  },
+  {
+    "title": "danielgross/whatsapp-gpt",
+    "url": "https://github.com/danielgross/whatsapp-gpt",
+    "description": "",
+    "language": "Go",
+    "star": "138"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "JuanCrg90/Clean-Code-Notes",
+    "url": "https://github.com/JuanCrg90/Clean-Code-Notes",
+    "description": "My notes of Clean Code book",
+    "language": "none",
+    "star": "578"
+  },
+  {
+    "title": "matteozappia/DynamicCow",
+    "url": "https://github.com/matteozappia/DynamicCow",
+    "description": "Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit.",
+    "language": "Objective-C",
+    "star": "21"
+  },
+  {
+    "title": "twitter/twemoji",
+    "url": "https://github.com/twitter/twemoji",
+    "description": "Emoji for everyone. https://twemoji.twitter.com/",
+    "language": "HTML",
+    "star": "14"
+  },
+  {
+    "title": "EddieHubCommunity/LinkFree",
+    "url": "https://github.com/EddieHubCommunity/LinkFree",
+    "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
+    "language": "JavaScript",
+    "star": "116"
+  },
+  {
+    "title": "the-teacher/rails7-startkit",
+    "url": "https://github.com/the-teacher/rails7-startkit",
+    "description": "Rails7 StartKit. Launch App in minutes!",
+    "language": "Ruby",
+    "star": "13"
+  },
+  {
+    "title": "Snapchat/KeyDB",
+    "url": "https://github.com/Snapchat/KeyDB",
+    "description": "A Multithreaded Fork of Redis",
+    "language": "C++",
+    "star": "140"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "language": "Python",
+    "star": "136"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+    "language": "JavaScript",
+    "star": "117"
+  },
+  {
+    "title": "HydroniumLabs/h3o",
+    "url": "https://github.com/HydroniumLabs/h3o",
+    "description": "Rust implementation of the H3 geospatial indexing system.",
+    "language": "Rust",
+    "star": "15"
+  },
+  {
+    "title": "Nutlope/restorePhotos",
+    "url": "https://github.com/Nutlope/restorePhotos",
+    "description": "Restoring old and blurry face photos with AI.",
+    "language": "TypeScript",
+    "star": "173"
+  },
+  {
+    "title": "rails/mrsk",
+    "url": "https://github.com/rails/mrsk",
+    "description": "Deploy Docker containers with zero downtime to any host",
+    "language": "Ruby",
+    "star": "59"
+  },
+  {
+    "title": "aws-ia/terraform-aws-eks-blueprints",
+    "url": "https://github.com/aws-ia/terraform-aws-eks-blueprints",
+    "description": "Configure and deploy complete EKS clusters.",
+    "language": "HCL",
+    "star": "8"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "description": "Firebase SDK for Apple App Development",
+    "language": "Objective-C",
+    "star": "3"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "135"
+  },
+  {
+    "title": "open-mmlab/mmdetection",
+    "url": "https://github.com/open-mmlab/mmdetection",
+    "description": "OpenMMLab Detection Toolbox and Benchmark",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "282"
+  },
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+    "language": "none",
+    "star": "116"
+  },
+  {
+    "title": "pmndrs/zustand",
+    "url": "https://github.com/pmndrs/zustand",
+    "description": "🐻 Bear necessities for state management in React",
+    "language": "TypeScript",
+    "star": "64"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "description": "A Django content management system focused on flexibility and user experience",
+    "language": "Python",
+    "star": "7"
+  }
+]
