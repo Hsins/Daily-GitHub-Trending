@@ -4,7 +4,7 @@
     "url": "https://github.com/ultralytics/ultralytics",
     "description": "YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "432"
+    "star": "433"
   },
   {
     "title": "karpathy/nanoGPT",
@@ -25,7 +25,7 @@
     "url": "https://github.com/shobrook/adrenaline",
     "description": "An AI-powered debugger",
     "language": "JavaScript",
-    "star": "186"
+    "star": "190"
   },
   {
     "title": "pointfreeco/swift-dependencies",
@@ -60,7 +60,7 @@
     "url": "https://github.com/Sanster/lama-cleaner",
     "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
     "language": "Python",
-    "star": "204"
+    "star": "206"
   },
   {
     "title": "amitshekhariitbhu/go-backend-clean-architecture",
@@ -88,7 +88,7 @@
     "url": "https://github.com/danielgross/whatsapp-gpt",
     "description": "",
     "language": "Go",
-    "star": "129"
+    "star": "126"
   },
   {
     "title": "microsoft/unilm",
@@ -144,7 +144,7 @@
     "url": "https://github.com/tweedegolf/101-rs",
     "description": "A Rust university course",
     "language": "Rust",
-    "star": "157"
+    "star": "160"
   },
   {
     "title": "Bssn520/AnimationAutoUpdate",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vectordotdev/vector",
     "description": "A high-performance observability data pipeline.",
     "language": "Rust",
-    "star": "78"
+    "star": "81"
   }
 ]
