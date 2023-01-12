@@ -4,7 +4,7 @@
     "url": "https://github.com/ultralytics/ultralytics",
     "description": "YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "365"
+    "star": "432"
   },
   {
     "title": "karpathy/nanoGPT",
@@ -25,14 +25,14 @@
     "url": "https://github.com/shobrook/adrenaline",
     "description": "An AI-powered debugger",
     "language": "JavaScript",
-    "star": "98"
+    "star": "186"
   },
   {
     "title": "pointfreeco/swift-dependencies",
     "url": "https://github.com/pointfreeco/swift-dependencies",
     "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
     "language": "Swift",
-    "star": "82"
+    "star": "74"
   },
   {
     "title": "jerryjliu/gpt_index",
@@ -60,21 +60,21 @@
     "url": "https://github.com/Sanster/lama-cleaner",
     "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
     "language": "Python",
-    "star": "180"
+    "star": "204"
   },
   {
     "title": "amitshekhariitbhu/go-backend-clean-architecture",
     "url": "https://github.com/amitshekhariitbhu/go-backend-clean-architecture",
     "description": "A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",
     "language": "Go",
-    "star": "162"
+    "star": "165"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "284"
+    "star": "287"
   },
   {
     "title": "dotnet/core",
@@ -88,14 +88,14 @@
     "url": "https://github.com/danielgross/whatsapp-gpt",
     "description": "",
     "language": "Go",
-    "star": "116"
+    "star": "129"
   },
   {
     "title": "microsoft/unilm",
     "url": "https://github.com/microsoft/unilm",
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "language": "Python",
-    "star": "119"
+    "star": "129"
   },
   {
     "title": "odoo/odoo",
@@ -116,14 +116,14 @@
     "url": "https://github.com/JuanCrg90/Clean-Code-Notes",
     "description": "My notes of Clean Code book",
     "language": "none",
-    "star": "465"
+    "star": "457"
   },
   {
     "title": "gragland/chatgpt-chrome-extension",
     "url": "https://github.com/gragland/chatgpt-chrome-extension",
     "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
     "language": "JavaScript",
-    "star": "146"
+    "star": "137"
   },
   {
     "title": "bregman-arie/devops-exercises",
@@ -137,14 +137,14 @@
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Python",
-    "star": "623"
+    "star": "621"
   },
   {
     "title": "tweedegolf/101-rs",
     "url": "https://github.com/tweedegolf/101-rs",
     "description": "A Rust university course",
     "language": "Rust",
-    "star": "32"
+    "star": "157"
   },
   {
     "title": "Bssn520/AnimationAutoUpdate",
@@ -158,7 +158,7 @@
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "498"
+    "star": "497"
   },
   {
     "title": "kubernetes/enhancements",
@@ -172,6 +172,6 @@
     "url": "https://github.com/vectordotdev/vector",
     "description": "A high-performance observability data pipeline.",
     "language": "Rust",
-    "star": "17"
+    "star": "78"
   }
 ]
