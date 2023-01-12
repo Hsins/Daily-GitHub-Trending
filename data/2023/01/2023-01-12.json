@@ -1,0 +1,177 @@
+[
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "description": "YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
+    "language": "Python",
+    "star": "365"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "language": "Jupyter Notebook",
+    "star": "2"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "language": "C++",
+    "star": "257"
+  },
+  {
+    "title": "shobrook/adrenaline",
+    "url": "https://github.com/shobrook/adrenaline",
+    "description": "An AI-powered debugger",
+    "language": "JavaScript",
+    "star": "98"
+  },
+  {
+    "title": "pointfreeco/swift-dependencies",
+    "url": "https://github.com/pointfreeco/swift-dependencies",
+    "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
+    "language": "Swift",
+    "star": "82"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "description": "An index created by GPT to organize external information and answer queries!",
+    "language": "Python",
+    "star": "117"
+  },
+  {
+    "title": "sismo-core/sismo-protocol",
+    "url": "https://github.com/sismo-core/sismo-protocol",
+    "description": "Contracts of the Sismo Attestation Protocol",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+    "language": "Java",
+    "star": "326"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "language": "Python",
+    "star": "180"
+  },
+  {
+    "title": "amitshekhariitbhu/go-backend-clean-architecture",
+    "url": "https://github.com/amitshekhariitbhu/go-backend-clean-architecture",
+    "description": "A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",
+    "language": "Go",
+    "star": "162"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "284"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "description": "Home repository for .NET Core",
+    "language": "PowerShell",
+    "star": "8"
+  },
+  {
+    "title": "danielgross/whatsapp-gpt",
+    "url": "https://github.com/danielgross/whatsapp-gpt",
+    "description": "",
+    "language": "Go",
+    "star": "116"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+    "language": "Python",
+    "star": "119"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "JavaScript",
+    "star": "13"
+  },
+  {
+    "title": "tallyhowallet/extension",
+    "url": "https://github.com/tallyhowallet/extension",
+    "description": "Tally Ho, the community owned and operated Web3 wallet.",
+    "language": "TypeScript",
+    "star": "475"
+  },
+  {
+    "title": "JuanCrg90/Clean-Code-Notes",
+    "url": "https://github.com/JuanCrg90/Clean-Code-Notes",
+    "description": "My notes of Clean Code book",
+    "language": "none",
+    "star": "465"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+    "language": "JavaScript",
+    "star": "146"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Python",
+    "star": "623"
+  },
+  {
+    "title": "tweedegolf/101-rs",
+    "url": "https://github.com/tweedegolf/101-rs",
+    "description": "A Rust university course",
+    "language": "Rust",
+    "star": "32"
+  },
+  {
+    "title": "Bssn520/AnimationAutoUpdate",
+    "url": "https://github.com/Bssn520/AnimationAutoUpdate",
+    "description": "🤪动漫、电视剧的自动更新及在线观看。🫡",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "language": "JavaScript",
+    "star": "498"
+  },
+  {
+    "title": "kubernetes/enhancements",
+    "url": "https://github.com/kubernetes/enhancements",
+    "description": "Enhancements tracking repo for Kubernetes",
+    "language": "Go",
+    "star": "4"
+  },
+  {
+    "title": "vectordotdev/vector",
+    "url": "https://github.com/vectordotdev/vector",
+    "description": "A high-performance observability data pipeline.",
+    "language": "Rust",
+    "star": "17"
+  }
+]
