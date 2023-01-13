@@ -4,42 +4,42 @@
     "url": "https://github.com/open-duelyst/duelyst",
     "description": "Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.",
     "language": "JavaScript",
-    "star": "463"
+    "star": "535"
   },
   {
     "title": "ultralytics/ultralytics",
     "url": "https://github.com/ultralytics/ultralytics",
     "description": "YOLOv8 🚀 in PyTorch > ONNX > CoreML > TFLite",
     "language": "Python",
-    "star": "464"
+    "star": "414"
   },
   {
     "title": "ToolJet/ToolJet",
     "url": "https://github.com/ToolJet/ToolJet",
     "description": "Extensible low-code framework for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "363"
+    "star": "509"
   },
   {
     "title": "WerWolv/ImHex",
     "url": "https://github.com/WerWolv/ImHex",
     "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
     "language": "C++",
-    "star": "296"
+    "star": "281"
   },
   {
     "title": "shobrook/adrenaline",
     "url": "https://github.com/shobrook/adrenaline",
     "description": "An AI-powered debugger",
     "language": "JavaScript",
-    "star": "178"
+    "star": "179"
   },
   {
     "title": "pointfreeco/swift-dependencies",
     "url": "https://github.com/pointfreeco/swift-dependencies",
     "description": "A dependency management library inspired by SwiftUI's \"environment.\"",
     "language": "Swift",
-    "star": "95"
+    "star": "109"
   },
   {
     "title": "amitshekhariitbhu/go-backend-clean-architecture",
@@ -60,21 +60,21 @@
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "language": "Jupyter Notebook",
-    "star": "1"
+    "star": "2"
   },
   {
     "title": "Sanster/lama-cleaner",
     "url": "https://github.com/Sanster/lama-cleaner",
     "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
     "language": "Python",
-    "star": "207"
+    "star": "190"
   },
   {
     "title": "openai/openai-cookbook",
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Python",
-    "star": "587"
+    "star": "586"
   },
   {
     "title": "tallyhowallet/extension",
@@ -95,7 +95,7 @@
     "url": "https://github.com/d3/d3",
     "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
     "language": "JavaScript",
-    "star": "20"
+    "star": "21"
   },
   {
     "title": "Alamofire/Alamofire",
@@ -137,21 +137,21 @@
     "url": "https://github.com/halo-dev/halo",
     "description": "好用又强大的开源建站工具。",
     "language": "Java",
-    "star": "29"
+    "star": "30"
   },
   {
     "title": "PostHog/posthog",
     "url": "https://github.com/PostHog/posthog",
     "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.",
     "language": "TypeScript",
-    "star": "29"
+    "star": "25"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "290"
+    "star": "285"
   },
   {
     "title": "cloudflare/wildebeest",
@@ -165,7 +165,7 @@
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "language": "Java",
-    "star": "236"
+    "star": "248"
   },
   {
     "title": "Azure/Azure-Sentinel",
