@@ -32,14 +32,14 @@
     "url": "https://github.com/elk-zone/elk",
     "description": "A nimble Mastodon web client",
     "language": "Vue",
-    "star": "321"
+    "star": "325"
   },
   {
     "title": "tweedegolf/101-rs",
     "url": "https://github.com/tweedegolf/101-rs",
     "description": "A Rust university course",
     "language": "Rust",
-    "star": "148"
+    "star": "145"
   },
   {
     "title": "jlevy/the-art-of-command-line",
@@ -95,7 +95,7 @@
     "url": "https://github.com/danielgross/whatsapp-gpt",
     "description": "",
     "language": "Go",
-    "star": "99"
+    "star": "97"
   },
   {
     "title": "facebook/react-native",
@@ -123,7 +123,7 @@
     "url": "https://github.com/Sanster/lama-cleaner",
     "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
     "language": "Python",
-    "star": "184"
+    "star": "186"
   },
   {
     "title": "bradtraversy/50projects50days",
@@ -137,7 +137,7 @@
     "url": "https://github.com/d3/d3",
     "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
     "language": "JavaScript",
-    "star": "95"
+    "star": "93"
   },
   {
     "title": "novuhq/novu",
