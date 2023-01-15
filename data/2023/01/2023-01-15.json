@@ -4,28 +4,28 @@
     "url": "https://github.com/sickcodes/Docker-OSX",
     "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
     "language": "Shell",
-    "star": "404"
+    "star": "406"
   },
   {
     "title": "sczhou/CodeFormer",
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "297"
+    "star": "275"
   },
   {
     "title": "novuhq/novu",
     "url": "https://github.com/novuhq/novu",
     "description": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
     "language": "TypeScript",
-    "star": "262"
+    "star": "288"
   },
   {
     "title": "leptos-rs/leptos",
     "url": "https://github.com/leptos-rs/leptos",
     "description": "Build fast web applications with Rust.",
     "language": "Rust",
-    "star": "80"
+    "star": "77"
   },
   {
     "title": "Slackadays/Clipboard",
@@ -46,56 +46,56 @@
     "url": "https://github.com/jart/blink",
     "description": "tiniest x86-64-linux emulator",
     "language": "C",
-    "star": "120"
+    "star": "83"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "62"
+    "star": "52"
   },
   {
     "title": "elk-zone/elk",
     "url": "https://github.com/elk-zone/elk",
     "description": "A nimble Mastodon web client",
     "language": "Vue",
-    "star": "213"
+    "star": "335"
   },
   {
     "title": "cloudflare/wildebeest",
     "url": "https://github.com/cloudflare/wildebeest",
     "description": "Wildebeest is an ActivityPub and Mastodon-compatible server",
     "language": "TypeScript",
-    "star": "115"
+    "star": "203"
   },
   {
     "title": "topjohnwu/Magisk",
     "url": "https://github.com/topjohnwu/Magisk",
     "description": "The Magic Mask for Android",
     "language": "C++",
-    "star": "40"
+    "star": "29"
   },
   {
     "title": "danielgross/whatsapp-gpt",
     "url": "https://github.com/danielgross/whatsapp-gpt",
     "description": "",
     "language": "Go",
-    "star": "63"
+    "star": "99"
   },
   {
     "title": "tweedegolf/101-rs",
     "url": "https://github.com/tweedegolf/101-rs",
     "description": "A Rust university course",
     "language": "Rust",
-    "star": "210"
+    "star": "147"
   },
   {
     "title": "open-duelyst/duelyst",
     "url": "https://github.com/open-duelyst/duelyst",
     "description": "Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.",
     "language": "JavaScript",
-    "star": "260"
+    "star": "245"
   },
   {
     "title": "ai-collection/ai-collection",
@@ -116,14 +116,14 @@
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "112"
+    "star": "120"
   },
   {
     "title": "juspay/hyperswitch",
     "url": "https://github.com/juspay/hyperswitch",
     "description": "An Open Source Financial Switch to make Payments fast, reliable and affordable",
     "language": "Rust",
-    "star": "260"
+    "star": "252"
   },
   {
     "title": "ryanmcdermott/clean-code-javascript",
@@ -151,14 +151,14 @@
     "url": "https://github.com/nocodb/nocodb",
     "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
     "language": "TypeScript",
-    "star": "56"
+    "star": "31"
   },
   {
     "title": "helix-editor/helix",
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "58"
+    "star": "43"
   },
   {
     "title": "lencx/ChatGPT",
@@ -172,6 +172,6 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "176"
+    "star": "170"
   }
 ]
