@@ -4,21 +4,21 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "185"
+    "star": "184"
   },
   {
     "title": "juspay/hyperswitch",
     "url": "https://github.com/juspay/hyperswitch",
     "description": "An Open Source Financial Switch to make Payments fast, reliable and affordable",
     "language": "Rust",
-    "star": "260"
+    "star": "299"
   },
   {
     "title": "novuhq/novu",
     "url": "https://github.com/novuhq/novu",
     "description": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
     "language": "TypeScript",
-    "star": "212"
+    "star": "208"
   },
   {
     "title": "sveltejs/kit",
@@ -32,7 +32,7 @@
     "url": "https://github.com/sickcodes/Docker-OSX",
     "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
     "language": "Shell",
-    "star": "309"
+    "star": "429"
   },
   {
     "title": "wangkechun/go-by-example",
@@ -46,7 +46,7 @@
     "url": "https://github.com/williamyang1991/VToonify",
     "description": "[SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer",
     "language": "Jupyter Notebook",
-    "star": "207"
+    "star": "177"
   },
   {
     "title": "massgravel/Microsoft-Activation-Scripts",
@@ -60,7 +60,7 @@
     "url": "https://github.com/steven-tey/precedent",
     "description": "An opinionated collection of components, hooks, and utilities for your Next.js project.",
     "language": "TypeScript",
-    "star": "162"
+    "star": "164"
   },
   {
     "title": "ai-collection/ai-collection",
@@ -88,14 +88,14 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "131"
+    "star": "157"
   },
   {
     "title": "pi-hole/pi-hole",
     "url": "https://github.com/pi-hole/pi-hole",
     "description": "A black hole for Internet advertisements",
     "language": "Shell",
-    "star": "112"
+    "star": "108"
   },
   {
     "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
@@ -116,7 +116,7 @@
     "url": "https://github.com/jucasoliveira/terminalGPT",
     "description": "Get GPT like chatGPT on your terminal",
     "language": "JavaScript",
-    "star": "72"
+    "star": "112"
   },
   {
     "title": "lencx/ChatGPT",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "11"
+    "star": "20"
   },
   {
     "title": "topjohnwu/Magisk",
     "url": "https://github.com/topjohnwu/Magisk",
     "description": "The Magic Mask for Android",
     "language": "C++",
-    "star": "40"
+    "star": "62"
   }
 ]
