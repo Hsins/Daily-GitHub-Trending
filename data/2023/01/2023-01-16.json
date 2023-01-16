@@ -11,14 +11,14 @@
     "url": "https://github.com/juspay/hyperswitch",
     "description": "An Open Source Financial Switch to make Payments fast, reliable and affordable",
     "language": "Rust",
-    "star": "298"
+    "star": "264"
   },
   {
     "title": "novuhq/novu",
     "url": "https://github.com/novuhq/novu",
     "description": "The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀",
     "language": "TypeScript",
-    "star": "208"
+    "star": "207"
   },
   {
     "title": "sveltejs/kit",
@@ -32,49 +32,49 @@
     "url": "https://github.com/sickcodes/Docker-OSX",
     "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
     "language": "Shell",
-    "star": "429"
+    "star": "308"
   },
   {
     "title": "wangkechun/go-by-example",
     "url": "https://github.com/wangkechun/go-by-example",
     "description": "",
     "language": "Go",
-    "star": "19"
+    "star": "17"
   },
   {
     "title": "williamyang1991/VToonify",
     "url": "https://github.com/williamyang1991/VToonify",
     "description": "[SIGGRAPH Asia 2022] VToonify: Controllable High-Resolution Portrait Video Style Transfer",
     "language": "Jupyter Notebook",
-    "star": "177"
+    "star": "207"
   },
   {
     "title": "massgravel/Microsoft-Activation-Scripts",
     "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "description": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
     "language": "Batchfile",
-    "star": "387"
+    "star": "388"
   },
   {
     "title": "steven-tey/precedent",
     "url": "https://github.com/steven-tey/precedent",
     "description": "An opinionated collection of components, hooks, and utilities for your Next.js project.",
     "language": "TypeScript",
-    "star": "164"
+    "star": "162"
   },
   {
     "title": "ai-collection/ai-collection",
     "url": "https://github.com/ai-collection/ai-collection",
     "description": "A collection of generative AI applications",
     "language": "none",
-    "star": "104"
+    "star": "454"
   },
   {
     "title": "helium/denylist",
     "url": "https://github.com/helium/denylist",
     "description": "",
     "language": "none",
-    "star": "4"
+    "star": "6"
   },
   {
     "title": "Slackadays/Clipboard",
@@ -88,14 +88,14 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "158"
+    "star": "129"
   },
   {
     "title": "pi-hole/pi-hole",
     "url": "https://github.com/pi-hole/pi-hole",
     "description": "A black hole for Internet advertisements",
     "language": "Shell",
-    "star": "108"
+    "star": "138"
   },
   {
     "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
@@ -109,28 +109,28 @@
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "An index created by GPT to organize external information and answer queries!",
     "language": "Python",
-    "star": "73"
+    "star": "70"
   },
   {
     "title": "jucasoliveira/terminalGPT",
     "url": "https://github.com/jucasoliveira/terminalGPT",
     "description": "Get GPT like chatGPT on your terminal",
     "language": "JavaScript",
-    "star": "112"
+    "star": "70"
   },
   {
     "title": "lencx/ChatGPT",
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "136"
+    "star": "137"
   },
   {
     "title": "sczhou/CodeFormer",
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "185"
+    "star": "187"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -144,7 +144,7 @@
     "url": "https://github.com/termux/termux-packages",
     "description": "A build system and primary set of packages for Termux.",
     "language": "Shell",
-    "star": "13"
+    "star": "10"
   },
   {
     "title": "imDazui/Tvlist-awesome-m3u-m3u8",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Grasscutters/Grasscutter",
     "description": "A server software reimplementation for a certain anime game.",
     "language": "Java",
-    "star": "20"
+    "star": "11"
   },
   {
     "title": "topjohnwu/Magisk",
     "url": "https://github.com/topjohnwu/Magisk",
     "description": "The Magic Mask for Android",
     "language": "C++",
-    "star": "63"
+    "star": "40"
   }
 ]
