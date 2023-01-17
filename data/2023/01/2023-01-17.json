@@ -60,7 +60,7 @@
     "url": "https://github.com/ai-collection/ai-collection",
     "description": "A collection of generative AI applications",
     "language": "none",
-    "star": "460"
+    "star": "458"
   },
   {
     "title": "annfelix/DEVOPS-WORLD",
@@ -74,28 +74,28 @@
     "url": "https://github.com/ReagentX/imessage-exporter",
     "description": "Export MacOS iMessage data + run iMessage Diagnostics",
     "language": "Rust",
-    "star": "171"
+    "star": "159"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "301"
+    "star": "305"
   },
   {
     "title": "enhuiz/vall-e",
     "url": "https://github.com/enhuiz/vall-e",
     "description": "An unofficial PyTorch implementation of the audio LM VALL-E, WIP",
     "language": "Python",
-    "star": "35"
+    "star": "34"
   },
   {
     "title": "sczhou/CodeFormer",
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "238"
+    "star": "235"
   },
   {
     "title": "evcc-io/evcc",
@@ -109,7 +109,7 @@
     "url": "https://github.com/lefayjey/linWinPwn",
     "description": "linWinPwn is a bash script that automates a number of Active Directory Enumeration and Vulnerability checks",
     "language": "Shell",
-    "star": "83"
+    "star": "84"
   },
   {
     "title": "xiaye13579/BBLL",
@@ -144,7 +144,7 @@
     "url": "https://github.com/juspay/hyperswitch",
     "description": "An Open Source Financial Switch to make Payments fast, reliable and affordable",
     "language": "Rust",
-    "star": "300"
+    "star": "303"
   },
   {
     "title": "marcel-dempers/docker-development-youtube-series",
@@ -158,14 +158,14 @@
     "url": "https://github.com/pocketbase/pocketbase",
     "description": "Open Source realtime backend in 1 file",
     "language": "Go",
-    "star": "67"
+    "star": "66"
   },
   {
     "title": "helium/denylist",
     "url": "https://github.com/helium/denylist",
     "description": "",
     "language": "none",
-    "star": "6"
+    "star": "5"
   },
   {
     "title": "open-mmlab/mmyolo",
