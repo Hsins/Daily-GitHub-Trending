@@ -11,14 +11,14 @@
     "url": "https://github.com/anuraghazra/github-readme-stats",
     "description": "⚡ Dynamically generated stats for your github readmes",
     "language": "JavaScript",
-    "star": "89"
+    "star": "77"
   },
   {
     "title": "sveltejs/kit",
     "url": "https://github.com/sveltejs/kit",
     "description": "web development, streamlined",
     "language": "JavaScript",
-    "star": "43"
+    "star": "40"
   },
   {
     "title": "Moonlight-Zhao/go-project-example",
@@ -39,7 +39,7 @@
     "url": "https://github.com/microsoft/AI-For-Beginners",
     "description": "12 Weeks, 24 Lessons, AI for All!",
     "language": "Jupyter Notebook",
-    "star": "163"
+    "star": "75"
   },
   {
     "title": "midudev/kings-league-project",
@@ -60,7 +60,7 @@
     "url": "https://github.com/ai-collection/ai-collection",
     "description": "A collection of generative AI applications",
     "language": "none",
-    "star": "460"
+    "star": "458"
   },
   {
     "title": "annfelix/DEVOPS-WORLD",
@@ -74,14 +74,14 @@
     "url": "https://github.com/ReagentX/imessage-exporter",
     "description": "Export MacOS iMessage data + run iMessage Diagnostics",
     "language": "Rust",
-    "star": "169"
+    "star": "159"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "311"
+    "star": "305"
   },
   {
     "title": "enhuiz/vall-e",
@@ -95,7 +95,7 @@
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "237"
+    "star": "235"
   },
   {
     "title": "evcc-io/evcc",
@@ -144,7 +144,7 @@
     "url": "https://github.com/juspay/hyperswitch",
     "description": "An Open Source Financial Switch to make Payments fast, reliable and affordable",
     "language": "Rust",
-    "star": "380"
+    "star": "303"
   },
   {
     "title": "marcel-dempers/docker-development-youtube-series",
@@ -165,13 +165,13 @@
     "url": "https://github.com/helium/denylist",
     "description": "",
     "language": "none",
-    "star": "6"
+    "star": "5"
   },
   {
     "title": "open-mmlab/mmyolo",
     "url": "https://github.com/open-mmlab/mmyolo",
     "description": "OpenMMLab YOLO series toolbox and benchmark. Implemented RTMDet, YOLOv5, YOLOv6, YOLOv7, YOLOv8,YOLOX, PPYOLOE, etc.",
     "language": "Python",
-    "star": "11"
+    "star": "9"
   }
 ]
