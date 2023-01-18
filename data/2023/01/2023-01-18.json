@@ -1,0 +1,177 @@
+[
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "description": "Free Data Engineering course!",
+    "language": "Jupyter Notebook",
+    "star": "392"
+  },
+  {
+    "title": "CatVodTVOfficial/TVBoxOSC",
+    "url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
+    "description": "真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。",
+    "language": "Java",
+    "star": "27"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "description": "⚡ Building applications with LLMs through composability ⚡",
+    "language": "Python",
+    "star": "480"
+  },
+  {
+    "title": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "description": "An Open Source Financial Switch to make Payments fast, reliable and affordable",
+    "language": "Rust",
+    "star": "352"
+  },
+  {
+    "title": "MaximeBeasse/KeyDecoder",
+    "url": "https://github.com/MaximeBeasse/KeyDecoder",
+    "description": "KeyDecoder app lets you use your smartphone or tablet to decode your mechanical keys in seconds.",
+    "language": "Dart",
+    "star": "262"
+  },
+  {
+    "title": "rocketseat-education/nlw-setup-ignite",
+    "url": "https://github.com/rocketseat-education/nlw-setup-ignite",
+    "description": "Aplicação desenvolvida durante o NLW Setup - Ignite",
+    "language": "TypeScript",
+    "star": "34"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "description": "Next immersive translator, only for release new version",
+    "language": "Makefile",
+    "star": "96"
+  },
+  {
+    "title": "annfelix/DEVOPS-WORLD",
+    "url": "https://github.com/annfelix/DEVOPS-WORLD",
+    "description": "",
+    "language": "none",
+    "star": "204"
+  },
+  {
+    "title": "microsoft/AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "description": "12 Weeks, 24 Lessons, AI for All!",
+    "language": "Jupyter Notebook",
+    "star": "219"
+  },
+  {
+    "title": "alpkeskin/mosint",
+    "url": "https://github.com/alpkeskin/mosint",
+    "description": "An automated e-mail OSINT tool",
+    "language": "Go",
+    "star": "37"
+  },
+  {
+    "title": "wolfogre/go-pprof-practice",
+    "url": "https://github.com/wolfogre/go-pprof-practice",
+    "description": "go pprof practice.",
+    "language": "Go",
+    "star": "3"
+  },
+  {
+    "title": "groundcover-com/caretta",
+    "url": "https://github.com/groundcover-com/caretta",
+    "description": "Instant K8s service dependency map, right to your Grafana.",
+    "language": "C",
+    "star": "228"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "409"
+  },
+  {
+    "title": "MinBZK/woo-besluit-broncode-digid-app",
+    "url": "https://github.com/MinBZK/woo-besluit-broncode-digid-app",
+    "description": "",
+    "language": "C#",
+    "star": "121"
+  },
+  {
+    "title": "enhuiz/vall-e",
+    "url": "https://github.com/enhuiz/vall-e",
+    "description": "An unofficial PyTorch implementation of the audio LM VALL-E, WIP",
+    "language": "Python",
+    "star": "123"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "451"
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "description": "⚡ Dynamically generated stats for your github readmes",
+    "language": "JavaScript",
+    "star": "206"
+  },
+  {
+    "title": "microsoft/MDE-PowerBI-Templates",
+    "url": "https://github.com/microsoft/MDE-PowerBI-Templates",
+    "description": "A respository for MDATP PowerBI Templates",
+    "language": "PowerShell",
+    "star": "31"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
+    "language": "none",
+    "star": "53"
+  },
+  {
+    "title": "cilium/ebpf",
+    "url": "https://github.com/cilium/ebpf",
+    "description": "ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "mikel-brostrom/yolov8_tracking",
+    "url": "https://github.com/mikel-brostrom/yolov8_tracking",
+    "description": "Real-time multi-object tracking and segmentation using YOLOv8",
+    "language": "Python",
+    "star": "24"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+    "language": "Python",
+    "star": "177"
+  },
+  {
+    "title": "xiaye13579/BBLL",
+    "url": "https://github.com/xiaye13579/BBLL",
+    "description": "一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。",
+    "language": "none",
+    "star": "176"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+    "language": "Swift",
+    "star": "32"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "description": "A curated list of software and architecture related design patterns.",
+    "language": "none",
+    "star": "157"
+  }
+]
