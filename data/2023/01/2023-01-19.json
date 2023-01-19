@@ -18,21 +18,21 @@
     "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "description": "Free Data Engineering course!",
     "language": "Jupyter Notebook",
-    "star": "870"
+    "star": "869"
   },
   {
     "title": "hwchase17/langchain",
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "807"
+    "star": "794"
   },
   {
     "title": "annfelix/DEVOPS-WORLD",
     "url": "https://github.com/annfelix/DEVOPS-WORLD",
     "description": "",
     "language": "none",
-    "star": "168"
+    "star": "171"
   },
   {
     "title": "midudev/aprendiendo-react",
@@ -46,35 +46,35 @@
     "url": "https://github.com/enhuiz/vall-e",
     "description": "An unofficial PyTorch implementation of the audio LM VALL-E, WIP",
     "language": "Python",
-    "star": "196"
+    "star": "205"
   },
   {
     "title": "microsoft/AI-For-Beginners",
     "url": "https://github.com/microsoft/AI-For-Beginners",
     "description": "12 Weeks, 24 Lessons, AI for All!",
     "language": "Jupyter Notebook",
-    "star": "432"
+    "star": "365"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "355"
+    "star": "283"
   },
   {
     "title": "CatVodTVOfficial/TVBoxOSC",
     "url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
     "description": "真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。",
     "language": "Java",
-    "star": "69"
+    "star": "72"
   },
   {
     "title": "sczhou/CodeFormer",
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "188"
+    "star": "191"
   },
   {
     "title": "facebook/docusaurus",
@@ -88,7 +88,7 @@
     "url": "https://github.com/aquasecurity/trivy",
     "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
     "language": "Go",
-    "star": "21"
+    "star": "22"
   },
   {
     "title": "openai/whisper",
@@ -102,14 +102,14 @@
     "url": "https://github.com/anuraghazra/github-readme-stats",
     "description": "⚡ Dynamically generated stats for your github readmes",
     "language": "JavaScript",
-    "star": "376"
+    "star": "380"
   },
   {
     "title": "pynecone-io/pynecone",
     "url": "https://github.com/pynecone-io/pynecone",
     "description": "Web apps in pure Python.",
     "language": "Python",
-    "star": "78"
+    "star": "76"
   },
   {
     "title": "QuestPDF/QuestPDF",
@@ -144,7 +144,7 @@
     "url": "https://github.com/rawandahmad698/PyChatGPT",
     "description": "⚡️ Python client for the unofficial ChatGPT API with auto token regeneration, conversation tracking, proxy support and more.",
     "language": "Python",
-    "star": "24"
+    "star": "25"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
