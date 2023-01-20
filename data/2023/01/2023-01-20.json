@@ -1,0 +1,177 @@
+[
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "23"
+  },
+  {
+    "title": "karpathy/ng-video-lecture",
+    "url": "https://github.com/karpathy/ng-video-lecture",
+    "description": "",
+    "language": "Python",
+    "star": "75"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "description": "⚡ Building applications with LLMs through composability ⚡",
+    "language": "Python",
+    "star": "408"
+  },
+  {
+    "title": "QuestPDF/QuestPDF",
+    "url": "https://github.com/QuestPDF/QuestPDF",
+    "description": "QuestPDF is a modern open-source .NET library for PDF document generation. Offering comprehensive layout engine powered by concise and discoverable C# Fluent API. Easily generate PDF reports, invoices, exports, etc.",
+    "language": "C#",
+    "star": "414"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "description": "A curated list of software and architecture related design patterns.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "rocketseat-education/nlw-setup-ignite",
+    "url": "https://github.com/rocketseat-education/nlw-setup-ignite",
+    "description": "Aplicação desenvolvida durante o NLW Setup - Ignite",
+    "language": "TypeScript",
+    "star": "89"
+  },
+  {
+    "title": "AcademySoftwareFoundation/OpenRV",
+    "url": "https://github.com/AcademySoftwareFoundation/OpenRV",
+    "description": "",
+    "language": "C++",
+    "star": "53"
+  },
+  {
+    "title": "Dimillian/IceCubesApp",
+    "url": "https://github.com/Dimillian/IceCubesApp",
+    "description": "A SwiftUI Mastodon client",
+    "language": "Swift",
+    "star": "171"
+  },
+  {
+    "title": "denysdovhan/wtfjs",
+    "url": "https://github.com/denysdovhan/wtfjs",
+    "description": "🤪 A list of funny and tricky JavaScript examples",
+    "language": "JavaScript",
+    "star": "29"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "description": "Free Data Engineering course!",
+    "language": "Jupyter Notebook",
+    "star": "608"
+  },
+  {
+    "title": "badtuxx/CertifiedContainersExpert",
+    "url": "https://github.com/badtuxx/CertifiedContainersExpert",
+    "description": "",
+    "language": "none",
+    "star": "40"
+  },
+  {
+    "title": "MinBZK/woo-besluit-broncode-digid-app",
+    "url": "https://github.com/MinBZK/woo-besluit-broncode-digid-app",
+    "description": "",
+    "language": "C#",
+    "star": "194"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "A book series on JavaScript. @YDKJS on twitter.",
+    "language": "none",
+    "star": "46"
+  },
+  {
+    "title": "pynecone-io/pynecone",
+    "url": "https://github.com/pynecone-io/pynecone",
+    "description": "Web apps in pure Python",
+    "language": "Python",
+    "star": "157"
+  },
+  {
+    "title": "CatVodTVOfficial/TVBoxOSC",
+    "url": "https://github.com/CatVodTVOfficial/TVBoxOSC",
+    "description": "真的没有QQ群、QQ频道、论坛。打包分发注意开源协议，保留出处，不守规矩就不要搞。",
+    "language": "Java",
+    "star": "114"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "description": "Real-time face swap for PC streaming or video calls",
+    "language": "Python",
+    "star": "74"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "description": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "language": "none",
+    "star": "62"
+  },
+  {
+    "title": "llSourcell/ChatGPT_Trading_Bot",
+    "url": "https://github.com/llSourcell/ChatGPT_Trading_Bot",
+    "description": "This is the code for the \"ChatGPT Trading Bot\" Video by Siraj Raval on Youtube",
+    "language": "Jupyter Notebook",
+    "star": "15"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "description": "Substrate: The platform for blockchain innovators",
+    "language": "Rust",
+    "star": "14"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+    "language": "Jupyter Notebook",
+    "star": "114"
+  },
+  {
+    "title": "isekaidev/stable.art",
+    "url": "https://github.com/isekaidev/stable.art",
+    "description": "Photoshop plugin for Stable Diffusion with Automatic1111 as backend (locally or with Google Colab)",
+    "language": "Vue",
+    "star": "10"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "description": "Some out-of-the-box hooks for pre-commit",
+    "language": "Python",
+    "star": "7"
+  },
+  {
+    "title": "Azure/azure-cli",
+    "url": "https://github.com/Azure/azure-cli",
+    "description": "Azure Command-Line Interface",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8",
+    "description": "直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵",
+    "language": "none",
+    "star": "28"
+  },
+  {
+    "title": "johnlindquist/kit",
+    "url": "https://github.com/johnlindquist/kit",
+    "description": "Script Kit. Automate Anything.",
+    "language": "TypeScript",
+    "star": "66"
+  }
+]
