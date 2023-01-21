@@ -18,7 +18,7 @@
     "url": "https://github.com/karpathy/ng-video-lecture",
     "description": "",
     "language": "Python",
-    "star": "122"
+    "star": "148"
   },
   {
     "title": "massalabs/massa",
@@ -32,7 +32,7 @@
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "150"
+    "star": "198"
   },
   {
     "title": "google-research/tuning_playbook",
@@ -46,28 +46,28 @@
     "url": "https://github.com/TheMozg/awk-raycaster",
     "description": "Pseudo-3D shooter written completely in gawk using raycasting technique",
     "language": "Awk",
-    "star": "83"
+    "star": "143"
   },
   {
     "title": "DovAmir/awesome-design-patterns",
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "833"
+    "star": "568"
   },
   {
     "title": "Dimillian/IceCubesApp",
     "url": "https://github.com/Dimillian/IceCubesApp",
     "description": "A SwiftUI Mastodon client",
     "language": "Swift",
-    "star": "207"
+    "star": "239"
   },
   {
     "title": "BlinkDL/ChatRWKV",
     "url": "https://github.com/BlinkDL/ChatRWKV",
     "description": "ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.",
     "language": "Python",
-    "star": "265"
+    "star": "176"
   },
   {
     "title": "easychen/CookieCloud",
@@ -88,7 +88,7 @@
     "url": "https://github.com/AcademySoftwareFoundation/OpenRV",
     "description": "",
     "language": "C++",
-    "star": "51"
+    "star": "62"
   },
   {
     "title": "pre-commit/pre-commit-hooks",
@@ -102,14 +102,14 @@
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "58"
+    "star": "40"
   },
   {
     "title": "iperov/DeepFaceLive",
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "Real-time face swap for PC streaming or video calls",
     "language": "Python",
-    "star": "105"
+    "star": "84"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
