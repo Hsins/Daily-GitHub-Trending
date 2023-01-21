@@ -18,7 +18,7 @@
     "url": "https://github.com/karpathy/ng-video-lecture",
     "description": "",
     "language": "Python",
-    "star": "148"
+    "star": "122"
   },
   {
     "title": "massalabs/massa",
@@ -32,7 +32,7 @@
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "149"
+    "star": "150"
   },
   {
     "title": "google-research/tuning_playbook",
@@ -46,21 +46,21 @@
     "url": "https://github.com/TheMozg/awk-raycaster",
     "description": "Pseudo-3D shooter written completely in gawk using raycasting technique",
     "language": "Awk",
-    "star": "143"
+    "star": "83"
   },
   {
     "title": "DovAmir/awesome-design-patterns",
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "565"
+    "star": "833"
   },
   {
     "title": "Dimillian/IceCubesApp",
     "url": "https://github.com/Dimillian/IceCubesApp",
     "description": "A SwiftUI Mastodon client",
     "language": "Swift",
-    "star": "206"
+    "star": "207"
   },
   {
     "title": "BlinkDL/ChatRWKV",
@@ -88,28 +88,28 @@
     "url": "https://github.com/AcademySoftwareFoundation/OpenRV",
     "description": "",
     "language": "C++",
-    "star": "57"
+    "star": "51"
   },
   {
     "title": "pre-commit/pre-commit-hooks",
     "url": "https://github.com/pre-commit/pre-commit-hooks",
     "description": "Some out-of-the-box hooks for pre-commit",
     "language": "Python",
-    "star": "26"
+    "star": "21"
   },
   {
     "title": "nuxt/nuxt",
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "39"
+    "star": "58"
   },
   {
     "title": "iperov/DeepFaceLive",
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "Real-time face swap for PC streaming or video calls",
     "language": "Python",
-    "star": "82"
+    "star": "105"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
@@ -130,7 +130,7 @@
     "url": "https://github.com/psf/black",
     "description": "The uncompromising Python code formatter",
     "language": "Python",
-    "star": "22"
+    "star": "23"
   },
   {
     "title": "HorrorPills/ChatGPT-Gnome-Desktop-Extension",
@@ -151,7 +151,7 @@
     "url": "https://github.com/python/mypy",
     "description": "Optional static typing for Python",
     "language": "Python",
-    "star": "56"
+    "star": "52"
   },
   {
     "title": "projectdiscovery/pdtm",
