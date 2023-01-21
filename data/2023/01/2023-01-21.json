@@ -1,0 +1,177 @@
+[
+  {
+    "title": "timothybrooks/instruct-pix2pix",
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "description": "",
+    "language": "Python",
+    "star": "131"
+  },
+  {
+    "title": "AcademySoftwareFoundation/xstudio",
+    "url": "https://github.com/AcademySoftwareFoundation/xstudio",
+    "description": "",
+    "language": "C++",
+    "star": "19"
+  },
+  {
+    "title": "karpathy/ng-video-lecture",
+    "url": "https://github.com/karpathy/ng-video-lecture",
+    "description": "",
+    "language": "Python",
+    "star": "148"
+  },
+  {
+    "title": "massalabs/massa",
+    "url": "https://github.com/massalabs/massa",
+    "description": "The Decentralized and Scaled Blockchain",
+    "language": "Rust",
+    "star": "201"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "description": "An open-source C++ library developed and used at Facebook.",
+    "language": "C++",
+    "star": "149"
+  },
+  {
+    "title": "google-research/tuning_playbook",
+    "url": "https://github.com/google-research/tuning_playbook",
+    "description": "A playbook for systematically maximizing the performance of deep learning models.",
+    "language": "none",
+    "star": "3"
+  },
+  {
+    "title": "TheMozg/awk-raycaster",
+    "url": "https://github.com/TheMozg/awk-raycaster",
+    "description": "Pseudo-3D shooter written completely in gawk using raycasting technique",
+    "language": "Awk",
+    "star": "143"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "description": "A curated list of software and architecture related design patterns.",
+    "language": "none",
+    "star": "565"
+  },
+  {
+    "title": "Dimillian/IceCubesApp",
+    "url": "https://github.com/Dimillian/IceCubesApp",
+    "description": "A SwiftUI Mastodon client",
+    "language": "Swift",
+    "star": "206"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "description": "ChatRWKV is like ChatGPT but powered by the RWKV (100% RNN) language model, and open source.",
+    "language": "Python",
+    "star": "265"
+  },
+  {
+    "title": "easychen/CookieCloud",
+    "url": "https://github.com/easychen/CookieCloud",
+    "description": "CookieCloud是一个向自架服务器同步Cookie的小工具，可以将浏览器的登录态同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。",
+    "language": "JavaScript",
+    "star": "60"
+  },
+  {
+    "title": "FrontAnalyticsInc/data-winners",
+    "url": "https://github.com/FrontAnalyticsInc/data-winners",
+    "description": "A collection of FREE python and R scripts for website development, analysis, and optimization. Includes advanced resources for topical authority and semantic content optimization.",
+    "language": "Jupyter Notebook",
+    "star": "23"
+  },
+  {
+    "title": "AcademySoftwareFoundation/OpenRV",
+    "url": "https://github.com/AcademySoftwareFoundation/OpenRV",
+    "description": "",
+    "language": "C++",
+    "star": "57"
+  },
+  {
+    "title": "pre-commit/pre-commit-hooks",
+    "url": "https://github.com/pre-commit/pre-commit-hooks",
+    "description": "Some out-of-the-box hooks for pre-commit",
+    "language": "Python",
+    "star": "26"
+  },
+  {
+    "title": "nuxt/nuxt",
+    "url": "https://github.com/nuxt/nuxt",
+    "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
+    "language": "TypeScript",
+    "star": "39"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "description": "Real-time face swap for PC streaming or video calls",
+    "language": "Python",
+    "star": "82"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "language": "Python",
+    "star": "96"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "141"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "HorrorPills/ChatGPT-Gnome-Desktop-Extension",
+    "url": "https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension",
+    "description": "ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!",
+    "language": "JavaScript",
+    "star": "42"
+  },
+  {
+    "title": "OpenZeppelin/openzeppelin-contracts",
+    "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "JavaScript",
+    "star": "3"
+  },
+  {
+    "title": "python/mypy",
+    "url": "https://github.com/python/mypy",
+    "description": "Optional static typing for Python",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "projectdiscovery/pdtm",
+    "url": "https://github.com/projectdiscovery/pdtm",
+    "description": "ProjectDiscovery's Open Source Tool Manager",
+    "language": "Go",
+    "star": "39"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "description": "🧙 The modern replacement for Airflow.",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "description": "completely free for everyone. Its build-in Flutter Dart.",
+    "language": "Dart",
+    "star": "18"
+  }
+]
