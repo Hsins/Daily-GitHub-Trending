@@ -11,35 +11,35 @@
     "url": "https://github.com/timothybrooks/instruct-pix2pix",
     "description": "",
     "language": "Python",
-    "star": "250"
+    "star": "231"
   },
   {
     "title": "pynecone-io/pynecone",
     "url": "https://github.com/pynecone-io/pynecone",
     "description": "🕸 Web apps in pure Python 🐍",
     "language": "Python",
-    "star": "209"
+    "star": "199"
   },
   {
     "title": "karpathy/ng-video-lecture",
     "url": "https://github.com/karpathy/ng-video-lecture",
     "description": "",
     "language": "Python",
-    "star": "245"
+    "star": "250"
   },
   {
     "title": "nuxt/nuxt",
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "57"
+    "star": "109"
   },
   {
     "title": "Dimillian/IceCubesApp",
     "url": "https://github.com/Dimillian/IceCubesApp",
     "description": "A SwiftUI Mastodon client",
     "language": "Swift",
-    "star": "183"
+    "star": "190"
   },
   {
     "title": "jerryjliu/gpt_index",
@@ -53,7 +53,7 @@
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "Real-time face swap for PC streaming or video calls",
     "language": "Python",
-    "star": "121"
+    "star": "122"
   },
   {
     "title": "calcom/cal.com",
@@ -74,21 +74,21 @@
     "url": "https://github.com/AcademySoftwareFoundation/xstudio",
     "description": "",
     "language": "C++",
-    "star": "54"
+    "star": "48"
   },
   {
     "title": "facebook/folly",
     "url": "https://github.com/facebook/folly",
     "description": "An open-source C++ library developed and used at Facebook.",
     "language": "C++",
-    "star": "300"
+    "star": "124"
   },
   {
     "title": "rocketseat-education/nlw-setup-ignite",
     "url": "https://github.com/rocketseat-education/nlw-setup-ignite",
     "description": "Aplicação desenvolvida durante o NLW Setup - Ignite",
     "language": "TypeScript",
-    "star": "43"
+    "star": "45"
   },
   {
     "title": "LazyVim/LazyVim",
@@ -102,7 +102,7 @@
     "url": "https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension",
     "description": "ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!",
     "language": "JavaScript",
-    "star": "48"
+    "star": "43"
   },
   {
     "title": "palera1n/palera1n",
@@ -116,14 +116,14 @@
     "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
     "description": "completely free for everyone. Its build-in Flutter Dart.",
     "language": "Dart",
-    "star": "57"
+    "star": "52"
   },
   {
     "title": "TomSchimansky/CustomTkinter",
     "url": "https://github.com/TomSchimansky/CustomTkinter",
     "description": "A modern and customizable python UI-library based on Tkinter",
     "language": "Python",
-    "star": "55"
+    "star": "63"
   },
   {
     "title": "mriscoc/Ender3V2S1",
@@ -172,6 +172,6 @@
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "514"
+    "star": "376"
   }
 ]
