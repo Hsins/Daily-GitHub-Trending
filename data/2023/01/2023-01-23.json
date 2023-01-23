@@ -4,14 +4,14 @@
     "url": "https://github.com/timothybrooks/instruct-pix2pix",
     "description": "",
     "language": "Python",
-    "star": "594"
+    "star": "590"
   },
   {
     "title": "LazyVim/LazyVim",
     "url": "https://github.com/LazyVim/LazyVim",
     "description": "Neovim config for the lazy",
     "language": "Lua",
-    "star": "61"
+    "star": "65"
   },
   {
     "title": "google-research/tuning_playbook",
@@ -25,7 +25,7 @@
     "url": "https://github.com/karpathy/ng-video-lecture",
     "description": "",
     "language": "Python",
-    "star": "186"
+    "star": "183"
   },
   {
     "title": "bellingcat/octosuite",
@@ -53,21 +53,21 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "326"
+    "star": "423"
   },
   {
     "title": "shadcn/ui",
     "url": "https://github.com/shadcn/ui",
     "description": "UI components that you can copy and paste into your apps. Built using Radix UI and Tailwind CSS.",
     "language": "none",
-    "star": "382"
+    "star": "381"
   },
   {
     "title": "google/comprehensive-rust",
     "url": "https://github.com/google/comprehensive-rust",
     "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
     "language": "Rust",
-    "star": "457"
+    "star": "438"
   },
   {
     "title": "rocketseat-education/nlw-setup-ignite",
@@ -81,28 +81,28 @@
     "url": "https://github.com/adrianhajdin/project_ai_mern_image_generation",
     "description": "Build and Deploy a Full Stack MERN AI Image Generation App MidJourney & DALL E Clone",
     "language": "JavaScript",
-    "star": "38"
+    "star": "41"
   },
   {
     "title": "freqtrade/freqtrade",
     "url": "https://github.com/freqtrade/freqtrade",
     "description": "Free, open source crypto trading bot",
     "language": "Python",
-    "star": "50"
+    "star": "9"
   },
   {
     "title": "revanced/revanced-manager",
     "url": "https://github.com/revanced/revanced-manager",
     "description": "💊 Android application to use ReVanced",
     "language": "Dart",
-    "star": "20"
+    "star": "24"
   },
   {
     "title": "PaperMC/Paper",
     "url": "https://github.com/PaperMC/Paper",
     "description": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
     "language": "Java",
-    "star": "6"
+    "star": "12"
   },
   {
     "title": "AcademySoftwareFoundation/xstudio",
@@ -116,14 +116,14 @@
     "url": "https://github.com/Dimillian/IceCubesApp",
     "description": "A SwiftUI Mastodon client",
     "language": "Swift",
-    "star": "118"
+    "star": "125"
   },
   {
     "title": "calcom/cal.com",
     "url": "https://github.com/calcom/cal.com",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
-    "star": "47"
+    "star": "61"
   },
   {
     "title": "Nutlope/restorePhotos",
@@ -144,14 +144,14 @@
     "url": "https://github.com/DFHack/dfhack",
     "description": "Memory hacking library for Dwarf Fortress and a set of tools that use it",
     "language": "C++",
-    "star": "16"
+    "star": "17"
   },
   {
     "title": "nuxt/nuxt",
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "269"
+    "star": "105"
   },
   {
     "title": "annfelix/DEVOPS-WORLD",
