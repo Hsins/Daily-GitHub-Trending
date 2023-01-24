@@ -1,0 +1,177 @@
+[
+  {
+    "title": "brycedrennan/imaginAIry",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "description": "AI imagined images. Pythonic generation of stable diffusion images.",
+    "language": "Python",
+    "star": "548"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "113"
+  },
+  {
+    "title": "LazyVim/LazyVim",
+    "url": "https://github.com/LazyVim/LazyVim",
+    "description": "Neovim config for the lazy",
+    "language": "Lua",
+    "star": "310"
+  },
+  {
+    "title": "bellingcat/octosuite",
+    "url": "https://github.com/bellingcat/octosuite",
+    "description": "Advanced Github OSINT Framework",
+    "language": "Python",
+    "star": "168"
+  },
+  {
+    "title": "cloudflare/wildebeest",
+    "url": "https://github.com/cloudflare/wildebeest",
+    "description": "Wildebeest is an ActivityPub and Mastodon-compatible server",
+    "language": "TypeScript",
+    "star": "29"
+  },
+  {
+    "title": "timothybrooks/instruct-pix2pix",
+    "url": "https://github.com/timothybrooks/instruct-pix2pix",
+    "description": "",
+    "language": "Python",
+    "star": "646"
+  },
+  {
+    "title": "1c7/chinese-independent-developer",
+    "url": "https://github.com/1c7/chinese-independent-developer",
+    "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+    "language": "none",
+    "star": "101"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "344"
+  },
+  {
+    "title": "hyprwm/Hyprland",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+    "language": "C++",
+    "star": "57"
+  },
+  {
+    "title": "google-research/tuning_playbook",
+    "url": "https://github.com/google-research/tuning_playbook",
+    "description": "A playbook for systematically maximizing the performance of deep learning models.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
+    "language": "Rust",
+    "star": "566"
+  },
+  {
+    "title": "shadcn/ui",
+    "url": "https://github.com/shadcn/ui",
+    "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
+    "language": "TypeScript",
+    "star": "363"
+  },
+  {
+    "title": "DaviMarta/Automatiza-o",
+    "url": "https://github.com/DaviMarta/Automatiza-o",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "19"
+  },
+  {
+    "title": "mage-ai/mage-ai",
+    "url": "https://github.com/mage-ai/mage-ai",
+    "description": "🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.",
+    "language": "Python",
+    "star": "79"
+  },
+  {
+    "title": "databricks-academy/data-engineer-learning-path",
+    "url": "https://github.com/databricks-academy/data-engineer-learning-path",
+    "description": "",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "pynecone-io/pynecone",
+    "url": "https://github.com/pynecone-io/pynecone",
+    "description": "🕸 Web apps in pure Python 🐍",
+    "language": "Python",
+    "star": "376"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "description": "An index created by GPT to organize external information and answer queries!",
+    "language": "Python",
+    "star": "131"
+  },
+  {
+    "title": "dair-ai/AI-Product-Index",
+    "url": "https://github.com/dair-ai/AI-Product-Index",
+    "description": "A curated index to track AI-powered products.",
+    "language": "none",
+    "star": "44"
+  },
+  {
+    "title": "resendlabs/react-email",
+    "url": "https://github.com/resendlabs/react-email",
+    "description": "💌 Build and send emails using React",
+    "language": "TypeScript",
+    "star": "118"
+  },
+  {
+    "title": "nuxt/nuxt",
+    "url": "https://github.com/nuxt/nuxt",
+    "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
+    "language": "TypeScript",
+    "star": "285"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "language": "HTML",
+    "star": "251"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "56"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "description": "Neural Networks: Zero to Hero",
+    "language": "Jupyter Notebook",
+    "star": "100"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "description": "Port of OpenAI's Whisper model in C/C++",
+    "language": "C",
+    "star": "128"
+  },
+  {
+    "title": "btcpayserver/btcpayserver",
+    "url": "https://github.com/btcpayserver/btcpayserver",
+    "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+    "language": "C#",
+    "star": "8"
+  }
+]
