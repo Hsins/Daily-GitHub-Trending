@@ -18,14 +18,14 @@
     "url": "https://github.com/LazyVim/LazyVim",
     "description": "Neovim config for the lazy",
     "language": "Lua",
-    "star": "310"
+    "star": "371"
   },
   {
     "title": "bellingcat/octosuite",
     "url": "https://github.com/bellingcat/octosuite",
     "description": "Advanced Github OSINT Framework",
     "language": "Python",
-    "star": "168"
+    "star": "171"
   },
   {
     "title": "cloudflare/wildebeest",
@@ -39,7 +39,7 @@
     "url": "https://github.com/timothybrooks/instruct-pix2pix",
     "description": "",
     "language": "Python",
-    "star": "646"
+    "star": "670"
   },
   {
     "title": "1c7/chinese-independent-developer",
@@ -53,7 +53,7 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "344"
+    "star": "335"
   },
   {
     "title": "hyprwm/Hyprland",
@@ -74,14 +74,14 @@
     "url": "https://github.com/google/comprehensive-rust",
     "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
     "language": "Rust",
-    "star": "566"
+    "star": "549"
   },
   {
     "title": "shadcn/ui",
     "url": "https://github.com/shadcn/ui",
     "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
     "language": "TypeScript",
-    "star": "363"
+    "star": "360"
   },
   {
     "title": "DaviMarta/Automatiza-o",
@@ -95,28 +95,28 @@
     "url": "https://github.com/mage-ai/mage-ai",
     "description": "🧙 The modern replacement for Airflow. Build, run, and manage data pipelines for integrating and transforming data.",
     "language": "Python",
-    "star": "79"
+    "star": "89"
   },
   {
     "title": "databricks-academy/data-engineer-learning-path",
     "url": "https://github.com/databricks-academy/data-engineer-learning-path",
     "description": "",
     "language": "Python",
-    "star": "44"
+    "star": "35"
   },
   {
     "title": "pynecone-io/pynecone",
     "url": "https://github.com/pynecone-io/pynecone",
     "description": "🕸 Web apps in pure Python 🐍",
     "language": "Python",
-    "star": "376"
+    "star": "188"
   },
   {
     "title": "jerryjliu/gpt_index",
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "An index created by GPT to organize external information and answer queries!",
     "language": "Python",
-    "star": "131"
+    "star": "132"
   },
   {
     "title": "dair-ai/AI-Product-Index",
@@ -137,14 +137,14 @@
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "285"
+    "star": "272"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "251"
+    "star": "250"
   },
   {
     "title": "ossu/computer-science",
