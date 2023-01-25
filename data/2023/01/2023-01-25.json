@@ -4,14 +4,14 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "330"
+    "star": "388"
   },
   {
     "title": "LazyVim/LazyVim",
     "url": "https://github.com/LazyVim/LazyVim",
     "description": "Neovim config for the lazy",
     "language": "Lua",
-    "star": "652"
+    "star": "703"
   },
   {
     "title": "dani-garcia/vaultwarden",
@@ -53,14 +53,14 @@
     "url": "https://github.com/shadcn/ui",
     "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
     "language": "TypeScript",
-    "star": "528"
+    "star": "701"
   },
   {
     "title": "nuxt/nuxt",
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "214"
+    "star": "201"
   },
   {
     "title": "initialcommit-com/git-sim",
@@ -74,7 +74,7 @@
     "url": "https://github.com/brycedrennan/imaginAIry",
     "description": "AI imagined images. Pythonic generation of stable diffusion images.",
     "language": "Python",
-    "star": "878"
+    "star": "715"
   },
   {
     "title": "lyc8503/EasierConnect",
@@ -95,28 +95,28 @@
     "url": "https://github.com/karpathy/nn-zero-to-hero",
     "description": "Neural Networks: Zero to Hero",
     "language": "Jupyter Notebook",
-    "star": "187"
+    "star": "199"
   },
   {
     "title": "hyprwm/Hyprland",
     "url": "https://github.com/hyprwm/Hyprland",
     "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
     "language": "C++",
-    "star": "71"
+    "star": "75"
   },
   {
     "title": "deepmap/oapi-codegen",
     "url": "https://github.com/deepmap/oapi-codegen",
     "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
     "language": "Go",
-    "star": "8"
+    "star": "11"
   },
   {
     "title": "Blackymas/NSPanel_HA_Blueprint",
     "url": "https://github.com/Blackymas/NSPanel_HA_Blueprint",
     "description": "This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code",
     "language": "none",
-    "star": "20"
+    "star": "18"
   },
   {
     "title": "dair-ai/AI-Product-Index",
@@ -151,7 +151,7 @@
     "url": "https://github.com/DaviMarta/Automatiza-o",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "25"
+    "star": "26"
   },
   {
     "title": "pytorch/pytorch",
@@ -165,7 +165,7 @@
     "url": "https://github.com/daveshap/LongtermChatExternalSources",
     "description": "GPT-3 chatbot with long-term memory and external sources",
     "language": "Python",
-    "star": "16"
+    "star": "17"
   },
   {
     "title": "ripienaar/free-for-dev",
