@@ -4,7 +4,7 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "388"
+    "star": "352"
   },
   {
     "title": "LazyVim/LazyVim",
@@ -53,28 +53,28 @@
     "url": "https://github.com/shadcn/ui",
     "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
     "language": "TypeScript",
-    "star": "701"
+    "star": "528"
   },
   {
     "title": "nuxt/nuxt",
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "201"
+    "star": "210"
   },
   {
     "title": "initialcommit-com/git-sim",
     "url": "https://github.com/initialcommit-com/git-sim",
     "description": "Visually simulate Git operations in your own repos with a single terminal command.",
     "language": "Python",
-    "star": "159"
+    "star": "160"
   },
   {
     "title": "brycedrennan/imaginAIry",
     "url": "https://github.com/brycedrennan/imaginAIry",
     "description": "AI imagined images. Pythonic generation of stable diffusion images.",
     "language": "Python",
-    "star": "715"
+    "star": "826"
   },
   {
     "title": "lyc8503/EasierConnect",
@@ -95,7 +95,7 @@
     "url": "https://github.com/karpathy/nn-zero-to-hero",
     "description": "Neural Networks: Zero to Hero",
     "language": "Jupyter Notebook",
-    "star": "199"
+    "star": "187"
   },
   {
     "title": "hyprwm/Hyprland",
@@ -109,7 +109,7 @@
     "url": "https://github.com/deepmap/oapi-codegen",
     "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
     "language": "Go",
-    "star": "11"
+    "star": "8"
   },
   {
     "title": "Blackymas/NSPanel_HA_Blueprint",
@@ -123,7 +123,7 @@
     "url": "https://github.com/dair-ai/AI-Product-Index",
     "description": "A curated index to track AI-powered products.",
     "language": "none",
-    "star": "97"
+    "star": "92"
   },
   {
     "title": "timqian/chinese-independent-blogs",
@@ -137,7 +137,7 @@
     "url": "https://github.com/timothybrooks/instruct-pix2pix",
     "description": "",
     "language": "Python",
-    "star": "454"
+    "star": "428"
   },
   {
     "title": "dair-ai/Prompt-Engineering-Guide",
@@ -151,7 +151,7 @@
     "url": "https://github.com/DaviMarta/Automatiza-o",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "26"
+    "star": "19"
   },
   {
     "title": "pytorch/pytorch",
