@@ -4,14 +4,14 @@
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "352"
+    "star": "330"
   },
   {
     "title": "LazyVim/LazyVim",
     "url": "https://github.com/LazyVim/LazyVim",
     "description": "Neovim config for the lazy",
     "language": "Lua",
-    "star": "703"
+    "star": "652"
   },
   {
     "title": "dani-garcia/vaultwarden",
@@ -60,21 +60,21 @@
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "210"
+    "star": "214"
   },
   {
     "title": "initialcommit-com/git-sim",
     "url": "https://github.com/initialcommit-com/git-sim",
     "description": "Visually simulate Git operations in your own repos with a single terminal command.",
     "language": "Python",
-    "star": "160"
+    "star": "159"
   },
   {
     "title": "brycedrennan/imaginAIry",
     "url": "https://github.com/brycedrennan/imaginAIry",
     "description": "AI imagined images. Pythonic generation of stable diffusion images.",
     "language": "Python",
-    "star": "826"
+    "star": "878"
   },
   {
     "title": "lyc8503/EasierConnect",
@@ -102,7 +102,7 @@
     "url": "https://github.com/hyprwm/Hyprland",
     "description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
     "language": "C++",
-    "star": "75"
+    "star": "71"
   },
   {
     "title": "deepmap/oapi-codegen",
@@ -116,14 +116,14 @@
     "url": "https://github.com/Blackymas/NSPanel_HA_Blueprint",
     "description": "This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code",
     "language": "none",
-    "star": "18"
+    "star": "20"
   },
   {
     "title": "dair-ai/AI-Product-Index",
     "url": "https://github.com/dair-ai/AI-Product-Index",
     "description": "A curated index to track AI-powered products.",
     "language": "none",
-    "star": "92"
+    "star": "97"
   },
   {
     "title": "timqian/chinese-independent-blogs",
@@ -137,7 +137,7 @@
     "url": "https://github.com/timothybrooks/instruct-pix2pix",
     "description": "",
     "language": "Python",
-    "star": "428"
+    "star": "454"
   },
   {
     "title": "dair-ai/Prompt-Engineering-Guide",
@@ -151,7 +151,7 @@
     "url": "https://github.com/DaviMarta/Automatiza-o",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "19"
+    "star": "25"
   },
   {
     "title": "pytorch/pytorch",
@@ -165,7 +165,7 @@
     "url": "https://github.com/daveshap/LongtermChatExternalSources",
     "description": "GPT-3 chatbot with long-term memory and external sources",
     "language": "Python",
-    "star": "17"
+    "star": "16"
   },
   {
     "title": "ripienaar/free-for-dev",
