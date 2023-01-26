@@ -11,56 +11,56 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "65"
+    "star": "123"
   },
   {
     "title": "TheAppleTucker/backend-GPT",
     "url": "https://github.com/TheAppleTucker/backend-GPT",
     "description": "",
     "language": "JavaScript",
-    "star": "300"
+    "star": "302"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "850"
+    "star": "849"
   },
   {
     "title": "google/material-design-icons",
     "url": "https://github.com/google/material-design-icons",
     "description": "Material Design icons by Google",
     "language": "none",
-    "star": "51"
+    "star": "63"
   },
   {
     "title": "dani-garcia/vaultwarden",
     "url": "https://github.com/dani-garcia/vaultwarden",
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
     "language": "Rust",
-    "star": "140"
+    "star": "180"
   },
   {
     "title": "DaviMarta/Automatiza-o",
     "url": "https://github.com/DaviMarta/Automatiza-o",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "25"
+    "star": "26"
   },
   {
     "title": "google/comprehensive-rust",
     "url": "https://github.com/google/comprehensive-rust",
     "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
     "language": "Rust",
-    "star": "148"
+    "star": "235"
   },
   {
     "title": "karpathy/nn-zero-to-hero",
     "url": "https://github.com/karpathy/nn-zero-to-hero",
     "description": "Neural Networks: Zero to Hero",
     "language": "Jupyter Notebook",
-    "star": "221"
+    "star": "222"
   },
   {
     "title": "PowerShell/PowerShell",
@@ -74,35 +74,35 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "146"
+    "star": "158"
   },
   {
     "title": "initialcommit-com/git-sim",
     "url": "https://github.com/initialcommit-com/git-sim",
     "description": "Visually simulate Git operations in your own repos with a single terminal command.",
     "language": "Python",
-    "star": "216"
+    "star": "213"
   },
   {
     "title": "daveshap/LongtermChatExternalSources",
     "url": "https://github.com/daveshap/LongtermChatExternalSources",
     "description": "GPT-3 chatbot with long-term memory and external sources",
     "language": "Python",
-    "star": "34"
+    "star": "43"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "27"
+    "star": "29"
   },
   {
     "title": "calcom/cal.com",
     "url": "https://github.com/calcom/cal.com",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
-    "star": "138"
+    "star": "82"
   },
   {
     "title": "LAION-AI/Open-Assistant",
@@ -123,14 +123,14 @@
     "url": "https://github.com/deepmap/oapi-codegen",
     "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
     "language": "Go",
-    "star": "30"
+    "star": "28"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
     "language": "Rust",
-    "star": "11"
+    "star": "8"
   },
   {
     "title": "udlbook/udlbook",
@@ -151,14 +151,14 @@
     "url": "https://github.com/pytorch/pytorch",
     "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "language": "C++",
-    "star": "37"
+    "star": "31"
   },
   {
     "title": "LazyVim/LazyVim",
     "url": "https://github.com/LazyVim/LazyVim",
     "description": "Neovim config for the lazy",
     "language": "Lua",
-    "star": "470"
+    "star": "505"
   },
   {
     "title": "Liuhaixv/Goose_Goose_Duck_Hack",
@@ -172,6 +172,6 @@
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "200"
+    "star": "185"
   }
 ]
