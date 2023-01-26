@@ -11,14 +11,14 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "123"
+    "star": "65"
   },
   {
     "title": "TheAppleTucker/backend-GPT",
     "url": "https://github.com/TheAppleTucker/backend-GPT",
     "description": "",
     "language": "JavaScript",
-    "star": "302"
+    "star": "265"
   },
   {
     "title": "trekhleb/javascript-algorithms",
@@ -32,35 +32,35 @@
     "url": "https://github.com/google/material-design-icons",
     "description": "Material Design icons by Google",
     "language": "none",
-    "star": "63"
+    "star": "57"
   },
   {
     "title": "dani-garcia/vaultwarden",
     "url": "https://github.com/dani-garcia/vaultwarden",
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
     "language": "Rust",
-    "star": "180"
+    "star": "134"
   },
   {
     "title": "DaviMarta/Automatiza-o",
     "url": "https://github.com/DaviMarta/Automatiza-o",
     "description": "",
     "language": "Jupyter Notebook",
-    "star": "26"
+    "star": "27"
   },
   {
     "title": "google/comprehensive-rust",
     "url": "https://github.com/google/comprehensive-rust",
     "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
     "language": "Rust",
-    "star": "235"
+    "star": "171"
   },
   {
     "title": "karpathy/nn-zero-to-hero",
     "url": "https://github.com/karpathy/nn-zero-to-hero",
     "description": "Neural Networks: Zero to Hero",
     "language": "Jupyter Notebook",
-    "star": "222"
+    "star": "218"
   },
   {
     "title": "PowerShell/PowerShell",
@@ -74,7 +74,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "158"
+    "star": "145"
   },
   {
     "title": "initialcommit-com/git-sim",
@@ -88,21 +88,21 @@
     "url": "https://github.com/daveshap/LongtermChatExternalSources",
     "description": "GPT-3 chatbot with long-term memory and external sources",
     "language": "Python",
-    "star": "43"
+    "star": "36"
   },
   {
     "title": "microsoft/terminal",
     "url": "https://github.com/microsoft/terminal",
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "language": "C++",
-    "star": "29"
+    "star": "28"
   },
   {
     "title": "calcom/cal.com",
     "url": "https://github.com/calcom/cal.com",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
-    "star": "82"
+    "star": "144"
   },
   {
     "title": "LAION-AI/Open-Assistant",
@@ -123,14 +123,14 @@
     "url": "https://github.com/deepmap/oapi-codegen",
     "description": "Generate Go client and server boilerplate from OpenAPI 3 specifications",
     "language": "Go",
-    "star": "28"
+    "star": "22"
   },
   {
     "title": "aptos-labs/aptos-core",
     "url": "https://github.com/aptos-labs/aptos-core",
     "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
     "language": "Rust",
-    "star": "8"
+    "star": "12"
   },
   {
     "title": "udlbook/udlbook",
@@ -151,14 +151,14 @@
     "url": "https://github.com/pytorch/pytorch",
     "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "language": "C++",
-    "star": "31"
+    "star": "39"
   },
   {
     "title": "LazyVim/LazyVim",
     "url": "https://github.com/LazyVim/LazyVim",
     "description": "Neovim config for the lazy",
     "language": "Lua",
-    "star": "505"
+    "star": "483"
   },
   {
     "title": "Liuhaixv/Goose_Goose_Duck_Hack",
@@ -172,6 +172,6 @@
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "185"
+    "star": "160"
   }
 ]
