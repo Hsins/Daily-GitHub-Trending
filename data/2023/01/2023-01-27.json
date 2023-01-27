@@ -4,35 +4,35 @@
     "url": "https://github.com/shadcn/ui",
     "description": "Beautifully designed components built with Radix UI and Tailwind CSS.",
     "language": "TypeScript",
-    "star": "855"
+    "star": "860"
   },
   {
     "title": "TheAppleTucker/backend-GPT",
     "url": "https://github.com/TheAppleTucker/backend-GPT",
     "description": "",
     "language": "JavaScript",
-    "star": "457"
+    "star": "443"
   },
   {
     "title": "AzeemIdrisi/PhoneSploit-Pro",
     "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
     "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
     "language": "Python",
-    "star": "50"
+    "star": "49"
   },
   {
     "title": "trekhleb/javascript-algorithms",
     "url": "https://github.com/trekhleb/javascript-algorithms",
     "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
     "language": "JavaScript",
-    "star": "714"
+    "star": "433"
   },
   {
     "title": "LAION-AI/Open-Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Python",
-    "star": "197"
+    "star": "178"
   },
   {
     "title": "flutter/news_toolkit",
@@ -53,7 +53,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "317"
+    "star": "329"
   },
   {
     "title": "bregman-arie/devops-exercises",
@@ -67,7 +67,7 @@
     "url": "https://github.com/karpathy/nn-zero-to-hero",
     "description": "Neural Networks: Zero to Hero",
     "language": "Jupyter Notebook",
-    "star": "292"
+    "star": "289"
   },
   {
     "title": "localsend/localsend",
@@ -81,7 +81,7 @@
     "url": "https://github.com/google/material-design-icons",
     "description": "Material Design icons by Google",
     "language": "none",
-    "star": "117"
+    "star": "108"
   },
   {
     "title": "huggingface/transformers",
@@ -123,7 +123,7 @@
     "url": "https://github.com/ripienaar/free-for-dev",
     "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
     "language": "HTML",
-    "star": "126"
+    "star": "148"
   },
   {
     "title": "catchorg/Catch2",
@@ -137,7 +137,7 @@
     "url": "https://github.com/dotnet/efcore",
     "description": "EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.",
     "language": "C#",
-    "star": "6"
+    "star": "7"
   },
   {
     "title": "trufflesecurity/trufflehog",
