@@ -4,28 +4,28 @@
     "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
     "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
     "language": "Python",
-    "star": "329"
+    "star": "178"
   },
   {
     "title": "flutter/news_toolkit",
     "url": "https://github.com/flutter/news_toolkit",
     "description": "A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit",
     "language": "Dart",
-    "star": "70"
+    "star": "67"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "135"
+    "star": "89"
   },
   {
     "title": "localsend/localsend",
     "url": "https://github.com/localsend/localsend",
     "description": "An open source cross-platform alternative to AirDrop",
     "language": "Dart",
-    "star": "179"
+    "star": "152"
   },
   {
     "title": "papers-we-love/papers-we-love",
@@ -39,7 +39,7 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "199"
+    "star": "196"
   },
   {
     "title": "geohot/tinygrad",
@@ -53,7 +53,7 @@
     "url": "https://github.com/flutter/flutter",
     "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
     "language": "Dart",
-    "star": "325"
+    "star": "374"
   },
   {
     "title": "komeilmehranfar/companies-with-remote-positions-available-for-iranians",
@@ -67,14 +67,14 @@
     "url": "https://github.com/karpathy/nn-zero-to-hero",
     "description": "Neural Networks: Zero to Hero",
     "language": "Jupyter Notebook",
-    "star": "285"
+    "star": "295"
   },
   {
     "title": "TheAppleTucker/backend-GPT",
     "url": "https://github.com/TheAppleTucker/backend-GPT",
     "description": "",
     "language": "JavaScript",
-    "star": "483"
+    "star": "486"
   },
   {
     "title": "abhivaikar/howtheytest",
@@ -95,7 +95,7 @@
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Python",
-    "star": "236"
+    "star": "229"
   },
   {
     "title": "github/docs",
@@ -123,7 +123,7 @@
     "url": "https://github.com/airbytehq/airbyte",
     "description": "Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes.",
     "language": "Java",
-    "star": "18"
+    "star": "17"
   },
   {
     "title": "PaulWaltersDev/FreeLearningResourcesForSoftwareTesters",
@@ -144,14 +144,14 @@
     "url": "https://github.com/ranaroussi/yfinance",
     "description": "Download market data from Yahoo! Finance's API",
     "language": "Python",
-    "star": "19"
+    "star": "20"
   },
   {
     "title": "mouredev/hello-git",
     "url": "https://github.com/mouredev/hello-git",
     "description": "Curso para aprender a trabajar con el sistema de control de versiones Git y la plataforma GitHub desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev.",
     "language": "none",
-    "star": "42"
+    "star": "40"
   },
   {
     "title": "withastro/astro",
@@ -165,13 +165,13 @@
     "url": "https://github.com/charliermarsh/ruff",
     "description": "An extremely fast Python linter, written in Rust.",
     "language": "Rust",
-    "star": "111"
+    "star": "110"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "84"
+    "star": "94"
   }
 ]
