@@ -4,21 +4,21 @@
     "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
     "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
     "language": "Python",
-    "star": "332"
+    "star": "329"
   },
   {
     "title": "localsend/localsend",
     "url": "https://github.com/localsend/localsend",
     "description": "An open source cross-platform alternative to AirDrop",
     "language": "Dart",
-    "star": "422"
+    "star": "476"
   },
   {
     "title": "LAION-AI/Open-Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Python",
-    "star": "210"
+    "star": "237"
   },
   {
     "title": "hwchase17/chat-langchain",
@@ -32,14 +32,14 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "401"
+    "star": "242"
   },
   {
     "title": "alist-org/alist",
     "url": "https://github.com/alist-org/alist",
     "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
     "language": "Go",
-    "star": "105"
+    "star": "106"
   },
   {
     "title": "mindsdb/mindsdb",
@@ -67,7 +67,7 @@
     "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
     "description": "Notepad++ official repository",
     "language": "C++",
-    "star": "33"
+    "star": "28"
   },
   {
     "title": "Z4nzu/hackingtool",
@@ -81,42 +81,42 @@
     "url": "https://github.com/MystenLabs/sui",
     "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
     "language": "Rust",
-    "star": "20"
+    "star": "23"
   },
   {
     "title": "excalidraw/excalidraw",
     "url": "https://github.com/excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "language": "TypeScript",
-    "star": "176"
+    "star": "161"
   },
   {
     "title": "jeecgboot/jeecg-boot",
     "url": "https://github.com/jeecgboot/jeecg-boot",
     "description": "⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
     "language": "Java",
-    "star": "15"
+    "star": "13"
   },
   {
     "title": "lencx/ChatGPT",
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "193"
+    "star": "192"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "315"
+    "star": "325"
   },
   {
     "title": "godotengine/godot",
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "37"
+    "star": "38"
   },
   {
     "title": "flipped-aurora/gin-vue-admin",
@@ -137,7 +137,7 @@
     "url": "https://github.com/flutter/news_toolkit",
     "description": "A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit",
     "language": "Dart",
-    "star": "166"
+    "star": "107"
   },
   {
     "title": "alibaba/easyexcel",
@@ -158,13 +158,13 @@
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "24"
+    "star": "23"
   },
   {
     "title": "charliermarsh/ruff",
     "url": "https://github.com/charliermarsh/ruff",
     "description": "An extremely fast Python linter, written in Rust.",
     "language": "Rust",
-    "star": "88"
+    "star": "85"
   }
 ]
