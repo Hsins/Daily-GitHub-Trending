@@ -4,35 +4,35 @@
     "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
     "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
     "language": "Python",
-    "star": "329"
+    "star": "482"
   },
   {
     "title": "localsend/localsend",
     "url": "https://github.com/localsend/localsend",
     "description": "An open source cross-platform alternative to AirDrop",
     "language": "Dart",
-    "star": "476"
+    "star": "409"
   },
   {
     "title": "LAION-AI/Open-Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Python",
-    "star": "237"
+    "star": "202"
   },
   {
     "title": "hwchase17/chat-langchain",
     "url": "https://github.com/hwchase17/chat-langchain",
     "description": "",
     "language": "Python",
-    "star": "13"
+    "star": "26"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "242"
+    "star": "240"
   },
   {
     "title": "alist-org/alist",
@@ -53,7 +53,7 @@
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "132"
+    "star": "133"
   },
   {
     "title": "fathyb/carbonyl",
@@ -67,7 +67,7 @@
     "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
     "description": "Notepad++ official repository",
     "language": "C++",
-    "star": "28"
+    "star": "33"
   },
   {
     "title": "Z4nzu/hackingtool",
@@ -81,49 +81,49 @@
     "url": "https://github.com/MystenLabs/sui",
     "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
     "language": "Rust",
-    "star": "23"
+    "star": "20"
   },
   {
     "title": "excalidraw/excalidraw",
     "url": "https://github.com/excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "language": "TypeScript",
-    "star": "161"
+    "star": "157"
   },
   {
     "title": "jeecgboot/jeecg-boot",
     "url": "https://github.com/jeecgboot/jeecg-boot",
     "description": "⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
     "language": "Java",
-    "star": "13"
+    "star": "21"
   },
   {
     "title": "lencx/ChatGPT",
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "192"
+    "star": "194"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "325"
+    "star": "326"
   },
   {
     "title": "godotengine/godot",
     "url": "https://github.com/godotengine/godot",
     "description": "Godot Engine – Multi-platform 2D and 3D game engine",
     "language": "C++",
-    "star": "38"
+    "star": "39"
   },
   {
     "title": "flipped-aurora/gin-vue-admin",
     "url": "https://github.com/flipped-aurora/gin-vue-admin",
     "description": "基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。",
     "language": "Go",
-    "star": "13"
+    "star": "23"
   },
   {
     "title": "xiaoxian521/vue-pure-admin",
@@ -137,7 +137,7 @@
     "url": "https://github.com/flutter/news_toolkit",
     "description": "A news template application built in Flutter, by Google and Very Good Ventures. Learn more at: https://flutter.github.io/news_toolkit",
     "language": "Dart",
-    "star": "107"
+    "star": "111"
   },
   {
     "title": "alibaba/easyexcel",
@@ -158,7 +158,7 @@
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "23"
+    "star": "41"
   },
   {
     "title": "charliermarsh/ruff",
