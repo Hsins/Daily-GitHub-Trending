@@ -18,14 +18,14 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "479"
+    "star": "478"
   },
   {
     "title": "LAION-AI/Open-Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Python",
-    "star": "247"
+    "star": "263"
   },
   {
     "title": "paperless-ngx/paperless-ngx",
@@ -39,7 +39,7 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "270"
+    "star": "263"
   },
   {
     "title": "iluwatar/java-design-patterns",
@@ -53,7 +53,7 @@
     "url": "https://github.com/localsend/localsend",
     "description": "An open source cross-platform alternative to AirDrop",
     "language": "Dart",
-    "star": "676"
+    "star": "693"
   },
   {
     "title": "Snailclimb/JavaGuide",
@@ -88,7 +88,7 @@
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "379"
+    "star": "141"
   },
   {
     "title": "go-kratos/kratos",
@@ -102,7 +102,7 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "109"
+    "star": "67"
   },
   {
     "title": "ant-design/ant-design",
@@ -116,7 +116,7 @@
     "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "description": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.",
     "language": "none",
-    "star": "280"
+    "star": "279"
   },
   {
     "title": "lucidrains/musiclm-pytorch",
@@ -144,7 +144,7 @@
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "39"
+    "star": "40"
   },
   {
     "title": "forrestchang/readpilot",
