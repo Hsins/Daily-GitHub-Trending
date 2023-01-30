@@ -18,14 +18,14 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "478"
+    "star": "479"
   },
   {
     "title": "LAION-AI/Open-Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Python",
-    "star": "263"
+    "star": "247"
   },
   {
     "title": "paperless-ngx/paperless-ngx",
@@ -39,35 +39,35 @@
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "269"
+    "star": "270"
   },
   {
     "title": "iluwatar/java-design-patterns",
     "url": "https://github.com/iluwatar/java-design-patterns",
     "description": "Design patterns implemented in Java",
     "language": "Java",
-    "star": "22"
+    "star": "20"
   },
   {
     "title": "localsend/localsend",
     "url": "https://github.com/localsend/localsend",
     "description": "An open source cross-platform alternative to AirDrop",
     "language": "Dart",
-    "star": "693"
+    "star": "676"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "55"
+    "star": "54"
   },
   {
     "title": "papers-we-love/papers-we-love",
     "url": "https://github.com/papers-we-love/papers-we-love",
     "description": "Papers from the computer science community to read and discuss.",
     "language": "Shell",
-    "star": "76"
+    "star": "70"
   },
   {
     "title": "excalidraw/excalidraw",
@@ -81,14 +81,14 @@
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "48"
+    "star": "46"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "130"
+    "star": "379"
   },
   {
     "title": "go-kratos/kratos",
@@ -102,7 +102,7 @@
     "url": "https://github.com/tauri-apps/tauri",
     "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
     "language": "Rust",
-    "star": "67"
+    "star": "109"
   },
   {
     "title": "ant-design/ant-design",
@@ -116,7 +116,7 @@
     "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "description": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.",
     "language": "none",
-    "star": "279"
+    "star": "280"
   },
   {
     "title": "lucidrains/musiclm-pytorch",
@@ -144,7 +144,7 @@
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "40"
+    "star": "39"
   },
   {
     "title": "forrestchang/readpilot",
