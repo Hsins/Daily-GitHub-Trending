@@ -4,14 +4,14 @@
     "url": "https://github.com/fathyb/carbonyl",
     "description": "Chromium running inside your terminal",
     "language": "Rust",
-    "star": "2"
+    "star": "1"
   },
   {
     "title": "localsend/localsend",
     "url": "https://github.com/localsend/localsend",
     "description": "An open source cross-platform alternative to AirDrop",
     "language": "Dart",
-    "star": "1"
+    "star": "982"
   },
   {
     "title": "bregman-arie/devops-exercises",
@@ -25,7 +25,7 @@
     "url": "https://github.com/521xueweihan/HelloGitHub",
     "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
     "language": "Python",
-    "star": "63"
+    "star": "68"
   },
   {
     "title": "mindsdb/mindsdb",
@@ -46,14 +46,14 @@
     "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
     "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
     "language": "Python",
-    "star": "600"
+    "star": "617"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "71"
+    "star": "74"
   },
   {
     "title": "practical-tutorials/project-based-learning",
@@ -74,14 +74,14 @@
     "url": "https://github.com/lucidrains/musiclm-pytorch",
     "description": "Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch",
     "language": "Python",
-    "star": "122"
+    "star": "134"
   },
   {
     "title": "LAION-AI/Open-Assistant",
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Python",
-    "star": "303"
+    "star": "312"
   },
   {
     "title": "MaaAssistantArknights/MaaAssistantArknights",
@@ -102,7 +102,7 @@
     "url": "https://github.com/hwchase17/chat-langchain",
     "description": "",
     "language": "Python",
-    "star": "14"
+    "star": "13"
   },
   {
     "title": "cxasm/notepad--",
@@ -116,7 +116,7 @@
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "371"
+    "star": "377"
   },
   {
     "title": "showlab/Tune-A-Video",
@@ -144,14 +144,14 @@
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "39"
+    "star": "48"
   },
   {
     "title": "krahets/hello-algo",
     "url": "https://github.com/krahets/hello-algo",
     "description": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。",
     "language": "Java",
-    "star": "76"
+    "star": "64"
   },
   {
     "title": "scrapy/scrapy",
