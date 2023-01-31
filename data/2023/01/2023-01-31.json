@@ -4,7 +4,7 @@
     "url": "https://github.com/fathyb/carbonyl",
     "description": "Chromium running inside your terminal",
     "language": "Rust",
-    "star": "1"
+    "star": "2"
   },
   {
     "title": "localsend/localsend",
@@ -18,7 +18,7 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "638"
+    "star": "603"
   },
   {
     "title": "521xueweihan/HelloGitHub",
@@ -46,14 +46,14 @@
     "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
     "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
     "language": "Python",
-    "star": "618"
+    "star": "600"
   },
   {
     "title": "Snailclimb/JavaGuide",
     "url": "https://github.com/Snailclimb/JavaGuide",
     "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
     "language": "Java",
-    "star": "68"
+    "star": "71"
   },
   {
     "title": "practical-tutorials/project-based-learning",
@@ -81,7 +81,7 @@
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Python",
-    "star": "534"
+    "star": "303"
   },
   {
     "title": "MaaAssistantArknights/MaaAssistantArknights",
@@ -109,14 +109,14 @@
     "url": "https://github.com/cxasm/notepad--",
     "description": "一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。",
     "language": "C++",
-    "star": "144"
+    "star": "155"
   },
   {
     "title": "Z4nzu/hackingtool",
     "url": "https://github.com/Z4nzu/hackingtool",
     "description": "ALL IN ONE Hacking Tool For Hackers",
     "language": "Python",
-    "star": "354"
+    "star": "371"
   },
   {
     "title": "showlab/Tune-A-Video",
@@ -137,28 +137,28 @@
     "url": "https://github.com/qier222/YesPlayMusic",
     "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
     "language": "Vue",
-    "star": "79"
+    "star": "94"
   },
   {
     "title": "geohot/tinygrad",
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "38"
+    "star": "39"
   },
   {
     "title": "krahets/hello-algo",
     "url": "https://github.com/krahets/hello-algo",
     "description": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。",
     "language": "Java",
-    "star": "66"
+    "star": "76"
   },
   {
     "title": "scrapy/scrapy",
     "url": "https://github.com/scrapy/scrapy",
     "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
     "language": "Python",
-    "star": "92"
+    "star": "13"
   },
   {
     "title": "google/guava",
