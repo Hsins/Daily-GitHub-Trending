@@ -11,14 +11,14 @@
     "url": "https://github.com/casey/ord",
     "description": "👁‍🗨 Rare and exotic sats",
     "language": "Rust",
-    "star": "78"
+    "star": "76"
   },
   {
     "title": "microsoft/winget-cli",
     "url": "https://github.com/microsoft/winget-cli",
     "description": "Windows Package Manager CLI (aka winget)",
     "language": "C++",
-    "star": "117"
+    "star": "119"
   },
   {
     "title": "helm/helm",
@@ -32,42 +32,42 @@
     "url": "https://github.com/apitable/apitable",
     "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
     "language": "TypeScript",
-    "star": "543"
+    "star": "548"
   },
   {
     "title": "fish-shell/fish-shell",
     "url": "https://github.com/fish-shell/fish-shell",
     "description": "The user-friendly command line shell.",
     "language": "C++",
-    "star": "111"
+    "star": "110"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "615"
+    "star": "613"
   },
   {
     "title": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "description": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.",
     "language": "none",
-    "star": "457"
+    "star": "456"
   },
   {
     "title": "cxasm/notepad--",
     "url": "https://github.com/cxasm/notepad--",
     "description": "一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。",
     "language": "C++",
-    "star": "294"
+    "star": "295"
   },
   {
     "title": "techiescamp/kubernetes-learning-path",
     "url": "https://github.com/techiescamp/kubernetes-learning-path",
     "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
     "language": "none",
-    "star": "94"
+    "star": "95"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
@@ -81,14 +81,14 @@
     "url": "https://github.com/ant-design/ant-design",
     "description": "An enterprise-class UI design language and React UI library",
     "language": "TypeScript",
-    "star": "42"
+    "star": "44"
   },
   {
     "title": "archinetai/audio-ai-timeline",
     "url": "https://github.com/archinetai/audio-ai-timeline",
     "description": "A timeline of the latest AI models for audio generation, starting in 2023!",
     "language": "none",
-    "star": "198"
+    "star": "204"
   },
   {
     "title": "practical-tutorials/project-based-learning",
@@ -123,14 +123,14 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "112"
+    "star": "113"
   },
   {
     "title": "Anduin2017/HowToCook",
     "url": "https://github.com/Anduin2017/HowToCook",
     "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
     "language": "HTML",
-    "star": "65"
+    "star": "67"
   },
   {
     "title": "Cysharp/SimdLinq",
@@ -158,7 +158,7 @@
     "url": "https://github.com/acheong08/ChatGPT",
     "description": "Real browserless ChatGPT library and command line tool. Using official API",
     "language": "Python",
-    "star": "214"
+    "star": "216"
   },
   {
     "title": "iluwatar/java-design-patterns",
