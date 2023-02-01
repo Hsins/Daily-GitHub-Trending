@@ -1,0 +1,177 @@
+[
+  {
+    "title": "fathyb/carbonyl",
+    "url": "https://github.com/fathyb/carbonyl",
+    "description": "Chromium running inside your terminal",
+    "language": "Rust",
+    "star": "1"
+  },
+  {
+    "title": "casey/ord",
+    "url": "https://github.com/casey/ord",
+    "description": "👁‍🗨 Rare and exotic sats",
+    "language": "Rust",
+    "star": "71"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "108"
+  },
+  {
+    "title": "helm/helm",
+    "url": "https://github.com/helm/helm",
+    "description": "The Kubernetes Package Manager",
+    "language": "Go",
+    "star": "37"
+  },
+  {
+    "title": "apitable/apitable",
+    "url": "https://github.com/apitable/apitable",
+    "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
+    "language": "TypeScript",
+    "star": "536"
+  },
+  {
+    "title": "fish-shell/fish-shell",
+    "url": "https://github.com/fish-shell/fish-shell",
+    "description": "The user-friendly command line shell.",
+    "language": "C++",
+    "star": "114"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "language": "Python",
+    "star": "642"
+  },
+  {
+    "title": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
+    "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
+    "description": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.",
+    "language": "none",
+    "star": "489"
+  },
+  {
+    "title": "cxasm/notepad--",
+    "url": "https://github.com/cxasm/notepad--",
+    "description": "一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。",
+    "language": "C++",
+    "star": "298"
+  },
+  {
+    "title": "techiescamp/kubernetes-learning-path",
+    "url": "https://github.com/techiescamp/kubernetes-learning-path",
+    "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
+    "language": "none",
+    "star": "82"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "153"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "description": "An enterprise-class UI design language and React UI library",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "archinetai/audio-ai-timeline",
+    "url": "https://github.com/archinetai/audio-ai-timeline",
+    "description": "A timeline of the latest AI models for audio generation, starting in 2023!",
+    "language": "none",
+    "star": "203"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "282"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (November 2022)",
+    "language": "JavaScript",
+    "star": "101"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "description": "10 Weeks, 20 Lessons, Data Science for All!",
+    "language": "Jupyter Notebook",
+    "star": "90"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+    "language": "none",
+    "star": "63"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "102"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+    "language": "HTML",
+    "star": "65"
+  },
+  {
+    "title": "Cysharp/SimdLinq",
+    "url": "https://github.com/Cysharp/SimdLinq",
+    "description": "Drop-in replacement of LINQ aggregation operations extremely faster with SIMD.",
+    "language": "C#",
+    "star": "30"
+  },
+  {
+    "title": "spring-projects/spring-boot",
+    "url": "https://github.com/spring-projects/spring-boot",
+    "description": "Spring Boot",
+    "language": "Java",
+    "star": "78"
+  },
+  {
+    "title": "lucidrains/musiclm-pytorch",
+    "url": "https://github.com/lucidrains/musiclm-pytorch",
+    "description": "Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch",
+    "language": "Python",
+    "star": "149"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "description": "Real browserless ChatGPT library and command line tool. Using official API",
+    "language": "Python",
+    "star": "200"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "46"
+  },
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "description": "Use ChatGPT On Wechat via wechaty",
+    "language": "TypeScript",
+    "star": "61"
+  }
+]
