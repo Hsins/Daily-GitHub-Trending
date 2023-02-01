@@ -11,21 +11,21 @@
     "url": "https://github.com/casey/ord",
     "description": "👁‍🗨 Rare and exotic sats",
     "language": "Rust",
-    "star": "71"
+    "star": "78"
   },
   {
     "title": "microsoft/winget-cli",
     "url": "https://github.com/microsoft/winget-cli",
     "description": "Windows Package Manager CLI (aka winget)",
     "language": "C++",
-    "star": "108"
+    "star": "117"
   },
   {
     "title": "helm/helm",
     "url": "https://github.com/helm/helm",
     "description": "The Kubernetes Package Manager",
     "language": "Go",
-    "star": "37"
+    "star": "43"
   },
   {
     "title": "apitable/apitable",
@@ -46,14 +46,14 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "620"
+    "star": "615"
   },
   {
     "title": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "description": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.",
     "language": "none",
-    "star": "467"
+    "star": "457"
   },
   {
     "title": "cxasm/notepad--",
@@ -67,14 +67,14 @@
     "url": "https://github.com/techiescamp/kubernetes-learning-path",
     "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
     "language": "none",
-    "star": "92"
+    "star": "94"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
     "url": "https://github.com/mtdvio/every-programmer-should-know",
     "description": "A collection of (mostly) technical things every software developer should know about",
     "language": "none",
-    "star": "159"
+    "star": "162"
   },
   {
     "title": "ant-design/ant-design",
@@ -88,7 +88,7 @@
     "url": "https://github.com/archinetai/audio-ai-timeline",
     "description": "A timeline of the latest AI models for audio generation, starting in 2023!",
     "language": "none",
-    "star": "206"
+    "star": "198"
   },
   {
     "title": "practical-tutorials/project-based-learning",
@@ -102,21 +102,21 @@
     "url": "https://github.com/goldbergyoni/nodebestpractices",
     "description": "✅ The Node.js best practices list (November 2022)",
     "language": "JavaScript",
-    "star": "101"
+    "star": "100"
   },
   {
     "title": "microsoft/Data-Science-For-Beginners",
     "url": "https://github.com/microsoft/Data-Science-For-Beginners",
     "description": "10 Weeks, 20 Lessons, Data Science for All!",
     "language": "Jupyter Notebook",
-    "star": "106"
+    "star": "109"
   },
   {
     "title": "GitHubDaily/GitHubDaily",
     "url": "https://github.com/GitHubDaily/GitHubDaily",
     "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
     "language": "none",
-    "star": "71"
+    "star": "72"
   },
   {
     "title": "microsoft/ML-For-Beginners",
@@ -144,21 +144,21 @@
     "url": "https://github.com/spring-projects/spring-boot",
     "description": "Spring Boot",
     "language": "Java",
-    "star": "78"
+    "star": "84"
   },
   {
     "title": "lucidrains/musiclm-pytorch",
     "url": "https://github.com/lucidrains/musiclm-pytorch",
     "description": "Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch",
     "language": "Python",
-    "star": "145"
+    "star": "146"
   },
   {
     "title": "acheong08/ChatGPT",
     "url": "https://github.com/acheong08/ChatGPT",
     "description": "Real browserless ChatGPT library and command line tool. Using official API",
     "language": "Python",
-    "star": "213"
+    "star": "214"
   },
   {
     "title": "iluwatar/java-design-patterns",
@@ -172,6 +172,6 @@
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "61"
+    "star": "69"
   }
 ]
