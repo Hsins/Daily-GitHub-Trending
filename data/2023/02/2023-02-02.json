@@ -4,28 +4,28 @@
     "url": "https://github.com/snesrev/zelda3",
     "description": "",
     "language": "C",
-    "star": "471"
+    "star": "491"
   },
   {
     "title": "apitable/apitable",
     "url": "https://github.com/apitable/apitable",
     "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
     "language": "TypeScript",
-    "star": "789"
+    "star": "963"
   },
   {
     "title": "microsoft/winget-cli",
     "url": "https://github.com/microsoft/winget-cli",
     "description": "Windows Package Manager CLI (aka winget)",
     "language": "C++",
-    "star": "288"
+    "star": "282"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "336"
+    "star": "339"
   },
   {
     "title": "jmforsythe/Git-Heat-Map",
@@ -53,28 +53,28 @@
     "url": "https://github.com/krahets/hello-algo",
     "description": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。",
     "language": "Java",
-    "star": "160"
+    "star": "165"
   },
   {
     "title": "fathyb/carbonyl",
     "url": "https://github.com/fathyb/carbonyl",
     "description": "Chromium running inside your terminal",
     "language": "Rust",
-    "star": "1"
+    "star": "935"
   },
   {
     "title": "nostr-protocol/nostr",
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "384"
+    "star": "407"
   },
   {
     "title": "microsoft/BioGPT",
     "url": "https://github.com/microsoft/BioGPT",
     "description": "",
     "language": "Python",
-    "star": "172"
+    "star": "173"
   },
   {
     "title": "archinetai/audio-ai-timeline",
@@ -95,7 +95,7 @@
     "url": "https://github.com/Nutlope/restorePhotos",
     "description": "Restoring old and blurry face photos with AI.",
     "language": "TypeScript",
-    "star": "78"
+    "star": "77"
   },
   {
     "title": "openssl/openssl",
@@ -123,35 +123,35 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "93"
+    "star": "95"
   },
   {
     "title": "open-mmlab/mmpose",
     "url": "https://github.com/open-mmlab/mmpose",
     "description": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
     "language": "Python",
-    "star": "18"
+    "star": "19"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "304"
+    "star": "299"
   },
   {
     "title": "casey/ord",
     "url": "https://github.com/casey/ord",
     "description": "👁‍🗨 Rare and exotic sats",
     "language": "Rust",
-    "star": "144"
+    "star": "141"
   },
   {
     "title": "damus-io/damus",
     "url": "https://github.com/damus-io/damus",
     "description": "iOS nostr client",
     "language": "Swift",
-    "star": "246"
+    "star": "249"
   },
   {
     "title": "alibaba/DataX",
@@ -165,13 +165,13 @@
     "url": "https://github.com/penpot/penpot",
     "description": "Penpot - The Open-Source design & prototyping platform",
     "language": "Clojure",
-    "star": "112"
+    "star": "116"
   },
   {
     "title": "fish-shell/fish-shell",
     "url": "https://github.com/fish-shell/fish-shell",
     "description": "The user-friendly command line shell.",
     "language": "C++",
-    "star": "141"
+    "star": "148"
   }
 ]
