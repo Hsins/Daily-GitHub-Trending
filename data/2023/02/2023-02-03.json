@@ -4,7 +4,7 @@
     "url": "https://github.com/snesrev/zelda3",
     "description": "",
     "language": "C",
-    "star": "396"
+    "star": "351"
   },
   {
     "title": "transitive-bullshit/chatgpt-api",
@@ -39,7 +39,7 @@
     "url": "https://github.com/krahets/hello-algo",
     "description": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。",
     "language": "Java",
-    "star": "239"
+    "star": "238"
   },
   {
     "title": "damus-io/damus",
@@ -53,14 +53,14 @@
     "url": "https://github.com/techiescamp/kubernetes-learning-path",
     "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
     "language": "none",
-    "star": "451"
+    "star": "444"
   },
   {
     "title": "iperov/DeepFaceLive",
     "url": "https://github.com/iperov/DeepFaceLive",
     "description": "Real-time face swap for PC streaming or video calls",
     "language": "Python",
-    "star": "131"
+    "star": "128"
   },
   {
     "title": "microsoft/BioGPT",
@@ -74,14 +74,14 @@
     "url": "https://github.com/varunshenoy/GraphGPT",
     "description": "Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️",
     "language": "JavaScript",
-    "star": "285"
+    "star": "290"
   },
   {
     "title": "apitable/apitable",
     "url": "https://github.com/apitable/apitable",
     "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
     "language": "TypeScript",
-    "star": "813"
+    "star": "747"
   },
   {
     "title": "golang/go",
@@ -116,28 +116,28 @@
     "url": "https://github.com/studio-freight/lenis",
     "description": "How smooth scroll should be",
     "language": "JavaScript",
-    "star": "152"
+    "star": "155"
   },
   {
     "title": "archinetai/audio-ai-timeline",
     "url": "https://github.com/archinetai/audio-ai-timeline",
     "description": "A timeline of the latest AI models for audio generation, starting in 2023!",
     "language": "none",
-    "star": "139"
+    "star": "141"
   },
   {
     "title": "triggerdotdev/trigger.dev",
     "url": "https://github.com/triggerdotdev/trigger.dev",
     "description": "✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.",
     "language": "TypeScript",
-    "star": "533"
+    "star": "529"
   },
   {
     "title": "nostr-protocol/nostr",
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "374"
+    "star": "375"
   },
   {
     "title": "waylaidwanderer/node-chatgpt-api",
@@ -172,6 +172,6 @@
     "url": "https://github.com/GitHubDaily/GitHubDaily",
     "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
     "language": "none",
-    "star": "49"
+    "star": "50"
   }
 ]
