@@ -1,0 +1,177 @@
+[
+  {
+    "title": "snesrev/zelda3",
+    "url": "https://github.com/snesrev/zelda3",
+    "description": "",
+    "language": "C",
+    "star": "403"
+  },
+  {
+    "title": "transitive-bullshit/chatgpt-api",
+    "url": "https://github.com/transitive-bullshit/chatgpt-api",
+    "description": "Node.js client for the unofficial ChatGPT API. 🔥",
+    "language": "TypeScript",
+    "star": "248"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "161"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "description": "Windows Package Manager CLI (aka winget)",
+    "language": "C++",
+    "star": "119"
+  },
+  {
+    "title": "bnb-chain/greenfield-whitepaper",
+    "url": "https://github.com/bnb-chain/greenfield-whitepaper",
+    "description": "Whitepaper for Greenfield, the decentralized data economy",
+    "language": "none",
+    "star": "31"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "description": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。",
+    "language": "Java",
+    "star": "239"
+  },
+  {
+    "title": "damus-io/damus",
+    "url": "https://github.com/damus-io/damus",
+    "description": "iOS nostr client",
+    "language": "Swift",
+    "star": "269"
+  },
+  {
+    "title": "techiescamp/kubernetes-learning-path",
+    "url": "https://github.com/techiescamp/kubernetes-learning-path",
+    "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
+    "language": "none",
+    "star": "479"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "description": "Real-time face swap for PC streaming or video calls",
+    "language": "Python",
+    "star": "139"
+  },
+  {
+    "title": "microsoft/BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "description": "",
+    "language": "Python",
+    "star": "216"
+  },
+  {
+    "title": "varunshenoy/GraphGPT",
+    "url": "https://github.com/varunshenoy/GraphGPT",
+    "description": "Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️",
+    "language": "JavaScript",
+    "star": "282"
+  },
+  {
+    "title": "apitable/apitable",
+    "url": "https://github.com/apitable/apitable",
+    "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
+    "language": "TypeScript",
+    "star": "810"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "description": "The Go programming language",
+    "language": "Go",
+    "star": "62"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+    "language": "Jupyter Notebook",
+    "star": "219"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "description": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+    "language": "JavaScript",
+    "star": "63"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "200"
+  },
+  {
+    "title": "studio-freight/lenis",
+    "url": "https://github.com/studio-freight/lenis",
+    "description": "How smooth scroll should be",
+    "language": "JavaScript",
+    "star": "150"
+  },
+  {
+    "title": "archinetai/audio-ai-timeline",
+    "url": "https://github.com/archinetai/audio-ai-timeline",
+    "description": "A timeline of the latest AI models for audio generation, starting in 2023!",
+    "language": "none",
+    "star": "143"
+  },
+  {
+    "title": "triggerdotdev/trigger.dev",
+    "url": "https://github.com/triggerdotdev/trigger.dev",
+    "description": "✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.",
+    "language": "TypeScript",
+    "star": "543"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr",
+    "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
+    "language": "none",
+    "star": "372"
+  },
+  {
+    "title": "waylaidwanderer/node-chatgpt-api",
+    "url": "https://github.com/waylaidwanderer/node-chatgpt-api",
+    "description": "A ChatGPT implementation using the official ChatGPT model via OpenAI's API.",
+    "language": "JavaScript",
+    "star": "31"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "description": "Reverse engineered ChatGPT API. Uses official model same as the website.",
+    "language": "Python",
+    "star": "245"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guide and resources for prompt engineering",
+    "language": "none",
+    "star": "282"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "description": "🎓 Path to a free self-taught education in Computer Science!",
+    "language": "none",
+    "star": "273"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily",
+    "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+    "language": "none",
+    "star": "50"
+  }
+]
