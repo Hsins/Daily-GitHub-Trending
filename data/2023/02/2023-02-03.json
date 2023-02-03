@@ -25,7 +25,7 @@
     "url": "https://github.com/microsoft/winget-cli",
     "description": "Windows Package Manager CLI (aka winget)",
     "language": "C++",
-    "star": "119"
+    "star": "113"
   },
   {
     "title": "bnb-chain/greenfield-whitepaper",
@@ -39,14 +39,14 @@
     "url": "https://github.com/krahets/hello-algo",
     "description": "《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift 等语言。",
     "language": "Java",
-    "star": "239"
+    "star": "238"
   },
   {
     "title": "damus-io/damus",
     "url": "https://github.com/damus-io/damus",
     "description": "iOS nostr client",
     "language": "Swift",
-    "star": "269"
+    "star": "266"
   },
   {
     "title": "techiescamp/kubernetes-learning-path",
@@ -81,7 +81,7 @@
     "url": "https://github.com/apitable/apitable",
     "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
     "language": "TypeScript",
-    "star": "810"
+    "star": "796"
   },
   {
     "title": "golang/go",
@@ -95,14 +95,14 @@
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "language": "Jupyter Notebook",
-    "star": "219"
+    "star": "211"
   },
   {
     "title": "wangrongding/wechat-bot",
     "url": "https://github.com/wangrongding/wechat-bot",
     "description": "🤖一个基于OpenAi ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
     "language": "JavaScript",
-    "star": "63"
+    "star": "67"
   },
   {
     "title": "mtdvio/every-programmer-should-know",
@@ -116,28 +116,28 @@
     "url": "https://github.com/studio-freight/lenis",
     "description": "How smooth scroll should be",
     "language": "JavaScript",
-    "star": "150"
+    "star": "148"
   },
   {
     "title": "archinetai/audio-ai-timeline",
     "url": "https://github.com/archinetai/audio-ai-timeline",
     "description": "A timeline of the latest AI models for audio generation, starting in 2023!",
     "language": "none",
-    "star": "143"
+    "star": "141"
   },
   {
     "title": "triggerdotdev/trigger.dev",
     "url": "https://github.com/triggerdotdev/trigger.dev",
     "description": "✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code.",
     "language": "TypeScript",
-    "star": "543"
+    "star": "538"
   },
   {
     "title": "nostr-protocol/nostr",
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "372"
+    "star": "377"
   },
   {
     "title": "waylaidwanderer/node-chatgpt-api",
@@ -158,7 +158,7 @@
     "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "description": "🐙 Guide and resources for prompt engineering",
     "language": "none",
-    "star": "282"
+    "star": "284"
   },
   {
     "title": "ossu/computer-science",
