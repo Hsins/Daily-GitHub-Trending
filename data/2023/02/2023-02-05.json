@@ -11,28 +11,28 @@
     "url": "https://github.com/acheong08/ChatGPT",
     "description": "Reverse engineered ChatGPT API",
     "language": "Python",
-    "star": "266"
+    "star": "332"
   },
   {
     "title": "nostr-protocol/nostr",
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "260"
+    "star": "258"
   },
   {
     "title": "damus-io/damus",
     "url": "https://github.com/damus-io/damus",
     "description": "iOS nostr client",
     "language": "Swift",
-    "star": "148"
+    "star": "153"
   },
   {
     "title": "microsoft/BioGPT",
     "url": "https://github.com/microsoft/BioGPT",
     "description": "",
     "language": "Python",
-    "star": "100"
+    "star": "118"
   },
   {
     "title": "waylaidwanderer/node-chatgpt-api",
@@ -53,7 +53,7 @@
     "url": "https://github.com/transitive-bullshit/chatgpt-api",
     "description": "Node.js client for the unofficial ChatGPT API. 🔥",
     "language": "TypeScript",
-    "star": "168"
+    "star": "128"
   },
   {
     "title": "Datalux/Osintgram",
@@ -67,7 +67,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "223"
+    "star": "228"
   },
   {
     "title": "AutumnWhj/ChatGPT-wechat-bot",
@@ -109,7 +109,7 @@
     "url": "https://github.com/Zero6992/chatGPT-discord-bot",
     "description": "Integrate ChatGPT into your own discord bot",
     "language": "Python",
-    "star": "17"
+    "star": "12"
   },
   {
     "title": "adrianhajdin/project_hoobank",
@@ -144,7 +144,7 @@
     "url": "https://github.com/daveshap/raven",
     "description": "RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo",
     "language": "Python",
-    "star": "65"
+    "star": "81"
   },
   {
     "title": "innnky/so-vits-svc",
@@ -172,6 +172,6 @@
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
     "language": "none",
-    "star": "161"
+    "star": "198"
   }
 ]
