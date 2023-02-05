@@ -11,28 +11,28 @@
     "url": "https://github.com/acheong08/ChatGPT",
     "description": "Reverse engineered ChatGPT API",
     "language": "Python",
-    "star": "332"
+    "star": "290"
   },
   {
     "title": "nostr-protocol/nostr",
     "url": "https://github.com/nostr-protocol/nostr",
     "description": "a truly censorship-resistant alternative to Twitter that has a chance of working",
     "language": "none",
-    "star": "258"
+    "star": "240"
   },
   {
     "title": "damus-io/damus",
     "url": "https://github.com/damus-io/damus",
     "description": "iOS nostr client",
     "language": "Swift",
-    "star": "153"
+    "star": "150"
   },
   {
     "title": "microsoft/BioGPT",
     "url": "https://github.com/microsoft/BioGPT",
     "description": "",
     "language": "Python",
-    "star": "118"
+    "star": "100"
   },
   {
     "title": "waylaidwanderer/node-chatgpt-api",
@@ -53,28 +53,28 @@
     "url": "https://github.com/transitive-bullshit/chatgpt-api",
     "description": "Node.js client for the unofficial ChatGPT API. 🔥",
     "language": "TypeScript",
-    "star": "128"
+    "star": "124"
   },
   {
     "title": "Datalux/Osintgram",
     "url": "https://github.com/Datalux/Osintgram",
     "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
     "language": "Python",
-    "star": "13"
+    "star": "8"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "228"
+    "star": "220"
   },
   {
     "title": "AutumnWhj/ChatGPT-wechat-bot",
     "url": "https://github.com/AutumnWhj/ChatGPT-wechat-bot",
     "description": "ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot",
     "language": "TypeScript",
-    "star": "34"
+    "star": "36"
   },
   {
     "title": "coolsnowwolf/lede",
@@ -88,7 +88,7 @@
     "url": "https://github.com/Cameri/nostream",
     "description": "A Nostr Relay written in TypeScript",
     "language": "TypeScript",
-    "star": "71"
+    "star": "50"
   },
   {
     "title": "hikari-no-yume/touchHLE",
@@ -116,7 +116,7 @@
     "url": "https://github.com/adrianhajdin/project_hoobank",
     "description": "Modern UI/UX website using React.js & Tailwind CSS",
     "language": "JavaScript",
-    "star": "10"
+    "star": "15"
   },
   {
     "title": "dudykr/stc",
@@ -144,7 +144,7 @@
     "url": "https://github.com/daveshap/raven",
     "description": "RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo",
     "language": "Python",
-    "star": "81"
+    "star": "65"
   },
   {
     "title": "innnky/so-vits-svc",
@@ -165,13 +165,13 @@
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "91"
+    "star": "90"
   },
   {
     "title": "A-poc/RedTeam-Tools",
     "url": "https://github.com/A-poc/RedTeam-Tools",
     "description": "Tools and Techniques for Red Team / Penetration Testing",
     "language": "none",
-    "star": "198"
+    "star": "233"
   }
 ]
