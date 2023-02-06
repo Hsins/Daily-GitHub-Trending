@@ -11,14 +11,14 @@
     "url": "https://github.com/motion-canvas/motion-canvas",
     "description": "Visualize Complex Ideas Programmatically",
     "language": "TypeScript",
-    "star": "492"
+    "star": "494"
   },
   {
     "title": "arc53/docsgpt",
     "url": "https://github.com/arc53/docsgpt",
     "description": "Use documentation and ask questions directly with DocsGPT",
     "language": "HTML",
-    "star": "410"
+    "star": "449"
   },
   {
     "title": "acheong08/ChatGPT",
@@ -32,14 +32,14 @@
     "url": "https://github.com/denoland/deno",
     "description": "A modern runtime for JavaScript and TypeScript.",
     "language": "Rust",
-    "star": "35"
+    "star": "39"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "405"
+    "star": "415"
   },
   {
     "title": "hikari-no-yume/touchHLE",
@@ -53,42 +53,42 @@
     "url": "https://github.com/Zero6992/chatGPT-discord-bot",
     "description": "Integrate ChatGPT into your own discord bot",
     "language": "Python",
-    "star": "75"
+    "star": "76"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "124"
+    "star": "125"
   },
   {
     "title": "yangshun/tech-interview-handbook",
     "url": "https://github.com/yangshun/tech-interview-handbook",
     "description": "💯 Curated coding interview preparation materials for busy software engineers",
     "language": "TypeScript",
-    "star": "106"
+    "star": "111"
   },
   {
     "title": "OpenBB-finance/OpenBBTerminal",
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone, Anywhere.",
     "language": "Python",
-    "star": "31"
+    "star": "36"
   },
   {
     "title": "home-assistant/core",
     "url": "https://github.com/home-assistant/core",
     "description": "🏡 Open source home automation that puts local control and privacy first.",
     "language": "Python",
-    "star": "67"
+    "star": "70"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "179"
+    "star": "180"
   },
   {
     "title": "LeagueOfPoro/CapsuleFarmerEvolved",
@@ -102,76 +102,76 @@
     "url": "https://github.com/bitcoin/bitcoin",
     "description": "Bitcoin Core integration/staging tree",
     "language": "C++",
-    "star": "38"
+    "star": "40"
   },
   {
     "title": "freeCodeCamp/freeCodeCamp",
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "118"
+    "star": "123"
   },
   {
     "title": "hyprwm/Hyprland",
     "url": "https://github.com/hyprwm/Hyprland",
     "description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
     "language": "C++",
-    "star": "59"
+    "star": "62"
   },
   {
     "title": "codecrafters-io/build-your-own-x",
     "url": "https://github.com/codecrafters-io/build-your-own-x",
     "description": "Master programming by recreating your favorite technologies from scratch.",
     "language": "none",
-    "star": "434"
+    "star": "460"
   },
   {
     "title": "TheAlgorithms/JavaScript",
     "url": "https://github.com/TheAlgorithms/JavaScript",
     "description": "Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.",
     "language": "JavaScript",
-    "star": "90"
+    "star": "82"
   },
   {
     "title": "techiescamp/kubernetes-learning-path",
     "url": "https://github.com/techiescamp/kubernetes-learning-path",
     "description": "A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)",
     "language": "none",
-    "star": "304"
+    "star": "302"
   },
   {
     "title": "vasanthk/how-web-works",
     "url": "https://github.com/vasanthk/how-web-works",
     "description": "What happens behind the scenes when we type www.google.com in a browser?",
     "language": "none",
-    "star": "121"
+    "star": "114"
   },
   {
     "title": "orlp/glidesort",
     "url": "https://github.com/orlp/glidesort",
     "description": "A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.",
     "language": "Rust",
-    "star": "179"
+    "star": "181"
   },
   {
     "title": "microsoft/BioGPT",
     "url": "https://github.com/microsoft/BioGPT",
     "description": "",
     "language": "Python",
-    "star": "262"
+    "star": "256"
   },
   {
     "title": "timqian/chinese-independent-blogs",
     "url": "https://github.com/timqian/chinese-independent-blogs",
     "description": "中文独立博客列表",
     "language": "JavaScript",
-    "star": "93"
+    "star": "97"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
     "language": "Python",
-    "star": "101"
+    "star": "106"
   }
 ]
