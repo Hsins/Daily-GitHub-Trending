@@ -4,14 +4,14 @@
     "url": "https://github.com/acikkaynak/deprem-yardim-backend-go",
     "description": "",
     "language": "Go",
-    "star": "29"
+    "star": "32"
   },
   {
     "title": "cloudflare/wildebeest",
     "url": "https://github.com/cloudflare/wildebeest",
     "description": "Wildebeest is an ActivityPub and Mastodon-compatible server",
     "language": "TypeScript",
-    "star": "97"
+    "star": "104"
   },
   {
     "title": "jaymody/picoGPT",
@@ -25,21 +25,21 @@
     "url": "https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook",
     "description": "🏂🏻 程序员海外工作/英文面试手册",
     "language": "none",
-    "star": "399"
+    "star": "428"
   },
   {
     "title": "uutils/coreutils",
     "url": "https://github.com/uutils/coreutils",
     "description": "Cross-platform Rust rewrite of the GNU coreutils",
     "language": "Rust",
-    "star": "122"
+    "star": "115"
   },
   {
     "title": "rustdesk/rustdesk",
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
     "language": "Rust",
-    "star": "344"
+    "star": "175"
   },
   {
     "title": "MichalGeyer/plug-and-play",
@@ -60,28 +60,28 @@
     "url": "https://github.com/djun/wechatbot",
     "description": "为个人微信接入ChatGPT",
     "language": "Go",
-    "star": "58"
+    "star": "66"
   },
   {
     "title": "fuergaosi233/wechat-chatgpt",
     "url": "https://github.com/fuergaosi233/wechat-chatgpt",
     "description": "Use ChatGPT On Wechat via wechaty",
     "language": "TypeScript",
-    "star": "320"
+    "star": "345"
   },
   {
     "title": "TheD1rkMtr/FilelessPELoader",
     "url": "https://github.com/TheD1rkMtr/FilelessPELoader",
     "description": "Loading Remote AES Encrypted PE in memory , Decrypted it and run it",
     "language": "C++",
-    "star": "32"
+    "star": "85"
   },
   {
     "title": "eryajf/chatgpt-dingtalk",
     "url": "https://github.com/eryajf/chatgpt-dingtalk",
     "description": "ChatGPT机器人在钉钉群聊中交互",
     "language": "Go",
-    "star": "36"
+    "star": "34"
   },
   {
     "title": "aquasecurity/trivy",
@@ -102,14 +102,14 @@
     "url": "https://github.com/nerfstudio-project/nerfstudio",
     "description": "A collaboration friendly studio for NeRFs",
     "language": "Python",
-    "star": "19"
+    "star": "32"
   },
   {
     "title": "AIGCT/EASYChatGPT",
     "url": "https://github.com/AIGCT/EASYChatGPT",
     "description": "This is an application project of 'chatgpt',only applicable to desktop environment.",
     "language": "Python",
-    "star": "44"
+    "star": "51"
   },
   {
     "title": "leminlimez/Cowabunga",
@@ -123,7 +123,7 @@
     "url": "https://github.com/PlexPt/chatgpt-java",
     "description": "ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.",
     "language": "Java",
-    "star": "28"
+    "star": "35"
   },
   {
     "title": "Shopify/hydrogen",
@@ -137,28 +137,28 @@
     "url": "https://github.com/Fndroid/clash_for_windows_pkg",
     "description": "A Windows/macOS GUI based on Clash",
     "language": "none",
-    "star": "95"
+    "star": "134"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "601"
+    "star": "620"
   },
   {
     "title": "enhuiz/vall-e",
     "url": "https://github.com/enhuiz/vall-e",
     "description": "An unofficial PyTorch implementation of the audio LM VALL-E",
     "language": "Python",
-    "star": "43"
+    "star": "31"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
     "language": "Python",
-    "star": "234"
+    "star": "262"
   },
   {
     "title": "Leizhenpeng/feishu-chatGpt",
@@ -172,6 +172,6 @@
     "url": "https://github.com/activepieces/activepieces",
     "description": "No-code Business Automation Tool. An open source alternative to Zapier.",
     "language": "TypeScript",
-    "star": "168"
+    "star": "123"
   }
 ]
