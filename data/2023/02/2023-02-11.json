@@ -1,0 +1,177 @@
+[
+  {
+    "title": "acikkaynak/deprem-yardim-backend-go",
+    "url": "https://github.com/acikkaynak/deprem-yardim-backend-go",
+    "description": "",
+    "language": "Go",
+    "star": "29"
+  },
+  {
+    "title": "cloudflare/wildebeest",
+    "url": "https://github.com/cloudflare/wildebeest",
+    "description": "Wildebeest is an ActivityPub and Mastodon-compatible server",
+    "language": "TypeScript",
+    "star": "97"
+  },
+  {
+    "title": "jaymody/picoGPT",
+    "url": "https://github.com/jaymody/picoGPT",
+    "description": "An unnecessarily tiny and minimal implementation of GPT-2 in NumPy.",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "eliaszon/Programmers-Overseas-Job-Interview-Handbook",
+    "url": "https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook",
+    "description": "🏂🏻 程序员海外工作/英文面试手册",
+    "language": "none",
+    "star": "150"
+  },
+  {
+    "title": "uutils/coreutils",
+    "url": "https://github.com/uutils/coreutils",
+    "description": "Cross-platform Rust rewrite of the GNU coreutils",
+    "language": "Rust",
+    "star": "127"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
+    "language": "Rust",
+    "star": "239"
+  },
+  {
+    "title": "MichalGeyer/plug-and-play",
+    "url": "https://github.com/MichalGeyer/plug-and-play",
+    "description": "Official Pytorch Implementation for “Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation”",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "pedroslopez/whatsapp-web.js",
+    "url": "https://github.com/pedroslopez/whatsapp-web.js",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "language": "JavaScript",
+    "star": "25"
+  },
+  {
+    "title": "djun/wechatbot",
+    "url": "https://github.com/djun/wechatbot",
+    "description": "为个人微信接入ChatGPT",
+    "language": "Go",
+    "star": "58"
+  },
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "description": "Use ChatGPT On Wechat via wechaty",
+    "language": "TypeScript",
+    "star": "152"
+  },
+  {
+    "title": "TheD1rkMtr/FilelessPELoader",
+    "url": "https://github.com/TheD1rkMtr/FilelessPELoader",
+    "description": "Loading Remote AES Encrypted PE in memory , Decrypted it and run it",
+    "language": "C++",
+    "star": "57"
+  },
+  {
+    "title": "eryajf/chatgpt-dingtalk",
+    "url": "https://github.com/eryajf/chatgpt-dingtalk",
+    "description": "ChatGPT机器人在钉钉群聊中交互",
+    "language": "Go",
+    "star": "36"
+  },
+  {
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "ethereum-optimism/op-analytics",
+    "url": "https://github.com/ethereum-optimism/op-analytics",
+    "description": "On-Chain Data, Utilities, References, and other Analytics on Optimism",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "description": "A collaboration friendly studio for NeRFs",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "AIGCT/EASYChatGPT",
+    "url": "https://github.com/AIGCT/EASYChatGPT",
+    "description": "This is an application project of 'chatgpt',only applicable to desktop environment.",
+    "language": "Python",
+    "star": "20"
+  },
+  {
+    "title": "leminlimez/Cowabunga",
+    "url": "https://github.com/leminlimez/Cowabunga",
+    "description": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
+    "language": "Swift",
+    "star": "27"
+  },
+  {
+    "title": "PlexPt/chatgpt-java",
+    "url": "https://github.com/PlexPt/chatgpt-java",
+    "description": "ChatGPT Java SDK. Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API. ChatGPT 聊天机器人 Java 版. 开箱即用.",
+    "language": "Java",
+    "star": "36"
+  },
+  {
+    "title": "Shopify/hydrogen",
+    "url": "https://github.com/Shopify/hydrogen",
+    "description": "Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks.",
+    "language": "TypeScript",
+    "star": "7"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg",
+    "description": "A Windows/macOS GUI based on Clash",
+    "language": "none",
+    "star": "101"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "language": "HTML",
+    "star": "466"
+  },
+  {
+    "title": "enhuiz/vall-e",
+    "url": "https://github.com/enhuiz/vall-e",
+    "description": "An unofficial PyTorch implementation of the audio LM VALL-E",
+    "language": "Python",
+    "star": "43"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "description": "使用ChatGPT搭建微信聊天机器人，基于OpenAI API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "Leizhenpeng/feishu-chatGpt",
+    "url": "https://github.com/Leizhenpeng/feishu-chatGpt",
+    "description": "Feishu ChatGpt 在飞书上与ChatGPT随时对话~",
+    "language": "Go",
+    "star": "5"
+  },
+  {
+    "title": "activepieces/activepieces",
+    "url": "https://github.com/activepieces/activepieces",
+    "description": "No-code Business Automation Tool. An open source alternative to Zapier.",
+    "language": "TypeScript",
+    "star": "140"
+  }
+]
