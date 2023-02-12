@@ -18,42 +18,42 @@
     "url": "https://github.com/cloudflare/wildebeest",
     "description": "Wildebeest is an ActivityPub and Mastodon-compatible server",
     "language": "TypeScript",
-    "star": "100"
+    "star": "85"
   },
   {
     "title": "pedroslopez/whatsapp-web.js",
     "url": "https://github.com/pedroslopez/whatsapp-web.js",
     "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
     "language": "JavaScript",
-    "star": "79"
+    "star": "62"
   },
   {
     "title": "acikkaynak/deprem-io-frontend",
     "url": "https://github.com/acikkaynak/deprem-io-frontend",
     "description": "current-front",
     "language": "HTML",
-    "star": "9"
+    "star": "7"
   },
   {
     "title": "mastodon/mastodon",
     "url": "https://github.com/mastodon/mastodon",
     "description": "Your self-hosted, globally interconnected microblogging community",
     "language": "Ruby",
-    "star": "48"
+    "star": "43"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "452"
+    "star": "465"
   },
   {
     "title": "acheong08/EdgeGPT",
     "url": "https://github.com/acheong08/EdgeGPT",
     "description": "Reverse engineered API of Microsoft's Bing Chat",
     "language": "Python",
-    "star": "170"
+    "star": "183"
   },
   {
     "title": "acikkaynak/deprem-io-backend",
@@ -67,7 +67,7 @@
     "url": "https://github.com/rustdesk/rustdesk",
     "description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.",
     "language": "Rust",
-    "star": "255"
+    "star": "339"
   },
   {
     "title": "juspay/hyperswitch",
@@ -81,42 +81,42 @@
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "94"
+    "star": "72"
   },
   {
     "title": "ExamProCo/aws-bootcamp-cruddur-2023",
     "url": "https://github.com/ExamProCo/aws-bootcamp-cruddur-2023",
     "description": "This is the starting codebase that will be used in the FREE AWS Cloud Project Bootcamp 2023",
     "language": "JavaScript",
-    "star": "45"
+    "star": "47"
   },
   {
     "title": "leminlimez/Cowabunga",
     "url": "https://github.com/leminlimez/Cowabunga",
     "description": "iOS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox",
     "language": "Swift",
-    "star": "61"
+    "star": "33"
   },
   {
     "title": "calcom/cal.com",
     "url": "https://github.com/calcom/cal.com",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
-    "star": "61"
+    "star": "60"
   },
   {
     "title": "Shopify/hydrogen",
     "url": "https://github.com/Shopify/hydrogen",
     "description": "Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks.",
     "language": "TypeScript",
-    "star": "61"
+    "star": "25"
   },
   {
     "title": "lensterxyz/lenster",
     "url": "https://github.com/lensterxyz/lenster",
     "description": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
     "language": "TypeScript",
-    "star": "233"
+    "star": "217"
   },
   {
     "title": "alibaba/lowcode-engine",
@@ -137,7 +137,7 @@
     "url": "https://github.com/jaymody/picoGPT",
     "description": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
     "language": "Python",
-    "star": "96"
+    "star": "102"
   },
   {
     "title": "huggingface/peft",
@@ -151,21 +151,21 @@
     "url": "https://github.com/uutils/coreutils",
     "description": "Cross-platform Rust rewrite of the GNU coreutils",
     "language": "Rust",
-    "star": "110"
+    "star": "68"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "170"
+    "star": "168"
   },
   {
     "title": "waylaidwanderer/node-chatgpt-api",
     "url": "https://github.com/waylaidwanderer/node-chatgpt-api",
     "description": "A ChatGPT implementation with support for Bing's GPT-4 version of ChatGPT, plus the official ChatGPT model via OpenAI's API. Available as a Node.js module, REST API server, and CLI app.",
     "language": "JavaScript",
-    "star": "115"
+    "star": "114"
   },
   {
     "title": "commaai/openpilot",
