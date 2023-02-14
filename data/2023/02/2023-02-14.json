@@ -30,7 +30,7 @@
   {
     "title": "TheR1D/shell_gpt",
     "url": "https://github.com/TheR1D/shell_gpt",
-    "description": "A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.",
+    "description": "A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.",
     "language": "Python",
     "star": "336"
   },
