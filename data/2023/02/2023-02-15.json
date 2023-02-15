@@ -4,7 +4,7 @@
     "url": "https://github.com/lllyasviel/ControlNet",
     "description": "Let us control diffusion models",
     "language": "Python",
-    "star": "436"
+    "star": "394"
   },
   {
     "title": "hyperfiddle/electric",
@@ -18,7 +18,7 @@
     "url": "https://github.com/zloirock/core-js",
     "description": "Standard Library",
     "language": "JavaScript",
-    "star": "757"
+    "star": "758"
   },
   {
     "title": "schibsted/WAAS",
@@ -32,56 +32,56 @@
     "url": "https://github.com/gayolGate/gayolGate",
     "description": "Information about my GitHub profile",
     "language": "none",
-    "star": "42"
+    "star": "45"
   },
   {
     "title": "alist-org/alist",
     "url": "https://github.com/alist-org/alist",
     "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
     "language": "Go",
-    "star": "200"
+    "star": "183"
   },
   {
     "title": "alibaba/lowcode-engine",
     "url": "https://github.com/alibaba/lowcode-engine",
     "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
     "language": "TypeScript",
-    "star": "116"
+    "star": "91"
   },
   {
     "title": "guaguaguaxia/weekly_report",
     "url": "https://github.com/guaguaguaxia/weekly_report",
     "description": "",
     "language": "CSS",
-    "star": "267"
+    "star": "266"
   },
   {
     "title": "acheong08/EdgeGPT",
     "url": "https://github.com/acheong08/EdgeGPT",
     "description": "Reverse engineered API of Microsoft's Bing Chat",
     "language": "Python",
-    "star": "378"
+    "star": "374"
   },
   {
     "title": "Daiyimo/Access-chatGPT-in-Siri",
     "url": "https://github.com/Daiyimo/Access-chatGPT-in-Siri",
     "description": "chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android",
     "language": "none",
-    "star": "176"
+    "star": "175"
   },
   {
     "title": "annfelix/DEVOPS-WORLD",
     "url": "https://github.com/annfelix/DEVOPS-WORLD",
     "description": "",
     "language": "none",
-    "star": "39"
+    "star": "45"
   },
   {
     "title": "getlago/lago",
     "url": "https://github.com/getlago/lago",
     "description": "Open Source Metering and Usage Based Billing",
     "language": "Shell",
-    "star": "89"
+    "star": "90"
   },
   {
     "title": "CodeEditApp/CodeEdit",
@@ -102,14 +102,14 @@
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "使用 express 和 vue3 搭建的 ChartGPT 演示网页",
     "language": "TypeScript",
-    "star": "15"
+    "star": "47"
   },
   {
     "title": "TheR1D/shell_gpt",
     "url": "https://github.com/TheR1D/shell_gpt",
     "description": "A command-line interface (CLI) productivity tool powered by OpenAI's GPT-3 models, will help you accomplish your tasks faster and more efficiently.",
     "language": "Python",
-    "star": "290"
+    "star": "252"
   },
   {
     "title": "amazon-science/mm-cot",
@@ -123,42 +123,42 @@
     "url": "https://github.com/danielgindi/Charts",
     "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
     "language": "Swift",
-    "star": "14"
+    "star": "13"
   },
   {
     "title": "MicrosoftDocs/azure-docs",
     "url": "https://github.com/MicrosoftDocs/azure-docs",
     "description": "Open source documentation of Microsoft Azure",
     "language": "PowerShell",
-    "star": "8"
+    "star": "10"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "47"
+    "star": "49"
   },
   {
     "title": "haoheliu/AudioLDM",
     "url": "https://github.com/haoheliu/AudioLDM",
     "description": "AudioLDM: Generate speech, sound effects, music and beyond, with text.",
     "language": "Python",
-    "star": "43"
+    "star": "54"
   },
   {
     "title": "alexbatalov/fallout1-ce",
     "url": "https://github.com/alexbatalov/fallout1-ce",
     "description": "Fallout for modern operating systems",
     "language": "C++",
-    "star": "130"
+    "star": "127"
   },
   {
     "title": "Vita3K/Vita3K-Android",
     "url": "https://github.com/Vita3K/Vita3K-Android",
     "description": "Public releases and CI for the Vita3K Android app",
     "language": "none",
-    "star": "33"
+    "star": "31"
   },
   {
     "title": "gvergnaud/hotscript",
@@ -172,6 +172,6 @@
     "url": "https://github.com/KKKyrie/giftie",
     "description": "一个用来搞定「送礼问题」的「纯前端」解决方案",
     "language": "Vue",
-    "star": "32"
+    "star": "33"
   }
 ]
