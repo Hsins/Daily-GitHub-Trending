@@ -18,14 +18,14 @@
     "url": "https://github.com/lllyasviel/ControlNet",
     "description": "Let us control diffusion models",
     "language": "Python",
-    "star": "712"
+    "star": "560"
   },
   {
     "title": "Mikubill/sd-webui-controlnet",
     "url": "https://github.com/Mikubill/sd-webui-controlnet",
     "description": "WebUI extension for ControlNet",
     "language": "Python",
-    "star": "221"
+    "star": "225"
   },
   {
     "title": "opera-gaming/gxmods",
@@ -53,42 +53,42 @@
     "url": "https://github.com/danielgindi/Charts",
     "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
     "language": "Swift",
-    "star": "9"
+    "star": "17"
   },
   {
     "title": "alist-org/alist",
     "url": "https://github.com/alist-org/alist",
     "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
     "language": "Go",
-    "star": "186"
+    "star": "197"
   },
   {
     "title": "kingToolbox/WindTerm",
     "url": "https://github.com/kingToolbox/WindTerm",
     "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.",
     "language": "C",
-    "star": "102"
+    "star": "202"
   },
   {
     "title": "laravel/laravel",
     "url": "https://github.com/laravel/laravel",
     "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
     "language": "PHP",
-    "star": "33"
+    "star": "40"
   },
   {
     "title": "zloirock/core-js",
     "url": "https://github.com/zloirock/core-js",
     "description": "Standard Library",
     "language": "JavaScript",
-    "star": "743"
+    "star": "740"
   },
   {
     "title": "localsend/localsend",
     "url": "https://github.com/localsend/localsend",
     "description": "An open source cross-platform alternative to AirDrop",
     "language": "Dart",
-    "star": "142"
+    "star": "135"
   },
   {
     "title": "liu673cn/box",
@@ -102,7 +102,7 @@
     "url": "https://github.com/palera1n/palera1n-c",
     "description": "palera1n written in C",
     "language": "C",
-    "star": "61"
+    "star": "56"
   },
   {
     "title": "navopw/whatsapp-chatgpt",
@@ -130,21 +130,21 @@
     "url": "https://github.com/alibaba/lowcode-engine",
     "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
     "language": "TypeScript",
-    "star": "213"
+    "star": "233"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "349"
+    "star": "345"
   },
   {
     "title": "haoheliu/AudioLDM",
     "url": "https://github.com/haoheliu/AudioLDM",
     "description": "AudioLDM: Generate speech, sound effects, music and beyond, with text.",
     "language": "Python",
-    "star": "84"
+    "star": "141"
   },
   {
     "title": "midudev/aprendiendo-react",
