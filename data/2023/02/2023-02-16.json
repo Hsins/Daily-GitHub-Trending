@@ -1,0 +1,177 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "description": "Making big AI models cheaper, easier, and more scalable",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "language": "none",
+    "star": "2"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "description": "Let us control diffusion models",
+    "language": "Python",
+    "star": "546"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "description": "WebUI extension for ControlNet",
+    "language": "Python",
+    "star": "218"
+  },
+  {
+    "title": "opera-gaming/gxmods",
+    "url": "https://github.com/opera-gaming/gxmods",
+    "description": "Documentation for GX mods",
+    "language": "none",
+    "star": "46"
+  },
+  {
+    "title": "cfortuner/promptable",
+    "url": "https://github.com/cfortuner/promptable",
+    "description": "Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀",
+    "language": "TypeScript",
+    "star": "327"
+  },
+  {
+    "title": "johnlui/PPHC",
+    "url": "https://github.com/johnlui/PPHC",
+    "description": "📙《高并发的哲学原理》开源图书",
+    "language": "none",
+    "star": "47"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "language": "Swift",
+    "star": "21"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "language": "Go",
+    "star": "194"
+  },
+  {
+    "title": "kingToolbox/WindTerm",
+    "url": "https://github.com/kingToolbox/WindTerm",
+    "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Serial terminal.",
+    "language": "C",
+    "star": "220"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+    "language": "PHP",
+    "star": "36"
+  },
+  {
+    "title": "zloirock/core-js",
+    "url": "https://github.com/zloirock/core-js",
+    "description": "Standard Library",
+    "language": "JavaScript",
+    "star": "744"
+  },
+  {
+    "title": "localsend/localsend",
+    "url": "https://github.com/localsend/localsend",
+    "description": "An open source cross-platform alternative to AirDrop",
+    "language": "Dart",
+    "star": "142"
+  },
+  {
+    "title": "liu673cn/box",
+    "url": "https://github.com/liu673cn/box",
+    "description": "TVbox开源版（空壳-自行配置）",
+    "language": "none",
+    "star": "116"
+  },
+  {
+    "title": "palera1n/palera1n-c",
+    "url": "https://github.com/palera1n/palera1n-c",
+    "description": "palera1n written in C",
+    "language": "C",
+    "star": "64"
+  },
+  {
+    "title": "navopw/whatsapp-chatgpt",
+    "url": "https://github.com/navopw/whatsapp-chatgpt",
+    "description": "Whatsapp + ChatGPT = ❤️",
+    "language": "TypeScript",
+    "star": "36"
+  },
+  {
+    "title": "YunaiV/ruoyi-vue-pro",
+    "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+    "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+    "language": "Java",
+    "star": "41"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "description": "中文独立博客列表",
+    "language": "JavaScript",
+    "star": "78"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "language": "TypeScript",
+    "star": "230"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "351"
+  },
+  {
+    "title": "haoheliu/AudioLDM",
+    "url": "https://github.com/haoheliu/AudioLDM",
+    "description": "AudioLDM: Generate speech, sound effects, music and beyond, with text.",
+    "language": "Python",
+    "star": "92"
+  },
+  {
+    "title": "midudev/aprendiendo-react",
+    "url": "https://github.com/midudev/aprendiendo-react",
+    "description": "Curso para aprender React desde cero",
+    "language": "CSS",
+    "star": "128"
+  },
+  {
+    "title": "shieldfy/API-Security-Checklist",
+    "url": "https://github.com/shieldfy/API-Security-Checklist",
+    "description": "Checklist of the most important security countermeasures when designing, testing, and releasing your API",
+    "language": "none",
+    "star": "29"
+  },
+  {
+    "title": "xiaolincoder/CS-Base",
+    "url": "https://github.com/xiaolincoder/CS-Base",
+    "description": "图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com",
+    "language": "none",
+    "star": "55"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "JavaScript",
+    "star": "21"
+  }
+]
