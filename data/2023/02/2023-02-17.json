@@ -25,14 +25,14 @@
     "url": "https://github.com/lllyasviel/ControlNet",
     "description": "Let us control diffusion models",
     "language": "Python",
-    "star": "741"
+    "star": "740"
   },
   {
     "title": "Nutlope/aicommits",
     "url": "https://github.com/Nutlope/aicommits",
     "description": "A CLI that writes your git commit messages for you with AI",
     "language": "TypeScript",
-    "star": "322"
+    "star": "270"
   },
   {
     "title": "shyamsn97/mario-gpt",
@@ -46,7 +46,7 @@
     "url": "https://github.com/deepmind/mctx",
     "description": "Monte Carlo tree search in JAX",
     "language": "Python",
-    "star": "143"
+    "star": "184"
   },
   {
     "title": "mermaid-js/mermaid",
@@ -60,7 +60,7 @@
     "url": "https://github.com/Azure/azure-sdk-for-net",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "none",
-    "star": "6"
+    "star": "68"
   },
   {
     "title": "zloirock/core-js",
@@ -81,7 +81,7 @@
     "url": "https://github.com/opera-gaming/gxmods",
     "description": "Documentation for GX mods",
     "language": "CSS",
-    "star": "49"
+    "star": "51"
   },
   {
     "title": "Daiyimo/Access-chatGPT-in-Siri",
@@ -102,7 +102,7 @@
     "url": "https://github.com/cfortuner/promptable",
     "description": "Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀",
     "language": "TypeScript",
-    "star": "251"
+    "star": "329"
   },
   {
     "title": "lensterxyz/lenster",
@@ -137,14 +137,14 @@
     "url": "https://github.com/navopw/whatsapp-chatgpt",
     "description": "ChatGPT + Whatsapp = AI Assistant 🚀",
     "language": "TypeScript",
-    "star": "38"
+    "star": "31"
   },
   {
     "title": "alibaba/lowcode-engine",
     "url": "https://github.com/alibaba/lowcode-engine",
     "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
     "language": "TypeScript",
-    "star": "220"
+    "star": "225"
   },
   {
     "title": "Developer-Y/cs-video-courses",
@@ -158,20 +158,20 @@
     "url": "https://github.com/amazon-science/mm-cot",
     "description": "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)",
     "language": "Python",
-    "star": "105"
+    "star": "109"
   },
   {
     "title": "danielgindi/Charts",
     "url": "https://github.com/danielgindi/Charts",
     "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
     "language": "Swift",
-    "star": "13"
+    "star": "12"
   },
   {
     "title": "ruanyf/weekly",
     "url": "https://github.com/ruanyf/weekly",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "124"
+    "star": "73"
   }
 ]
