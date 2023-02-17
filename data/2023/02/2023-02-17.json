@@ -1,0 +1,177 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "description": "Making big AI models cheaper, easier, and more scalable",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "description": "WebUI extension for ControlNet",
+    "language": "Python",
+    "star": "309"
+  },
+  {
+    "title": "rerun-io/rerun",
+    "url": "https://github.com/rerun-io/rerun",
+    "description": "Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",
+    "language": "Rust",
+    "star": "144"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "description": "Let us control diffusion models",
+    "language": "Python",
+    "star": "741"
+  },
+  {
+    "title": "Nutlope/aicommits",
+    "url": "https://github.com/Nutlope/aicommits",
+    "description": "A CLI that writes your git commit messages for you with AI",
+    "language": "TypeScript",
+    "star": "325"
+  },
+  {
+    "title": "shyamsn97/mario-gpt",
+    "url": "https://github.com/shyamsn97/mario-gpt",
+    "description": "Generating Mario Levels with GPT2. Code for the paper \"MarioGPT: Open-Ended Text2Level Generation through Large Language Models\" https://arxiv.org/abs/2302.05981",
+    "language": "Python",
+    "star": "69"
+  },
+  {
+    "title": "deepmind/mctx",
+    "url": "https://github.com/deepmind/mctx",
+    "description": "Monte Carlo tree search in JAX",
+    "language": "Python",
+    "star": "148"
+  },
+  {
+    "title": "mermaid-js/mermaid",
+    "url": "https://github.com/mermaid-js/mermaid",
+    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+    "language": "JavaScript",
+    "star": "54"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net",
+    "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "language": "none",
+    "star": "6"
+  },
+  {
+    "title": "zloirock/core-js",
+    "url": "https://github.com/zloirock/core-js",
+    "description": "Standard Library",
+    "language": "JavaScript",
+    "star": "846"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "description": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",
+    "language": "Lua",
+    "star": "141"
+  },
+  {
+    "title": "opera-gaming/gxmods",
+    "url": "https://github.com/opera-gaming/gxmods",
+    "description": "Documentation for GX mods",
+    "language": "CSS",
+    "star": "49"
+  },
+  {
+    "title": "Daiyimo/Access-chatGPT-in-Siri",
+    "url": "https://github.com/Daiyimo/Access-chatGPT-in-Siri",
+    "description": "chatGPT接入Siri指南，目前仅限iPhone端，后续会更新Android",
+    "language": "none",
+    "star": "151"
+  },
+  {
+    "title": "hpcaitech/EnergonAI",
+    "url": "https://github.com/hpcaitech/EnergonAI",
+    "description": "Large-scale model inference.",
+    "language": "Python",
+    "star": "6"
+  },
+  {
+    "title": "cfortuner/promptable",
+    "url": "https://github.com/cfortuner/promptable",
+    "description": "Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀",
+    "language": "TypeScript",
+    "star": "251"
+  },
+  {
+    "title": "lensterxyz/lenster",
+    "url": "https://github.com/lensterxyz/lenster",
+    "description": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
+    "language": "TypeScript",
+    "star": "396"
+  },
+  {
+    "title": "mfaisalkhatri/awesome-learning",
+    "url": "https://github.com/mfaisalkhatri/awesome-learning",
+    "description": "Curated lists of awesome learning resources for a Software Test Automation Engineer",
+    "language": "none",
+    "star": "6"
+  },
+  {
+    "title": "timqian/chinese-independent-blogs",
+    "url": "https://github.com/timqian/chinese-independent-blogs",
+    "description": "中文独立博客列表",
+    "language": "JavaScript",
+    "star": "83"
+  },
+  {
+    "title": "hwchase17/chat-langchain",
+    "url": "https://github.com/hwchase17/chat-langchain",
+    "description": "",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "navopw/whatsapp-chatgpt",
+    "url": "https://github.com/navopw/whatsapp-chatgpt",
+    "description": "ChatGPT + Whatsapp = AI Assistant 🚀",
+    "language": "TypeScript",
+    "star": "38"
+  },
+  {
+    "title": "alibaba/lowcode-engine",
+    "url": "https://github.com/alibaba/lowcode-engine",
+    "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+    "language": "TypeScript",
+    "star": "220"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "84"
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "description": "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)",
+    "language": "Python",
+    "star": "105"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "description": "Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.",
+    "language": "Swift",
+    "star": "13"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly",
+    "description": "科技爱好者周刊，每周五发布",
+    "language": "none",
+    "star": "124"
+  }
+]
