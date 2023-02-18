@@ -4,63 +4,63 @@
     "url": "https://github.com/Mikubill/sd-webui-controlnet",
     "description": "WebUI extension for ControlNet",
     "language": "Python",
-    "star": "341"
+    "star": "351"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "141"
+    "star": "137"
   },
   {
     "title": "askrella/whatsapp-chatgpt",
     "url": "https://github.com/askrella/whatsapp-chatgpt",
     "description": "ChatGPT + DALL-E + Whatsapp = AI Assistant 🚀",
     "language": "TypeScript",
-    "star": "107"
+    "star": "104"
   },
   {
     "title": "NAStool/nas-tools",
     "url": "https://github.com/NAStool/nas-tools",
     "description": "NAS媒体库管理工具",
     "language": "none",
-    "star": "57"
+    "star": "68"
   },
   {
     "title": "lllyasviel/style2paints",
     "url": "https://github.com/lllyasviel/style2paints",
     "description": "sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)",
     "language": "JavaScript",
-    "star": "51"
+    "star": "50"
   },
   {
     "title": "hpcaitech/ColossalAI",
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Making big AI models cheaper, easier, and more scalable",
     "language": "Python",
-    "star": "616"
+    "star": "821"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "519"
+    "star": "482"
   },
   {
     "title": "lllyasviel/ControlNet",
     "url": "https://github.com/lllyasviel/ControlNet",
     "description": "Let us control diffusion models",
     "language": "Python",
-    "star": "695"
+    "star": "1"
   },
   {
     "title": "nvim-lua/kickstart.nvim",
     "url": "https://github.com/nvim-lua/kickstart.nvim",
     "description": "A launch point for your personal nvim configuration",
     "language": "Lua",
-    "star": "46"
+    "star": "45"
   },
   {
     "title": "slawlor/ractor",
@@ -95,28 +95,28 @@
     "url": "https://github.com/NvChad/NvChad",
     "description": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",
     "language": "Lua",
-    "star": "242"
+    "star": "102"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "使用 express 和 vue3 搭建的 GPT-3 模型演示网页",
     "language": "Vue",
-    "star": "58"
+    "star": "93"
   },
   {
     "title": "skywind3000/kcp",
     "url": "https://github.com/skywind3000/kcp",
     "description": "⚡ KCP - A Fast and Reliable ARQ Protocol",
     "language": "C",
-    "star": "88"
+    "star": "92"
   },
   {
     "title": "cfortuner/promptable",
     "url": "https://github.com/cfortuner/promptable",
     "description": "Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀",
     "language": "TypeScript",
-    "star": "162"
+    "star": "192"
   },
   {
     "title": "realm/SwiftLint",
@@ -137,35 +137,35 @@
     "url": "https://github.com/laravel/laravel",
     "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
     "language": "PHP",
-    "star": "30"
+    "star": "24"
   },
   {
     "title": "rerun-io/rerun",
     "url": "https://github.com/rerun-io/rerun",
     "description": "Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",
     "language": "Rust",
-    "star": "215"
+    "star": "216"
   },
   {
     "title": "antlr/grammars-v4",
     "url": "https://github.com/antlr/grammars-v4",
     "description": "Grammars written for ANTLR v4; expectation that the grammars are free of actions.",
     "language": "ANTLR",
-    "star": "8"
+    "star": "7"
   },
   {
     "title": "gradio-app/gradio",
     "url": "https://github.com/gradio-app/gradio",
     "description": "Create UIs for your machine learning model in Python in 3 minutes",
     "language": "HTML",
-    "star": "30"
+    "star": "41"
   },
   {
     "title": "d2l-ai/d2l-zh",
     "url": "https://github.com/d2l-ai/d2l-zh",
     "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
     "language": "Python",
-    "star": "115"
+    "star": "185"
   },
   {
     "title": "practical-tutorials/project-based-learning",
