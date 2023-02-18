@@ -11,14 +11,14 @@
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "137"
+    "star": "140"
   },
   {
     "title": "askrella/whatsapp-chatgpt",
     "url": "https://github.com/askrella/whatsapp-chatgpt",
     "description": "ChatGPT + DALL-E + Whatsapp = AI Assistant 🚀",
     "language": "TypeScript",
-    "star": "104"
+    "star": "111"
   },
   {
     "title": "NAStool/nas-tools",
@@ -32,21 +32,21 @@
     "url": "https://github.com/lllyasviel/style2paints",
     "description": "sketch + style = paints 🎨 (TOG2018/SIGGRAPH2018ASIA)",
     "language": "JavaScript",
-    "star": "50"
+    "star": "109"
   },
   {
     "title": "hpcaitech/ColossalAI",
     "url": "https://github.com/hpcaitech/ColossalAI",
     "description": "Making big AI models cheaper, easier, and more scalable",
     "language": "Python",
-    "star": "821"
+    "star": "1"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "482"
+    "star": "530"
   },
   {
     "title": "lllyasviel/ControlNet",
@@ -60,14 +60,14 @@
     "url": "https://github.com/nvim-lua/kickstart.nvim",
     "description": "A launch point for your personal nvim configuration",
     "language": "Lua",
-    "star": "45"
+    "star": "48"
   },
   {
     "title": "slawlor/ractor",
     "url": "https://github.com/slawlor/ractor",
     "description": "Rust actor framework",
     "language": "Rust",
-    "star": "123"
+    "star": "130"
   },
   {
     "title": "DrKLO/Telegram",
@@ -95,21 +95,21 @@
     "url": "https://github.com/NvChad/NvChad",
     "description": "An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime",
     "language": "Lua",
-    "star": "102"
+    "star": "226"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "使用 express 和 vue3 搭建的 GPT-3 模型演示网页",
     "language": "Vue",
-    "star": "93"
+    "star": "57"
   },
   {
     "title": "skywind3000/kcp",
     "url": "https://github.com/skywind3000/kcp",
     "description": "⚡ KCP - A Fast and Reliable ARQ Protocol",
     "language": "C",
-    "star": "92"
+    "star": "95"
   },
   {
     "title": "cfortuner/promptable",
@@ -123,7 +123,7 @@
     "url": "https://github.com/realm/SwiftLint",
     "description": "A tool to enforce Swift style and conventions.",
     "language": "Swift",
-    "star": "8"
+    "star": "10"
   },
   {
     "title": "ytdl-org/youtube-dl",
@@ -137,35 +137,35 @@
     "url": "https://github.com/laravel/laravel",
     "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
     "language": "PHP",
-    "star": "24"
+    "star": "43"
   },
   {
     "title": "rerun-io/rerun",
     "url": "https://github.com/rerun-io/rerun",
     "description": "Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui",
     "language": "Rust",
-    "star": "216"
+    "star": "134"
   },
   {
     "title": "antlr/grammars-v4",
     "url": "https://github.com/antlr/grammars-v4",
     "description": "Grammars written for ANTLR v4; expectation that the grammars are free of actions.",
     "language": "ANTLR",
-    "star": "7"
+    "star": "5"
   },
   {
     "title": "gradio-app/gradio",
     "url": "https://github.com/gradio-app/gradio",
     "description": "Create UIs for your machine learning model in Python in 3 minutes",
     "language": "HTML",
-    "star": "41"
+    "star": "29"
   },
   {
     "title": "d2l-ai/d2l-zh",
     "url": "https://github.com/d2l-ai/d2l-zh",
     "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被60多个国家的400多所大学用于教学。",
     "language": "Python",
-    "star": "185"
+    "star": "142"
   },
   {
     "title": "practical-tutorials/project-based-learning",
