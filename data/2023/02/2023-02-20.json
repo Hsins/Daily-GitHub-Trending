@@ -4,7 +4,7 @@
     "url": "https://github.com/askrella/whatsapp-chatgpt",
     "description": "ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀",
     "language": "TypeScript",
-    "star": "287"
+    "star": "284"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -18,7 +18,7 @@
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "170"
+    "star": "169"
   },
   {
     "title": "yt-dlp/yt-dlp",
@@ -32,112 +32,112 @@
     "url": "https://github.com/jaymody/picoGPT",
     "description": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
     "language": "Python",
-    "star": "159"
+    "star": "163"
   },
   {
     "title": "lllyasviel/ControlNet",
     "url": "https://github.com/lllyasviel/ControlNet",
     "description": "Let us control diffusion models",
     "language": "Python",
-    "star": "640"
+    "star": "862"
   },
   {
     "title": "Mikubill/sd-webui-controlnet",
     "url": "https://github.com/Mikubill/sd-webui-controlnet",
     "description": "WebUI extension for ControlNet",
     "language": "Python",
-    "star": "269"
+    "star": "253"
   },
   {
     "title": "CompVis/stable-diffusion",
     "url": "https://github.com/CompVis/stable-diffusion",
     "description": "A latent text-to-image diffusion model",
     "language": "Jupyter Notebook",
-    "star": "153"
+    "star": "296"
   },
   {
     "title": "trpc/trpc",
     "url": "https://github.com/trpc/trpc",
     "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
     "language": "TypeScript",
-    "star": "43"
+    "star": "102"
   },
   {
     "title": "kamranahmedse/developer-roadmap",
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
     "language": "Astro",
-    "star": "136"
+    "star": "224"
   },
   {
     "title": "hwchase17/langchainjs",
     "url": "https://github.com/hwchase17/langchainjs",
     "description": "",
     "language": "TypeScript",
-    "star": "52"
+    "star": "64"
   },
   {
     "title": "LazyVim/LazyVim",
     "url": "https://github.com/LazyVim/LazyVim",
     "description": "Neovim config for the lazy",
     "language": "Lua",
-    "star": "37"
+    "star": "77"
   },
   {
     "title": "replicate/scribble-diffusion",
     "url": "https://github.com/replicate/scribble-diffusion",
     "description": "Turn your rough sketch into a refined image using AI",
     "language": "JavaScript",
-    "star": "66"
+    "star": "119"
   },
   {
     "title": "Free-TV/IPTV",
     "url": "https://github.com/Free-TV/IPTV",
     "description": "M3U Playlist for free TV channels",
     "language": "Python",
-    "star": "85"
+    "star": "50"
   },
   {
     "title": "nvim-lua/kickstart.nvim",
     "url": "https://github.com/nvim-lua/kickstart.nvim",
     "description": "A launch point for your personal nvim configuration",
     "language": "Lua",
-    "star": "67"
+    "star": "58"
   },
   {
     "title": "microsoft/hack-together",
     "url": "https://github.com/microsoft/hack-together",
     "description": "Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.",
     "language": "C#",
-    "star": "12"
+    "star": "31"
   },
   {
     "title": "practical-tutorials/project-based-learning",
     "url": "https://github.com/practical-tutorials/project-based-learning",
     "description": "Curated list of project-based tutorials",
     "language": "none",
-    "star": "165"
+    "star": "176"
   },
   {
     "title": "huggingface/diffusers",
     "url": "https://github.com/huggingface/diffusers",
     "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
     "language": "Python",
-    "star": "51"
+    "star": "79"
   },
   {
     "title": "Learn-with-Sumit/think-in-a-redux-way",
     "url": "https://github.com/Learn-with-Sumit/think-in-a-redux-way",
     "description": "Think in a Redux way - React-Redux basic to advanced Bangla course by Learn with Sumit",
     "language": "none",
-    "star": "9"
+    "star": "10"
   },
   {
     "title": "TencentARC/GFPGAN",
     "url": "https://github.com/TencentARC/GFPGAN",
     "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
     "language": "Python",
-    "star": "31"
+    "star": "61"
   },
   {
     "title": "civitai/sd_civitai_extension",
@@ -151,27 +151,27 @@
     "url": "https://github.com/XTLS/REALITY",
     "description": "THE NEXT FUTURE",
     "language": "Go",
-    "star": "71"
+    "star": "155"
   },
   {
     "title": "sczhou/CodeFormer",
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "91"
+    "star": "160"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "154"
+    "star": "178"
   },
   {
     "title": "leptos-rs/leptos",
     "url": "https://github.com/leptos-rs/leptos",
     "description": "Build fast web applications with Rust.",
     "language": "Rust",
-    "star": "178"
+    "star": "172"
   }
 ]
