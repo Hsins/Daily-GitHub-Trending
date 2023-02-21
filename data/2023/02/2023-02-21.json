@@ -123,7 +123,7 @@
     "url": "https://github.com/danijar/dreamerv3",
     "description": "Mastering Diverse Domains through World Models",
     "language": "Python",
-    "star": "40"
+    "star": "39"
   },
   {
     "title": "openai/gpt-3",
@@ -172,6 +172,6 @@
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "TypeScript",
-    "star": "131"
+    "star": "129"
   }
 ]
