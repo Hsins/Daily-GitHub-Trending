@@ -11,14 +11,14 @@
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "536"
+    "star": "779"
   },
   {
     "title": "immersive-translate/immersive-translate",
     "url": "https://github.com/immersive-translate/immersive-translate",
     "description": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
     "language": "Makefile",
-    "star": "75"
+    "star": "152"
   },
   {
     "title": "Klocman/Bulk-Crap-Uninstaller",
@@ -53,21 +53,21 @@
     "url": "https://github.com/dunbar12138/pix2pix3D",
     "description": "pix2pix3D: Generating 3D Objects from 2D User Inputs",
     "language": "Python",
-    "star": "125"
+    "star": "128"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "188"
+    "star": "298"
   },
   {
     "title": "zinclabs/zincsearch",
     "url": "https://github.com/zinclabs/zincsearch",
     "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Go",
-    "star": "77"
+    "star": "72"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -88,14 +88,14 @@
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "188"
+    "star": "205"
   },
   {
     "title": "dair-ai/Prompt-Engineering-Guide",
     "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "description": "🐙 Guides, papers, and resources for prompt engineering",
     "language": "Jupyter Notebook",
-    "star": "106"
+    "star": "113"
   },
   {
     "title": "jlevy/the-art-of-command-line",
@@ -109,21 +109,21 @@
     "url": "https://github.com/ytdl-org/youtube-dl",
     "description": "Command-line program to download videos from YouTube.com and other video sites",
     "language": "Python",
-    "star": "170"
+    "star": "171"
   },
   {
     "title": "huggingface/diffusers",
     "url": "https://github.com/huggingface/diffusers",
     "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
     "language": "Python",
-    "star": "58"
+    "star": "59"
   },
   {
     "title": "danijar/dreamerv3",
     "url": "https://github.com/danijar/dreamerv3",
     "description": "Mastering Diverse Domains through World Models",
     "language": "Python",
-    "star": "34"
+    "star": "40"
   },
   {
     "title": "openai/gpt-3",
@@ -137,41 +137,41 @@
     "url": "https://github.com/lllyasviel/ControlNet",
     "description": "Let us control diffusion models",
     "language": "Python",
-    "star": "841"
+    "star": "838"
   },
   {
     "title": "coollabsio/coolify",
     "url": "https://github.com/coollabsio/coolify",
     "description": "An open-source & self-hostable Heroku / Netlify alternative.",
     "language": "Svelte",
-    "star": "160"
+    "star": "171"
   },
   {
     "title": "yt-dlp/yt-dlp",
     "url": "https://github.com/yt-dlp/yt-dlp",
     "description": "A youtube-dl fork with additional features and fixes",
     "language": "Python",
-    "star": "180"
+    "star": "213"
   },
   {
     "title": "freefq/free",
     "url": "https://github.com/freefq/free",
     "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
     "language": "none",
-    "star": "66"
+    "star": "74"
   },
   {
     "title": "AbdBarho/stable-diffusion-webui-docker",
     "url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
     "description": "Easy Docker setup for Stable Diffusion with user-friendly UI",
     "language": "Dockerfile",
-    "star": "16"
+    "star": "17"
   },
   {
     "title": "gothinkster/realworld",
     "url": "https://github.com/gothinkster/realworld",
     "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
     "language": "TypeScript",
-    "star": "132"
+    "star": "131"
   }
 ]
