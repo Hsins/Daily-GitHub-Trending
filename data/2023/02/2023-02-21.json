@@ -1,0 +1,177 @@
+[
+  {
+    "title": "DvorakDwarf/Infinite-Storage-Glitch",
+    "url": "https://github.com/DvorakDwarf/Infinite-Storage-Glitch",
+    "description": "ISG lets you use YouTube as cloud storage for ANY files, not just video",
+    "language": "Rust",
+    "star": "950"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "780"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "description": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "language": "Makefile",
+    "star": "150"
+  },
+  {
+    "title": "Klocman/Bulk-Crap-Uninstaller",
+    "url": "https://github.com/Klocman/Bulk-Crap-Uninstaller",
+    "description": "Remove large amounts of unwanted applications quickly.",
+    "language": "C#",
+    "star": "451"
+  },
+  {
+    "title": "liupan1890/aliyunpan",
+    "url": "https://github.com/liupan1890/aliyunpan",
+    "description": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
+    "language": "TypeScript",
+    "star": "394"
+  },
+  {
+    "title": "askrella/whatsapp-chatgpt",
+    "url": "https://github.com/askrella/whatsapp-chatgpt",
+    "description": "ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀",
+    "language": "TypeScript",
+    "star": "321"
+  },
+  {
+    "title": "fkunn1326/openpose-editor",
+    "url": "https://github.com/fkunn1326/openpose-editor",
+    "description": "Openpose Editor for AUTOMATIC1111's stable-diffusion-webui",
+    "language": "Python",
+    "star": "58"
+  },
+  {
+    "title": "dunbar12138/pix2pix3D",
+    "url": "https://github.com/dunbar12138/pix2pix3D",
+    "description": "pix2pix3D: Generating 3D Objects from 2D User Inputs",
+    "language": "Python",
+    "star": "125"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "language": "JavaScript",
+    "star": "302"
+  },
+  {
+    "title": "zinclabs/zincsearch",
+    "url": "https://github.com/zinclabs/zincsearch",
+    "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Go",
+    "star": "74"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "description": "A latent text-to-image diffusion model",
+    "language": "Jupyter Notebook",
+    "star": "299"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "200"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, and resources for prompt engineering",
+    "language": "Jupyter Notebook",
+    "star": "106"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "217"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "star": "171"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+    "language": "Python",
+    "star": "59"
+  },
+  {
+    "title": "danijar/dreamerv3",
+    "url": "https://github.com/danijar/dreamerv3",
+    "description": "Mastering Diverse Domains through World Models",
+    "language": "Python",
+    "star": "34"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "description": "GPT-3: Language Models are Few-Shot Learners",
+    "language": "none",
+    "star": "109"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "description": "Let us control diffusion models",
+    "language": "Python",
+    "star": "892"
+  },
+  {
+    "title": "coollabsio/coolify",
+    "url": "https://github.com/coollabsio/coolify",
+    "description": "An open-source & self-hostable Heroku / Netlify alternative.",
+    "language": "Svelte",
+    "star": "91"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "143"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free",
+    "description": "翻墙、免费翻墙、免费科学上网、免费节点、免费梯子、免费ss/v2ray/trojan节点、蓝灯、谷歌商店、翻墙梯子",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "AbdBarho/stable-diffusion-webui-docker",
+    "url": "https://github.com/AbdBarho/stable-diffusion-webui-docker",
+    "description": "Easy Docker setup for Stable Diffusion with user-friendly UI",
+    "language": "Dockerfile",
+    "star": "19"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "language": "TypeScript",
+    "star": "132"
+  }
+]
