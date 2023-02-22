@@ -18,7 +18,7 @@
     "url": "https://github.com/askrella/whatsapp-chatgpt",
     "description": "ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖",
     "language": "TypeScript",
-    "star": "349"
+    "star": "354"
   },
   {
     "title": "jlevy/the-art-of-command-line",
@@ -53,21 +53,21 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
     "language": "Astro",
-    "star": "305"
+    "star": "306"
   },
   {
     "title": "jaymody/picoGPT",
     "url": "https://github.com/jaymody/picoGPT",
     "description": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
     "language": "Python",
-    "star": "319"
+    "star": "229"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "506"
+    "star": "526"
   },
   {
     "title": "DovAmir/awesome-design-patterns",
@@ -88,28 +88,28 @@
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "201"
+    "star": "195"
   },
   {
     "title": "liupan1890/aliyunpan",
     "url": "https://github.com/liupan1890/aliyunpan",
     "description": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
     "language": "TypeScript",
-    "star": "374"
+    "star": "405"
   },
   {
     "title": "replicate/scribble-diffusion",
     "url": "https://github.com/replicate/scribble-diffusion",
     "description": "Turn your rough sketch into a refined image using AI",
     "language": "JavaScript",
-    "star": "200"
+    "star": "219"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "237"
+    "star": "189"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -137,14 +137,14 @@
     "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "description": "🐙 Guides, papers, lecture, and resources for prompt engineering",
     "language": "Jupyter Notebook",
-    "star": "905"
+    "star": "805"
   },
   {
     "title": "howl-anderson/unlocking-the-power-of-llms",
     "url": "https://github.com/howl-anderson/unlocking-the-power-of-llms",
     "description": "使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～",
     "language": "none",
-    "star": "145"
+    "star": "136"
   },
   {
     "title": "dunbar12138/pix2pix3D",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Bkebi-Group/Bkebi-GC-Release",
     "description": "Download Bkebi-GC Here",
     "language": "none",
-    "star": "51"
+    "star": "53"
   }
 ]
