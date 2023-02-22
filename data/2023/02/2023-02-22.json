@@ -18,14 +18,14 @@
     "url": "https://github.com/askrella/whatsapp-chatgpt",
     "description": "ChatGPT + DALL-E + WhatsApp = AI Assistant 🚀 🤖",
     "language": "TypeScript",
-    "star": "352"
+    "star": "349"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "262"
+    "star": "236"
   },
   {
     "title": "bregman-arie/devops-exercises",
@@ -60,21 +60,21 @@
     "url": "https://github.com/jaymody/picoGPT",
     "description": "An unnecessarily tiny implementation of GPT-2 in NumPy.",
     "language": "Python",
-    "star": "337"
+    "star": "319"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "526"
+    "star": "506"
   },
   {
     "title": "DovAmir/awesome-design-patterns",
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "98"
+    "star": "99"
   },
   {
     "title": "practical-tutorials/project-based-learning",
@@ -88,42 +88,42 @@
     "url": "https://github.com/vinta/awesome-python",
     "description": "A curated list of awesome Python frameworks, libraries, software and resources",
     "language": "Python",
-    "star": "190"
+    "star": "201"
   },
   {
     "title": "liupan1890/aliyunpan",
     "url": "https://github.com/liupan1890/aliyunpan",
     "description": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
     "language": "TypeScript",
-    "star": "405"
+    "star": "374"
   },
   {
     "title": "replicate/scribble-diffusion",
     "url": "https://github.com/replicate/scribble-diffusion",
     "description": "Turn your rough sketch into a refined image using AI",
     "language": "JavaScript",
-    "star": "199"
+    "star": "200"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "179"
+    "star": "237"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "986"
+    "star": "997"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "251"
+    "star": "252"
   },
   {
     "title": "total-typescript/ts-reset",
@@ -137,28 +137,28 @@
     "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "description": "🐙 Guides, papers, lecture, and resources for prompt engineering",
     "language": "Jupyter Notebook",
-    "star": "112"
+    "star": "905"
   },
   {
     "title": "howl-anderson/unlocking-the-power-of-llms",
     "url": "https://github.com/howl-anderson/unlocking-the-power-of-llms",
     "description": "使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～",
     "language": "none",
-    "star": "135"
+    "star": "145"
   },
   {
     "title": "dunbar12138/pix2pix3D",
     "url": "https://github.com/dunbar12138/pix2pix3D",
     "description": "pix2pix3D: Generating 3D Objects from 2D User Inputs",
     "language": "Python",
-    "star": "221"
+    "star": "120"
   },
   {
     "title": "camenduru/stable-diffusion-webui-colab",
     "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
     "description": "stable diffusion webui colab",
     "language": "Jupyter Notebook",
-    "star": "83"
+    "star": "86"
   },
   {
     "title": "Eugeny/tabby",
@@ -172,6 +172,6 @@
     "url": "https://github.com/Bkebi-Group/Bkebi-GC-Release",
     "description": "Download Bkebi-GC Here",
     "language": "none",
-    "star": "53"
+    "star": "51"
   }
 ]
