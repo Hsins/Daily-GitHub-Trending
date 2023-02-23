@@ -11,7 +11,7 @@
     "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "description": "🐙 Guides, papers, lecture, and resources for prompt engineering",
     "language": "Jupyter Notebook",
-    "star": "2"
+    "star": "1"
   },
   {
     "title": "FMInference/FlexGen",
@@ -25,21 +25,21 @@
     "url": "https://github.com/Kanaries/pygwalker",
     "description": "PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis",
     "language": "Jupyter Notebook",
-    "star": "579"
+    "star": "768"
   },
   {
     "title": "amazon-science/mm-cot",
     "url": "https://github.com/amazon-science/mm-cot",
     "description": "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)",
     "language": "Python",
-    "star": "421"
+    "star": "339"
   },
   {
     "title": "civitai/civitai",
     "url": "https://github.com/civitai/civitai",
     "description": "A repository of models, textual inversions, and more",
     "language": "TypeScript",
-    "star": "68"
+    "star": "70"
   },
   {
     "title": "MysticFoxDE/WINDOWS-OPTIMIZATIONS",
@@ -53,21 +53,21 @@
     "url": "https://github.com/Atmosphere-NX/Atmosphere",
     "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
     "language": "C++",
-    "star": "35"
+    "star": "33"
   },
   {
     "title": "jwasham/coding-interview-university",
     "url": "https://github.com/jwasham/coding-interview-university",
     "description": "A complete computer science study plan to become a software engineer.",
     "language": "none",
-    "star": "502"
+    "star": "512"
   },
   {
     "title": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
     "language": "Dart",
-    "star": "64"
+    "star": "59"
   },
   {
     "title": "LeagueOfPoro/CapsuleFarmerEvolved",
@@ -81,42 +81,42 @@
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "286"
+    "star": "290"
   },
   {
     "title": "epicmaxco/vuestic-ui",
     "url": "https://github.com/epicmaxco/vuestic-ui",
     "description": "Free and Open Source UI Library for Vue 3 🤘",
     "language": "Vue",
-    "star": "74"
+    "star": "39"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "292"
+    "star": "291"
   },
   {
     "title": "itwanger/toBeBetterJavaer",
     "url": "https://github.com/itwanger/toBeBetterJavaer",
     "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
     "language": "Java",
-    "star": "30"
+    "star": "29"
   },
   {
     "title": "liupan1890/aliyunpan",
     "url": "https://github.com/liupan1890/aliyunpan",
     "description": "阿里云盘小白羊版 阿里云盘PC版 aliyundriver",
     "language": "TypeScript",
-    "star": "299"
+    "star": "298"
   },
   {
     "title": "total-typescript/ts-reset",
     "url": "https://github.com/total-typescript/ts-reset",
     "description": "A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
     "language": "TypeScript",
-    "star": "1"
+    "star": "758"
   },
   {
     "title": "phodal/ai-research",
@@ -144,7 +144,7 @@
     "url": "https://github.com/Ignitetechnologies/Mindmap",
     "description": "This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them",
     "language": "none",
-    "star": "26"
+    "star": "25"
   },
   {
     "title": "localsend/localsend",
@@ -158,7 +158,7 @@
     "url": "https://github.com/coollabsio/coolify",
     "description": "An open-source & self-hostable Heroku / Netlify alternative.",
     "language": "Svelte",
-    "star": "132"
+    "star": "24"
   },
   {
     "title": "horizon3ai/CVE-2022-39952",
