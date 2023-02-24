@@ -1,0 +1,177 @@
+[
+  {
+    "title": "DvorakDwarf/Infinite-Storage-Glitch",
+    "url": "https://github.com/DvorakDwarf/Infinite-Storage-Glitch",
+    "description": "ISG lets you use YouTube as cloud storage for ANY files, not just video",
+    "language": "Rust",
+    "star": "2"
+  },
+  {
+    "title": "amazon-science/mm-cot",
+    "url": "https://github.com/amazon-science/mm-cot",
+    "description": "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)",
+    "language": "Python",
+    "star": "682"
+  },
+  {
+    "title": "mjl-/mox",
+    "url": "https://github.com/mjl-/mox",
+    "description": "modern full-featured open source secure mail server for low-maintenance self-hosted email",
+    "language": "Go",
+    "star": "613"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lecture, and resources for prompt engineering",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "AmbientRun/Ambient",
+    "url": "https://github.com/AmbientRun/Ambient",
+    "description": "The multiplayer game engine",
+    "language": "Rust",
+    "star": "459"
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "language": "C++",
+    "star": "43"
+  },
+  {
+    "title": "microsoft/LMOps",
+    "url": "https://github.com/microsoft/LMOps",
+    "description": "General technology for enabling AI capabilities w/ LLMs and Generative AI models",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "o-oconnell/minixfromscratch",
+    "url": "https://github.com/o-oconnell/minixfromscratch",
+    "description": "Development and compilation setup for the book version of MINIX (3.1.0) on QEMU",
+    "language": "C",
+    "star": "276"
+  },
+  {
+    "title": "CTCaer/hekate",
+    "url": "https://github.com/CTCaer/hekate",
+    "description": "hekate - A GUI based Nintendo Switch Bootloader",
+    "language": "C",
+    "star": "13"
+  },
+  {
+    "title": "lupantech/ScienceQA",
+    "url": "https://github.com/lupantech/ScienceQA",
+    "description": "Data and code for NeurIPS 2022 Paper \"Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering\".",
+    "language": "Python",
+    "star": "25"
+  },
+  {
+    "title": "ann-afame/DEVOPS-WORLD",
+    "url": "https://github.com/ann-afame/DEVOPS-WORLD",
+    "description": "",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "MysticFoxDE/WINDOWS-OPTIMIZATIONS",
+    "url": "https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS",
+    "description": "SKRIPTS FOR WINDOWS DESUBOPTIMIZATION",
+    "language": "PowerShell",
+    "star": "64"
+  },
+  {
+    "title": "motion-canvas/motion-canvas",
+    "url": "https://github.com/motion-canvas/motion-canvas",
+    "description": "Visualize Complex Ideas Programmatically",
+    "language": "TypeScript",
+    "star": "173"
+  },
+  {
+    "title": "flutter/packages",
+    "url": "https://github.com/flutter/packages",
+    "description": "A collection of useful packages maintained by the Flutter team",
+    "language": "Dart",
+    "star": "17"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "description": "⭐️ Companies that don't have a broken hiring process",
+    "language": "JavaScript",
+    "star": "67"
+  },
+  {
+    "title": "microsoft/BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "description": "",
+    "language": "Python",
+    "star": "82"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
+    "language": "Java",
+    "star": "34"
+  },
+  {
+    "title": "camenduru/stable-diffusion-webui-colab",
+    "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+    "description": "stable diffusion webui colab",
+    "language": "Jupyter Notebook",
+    "star": "147"
+  },
+  {
+    "title": "howl-anderson/unlocking-the-power-of-llms",
+    "url": "https://github.com/howl-anderson/unlocking-the-power-of-llms",
+    "description": "使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～",
+    "language": "none",
+    "star": "126"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns",
+    "description": "A curated list of software and architecture related design patterns.",
+    "language": "none",
+    "star": "187"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "description": "Master the command line, in one page",
+    "language": "none",
+    "star": "364"
+  },
+  {
+    "title": "hashicorp/terraform-provider-aws",
+    "url": "https://github.com/hashicorp/terraform-provider-aws",
+    "description": "Terraform AWS provider",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "language": "HTML",
+    "star": "505"
+  },
+  {
+    "title": "DataLinkDC/dinky",
+    "url": "https://github.com/DataLinkDC/dinky",
+    "description": "Dinky is an out of the box one-stop real-time computing platform dedicated to the construction and practice of Unified Streaming & Batch and Unified Data Lake & Data Warehouse. Based on Apache Flink, Dinky provides the ability to connect many big data frameworks including OLAP and Data Lake.",
+    "language": "Java",
+    "star": "9"
+  },
+  {
+    "title": "ethereum/go-ethereum",
+    "url": "https://github.com/ethereum/go-ethereum",
+    "description": "Official Go implementation of the Ethereum protocol",
+    "language": "Go",
+    "star": "26"
+  }
+]
