@@ -11,7 +11,7 @@
     "url": "https://github.com/amazon-science/mm-cot",
     "description": "Official implementation for \"Multimodal Chain-of-Thought Reasoning in Language Models\" (stay tuned and more will be updated)",
     "language": "Python",
-    "star": "681"
+    "star": "682"
   },
   {
     "title": "mjl-/mox",
@@ -46,14 +46,14 @@
     "url": "https://github.com/microsoft/LMOps",
     "description": "General technology for enabling AI capabilities w/ LLMs and Generative AI models",
     "language": "Python",
-    "star": "65"
+    "star": "62"
   },
   {
     "title": "o-oconnell/minixfromscratch",
     "url": "https://github.com/o-oconnell/minixfromscratch",
     "description": "Development and compilation setup for the book version of MINIX (3.1.0) on QEMU",
     "language": "C",
-    "star": "42"
+    "star": "276"
   },
   {
     "title": "CTCaer/hekate",
@@ -81,21 +81,21 @@
     "url": "https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS",
     "description": "SKRIPTS FOR WINDOWS DESUBOPTIMIZATION",
     "language": "PowerShell",
-    "star": "63"
+    "star": "64"
   },
   {
     "title": "motion-canvas/motion-canvas",
     "url": "https://github.com/motion-canvas/motion-canvas",
     "description": "Visualize Complex Ideas Programmatically",
     "language": "TypeScript",
-    "star": "520"
+    "star": "173"
   },
   {
     "title": "flutter/packages",
     "url": "https://github.com/flutter/packages",
     "description": "A collection of useful packages maintained by the Flutter team",
     "language": "Dart",
-    "star": "10"
+    "star": "17"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
@@ -109,42 +109,42 @@
     "url": "https://github.com/microsoft/BioGPT",
     "description": "",
     "language": "Python",
-    "star": "143"
+    "star": "82"
   },
   {
     "title": "itwanger/toBeBetterJavaer",
     "url": "https://github.com/itwanger/toBeBetterJavaer",
     "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄",
     "language": "Java",
-    "star": "35"
+    "star": "34"
   },
   {
     "title": "camenduru/stable-diffusion-webui-colab",
     "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
     "description": "stable diffusion webui colab",
     "language": "Jupyter Notebook",
-    "star": "143"
+    "star": "147"
   },
   {
     "title": "howl-anderson/unlocking-the-power-of-llms",
     "url": "https://github.com/howl-anderson/unlocking-the-power-of-llms",
     "description": "使用 Prompts 和 Chains 让 ChatGPT 成为神奇的生产力工具！每日更新～",
     "language": "none",
-    "star": "245"
+    "star": "126"
   },
   {
     "title": "DovAmir/awesome-design-patterns",
     "url": "https://github.com/DovAmir/awesome-design-patterns",
     "description": "A curated list of software and architecture related design patterns.",
     "language": "none",
-    "star": "177"
+    "star": "187"
   },
   {
     "title": "jlevy/the-art-of-command-line",
     "url": "https://github.com/jlevy/the-art-of-command-line",
     "description": "Master the command line, in one page",
     "language": "none",
-    "star": "295"
+    "star": "364"
   },
   {
     "title": "hashicorp/terraform-provider-aws",
@@ -172,6 +172,6 @@
     "url": "https://github.com/ethereum/go-ethereum",
     "description": "Official Go implementation of the Ethereum protocol",
     "language": "Go",
-    "star": "22"
+    "star": "26"
   }
 ]
