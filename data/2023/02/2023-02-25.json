@@ -4,7 +4,7 @@
     "url": "https://github.com/AmbientRun/Ambient",
     "description": "The multiplayer game engine",
     "language": "Rust",
-    "star": "383"
+    "star": "340"
   },
   {
     "title": "serverless-stack/sst",
@@ -18,7 +18,7 @@
     "url": "https://github.com/o-oconnell/minixfromscratch",
     "description": "Development and compilation setup for the book version of MINIX (3.1.0) on QEMU",
     "language": "C",
-    "star": "119"
+    "star": "151"
   },
   {
     "title": "dair-ai/Prompt-Engineering-Guide",
@@ -32,56 +32,56 @@
     "url": "https://github.com/sultim-t/xash-rt",
     "description": "Fork of the Xash3D FWGS with a real-time path tracing",
     "language": "C",
-    "star": "86"
+    "star": "66"
   },
   {
     "title": "mjl-/mox",
     "url": "https://github.com/mjl-/mox",
     "description": "modern full-featured open source secure mail server for low-maintenance self-hosted email",
     "language": "Go",
-    "star": "599"
+    "star": "610"
   },
   {
     "title": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
     "language": "Dart",
-    "star": "270"
+    "star": "112"
   },
   {
     "title": "microsoft/Web-Dev-For-Beginners",
     "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
     "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
     "language": "JavaScript",
-    "star": "258"
+    "star": "316"
   },
   {
     "title": "itwanger/toBeBetterJavaer",
     "url": "https://github.com/itwanger/toBeBetterJavaer",
     "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java程序员进阶之路😄",
     "language": "Java",
-    "star": "139"
+    "star": "70"
   },
   {
     "title": "prowler-cloud/prowler",
     "url": "https://github.com/prowler-cloud/prowler",
     "description": "Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.",
     "language": "Python",
-    "star": "12"
+    "star": "16"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 express 和 vue3 搭建的同时支持 `openAI Key` 和 `网页 accessToken` 的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "68"
+    "star": "73"
   },
   {
     "title": "Universidade-Livre/ciencia-da-computacao",
     "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
     "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
     "language": "none",
-    "star": "113"
+    "star": "134"
   },
   {
     "title": "TheAlgorithms/Python",
@@ -95,14 +95,14 @@
     "url": "https://github.com/phodal/ai-research",
     "description": "【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。",
     "language": "Jupyter Notebook",
-    "star": "64"
+    "star": "306"
   },
   {
     "title": "localsend/localsend",
     "url": "https://github.com/localsend/localsend",
     "description": "An open source cross-platform alternative to AirDrop",
     "language": "Dart",
-    "star": "286"
+    "star": "146"
   },
   {
     "title": "fastlane/fastlane",
@@ -116,14 +116,14 @@
     "url": "https://github.com/ryanmcdermott/clean-code-javascript",
     "description": "🛁 Clean Code concepts adapted for JavaScript",
     "language": "JavaScript",
-    "star": "173"
+    "star": "149"
   },
   {
     "title": "Fndroid/clash_for_windows_pkg",
     "url": "https://github.com/Fndroid/clash_for_windows_pkg",
     "description": "A Windows/macOS GUI based on Clash",
     "language": "none",
-    "star": "77"
+    "star": "79"
   },
   {
     "title": "tensorflow/models",
@@ -137,7 +137,7 @@
     "url": "https://github.com/open-mmlab/mmocr",
     "description": "OpenMMLab Text Detection, Recognition and Understanding Toolbox",
     "language": "Python",
-    "star": "5"
+    "star": "16"
   },
   {
     "title": "trigaten/Learn_Prompting",
@@ -165,7 +165,7 @@
     "url": "https://github.com/zulip/zulip",
     "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
     "language": "Python",
-    "star": "3"
+    "star": "27"
   },
   {
     "title": "tensorflow/tensorflow",
