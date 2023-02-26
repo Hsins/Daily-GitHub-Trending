@@ -4,28 +4,28 @@
     "url": "https://github.com/usememos/memos",
     "description": "An open-source, self-hosted memo hub with knowledge management and social networking.",
     "language": "TypeScript",
-    "star": "231"
+    "star": "212"
   },
   {
     "title": "AmbientRun/Ambient",
     "url": "https://github.com/AmbientRun/Ambient",
     "description": "The multiplayer game engine",
     "language": "Rust",
-    "star": "364"
+    "star": "347"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "Makefile",
-    "star": "137"
+    "star": "193"
   },
   {
     "title": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
     "language": "Dart",
-    "star": "108"
+    "star": "279"
   },
   {
     "title": "facebookresearch/llama",
@@ -39,28 +39,28 @@
     "url": "https://github.com/memochou1993/gpt-ai-assistant",
     "description": "OpenAI + LINE + Vercel = GPT AI Assistant",
     "language": "JavaScript",
-    "star": "294"
+    "star": "297"
   },
   {
     "title": "OwO-Network/DeepLX",
     "url": "https://github.com/OwO-Network/DeepLX",
     "description": "DeepL Free API (No TOKEN required)",
     "language": "Go",
-    "star": "137"
+    "star": "131"
   },
   {
     "title": "trigaten/Learn_Prompting",
     "url": "https://github.com/trigaten/Learn_Prompting",
     "description": "",
     "language": "TeX",
-    "star": "59"
+    "star": "54"
   },
   {
     "title": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun",
     "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
     "language": "Zig",
-    "star": "70"
+    "star": "71"
   },
   {
     "title": "KKGo1999/Stable-diffusion-person",
@@ -81,28 +81,28 @@
     "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
     "description": "stable diffusion webui colab",
     "language": "Jupyter Notebook",
-    "star": "99"
+    "star": "87"
   },
   {
     "title": "neovim/neovim",
     "url": "https://github.com/neovim/neovim",
     "description": "Vim-fork focused on extensibility and usability",
     "language": "Vim Script",
-    "star": "42"
+    "star": "41"
   },
   {
     "title": "vlang/v",
     "url": "https://github.com/vlang/v",
     "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
     "language": "V",
-    "star": "38"
+    "star": "37"
   },
   {
     "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
     "language": "none",
-    "star": "30"
+    "star": "35"
   },
   {
     "title": "GoAdminGroup/go-admin",
@@ -116,7 +116,7 @@
     "url": "https://github.com/cloudquery/cloudquery",
     "description": "The open source high performance data integration platform built for developers. 数据整合",
     "language": "Go",
-    "star": "48"
+    "star": "75"
   },
   {
     "title": "firstcontributions/first-contributions",
@@ -130,21 +130,21 @@
     "url": "https://github.com/nushell/nushell",
     "description": "A new type of shell",
     "language": "Rust",
-    "star": "64"
+    "star": "68"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "77"
+    "star": "137"
   },
   {
     "title": "NAStool/nas-tools",
     "url": "https://github.com/NAStool/nas-tools",
     "description": "NAS媒体库管理工具",
     "language": "none",
-    "star": "49"
+    "star": "42"
   },
   {
     "title": "henryhu712/technote",
@@ -165,13 +165,13 @@
     "url": "https://github.com/MortezaBashsiz/CFScanner",
     "description": "Cloud Flare scanner",
     "language": "C#",
-    "star": "30"
+    "star": "33"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "81"
+    "star": "91"
   }
 ]
