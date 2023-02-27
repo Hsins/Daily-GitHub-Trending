@@ -4,14 +4,14 @@
     "url": "https://github.com/usememos/memos",
     "description": "An open-source, self-hosted memo hub with knowledge management and social networking.",
     "language": "TypeScript",
-    "star": "906"
+    "star": "629"
   },
   {
     "title": "facebookresearch/llama",
     "url": "https://github.com/facebookresearch/llama",
     "description": "Inference code for LLaMA models",
     "language": "Python",
-    "star": "1"
+    "star": "966"
   },
   {
     "title": "home-assistant/core",
@@ -25,49 +25,49 @@
     "url": "https://github.com/freeCodeCamp/freeCodeCamp",
     "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
     "language": "TypeScript",
-    "star": "73"
+    "star": "68"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "196"
+    "star": "225"
   },
   {
     "title": "immich-app/immich",
     "url": "https://github.com/immich-app/immich",
     "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
     "language": "Dart",
-    "star": "332"
+    "star": "334"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "549"
+    "star": "487"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "186"
+    "star": "210"
   },
   {
     "title": "iggredible/Learn-Vim",
     "url": "https://github.com/iggredible/Learn-Vim",
     "description": "Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖",
     "language": "none",
-    "star": "123"
+    "star": "136"
   },
   {
     "title": "Haxxnet/Compose-Examples",
     "url": "https://github.com/Haxxnet/Compose-Examples",
     "description": "Various Docker Compose examples of selfhosted FOSS and proprietary projects.",
     "language": "none",
-    "star": "450"
+    "star": "963"
   },
   {
     "title": "LeagueOfPoro/CapsuleFarmerEvolved",
@@ -81,7 +81,7 @@
     "url": "https://github.com/Universidade-Livre/ciencia-da-computacao",
     "description": "🎓 Um caminho para a educação autodidata em Ciência da Computação!",
     "language": "none",
-    "star": "137"
+    "star": "151"
   },
   {
     "title": "whitead/paper-qa",
@@ -95,83 +95,83 @@
     "url": "https://github.com/damo-vilab/composer",
     "description": "Official implementation of \"Composer: Creative and Controllable Image Synthesis with Composable Conditions\"",
     "language": "none",
-    "star": "183"
+    "star": "184"
   },
   {
     "title": "abacaj/awesome-transformers",
     "url": "https://github.com/abacaj/awesome-transformers",
     "description": "A curated list of awesome transformer models.",
     "language": "none",
-    "star": "75"
+    "star": "58"
   },
   {
     "title": "OwO-Network/DeepLX",
     "url": "https://github.com/OwO-Network/DeepLX",
     "description": "DeepL Free API (No TOKEN required)",
     "language": "Go",
-    "star": "235"
+    "star": "145"
   },
   {
     "title": "termux/termux-packages",
     "url": "https://github.com/termux/termux-packages",
     "description": "A build system and primary set of packages for Termux.",
     "language": "Shell",
-    "star": "14"
+    "star": "15"
   },
   {
     "title": "jdxcode/rtx",
     "url": "https://github.com/jdxcode/rtx",
     "description": "Runtime Executor (asdf rust clone)",
     "language": "Rust",
-    "star": "84"
+    "star": "102"
   },
   {
     "title": "awesome-selfhosted/awesome-selfhosted",
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "Makefile",
-    "star": "425"
+    "star": "413"
   },
   {
     "title": "sympy/sympy",
     "url": "https://github.com/sympy/sympy",
     "description": "A computer algebra system written in pure Python",
     "language": "Python",
-    "star": "21"
+    "star": "25"
   },
   {
     "title": "huggingface/swift-coreml-diffusers",
     "url": "https://github.com/huggingface/swift-coreml-diffusers",
     "description": "Swift app demonstrating Core ML Stable Diffusion",
     "language": "Swift",
-    "star": "27"
+    "star": "26"
   },
   {
     "title": "echasnovski/mini.nvim",
     "url": "https://github.com/echasnovski/mini.nvim",
     "description": "Library of 20+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort",
     "language": "Lua",
-    "star": "50"
+    "star": "55"
   },
   {
     "title": "innnky/so-vits-svc",
     "url": "https://github.com/innnky/so-vits-svc",
     "description": "基于vits与softvc的歌声音色转换模型",
     "language": "Python",
-    "star": "62"
+    "star": "67"
   },
   {
     "title": "oven-sh/bun",
     "url": "https://github.com/oven-sh/bun",
     "description": "Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.",
     "language": "Zig",
-    "star": "113"
+    "star": "61"
   },
   {
     "title": "trigaten/Learn_Prompting",
     "url": "https://github.com/trigaten/Learn_Prompting",
     "description": "",
     "language": "TeX",
-    "star": "94"
+    "star": "99"
   }
 ]
