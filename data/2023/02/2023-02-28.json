@@ -4,14 +4,14 @@
     "url": "https://github.com/vlang/v",
     "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
     "language": "V",
-    "star": "64"
+    "star": "84"
   },
   {
     "title": "whitead/paper-qa",
     "url": "https://github.com/whitead/paper-qa",
     "description": "LLM Chain for answering questions from documents with citations",
     "language": "Python",
-    "star": "69"
+    "star": "70"
   },
   {
     "title": "usememos/memos",
@@ -32,14 +32,14 @@
     "url": "https://github.com/google/comprehensive-rust",
     "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
     "language": "Rust",
-    "star": "143"
+    "star": "94"
   },
   {
     "title": "damo-vilab/composer",
     "url": "https://github.com/damo-vilab/composer",
     "description": "Official implementation of \"Composer: Creative and Controllable Image Synthesis with Composable Conditions\"",
     "language": "none",
-    "star": "178"
+    "star": "187"
   },
   {
     "title": "MakiNaruto/Automatic_ticket_purchase",
@@ -74,14 +74,14 @@
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "Makefile",
-    "star": "427"
+    "star": "424"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "233"
+    "star": "236"
   },
   {
     "title": "Infisical/infisical",
@@ -95,14 +95,14 @@
     "url": "https://github.com/ntdevlabs/tiny11builder",
     "description": "Scripts to build a trimmed-down Windows 11 image.",
     "language": "Batchfile",
-    "star": "91"
+    "star": "90"
   },
   {
     "title": "henryhu712/technote",
     "url": "https://github.com/henryhu712/technote",
     "description": "编程笔记",
     "language": "HTML",
-    "star": "34"
+    "star": "44"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
@@ -123,42 +123,42 @@
     "url": "https://github.com/immich-app/immich",
     "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
     "language": "Dart",
-    "star": "281"
+    "star": "310"
   },
   {
     "title": "hwchase17/langchain",
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "151"
+    "star": "163"
   },
   {
     "title": "TheAlgorithms/Python",
     "url": "https://github.com/TheAlgorithms/Python",
     "description": "All Algorithms implemented in Python",
     "language": "Python",
-    "star": "205"
+    "star": "216"
   },
   {
     "title": "cloudquery/cloudquery",
     "url": "https://github.com/cloudquery/cloudquery",
     "description": "The open source high performance data integration platform built for developers. 数据整合",
     "language": "Go",
-    "star": "60"
+    "star": "130"
   },
   {
     "title": "memochou1993/gpt-ai-assistant",
     "url": "https://github.com/memochou1993/gpt-ai-assistant",
     "description": "OpenAI + LINE + Vercel = GPT AI Assistant",
     "language": "JavaScript",
-    "star": "230"
+    "star": "231"
   },
   {
     "title": "odomu/aliyunpan",
     "url": "https://github.com/odomu/aliyunpan",
     "description": "阿里云盘小白羊v3",
     "language": "TypeScript",
-    "star": "73"
+    "star": "74"
   },
   {
     "title": "vuejs/vue",
@@ -172,6 +172,6 @@
     "url": "https://github.com/gojue/ecapture",
     "description": "capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64.",
     "language": "C",
-    "star": "148"
+    "star": "39"
   }
 ]
