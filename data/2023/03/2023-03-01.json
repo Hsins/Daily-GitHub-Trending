@@ -11,7 +11,7 @@
     "url": "https://github.com/nebuly-ai/nebullvm",
     "description": "Plug and play modules to optimize the performances of your AI systems 🚀",
     "language": "Python",
-    "star": "500"
+    "star": "503"
   },
   {
     "title": "usememos/memos",
@@ -25,35 +25,35 @@
     "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
     "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
     "language": "Makefile",
-    "star": "452"
+    "star": "454"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "218"
+    "star": "219"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "32"
+    "star": "34"
   },
   {
     "title": "mrsked/mrsk",
     "url": "https://github.com/mrsked/mrsk",
     "description": "Deploy web apps anywhere.",
     "language": "Ruby",
-    "star": "624"
+    "star": "619"
   },
   {
     "title": "AnTi-anti/damai_ticket",
     "url": "https://github.com/AnTi-anti/damai_ticket",
     "description": "大麦网抢票脚本",
     "language": "Python",
-    "star": "83"
+    "star": "81"
   },
   {
     "title": "apache/doris",
@@ -74,14 +74,14 @@
     "url": "https://github.com/vlang/v",
     "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
     "language": "V",
-    "star": "451"
+    "star": "440"
   },
   {
     "title": "odomu/aliyunpan",
     "url": "https://github.com/odomu/aliyunpan",
     "description": "阿里云盘小白羊v3",
     "language": "TypeScript",
-    "star": "125"
+    "star": "124"
   },
   {
     "title": "honghuangdc/soybean-admin",
@@ -102,7 +102,7 @@
     "url": "https://github.com/tsl0922/ttyd",
     "description": "Share your terminal over the web",
     "language": "C",
-    "star": "72"
+    "star": "73"
   },
   {
     "title": "python-poetry/poetry",
@@ -116,7 +116,7 @@
     "url": "https://github.com/sympy/sympy",
     "description": "A computer algebra system written in pure Python",
     "language": "Python",
-    "star": "43"
+    "star": "47"
   },
   {
     "title": "open-telemetry/opentelemetry-go",
@@ -130,21 +130,21 @@
     "url": "https://github.com/microsoft/winget-cli",
     "description": "Windows Package Manager CLI (aka winget)",
     "language": "C++",
-    "star": "31"
+    "star": "32"
   },
   {
     "title": "greshake/llm-security",
     "url": "https://github.com/greshake/llm-security",
     "description": "New ways of breaking app-integrated LLMs",
     "language": "Python",
-    "star": "73"
+    "star": "75"
   },
   {
     "title": "mukulpatnaik/researchgpt",
     "url": "https://github.com/mukulpatnaik/researchgpt",
     "description": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
     "language": "Python",
-    "star": "140"
+    "star": "141"
   },
   {
     "title": "bmaltais/kohya_ss",
@@ -158,7 +158,7 @@
     "url": "https://github.com/henryhu712/technote",
     "description": "编程笔记",
     "language": "HTML",
-    "star": "61"
+    "star": "60"
   },
   {
     "title": "flutter/flutter",
