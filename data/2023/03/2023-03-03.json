@@ -4,161 +4,161 @@
     "url": "https://github.com/openai/openai-python",
     "description": "The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.",
     "language": "Python",
-    "star": "579"
+    "star": "581"
   },
   {
     "title": "openai/openai-cookbook",
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Jupyter Notebook",
-    "star": "665"
+    "star": "668"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
     "language": "Python",
-    "star": "227"
+    "star": "223"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "708"
+    "star": "694"
   },
   {
     "title": "microsoft/unilm",
     "url": "https://github.com/microsoft/unilm",
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "language": "Python",
-    "star": "164"
+    "star": "292"
   },
   {
     "title": "openai/whisper",
     "url": "https://github.com/openai/whisper",
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
     "language": "Jupyter Notebook",
-    "star": "345"
+    "star": "341"
   },
   {
     "title": "mrsked/mrsk",
     "url": "https://github.com/mrsked/mrsk",
     "description": "Deploy web apps anywhere.",
     "language": "Ruby",
-    "star": "529"
+    "star": "520"
   },
   {
     "title": "openai/openai-quickstart-python",
     "url": "https://github.com/openai/openai-quickstart-python",
     "description": "Python example app from the OpenAI API quickstart tutorial",
     "language": "CSS",
-    "star": "38"
+    "star": "37"
   },
   {
     "title": "transitive-bullshit/chatgpt-api",
     "url": "https://github.com/transitive-bullshit/chatgpt-api",
     "description": "Node.js client for the official ChatGPT API. 🔥",
     "language": "TypeScript",
-    "star": "214"
+    "star": "217"
   },
   {
     "title": "TheoKanning/openai-java",
     "url": "https://github.com/TheoKanning/openai-java",
     "description": "OpenAI GPT-3 Api Client in Java",
     "language": "Java",
-    "star": "50"
+    "star": "49"
   },
   {
     "title": "mukulpatnaik/researchgpt",
     "url": "https://github.com/mukulpatnaik/researchgpt",
     "description": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
     "language": "Python",
-    "star": "130"
+    "star": "121"
   },
   {
     "title": "yihong0618/xiaogpt",
     "url": "https://github.com/yihong0618/xiaogpt",
     "description": "play chatgpt with xiaomi ai speaker",
     "language": "Python",
-    "star": "220"
+    "star": "216"
   },
   {
     "title": "ServiceWeaver/weaver",
     "url": "https://github.com/ServiceWeaver/weaver",
     "description": "Programming framework for writing and deploying cloud applications.",
     "language": "Go",
-    "star": "323"
+    "star": "336"
   },
   {
     "title": "sashabaranov/go-gpt3",
     "url": "https://github.com/sashabaranov/go-gpt3",
     "description": "OpenAI ChatGPT, GPT-3 and DALL·E API wrapper for Go",
     "language": "Go",
-    "star": "98"
+    "star": "96"
   },
   {
     "title": "openai/openai-node",
     "url": "https://github.com/openai/openai-node",
     "description": "Node.js library for the OpenAI API",
     "language": "TypeScript",
-    "star": "113"
+    "star": "114"
   },
   {
     "title": "karfly/chatgpt_telegram_bot",
     "url": "https://github.com/karfly/chatgpt_telegram_bot",
     "description": "",
     "language": "Python",
-    "star": "245"
+    "star": "251"
   },
   {
     "title": "betalgo/openai",
     "url": "https://github.com/betalgo/openai",
     "description": "Open AI ChatGPT, GPT-3 and DALL-E dotnet SDK",
     "language": "C#",
-    "star": "47"
+    "star": "90"
   },
   {
     "title": "hiifeng/V2ray-for-Doprax",
     "url": "https://github.com/hiifeng/V2ray-for-Doprax",
     "description": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",
     "language": "Dockerfile",
-    "star": "92"
+    "star": "93"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "94"
+    "star": "99"
   },
   {
     "title": "bregman-arie/devops-exercises",
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "216"
+    "star": "215"
   },
   {
     "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
     "language": "none",
-    "star": "180"
+    "star": "167"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
     "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
     "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
     "language": "Java",
-    "star": "98"
+    "star": "100"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "197"
+    "star": "210"
   },
   {
     "title": "CleverRaven/Cataclysm-DDA",
@@ -172,6 +172,6 @@
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "213"
+    "star": "216"
   }
 ]
