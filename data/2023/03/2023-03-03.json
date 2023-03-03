@@ -11,35 +11,35 @@
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Jupyter Notebook",
-    "star": "668"
+    "star": "666"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
     "language": "Python",
-    "star": "223"
+    "star": "225"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "694"
+    "star": "690"
   },
   {
     "title": "microsoft/unilm",
     "url": "https://github.com/microsoft/unilm",
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "language": "Python",
-    "star": "292"
+    "star": "163"
   },
   {
     "title": "openai/whisper",
     "url": "https://github.com/openai/whisper",
     "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
     "language": "Jupyter Notebook",
-    "star": "341"
+    "star": "340"
   },
   {
     "title": "mrsked/mrsk",
@@ -53,7 +53,7 @@
     "url": "https://github.com/openai/openai-quickstart-python",
     "description": "Python example app from the OpenAI API quickstart tutorial",
     "language": "CSS",
-    "star": "37"
+    "star": "36"
   },
   {
     "title": "transitive-bullshit/chatgpt-api",
@@ -67,14 +67,14 @@
     "url": "https://github.com/TheoKanning/openai-java",
     "description": "OpenAI GPT-3 Api Client in Java",
     "language": "Java",
-    "star": "49"
+    "star": "48"
   },
   {
     "title": "mukulpatnaik/researchgpt",
     "url": "https://github.com/mukulpatnaik/researchgpt",
     "description": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
     "language": "Python",
-    "star": "121"
+    "star": "119"
   },
   {
     "title": "yihong0618/xiaogpt",
@@ -88,14 +88,14 @@
     "url": "https://github.com/ServiceWeaver/weaver",
     "description": "Programming framework for writing and deploying cloud applications.",
     "language": "Go",
-    "star": "336"
+    "star": "302"
   },
   {
     "title": "sashabaranov/go-gpt3",
     "url": "https://github.com/sashabaranov/go-gpt3",
     "description": "OpenAI ChatGPT, GPT-3 and DALL·E API wrapper for Go",
     "language": "Go",
-    "star": "96"
+    "star": "98"
   },
   {
     "title": "openai/openai-node",
@@ -116,7 +116,7 @@
     "url": "https://github.com/betalgo/openai",
     "description": "Open AI ChatGPT, GPT-3 and DALL-E dotnet SDK",
     "language": "C#",
-    "star": "90"
+    "star": "87"
   },
   {
     "title": "hiifeng/V2ray-for-Doprax",
@@ -137,14 +137,14 @@
     "url": "https://github.com/bregman-arie/devops-exercises",
     "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
     "language": "Python",
-    "star": "215"
+    "star": "211"
   },
   {
     "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
     "language": "none",
-    "star": "167"
+    "star": "182"
   },
   {
     "title": "GrowingGit/GitHub-Chinese-Top-Charts",
@@ -158,20 +158,20 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "210"
+    "star": "215"
   },
   {
     "title": "CleverRaven/Cataclysm-DDA",
     "url": "https://github.com/CleverRaven/Cataclysm-DDA",
     "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
     "language": "C++",
-    "star": "27"
+    "star": "29"
   },
   {
     "title": "hwchase17/langchain",
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "216"
+    "star": "220"
   }
 ]
