@@ -1,0 +1,177 @@
+[
+  {
+    "title": "yihong0618/bilingual_book_maker",
+    "url": "https://github.com/yihong0618/bilingual_book_maker",
+    "description": "Make bilingual epub books Using AI translate",
+    "language": "Python",
+    "star": "594"
+  },
+  {
+    "title": "ddiu8081/chatgpt-demo",
+    "url": "https://github.com/ddiu8081/chatgpt-demo",
+    "description": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
+    "language": "TypeScript",
+    "star": "439"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
+    "language": "Vue",
+    "star": "400"
+  },
+  {
+    "title": "ServiceWeaver/weaver",
+    "url": "https://github.com/ServiceWeaver/weaver",
+    "description": "Programming framework for writing and deploying cloud applications.",
+    "language": "Go",
+    "star": "375"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "language": "Python",
+    "star": "875"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "description": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "language": "Python",
+    "star": "242"
+  },
+  {
+    "title": "karfly/chatgpt_telegram_bot",
+    "url": "https://github.com/karfly/chatgpt_telegram_bot",
+    "description": "",
+    "language": "Python",
+    "star": "138"
+  },
+  {
+    "title": "yihong0618/xiaogpt",
+    "url": "https://github.com/yihong0618/xiaogpt",
+    "description": "play chatgpt with xiaomi ai speaker",
+    "language": "Python",
+    "star": "107"
+  },
+  {
+    "title": "JimmyLv/BiliGPT",
+    "url": "https://github.com/JimmyLv/BiliGPT",
+    "description": "BiliGPT 哔哩哔哩 · 视频内容一键总结",
+    "language": "TypeScript",
+    "star": "128"
+  },
+  {
+    "title": "TheoKanning/openai-java",
+    "url": "https://github.com/TheoKanning/openai-java",
+    "description": "OpenAI GPT-3 Api Client in Java",
+    "language": "Java",
+    "star": "64"
+  },
+  {
+    "title": "mrsked/mrsk",
+    "url": "https://github.com/mrsked/mrsk",
+    "description": "Deploy web apps anywhere.",
+    "language": "Ruby",
+    "star": "196"
+  },
+  {
+    "title": "869413421/chatgpt-web",
+    "url": "https://github.com/869413421/chatgpt-web",
+    "description": "基于ChatGPT3.5 API实现的私有化web程序",
+    "language": "Go",
+    "star": "133"
+  },
+  {
+    "title": "mckaywrigley/paul-graham-gpt",
+    "url": "https://github.com/mckaywrigley/paul-graham-gpt",
+    "description": "AI search & chat for all of Paul Graham’s essays.",
+    "language": "TypeScript",
+    "star": "209"
+  },
+  {
+    "title": "Nutlope/roomGPT",
+    "url": "https://github.com/Nutlope/roomGPT",
+    "description": "Upload a photo of your room to generate your dream room with AI.",
+    "language": "TypeScript",
+    "star": "790"
+  },
+  {
+    "title": "RUB-SysSec/DroneSecurity",
+    "url": "https://github.com/RUB-SysSec/DroneSecurity",
+    "description": "DroneSecurity (NDSS 2023)",
+    "language": "Python",
+    "star": "88"
+  },
+  {
+    "title": "honghuangdc/soybean-admin",
+    "url": "https://github.com/honghuangdc/soybean-admin",
+    "description": "A fresh and elegant admin template, based on Vue3,Vite3,TypeScript,NaiveUI and UnoCSS [一个基于Vue3、Vite3、TypeScript、NaiveUI 和 UnoCSS的清新优雅的中后台模版]",
+    "language": "Vue",
+    "star": "22"
+  },
+  {
+    "title": "cisagov/decider",
+    "url": "https://github.com/cisagov/decider",
+    "description": "A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.",
+    "language": "CSS",
+    "star": "97"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "162"
+  },
+  {
+    "title": "hiifeng/V2ray-for-Doprax",
+    "url": "https://github.com/hiifeng/V2ray-for-Doprax",
+    "description": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",
+    "language": "Dockerfile",
+    "star": "89"
+  },
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "description": "The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.",
+    "language": "Python",
+    "star": "548"
+  },
+  {
+    "title": "mukulpatnaik/researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "description": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
+    "language": "Python",
+    "star": "181"
+  },
+  {
+    "title": "ZhangZhuoSJTU/Web3Bugs",
+    "url": "https://github.com/ZhangZhuoSJTU/Web3Bugs",
+    "description": "Demystifying Exploitable Bugs in Smart Contracts",
+    "language": "Solidity",
+    "star": "103"
+  },
+  {
+    "title": "openai-php/client",
+    "url": "https://github.com/openai-php/client",
+    "description": "⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.",
+    "language": "PHP",
+    "star": "69"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "language": "HTML",
+    "star": "576"
+  },
+  {
+    "title": "FeatureProbe/FeatureProbe",
+    "url": "https://github.com/FeatureProbe/FeatureProbe",
+    "description": "FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。",
+    "language": "TypeScript",
+    "star": "7"
+  }
+]
