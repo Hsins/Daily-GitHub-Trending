@@ -4,7 +4,7 @@
     "url": "https://github.com/yihong0618/bilingual_book_maker",
     "description": "Make bilingual epub books Using AI translate",
     "language": "Python",
-    "star": "560"
+    "star": "600"
   },
   {
     "title": "ddiu8081/chatgpt-demo",
@@ -18,70 +18,70 @@
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "417"
+    "star": "519"
   },
   {
     "title": "ServiceWeaver/weaver",
     "url": "https://github.com/ServiceWeaver/weaver",
     "description": "Programming framework for writing and deploying cloud applications.",
     "language": "Go",
-    "star": "348"
+    "star": "358"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "829"
+    "star": "860"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
     "language": "Python",
-    "star": "242"
+    "star": "224"
   },
   {
     "title": "karfly/chatgpt_telegram_bot",
     "url": "https://github.com/karfly/chatgpt_telegram_bot",
     "description": "",
     "language": "Python",
-    "star": "138"
+    "star": "148"
   },
   {
     "title": "yihong0618/xiaogpt",
     "url": "https://github.com/yihong0618/xiaogpt",
     "description": "play chatgpt with xiaomi ai speaker",
     "language": "Python",
-    "star": "193"
+    "star": "123"
   },
   {
     "title": "JimmyLv/BiliGPT",
     "url": "https://github.com/JimmyLv/BiliGPT",
     "description": "BiliGPT 哔哩哔哩 · 视频内容一键总结",
     "language": "TypeScript",
-    "star": "128"
+    "star": "127"
   },
   {
     "title": "TheoKanning/openai-java",
     "url": "https://github.com/TheoKanning/openai-java",
     "description": "OpenAI GPT-3 Api Client in Java",
     "language": "Java",
-    "star": "64"
+    "star": "53"
   },
   {
     "title": "mrsked/mrsk",
     "url": "https://github.com/mrsked/mrsk",
     "description": "Deploy web apps anywhere.",
     "language": "Ruby",
-    "star": "196"
+    "star": "342"
   },
   {
     "title": "869413421/chatgpt-web",
     "url": "https://github.com/869413421/chatgpt-web",
     "description": "基于ChatGPT3.5 API实现的私有化web程序",
     "language": "Go",
-    "star": "139"
+    "star": "141"
   },
   {
     "title": "mckaywrigley/paul-graham-gpt",
@@ -116,49 +116,49 @@
     "url": "https://github.com/cisagov/decider",
     "description": "A web application that assists network defenders, analysts, and researcher in the process of mapping adversary behaviors to the MITRE ATT&CK® framework.",
     "language": "CSS",
-    "star": "97"
+    "star": "91"
   },
   {
     "title": "microsoft/PowerToys",
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "162"
+    "star": "169"
   },
   {
     "title": "hiifeng/V2ray-for-Doprax",
     "url": "https://github.com/hiifeng/V2ray-for-Doprax",
     "description": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",
     "language": "Dockerfile",
-    "star": "93"
+    "star": "92"
   },
   {
     "title": "openai/openai-python",
     "url": "https://github.com/openai/openai-python",
     "description": "The OpenAI Python library provides convenient access to the OpenAI API from applications written in the Python language.",
     "language": "Python",
-    "star": "570"
+    "star": "553"
   },
   {
     "title": "mukulpatnaik/researchgpt",
     "url": "https://github.com/mukulpatnaik/researchgpt",
     "description": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
     "language": "Python",
-    "star": "130"
+    "star": "154"
   },
   {
     "title": "ZhangZhuoSJTU/Web3Bugs",
     "url": "https://github.com/ZhangZhuoSJTU/Web3Bugs",
     "description": "Demystifying Exploitable Bugs in Smart Contracts",
     "language": "Solidity",
-    "star": "103"
+    "star": "85"
   },
   {
     "title": "openai-php/client",
     "url": "https://github.com/openai-php/client",
     "description": "⚡️ OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.",
     "language": "PHP",
-    "star": "69"
+    "star": "74"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -172,6 +172,6 @@
     "url": "https://github.com/FeatureProbe/FeatureProbe",
     "description": "FeatureProbe is an open source feature management service. 开源的高效可视化『特性』管理平台，提供特性开关、灰度发布、AB实验全功能。",
     "language": "TypeScript",
-    "star": "7"
+    "star": "9"
   }
 ]
