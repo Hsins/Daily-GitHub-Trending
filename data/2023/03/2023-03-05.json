@@ -4,7 +4,7 @@
     "url": "https://github.com/Nutlope/roomGPT",
     "description": "Upload a photo of your room to generate your dream room with AI.",
     "language": "TypeScript",
-    "star": "742"
+    "star": "739"
   },
   {
     "title": "ddiu8081/chatgpt-demo",
@@ -25,21 +25,21 @@
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "358"
+    "star": "356"
   },
   {
     "title": "mckaywrigley/paul-graham-gpt",
     "url": "https://github.com/mckaywrigley/paul-graham-gpt",
     "description": "AI search & chat for all of Paul Graham’s essays.",
     "language": "TypeScript",
-    "star": "166"
+    "star": "181"
   },
   {
     "title": "ServiceWeaver/weaver",
     "url": "https://github.com/ServiceWeaver/weaver",
     "description": "Programming framework for writing and deploying cloud applications.",
     "language": "Go",
-    "star": "260"
+    "star": "269"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
@@ -60,7 +60,7 @@
     "url": "https://github.com/yihong0618/bilingual_book_maker",
     "description": "Make bilingual epub books Using AI translate",
     "language": "Python",
-    "star": "622"
+    "star": "623"
   },
   {
     "title": "sashabaranov/go-openai",
@@ -74,35 +74,35 @@
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "340"
+    "star": "342"
   },
   {
     "title": "openai/openai-cookbook",
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Jupyter Notebook",
-    "star": "255"
+    "star": "254"
   },
   {
     "title": "jerryjliu/gpt_index",
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
     "language": "Python",
-    "star": "295"
+    "star": "285"
   },
   {
     "title": "innnky/so-vits-svc",
     "url": "https://github.com/innnky/so-vits-svc",
     "description": "基于vits与softvc的歌声音色转换模型",
     "language": "Python",
-    "star": "110"
+    "star": "108"
   },
   {
     "title": "openai/openai-quickstart-python",
     "url": "https://github.com/openai/openai-quickstart-python",
     "description": "Python example app from the OpenAI API quickstart tutorial",
     "language": "CSS",
-    "star": "17"
+    "star": "16"
   },
   {
     "title": "mukulpatnaik/researchgpt",
@@ -116,14 +116,14 @@
     "url": "https://github.com/godotengine/godot-docs",
     "description": "Godot Engine official documentation",
     "language": "reStructuredText",
-    "star": "21"
+    "star": "10"
   },
   {
     "title": "zhayujie/bot-on-anything",
     "url": "https://github.com/zhayujie/bot-on-anything",
     "description": "Connect AI models (like ChatGPT-3.5, GPT-3.0) to apps (like Wechat, public account, DingTalk, Telegram, QQ). 将 ChatGPT 等算法模型应用于各类平台，目前已完成命令行、个人微信、公众号、QQ、Telegram、Gmail邮箱、Slack，计划接入Web、企业微信、钉钉等。",
     "language": "Python",
-    "star": "48"
+    "star": "55"
   },
   {
     "title": "yuzu-emu/yuzu",
@@ -137,21 +137,21 @@
     "url": "https://github.com/yu-takagi/StableDiffusionReconstruction",
     "description": "Takagi and Nishimoto, CVPR 2023",
     "language": "none",
-    "star": "125"
+    "star": "126"
   },
   {
     "title": "Uniswap/wallet",
     "url": "https://github.com/Uniswap/wallet",
     "description": "Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.",
     "language": "TypeScript",
-    "star": "74"
+    "star": "73"
   },
   {
     "title": "adrianhajdin/project_3D_developer_portfolio",
     "url": "https://github.com/adrianhajdin/project_3D_developer_portfolio",
     "description": "",
     "language": "JavaScript",
-    "star": "84"
+    "star": "82"
   },
   {
     "title": "JimmyLv/BiliGPT",
@@ -165,13 +165,13 @@
     "url": "https://github.com/misskey-dev/misskey",
     "description": "🌎 An interplanetary microblogging platform 🚀",
     "language": "TypeScript",
-    "star": "61"
+    "star": "60"
   },
   {
     "title": "869413421/chatgpt-web",
     "url": "https://github.com/869413421/chatgpt-web",
     "description": "基于ChatGPT3.5 API实现的私有化web程序",
     "language": "Go",
-    "star": "101"
+    "star": "97"
   }
 ]
