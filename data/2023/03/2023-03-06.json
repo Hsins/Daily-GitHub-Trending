@@ -11,21 +11,21 @@
     "url": "https://github.com/ddiu8081/chatgpt-demo",
     "description": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
     "language": "TypeScript",
-    "star": "819"
+    "star": "820"
   },
   {
     "title": "karfly/chatgpt_telegram_bot",
     "url": "https://github.com/karfly/chatgpt_telegram_bot",
     "description": "",
     "language": "Python",
-    "star": "101"
+    "star": "136"
   },
   {
     "title": "jerryjliu/gpt_index",
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
     "language": "Python",
-    "star": "308"
+    "star": "300"
   },
   {
     "title": "GaiZhenbiao/ChuanhuChatGPT",
@@ -46,21 +46,21 @@
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "999"
+    "star": "997"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "440"
+    "star": "439"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "328"
+    "star": "327"
   },
   {
     "title": "oobabooga/text-generation-webui",
@@ -74,42 +74,42 @@
     "url": "https://github.com/mckaywrigley/paul-graham-gpt",
     "description": "AI search & chat for all of Paul Graham’s essays.",
     "language": "TypeScript",
-    "star": "165"
+    "star": "186"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
     "language": "Python",
-    "star": "275"
+    "star": "276"
   },
   {
     "title": "ServiceWeaver/weaver",
     "url": "https://github.com/ServiceWeaver/weaver",
     "description": "Programming framework for writing and deploying cloud applications.",
     "language": "Go",
-    "star": "338"
+    "star": "336"
   },
   {
     "title": "JimmyLv/BiliGPT",
     "url": "https://github.com/JimmyLv/BiliGPT",
     "description": "BiliGPT 哔哩哔哩 · 视频内容一键总结",
     "language": "TypeScript",
-    "star": "176"
+    "star": "177"
   },
   {
     "title": "reorx/awesome-chatgpt-api",
     "url": "https://github.com/reorx/awesome-chatgpt-api",
     "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow user to configure their own API keys, enabling free and on-demand usage of their own quota.",
     "language": "none",
-    "star": "489"
+    "star": "490"
   },
   {
     "title": "OpenBB-finance/OpenBBTerminal",
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone, Anywhere.",
     "language": "Python",
-    "star": "182"
+    "star": "183"
   },
   {
     "title": "yt-dlp/yt-dlp",
@@ -130,7 +130,7 @@
     "url": "https://github.com/KoboldAI/KoboldAI-Client",
     "description": "",
     "language": "Python",
-    "star": "31"
+    "star": "30"
   },
   {
     "title": "hackingthemarkets/chatgpt-api-whisper-api-voice-assistant",
@@ -144,7 +144,7 @@
     "url": "https://github.com/RUB-SysSec/DroneSecurity",
     "description": "DroneSecurity (NDSS 2023)",
     "language": "Python",
-    "star": "115"
+    "star": "114"
   },
   {
     "title": "adrianhajdin/project_3D_developer_portfolio",
@@ -158,7 +158,7 @@
     "url": "https://github.com/LAION-AI/Open-Assistant",
     "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
     "language": "Python",
-    "star": "120"
+    "star": "126"
   },
   {
     "title": "shadcn/taxonomy",
