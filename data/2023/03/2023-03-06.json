@@ -11,7 +11,7 @@
     "url": "https://github.com/ddiu8081/chatgpt-demo",
     "description": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
     "language": "TypeScript",
-    "star": "820"
+    "star": "819"
   },
   {
     "title": "karfly/chatgpt_telegram_bot",
@@ -46,21 +46,21 @@
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "997"
+    "star": "1"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "439"
+    "star": "443"
   },
   {
     "title": "Asabeneh/30-Days-Of-Python",
     "url": "https://github.com/Asabeneh/30-Days-Of-Python",
     "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
     "language": "Python",
-    "star": "327"
+    "star": "326"
   },
   {
     "title": "oobabooga/text-generation-webui",
@@ -109,7 +109,7 @@
     "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
     "description": "Investment Research for Everyone, Anywhere.",
     "language": "Python",
-    "star": "183"
+    "star": "179"
   },
   {
     "title": "yt-dlp/yt-dlp",
@@ -130,7 +130,7 @@
     "url": "https://github.com/KoboldAI/KoboldAI-Client",
     "description": "",
     "language": "Python",
-    "star": "30"
+    "star": "31"
   },
   {
     "title": "hackingthemarkets/chatgpt-api-whisper-api-voice-assistant",
@@ -151,7 +151,7 @@
     "url": "https://github.com/adrianhajdin/project_3D_developer_portfolio",
     "description": "",
     "language": "JavaScript",
-    "star": "114"
+    "star": "115"
   },
   {
     "title": "LAION-AI/Open-Assistant",
@@ -172,6 +172,6 @@
     "url": "https://github.com/mukulpatnaik/researchgpt",
     "description": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
     "language": "Python",
-    "star": "193"
+    "star": "194"
   }
 ]
