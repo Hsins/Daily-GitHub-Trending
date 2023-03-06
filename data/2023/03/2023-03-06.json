@@ -1,0 +1,177 @@
+[
+  {
+    "title": "yihong0618/bilingual_book_maker",
+    "url": "https://github.com/yihong0618/bilingual_book_maker",
+    "description": "Make bilingual epub books Using AI translate",
+    "language": "Python",
+    "star": "681"
+  },
+  {
+    "title": "ddiu8081/chatgpt-demo",
+    "url": "https://github.com/ddiu8081/chatgpt-demo",
+    "description": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
+    "language": "TypeScript",
+    "star": "819"
+  },
+  {
+    "title": "karfly/chatgpt_telegram_bot",
+    "url": "https://github.com/karfly/chatgpt_telegram_bot",
+    "description": "",
+    "language": "Python",
+    "star": "101"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "description": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "language": "Python",
+    "star": "306"
+  },
+  {
+    "title": "GaiZhenbiao/ChuanhuChatGPT",
+    "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
+    "description": "GUI for ChatGPT API",
+    "language": "Python",
+    "star": "149"
+  },
+  {
+    "title": "Nutlope/roomGPT",
+    "url": "https://github.com/Nutlope/roomGPT",
+    "description": "Upload a photo of your room to generate your dream room with AI.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "language": "HTML",
+    "star": "989"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
+    "language": "Vue",
+    "star": "442"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
+    "language": "Python",
+    "star": "325"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
+    "language": "Python",
+    "star": "113"
+  },
+  {
+    "title": "mckaywrigley/paul-graham-gpt",
+    "url": "https://github.com/mckaywrigley/paul-graham-gpt",
+    "description": "AI search & chat for all of Paul Graham’s essays.",
+    "language": "TypeScript",
+    "star": "163"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "description": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
+    "language": "Python",
+    "star": "275"
+  },
+  {
+    "title": "ServiceWeaver/weaver",
+    "url": "https://github.com/ServiceWeaver/weaver",
+    "description": "Programming framework for writing and deploying cloud applications.",
+    "language": "Go",
+    "star": "333"
+  },
+  {
+    "title": "JimmyLv/BiliGPT",
+    "url": "https://github.com/JimmyLv/BiliGPT",
+    "description": "BiliGPT 哔哩哔哩 · 视频内容一键总结",
+    "language": "TypeScript",
+    "star": "176"
+  },
+  {
+    "title": "reorx/awesome-chatgpt-api",
+    "url": "https://github.com/reorx/awesome-chatgpt-api",
+    "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow user to configure their own API keys, enabling free and on-demand usage of their own quota.",
+    "language": "none",
+    "star": "478"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "description": "Investment Research for Everyone, Anywhere.",
+    "language": "Python",
+    "star": "184"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "137"
+  },
+  {
+    "title": "Yue-Yang/ChatGPT-Siri",
+    "url": "https://github.com/Yue-Yang/ChatGPT-Siri",
+    "description": "Shortcuts for Siri using ChatGPT API gpt-3.5-turbo model, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API gpt-3.5-turbo 模型驱动的智能 Siri，支持连续对话，配置API key，保存聊天记录。",
+    "language": "none",
+    "star": "200"
+  },
+  {
+    "title": "KoboldAI/KoboldAI-Client",
+    "url": "https://github.com/KoboldAI/KoboldAI-Client",
+    "description": "",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "hackingthemarkets/chatgpt-api-whisper-api-voice-assistant",
+    "url": "https://github.com/hackingthemarkets/chatgpt-api-whisper-api-voice-assistant",
+    "description": "chatgpt api and whisper api tutorial - voice conversation with therapist",
+    "language": "Python",
+    "star": "23"
+  },
+  {
+    "title": "RUB-SysSec/DroneSecurity",
+    "url": "https://github.com/RUB-SysSec/DroneSecurity",
+    "description": "DroneSecurity (NDSS 2023)",
+    "language": "Python",
+    "star": "110"
+  },
+  {
+    "title": "adrianhajdin/project_3D_developer_portfolio",
+    "url": "https://github.com/adrianhajdin/project_3D_developer_portfolio",
+    "description": "",
+    "language": "JavaScript",
+    "star": "116"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "language": "TypeScript",
+    "star": "139"
+  },
+  {
+    "title": "mukulpatnaik/researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "description": "An open-source LLM based research assistant that allows you to have a conversation with a research paper",
+    "language": "Python",
+    "star": "199"
+  }
+]
