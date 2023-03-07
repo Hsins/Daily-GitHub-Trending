@@ -11,49 +11,49 @@
     "url": "https://github.com/yetone/openai-translator",
     "description": "基于 ChatGPT API 的划词翻译 Chrome 插件",
     "language": "TypeScript",
-    "star": "792"
+    "star": "793"
   },
   {
     "title": "yetone/bob-plugin-openai-translator",
     "url": "https://github.com/yetone/bob-plugin-openai-translator",
     "description": "基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！",
     "language": "JavaScript",
-    "star": "319"
+    "star": "321"
   },
   {
     "title": "yihong0618/bilingual_book_maker",
     "url": "https://github.com/yihong0618/bilingual_book_maker",
     "description": "Make bilingual epub books Using AI translate",
     "language": "Python",
-    "star": "463"
+    "star": "460"
   },
   {
     "title": "Nutlope/roomGPT",
     "url": "https://github.com/Nutlope/roomGPT",
     "description": "Upload a photo of your room to generate your dream room with AI.",
     "language": "TypeScript",
-    "star": "436"
+    "star": "442"
   },
   {
     "title": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "description": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.",
     "language": "none",
-    "star": "72"
+    "star": "71"
   },
   {
     "title": "ddiu8081/chatgpt-demo",
     "url": "https://github.com/ddiu8081/chatgpt-demo",
     "description": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
     "language": "TypeScript",
-    "star": "494"
+    "star": "487"
   },
   {
     "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
     "language": "JavaScript",
-    "star": "289"
+    "star": "287"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
@@ -81,7 +81,7 @@
     "url": "https://github.com/0beqz/realism-effects",
     "description": "SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism",
     "language": "Roff",
-    "star": "151"
+    "star": "150"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -95,21 +95,21 @@
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
     "language": "Python",
-    "star": "202"
+    "star": "203"
   },
   {
     "title": "jerryjliu/gpt_index",
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
     "language": "Python",
-    "star": "246"
+    "star": "245"
   },
   {
     "title": "oobabooga/text-generation-webui",
     "url": "https://github.com/oobabooga/text-generation-webui",
     "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
     "language": "Python",
-    "star": "156"
+    "star": "154"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
@@ -123,14 +123,14 @@
     "url": "https://github.com/WPeace-HcH/WPeChatGPT",
     "description": "A plugin for IDA that can help to analyze binary file and it uses OpenAI's ChatGPT training API.",
     "language": "Python",
-    "star": "36"
+    "star": "37"
   },
   {
     "title": "lss233/chatgpt-mirai-qq-bot",
     "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
     "description": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）",
     "language": "Python",
-    "star": "107"
+    "star": "109"
   },
   {
     "title": "Grt1228/chatgpt-java",
@@ -144,7 +144,7 @@
     "url": "https://github.com/moby/moby",
     "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
     "language": "Go",
-    "star": "33"
+    "star": "34"
   },
   {
     "title": "A-poc/BlueTeam-Tools",
@@ -158,20 +158,20 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "115"
+    "star": "117"
   },
   {
     "title": "ServiceWeaver/weaver",
     "url": "https://github.com/ServiceWeaver/weaver",
     "description": "Programming framework for writing and deploying cloud applications.",
     "language": "Go",
-    "star": "410"
+    "star": "409"
   },
   {
     "title": "jexom/sd-webui-depth-lib",
     "url": "https://github.com/jexom/sd-webui-depth-lib",
     "description": "Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui",
     "language": "JavaScript",
-    "star": "60"
+    "star": "62"
   }
 ]
