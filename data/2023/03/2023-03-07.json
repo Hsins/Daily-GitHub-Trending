@@ -4,14 +4,14 @@
     "url": "https://github.com/shawwn/llama-dl",
     "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
     "language": "Shell",
-    "star": "339"
+    "star": "341"
   },
   {
     "title": "yetone/openai-translator",
     "url": "https://github.com/yetone/openai-translator",
     "description": "基于 ChatGPT API 的划词翻译 Chrome 插件",
     "language": "TypeScript",
-    "star": "793"
+    "star": "798"
   },
   {
     "title": "yetone/bob-plugin-openai-translator",
@@ -25,28 +25,28 @@
     "url": "https://github.com/yihong0618/bilingual_book_maker",
     "description": "Make bilingual epub books Using AI translate",
     "language": "Python",
-    "star": "461"
+    "star": "453"
   },
   {
     "title": "Nutlope/roomGPT",
     "url": "https://github.com/Nutlope/roomGPT",
     "description": "Upload a photo of your room to generate your dream room with AI.",
     "language": "TypeScript",
-    "star": "442"
+    "star": "439"
   },
   {
     "title": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "description": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.",
     "language": "none",
-    "star": "71"
+    "star": "70"
   },
   {
     "title": "ddiu8081/chatgpt-demo",
     "url": "https://github.com/ddiu8081/chatgpt-demo",
     "description": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
     "language": "TypeScript",
-    "star": "488"
+    "star": "482"
   },
   {
     "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
@@ -74,14 +74,14 @@
     "url": "https://github.com/zinclabs/zincsearch",
     "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Go",
-    "star": "59"
+    "star": "60"
   },
   {
     "title": "0beqz/realism-effects",
     "url": "https://github.com/0beqz/realism-effects",
     "description": "SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism",
     "language": "Roff",
-    "star": "149"
+    "star": "143"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -95,28 +95,28 @@
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
     "language": "Python",
-    "star": "202"
+    "star": "199"
   },
   {
     "title": "jerryjliu/gpt_index",
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
     "language": "Python",
-    "star": "244"
+    "star": "242"
   },
   {
     "title": "oobabooga/text-generation-webui",
     "url": "https://github.com/oobabooga/text-generation-webui",
     "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
     "language": "Python",
-    "star": "155"
+    "star": "156"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "449"
+    "star": "445"
   },
   {
     "title": "WPeace-HcH/WPeChatGPT",
@@ -130,7 +130,7 @@
     "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
     "description": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）",
     "language": "Python",
-    "star": "107"
+    "star": "108"
   },
   {
     "title": "Grt1228/chatgpt-java",
@@ -151,27 +151,27 @@
     "url": "https://github.com/A-poc/BlueTeam-Tools",
     "description": "Tools and Techniques for Blue Team / Incident Response",
     "language": "none",
-    "star": "72"
+    "star": "77"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "117"
+    "star": "114"
   },
   {
     "title": "ServiceWeaver/weaver",
     "url": "https://github.com/ServiceWeaver/weaver",
     "description": "Programming framework for writing and deploying cloud applications.",
     "language": "Go",
-    "star": "409"
+    "star": "406"
   },
   {
     "title": "jexom/sd-webui-depth-lib",
     "url": "https://github.com/jexom/sd-webui-depth-lib",
     "description": "Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui",
     "language": "JavaScript",
-    "star": "63"
+    "star": "64"
   }
 ]
