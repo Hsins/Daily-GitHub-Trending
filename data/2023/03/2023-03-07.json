@@ -4,7 +4,7 @@
     "url": "https://github.com/shawwn/llama-dl",
     "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
     "language": "Shell",
-    "star": "318"
+    "star": "339"
   },
   {
     "title": "yetone/openai-translator",
@@ -25,7 +25,7 @@
     "url": "https://github.com/yihong0618/bilingual_book_maker",
     "description": "Make bilingual epub books Using AI translate",
     "language": "Python",
-    "star": "460"
+    "star": "461"
   },
   {
     "title": "Nutlope/roomGPT",
@@ -46,77 +46,77 @@
     "url": "https://github.com/ddiu8081/chatgpt-demo",
     "description": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
     "language": "TypeScript",
-    "star": "487"
+    "star": "488"
   },
   {
     "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
     "language": "JavaScript",
-    "star": "287"
+    "star": "286"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
     "url": "https://github.com/poteto/hiring-without-whiteboards",
     "description": "⭐️ Companies that don't have a broken hiring process",
     "language": "JavaScript",
-    "star": "77"
+    "star": "75"
   },
   {
     "title": "reorx/awesome-chatgpt-api",
     "url": "https://github.com/reorx/awesome-chatgpt-api",
     "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
     "language": "none",
-    "star": "452"
+    "star": "453"
   },
   {
     "title": "zinclabs/zincsearch",
     "url": "https://github.com/zinclabs/zincsearch",
     "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Go",
-    "star": "54"
+    "star": "59"
   },
   {
     "title": "0beqz/realism-effects",
     "url": "https://github.com/0beqz/realism-effects",
     "description": "SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism",
     "language": "Roff",
-    "star": "150"
+    "star": "149"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "871"
+    "star": "875"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "使用ChatGPT搭建微信聊天机器人，基于ChatGPT3.5 API和itchat实现。Wechat robot based on ChatGPT, which using OpenAI api and itchat library.",
     "language": "Python",
-    "star": "203"
+    "star": "202"
   },
   {
     "title": "jerryjliu/gpt_index",
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
     "language": "Python",
-    "star": "245"
+    "star": "244"
   },
   {
     "title": "oobabooga/text-generation-webui",
     "url": "https://github.com/oobabooga/text-generation-webui",
     "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
     "language": "Python",
-    "star": "154"
+    "star": "155"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "451"
+    "star": "449"
   },
   {
     "title": "WPeace-HcH/WPeChatGPT",
@@ -130,28 +130,28 @@
     "url": "https://github.com/lss233/chatgpt-mirai-qq-bot",
     "description": "🚀 一键部署！真正的 ChatGPT QQ 聊天机器人！支持ChatGPT API、 ChatGPT Plus、新版 Bing，多账号负载均衡，人设调教，敏感词检测，虚拟女仆、对话上下文，图片渲染，代理加速 (内有视频教程）",
     "language": "Python",
-    "star": "109"
+    "star": "107"
   },
   {
     "title": "Grt1228/chatgpt-java",
     "url": "https://github.com/Grt1228/chatgpt-java",
     "description": "ChatGPT的Java客户端，ChatGPT Java SDK。OpenAI官方Api的Java 版SDK。OpenAI GPT-3.5-Turb Api Client for Java",
     "language": "Java",
-    "star": "51"
+    "star": "52"
   },
   {
     "title": "moby/moby",
     "url": "https://github.com/moby/moby",
     "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
     "language": "Go",
-    "star": "34"
+    "star": "33"
   },
   {
     "title": "A-poc/BlueTeam-Tools",
     "url": "https://github.com/A-poc/BlueTeam-Tools",
     "description": "Tools and Techniques for Blue Team / Incident Response",
     "language": "none",
-    "star": "28"
+    "star": "72"
   },
   {
     "title": "Developer-Y/cs-video-courses",
@@ -172,6 +172,6 @@
     "url": "https://github.com/jexom/sd-webui-depth-lib",
     "description": "Depth map library for use with the Control Net extension for Automatic1111/stable-diffusion-webui",
     "language": "JavaScript",
-    "star": "62"
+    "star": "63"
   }
 ]
