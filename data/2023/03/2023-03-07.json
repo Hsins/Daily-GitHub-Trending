@@ -4,56 +4,56 @@
     "url": "https://github.com/shawwn/llama-dl",
     "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
     "language": "Shell",
-    "star": "341"
+    "star": "342"
   },
   {
     "title": "yetone/openai-translator",
     "url": "https://github.com/yetone/openai-translator",
     "description": "基于 ChatGPT API 的划词翻译 Chrome 插件",
     "language": "TypeScript",
-    "star": "798"
+    "star": "793"
   },
   {
     "title": "yetone/bob-plugin-openai-translator",
     "url": "https://github.com/yetone/bob-plugin-openai-translator",
     "description": "基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！",
     "language": "JavaScript",
-    "star": "321"
+    "star": "320"
   },
   {
     "title": "yihong0618/bilingual_book_maker",
     "url": "https://github.com/yihong0618/bilingual_book_maker",
     "description": "Make bilingual epub books Using AI translate",
     "language": "Python",
-    "star": "453"
+    "star": "450"
   },
   {
     "title": "Nutlope/roomGPT",
     "url": "https://github.com/Nutlope/roomGPT",
     "description": "Upload a photo of your room to generate your dream room with AI.",
     "language": "TypeScript",
-    "star": "439"
+    "star": "442"
   },
   {
     "title": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
     "description": "Detailed and tailored guide for undergraduate students or anybody want to dig deep into the field of AI with solid foundation.",
     "language": "none",
-    "star": "70"
+    "star": "71"
   },
   {
     "title": "ddiu8081/chatgpt-demo",
     "url": "https://github.com/ddiu8081/chatgpt-demo",
     "description": "A demo repo based on OpenAI API (gpt-3.5-turbo)",
     "language": "TypeScript",
-    "star": "482"
+    "star": "479"
   },
   {
     "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
     "language": "JavaScript",
-    "star": "286"
+    "star": "285"
   },
   {
     "title": "poteto/hiring-without-whiteboards",
@@ -74,7 +74,7 @@
     "url": "https://github.com/zinclabs/zincsearch",
     "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Go",
-    "star": "60"
+    "star": "61"
   },
   {
     "title": "0beqz/realism-effects",
@@ -102,21 +102,21 @@
     "url": "https://github.com/jerryjliu/gpt_index",
     "description": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
     "language": "Python",
-    "star": "242"
+    "star": "244"
   },
   {
     "title": "oobabooga/text-generation-webui",
     "url": "https://github.com/oobabooga/text-generation-webui",
     "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
     "language": "Python",
-    "star": "156"
+    "star": "155"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "445"
+    "star": "446"
   },
   {
     "title": "WPeace-HcH/WPeChatGPT",
@@ -144,7 +144,7 @@
     "url": "https://github.com/moby/moby",
     "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
     "language": "Go",
-    "star": "33"
+    "star": "32"
   },
   {
     "title": "A-poc/BlueTeam-Tools",
