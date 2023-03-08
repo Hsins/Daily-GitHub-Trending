@@ -11,14 +11,14 @@
     "url": "https://github.com/keijiro/AIShader",
     "description": "ChatGPT-powered shader generator for Unity",
     "language": "C#",
-    "star": "168"
+    "star": "169"
   },
   {
     "title": "yetone/openai-translator",
     "url": "https://github.com/yetone/openai-translator",
     "description": "基于 ChatGPT API 的划词翻译 Chrome 插件",
     "language": "TypeScript",
-    "star": "954"
+    "star": "951"
   },
   {
     "title": "TBXark/ChatGPT-Telegram-Workers",
@@ -32,7 +32,7 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "195"
+    "star": "193"
   },
   {
     "title": "WordAsImage/Word-As-Image",
@@ -46,7 +46,7 @@
     "url": "https://github.com/shawwn/llama-dl",
     "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
     "language": "Shell",
-    "star": "567"
+    "star": "570"
   },
   {
     "title": "Ice-Hazymoon/openai-scf-proxy",
@@ -74,49 +74,49 @@
     "url": "https://github.com/reorx/awesome-chatgpt-api",
     "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
     "language": "none",
-    "star": "377"
+    "star": "375"
   },
   {
     "title": "prompt-engineering/click-prompt",
     "url": "https://github.com/prompt-engineering/click-prompt",
     "description": "ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click. ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。",
     "language": "TypeScript",
-    "star": "54"
+    "star": "67"
   },
   {
     "title": "excalidraw/excalidraw",
     "url": "https://github.com/excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "language": "TypeScript",
-    "star": "230"
+    "star": "228"
   },
   {
     "title": "ggerganov/whisper.cpp",
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "302"
+    "star": "295"
   },
   {
     "title": "RustPython/RustPython",
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Rust",
-    "star": "256"
+    "star": "244"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "442"
+    "star": "440"
   },
   {
     "title": "bevyengine/bevy",
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "65"
+    "star": "66"
   },
   {
     "title": "paritytech/polkadot",
@@ -137,7 +137,7 @@
     "url": "https://github.com/Shopify/sarama",
     "description": "Sarama is a Go library for Apache Kafka.",
     "language": "Go",
-    "star": "9"
+    "star": "17"
   },
   {
     "title": "dirk1983/chatgpt",
@@ -151,14 +151,14 @@
     "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
     "description": "A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using Automatic1111-sd-webui as a backend.",
     "language": "JavaScript",
-    "star": "171"
+    "star": "172"
   },
   {
     "title": "ant-design/ant-design",
     "url": "https://github.com/ant-design/ant-design",
     "description": "An enterprise-class UI design language and React UI library",
     "language": "TypeScript",
-    "star": "44"
+    "star": "45"
   },
   {
     "title": "jerryjliu/gpt_index",
@@ -172,6 +172,6 @@
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "67"
+    "star": "66"
   }
 ]
