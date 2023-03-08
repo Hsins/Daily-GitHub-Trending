@@ -4,21 +4,21 @@
     "url": "https://github.com/oobabooga/text-generation-webui",
     "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
     "language": "Python",
-    "star": "211"
+    "star": "215"
   },
   {
     "title": "keijiro/AIShader",
     "url": "https://github.com/keijiro/AIShader",
     "description": "ChatGPT-powered shader generator for Unity",
     "language": "C#",
-    "star": "165"
+    "star": "169"
   },
   {
     "title": "yetone/openai-translator",
     "url": "https://github.com/yetone/openai-translator",
     "description": "基于 ChatGPT API 的划词翻译 Chrome 插件",
     "language": "TypeScript",
-    "star": "957"
+    "star": "951"
   },
   {
     "title": "TBXark/ChatGPT-Telegram-Workers",
@@ -39,14 +39,14 @@
     "url": "https://github.com/WordAsImage/Word-As-Image",
     "description": "",
     "language": "none",
-    "star": "85"
+    "star": "86"
   },
   {
     "title": "shawwn/llama-dl",
     "url": "https://github.com/shawwn/llama-dl",
     "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
     "language": "Shell",
-    "star": "564"
+    "star": "568"
   },
   {
     "title": "Ice-Hazymoon/openai-scf-proxy",
@@ -67,14 +67,14 @@
     "url": "https://github.com/mli/paper-reading",
     "description": "深度学习经典、新论文逐段精读",
     "language": "none",
-    "star": "79"
+    "star": "82"
   },
   {
     "title": "reorx/awesome-chatgpt-api",
     "url": "https://github.com/reorx/awesome-chatgpt-api",
     "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
     "language": "none",
-    "star": "387"
+    "star": "378"
   },
   {
     "title": "prompt-engineering/click-prompt",
@@ -88,21 +88,21 @@
     "url": "https://github.com/excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "language": "TypeScript",
-    "star": "231"
+    "star": "230"
   },
   {
     "title": "ggerganov/whisper.cpp",
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "295"
+    "star": "297"
   },
   {
     "title": "RustPython/RustPython",
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Rust",
-    "star": "251"
+    "star": "249"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
@@ -116,7 +116,7 @@
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "61"
+    "star": "66"
   },
   {
     "title": "paritytech/polkadot",
@@ -137,7 +137,7 @@
     "url": "https://github.com/Shopify/sarama",
     "description": "Sarama is a Go library for Apache Kafka.",
     "language": "Go",
-    "star": "18"
+    "star": "19"
   },
   {
     "title": "dirk1983/chatgpt",
@@ -158,7 +158,7 @@
     "url": "https://github.com/ant-design/ant-design",
     "description": "An enterprise-class UI design language and React UI library",
     "language": "TypeScript",
-    "star": "43"
+    "star": "44"
   },
   {
     "title": "jerryjliu/gpt_index",
@@ -172,6 +172,6 @@
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "63"
+    "star": "66"
   }
 ]
