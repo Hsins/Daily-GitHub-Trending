@@ -4,21 +4,21 @@
     "url": "https://github.com/oobabooga/text-generation-webui",
     "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
     "language": "Python",
-    "star": "215"
+    "star": "216"
   },
   {
     "title": "keijiro/AIShader",
     "url": "https://github.com/keijiro/AIShader",
     "description": "ChatGPT-powered shader generator for Unity",
     "language": "C#",
-    "star": "169"
+    "star": "168"
   },
   {
     "title": "yetone/openai-translator",
     "url": "https://github.com/yetone/openai-translator",
     "description": "基于 ChatGPT API 的划词翻译 Chrome 插件",
     "language": "TypeScript",
-    "star": "951"
+    "star": "954"
   },
   {
     "title": "TBXark/ChatGPT-Telegram-Workers",
@@ -32,56 +32,56 @@
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "194"
+    "star": "195"
   },
   {
     "title": "WordAsImage/Word-As-Image",
     "url": "https://github.com/WordAsImage/Word-As-Image",
     "description": "",
     "language": "none",
-    "star": "86"
+    "star": "89"
   },
   {
     "title": "shawwn/llama-dl",
     "url": "https://github.com/shawwn/llama-dl",
     "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
     "language": "Shell",
-    "star": "568"
+    "star": "567"
   },
   {
     "title": "Ice-Hazymoon/openai-scf-proxy",
     "url": "https://github.com/Ice-Hazymoon/openai-scf-proxy",
     "description": "使用腾讯云函数一分钟搭建 OpenAI 免翻墙代理",
     "language": "JavaScript",
-    "star": "86"
+    "star": "85"
   },
   {
     "title": "paritytech/substrate",
     "url": "https://github.com/paritytech/substrate",
     "description": "Substrate: The platform for blockchain innovators",
     "language": "Rust",
-    "star": "9"
+    "star": "10"
   },
   {
     "title": "mli/paper-reading",
     "url": "https://github.com/mli/paper-reading",
     "description": "深度学习经典、新论文逐段精读",
     "language": "none",
-    "star": "82"
+    "star": "83"
   },
   {
     "title": "reorx/awesome-chatgpt-api",
     "url": "https://github.com/reorx/awesome-chatgpt-api",
     "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
     "language": "none",
-    "star": "378"
+    "star": "377"
   },
   {
     "title": "prompt-engineering/click-prompt",
     "url": "https://github.com/prompt-engineering/click-prompt",
     "description": "ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click. ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。",
     "language": "TypeScript",
-    "star": "67"
+    "star": "54"
   },
   {
     "title": "excalidraw/excalidraw",
@@ -95,28 +95,28 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "297"
+    "star": "302"
   },
   {
     "title": "RustPython/RustPython",
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Rust",
-    "star": "249"
+    "star": "256"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "440"
+    "star": "442"
   },
   {
     "title": "bevyengine/bevy",
     "url": "https://github.com/bevyengine/bevy",
     "description": "A refreshingly simple data-driven game engine built in Rust",
     "language": "Rust",
-    "star": "66"
+    "star": "65"
   },
   {
     "title": "paritytech/polkadot",
@@ -137,7 +137,7 @@
     "url": "https://github.com/Shopify/sarama",
     "description": "Sarama is a Go library for Apache Kafka.",
     "language": "Go",
-    "star": "19"
+    "star": "9"
   },
   {
     "title": "dirk1983/chatgpt",
@@ -172,6 +172,6 @@
     "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
     "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
     "language": "Python",
-    "star": "66"
+    "star": "67"
   }
 ]
