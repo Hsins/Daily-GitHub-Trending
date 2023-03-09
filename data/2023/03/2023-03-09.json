@@ -1,0 +1,177 @@
+[
+  {
+    "title": "shawwn/llama-dl",
+    "url": "https://github.com/shawwn/llama-dl",
+    "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
+    "language": "Shell",
+    "star": "431"
+  },
+  {
+    "title": "yetone/openai-translator",
+    "url": "https://github.com/yetone/openai-translator",
+    "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "TBXark/ChatGPT-Telegram-Workers",
+    "url": "https://github.com/TBXark/ChatGPT-Telegram-Workers",
+    "description": "Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.",
+    "language": "JavaScript",
+    "star": "257"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "225"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "description": "A Python Interpreter written in Rust",
+    "language": "Rust",
+    "star": "157"
+  },
+  {
+    "title": "Bearer/bearer",
+    "url": "https://github.com/Bearer/bearer",
+    "description": "Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).",
+    "language": "C",
+    "star": "166"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "description": "Free Data Engineering course!",
+    "language": "Jupyter Notebook",
+    "star": "68"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
+    "language": "Python",
+    "star": "442"
+  },
+  {
+    "title": "zinclabs/zincsearch",
+    "url": "https://github.com/zinclabs/zincsearch",
+    "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
+    "language": "Go",
+    "star": "66"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "description": "Port of OpenAI's Whisper model in C/C++",
+    "language": "C",
+    "star": "197"
+  },
+  {
+    "title": "easychen/openai-gpt-dev-notes-for-cn-developer",
+    "url": "https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer",
+    "description": "如何快速开发一个OpenAI/GPT应用：国内开发者笔记",
+    "language": "none",
+    "star": "53"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "description": "深度学习经典、新论文逐段精读",
+    "language": "none",
+    "star": "231"
+  },
+  {
+    "title": "boson-ai/homepage",
+    "url": "https://github.com/boson-ai/homepage",
+    "description": "",
+    "language": "HTML",
+    "star": "23"
+  },
+  {
+    "title": "NVlabs/prismer",
+    "url": "https://github.com/NVlabs/prismer",
+    "description": "The implementation of \"Prismer: A Vision-Language Model with An Ensemble of Experts\".",
+    "language": "Python",
+    "star": "139"
+  },
+  {
+    "title": "WordAsImage/Word-As-Image",
+    "url": "https://github.com/WordAsImage/Word-As-Image",
+    "description": "",
+    "language": "none",
+    "star": "93"
+  },
+  {
+    "title": "reorx/awesome-chatgpt-api",
+    "url": "https://github.com/reorx/awesome-chatgpt-api",
+    "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
+    "language": "none",
+    "star": "354"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
+    "language": "none",
+    "star": "424"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native applications using React",
+    "language": "JavaScript",
+    "star": "47"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "description": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "language": "Go",
+    "star": "26"
+  },
+  {
+    "title": "Blackymas/NSPanel_HA_Blueprint",
+    "url": "https://github.com/Blackymas/NSPanel_HA_Blueprint",
+    "description": "This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code",
+    "language": "none",
+    "star": "11"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "description": "100 Days of ML Coding",
+    "language": "none",
+    "star": "59"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "description": "List of Computer Science courses with video lectures.",
+    "language": "none",
+    "star": "188"
+  },
+  {
+    "title": "futantan/OpenGpt",
+    "url": "https://github.com/futantan/OpenGpt",
+    "description": "",
+    "language": "TypeScript",
+    "star": "88"
+  },
+  {
+    "title": "fffaraz/awesome-cpp",
+    "url": "https://github.com/fffaraz/awesome-cpp",
+    "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
+    "language": "none",
+    "star": "61"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "description": "🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。",
+    "language": "Go",
+    "star": "106"
+  }
+]
