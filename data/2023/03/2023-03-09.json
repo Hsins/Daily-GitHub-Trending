@@ -18,49 +18,49 @@
     "url": "https://github.com/TBXark/ChatGPT-Telegram-Workers",
     "description": "Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.",
     "language": "JavaScript",
-    "star": "252"
+    "star": "256"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "225"
+    "star": "248"
   },
   {
     "title": "RustPython/RustPython",
     "url": "https://github.com/RustPython/RustPython",
     "description": "A Python Interpreter written in Rust",
     "language": "Rust",
-    "star": "150"
+    "star": "153"
   },
   {
     "title": "Bearer/bearer",
     "url": "https://github.com/Bearer/bearer",
     "description": "Code security scanning tool (SAST) that discover, filter and prioritize security risks and vulnerabilities leading to sensitive data exposures (PII, PHI, PD).",
     "language": "C",
-    "star": "127"
+    "star": "128"
   },
   {
     "title": "DataTalksClub/data-engineering-zoomcamp",
     "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
     "description": "Free Data Engineering course!",
     "language": "Jupyter Notebook",
-    "star": "61"
+    "star": "55"
   },
   {
     "title": "oobabooga/text-generation-webui",
     "url": "https://github.com/oobabooga/text-generation-webui",
     "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, GPT-Neo, and Pygmalion.",
     "language": "Python",
-    "star": "399"
+    "star": "380"
   },
   {
     "title": "zinclabs/zincsearch",
     "url": "https://github.com/zinclabs/zincsearch",
     "description": "ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.",
     "language": "Go",
-    "star": "66"
+    "star": "68"
   },
   {
     "title": "ggerganov/whisper.cpp",
@@ -74,14 +74,14 @@
     "url": "https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer",
     "description": "如何快速开发一个OpenAI/GPT应用：国内开发者笔记",
     "language": "none",
-    "star": "53"
+    "star": "68"
   },
   {
     "title": "mli/paper-reading",
     "url": "https://github.com/mli/paper-reading",
     "description": "深度学习经典、新论文逐段精读",
     "language": "none",
-    "star": "233"
+    "star": "229"
   },
   {
     "title": "boson-ai/homepage",
@@ -95,7 +95,7 @@
     "url": "https://github.com/NVlabs/prismer",
     "description": "The implementation of \"Prismer: A Vision-Language Model with An Ensemble of Experts\".",
     "language": "Python",
-    "star": "138"
+    "star": "139"
   },
   {
     "title": "WordAsImage/Word-As-Image",
@@ -109,14 +109,14 @@
     "url": "https://github.com/reorx/awesome-chatgpt-api",
     "description": "Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.",
     "language": "none",
-    "star": "354"
+    "star": "408"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "420"
+    "star": "421"
   },
   {
     "title": "facebook/react-native",
@@ -137,35 +137,35 @@
     "url": "https://github.com/Blackymas/NSPanel_HA_Blueprint",
     "description": "This allows you to configure your complete NSPanel via Blueprint with UI and without changing anything in the code",
     "language": "none",
-    "star": "11"
+    "star": "13"
   },
   {
     "title": "Avik-Jain/100-Days-Of-ML-Code",
     "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
     "description": "100 Days of ML Coding",
     "language": "none",
-    "star": "57"
+    "star": "58"
   },
   {
     "title": "Developer-Y/cs-video-courses",
     "url": "https://github.com/Developer-Y/cs-video-courses",
     "description": "List of Computer Science courses with video lectures.",
     "language": "none",
-    "star": "188"
+    "star": "185"
   },
   {
     "title": "futantan/OpenGpt",
     "url": "https://github.com/futantan/OpenGpt",
     "description": "",
     "language": "TypeScript",
-    "star": "124"
+    "star": "76"
   },
   {
     "title": "fffaraz/awesome-cpp",
     "url": "https://github.com/fffaraz/awesome-cpp",
     "description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.",
     "language": "none",
-    "star": "61"
+    "star": "66"
   },
   {
     "title": "alist-org/alist",
