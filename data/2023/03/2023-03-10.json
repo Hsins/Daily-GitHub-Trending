@@ -1,0 +1,177 @@
+[
+  {
+    "title": "davinci1010/pinduoduo_backdoor",
+    "url": "https://github.com/davinci1010/pinduoduo_backdoor",
+    "description": "拼多多apk内嵌提权代码，及动态下发dex分析",
+    "language": "none",
+    "star": "830"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "description": "fast-stable-diffusion + DreamBooth",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "255"
+  },
+  {
+    "title": "anc95/writely",
+    "url": "https://github.com/anc95/writely",
+    "description": "❤️‍🔥 A GPT powered chrome extension improving your writing and reading. ｜ 基于 GPT 的浏览器插件，用于协助编辑和阅读",
+    "language": "TypeScript",
+    "star": "48"
+  },
+  {
+    "title": "Postcatlab/postcat",
+    "url": "https://github.com/Postcatlab/postcat",
+    "description": "Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.",
+    "language": "JavaScript",
+    "star": "132"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.",
+    "language": "Python",
+    "star": "441"
+  },
+  {
+    "title": "RadekVyM/MarvelousMAUI",
+    "url": "https://github.com/RadekVyM/MarvelousMAUI",
+    "description": ".NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world.",
+    "language": "C#",
+    "star": "53"
+  },
+  {
+    "title": "shawwn/llama-dl",
+    "url": "https://github.com/shawwn/llama-dl",
+    "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
+    "language": "Shell",
+    "star": "477"
+  },
+  {
+    "title": "yetone/openai-translator",
+    "url": "https://github.com/yetone/openai-translator",
+    "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "nodejs/nodejs.org",
+    "url": "https://github.com/nodejs/nodejs.org",
+    "description": "The Node.js website.",
+    "language": "JavaScript",
+    "star": "28"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading",
+    "description": "深度学习经典、新论文逐段精读",
+    "language": "none",
+    "star": "234"
+  },
+  {
+    "title": "dpayne/CodeGPT.nvim",
+    "url": "https://github.com/dpayne/CodeGPT.nvim",
+    "description": "",
+    "language": "Lua",
+    "star": "67"
+  },
+  {
+    "title": "openxla/xla",
+    "url": "https://github.com/openxla/xla",
+    "description": "A machine learning compiler for GPUs, CPUs, and ML accelerators",
+    "language": "C++",
+    "star": "117"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "language": "JavaScript",
+    "star": "32"
+  },
+  {
+    "title": "qwopqwop200/GPTQ-for-LLaMa",
+    "url": "https://github.com/qwopqwop200/GPTQ-for-LLaMa",
+    "description": "4 bits quantization of LLaMa using GPTQ",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "pydantic/pydantic",
+    "url": "https://github.com/pydantic/pydantic",
+    "description": "Data validation using Python type hints",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "OWASP/API-Security",
+    "url": "https://github.com/OWASP/API-Security",
+    "description": "OWASP API Security Project",
+    "language": "none",
+    "star": "19"
+  },
+  {
+    "title": "yuezk/chatgpt-mirror",
+    "url": "https://github.com/yuezk/chatgpt-mirror",
+    "description": "A mirror of ChatGPT based on the gpt-3.5-turbo model.",
+    "language": "HTML",
+    "star": "14"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "description": "Clean Architecture Solution Template for .NET 7",
+    "language": "C#",
+    "star": "29"
+  },
+  {
+    "title": "keijiro/AIShader",
+    "url": "https://github.com/keijiro/AIShader",
+    "description": "ChatGPT-powered shader generator for Unity",
+    "language": "C#",
+    "star": "75"
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "language": "JavaScript",
+    "star": "15"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "language": "none",
+    "star": "8"
+  },
+  {
+    "title": "chibat/chrome-extension-typescript-starter",
+    "url": "https://github.com/chibat/chrome-extension-typescript-starter",
+    "description": "Chrome Extension TypeScript Starter",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "guillaumekln/faster-whisper",
+    "url": "https://github.com/guillaumekln/faster-whisper",
+    "description": "Faster Whisper transcription with CTranslate2",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "yuvalsuede/ai-component-generator",
+    "url": "https://github.com/yuvalsuede/ai-component-generator",
+    "description": "",
+    "language": "TypeScript",
+    "star": "131"
+  }
+]
