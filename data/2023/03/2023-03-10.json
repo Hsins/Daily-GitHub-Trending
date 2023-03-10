@@ -11,7 +11,7 @@
     "url": "https://github.com/TheLastBen/fast-stable-diffusion",
     "description": "fast-stable-diffusion + DreamBooth",
     "language": "Python",
-    "star": "38"
+    "star": "32"
   },
   {
     "title": "sindresorhus/awesome",
@@ -32,7 +32,7 @@
     "url": "https://github.com/Postcatlab/postcat",
     "description": "Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.",
     "language": "JavaScript",
-    "star": "135"
+    "star": "156"
   },
   {
     "title": "oobabooga/text-generation-webui",
@@ -46,14 +46,14 @@
     "url": "https://github.com/RadekVyM/MarvelousMAUI",
     "description": ".NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world.",
     "language": "C#",
-    "star": "54"
+    "star": "53"
   },
   {
     "title": "shawwn/llama-dl",
     "url": "https://github.com/shawwn/llama-dl",
     "description": "High-speed download of LLaMA, Facebook's 65B parameter GPT model",
     "language": "Shell",
-    "star": "474"
+    "star": "432"
   },
   {
     "title": "yetone/openai-translator",
@@ -67,14 +67,14 @@
     "url": "https://github.com/nodejs/nodejs.org",
     "description": "The Node.js website.",
     "language": "JavaScript",
-    "star": "30"
+    "star": "46"
   },
   {
     "title": "mli/paper-reading",
     "url": "https://github.com/mli/paper-reading",
     "description": "深度学习经典、新论文逐段精读",
     "language": "none",
-    "star": "231"
+    "star": "226"
   },
   {
     "title": "dpayne/CodeGPT.nvim",
@@ -95,7 +95,7 @@
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "32"
+    "star": "34"
   },
   {
     "title": "qwopqwop200/GPTQ-for-LLaMa",
@@ -116,7 +116,7 @@
     "url": "https://github.com/OWASP/API-Security",
     "description": "OWASP API Security Project",
     "language": "none",
-    "star": "20"
+    "star": "19"
   },
   {
     "title": "yuezk/chatgpt-mirror",
@@ -151,14 +151,14 @@
     "url": "https://github.com/eugeneyan/applied-ml",
     "description": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
     "language": "none",
-    "star": "8"
+    "star": "30"
   },
   {
     "title": "chibat/chrome-extension-typescript-starter",
     "url": "https://github.com/chibat/chrome-extension-typescript-starter",
     "description": "Chrome Extension TypeScript Starter",
     "language": "TypeScript",
-    "star": "42"
+    "star": "41"
   },
   {
     "title": "guillaumekln/faster-whisper",
