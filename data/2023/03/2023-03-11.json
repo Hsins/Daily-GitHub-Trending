@@ -11,35 +11,35 @@
     "url": "https://github.com/yetone/openai-translator",
     "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
     "language": "TypeScript",
-    "star": "1"
+    "star": "951"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "368"
+    "star": "372"
   },
   {
     "title": "yuvalsuede/ai-component-generator",
     "url": "https://github.com/yuvalsuede/ai-component-generator",
     "description": "",
     "language": "TypeScript",
-    "star": "185"
+    "star": "219"
   },
   {
     "title": "jasontaylordev/CleanArchitecture",
     "url": "https://github.com/jasontaylordev/CleanArchitecture",
     "description": "Clean Architecture Solution Template for .NET 7",
     "language": "C#",
-    "star": "34"
+    "star": "46"
   },
   {
     "title": "futantan/OpenGpt",
     "url": "https://github.com/futantan/OpenGpt",
     "description": "Create your own ChatGPT App in seconds.",
     "language": "TypeScript",
-    "star": "170"
+    "star": "161"
   },
   {
     "title": "dair-ai/ML-Papers-Explained",
@@ -74,14 +74,14 @@
     "url": "https://github.com/davinci1010/pinduoduo_backdoor",
     "description": "拼多多apk内嵌提权代码，及动态下发dex分析",
     "language": "none",
-    "star": "763"
+    "star": "734"
   },
   {
     "title": "therealgliz/blooket-hacks",
     "url": "https://github.com/therealgliz/blooket-hacks",
     "description": "Multiple game hacks to use so the game become easier to play!",
     "language": "JavaScript",
-    "star": "12"
+    "star": "13"
   },
   {
     "title": "geohot/tinygrad",
@@ -95,7 +95,7 @@
     "url": "https://github.com/drizzle-team/drizzle-orm",
     "description": "TypeScript ORM for SQL",
     "language": "TypeScript",
-    "star": "206"
+    "star": "134"
   },
   {
     "title": "iptv-org/iptv",
@@ -116,14 +116,14 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "557"
+    "star": "437"
   },
   {
     "title": "RadekVyM/MarvelousMAUI",
     "url": "https://github.com/RadekVyM/MarvelousMAUI",
     "description": ".NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world.",
     "language": "C#",
-    "star": "48"
+    "star": "51"
   },
   {
     "title": "sczhou/CodeFormer",
@@ -137,7 +137,7 @@
     "url": "https://github.com/mli/paper-reading",
     "description": "深度学习经典、新论文逐段精读",
     "language": "none",
-    "star": "168"
+    "star": "149"
   },
   {
     "title": "Postcatlab/postcat",
@@ -151,14 +151,14 @@
     "url": "https://github.com/EddieHubCommunity/LinkFree",
     "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
     "language": "JavaScript",
-    "star": "8"
+    "star": "16"
   },
   {
     "title": "dotnet/maui",
     "url": "https://github.com/dotnet/maui",
     "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
     "language": "C#",
-    "star": "13"
+    "star": "34"
   },
   {
     "title": "ansible/ansible",
