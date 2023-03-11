@@ -11,42 +11,42 @@
     "url": "https://github.com/yetone/openai-translator",
     "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
     "language": "TypeScript",
-    "star": "1"
+    "star": "951"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "376"
+    "star": "372"
   },
   {
     "title": "yuvalsuede/ai-component-generator",
     "url": "https://github.com/yuvalsuede/ai-component-generator",
     "description": "",
     "language": "TypeScript",
-    "star": "172"
+    "star": "219"
   },
   {
     "title": "jasontaylordev/CleanArchitecture",
     "url": "https://github.com/jasontaylordev/CleanArchitecture",
     "description": "Clean Architecture Solution Template for .NET 7",
     "language": "C#",
-    "star": "34"
+    "star": "46"
   },
   {
     "title": "futantan/OpenGpt",
     "url": "https://github.com/futantan/OpenGpt",
     "description": "Create your own ChatGPT App in seconds.",
     "language": "TypeScript",
-    "star": "204"
+    "star": "161"
   },
   {
     "title": "dair-ai/ML-Papers-Explained",
     "url": "https://github.com/dair-ai/ML-Papers-Explained",
     "description": "Explanation to key concepts in ML",
     "language": "none",
-    "star": "131"
+    "star": "167"
   },
   {
     "title": "Elfocrash/.NET-Backend-Developer-Roadmap",
@@ -67,7 +67,7 @@
     "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
     "description": "Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content",
     "language": "Python",
-    "star": "34"
+    "star": "21"
   },
   {
     "title": "davinci1010/pinduoduo_backdoor",
@@ -88,21 +88,21 @@
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "82"
+    "star": "79"
   },
   {
     "title": "drizzle-team/drizzle-orm",
     "url": "https://github.com/drizzle-team/drizzle-orm",
     "description": "TypeScript ORM for SQL",
     "language": "TypeScript",
-    "star": "153"
+    "star": "134"
   },
   {
     "title": "iptv-org/iptv",
     "url": "https://github.com/iptv-org/iptv",
     "description": "Collection of publicly available IPTV channels from all over the world",
     "language": "JavaScript",
-    "star": "86"
+    "star": "74"
   },
   {
     "title": "autonomousvision/stylegan-t",
@@ -116,42 +116,42 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "541"
+    "star": "437"
   },
   {
     "title": "RadekVyM/MarvelousMAUI",
     "url": "https://github.com/RadekVyM/MarvelousMAUI",
     "description": ".NET MAUI clone of the Wonderous app - a visual showcase of eight wonders of the world.",
     "language": "C#",
-    "star": "55"
+    "star": "51"
   },
   {
     "title": "sczhou/CodeFormer",
     "url": "https://github.com/sczhou/CodeFormer",
     "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
     "language": "Python",
-    "star": "90"
+    "star": "110"
   },
   {
     "title": "mli/paper-reading",
     "url": "https://github.com/mli/paper-reading",
     "description": "深度学习经典、新论文逐段精读",
     "language": "none",
-    "star": "147"
+    "star": "149"
   },
   {
     "title": "Postcatlab/postcat",
     "url": "https://github.com/Postcatlab/postcat",
     "description": "Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.",
     "language": "JavaScript",
-    "star": "134"
+    "star": "126"
   },
   {
     "title": "EddieHubCommunity/LinkFree",
     "url": "https://github.com/EddieHubCommunity/LinkFree",
     "description": "Connect to your audience with a single link. Showcase the content you create and your projects in one place. Make it easier for people to find, follow and subscribe.",
     "language": "JavaScript",
-    "star": "8"
+    "star": "16"
   },
   {
     "title": "dotnet/maui",
