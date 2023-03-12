@@ -11,7 +11,7 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "352"
+    "star": "391"
   },
   {
     "title": "oobabooga/text-generation-webui",
@@ -32,14 +32,14 @@
     "url": "https://github.com/yetone/openai-translator",
     "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
     "language": "TypeScript",
-    "star": "897"
+    "star": "860"
   },
   {
     "title": "wong2/chatgpt-google-extension",
     "url": "https://github.com/wong2/chatgpt-google-extension",
     "description": "A browser extension that enhance search engines with ChatGPT",
     "language": "TypeScript",
-    "star": "60"
+    "star": "78"
   },
   {
     "title": "caesarHQ/textSQL",
@@ -81,14 +81,14 @@
     "url": "https://github.com/GanymedeNil/document.ai",
     "description": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
     "language": "Python",
-    "star": "394"
+    "star": "426"
   },
   {
     "title": "camenduru/stable-diffusion-webui-colab",
     "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
     "description": "stable diffusion webui colab",
     "language": "Jupyter Notebook",
-    "star": "246"
+    "star": "247"
   },
   {
     "title": "ann-afame/DEVOPS-WORLD",
@@ -109,14 +109,14 @@
     "url": "https://github.com/kamranahmedse/developer-roadmap",
     "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
     "language": "Astro",
-    "star": "125"
+    "star": "122"
   },
   {
     "title": "randaller/llama-chat",
     "url": "https://github.com/randaller/llama-chat",
     "description": "Chat with Meta's LLaMA models at home made easy",
     "language": "Python",
-    "star": "29"
+    "star": "24"
   },
   {
     "title": "neovim/neovim",
@@ -144,7 +144,7 @@
     "url": "https://github.com/guillaumekln/faster-whisper",
     "description": "Faster Whisper transcription with CTranslate2",
     "language": "Python",
-    "star": "22"
+    "star": "21"
   },
   {
     "title": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
@@ -158,20 +158,20 @@
     "url": "https://github.com/geohot/tinygrad",
     "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
     "language": "Python",
-    "star": "86"
+    "star": "80"
   },
   {
     "title": "getaurora/download",
     "url": "https://github.com/getaurora/download",
     "description": "极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由",
     "language": "none",
-    "star": "34"
+    "star": "14"
   },
   {
     "title": "Azure-Samples/azure-search-openai-demo",
     "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
     "description": "Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content",
     "language": "Python",
-    "star": "33"
+    "star": "63"
   }
 ]
