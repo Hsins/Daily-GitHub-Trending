@@ -1,0 +1,177 @@
+[
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "description": "Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+    "language": "Python",
+    "star": "4"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "description": "Port of OpenAI's Whisper model in C/C++",
+    "language": "C",
+    "star": "352"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.",
+    "language": "Python",
+    "star": "177"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "305"
+  },
+  {
+    "title": "yetone/openai-translator",
+    "url": "https://github.com/yetone/openai-translator",
+    "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+    "language": "TypeScript",
+    "star": "897"
+  },
+  {
+    "title": "wong2/chatgpt-google-extension",
+    "url": "https://github.com/wong2/chatgpt-google-extension",
+    "description": "A browser extension that enhance search engines with ChatGPT",
+    "language": "TypeScript",
+    "star": "60"
+  },
+  {
+    "title": "caesarHQ/textSQL",
+    "url": "https://github.com/caesarHQ/textSQL",
+    "description": "",
+    "language": "JavaScript",
+    "star": "41"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "120"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "102"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "description": "Port of Facebook's LLaMA model in C/C++",
+    "language": "C",
+    "star": "1"
+  },
+  {
+    "title": "davinci1012/pinduoduo_backdoor_unpacker",
+    "url": "https://github.com/davinci1012/pinduoduo_backdoor_unpacker",
+    "description": "Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo",
+    "language": "Java",
+    "star": "94"
+  },
+  {
+    "title": "GanymedeNil/document.ai",
+    "url": "https://github.com/GanymedeNil/document.ai",
+    "description": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
+    "language": "Python",
+    "star": "394"
+  },
+  {
+    "title": "camenduru/stable-diffusion-webui-colab",
+    "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+    "description": "stable diffusion webui colab",
+    "language": "Jupyter Notebook",
+    "star": "246"
+  },
+  {
+    "title": "ann-afame/DEVOPS-WORLD",
+    "url": "https://github.com/ann-afame/DEVOPS-WORLD",
+    "description": "",
+    "language": "none",
+    "star": "25"
+  },
+  {
+    "title": "web-infra-dev/rspack",
+    "url": "https://github.com/web-infra-dev/rspack",
+    "description": "A fast Rust-based web bundler 🦀️",
+    "language": "Rust",
+    "star": "255"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "Astro",
+    "star": "125"
+  },
+  {
+    "title": "randaller/llama-chat",
+    "url": "https://github.com/randaller/llama-chat",
+    "description": "Chat with Meta's LLaMA models at home made easy",
+    "language": "Python",
+    "star": "29"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability",
+    "language": "Vim Script",
+    "star": "40"
+  },
+  {
+    "title": "IHP-GmbH/IHP-Open-PDK",
+    "url": "https://github.com/IHP-GmbH/IHP-Open-PDK",
+    "description": "130nm BiCMOS Open Source PDK, dedicated for Analog, Mixed Signal and RF Design",
+    "language": "HTML",
+    "star": "36"
+  },
+  {
+    "title": "butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
+    "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
+    "description": "Stable Diffusion Webui Extension for Civitai, to manage your model much more easily.",
+    "language": "Python",
+    "star": "32"
+  },
+  {
+    "title": "guillaumekln/faster-whisper",
+    "url": "https://github.com/guillaumekln/faster-whisper",
+    "description": "Faster Whisper transcription with CTranslate2",
+    "language": "Python",
+    "star": "22"
+  },
+  {
+    "title": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+    "url": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+    "description": "MultiDiffusion implementation with VAE VRAM optimize",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "language": "Python",
+    "star": "86"
+  },
+  {
+    "title": "getaurora/download",
+    "url": "https://github.com/getaurora/download",
+    "description": "极光官方版本下载页 翻墙 代理 科学上网 外网 加速器 梯子 路由",
+    "language": "none",
+    "star": "34"
+  },
+  {
+    "title": "Azure-Samples/azure-search-openai-demo",
+    "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "description": "Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content",
+    "language": "Python",
+    "star": "33"
+  }
+]
