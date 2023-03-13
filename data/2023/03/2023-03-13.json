@@ -25,7 +25,7 @@
     "url": "https://github.com/GanymedeNil/document.ai",
     "description": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
     "language": "Python",
-    "star": "275"
+    "star": "265"
   },
   {
     "title": "kaixindelele/ChatPaper",
@@ -39,63 +39,63 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "427"
+    "star": "493"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "359"
+    "star": "355"
   },
   {
     "title": "camenduru/stable-diffusion-webui-colab",
     "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
     "description": "stable diffusion webui colab",
     "language": "Jupyter Notebook",
-    "star": "242"
+    "star": "226"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "100"
+    "star": "96"
   },
   {
     "title": "davinci1012/pinduoduo_backdoor_unpacker",
     "url": "https://github.com/davinci1012/pinduoduo_backdoor_unpacker",
     "description": "Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo",
     "language": "Java",
-    "star": "165"
+    "star": "73"
   },
   {
     "title": "oobabooga/text-generation-webui",
     "url": "https://github.com/oobabooga/text-generation-webui",
     "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.",
     "language": "Python",
-    "star": "175"
+    "star": "193"
   },
   {
     "title": "termux/termux-packages",
     "url": "https://github.com/termux/termux-packages",
     "description": "A package build system for Termux.",
     "language": "Shell",
-    "star": "24"
+    "star": "10"
   },
   {
     "title": "tangly1024/NotionNext",
     "url": "https://github.com/tangly1024/NotionNext",
     "description": "一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。",
     "language": "JavaScript",
-    "star": "22"
+    "star": "19"
   },
   {
     "title": "sherlock-project/sherlock",
     "url": "https://github.com/sherlock-project/sherlock",
     "description": "🔎 Hunt down social media accounts by username across social networks",
     "language": "Python",
-    "star": "25"
+    "star": "81"
   },
   {
     "title": "neovim/neovim",
@@ -116,21 +116,21 @@
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "A simple chatbot starter kit for OpenAI's chat model using Next.js, TypeScript, and Tailwind CSS.",
     "language": "TypeScript",
-    "star": "54"
+    "star": "55"
   },
   {
     "title": "The-Art-of-Hacking/h4cker",
     "url": "https://github.com/The-Art-of-Hacking/h4cker",
     "description": "This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
     "language": "Jupyter Notebook",
-    "star": "82"
+    "star": "64"
   },
   {
     "title": "CS-BAOYAN/CSSummerCamp2023",
     "url": "https://github.com/CS-BAOYAN/CSSummerCamp2023",
     "description": "",
     "language": "none",
-    "star": "25"
+    "star": "26"
   },
   {
     "title": "Genymobile/scrcpy",
@@ -144,14 +144,14 @@
     "url": "https://github.com/hiifeng/V2ray-for-Doprax",
     "description": "The tool can install v2ray on the Doprax, including VMess and VLess protocols, it will automatically switch IP, you need to fork this projects, read readme.md and run it. Create By ifeng.",
     "language": "Dockerfile",
-    "star": "79"
+    "star": "84"
   },
   {
     "title": "futantan/OpenGpt",
     "url": "https://github.com/futantan/OpenGpt",
     "description": "Create your own ChatGPT App in seconds.",
     "language": "TypeScript",
-    "star": "214"
+    "star": "269"
   },
   {
     "title": "zauberzeug/nicegui",
@@ -172,6 +172,6 @@
     "url": "https://github.com/yuvalsuede/ai-component-generator",
     "description": "",
     "language": "TypeScript",
-    "star": "59"
+    "star": "58"
   }
 ]
