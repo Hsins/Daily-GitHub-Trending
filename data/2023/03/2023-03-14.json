@@ -1,0 +1,177 @@
+[
+  {
+    "title": "togethercomputer/OpenChatKit",
+    "url": "https://github.com/togethercomputer/OpenChatKit",
+    "description": "",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "description": "Port of Facebook's LLaMA model in C/C++",
+    "language": "C",
+    "star": "1"
+  },
+  {
+    "title": "AstroNvim/AstroNvim",
+    "url": "https://github.com/AstroNvim/AstroNvim",
+    "description": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+    "language": "Lua",
+    "star": "429"
+  },
+  {
+    "title": "exaloop/codon",
+    "url": "https://github.com/exaloop/codon",
+    "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+    "language": "C++",
+    "star": "337"
+  },
+  {
+    "title": "Azure-Samples/azure-search-openai-demo",
+    "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "description": "Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content",
+    "language": "Python",
+    "star": "49"
+  },
+  {
+    "title": "davinci1012/pinduoduo_backdoor_unpacker",
+    "url": "https://github.com/davinci1012/pinduoduo_backdoor_unpacker",
+    "description": "Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo",
+    "language": "Java",
+    "star": "171"
+  },
+  {
+    "title": "Postcatlab/postcat",
+    "url": "https://github.com/Postcatlab/postcat",
+    "description": "Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.",
+    "language": "JavaScript",
+    "star": "165"
+  },
+  {
+    "title": "Bin-Huang/chatbox",
+    "url": "https://github.com/Bin-Huang/chatbox",
+    "description": "a cross-platform desktop client for OpenAI API, also a prompt debugging and management tool.",
+    "language": "TypeScript",
+    "star": "65"
+  },
+  {
+    "title": "midudev/openui.com",
+    "url": "https://github.com/midudev/openui.com",
+    "description": "Generador de componentes de UI con IA",
+    "language": "JavaScript",
+    "star": "41"
+  },
+  {
+    "title": "base-org/node",
+    "url": "https://github.com/base-org/node",
+    "description": "Everything required to run your own Base node",
+    "language": "Shell",
+    "star": "5"
+  },
+  {
+    "title": "kaixindelele/ChatPaper",
+    "url": "https://github.com/kaixindelele/ChatPaper",
+    "description": "Use ChatGPT to summarize the arXiv papers.",
+    "language": "Python",
+    "star": "454"
+  },
+  {
+    "title": "whoiskatrin/sql-translator",
+    "url": "https://github.com/whoiskatrin/sql-translator",
+    "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
+    "language": "TypeScript",
+    "star": "194"
+  },
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "description": "Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "chathub-dev/chathub",
+    "url": "https://github.com/chathub-dev/chathub",
+    "description": "All-in-one chatbot client",
+    "language": "TypeScript",
+    "star": "139"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "star": "300"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "description": "An enterprise-level cloud-native monitoring system, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "tangly1024/NotionNext",
+    "url": "https://github.com/tangly1024/NotionNext",
+    "description": "一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。",
+    "language": "JavaScript",
+    "star": "26"
+  },
+  {
+    "title": "svc-develop-team/so-vits-svc",
+    "url": "https://github.com/svc-develop-team/so-vits-svc",
+    "description": "SoftVC VITS Singing Voice Conversion",
+    "language": "Python",
+    "star": "182"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "175"
+  },
+  {
+    "title": "GanymedeNil/document.ai",
+    "url": "https://github.com/GanymedeNil/document.ai",
+    "description": "基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)",
+    "language": "Python",
+    "star": "278"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like GPT-J 6B, OPT, GALACTICA, LLaMA, and Pygmalion.",
+    "language": "Python",
+    "star": "351"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "description": "Port of OpenAI's Whisper model in C/C++",
+    "language": "C",
+    "star": "508"
+  },
+  {
+    "title": "pgrok/pgrok",
+    "url": "https://github.com/pgrok/pgrok",
+    "description": "Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding",
+    "language": "Go",
+    "star": "629"
+  },
+  {
+    "title": "ggerganov/ggml",
+    "url": "https://github.com/ggerganov/ggml",
+    "description": "Tensor library for machine learning",
+    "language": "C",
+    "star": "78"
+  }
+]
