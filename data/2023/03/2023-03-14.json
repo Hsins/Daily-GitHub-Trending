@@ -32,7 +32,7 @@
     "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
     "description": "Demonstration of how to leverage Azure OpenAI and Cognitive Search to enable Information Search and Discovery over organizational content",
     "language": "Python",
-    "star": "49"
+    "star": "54"
   },
   {
     "title": "davinci1012/pinduoduo_backdoor_unpacker",
@@ -172,6 +172,6 @@
     "url": "https://github.com/ggerganov/ggml",
     "description": "Tensor library for machine learning",
     "language": "C",
-    "star": "78"
+    "star": "81"
   }
 ]
