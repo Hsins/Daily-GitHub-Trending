@@ -32,7 +32,7 @@
     "url": "https://github.com/whoiskatrin/sql-translator",
     "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
     "language": "TypeScript",
-    "star": "294"
+    "star": "293"
   },
   {
     "title": "cogentapps/chat-with-gpt",
@@ -46,28 +46,28 @@
     "url": "https://github.com/exaloop/codon",
     "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
     "language": "C++",
-    "star": "437"
+    "star": "439"
   },
   {
     "title": "comfyanonymous/ComfyUI",
     "url": "https://github.com/comfyanonymous/ComfyUI",
     "description": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
     "language": "Python",
-    "star": "246"
+    "star": "189"
   },
   {
     "title": "base-org/node",
     "url": "https://github.com/base-org/node",
     "description": "Everything required to run your own Base node",
     "language": "Shell",
-    "star": "4"
+    "star": "3"
   },
   {
     "title": "pynecone-io/pynecone",
     "url": "https://github.com/pynecone-io/pynecone",
     "description": "🕸 Web apps in pure Python 🐍",
     "language": "Python",
-    "star": "367"
+    "star": "372"
   },
   {
     "title": "futantan/OpenGpt",
@@ -123,7 +123,7 @@
     "url": "https://github.com/Genymobile/scrcpy",
     "description": "Display and control your Android device",
     "language": "C",
-    "star": "418"
+    "star": "417"
   },
   {
     "title": "upscayl/upscayl",
@@ -144,7 +144,7 @@
     "url": "https://github.com/orhun/halp",
     "description": "A CLI tool to get help with CLI tools 🐙",
     "language": "Rust",
-    "star": "133"
+    "star": "134"
   },
   {
     "title": "acheong08/EdgeGPT",
