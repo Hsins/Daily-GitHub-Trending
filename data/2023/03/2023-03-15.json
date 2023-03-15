@@ -1,0 +1,170 @@
+[
+  {
+    "title": "tatsu-lab/stanford_alpaca",
+    "url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "description": "Port of Facebook's LLaMA model in C/C++",
+    "language": "C",
+    "star": "1"
+  },
+  {
+    "title": "togethercomputer/OpenChatKit",
+    "url": "https://github.com/togethercomputer/OpenChatKit",
+    "description": "",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "kaixindelele/ChatPaper",
+    "url": "https://github.com/kaixindelele/ChatPaper",
+    "description": "Use ChatGPT to summarize the arXiv papers.",
+    "language": "Python",
+    "star": "636"
+  },
+  {
+    "title": "whoiskatrin/sql-translator",
+    "url": "https://github.com/whoiskatrin/sql-translator",
+    "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
+    "language": "TypeScript",
+    "star": "294"
+  },
+  {
+    "title": "cogentapps/chat-with-gpt",
+    "url": "https://github.com/cogentapps/chat-with-gpt",
+    "description": "An open-source ChatGPT app with a voice",
+    "language": "TypeScript",
+    "star": "291"
+  },
+  {
+    "title": "exaloop/codon",
+    "url": "https://github.com/exaloop/codon",
+    "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+    "language": "C++",
+    "star": "405"
+  },
+  {
+    "title": "comfyanonymous/ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "description": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
+    "language": "Python",
+    "star": "313"
+  },
+  {
+    "title": "base-org/node",
+    "url": "https://github.com/base-org/node",
+    "description": "Everything required to run your own Base node",
+    "language": "Shell",
+    "star": "3"
+  },
+  {
+    "title": "pynecone-io/pynecone",
+    "url": "https://github.com/pynecone-io/pynecone",
+    "description": "🕸 Web apps in pure Python 🐍",
+    "language": "Python",
+    "star": "362"
+  },
+  {
+    "title": "futantan/OpenGpt",
+    "url": "https://github.com/futantan/OpenGpt",
+    "description": "Create your own ChatGPT App in seconds.",
+    "language": "TypeScript",
+    "star": "182"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Jupyter Notebook",
+    "star": "491"
+  },
+  {
+    "title": "ayaka14732/ChatGPTAPIFree",
+    "url": "https://github.com/ayaka14732/ChatGPTAPIFree",
+    "description": "A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!",
+    "language": "JavaScript",
+    "star": "151"
+  },
+  {
+    "title": "MasterBin-IIAU/UNINEXT",
+    "url": "https://github.com/MasterBin-IIAU/UNINEXT",
+    "description": "[CVPR'23] Universal Instance Perception as Object Discovery and Retrieval",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "cocktailpeanut/dalai",
+    "url": "https://github.com/cocktailpeanut/dalai",
+    "description": "The simplest way to run LLaMA on your local machine",
+    "language": "JavaScript",
+    "star": "273"
+  },
+  {
+    "title": "thu-ml/unidiffuser",
+    "url": "https://github.com/thu-ml/unidiffuser",
+    "description": "Code and models for the paper \"One Transformer Fits All Distributions in Multi-Modal Diffusion\"",
+    "language": "Python",
+    "star": "122"
+  },
+  {
+    "title": "xx025/carrot",
+    "url": "https://github.com/xx025/carrot",
+    "description": "这儿收集了一些免费好用的ChatGPT镜像站 当前：55个站点",
+    "language": "none",
+    "star": "200"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "star": "416"
+  },
+  {
+    "title": "upscayl/upscayl",
+    "url": "https://github.com/upscayl/upscayl",
+    "description": "🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
+    "language": "TypeScript",
+    "star": "69"
+  },
+  {
+    "title": "poorjobless/pinduoduo_backdoor_code",
+    "url": "https://github.com/poorjobless/pinduoduo_backdoor_code",
+    "description": "拼多多事件的脱壳后的部分代码",
+    "language": "C",
+    "star": "29"
+  },
+  {
+    "title": "orhun/halp",
+    "url": "https://github.com/orhun/halp",
+    "description": "A CLI tool to get help with CLI tools 🐙",
+    "language": "Rust",
+    "star": "133"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "description": "Reverse engineered API of Microsoft's Bing Chat",
+    "language": "Python",
+    "star": "180"
+  },
+  {
+    "title": "Const-me/Whisper",
+    "url": "https://github.com/Const-me/Whisper",
+    "description": "High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model",
+    "language": "C++",
+    "star": "188"
+  },
+  {
+    "title": "facebookresearch/llama",
+    "url": "https://github.com/facebookresearch/llama",
+    "description": "Inference code for LLaMA models",
+    "language": "Python",
+    "star": "517"
+  }
+]
