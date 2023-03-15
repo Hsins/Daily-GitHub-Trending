@@ -25,7 +25,7 @@
     "url": "https://github.com/kaixindelele/ChatPaper",
     "description": "Use ChatGPT to summarize the arXiv papers.",
     "language": "Python",
-    "star": "636"
+    "star": "633"
   },
   {
     "title": "whoiskatrin/sql-translator",
@@ -46,35 +46,35 @@
     "url": "https://github.com/exaloop/codon",
     "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
     "language": "C++",
-    "star": "405"
+    "star": "437"
   },
   {
     "title": "comfyanonymous/ComfyUI",
     "url": "https://github.com/comfyanonymous/ComfyUI",
     "description": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
     "language": "Python",
-    "star": "313"
+    "star": "246"
   },
   {
     "title": "base-org/node",
     "url": "https://github.com/base-org/node",
     "description": "Everything required to run your own Base node",
     "language": "Shell",
-    "star": "3"
+    "star": "4"
   },
   {
     "title": "pynecone-io/pynecone",
     "url": "https://github.com/pynecone-io/pynecone",
     "description": "🕸 Web apps in pure Python 🐍",
     "language": "Python",
-    "star": "362"
+    "star": "367"
   },
   {
     "title": "futantan/OpenGpt",
     "url": "https://github.com/futantan/OpenGpt",
     "description": "Create your own ChatGPT App in seconds.",
     "language": "TypeScript",
-    "star": "182"
+    "star": "162"
   },
   {
     "title": "openai/openai-cookbook",
@@ -123,7 +123,7 @@
     "url": "https://github.com/Genymobile/scrcpy",
     "description": "Display and control your Android device",
     "language": "C",
-    "star": "416"
+    "star": "418"
   },
   {
     "title": "upscayl/upscayl",
