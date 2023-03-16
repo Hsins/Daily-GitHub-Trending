@@ -11,28 +11,28 @@
     "url": "https://github.com/comfyanonymous/ComfyUI",
     "description": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
     "language": "Python",
-    "star": "252"
+    "star": "346"
   },
   {
     "title": "exaloop/codon",
     "url": "https://github.com/exaloop/codon",
     "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
     "language": "C++",
-    "star": "705"
+    "star": "711"
   },
   {
     "title": "chathub-dev/chathub",
     "url": "https://github.com/chathub-dev/chathub",
     "description": "All-in-one chatbot client",
     "language": "TypeScript",
-    "star": "169"
+    "star": "319"
   },
   {
     "title": "acheong08/EdgeGPT",
     "url": "https://github.com/acheong08/EdgeGPT",
     "description": "Reverse engineered API of Microsoft's Bing Chat",
     "language": "Python",
-    "star": "254"
+    "star": "206"
   },
   {
     "title": "mmabrouk/chatgpt-wrapper",
@@ -116,7 +116,7 @@
     "url": "https://github.com/whoiskatrin/sql-translator",
     "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
     "language": "TypeScript",
-    "star": "420"
+    "star": "423"
   },
   {
     "title": "OpenMindClub/awesome-chatgpt",
@@ -137,14 +137,14 @@
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Jupyter Notebook",
-    "star": "423"
+    "star": "488"
   },
   {
     "title": "GitHubDaily/GitHubDaily",
     "url": "https://github.com/GitHubDaily/GitHubDaily",
     "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
     "language": "none",
-    "star": "102"
+    "star": "24"
   },
   {
     "title": "202252197/ChatGPT_JCM",
@@ -165,7 +165,7 @@
     "url": "https://github.com/xx025/carrot",
     "description": "这儿收集了一些免费好用的ChatGPT镜像站 当前：60个站点",
     "language": "none",
-    "star": "361"
+    "star": "363"
   },
   {
     "title": "Const-me/Whisper",
