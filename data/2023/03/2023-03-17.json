@@ -4,63 +4,63 @@
     "url": "https://github.com/dreamworksanimation/openmoonray",
     "description": "",
     "language": "CMake",
-    "star": "500"
+    "star": "452"
   },
   {
     "title": "comfyanonymous/ComfyUI",
     "url": "https://github.com/comfyanonymous/ComfyUI",
     "description": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
     "language": "Python",
-    "star": "472"
+    "star": "475"
   },
   {
     "title": "logspace-ai/langflow",
     "url": "https://github.com/logspace-ai/langflow",
     "description": "⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",
     "language": "TypeScript",
-    "star": "113"
+    "star": "192"
   },
   {
     "title": "setzer22/llama-rs",
     "url": "https://github.com/setzer22/llama-rs",
     "description": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
     "language": "Rust",
-    "star": "353"
+    "star": "320"
   },
   {
     "title": "ayaka14732/ChatGPTAPIFree",
     "url": "https://github.com/ayaka14732/ChatGPTAPIFree",
     "description": "A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!",
     "language": "JavaScript",
-    "star": "107"
+    "star": "161"
   },
   {
     "title": "whoiskatrin/sql-translator",
     "url": "https://github.com/whoiskatrin/sql-translator",
     "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
     "language": "TypeScript",
-    "star": "321"
+    "star": "243"
   },
   {
     "title": "acheong08/EdgeGPT",
     "url": "https://github.com/acheong08/EdgeGPT",
     "description": "Reverse engineered API of Microsoft's Bing Chat",
     "language": "Python",
-    "star": "243"
+    "star": "208"
   },
   {
     "title": "apache/incubator-opendal",
     "url": "https://github.com/apache/incubator-opendal",
     "description": "Apache OpenDAL: Access data freely, painlessly, and efficiently.",
     "language": "Rust",
-    "star": "51"
+    "star": "74"
   },
   {
     "title": "tloen/alpaca-lora",
     "url": "https://github.com/tloen/alpaca-lora",
     "description": "Finetuning InstructLLaMA on consumer hardware",
     "language": "Jupyter Notebook",
-    "star": "348"
+    "star": "1"
   },
   {
     "title": "THUDM/ChatGLM-6B",
@@ -74,104 +74,104 @@
     "url": "https://github.com/xx025/carrot",
     "description": "这儿收集了一些免费好用的ChatGPT镜像站 当前：60个站点",
     "language": "none",
-    "star": "883"
+    "star": "726"
   },
   {
     "title": "brunosimon/folio-2019",
     "url": "https://github.com/brunosimon/folio-2019",
     "description": "",
     "language": "JavaScript",
-    "star": "130"
+    "star": "135"
   },
   {
     "title": "microsoft/unilm",
     "url": "https://github.com/microsoft/unilm",
     "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
     "language": "Python",
-    "star": "210"
+    "star": "145"
   },
   {
     "title": "massgravel/Microsoft-Activation-Scripts",
     "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "description": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
     "language": "Batchfile",
-    "star": "339"
+    "star": "348"
   },
   {
     "title": "lapce/lapce",
     "url": "https://github.com/lapce/lapce",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "53"
+    "star": "82"
   },
   {
     "title": "openai/openai-cookbook",
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Jupyter Notebook",
-    "star": "544"
+    "star": "501"
   },
   {
     "title": "karpathy/nanoGPT",
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "language": "Python",
-    "star": "105"
+    "star": "257"
   },
   {
     "title": "openai/evals",
     "url": "https://github.com/openai/evals",
     "description": "Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.",
     "language": "Python",
-    "star": "977"
+    "star": "517"
   },
   {
     "title": "WassimTenachi/PhySO",
     "url": "https://github.com/WassimTenachi/PhySO",
     "description": "Physical Symbolic Optimization",
     "language": "Python",
-    "star": "198"
+    "star": "119"
   },
   {
     "title": "chathub-dev/chathub",
     "url": "https://github.com/chathub-dev/chathub",
     "description": "All-in-one chatbot client",
     "language": "TypeScript",
-    "star": "176"
+    "star": "300"
   },
   {
     "title": "pytorch/pytorch",
     "url": "https://github.com/pytorch/pytorch",
     "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
     "language": "C++",
-    "star": "78"
+    "star": "99"
   },
   {
     "title": "Const-me/Whisper",
     "url": "https://github.com/Const-me/Whisper",
     "description": "High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model",
     "language": "C++",
-    "star": "117"
+    "star": "100"
   },
   {
     "title": "nuxt/nuxt",
     "url": "https://github.com/nuxt/nuxt",
     "description": "Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.",
     "language": "TypeScript",
-    "star": "24"
+    "star": "37"
   },
   {
     "title": "huggingface/transformers",
     "url": "https://github.com/huggingface/transformers",
     "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
     "language": "Python",
-    "star": "210"
+    "star": "257"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "376"
+    "star": "360"
   }
 ]
