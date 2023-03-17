@@ -11,21 +11,21 @@
     "url": "https://github.com/comfyanonymous/ComfyUI",
     "description": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
     "language": "Python",
-    "star": "364"
+    "star": "476"
   },
   {
     "title": "logspace-ai/langflow",
     "url": "https://github.com/logspace-ai/langflow",
     "description": "⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",
     "language": "TypeScript",
-    "star": "152"
+    "star": "113"
   },
   {
     "title": "setzer22/llama-rs",
     "url": "https://github.com/setzer22/llama-rs",
     "description": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
     "language": "Rust",
-    "star": "367"
+    "star": "353"
   },
   {
     "title": "ayaka14732/ChatGPTAPIFree",
@@ -39,28 +39,28 @@
     "url": "https://github.com/whoiskatrin/sql-translator",
     "description": "SQL Translator is a tool for converting natural language queries into SQL code using artificial intelligence. This project is 100% free and open source.",
     "language": "TypeScript",
-    "star": "326"
+    "star": "321"
   },
   {
     "title": "acheong08/EdgeGPT",
     "url": "https://github.com/acheong08/EdgeGPT",
     "description": "Reverse engineered API of Microsoft's Bing Chat",
     "language": "Python",
-    "star": "267"
+    "star": "243"
   },
   {
     "title": "apache/incubator-opendal",
     "url": "https://github.com/apache/incubator-opendal",
     "description": "Apache OpenDAL: Access data freely, painlessly, and efficiently.",
     "language": "Rust",
-    "star": "52"
+    "star": "51"
   },
   {
     "title": "tloen/alpaca-lora",
     "url": "https://github.com/tloen/alpaca-lora",
     "description": "Finetuning InstructLLaMA on consumer hardware",
     "language": "Jupyter Notebook",
-    "star": "313"
+    "star": "348"
   },
   {
     "title": "THUDM/ChatGLM-6B",
@@ -74,7 +74,7 @@
     "url": "https://github.com/xx025/carrot",
     "description": "这儿收集了一些免费好用的ChatGPT镜像站 当前：60个站点",
     "language": "none",
-    "star": "881"
+    "star": "883"
   },
   {
     "title": "brunosimon/folio-2019",
@@ -95,7 +95,7 @@
     "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "description": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
     "language": "Batchfile",
-    "star": "450"
+    "star": "339"
   },
   {
     "title": "lapce/lapce",
@@ -109,14 +109,14 @@
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Jupyter Notebook",
-    "star": "468"
+    "star": "544"
   },
   {
     "title": "karpathy/nanoGPT",
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "language": "Python",
-    "star": "269"
+    "star": "105"
   },
   {
     "title": "openai/evals",
@@ -130,14 +130,14 @@
     "url": "https://github.com/WassimTenachi/PhySO",
     "description": "Physical Symbolic Optimization",
     "language": "Python",
-    "star": "182"
+    "star": "198"
   },
   {
     "title": "chathub-dev/chathub",
     "url": "https://github.com/chathub-dev/chathub",
     "description": "All-in-one chatbot client",
     "language": "TypeScript",
-    "star": "175"
+    "star": "176"
   },
   {
     "title": "pytorch/pytorch",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Const-me/Whisper",
     "description": "High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model",
     "language": "C++",
-    "star": "130"
+    "star": "117"
   },
   {
     "title": "nuxt/nuxt",
