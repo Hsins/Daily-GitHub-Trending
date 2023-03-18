@@ -11,28 +11,28 @@
     "url": "https://github.com/microsoft/semantic-kernel",
     "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
     "language": "C#",
-    "star": "305"
+    "star": "300"
   },
   {
     "title": "acheong08/EdgeGPT",
     "url": "https://github.com/acheong08/EdgeGPT",
     "description": "Reverse engineered API of Microsoft's Bing Chat",
     "language": "Python",
-    "star": "203"
+    "star": "202"
   },
   {
     "title": "comfyanonymous/ComfyUI",
     "url": "https://github.com/comfyanonymous/ComfyUI",
     "description": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
     "language": "Python",
-    "star": "412"
+    "star": "367"
   },
   {
     "title": "Akegarasu/ChatGLM-webui",
     "url": "https://github.com/Akegarasu/ChatGLM-webui",
     "description": "A WebUI for ChatGLM-6B",
     "language": "Python",
-    "star": "45"
+    "star": "49"
   },
   {
     "title": "storybookjs/storybook",
@@ -53,14 +53,14 @@
     "url": "https://github.com/mlc-ai/web-stable-diffusion",
     "description": "Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.",
     "language": "Jupyter Notebook",
-    "star": "341"
+    "star": "254"
   },
   {
     "title": "brunosimon/folio-2019",
     "url": "https://github.com/brunosimon/folio-2019",
     "description": "",
     "language": "JavaScript",
-    "star": "138"
+    "star": "137"
   },
   {
     "title": "jtmuller5/The-HustleGPT-Challenge",
@@ -74,14 +74,14 @@
     "url": "https://github.com/xx025/carrot",
     "description": "这儿收集了一些免费好用的ChatGPT镜像站和其他AI站点，当前：76个站点",
     "language": "none",
-    "star": "719"
+    "star": "723"
   },
   {
     "title": "massgravel/Microsoft-Activation-Scripts",
     "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "description": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
     "language": "Batchfile",
-    "star": "290"
+    "star": "291"
   },
   {
     "title": "THUDM/ChatGLM-6B",
@@ -95,7 +95,7 @@
     "url": "https://github.com/GitHubDaily/GitHubDaily",
     "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
     "language": "none",
-    "star": "71"
+    "star": "78"
   },
   {
     "title": "mckaywrigley/chatbot-ui",
@@ -109,28 +109,28 @@
     "url": "https://github.com/tatsu-lab/stanford_alpaca",
     "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
     "language": "Python",
-    "star": "780"
+    "star": "773"
   },
   {
     "title": "reactjs/reactjs.org",
     "url": "https://github.com/reactjs/reactjs.org",
     "description": "The React documentation website",
     "language": "JavaScript",
-    "star": "17"
+    "star": "36"
   },
   {
     "title": "dreamworksanimation/openmoonray",
     "url": "https://github.com/dreamworksanimation/openmoonray",
     "description": "",
     "language": "CMake",
-    "star": "447"
+    "star": "449"
   },
   {
     "title": "setzer22/llama-rs",
     "url": "https://github.com/setzer22/llama-rs",
     "description": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
     "language": "Rust",
-    "star": "326"
+    "star": "309"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
@@ -144,14 +144,14 @@
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Jupyter Notebook",
-    "star": "480"
+    "star": "484"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "534"
+    "star": "527"
   },
   {
     "title": "THUDM/GLM",
@@ -165,13 +165,13 @@
     "url": "https://github.com/karpathy/nanoGPT",
     "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
     "language": "Python",
-    "star": "269"
+    "star": "271"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
     "language": "Python",
-    "star": "88"
+    "star": "93"
   }
 ]
