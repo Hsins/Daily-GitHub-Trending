@@ -4,14 +4,14 @@
     "url": "https://github.com/microsoft/semantic-kernel",
     "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
     "language": "C#",
-    "star": "438"
+    "star": "486"
   },
   {
     "title": "tloen/alpaca-lora",
     "url": "https://github.com/tloen/alpaca-lora",
     "description": "Instruct-tune LLaMA on consumer hardware",
     "language": "Jupyter Notebook",
-    "star": "659"
+    "star": "617"
   },
   {
     "title": "cocktailpeanut/dalai",
@@ -25,28 +25,28 @@
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "A ChatGPT clone for running locally in your browser.",
     "language": "TypeScript",
-    "star": "168"
+    "star": "182"
   },
   {
     "title": "gencay/vscode-chatgpt",
     "url": "https://github.com/gencay/vscode-chatgpt",
     "description": "Your best AI pair programmer - open source only",
     "language": "TypeScript",
-    "star": "159"
+    "star": "162"
   },
   {
     "title": "setzer22/llama-rs",
     "url": "https://github.com/setzer22/llama-rs",
     "description": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
     "language": "Rust",
-    "star": "231"
+    "star": "241"
   },
   {
     "title": "massgravel/Microsoft-Activation-Scripts",
     "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
     "description": "A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
     "language": "Batchfile",
-    "star": "211"
+    "star": "261"
   },
   {
     "title": "GaiZhenbiao/ChuanhuChatGPT",
@@ -60,21 +60,21 @@
     "url": "https://github.com/acheong08/EdgeGPT",
     "description": "Reverse engineered API of Microsoft's Bing Chat",
     "language": "Python",
-    "star": "220"
+    "star": "142"
   },
   {
     "title": "1Panel-dev/1Panel",
     "url": "https://github.com/1Panel-dev/1Panel",
     "description": "现代化、开源的 Linux 服务器运维管理面板。",
     "language": "Go",
-    "star": "94"
+    "star": "87"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "438"
+    "star": "434"
   },
   {
     "title": "huggingface/transformers",
@@ -88,28 +88,28 @@
     "url": "https://github.com/xenova/transformers.js",
     "description": "Run 🤗 Transformers in your browser!",
     "language": "JavaScript",
-    "star": "275"
+    "star": "149"
   },
   {
     "title": "jtmuller5/The-HustleGPT-Challenge",
     "url": "https://github.com/jtmuller5/The-HustleGPT-Challenge",
     "description": "Building Startups with an AI Co-Founder",
     "language": "none",
-    "star": "295"
+    "star": "302"
   },
   {
     "title": "logspace-ai/langflow",
     "url": "https://github.com/logspace-ai/langflow",
     "description": "⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",
     "language": "TypeScript",
-    "star": "150"
+    "star": "106"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "277"
+    "star": "272"
   },
   {
     "title": "josStorer/chatGPTBox",
@@ -123,35 +123,35 @@
     "url": "https://github.com/comfyanonymous/ComfyUI",
     "description": "A powerful and modular stable diffusion GUI with a graph/nodes interface.",
     "language": "Python",
-    "star": "220"
+    "star": "333"
   },
   {
     "title": "zhayujie/chatgpt-on-wechat",
     "url": "https://github.com/zhayujie/chatgpt-on-wechat",
     "description": "Wechat robot based on ChatGPT, which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现",
     "language": "Python",
-    "star": "122"
+    "star": "119"
   },
   {
     "title": "mlc-ai/web-stable-diffusion",
     "url": "https://github.com/mlc-ai/web-stable-diffusion",
     "description": "Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.",
     "language": "Jupyter Notebook",
-    "star": "276"
+    "star": "267"
   },
   {
     "title": "hua1995116/awesome-ai-painting",
     "url": "https://github.com/hua1995116/awesome-ai-painting",
     "description": "AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform",
     "language": "none",
-    "star": "94"
+    "star": "95"
   },
   {
     "title": "sudheerj/javascript-interview-questions",
     "url": "https://github.com/sudheerj/javascript-interview-questions",
     "description": "List of 1000 JavaScript Interview Questions",
     "language": "JavaScript",
-    "star": "56"
+    "star": "30"
   },
   {
     "title": "home-assistant/core",
@@ -165,13 +165,13 @@
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "523"
+    "star": "521"
   },
   {
     "title": "869413421/chatgpt-web",
     "url": "https://github.com/869413421/chatgpt-web",
     "description": "基于ChatGPT3.5 API实现的私有化web程序",
     "language": "Go",
-    "star": "80"
+    "star": "103"
   }
 ]
