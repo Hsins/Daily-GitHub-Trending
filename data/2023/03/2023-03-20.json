@@ -4,14 +4,14 @@
     "url": "https://github.com/microsoft/semantic-kernel",
     "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
     "language": "C#",
-    "star": "460"
+    "star": "633"
   },
   {
     "title": "tloen/alpaca-lora",
     "url": "https://github.com/tloen/alpaca-lora",
     "description": "Instruct-tune LLaMA on consumer hardware",
     "language": "Jupyter Notebook",
-    "star": "576"
+    "star": "809"
   },
   {
     "title": "mayooear/gpt4-pdf-chatbot-langchain",
@@ -25,7 +25,7 @@
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "A ChatGPT clone for running locally in your browser.",
     "language": "TypeScript",
-    "star": "252"
+    "star": "225"
   },
   {
     "title": "raysan5/raylib",
@@ -46,7 +46,7 @@
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "738"
+    "star": "737"
   },
   {
     "title": "cocktailpeanut/dalai",
@@ -67,21 +67,21 @@
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "724"
+    "star": "750"
   },
   {
     "title": "Dreamacro/clash",
     "url": "https://github.com/Dreamacro/clash",
     "description": "A rule-based tunnel in Go.",
     "language": "Go",
-    "star": "83"
+    "star": "77"
   },
   {
     "title": "Stability-AI/stablediffusion",
     "url": "https://github.com/Stability-AI/stablediffusion",
     "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
     "language": "Python",
-    "star": "126"
+    "star": "128"
   },
   {
     "title": "yuezk/chatgpt-mirror",
@@ -95,14 +95,14 @@
     "url": "https://github.com/logspace-ai/langflow",
     "description": "⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",
     "language": "TypeScript",
-    "star": "134"
+    "star": "128"
   },
   {
     "title": "GaiZhenbiao/ChuanhuChatGPT",
     "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
     "description": "GUI for ChatGPT API",
     "language": "Python",
-    "star": "181"
+    "star": "170"
   },
   {
     "title": "home-assistant/core",
@@ -116,49 +116,49 @@
     "url": "https://github.com/nichtdax/awesome-totally-open-chatgpt",
     "description": "A list of totally open alternatives to ChatGPT",
     "language": "none",
-    "star": "152"
+    "star": "119"
   },
   {
     "title": "1Panel-dev/1Panel",
     "url": "https://github.com/1Panel-dev/1Panel",
     "description": "现代化、开源的 Linux 服务器运维管理面板。",
     "language": "Go",
-    "star": "461"
+    "star": "124"
   },
   {
     "title": "john-smilga/react-course-v3",
     "url": "https://github.com/john-smilga/react-course-v3",
     "description": "",
     "language": "CSS",
-    "star": "11"
+    "star": "14"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "436"
+    "star": "437"
   },
   {
     "title": "jtmuller5/The-HustleGPT-Challenge",
     "url": "https://github.com/jtmuller5/The-HustleGPT-Challenge",
     "description": "Building Startups with an AI Co-Founder",
     "language": "none",
-    "star": "257"
+    "star": "229"
   },
   {
     "title": "Ayanaminn/N46Whisper",
     "url": "https://github.com/Ayanaminn/N46Whisper",
     "description": "Whisper based Japanese subtitle generator",
     "language": "Jupyter Notebook",
-    "star": "117"
+    "star": "104"
   },
   {
     "title": "lencx/ChatGPT",
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "301"
+    "star": "300"
   },
   {
     "title": "34j/so-vits-svc-fork",
