@@ -11,14 +11,14 @@
     "url": "https://github.com/gencay/vscode-chatgpt",
     "description": "An unofficial Visual Studio Code - OpenAI ChatGPT integration",
     "language": "TypeScript",
-    "star": "344"
+    "star": "364"
   },
   {
     "title": "microsoft/semantic-kernel",
     "url": "https://github.com/microsoft/semantic-kernel",
     "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
     "language": "C#",
-    "star": "634"
+    "star": "613"
   },
   {
     "title": "josStorer/chatGPTBox",
@@ -39,7 +39,7 @@
     "url": "https://github.com/ourongxing/chatgpt-vercel",
     "description": "Powered by OpenAI API (gpt-3.5-turbo) and Vercel",
     "language": "TypeScript",
-    "star": "61"
+    "star": "62"
   },
   {
     "title": "biobootloader/wolverine",
@@ -60,21 +60,21 @@
     "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
     "description": "GPT4 & LangChain Chatbot for large PDF docs",
     "language": "TypeScript",
-    "star": "213"
+    "star": "178"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "748"
+    "star": "747"
   },
   {
     "title": "yuezk/chatgpt-mirror",
     "url": "https://github.com/yuezk/chatgpt-mirror",
     "description": "A mirror of ChatGPT based on the gpt-3.5-turbo model.",
     "language": "JavaScript",
-    "star": "135"
+    "star": "144"
   },
   {
     "title": "TheExplainthis/AI-Products-All-In-One",
@@ -88,28 +88,28 @@
     "url": "https://github.com/1Panel-dev/1Panel",
     "description": "现代化、开源的 Linux 服务器运维管理面板。",
     "language": "Go",
-    "star": "453"
+    "star": "475"
   },
   {
     "title": "mckaywrigley/chatbot-ui",
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "A ChatGPT clone for running locally in your browser.",
     "language": "TypeScript",
-    "star": "251"
+    "star": "240"
   },
   {
     "title": "BloopAI/bloop",
     "url": "https://github.com/BloopAI/bloop",
     "description": "bloop is a fast code search engine written in Rust.",
     "language": "TypeScript",
-    "star": "295"
+    "star": "177"
   },
   {
     "title": "cocktailpeanut/dalai",
     "url": "https://github.com/cocktailpeanut/dalai",
     "description": "The simplest way to run LLaMA on your local machine",
     "language": "JavaScript",
-    "star": "799"
+    "star": "865"
   },
   {
     "title": "D4RK-R4BB1T/Dark-Web-Archives",
@@ -144,34 +144,34 @@
     "url": "https://github.com/TheR1D/shell_gpt",
     "description": "A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",
     "language": "Python",
-    "star": "58"
+    "star": "85"
   },
   {
     "title": "jtmuller5/The-HustleGPT-Challenge",
     "url": "https://github.com/jtmuller5/The-HustleGPT-Challenge",
     "description": "Building Startups with an AI Co-Founder",
     "language": "none",
-    "star": "241"
+    "star": "238"
   },
   {
     "title": "enricoros/nextjs-chatgpt-app",
     "url": "https://github.com/enricoros/nextjs-chatgpt-app",
     "description": "💬 Responsive chat application powered by OpenAI's GPT-4, with response streaming, code highlighting, various presets for developers. Using Next.js, React, Joy.",
     "language": "TypeScript",
-    "star": "70"
+    "star": "74"
   },
   {
     "title": "tloen/alpaca-lora",
     "url": "https://github.com/tloen/alpaca-lora",
     "description": "Instruct-tune LLaMA on consumer hardware",
     "language": "Jupyter Notebook",
-    "star": "860"
+    "star": "916"
   },
   {
     "title": "hwchase17/langchain",
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "426"
+    "star": "438"
   }
 ]
