@@ -11,28 +11,28 @@
     "url": "https://github.com/gencay/vscode-chatgpt",
     "description": "An unofficial Visual Studio Code - OpenAI ChatGPT integration",
     "language": "TypeScript",
-    "star": "364"
+    "star": "344"
   },
   {
     "title": "microsoft/semantic-kernel",
     "url": "https://github.com/microsoft/semantic-kernel",
     "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
     "language": "C#",
-    "star": "633"
+    "star": "634"
   },
   {
     "title": "josStorer/chatGPTBox",
     "url": "https://github.com/josStorer/chatGPTBox",
     "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
     "language": "JavaScript",
-    "star": "925"
+    "star": "899"
   },
   {
     "title": "apache/incubator-paimon",
     "url": "https://github.com/apache/incubator-paimon",
     "description": "Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.",
     "language": "Java",
-    "star": "17"
+    "star": "18"
   },
   {
     "title": "ourongxing/chatgpt-vercel",
@@ -60,21 +60,21 @@
     "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
     "description": "GPT4 & LangChain Chatbot for large PDF docs",
     "language": "TypeScript",
-    "star": "219"
+    "star": "213"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "744"
+    "star": "748"
   },
   {
     "title": "yuezk/chatgpt-mirror",
     "url": "https://github.com/yuezk/chatgpt-mirror",
     "description": "A mirror of ChatGPT based on the gpt-3.5-turbo model.",
     "language": "JavaScript",
-    "star": "139"
+    "star": "135"
   },
   {
     "title": "TheExplainthis/AI-Products-All-In-One",
@@ -88,14 +88,14 @@
     "url": "https://github.com/1Panel-dev/1Panel",
     "description": "现代化、开源的 Linux 服务器运维管理面板。",
     "language": "Go",
-    "star": "444"
+    "star": "453"
   },
   {
     "title": "mckaywrigley/chatbot-ui",
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "A ChatGPT clone for running locally in your browser.",
     "language": "TypeScript",
-    "star": "248"
+    "star": "251"
   },
   {
     "title": "BloopAI/bloop",
@@ -109,7 +109,7 @@
     "url": "https://github.com/cocktailpeanut/dalai",
     "description": "The simplest way to run LLaMA on your local machine",
     "language": "JavaScript",
-    "star": "854"
+    "star": "799"
   },
   {
     "title": "D4RK-R4BB1T/Dark-Web-Archives",
@@ -151,7 +151,7 @@
     "url": "https://github.com/jtmuller5/The-HustleGPT-Challenge",
     "description": "Building Startups with an AI Co-Founder",
     "language": "none",
-    "star": "238"
+    "star": "241"
   },
   {
     "title": "enricoros/nextjs-chatgpt-app",
@@ -165,13 +165,13 @@
     "url": "https://github.com/tloen/alpaca-lora",
     "description": "Instruct-tune LLaMA on consumer hardware",
     "language": "Jupyter Notebook",
-    "star": "875"
+    "star": "860"
   },
   {
     "title": "hwchase17/langchain",
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "454"
+    "star": "426"
   }
 ]
