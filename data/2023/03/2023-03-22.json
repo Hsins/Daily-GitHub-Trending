@@ -11,42 +11,42 @@
     "url": "https://github.com/BloopAI/bloop",
     "description": "bloop is a fast code search engine written in Rust.",
     "language": "TypeScript",
-    "star": "526"
+    "star": "522"
   },
   {
     "title": "GerevAI/gerev",
     "url": "https://github.com/GerevAI/gerev",
     "description": "🧠 ChatGPT search engine for workplace knowledge 🔎",
     "language": "Python",
-    "star": "145"
+    "star": "156"
   },
   {
     "title": "dair-ai/Prompt-Engineering-Guide",
     "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
     "language": "Jupyter Notebook",
-    "star": "498"
+    "star": "512"
   },
   {
     "title": "mayooear/gpt4-pdf-chatbot-langchain",
     "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
     "description": "GPT4 & LangChain Chatbot for large PDF docs",
     "language": "TypeScript",
-    "star": "305"
+    "star": "317"
   },
   {
     "title": "mckaywrigley/chatbot-ui",
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "A ChatGPT clone for running locally in your browser.",
     "language": "TypeScript",
-    "star": "307"
+    "star": "309"
   },
   {
     "title": "keijiro/AICommand",
     "url": "https://github.com/keijiro/AICommand",
     "description": "ChatGPT integration with Unity Editor",
     "language": "C#",
-    "star": "596"
+    "star": "558"
   },
   {
     "title": "pelennor2170/NAM_models",
@@ -60,14 +60,14 @@
     "url": "https://github.com/modelscope/modelscope",
     "description": "ModelScope: bring the notion of Model-as-a-Service to life.",
     "language": "Python",
-    "star": "72"
+    "star": "133"
   },
   {
     "title": "nichtdax/awesome-totally-open-chatgpt",
     "url": "https://github.com/nichtdax/awesome-totally-open-chatgpt",
     "description": "A list of totally open alternatives to ChatGPT",
     "language": "none",
-    "star": "923"
+    "star": "878"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
@@ -81,7 +81,7 @@
     "url": "https://github.com/cocktailpeanut/dalai",
     "description": "The simplest way to run LLaMA on your local machine",
     "language": "CSS",
-    "star": "751"
+    "star": "770"
   },
   {
     "title": "Leizhenpeng/feishu-chatgpt",
@@ -95,14 +95,14 @@
     "url": "https://github.com/josStorer/chatGPTBox",
     "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
     "language": "JavaScript",
-    "star": "817"
+    "star": "820"
   },
   {
     "title": "hwchase17/langchain",
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "447"
+    "star": "461"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -116,21 +116,21 @@
     "url": "https://github.com/microsoft/semantic-kernel",
     "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
     "language": "C#",
-    "star": "476"
+    "star": "459"
   },
   {
     "title": "PlexPt/chatgpt-java",
     "url": "https://github.com/PlexPt/chatgpt-java",
     "description": "ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。",
     "language": "Java",
-    "star": "68"
+    "star": "69"
   },
   {
     "title": "mymusise/ChatGLM-Tuning",
     "url": "https://github.com/mymusise/ChatGLM-Tuning",
     "description": "一种平价的chatgpt实现方案, 基于ChatGLM-6B + LoRA",
     "language": "Python",
-    "star": "104"
+    "star": "94"
   },
   {
     "title": "lensterxyz/lenster",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Ciphey/Ciphey",
     "description": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
     "language": "Python",
-    "star": "221"
+    "star": "77"
   },
   {
     "title": "raysan5/raylib",
