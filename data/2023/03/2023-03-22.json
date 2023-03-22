@@ -1,0 +1,177 @@
+[
+  {
+    "title": "deep-diver/Alpaca-LoRA-Serve",
+    "url": "https://github.com/deep-diver/Alpaca-LoRA-Serve",
+    "description": "Alpaca-LoRA as Chatbot service",
+    "language": "Python",
+    "star": "71"
+  },
+  {
+    "title": "BloopAI/bloop",
+    "url": "https://github.com/BloopAI/bloop",
+    "description": "bloop is a fast code search engine written in Rust.",
+    "language": "TypeScript",
+    "star": "369"
+  },
+  {
+    "title": "GerevAI/gerev",
+    "url": "https://github.com/GerevAI/gerev",
+    "description": "🧠 ChatGPT search engine for workplace knowledge 🔎",
+    "language": "Python",
+    "star": "156"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+    "language": "Jupyter Notebook",
+    "star": "506"
+  },
+  {
+    "title": "mayooear/gpt4-pdf-chatbot-langchain",
+    "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+    "description": "GPT4 & LangChain Chatbot for large PDF docs",
+    "language": "TypeScript",
+    "star": "306"
+  },
+  {
+    "title": "mckaywrigley/chatbot-ui",
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "description": "A ChatGPT clone for running locally in your browser.",
+    "language": "TypeScript",
+    "star": "305"
+  },
+  {
+    "title": "keijiro/AICommand",
+    "url": "https://github.com/keijiro/AICommand",
+    "description": "ChatGPT integration with Unity Editor",
+    "language": "C#",
+    "star": "558"
+  },
+  {
+    "title": "pelennor2170/NAM_models",
+    "url": "https://github.com/pelennor2170/NAM_models",
+    "description": "A repository collecting model files for Neural Amp Modeler (NAM) all in one place",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "modelscope/modelscope",
+    "url": "https://github.com/modelscope/modelscope",
+    "description": "ModelScope: bring the notion of Model-as-a-Service to life.",
+    "language": "Python",
+    "star": "134"
+  },
+  {
+    "title": "nichtdax/awesome-totally-open-chatgpt",
+    "url": "https://github.com/nichtdax/awesome-totally-open-chatgpt",
+    "description": "A list of totally open alternatives to ChatGPT",
+    "language": "none",
+    "star": "878"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
+    "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "cocktailpeanut/dalai",
+    "url": "https://github.com/cocktailpeanut/dalai",
+    "description": "The simplest way to run LLaMA on your local machine",
+    "language": "CSS",
+    "star": "786"
+  },
+  {
+    "title": "Leizhenpeng/feishu-chatgpt",
+    "url": "https://github.com/Leizhenpeng/feishu-chatgpt",
+    "description": "🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+    "language": "Go",
+    "star": "211"
+  },
+  {
+    "title": "josStorer/chatGPTBox",
+    "url": "https://github.com/josStorer/chatGPTBox",
+    "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
+    "language": "JavaScript",
+    "star": "822"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "description": "⚡ Building applications with LLMs through composability ⚡",
+    "language": "Python",
+    "star": "428"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+    "language": "HTML",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/semantic-kernel",
+    "url": "https://github.com/microsoft/semantic-kernel",
+    "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+    "language": "C#",
+    "star": "549"
+  },
+  {
+    "title": "PlexPt/chatgpt-java",
+    "url": "https://github.com/PlexPt/chatgpt-java",
+    "description": "ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。",
+    "language": "Java",
+    "star": "80"
+  },
+  {
+    "title": "mymusise/ChatGLM-Tuning",
+    "url": "https://github.com/mymusise/ChatGLM-Tuning",
+    "description": "一种平价的chatgpt实现方案, 基于ChatGLM-6B + LoRA",
+    "language": "Python",
+    "star": "103"
+  },
+  {
+    "title": "lensterxyz/lenster",
+    "url": "https://github.com/lensterxyz/lenster",
+    "description": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
+    "language": "TypeScript",
+    "star": "277"
+  },
+  {
+    "title": "chidiwilliams/buzz",
+    "url": "https://github.com/chidiwilliams/buzz",
+    "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+    "language": "Python",
+    "star": "182"
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "description": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+    "language": "Python",
+    "star": "206"
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "description": "A simple and easy-to-use library to enjoy videogames programming",
+    "language": "C",
+    "star": "40"
+  },
+  {
+    "title": "Beomi/KoAlpaca",
+    "url": "https://github.com/Beomi/KoAlpaca",
+    "description": "KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)",
+    "language": "Jupyter Notebook",
+    "star": "68"
+  },
+  {
+    "title": "tloen/alpaca-lora",
+    "url": "https://github.com/tloen/alpaca-lora",
+    "description": "Instruct-tune LLaMA on consumer hardware",
+    "language": "Jupyter Notebook",
+    "star": "868"
+  }
+]
