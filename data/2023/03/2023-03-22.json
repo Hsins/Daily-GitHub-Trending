@@ -11,7 +11,7 @@
     "url": "https://github.com/BloopAI/bloop",
     "description": "bloop is a fast code search engine written in Rust.",
     "language": "TypeScript",
-    "star": "522"
+    "star": "369"
   },
   {
     "title": "GerevAI/gerev",
@@ -25,21 +25,21 @@
     "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
     "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
     "language": "Jupyter Notebook",
-    "star": "512"
+    "star": "506"
   },
   {
     "title": "mayooear/gpt4-pdf-chatbot-langchain",
     "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
     "description": "GPT4 & LangChain Chatbot for large PDF docs",
     "language": "TypeScript",
-    "star": "317"
+    "star": "306"
   },
   {
     "title": "mckaywrigley/chatbot-ui",
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "A ChatGPT clone for running locally in your browser.",
     "language": "TypeScript",
-    "star": "309"
+    "star": "305"
   },
   {
     "title": "keijiro/AICommand",
@@ -60,7 +60,7 @@
     "url": "https://github.com/modelscope/modelscope",
     "description": "ModelScope: bring the notion of Model-as-a-Service to life.",
     "language": "Python",
-    "star": "133"
+    "star": "134"
   },
   {
     "title": "nichtdax/awesome-totally-open-chatgpt",
@@ -81,28 +81,28 @@
     "url": "https://github.com/cocktailpeanut/dalai",
     "description": "The simplest way to run LLaMA on your local machine",
     "language": "CSS",
-    "star": "770"
+    "star": "786"
   },
   {
     "title": "Leizhenpeng/feishu-chatgpt",
     "url": "https://github.com/Leizhenpeng/feishu-chatgpt",
     "description": "🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
     "language": "Go",
-    "star": "192"
+    "star": "208"
   },
   {
     "title": "josStorer/chatGPTBox",
     "url": "https://github.com/josStorer/chatGPTBox",
     "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
     "language": "JavaScript",
-    "star": "820"
+    "star": "822"
   },
   {
     "title": "hwchase17/langchain",
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "461"
+    "star": "428"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -116,42 +116,42 @@
     "url": "https://github.com/microsoft/semantic-kernel",
     "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
     "language": "C#",
-    "star": "459"
+    "star": "549"
   },
   {
     "title": "PlexPt/chatgpt-java",
     "url": "https://github.com/PlexPt/chatgpt-java",
     "description": "ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。",
     "language": "Java",
-    "star": "69"
+    "star": "84"
   },
   {
     "title": "mymusise/ChatGLM-Tuning",
     "url": "https://github.com/mymusise/ChatGLM-Tuning",
     "description": "一种平价的chatgpt实现方案, 基于ChatGLM-6B + LoRA",
     "language": "Python",
-    "star": "94"
+    "star": "103"
   },
   {
     "title": "lensterxyz/lenster",
     "url": "https://github.com/lensterxyz/lenster",
     "description": "Lenster is a decentralized, and permissionless social media app built with Lens Protocol 🌿",
     "language": "TypeScript",
-    "star": "276"
+    "star": "277"
   },
   {
     "title": "chidiwilliams/buzz",
     "url": "https://github.com/chidiwilliams/buzz",
     "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
     "language": "Python",
-    "star": "184"
+    "star": "177"
   },
   {
     "title": "Ciphey/Ciphey",
     "url": "https://github.com/Ciphey/Ciphey",
     "description": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
     "language": "Python",
-    "star": "77"
+    "star": "206"
   },
   {
     "title": "raysan5/raylib",
@@ -165,13 +165,13 @@
     "url": "https://github.com/Beomi/KoAlpaca",
     "description": "KoAlpaca: Korean Alpaca Model based on Stanford Alpaca (feat. LLAMA and Polyglot-ko)",
     "language": "Jupyter Notebook",
-    "star": "78"
+    "star": "66"
   },
   {
     "title": "tloen/alpaca-lora",
     "url": "https://github.com/tloen/alpaca-lora",
     "description": "Instruct-tune LLaMA on consumer hardware",
     "language": "Jupyter Notebook",
-    "star": "563"
+    "star": "868"
   }
 ]
