@@ -4,56 +4,56 @@
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "A ChatGPT clone for running locally in your browser.",
     "language": "TypeScript",
-    "star": "451"
+    "star": "597"
   },
   {
     "title": "GaiZhenbiao/ChuanhuChatGPT",
     "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
     "description": "GUI for ChatGPT API",
     "language": "Python",
-    "star": "664"
+    "star": "677"
   },
   {
     "title": "mayooear/gpt4-pdf-chatbot-langchain",
     "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
     "description": "GPT4 & LangChain Chatbot for large PDF docs",
     "language": "TypeScript",
-    "star": "677"
+    "star": "678"
   },
   {
     "title": "NVIDIAGameWorks/Path-Tracing-SDK",
     "url": "https://github.com/NVIDIAGameWorks/Path-Tracing-SDK",
     "description": "Real-time path tracing library and sample",
     "language": "C++",
-    "star": "59"
+    "star": "34"
   },
   {
     "title": "GerevAI/gerev",
     "url": "https://github.com/GerevAI/gerev",
     "description": "🧠 ChatGPT search engine for your organization. 🔎",
     "language": "Python",
-    "star": "250"
+    "star": "288"
   },
   {
     "title": "keijiro/AICommand",
     "url": "https://github.com/keijiro/AICommand",
     "description": "ChatGPT integration with Unity Editor",
     "language": "C#",
-    "star": "577"
+    "star": "538"
   },
   {
     "title": "deep-diver/Alpaca-LoRA-Serve",
     "url": "https://github.com/deep-diver/Alpaca-LoRA-Serve",
     "description": "Alpaca-LoRA as Chatbot service",
     "language": "Python",
-    "star": "260"
+    "star": "196"
   },
   {
     "title": "LianjiaTech/BELLE",
     "url": "https://github.com/LianjiaTech/BELLE",
     "description": "BELLE: Bloom-Enhanced Large Language model Engine（开源中文对话大模型-70亿参数）",
     "language": "Python",
-    "star": "533"
+    "star": "520"
   },
   {
     "title": "typst/typst",
@@ -67,14 +67,14 @@
     "url": "https://github.com/ryh04x/CEH-Exam-Questions",
     "description": "Planning To Take Certified Ethical Hacker (CEH)? Here are github repo with 125 questions and answers to help you prep for the test",
     "language": "none",
-    "star": "125"
+    "star": "92"
   },
   {
     "title": "josStorer/chatGPTBox",
     "url": "https://github.com/josStorer/chatGPTBox",
     "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
     "language": "JavaScript",
-    "star": "553"
+    "star": "515"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -88,7 +88,7 @@
     "url": "https://github.com/nichtdax/awesome-totally-open-chatgpt",
     "description": "A list of totally open alternatives to ChatGPT",
     "language": "none",
-    "star": "696"
+    "star": "563"
   },
   {
     "title": "fauxpilot/fauxpilot",
@@ -109,14 +109,14 @@
     "url": "https://github.com/TheR1D/shell_gpt",
     "description": "A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",
     "language": "Python",
-    "star": "69"
+    "star": "87"
   },
   {
     "title": "Leizhenpeng/feishu-chatgpt",
     "url": "https://github.com/Leizhenpeng/feishu-chatgpt",
     "description": "🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
     "language": "Go",
-    "star": "217"
+    "star": "303"
   },
   {
     "title": "madawei2699/myGPTReader",
@@ -130,7 +130,7 @@
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "529"
+    "star": "531"
   },
   {
     "title": "pittcsc/Summer2023-Internships",
@@ -158,20 +158,20 @@
     "url": "https://github.com/htr-tech/zphisher",
     "description": "An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !",
     "language": "HTML",
-    "star": "79"
+    "star": "34"
   },
   {
     "title": "BloopAI/bloop",
     "url": "https://github.com/BloopAI/bloop",
     "description": "bloop is a fast code search engine written in Rust.",
     "language": "TypeScript",
-    "star": "509"
+    "star": "507"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
     "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
     "description": "Stable Diffusion web UI",
     "language": "Python",
-    "star": "628"
+    "star": "631"
   }
 ]
