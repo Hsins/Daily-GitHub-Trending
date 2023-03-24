@@ -4,21 +4,21 @@
     "url": "https://github.com/nsarrazin/serge",
     "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
     "language": "Python",
-    "star": "422"
+    "star": "432"
   },
   {
     "title": "madawei2699/myGPTReader",
     "url": "https://github.com/madawei2699/myGPTReader",
     "description": "myGPTReader is a slack bot that can read any webpage, ebook or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
     "language": "Python",
-    "star": "759"
+    "star": "749"
   },
   {
     "title": "mrsked/mrsk",
     "url": "https://github.com/mrsked/mrsk",
     "description": "Deploy web apps anywhere.",
     "language": "Ruby",
-    "star": "175"
+    "star": "174"
   },
   {
     "title": "programthink/zhao",
@@ -39,7 +39,7 @@
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "A ChatGPT clone for running locally in your browser.",
     "language": "TypeScript",
-    "star": "680"
+    "star": "689"
   },
   {
     "title": "LC1332/Chinese-alpaca-lora",
@@ -53,14 +53,14 @@
     "url": "https://github.com/dragonflydb/dragonfly",
     "description": "A modern replacement for Redis and Memcached",
     "language": "C++",
-    "star": "101"
+    "star": "98"
   },
   {
     "title": "LianjiaTech/BELLE",
     "url": "https://github.com/LianjiaTech/BELLE",
     "description": "BELLE: Bloom-Enhanced Large Language model Engine（开源中文对话大模型-70亿参数）",
     "language": "Python",
-    "star": "430"
+    "star": "421"
   },
   {
     "title": "codebdy/rxdrag",
@@ -81,21 +81,21 @@
     "url": "https://github.com/fauxpilot/fauxpilot",
     "description": "FauxPilot - an open-source GitHub Copilot server",
     "language": "Python",
-    "star": "964"
+    "star": "1"
   },
   {
     "title": "deep-diver/Alpaca-LoRA-Serve",
     "url": "https://github.com/deep-diver/Alpaca-LoRA-Serve",
     "description": "Alpaca-LoRA as Chatbot service",
     "language": "Python",
-    "star": "384"
+    "star": "330"
   },
   {
     "title": "typst/typst",
     "url": "https://github.com/typst/typst",
     "description": "A new markup-based typesetting system that is powerful and easy to learn.",
     "language": "Rust",
-    "star": "2"
+    "star": "1"
   },
   {
     "title": "programthink/books",
@@ -109,14 +109,14 @@
     "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
     "description": "GUI for ChatGPT API",
     "language": "Python",
-    "star": "678"
+    "star": "688"
   },
   {
     "title": "NVIDIAGameWorks/Path-Tracing-SDK",
     "url": "https://github.com/NVIDIAGameWorks/Path-Tracing-SDK",
     "description": "Real-time path tracing library and sample",
     "language": "C++",
-    "star": "69"
+    "star": "84"
   },
   {
     "title": "evanw/thumbhash",
@@ -130,7 +130,7 @@
     "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
     "description": "GPT4 & LangChain Chatbot for large PDF docs",
     "language": "TypeScript",
-    "star": "412"
+    "star": "441"
   },
   {
     "title": "ddobokki/chatgpt_stock_report",
@@ -144,7 +144,7 @@
     "url": "https://github.com/BloopAI/bloop",
     "description": "bloop is a fast code search engine written in Rust.",
     "language": "TypeScript",
-    "star": "751"
+    "star": "700"
   },
   {
     "title": "BlinkDL/ChatRWKV",
@@ -165,13 +165,13 @@
     "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
     "description": "🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
     "language": "Jupyter Notebook",
-    "star": "239"
+    "star": "216"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "969"
+    "star": "961"
   }
 ]
