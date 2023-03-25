@@ -32,7 +32,7 @@
     "url": "https://github.com/intitni/CopilotForXcode",
     "description": "The missing GitHub Copilot Xcode Source Editor Extension",
     "language": "Swift",
-    "star": "66"
+    "star": "74"
   },
   {
     "title": "cisagov/untitledgoosetool",
@@ -46,7 +46,7 @@
     "url": "https://github.com/programthink/zhao",
     "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
     "language": "Python",
-    "star": "150"
+    "star": "147"
   },
   {
     "title": "rust-lang/rustlings",
@@ -60,28 +60,28 @@
     "url": "https://github.com/BlinkDL/ChatRWKV",
     "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
     "language": "Python",
-    "star": "165"
+    "star": "195"
   },
   {
     "title": "ggerganov/llama.cpp",
     "url": "https://github.com/ggerganov/llama.cpp",
     "description": "Port of Facebook's LLaMA model in C/C++",
     "language": "C",
-    "star": "570"
+    "star": "524"
   },
   {
     "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
     "language": "none",
-    "star": "393"
+    "star": "419"
   },
   {
     "title": "GaiZhenbiao/ChuanhuChatGPT",
     "url": "https://github.com/GaiZhenbiao/ChuanhuChatGPT",
     "description": "GUI for ChatGPT API",
     "language": "Python",
-    "star": "494"
+    "star": "701"
   },
   {
     "title": "nsarrazin/serge",
@@ -95,42 +95,42 @@
     "url": "https://github.com/hwchase17/langchain",
     "description": "⚡ Building applications with LLMs through composability ⚡",
     "language": "Python",
-    "star": "645"
+    "star": "644"
   },
   {
     "title": "mckaywrigley/chatbot-ui",
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "An open-source ChatGPT UI.",
     "language": "TypeScript",
-    "star": "640"
+    "star": "849"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
     "url": "https://github.com/f/awesome-chatgpt-prompts",
     "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
     "language": "HTML",
-    "star": "1"
+    "star": "895"
   },
   {
     "title": "madawei2699/myGPTReader",
     "url": "https://github.com/madawei2699/myGPTReader",
     "description": "myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
     "language": "Python",
-    "star": "527"
+    "star": "464"
   },
   {
     "title": "radi-cho/awesome-gpt4",
     "url": "https://github.com/radi-cho/awesome-gpt4",
     "description": "A curated list of prompts, tools, and resources regarding the GPT-4 language model.",
     "language": "none",
-    "star": "88"
+    "star": "76"
   },
   {
     "title": "zadam/trilium",
     "url": "https://github.com/zadam/trilium",
     "description": "Build your personal knowledge base with Trilium Notes",
     "language": "JavaScript",
-    "star": "34"
+    "star": "31"
   },
   {
     "title": "geekan/HowToLiveLonger",
@@ -144,14 +144,14 @@
     "url": "https://github.com/evanw/thumbhash",
     "description": "A very compact representation of an image placeholder",
     "language": "Swift",
-    "star": "173"
+    "star": "231"
   },
   {
     "title": "PlexPt/awesome-chatgpt-prompts-zh",
     "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh",
     "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
     "language": "none",
-    "star": "843"
+    "star": "799"
   },
   {
     "title": "t3dotgg/chirp",
