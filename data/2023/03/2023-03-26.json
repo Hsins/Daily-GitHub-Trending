@@ -1,0 +1,177 @@
+[
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "description": "",
+    "language": "Python",
+    "star": "466"
+  },
+  {
+    "title": "openai/chatgpt-retrieval-plugin",
+    "url": "https://github.com/openai/chatgpt-retrieval-plugin",
+    "description": "",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "mckaywrigley/chatbot-ui",
+    "url": "https://github.com/mckaywrigley/chatbot-ui",
+    "description": "An open-source ChatGPT UI.",
+    "language": "TypeScript",
+    "star": "637"
+  },
+  {
+    "title": "getcursor/cursor",
+    "url": "https://github.com/getcursor/cursor",
+    "description": "An editor made for programming with AI 🤖",
+    "language": "TypeScript",
+    "star": "551"
+  },
+  {
+    "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
+    "language": "none",
+    "star": "402"
+  },
+  {
+    "title": "madawei2699/myGPTReader",
+    "url": "https://github.com/madawei2699/myGPTReader",
+    "description": "myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
+    "language": "Python",
+    "star": "426"
+  },
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "description": "中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "language": "Python",
+    "star": "299"
+  },
+  {
+    "title": "showlab/Tune-A-Video",
+    "url": "https://github.com/showlab/Tune-A-Video",
+    "description": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "language": "Python",
+    "star": "88"
+  },
+  {
+    "title": "sahil280114/codealpaca",
+    "url": "https://github.com/sahil280114/codealpaca",
+    "description": "",
+    "language": "Python",
+    "star": "137"
+  },
+  {
+    "title": "MarsX-dev/floatui",
+    "url": "https://github.com/MarsX-dev/floatui",
+    "description": "Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.",
+    "language": "JavaScript",
+    "star": "59"
+  },
+  {
+    "title": "jerryjliu/llama_index",
+    "url": "https://github.com/jerryjliu/llama_index",
+    "description": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
+    "language": "Python",
+    "star": "221"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "description": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "language": "Python",
+    "star": "110"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "language": "Rust",
+    "star": "190"
+  },
+  {
+    "title": "nsarrazin/serge",
+    "url": "https://github.com/nsarrazin/serge",
+    "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
+    "language": "Python",
+    "star": "463"
+  },
+  {
+    "title": "TheR1D/shell_gpt",
+    "url": "https://github.com/TheR1D/shell_gpt",
+    "description": "A command-line productivity tool powered by ChatGPT, will help you accomplish your tasks faster and more efficiently.",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "description": "Flipper Zero firmware source code",
+    "language": "C",
+    "star": "14"
+  },
+  {
+    "title": "matter-labs/zksync-web-era-docs",
+    "url": "https://github.com/matter-labs/zksync-web-era-docs",
+    "description": "zkSync Era Documentation",
+    "language": "JavaScript",
+    "star": "12"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "179"
+  },
+  {
+    "title": "programthink/zhao",
+    "url": "https://github.com/programthink/zhao",
+    "description": "【编程随想】整理的《太子党关系网络》，专门揭露赵国的权贵",
+    "language": "Python",
+    "star": "112"
+  },
+  {
+    "title": "Picsart-AI-Research/Text2Video-Zero",
+    "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
+    "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+    "language": "none",
+    "star": "66"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "language": "TypeScript",
+    "star": "195"
+  },
+  {
+    "title": "LC1332/Chinese-alpaca-lora",
+    "url": "https://github.com/LC1332/Chinese-alpaca-lora",
+    "description": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+    "language": "Jupyter Notebook",
+    "star": "161"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "description": "A multi-voice TTS system trained with an emphasis on quality",
+    "language": "Python",
+    "star": "74"
+  },
+  {
+    "title": "matter-labs/zksync-era",
+    "url": "https://github.com/matter-labs/zksync-era",
+    "description": "zkSync era",
+    "language": "Rust",
+    "star": "18"
+  },
+  {
+    "title": "codebdy/rxdrag",
+    "url": "https://github.com/codebdy/rxdrag",
+    "description": "Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计",
+    "language": "TypeScript",
+    "star": "42"
+  }
+]
