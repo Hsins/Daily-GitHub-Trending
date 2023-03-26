@@ -4,7 +4,7 @@
     "url": "https://github.com/databrickslabs/dolly",
     "description": "",
     "language": "Python",
-    "star": "466"
+    "star": "443"
   },
   {
     "title": "openai/chatgpt-retrieval-plugin",
@@ -18,84 +18,84 @@
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "An open-source ChatGPT UI.",
     "language": "TypeScript",
-    "star": "637"
+    "star": "639"
   },
   {
     "title": "getcursor/cursor",
     "url": "https://github.com/getcursor/cursor",
     "description": "An editor made for programming with AI 🤖",
     "language": "TypeScript",
-    "star": "551"
+    "star": "740"
   },
   {
     "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
     "language": "none",
-    "star": "402"
+    "star": "397"
   },
   {
     "title": "madawei2699/myGPTReader",
     "url": "https://github.com/madawei2699/myGPTReader",
     "description": "myGPTReader is a slack bot that can read any webpage, ebook, video(YouTube) or document and summarize it with chatGPT. It can also talk to you via voice using the content in the channel.",
     "language": "Python",
-    "star": "426"
+    "star": "411"
   },
   {
     "title": "binary-husky/chatgpt_academic",
     "url": "https://github.com/binary-husky/chatgpt_academic",
     "description": "中科院科研工作专用ChatGPT，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
     "language": "Python",
-    "star": "299"
+    "star": "258"
   },
   {
     "title": "showlab/Tune-A-Video",
     "url": "https://github.com/showlab/Tune-A-Video",
     "description": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
     "language": "Python",
-    "star": "88"
+    "star": "81"
   },
   {
     "title": "sahil280114/codealpaca",
     "url": "https://github.com/sahil280114/codealpaca",
     "description": "",
     "language": "Python",
-    "star": "137"
+    "star": "272"
   },
   {
     "title": "MarsX-dev/floatui",
     "url": "https://github.com/MarsX-dev/floatui",
     "description": "Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.",
     "language": "JavaScript",
-    "star": "59"
+    "star": "57"
   },
   {
     "title": "jerryjliu/llama_index",
     "url": "https://github.com/jerryjliu/llama_index",
     "description": "LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.",
     "language": "Python",
-    "star": "221"
+    "star": "178"
   },
   {
     "title": "acantril/learn-cantrill-io-labs",
     "url": "https://github.com/acantril/learn-cantrill-io-labs",
     "description": "Standard and Advanced Demos for learn.cantrill.io courses",
     "language": "Python",
-    "star": "110"
+    "star": "104"
   },
   {
     "title": "rust-lang/rustlings",
     "url": "https://github.com/rust-lang/rustlings",
     "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
     "language": "Rust",
-    "star": "190"
+    "star": "174"
   },
   {
     "title": "nsarrazin/serge",
     "url": "https://github.com/nsarrazin/serge",
     "description": "A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.",
     "language": "Python",
-    "star": "463"
+    "star": "582"
   },
   {
     "title": "TheR1D/shell_gpt",
@@ -137,41 +137,41 @@
     "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
     "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
     "language": "none",
-    "star": "66"
+    "star": "64"
   },
   {
     "title": "excalidraw/excalidraw",
     "url": "https://github.com/excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "language": "TypeScript",
-    "star": "195"
+    "star": "176"
   },
   {
     "title": "LC1332/Chinese-alpaca-lora",
     "url": "https://github.com/LC1332/Chinese-alpaca-lora",
     "description": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
     "language": "Jupyter Notebook",
-    "star": "161"
+    "star": "160"
   },
   {
     "title": "neonbjb/tortoise-tts",
     "url": "https://github.com/neonbjb/tortoise-tts",
     "description": "A multi-voice TTS system trained with an emphasis on quality",
     "language": "Python",
-    "star": "74"
+    "star": "46"
   },
   {
     "title": "matter-labs/zksync-era",
     "url": "https://github.com/matter-labs/zksync-era",
     "description": "zkSync era",
     "language": "Rust",
-    "star": "18"
+    "star": "19"
   },
   {
     "title": "codebdy/rxdrag",
     "url": "https://github.com/codebdy/rxdrag",
     "description": "Design anything based on HTML, 可视化编辑， 设计一切基于HMTL的东西，模块化设计",
     "language": "TypeScript",
-    "star": "42"
+    "star": "35"
   }
 ]
