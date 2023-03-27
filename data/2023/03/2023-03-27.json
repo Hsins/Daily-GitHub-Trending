@@ -18,21 +18,21 @@
     "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
     "description": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
     "language": "TypeScript",
-    "star": "132"
+    "star": "130"
   },
   {
     "title": "binary-husky/chatgpt_academic",
     "url": "https://github.com/binary-husky/chatgpt_academic",
     "description": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
     "language": "Python",
-    "star": "417"
+    "star": "450"
   },
   {
     "title": "vincanger/coverlettergpt",
     "url": "https://github.com/vincanger/coverlettergpt",
     "description": "Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.",
     "language": "TypeScript",
-    "star": "29"
+    "star": "28"
   },
   {
     "title": "openai/chatgpt-retrieval-plugin",
@@ -53,21 +53,21 @@
     "url": "https://github.com/BlinkDL/RWKV-LM",
     "description": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.",
     "language": "Python",
-    "star": "246"
+    "star": "299"
   },
   {
     "title": "acantril/learn-cantrill-io-labs",
     "url": "https://github.com/acantril/learn-cantrill-io-labs",
     "description": "Standard and Advanced Demos for learn.cantrill.io courses",
     "language": "Python",
-    "star": "97"
+    "star": "94"
   },
   {
     "title": "ggerganov/whisper.cpp",
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "396"
+    "star": "400"
   },
   {
     "title": "excalidraw/excalidraw",
@@ -81,7 +81,7 @@
     "url": "https://github.com/databrickslabs/dolly",
     "description": "",
     "language": "Python",
-    "star": "500"
+    "star": "496"
   },
   {
     "title": "rust-lang/rust",
@@ -95,7 +95,7 @@
     "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
     "language": "none",
-    "star": "379"
+    "star": "406"
   },
   {
     "title": "liyupi/yu-auto-reply",
@@ -123,7 +123,7 @@
     "url": "https://github.com/LC1332/Chinese-alpaca-lora",
     "description": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
     "language": "Jupyter Notebook",
-    "star": "368"
+    "star": "230"
   },
   {
     "title": "files-community/Files",
@@ -137,7 +137,7 @@
     "url": "https://github.com/sahil280114/codealpaca",
     "description": "",
     "language": "Python",
-    "star": "287"
+    "star": "268"
   },
   {
     "title": "dice2o/BingGPT",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
     "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
     "language": "none",
-    "star": "104"
+    "star": "107"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
