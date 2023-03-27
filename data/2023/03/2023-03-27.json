@@ -18,21 +18,21 @@
     "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
     "description": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
     "language": "TypeScript",
-    "star": "130"
+    "star": "133"
   },
   {
     "title": "binary-husky/chatgpt_academic",
     "url": "https://github.com/binary-husky/chatgpt_academic",
     "description": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
     "language": "Python",
-    "star": "450"
+    "star": "422"
   },
   {
     "title": "vincanger/coverlettergpt",
     "url": "https://github.com/vincanger/coverlettergpt",
     "description": "Generate Cover Letters based on Job Description and your Resumé. Manage jobs and applications. Get Hired. Have fun. Be cool. Go to School.",
     "language": "TypeScript",
-    "star": "28"
+    "star": "27"
   },
   {
     "title": "openai/chatgpt-retrieval-plugin",
@@ -53,7 +53,7 @@
     "url": "https://github.com/BlinkDL/RWKV-LM",
     "description": "RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.",
     "language": "Python",
-    "star": "299"
+    "star": "262"
   },
   {
     "title": "acantril/learn-cantrill-io-labs",
@@ -74,28 +74,28 @@
     "url": "https://github.com/excalidraw/excalidraw",
     "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
     "language": "TypeScript",
-    "star": "183"
+    "star": "182"
   },
   {
     "title": "databrickslabs/dolly",
     "url": "https://github.com/databrickslabs/dolly",
     "description": "",
     "language": "Python",
-    "star": "496"
+    "star": "497"
   },
   {
     "title": "rust-lang/rust",
     "url": "https://github.com/rust-lang/rust",
     "description": "Empowering everyone to build reliable and efficient software.",
     "language": "Rust",
-    "star": "65"
+    "star": "72"
   },
   {
     "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
     "description": "A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more!",
     "language": "none",
-    "star": "406"
+    "star": "400"
   },
   {
     "title": "liyupi/yu-auto-reply",
@@ -137,21 +137,21 @@
     "url": "https://github.com/sahil280114/codealpaca",
     "description": "",
     "language": "Python",
-    "star": "268"
+    "star": "289"
   },
   {
     "title": "dice2o/BingGPT",
     "url": "https://github.com/dice2o/BingGPT",
     "description": "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",
     "language": "JavaScript",
-    "star": "245"
+    "star": "231"
   },
   {
     "title": "Picsart-AI-Research/Text2Video-Zero",
     "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
     "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
     "language": "none",
-    "star": "107"
+    "star": "245"
   },
   {
     "title": "f/awesome-chatgpt-prompts",
@@ -172,6 +172,6 @@
     "url": "https://github.com/apache/incubator-opendal",
     "description": "Apache OpenDAL: Access data freely, painlessly, and efficiently.",
     "language": "Rust",
-    "star": "10"
+    "star": "11"
   }
 ]
