@@ -1,0 +1,177 @@
+[
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "description": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "getcursor/cursor",
+    "url": "https://github.com/getcursor/cursor",
+    "description": "An editor made for programming with AI 🤖",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "MarsX-dev/floatui",
+    "url": "https://github.com/MarsX-dev/floatui",
+    "description": "Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.",
+    "language": "JavaScript",
+    "star": "262"
+  },
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "language": "Python",
+    "star": "788"
+  },
+  {
+    "title": "m1guelpf/browser-agent",
+    "url": "https://github.com/m1guelpf/browser-agent",
+    "description": "A browser AI agent, using GPT-4",
+    "language": "Rust",
+    "star": "59"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "description": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
+    "language": "TypeScript",
+    "star": "196"
+  },
+  {
+    "title": "haoel/haoel.github.io",
+    "url": "https://github.com/haoel/haoel.github.io",
+    "description": "",
+    "language": "Shell",
+    "star": "352"
+  },
+  {
+    "title": "gd3kr/BlenderGPT",
+    "url": "https://github.com/gd3kr/BlenderGPT",
+    "description": "Use commands in English to control Blender with OpenAI's GPT-4",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "keijiro/UnityMLStableDiffusion",
+    "url": "https://github.com/keijiro/UnityMLStableDiffusion",
+    "description": "Core ML Stable Diffusion on Unity",
+    "language": "C#",
+    "star": "54"
+  },
+  {
+    "title": "dice2o/BingGPT",
+    "url": "https://github.com/dice2o/BingGPT",
+    "description": "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",
+    "language": "JavaScript",
+    "star": "266"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "description": "A new bootable USB solution.",
+    "language": "C",
+    "star": "106"
+  },
+  {
+    "title": "Picsart-AI-Research/Text2Video-Zero",
+    "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
+    "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+    "language": "none",
+    "star": "242"
+  },
+  {
+    "title": "LC1332/Chinese-alpaca-lora",
+    "url": "https://github.com/LC1332/Chinese-alpaca-lora",
+    "description": "骆驼:A Chinese finetuned instruction LLaMA. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技",
+    "language": "Jupyter Notebook",
+    "star": "362"
+  },
+  {
+    "title": "openai/chatgpt-retrieval-plugin",
+    "url": "https://github.com/openai/chatgpt-retrieval-plugin",
+    "description": "The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "yuanzhoulvpi2017/zero_nlp",
+    "url": "https://github.com/yuanzhoulvpi2017/zero_nlp",
+    "description": "中文nlp应用(数据、模型、训练、推理)",
+    "language": "Jupyter Notebook",
+    "star": "20"
+  },
+  {
+    "title": "requarks/wiki",
+    "url": "https://github.com/requarks/wiki",
+    "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+    "language": "Vue",
+    "star": "17"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "language": "Rust",
+    "star": "38"
+  },
+  {
+    "title": "jiep/offensive-ai-compilation",
+    "url": "https://github.com/jiep/offensive-ai-compilation",
+    "description": "A curated list of useful resources that cover Offensive AI.",
+    "language": "HTML",
+    "star": "55"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "description": "Port of OpenAI's Whisper model in C/C++",
+    "language": "C",
+    "star": "447"
+  },
+  {
+    "title": "huggingface/peft",
+    "url": "https://github.com/huggingface/peft",
+    "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+    "language": "Python",
+    "star": "112"
+  },
+  {
+    "title": "codebdy/rxdrag",
+    "url": "https://github.com/codebdy/rxdrag",
+    "description": "Design anything based on HTML, 可视化编辑， 设计一切基于HTML的东西，模块化设计",
+    "language": "TypeScript",
+    "star": "39"
+  },
+  {
+    "title": "showlab/Tune-A-Video",
+    "url": "https://github.com/showlab/Tune-A-Video",
+    "description": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "language": "Python",
+    "star": "159"
+  },
+  {
+    "title": "libAudioFlux/audioFlux",
+    "url": "https://github.com/libAudioFlux/audioFlux",
+    "description": "A library for audio and music analysis, feature extraction.",
+    "language": "C",
+    "star": "140"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
+    "language": "Vue",
+    "star": "403"
+  },
+  {
+    "title": "fastfire/deepdarkCTI",
+    "url": "https://github.com/fastfire/deepdarkCTI",
+    "description": "Collection of Cyber Threat Intelligence sources from the deep and dark web",
+    "language": "none",
+    "star": "32"
+  }
+]
