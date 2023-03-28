@@ -25,28 +25,28 @@
     "url": "https://github.com/databrickslabs/dolly",
     "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
     "language": "Python",
-    "star": "788"
+    "star": "835"
   },
   {
     "title": "m1guelpf/browser-agent",
     "url": "https://github.com/m1guelpf/browser-agent",
     "description": "A browser AI agent, using GPT-4",
     "language": "Rust",
-    "star": "86"
+    "star": "59"
   },
   {
     "title": "Yidadaa/ChatGPT-Next-Web",
     "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
     "description": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
     "language": "TypeScript",
-    "star": "196"
+    "star": "245"
   },
   {
     "title": "haoel/haoel.github.io",
     "url": "https://github.com/haoel/haoel.github.io",
     "description": "",
     "language": "Shell",
-    "star": "356"
+    "star": "370"
   },
   {
     "title": "gd3kr/BlenderGPT",
@@ -60,28 +60,28 @@
     "url": "https://github.com/keijiro/UnityMLStableDiffusion",
     "description": "Core ML Stable Diffusion on Unity",
     "language": "C#",
-    "star": "64"
+    "star": "54"
   },
   {
     "title": "dice2o/BingGPT",
     "url": "https://github.com/dice2o/BingGPT",
     "description": "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",
     "language": "JavaScript",
-    "star": "266"
+    "star": "291"
   },
   {
     "title": "ventoy/Ventoy",
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "158"
+    "star": "106"
   },
   {
     "title": "Picsart-AI-Research/Text2Video-Zero",
     "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
     "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
     "language": "none",
-    "star": "239"
+    "star": "240"
   },
   {
     "title": "LC1332/Chinese-alpaca-lora",
@@ -116,7 +116,7 @@
     "url": "https://github.com/dani-garcia/vaultwarden",
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
     "language": "Rust",
-    "star": "39"
+    "star": "36"
   },
   {
     "title": "jiep/offensive-ai-compilation",
@@ -130,7 +130,7 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "448"
+    "star": "437"
   },
   {
     "title": "huggingface/peft",
@@ -151,7 +151,7 @@
     "url": "https://github.com/showlab/Tune-A-Video",
     "description": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
     "language": "Python",
-    "star": "171"
+    "star": "159"
   },
   {
     "title": "libAudioFlux/audioFlux",
@@ -165,7 +165,7 @@
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "416"
+    "star": "403"
   },
   {
     "title": "fastfire/deepdarkCTI",
