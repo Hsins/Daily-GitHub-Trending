@@ -32,7 +32,7 @@
     "url": "https://github.com/m1guelpf/browser-agent",
     "description": "A browser AI agent, using GPT-4",
     "language": "Rust",
-    "star": "86"
+    "star": "59"
   },
   {
     "title": "Yidadaa/ChatGPT-Next-Web",
@@ -46,7 +46,7 @@
     "url": "https://github.com/haoel/haoel.github.io",
     "description": "",
     "language": "Shell",
-    "star": "356"
+    "star": "352"
   },
   {
     "title": "gd3kr/BlenderGPT",
@@ -60,7 +60,7 @@
     "url": "https://github.com/keijiro/UnityMLStableDiffusion",
     "description": "Core ML Stable Diffusion on Unity",
     "language": "C#",
-    "star": "64"
+    "star": "54"
   },
   {
     "title": "dice2o/BingGPT",
@@ -74,14 +74,14 @@
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "158"
+    "star": "106"
   },
   {
     "title": "Picsart-AI-Research/Text2Video-Zero",
     "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
     "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
     "language": "none",
-    "star": "239"
+    "star": "242"
   },
   {
     "title": "LC1332/Chinese-alpaca-lora",
@@ -116,7 +116,7 @@
     "url": "https://github.com/dani-garcia/vaultwarden",
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
     "language": "Rust",
-    "star": "39"
+    "star": "38"
   },
   {
     "title": "jiep/offensive-ai-compilation",
@@ -130,7 +130,7 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "448"
+    "star": "447"
   },
   {
     "title": "huggingface/peft",
@@ -151,7 +151,7 @@
     "url": "https://github.com/showlab/Tune-A-Video",
     "description": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
     "language": "Python",
-    "star": "171"
+    "star": "159"
   },
   {
     "title": "libAudioFlux/audioFlux",
@@ -165,7 +165,7 @@
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "416"
+    "star": "403"
   },
   {
     "title": "fastfire/deepdarkCTI",
