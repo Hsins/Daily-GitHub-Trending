@@ -32,7 +32,7 @@
     "url": "https://github.com/m1guelpf/browser-agent",
     "description": "A browser AI agent, using GPT-4",
     "language": "Rust",
-    "star": "59"
+    "star": "86"
   },
   {
     "title": "Yidadaa/ChatGPT-Next-Web",
@@ -46,7 +46,7 @@
     "url": "https://github.com/haoel/haoel.github.io",
     "description": "",
     "language": "Shell",
-    "star": "352"
+    "star": "356"
   },
   {
     "title": "gd3kr/BlenderGPT",
@@ -60,7 +60,7 @@
     "url": "https://github.com/keijiro/UnityMLStableDiffusion",
     "description": "Core ML Stable Diffusion on Unity",
     "language": "C#",
-    "star": "54"
+    "star": "64"
   },
   {
     "title": "dice2o/BingGPT",
@@ -74,14 +74,14 @@
     "url": "https://github.com/ventoy/Ventoy",
     "description": "A new bootable USB solution.",
     "language": "C",
-    "star": "106"
+    "star": "158"
   },
   {
     "title": "Picsart-AI-Research/Text2Video-Zero",
     "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
     "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
     "language": "none",
-    "star": "242"
+    "star": "239"
   },
   {
     "title": "LC1332/Chinese-alpaca-lora",
@@ -100,7 +100,7 @@
   {
     "title": "yuanzhoulvpi2017/zero_nlp",
     "url": "https://github.com/yuanzhoulvpi2017/zero_nlp",
-    "description": "中文nlp应用(数据、模型、训练、推理)",
+    "description": "中文nlp应用(数据、模型、训练、推理) chatglm6b",
     "language": "Jupyter Notebook",
     "star": "20"
   },
@@ -116,7 +116,7 @@
     "url": "https://github.com/dani-garcia/vaultwarden",
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
     "language": "Rust",
-    "star": "38"
+    "star": "39"
   },
   {
     "title": "jiep/offensive-ai-compilation",
@@ -130,7 +130,7 @@
     "url": "https://github.com/ggerganov/whisper.cpp",
     "description": "Port of OpenAI's Whisper model in C/C++",
     "language": "C",
-    "star": "447"
+    "star": "448"
   },
   {
     "title": "huggingface/peft",
@@ -151,7 +151,7 @@
     "url": "https://github.com/showlab/Tune-A-Video",
     "description": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
     "language": "Python",
-    "star": "159"
+    "star": "171"
   },
   {
     "title": "libAudioFlux/audioFlux",
@@ -165,7 +165,7 @@
     "url": "https://github.com/Chanzhaoyu/chatgpt-web",
     "description": "用 Express 和 Vue3 搭建的 ChatGPT 演示网页",
     "language": "Vue",
-    "star": "403"
+    "star": "416"
   },
   {
     "title": "fastfire/deepdarkCTI",
