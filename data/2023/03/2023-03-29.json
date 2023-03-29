@@ -1,0 +1,177 @@
+[
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "description": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "Kent0n-Li/ChatDoctor",
+    "url": "https://github.com/Kent0n-Li/ChatDoctor",
+    "description": "",
+    "language": "Python",
+    "star": "287"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "description": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "getcursor/cursor",
+    "url": "https://github.com/getcursor/cursor",
+    "description": "An editor made for programming with AI 🤖",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "davinci1012/pinduoduo_backdoor_unpacker",
+    "url": "https://github.com/davinci1012/pinduoduo_backdoor_unpacker",
+    "description": "Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo",
+    "language": "Java",
+    "star": "56"
+  },
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "language": "Python",
+    "star": "736"
+  },
+  {
+    "title": "haoel/haoel.github.io",
+    "url": "https://github.com/haoel/haoel.github.io",
+    "description": "",
+    "language": "Shell",
+    "star": "439"
+  },
+  {
+    "title": "visual-openllm/visual-openllm",
+    "url": "https://github.com/visual-openllm/visual-openllm",
+    "description": "something like visual-chatgpt, 文心一言的开源版",
+    "language": "Python",
+    "star": "54"
+  },
+  {
+    "title": "snipe/snipe-it",
+    "url": "https://github.com/snipe/snipe-it",
+    "description": "A free open source IT asset/license management system",
+    "language": "PHP",
+    "star": "8"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "description": "A utility-first CSS framework for rapid UI development.",
+    "language": "HTML",
+    "star": "55"
+  },
+  {
+    "title": "lxfater/Portal",
+    "url": "https://github.com/lxfater/Portal",
+    "description": "",
+    "language": "TypeScript",
+    "star": "191"
+  },
+  {
+    "title": "logspace-ai/langflow",
+    "url": "https://github.com/logspace-ai/langflow",
+    "description": "⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.",
+    "language": "TypeScript",
+    "star": "361"
+  },
+  {
+    "title": "davinci1010/pinduoduo_backdoor",
+    "url": "https://github.com/davinci1010/pinduoduo_backdoor",
+    "description": "拼多多apk内嵌提权代码，及动态下发dex分析",
+    "language": "none",
+    "star": "102"
+  },
+  {
+    "title": "di-sukharev/opencommit",
+    "url": "https://github.com/di-sukharev/opencommit",
+    "description": "GPT CLI to auto-generate impressive commits in 1 second 🤯🔫",
+    "language": "TypeScript",
+    "star": "398"
+  },
+  {
+    "title": "PhoebusSi/Alpaca-CoT",
+    "url": "https://github.com/PhoebusSi/Alpaca-CoT",
+    "description": "We extend CoT data to Alpaca to boost its reasoning ability. We are constantly expanding our collection of instruction-tuning data. The instruction collection can be found at https://huggingface.co/datasets/QingyiSi/Alpaca-CoT/tree/main （我们将CoT数据扩展到Alpaca以提高其推理能力，同时我们将不断收集更多的instruction-tuning数据集。）",
+    "language": "Python",
+    "star": "42"
+  },
+  {
+    "title": "clue-ai/ChatYuan",
+    "url": "https://github.com/clue-ai/ChatYuan",
+    "description": "ChatYuan: Large Language Model for Dialogue in Chinese and English",
+    "language": "Python",
+    "star": "65"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "description": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "language": "TypeScript",
+    "star": "85"
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "description": "Building the best file manager experience for Windows",
+    "language": "C#",
+    "star": "20"
+  },
+  {
+    "title": "showlab/Tune-A-Video",
+    "url": "https://github.com/showlab/Tune-A-Video",
+    "description": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "language": "Python",
+    "star": "169"
+  },
+  {
+    "title": "getsentry/sentry",
+    "url": "https://github.com/getsentry/sentry",
+    "description": "Developer-first error tracking and performance monitoring",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "mayooear/gpt4-pdf-chatbot-langchain",
+    "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+    "description": "GPT4 & LangChain Chatbot for large PDF docs",
+    "language": "TypeScript",
+    "star": "435"
+  },
+  {
+    "title": "KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy",
+    "url": "https://github.com/KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy",
+    "description": "科学上网🟢🟢科学上网🔴🔴科学上网🟡🟡科学上网",
+    "language": "Python",
+    "star": "19"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Jupyter Notebook",
+    "star": "376"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "description": "⚡ Building applications with LLMs through composability ⚡",
+    "language": "Python",
+    "star": "703"
+  },
+  {
+    "title": "dalinvip/Awesome-ChatGPT",
+    "url": "https://github.com/dalinvip/Awesome-ChatGPT",
+    "description": "ChatGPT资料汇总学习，持续更新......",
+    "language": "none",
+    "star": "161"
+  }
+]
