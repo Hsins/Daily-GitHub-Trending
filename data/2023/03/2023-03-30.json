@@ -1,0 +1,177 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "description": "Making large AI models cheaper, faster and more accessible",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "description": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "Lightning-AI/lit-llama",
+    "url": "https://github.com/Lightning-AI/lit-llama",
+    "description": "Implementation of the LLaMA language model based on nanoGPT. Supports quantization, LoRA fine-tuning, pre-training. Apache 2.0-licensed.",
+    "language": "Python",
+    "star": "271"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "description": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "Bin-Huang/chatbox",
+    "url": "https://github.com/Bin-Huang/chatbox",
+    "description": "A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用",
+    "language": "TypeScript",
+    "star": "870"
+  },
+  {
+    "title": "davincifans101/pinduoduo_backdoor_detailed_report",
+    "url": "https://github.com/davincifans101/pinduoduo_backdoor_detailed_report",
+    "description": "Maybe the most detailed analysis of pdd backdoors",
+    "language": "none",
+    "star": "110"
+  },
+  {
+    "title": "davinci1012/pinduoduo_backdoor_unpacker",
+    "url": "https://github.com/davinci1012/pinduoduo_backdoor_unpacker",
+    "description": "Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo",
+    "language": "Java",
+    "star": "59"
+  },
+  {
+    "title": "showlab/Tune-A-Video",
+    "url": "https://github.com/showlab/Tune-A-Video",
+    "description": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "language": "Python",
+    "star": "492"
+  },
+  {
+    "title": "Kent0n-Li/ChatDoctor",
+    "url": "https://github.com/Kent0n-Li/ChatDoctor",
+    "description": "",
+    "language": "Python",
+    "star": "351"
+  },
+  {
+    "title": "nomic-ai/gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "description": "gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
+    "language": "Python",
+    "star": "5"
+  },
+  {
+    "title": "TaxyAI/browser-extension",
+    "url": "https://github.com/TaxyAI/browser-extension",
+    "description": "Automate your browser with GPT-4",
+    "language": "TypeScript",
+    "star": "895"
+  },
+  {
+    "title": "ZrrSkywalker/LLaMA-Adapter",
+    "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
+    "description": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
+    "language": "Python",
+    "star": "404"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "language": "Python",
+    "star": "259"
+  },
+  {
+    "title": "getcursor/cursor",
+    "url": "https://github.com/getcursor/cursor",
+    "description": "An editor made for programming with AI 🤖",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy",
+    "url": "https://github.com/KeXueShangWangkexue/KeXueShangWang_Google_Facebook_Twitter_VPN_VPS_Proxy",
+    "description": "科学上网🟢🟢科学上网🔴🔴科学上网🟡🟡科学上网",
+    "language": "Python",
+    "star": "40"
+  },
+  {
+    "title": "NafisiAslH/KnowledgeSharing",
+    "url": "https://github.com/NafisiAslH/KnowledgeSharing",
+    "description": "",
+    "language": "Python",
+    "star": "29"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...",
+    "language": "Python",
+    "star": "217"
+  },
+  {
+    "title": "Kamilahsantos/Java-week-LinuxTips",
+    "url": "https://github.com/Kamilahsantos/Java-week-LinuxTips",
+    "description": "Repositório com o conteúdo da Java Week da LinuxTips",
+    "language": "Java",
+    "star": "67"
+  },
+  {
+    "title": "visual-openllm/visual-openllm",
+    "url": "https://github.com/visual-openllm/visual-openllm",
+    "description": "something like visual-chatgpt, 文心一言的开源版",
+    "language": "Python",
+    "star": "70"
+  },
+  {
+    "title": "Picsart-AI-Research/Text2Video-Zero",
+    "url": "https://github.com/Picsart-AI-Research/Text2Video-Zero",
+    "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+    "language": "Python",
+    "star": "409"
+  },
+  {
+    "title": "davinci1010/pinduoduo_backdoor",
+    "url": "https://github.com/davinci1010/pinduoduo_backdoor",
+    "description": "拼多多apk内嵌提权代码，及动态下发dex分析",
+    "language": "none",
+    "star": "100"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "description": "🛁 Clean Code concepts adapted for JavaScript",
+    "language": "JavaScript",
+    "star": "99"
+  },
+  {
+    "title": "yzfly/awesome-chatgpt-zh",
+    "url": "https://github.com/yzfly/awesome-chatgpt-zh",
+    "description": "ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!",
+    "language": "none",
+    "star": "383"
+  },
+  {
+    "title": "arialdomartini/Back-End-Developer-Interview-Questions",
+    "url": "https://github.com/arialdomartini/Back-End-Developer-Interview-Questions",
+    "description": "A list of back-end related questions you can be inspired from to interview potential candidates, test yourself or completely ignore",
+    "language": "none",
+    "star": "17"
+  },
+  {
+    "title": "coral-xyz/backpack",
+    "url": "https://github.com/coral-xyz/backpack",
+    "description": "🎒 Next level crypto wallet",
+    "language": "TypeScript",
+    "star": "10"
+  }
+]
