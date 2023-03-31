@@ -67,7 +67,7 @@
     "url": "https://github.com/Bin-Huang/chatbox",
     "description": "A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用",
     "language": "TypeScript",
-    "star": "623"
+    "star": "624"
   },
   {
     "title": "gkamradt/langchain-tutorials",
@@ -165,7 +165,7 @@
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "501"
+    "star": "500"
   },
   {
     "title": "di-sukharev/opencommit",
