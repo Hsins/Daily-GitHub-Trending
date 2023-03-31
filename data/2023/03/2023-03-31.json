@@ -1,0 +1,177 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "description": "Making large AI models cheaper, faster and more accessible",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "nomic-ai/gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "description": "gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
+    "language": "Python",
+    "star": "4"
+  },
+  {
+    "title": "ZrrSkywalker/LLaMA-Adapter",
+    "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
+    "description": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
+    "language": "Python",
+    "star": "411"
+  },
+  {
+    "title": "TaxyAI/browser-extension",
+    "url": "https://github.com/TaxyAI/browser-extension",
+    "description": "Automate your browser with GPT-4",
+    "language": "TypeScript",
+    "star": "849"
+  },
+  {
+    "title": "Kent0n-Li/ChatDoctor",
+    "url": "https://github.com/Kent0n-Li/ChatDoctor",
+    "description": "",
+    "language": "Python",
+    "star": "535"
+  },
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "description": "科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能",
+    "language": "Python",
+    "star": "4"
+  },
+  {
+    "title": "PaperMC/Folia",
+    "url": "https://github.com/PaperMC/Folia",
+    "description": "Fork of Paper which adds regionised multithreading to the dedicated server.",
+    "language": "Kotlin",
+    "star": "248"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+    "language": "Python",
+    "star": "146"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "description": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "Bin-Huang/chatbox",
+    "url": "https://github.com/Bin-Huang/chatbox",
+    "description": "A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用",
+    "language": "TypeScript",
+    "star": "635"
+  },
+  {
+    "title": "gkamradt/langchain-tutorials",
+    "url": "https://github.com/gkamradt/langchain-tutorials",
+    "description": "Overview and tutorial of the LangChain Library",
+    "language": "Jupyter Notebook",
+    "star": "63"
+  },
+  {
+    "title": "vocodedev/vocode-python",
+    "url": "https://github.com/vocodedev/vocode-python",
+    "description": "🤖 Build voice-based LLM agents. Modular + open source.",
+    "language": "Python",
+    "star": "112"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "Jupyter Notebook",
+    "star": "641"
+  },
+  {
+    "title": "yzfly/awesome-chatgpt-zh",
+    "url": "https://github.com/yzfly/awesome-chatgpt-zh",
+    "description": "ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!",
+    "language": "none",
+    "star": "407"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...",
+    "language": "Python",
+    "star": "226"
+  },
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "description": "Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+    "language": "Python",
+    "star": "444"
+  },
+  {
+    "title": "osanseviero/ml_timeline",
+    "url": "https://github.com/osanseviero/ml_timeline",
+    "description": "",
+    "language": "none",
+    "star": "39"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "description": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
+    "language": "TypeScript",
+    "star": "217"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "language": "Python",
+    "star": "262"
+  },
+  {
+    "title": "snipe/snipe-it",
+    "url": "https://github.com/snipe/snipe-it",
+    "description": "A free open source IT asset/license management system",
+    "language": "PHP",
+    "star": "90"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "14"
+  },
+  {
+    "title": "mlfoundations/open_flamingo",
+    "url": "https://github.com/mlfoundations/open_flamingo",
+    "description": "An open-source framework for training large multimodal models",
+    "language": "Python",
+    "star": "154"
+  },
+  {
+    "title": "vfarid/cf-ip-scanner-py",
+    "url": "https://github.com/vfarid/cf-ip-scanner-py",
+    "description": "Cloudflare's IP Scanner in Python",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "language": "Rust",
+    "star": "505"
+  },
+  {
+    "title": "di-sukharev/opencommit",
+    "url": "https://github.com/di-sukharev/opencommit",
+    "description": "GPT CLI to auto-generate impressive commits in 1 second 🤯🔫",
+    "language": "TypeScript",
+    "star": "358"
+  }
+]
