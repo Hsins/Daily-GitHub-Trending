@@ -53,7 +53,7 @@
     "url": "https://github.com/karpathy/minGPT",
     "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
     "language": "Python",
-    "star": "57"
+    "star": "146"
   },
   {
     "title": "Yidadaa/ChatGPT-Next-Web",
@@ -67,14 +67,14 @@
     "url": "https://github.com/Bin-Huang/chatbox",
     "description": "A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用",
     "language": "TypeScript",
-    "star": "746"
+    "star": "623"
   },
   {
     "title": "gkamradt/langchain-tutorials",
     "url": "https://github.com/gkamradt/langchain-tutorials",
     "description": "Overview and tutorial of the LangChain Library",
     "language": "Jupyter Notebook",
-    "star": "41"
+    "star": "63"
   },
   {
     "title": "vocodedev/vocode-python",
@@ -88,7 +88,7 @@
     "url": "https://github.com/openai/openai-cookbook",
     "description": "Examples and guides for using the OpenAI API",
     "language": "Jupyter Notebook",
-    "star": "548"
+    "star": "641"
   },
   {
     "title": "yzfly/awesome-chatgpt-zh",
@@ -102,7 +102,7 @@
     "url": "https://github.com/mouredev/Hello-Python",
     "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. Más de 30 clases, 25 horas en vídeo, código y grupo de chat. Desde sus fundamentos hasta la creación de un API Backend con base de datos y más...",
     "language": "Python",
-    "star": "207"
+    "star": "226"
   },
   {
     "title": "microsoft/visual-chatgpt",
@@ -123,21 +123,21 @@
     "url": "https://github.com/immersive-translate/immersive-translate",
     "description": "Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展",
     "language": "TypeScript",
-    "star": "91"
+    "star": "217"
   },
   {
     "title": "ymcui/Chinese-LLaMA-Alpaca",
     "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
     "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
     "language": "Python",
-    "star": "277"
+    "star": "262"
   },
   {
     "title": "snipe/snipe-it",
     "url": "https://github.com/snipe/snipe-it",
     "description": "A free open source IT asset/license management system",
     "language": "PHP",
-    "star": "8"
+    "star": "90"
   },
   {
     "title": "hashicorp/vault",
@@ -151,7 +151,7 @@
     "url": "https://github.com/mlfoundations/open_flamingo",
     "description": "An open-source framework for training large multimodal models",
     "language": "Python",
-    "star": "153"
+    "star": "154"
   },
   {
     "title": "vfarid/cf-ip-scanner-py",
@@ -165,13 +165,13 @@
     "url": "https://github.com/lencx/ChatGPT",
     "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
     "language": "Rust",
-    "star": "514"
+    "star": "501"
   },
   {
     "title": "di-sukharev/opencommit",
     "url": "https://github.com/di-sukharev/opencommit",
     "description": "GPT CLI to auto-generate impressive commits in 1 second 🤯🔫",
     "language": "TypeScript",
-    "star": "137"
+    "star": "358"
   }
 ]
