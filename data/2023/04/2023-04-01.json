@@ -25,14 +25,14 @@
     "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
     "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
     "language": "Python",
-    "star": "257"
+    "star": "290"
   },
   {
     "title": "ZrrSkywalker/LLaMA-Adapter",
     "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
     "description": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
     "language": "Python",
-    "star": "304"
+    "star": "337"
   },
   {
     "title": "programthink/zhao",
@@ -46,7 +46,7 @@
     "url": "https://github.com/Bin-Huang/chatbox",
     "description": "A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用",
     "language": "TypeScript",
-    "star": "483"
+    "star": "501"
   },
   {
     "title": "helix-editor/helix",
@@ -60,7 +60,7 @@
     "url": "https://github.com/yzfly/awesome-chatgpt-zh",
     "description": "ChatGPT 中文指南，指令指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up!",
     "language": "none",
-    "star": "410"
+    "star": "539"
   },
   {
     "title": "PrefectHQ/marvin",
@@ -88,7 +88,7 @@
     "url": "https://github.com/nomic-ai/gpt4all",
     "description": "gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue",
     "language": "Python",
-    "star": "2"
+    "star": "1"
   },
   {
     "title": "hpcaitech/ColossalAI",
@@ -109,7 +109,7 @@
     "url": "https://github.com/thinkingjimmy/Learning-Prompt",
     "description": "免费 Prompt Engineering 教程",
     "language": "CSS",
-    "star": "256"
+    "star": "252"
   },
   {
     "title": "binary-husky/chatgpt_academic",
@@ -123,14 +123,14 @@
     "url": "https://github.com/mckaywrigley/chatbot-ui",
     "description": "An open source ChatGPT UI.",
     "language": "TypeScript",
-    "star": "494"
+    "star": "395"
   },
   {
     "title": "sqlchat/sqlchat",
     "url": "https://github.com/sqlchat/sqlchat",
     "description": "Chat-based SQL client for the next decade",
     "language": "TypeScript",
-    "star": "44"
+    "star": "39"
   },
   {
     "title": "twitter/twemoji",
@@ -151,7 +151,7 @@
     "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
     "description": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
     "language": "TypeScript",
-    "star": "934"
+    "star": "918"
   },
   {
     "title": "Chanzhaoyu/chatgpt-web",
@@ -165,13 +165,13 @@
     "url": "https://github.com/microsoft/visual-chatgpt",
     "description": "Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
     "language": "Python",
-    "star": "354"
+    "star": "394"
   },
   {
     "title": "lencx/nofwl",
     "url": "https://github.com/lencx/nofwl",
     "description": "NoFWL Desktop Application",
     "language": "Rust",
-    "star": "108"
+    "star": "107"
   }
 ]
