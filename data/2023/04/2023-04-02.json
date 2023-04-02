@@ -1,0 +1,177 @@
+[
+  {
+    "title": "twitter/the-algorithm",
+    "url": "https://github.com/twitter/the-algorithm",
+    "description": "Source code for Twitter's Recommendation Algorithm",
+    "language": "Scala",
+    "star": "10"
+  },
+  {
+    "title": "twitter/the-algorithm-ml",
+    "url": "https://github.com/twitter/the-algorithm-ml",
+    "description": "Source code for Twitter's Recommendation Algorithm",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "lm-sys/FastChat",
+    "url": "https://github.com/lm-sys/FastChat",
+    "description": "The release repo for \"Vicuna: An Open Chatbot Impressing GPT-4\"",
+    "language": "Python",
+    "star": "609"
+  },
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "description": "JARVIS, a system to connect LLMs with ML community",
+    "language": "Python",
+    "star": "276"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "description": "Port of Facebook's LLaMA model in C/C++",
+    "language": "C",
+    "star": "718"
+  },
+  {
+    "title": "mckaywrigley/ai-code-translator",
+    "url": "https://github.com/mckaywrigley/ai-code-translator",
+    "description": "Use AI to translate code from one language to another.",
+    "language": "TypeScript",
+    "star": "152"
+  },
+  {
+    "title": "hahahumble/speechgpt",
+    "url": "https://github.com/hahahumble/speechgpt",
+    "description": "SpeechGPT is a web application that enables you to converse with ChatGPT.",
+    "language": "TypeScript",
+    "star": "300"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "description": "A post-modern modal text editor.",
+    "language": "Rust",
+    "star": "128"
+  },
+  {
+    "title": "twitter/opensource-website",
+    "url": "https://github.com/twitter/opensource-website",
+    "description": "Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.",
+    "language": "SCSS",
+    "star": "31"
+  },
+  {
+    "title": "Synaptrix/ChatGPT-Desktop",
+    "url": "https://github.com/Synaptrix/ChatGPT-Desktop",
+    "description": "ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！",
+    "language": "Vue",
+    "star": "311"
+  },
+  {
+    "title": "ZrrSkywalker/LLaMA-Adapter",
+    "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
+    "description": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
+    "language": "Python",
+    "star": "190"
+  },
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "description": "🎤⌨️ Acoustic keyboard eavesdropping",
+    "language": "C++",
+    "star": "161"
+  },
+  {
+    "title": "moeakwak/chatgpt-web-share",
+    "url": "https://github.com/moeakwak/chatgpt-web-share",
+    "description": "A web application that allows multiple users to share one ChatGPT account at the same time, developed using unofficial ChatGPT API & fastapi & vue3. Supports GPT-4! 共享 ChatGPT 账号给多用户同时使用，可用于朋友之间共享或合租 ChatGPT 账号。使用 FastAPI + Vue3 开发。支持 ChatGPT Plus / 使用 GPT-4 / 用户请求限制等功能。",
+    "language": "Vue",
+    "star": "20"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "137"
+  },
+  {
+    "title": "Bin-Huang/chatbox",
+    "url": "https://github.com/Bin-Huang/chatbox",
+    "description": "A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用",
+    "language": "TypeScript",
+    "star": "324"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "language": "Python",
+    "star": "278"
+  },
+  {
+    "title": "twitter/twemoji",
+    "url": "https://github.com/twitter/twemoji",
+    "description": "Emoji for everyone. https://twemoji.twitter.com/",
+    "language": "HTML",
+    "star": "128"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "language": "Python",
+    "star": "264"
+  },
+  {
+    "title": "twitter/rezolus",
+    "url": "https://github.com/twitter/rezolus",
+    "description": "Systems performance telemetry",
+    "language": "Rust",
+    "star": "22"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "description": "Offline build planner for Path of Exile.",
+    "language": "Lua",
+    "star": "19"
+  },
+  {
+    "title": "twitter/GraphJet",
+    "url": "https://github.com/twitter/GraphJet",
+    "description": "GraphJet is a real-time graph processing library.",
+    "language": "Java",
+    "star": "11"
+  },
+  {
+    "title": "new-ai-company/ide",
+    "url": "https://github.com/new-ai-company/ide",
+    "description": "$NAME is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.",
+    "language": "Python",
+    "star": "207"
+  },
+  {
+    "title": "twitter/finagle",
+    "url": "https://github.com/twitter/finagle",
+    "description": "A fault tolerant, protocol-agnostic RPC system",
+    "language": "Scala",
+    "star": "3"
+  },
+  {
+    "title": "curl/urler",
+    "url": "https://github.com/curl/urler",
+    "description": "command line tool for URL parsing and manipulation",
+    "language": "C",
+    "star": "36"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "90"
+  }
+]
