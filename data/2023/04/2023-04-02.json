@@ -25,7 +25,7 @@
     "url": "https://github.com/microsoft/JARVIS",
     "description": "JARVIS, a system to connect LLMs with ML community",
     "language": "Python",
-    "star": "276"
+    "star": "290"
   },
   {
     "title": "ggerganov/llama.cpp",
@@ -39,49 +39,49 @@
     "url": "https://github.com/mckaywrigley/ai-code-translator",
     "description": "Use AI to translate code from one language to another.",
     "language": "TypeScript",
-    "star": "152"
+    "star": "157"
   },
   {
     "title": "hahahumble/speechgpt",
     "url": "https://github.com/hahahumble/speechgpt",
     "description": "SpeechGPT is a web application that enables you to converse with ChatGPT.",
     "language": "TypeScript",
-    "star": "300"
+    "star": "312"
   },
   {
     "title": "helix-editor/helix",
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "142"
+    "star": "121"
   },
   {
     "title": "twitter/opensource-website",
     "url": "https://github.com/twitter/opensource-website",
     "description": "Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.",
     "language": "SCSS",
-    "star": "31"
+    "star": "33"
   },
   {
     "title": "Synaptrix/ChatGPT-Desktop",
     "url": "https://github.com/Synaptrix/ChatGPT-Desktop",
     "description": "ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！",
     "language": "Vue",
-    "star": "311"
+    "star": "199"
   },
   {
     "title": "ZrrSkywalker/LLaMA-Adapter",
     "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
     "description": "Fine-tuning LLaMA to follow instructions within 1 Hour and 1.2M Parameters",
     "language": "Python",
-    "star": "190"
+    "star": "217"
   },
   {
     "title": "ggerganov/kbd-audio",
     "url": "https://github.com/ggerganov/kbd-audio",
     "description": "🎤⌨️ Acoustic keyboard eavesdropping",
     "language": "C++",
-    "star": "161"
+    "star": "163"
   },
   {
     "title": "moeakwak/chatgpt-web-share",
@@ -102,7 +102,7 @@
     "url": "https://github.com/Bin-Huang/chatbox",
     "description": "A desktop app for ChatGPT API (OpenAI API) that supports Windows, Mac & Linux. 开源的ChatGPT桌面应用，prompt 开发神器，全平台支持，下载安装包就能用",
     "language": "TypeScript",
-    "star": "324"
+    "star": "380"
   },
   {
     "title": "Torantulino/Auto-GPT",
@@ -116,14 +116,14 @@
     "url": "https://github.com/twitter/twemoji",
     "description": "Emoji for everyone. https://twemoji.twitter.com/",
     "language": "HTML",
-    "star": "128"
+    "star": "133"
   },
   {
     "title": "ymcui/Chinese-LLaMA-Alpaca",
     "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
     "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
     "language": "Python",
-    "star": "264"
+    "star": "270"
   },
   {
     "title": "twitter/rezolus",
@@ -137,14 +137,14 @@
     "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
     "description": "Offline build planner for Path of Exile.",
     "language": "Lua",
-    "star": "19"
+    "star": "14"
   },
   {
     "title": "twitter/GraphJet",
     "url": "https://github.com/twitter/GraphJet",
     "description": "GraphJet is a real-time graph processing library.",
     "language": "Java",
-    "star": "11"
+    "star": "27"
   },
   {
     "title": "new-ai-company/ide",
@@ -165,13 +165,13 @@
     "url": "https://github.com/curl/urler",
     "description": "command line tool for URL parsing and manipulation",
     "language": "C",
-    "star": "36"
+    "star": "40"
   },
   {
     "title": "microsoft/ML-For-Beginners",
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "90"
+    "star": "207"
   }
 ]
