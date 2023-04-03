@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "description": "Stable Diffusion with Core ML on Apple Silicon",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "description": "JARVIS, a system to connect LLMs with ML community",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "description": "Offline build planner for Path of Exile.",
+    "language": "Lua",
+    "star": "18"
+  },
+  {
+    "title": "mckaywrigley/ai-code-translator",
+    "url": "https://github.com/mckaywrigley/ai-code-translator",
+    "description": "Use AI to translate code from one language to another.",
+    "language": "TypeScript",
+    "star": "534"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "language": "none",
+    "star": "359"
+  },
+  {
+    "title": "hahahumble/speechgpt",
+    "url": "https://github.com/hahahumble/speechgpt",
+    "description": "SpeechGPT is a web application that enables you to converse with ChatGPT.",
+    "language": "TypeScript",
+    "star": "237"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "293"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "364"
+  },
+  {
+    "title": "lm-sys/FastChat",
+    "url": "https://github.com/lm-sys/FastChat",
+    "description": "The release repo for \"Vicuna: An Open Chatbot Impressing GPT-4\"",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "description": "The Magic Mask for Android",
+    "language": "C++",
+    "star": "35"
+  },
+  {
+    "title": "stochasticai/xturing",
+    "url": "https://github.com/stochasticai/xturing",
+    "description": "Build and control your own LLMs",
+    "language": "Python",
+    "star": "131"
+  },
+  {
+    "title": "rustformers/llama-rs",
+    "url": "https://github.com/rustformers/llama-rs",
+    "description": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
+    "language": "Rust",
+    "star": "151"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "description": "A post-modern modal text editor.",
+    "language": "Rust",
+    "star": "166"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "language": "Python",
+    "star": "281"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+    "language": "TypeScript",
+    "star": "115"
+  },
+  {
+    "title": "DarkFlippers/unleashed-firmware",
+    "url": "https://github.com/DarkFlippers/unleashed-firmware",
+    "description": "Flipper Zero Unleashed Firmware",
+    "language": "C",
+    "star": "56"
+  },
+  {
+    "title": "OptimalScale/LMFlow",
+    "url": "https://github.com/OptimalScale/LMFlow",
+    "description": "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All. 共建大模型社区，让每个人都训得起大模型。",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "twitter/the-algorithm",
+    "url": "https://github.com/twitter/the-algorithm",
+    "description": "Source code for Twitter's Recommendation Algorithm",
+    "language": "Scala",
+    "star": "6"
+  },
+  {
+    "title": "DeSinc/SallyBot",
+    "url": "https://github.com/DeSinc/SallyBot",
+    "description": "AI Chatbot coded in Discord.net C#",
+    "language": "C#",
+    "star": "27"
+  },
+  {
+    "title": "terrastruct/d2",
+    "url": "https://github.com/terrastruct/d2",
+    "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "language": "Go",
+    "star": "232"
+  },
+  {
+    "title": "Synaptrix/ChatGPT-Desktop",
+    "url": "https://github.com/Synaptrix/ChatGPT-Desktop",
+    "description": "ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！",
+    "language": "Vue",
+    "star": "160"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "581"
+  },
+  {
+    "title": "twitter/the-algorithm-ml",
+    "url": "https://github.com/twitter/the-algorithm-ml",
+    "description": "Source code for Twitter's Recommendation Algorithm",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "description": "一键拥有你自己的 ChatGPT 网页服务。 One-Click to deploy your own ChatGPT web UI.",
+    "language": "TypeScript",
+    "star": "1"
+  }
+]
