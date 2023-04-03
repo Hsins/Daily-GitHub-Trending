@@ -25,14 +25,14 @@
     "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
     "description": "Offline build planner for Path of Exile.",
     "language": "Lua",
-    "star": "53"
+    "star": "18"
   },
   {
     "title": "mckaywrigley/ai-code-translator",
     "url": "https://github.com/mckaywrigley/ai-code-translator",
     "description": "Use AI to translate code from one language to another.",
     "language": "TypeScript",
-    "star": "532"
+    "star": "534"
   },
   {
     "title": "sindresorhus/awesome",
@@ -46,21 +46,21 @@
     "url": "https://github.com/hahahumble/speechgpt",
     "description": "SpeechGPT is a web application that enables you to converse with ChatGPT.",
     "language": "TypeScript",
-    "star": "243"
+    "star": "245"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "300"
+    "star": "299"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "371"
+    "star": "384"
   },
   {
     "title": "lm-sys/FastChat",
@@ -88,21 +88,21 @@
     "url": "https://github.com/rustformers/llama-rs",
     "description": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
     "language": "Rust",
-    "star": "158"
+    "star": "156"
   },
   {
     "title": "helix-editor/helix",
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "169"
+    "star": "170"
   },
   {
     "title": "ymcui/Chinese-LLaMA-Alpaca",
     "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
     "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
     "language": "Python",
-    "star": "483"
+    "star": "281"
   },
   {
     "title": "gothinkster/realworld",
@@ -116,14 +116,14 @@
     "url": "https://github.com/DarkFlippers/unleashed-firmware",
     "description": "Flipper Zero Unleashed Firmware",
     "language": "C",
-    "star": "60"
+    "star": "59"
   },
   {
     "title": "OptimalScale/LMFlow",
     "url": "https://github.com/OptimalScale/LMFlow",
     "description": "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All. 共建大模型社区，让每个人都训得起大模型。",
     "language": "JavaScript",
-    "star": "916"
+    "star": "1"
   },
   {
     "title": "twitter/the-algorithm",
@@ -144,7 +144,7 @@
     "url": "https://github.com/terrastruct/d2",
     "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
     "language": "Go",
-    "star": "243"
+    "star": "247"
   },
   {
     "title": "Synaptrix/ChatGPT-Desktop",
@@ -158,7 +158,7 @@
     "url": "https://github.com/microsoft/ML-For-Beginners",
     "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
     "language": "Jupyter Notebook",
-    "star": "572"
+    "star": "569"
   },
   {
     "title": "twitter/the-algorithm-ml",
