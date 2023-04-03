@@ -25,7 +25,7 @@
     "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
     "description": "Offline build planner for Path of Exile.",
     "language": "Lua",
-    "star": "53"
+    "star": "18"
   },
   {
     "title": "mckaywrigley/ai-code-translator",
@@ -39,7 +39,7 @@
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "377"
+    "star": "376"
   },
   {
     "title": "hahahumble/speechgpt",
@@ -53,7 +53,7 @@
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "293"
+    "star": "299"
   },
   {
     "title": "EbookFoundation/free-programming-books",
@@ -81,14 +81,14 @@
     "url": "https://github.com/stochasticai/xturing",
     "description": "Build and control your own LLMs",
     "language": "Python",
-    "star": "136"
+    "star": "135"
   },
   {
     "title": "rustformers/llama-rs",
     "url": "https://github.com/rustformers/llama-rs",
     "description": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
     "language": "Rust",
-    "star": "160"
+    "star": "156"
   },
   {
     "title": "helix-editor/helix",
@@ -102,7 +102,7 @@
     "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
     "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
     "language": "Python",
-    "star": "481"
+    "star": "281"
   },
   {
     "title": "gothinkster/realworld",
@@ -123,7 +123,7 @@
     "url": "https://github.com/OptimalScale/LMFlow",
     "description": "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All. 共建大模型社区，让每个人都训得起大模型。",
     "language": "JavaScript",
-    "star": "913"
+    "star": "1"
   },
   {
     "title": "twitter/the-algorithm",
@@ -137,7 +137,7 @@
     "url": "https://github.com/DeSinc/SallyBot",
     "description": "AI Chatbot coded in Discord.net C#",
     "language": "C#",
-    "star": "26"
+    "star": "27"
   },
   {
     "title": "terrastruct/d2",
