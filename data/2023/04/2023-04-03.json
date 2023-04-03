@@ -32,35 +32,35 @@
     "url": "https://github.com/mckaywrigley/ai-code-translator",
     "description": "Use AI to translate code from one language to another.",
     "language": "TypeScript",
-    "star": "534"
+    "star": "539"
   },
   {
     "title": "sindresorhus/awesome",
     "url": "https://github.com/sindresorhus/awesome",
     "description": "😎 Awesome lists about all kinds of interesting topics",
     "language": "none",
-    "star": "359"
+    "star": "375"
   },
   {
     "title": "hahahumble/speechgpt",
     "url": "https://github.com/hahahumble/speechgpt",
     "description": "SpeechGPT is a web application that enables you to converse with ChatGPT.",
     "language": "TypeScript",
-    "star": "237"
+    "star": "243"
   },
   {
     "title": "donnemartin/system-design-primer",
     "url": "https://github.com/donnemartin/system-design-primer",
     "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
     "language": "Python",
-    "star": "293"
+    "star": "299"
   },
   {
     "title": "EbookFoundation/free-programming-books",
     "url": "https://github.com/EbookFoundation/free-programming-books",
     "description": "📚 Freely available programming books",
     "language": "none",
-    "star": "364"
+    "star": "367"
   },
   {
     "title": "lm-sys/FastChat",
@@ -74,7 +74,7 @@
     "url": "https://github.com/topjohnwu/Magisk",
     "description": "The Magic Mask for Android",
     "language": "C++",
-    "star": "35"
+    "star": "37"
   },
   {
     "title": "stochasticai/xturing",
@@ -88,14 +88,14 @@
     "url": "https://github.com/rustformers/llama-rs",
     "description": "Run LLaMA inference on CPU, with Rust 🦀🚀🦙",
     "language": "Rust",
-    "star": "151"
+    "star": "156"
   },
   {
     "title": "helix-editor/helix",
     "url": "https://github.com/helix-editor/helix",
     "description": "A post-modern modal text editor.",
     "language": "Rust",
-    "star": "166"
+    "star": "169"
   },
   {
     "title": "ymcui/Chinese-LLaMA-Alpaca",
@@ -116,7 +116,7 @@
     "url": "https://github.com/DarkFlippers/unleashed-firmware",
     "description": "Flipper Zero Unleashed Firmware",
     "language": "C",
-    "star": "56"
+    "star": "60"
   },
   {
     "title": "OptimalScale/LMFlow",
@@ -144,14 +144,14 @@
     "url": "https://github.com/terrastruct/d2",
     "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
     "language": "Go",
-    "star": "232"
+    "star": "234"
   },
   {
     "title": "Synaptrix/ChatGPT-Desktop",
     "url": "https://github.com/Synaptrix/ChatGPT-Desktop",
     "description": "ChatGPT 跨平台客户端，快捷键快速唤醒窗口，问答快人一步！",
     "language": "Vue",
-    "star": "160"
+    "star": "158"
   },
   {
     "title": "microsoft/ML-For-Beginners",
