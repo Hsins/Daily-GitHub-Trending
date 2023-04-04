@@ -1,0 +1,177 @@
+[
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "description": "JARVIS, a system to connect LLMs with ML community",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "OptimalScale/LMFlow",
+    "url": "https://github.com/OptimalScale/LMFlow",
+    "description": "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.",
+    "language": "JavaScript",
+    "star": "882"
+  },
+  {
+    "title": "lm-sys/FastChat",
+    "url": "https://github.com/lm-sys/FastChat",
+    "description": "The release repo for \"Vicuna: An Open Chatbot Impressing GPT-4\"",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "curl/trurl",
+    "url": "https://github.com/curl/trurl",
+    "description": "trurl is a command line tool for URL parsing and manipulation.",
+    "language": "C",
+    "star": "293"
+  },
+  {
+    "title": "mckaywrigley/ai-code-translator",
+    "url": "https://github.com/mckaywrigley/ai-code-translator",
+    "description": "Use AI to translate code from one language to another.",
+    "language": "TypeScript",
+    "star": "499"
+  },
+  {
+    "title": "godly-devotion/MochiDiffusion",
+    "url": "https://github.com/godly-devotion/MochiDiffusion",
+    "description": "Run Stable Diffusion on Mac natively",
+    "language": "Swift",
+    "star": "551"
+  },
+  {
+    "title": "twitter/opensource-website",
+    "url": "https://github.com/twitter/opensource-website",
+    "description": "Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.",
+    "language": "SCSS",
+    "star": "70"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "description": "中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)",
+    "language": "Python",
+    "star": "478"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "✅ The Node.js best practices list (March 2023)",
+    "language": "JavaScript",
+    "star": "182"
+  },
+  {
+    "title": "GammaTauAI/reflexion-human-eval",
+    "url": "https://github.com/GammaTauAI/reflexion-human-eval",
+    "description": "An implementation of a Reflexion agent for SOTA Human-Eval Python results.",
+    "language": "Python",
+    "star": "30"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "description": "Offline build planner for Path of Exile.",
+    "language": "Lua",
+    "star": "60"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+    "language": "Jupyter Notebook",
+    "star": "534"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "305"
+  },
+  {
+    "title": "dair-ai/ML-Papers-of-the-Week",
+    "url": "https://github.com/dair-ai/ML-Papers-of-the-Week",
+    "description": "🔥Highlighting the top ML papers every week.",
+    "language": "none",
+    "star": "126"
+  },
+  {
+    "title": "mayooear/gpt4-pdf-chatbot-langchain",
+    "url": "https://github.com/mayooear/gpt4-pdf-chatbot-langchain",
+    "description": "GPT4 & LangChain Chatbot for large PDF docs",
+    "language": "TypeScript",
+    "star": "398"
+  },
+  {
+    "title": "exaloop/codon",
+    "url": "https://github.com/exaloop/codon",
+    "description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
+    "language": "C++",
+    "star": "211"
+  },
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "description": "Stable Diffusion with Core ML on Apple Silicon",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "299"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "301"
+  },
+  {
+    "title": "igorbrigadir/awesome-twitter-algo",
+    "url": "https://github.com/igorbrigadir/awesome-twitter-algo",
+    "description": "The release of the Twitter algorithm, annotated for recsys",
+    "language": "none",
+    "star": "32"
+  },
+  {
+    "title": "THUDM/ChatGLM-6B",
+    "url": "https://github.com/THUDM/ChatGLM-6B",
+    "description": "ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model",
+    "language": "Python",
+    "star": "442"
+  },
+  {
+    "title": "teknium1/GPTeacher",
+    "url": "https://github.com/teknium1/GPTeacher",
+    "description": "A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer",
+    "language": "none",
+    "star": "65"
+  },
+  {
+    "title": "Facico/Chinese-Vicuna",
+    "url": "https://github.com/Facico/Chinese-Vicuna",
+    "description": "Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca",
+    "language": "C",
+    "star": "73"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "427"
+  }
+]
