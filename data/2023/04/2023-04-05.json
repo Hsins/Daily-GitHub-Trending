@@ -1,0 +1,177 @@
+[
+  {
+    "title": "yoheinakajima/babyagi",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "description": "",
+    "language": "Python",
+    "star": "455"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "description": "JARVIS, a system to connect LLMs with ML community",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "lm-sys/FastChat",
+    "url": "https://github.com/lm-sys/FastChat",
+    "description": "The release repo for \"Vicuna: An Open Chatbot Impressing GPT-4\"",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "OptimalScale/LMFlow",
+    "url": "https://github.com/OptimalScale/LMFlow",
+    "description": "An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Language Model for All.",
+    "language": "JavaScript",
+    "star": "454"
+  },
+  {
+    "title": "pandas-dev/pandas",
+    "url": "https://github.com/pandas-dev/pandas",
+    "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+    "language": "Python",
+    "star": "36"
+  },
+  {
+    "title": "terrastruct/d2",
+    "url": "https://github.com/terrastruct/d2",
+    "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+    "language": "Go",
+    "star": "155"
+  },
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "language": "Go",
+    "star": "313"
+  },
+  {
+    "title": "mckaywrigley/ai-code-translator",
+    "url": "https://github.com/mckaywrigley/ai-code-translator",
+    "description": "Use AI to translate code from one language to another.",
+    "language": "TypeScript",
+    "star": "290"
+  },
+  {
+    "title": "imClumsyPanda/langchain-ChatGLM",
+    "url": "https://github.com/imClumsyPanda/langchain-ChatGLM",
+    "description": "langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM",
+    "language": "Python",
+    "star": "83"
+  },
+  {
+    "title": "emcf/engshell",
+    "url": "https://github.com/emcf/engshell",
+    "description": "An English-language shell powered by LLMs",
+    "language": "Python",
+    "star": "82"
+  },
+  {
+    "title": "e2b-dev/e2b",
+    "url": "https://github.com/e2b-dev/e2b",
+    "description": "e2b (english2bits) is an IDE powered by AI agents. Developers describe what they want to build by writing documentation. Then let AI agents with access to tools do the coding work.",
+    "language": "Python",
+    "star": "782"
+  },
+  {
+    "title": "dair-ai/ML-Papers-of-the-Week",
+    "url": "https://github.com/dair-ai/ML-Papers-of-the-Week",
+    "description": "🔥Highlighting the top ML papers every week.",
+    "language": "none",
+    "star": "226"
+  },
+  {
+    "title": "barretlee/cloudflare-proxy",
+    "url": "https://github.com/barretlee/cloudflare-proxy",
+    "description": "Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出",
+    "language": "JavaScript",
+    "star": "35"
+  },
+  {
+    "title": "SkalskiP/courses",
+    "url": "https://github.com/SkalskiP/courses",
+    "description": "This repository is a curated collection of links to various courses and resources about Artificial Intelligence (AI)",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "curl/trurl",
+    "url": "https://github.com/curl/trurl",
+    "description": "trurl is a command line tool for URL parsing and manipulation.",
+    "language": "C",
+    "star": "542"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "language": "none",
+    "star": "273"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "language": "Python",
+    "star": "304"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "star": "529"
+  },
+  {
+    "title": "teknium1/GPTeacher",
+    "url": "https://github.com/teknium1/GPTeacher",
+    "description": "A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer",
+    "language": "none",
+    "star": "108"
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "description": "🥤 COLA: Clean Object-oriented & Layered Architecture",
+    "language": "Java",
+    "star": "6"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "description": "⚡ Building applications with LLMs through composability ⚡",
+    "language": "Python",
+    "star": "679"
+  },
+  {
+    "title": "misskey-dev/misskey",
+    "url": "https://github.com/misskey-dev/misskey",
+    "description": "🌎 An interplanetary microblogging platform 🚀",
+    "language": "TypeScript",
+    "star": "13"
+  },
+  {
+    "title": "l15y/wenda",
+    "url": "https://github.com/l15y/wenda",
+    "description": "闻达：一个大型语言模型调用平台。目前支持chatGLM-6B、chatRWKV、chatYuan和chatGLM-6B模型下的chatPDF（自建知识库查找）",
+    "language": "CSS",
+    "star": "41"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "description": "📚 Freely available programming books",
+    "language": "none",
+    "star": "409"
+  }
+]
