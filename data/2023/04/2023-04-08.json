@@ -67,7 +67,7 @@
     "url": "https://github.com/microsoft/PowerToys",
     "description": "Windows system utilities to maximize productivity",
     "language": "C#",
-    "star": "64"
+    "star": "93"
   },
   {
     "title": "imClumsyPanda/langchain-ChatGLM",
@@ -137,7 +137,7 @@
     "url": "https://github.com/oobabooga/text-generation-webui",
     "description": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.",
     "language": "Python",
-    "star": "227"
+    "star": "169"
   },
   {
     "title": "AUTOMATIC1111/stable-diffusion-webui",
