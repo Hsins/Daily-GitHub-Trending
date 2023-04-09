@@ -1,0 +1,177 @@
+[
+  {
+    "title": "IDEA-Research/Grounded-Segment-Anything",
+    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+    "description": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs",
+    "language": "Jupyter Notebook",
+    "star": "403"
+  },
+  {
+    "title": "yoheinakajima/babyagi",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "description": "",
+    "language": "Python",
+    "star": "660"
+  },
+  {
+    "title": "facebookresearch/segment-anything",
+    "url": "https://github.com/facebookresearch/segment-anything",
+    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "nomic-ai/gpt4all-ui",
+    "url": "https://github.com/nomic-ai/gpt4all-ui",
+    "description": "gpt4all chatbot ui",
+    "language": "JavaScript",
+    "star": "92"
+  },
+  {
+    "title": "facebook/buck2",
+    "url": "https://github.com/facebook/buck2",
+    "description": "Build system, successor to Buck",
+    "language": "Rust",
+    "star": "374"
+  },
+  {
+    "title": "Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "url": "https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "description": "",
+    "language": "HTML",
+    "star": "133"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "176"
+  },
+  {
+    "title": "chroma-core/chroma",
+    "url": "https://github.com/chroma-core/chroma",
+    "description": "the open source embedding database",
+    "language": "Python",
+    "star": "378"
+  },
+  {
+    "title": "Akegarasu/ChatGLM-webui",
+    "url": "https://github.com/Akegarasu/ChatGLM-webui",
+    "description": "A WebUI for ChatGLM-6B",
+    "language": "Python",
+    "star": "27"
+  },
+  {
+    "title": "vcheckzen/KeepAliveE5",
+    "url": "https://github.com/vcheckzen/KeepAliveE5",
+    "description": "",
+    "language": "Shell",
+    "star": "28"
+  },
+  {
+    "title": "imClumsyPanda/langchain-ChatGLM",
+    "url": "https://github.com/imClumsyPanda/langchain-ChatGLM",
+    "description": "langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识的 ChatGLM",
+    "language": "Python",
+    "star": "146"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
+    "language": "Python",
+    "star": "376"
+  },
+  {
+    "title": "l15y/wenda",
+    "url": "https://github.com/l15y/wenda",
+    "description": "闻达：一个LLM调用平台。旨在通过使用为小模型外挂知识库查找的方式，在不能涌现的前提下实现近似于大模型的生成能力",
+    "language": "CSS",
+    "star": "77"
+  },
+  {
+    "title": "Winfredy/SadTalker",
+    "url": "https://github.com/Winfredy/SadTalker",
+    "description": "（CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+    "language": "Python",
+    "star": "140"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "VideoCrafter/VideoCrafter",
+    "url": "https://github.com/VideoCrafter/VideoCrafter",
+    "description": "A Toolkit for Text-to-Video Generation and Editing",
+    "language": "Python",
+    "star": "231"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "language": "Python",
+    "star": "423"
+  },
+  {
+    "title": "BuilderIO/ai-shell",
+    "url": "https://github.com/BuilderIO/ai-shell",
+    "description": "A CLI that converts natural language to shell commands.",
+    "language": "TypeScript",
+    "star": "115"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "578"
+  },
+  {
+    "title": "ViperX7/Alpaca-Turbo",
+    "url": "https://github.com/ViperX7/Alpaca-Turbo",
+    "description": "Web UI to run alpaca model locally",
+    "language": "Python",
+    "star": "134"
+  },
+  {
+    "title": "TabbyML/tabby",
+    "url": "https://github.com/TabbyML/tabby",
+    "description": "Self-hosted AI coding assistant",
+    "language": "Python",
+    "star": "605"
+  },
+  {
+    "title": "THUDM/ChatGLM-6B",
+    "url": "https://github.com/THUDM/ChatGLM-6B",
+    "description": "ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model",
+    "language": "Python",
+    "star": "417"
+  },
+  {
+    "title": "emcf/engshell",
+    "url": "https://github.com/emcf/engshell",
+    "description": "An English-language shell for any OS, powered by LLMs",
+    "language": "Python",
+    "star": "250"
+  },
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
+    "language": "Go",
+    "star": "164"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "136"
+  }
+]
