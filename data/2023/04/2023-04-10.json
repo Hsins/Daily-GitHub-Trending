@@ -1,0 +1,177 @@
+[
+  {
+    "title": "IDEA-Research/Grounded-Segment-Anything",
+    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+    "description": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
+    "language": "Python",
+    "star": "374"
+  },
+  {
+    "title": "chroma-core/chroma",
+    "url": "https://github.com/chroma-core/chroma",
+    "description": "the open source embedding database",
+    "language": "Python",
+    "star": "376"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "319"
+  },
+  {
+    "title": "facebook/buck2",
+    "url": "https://github.com/facebook/buck2",
+    "description": "Build system, successor to Buck",
+    "language": "Rust",
+    "star": "222"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "star": "281"
+  },
+  {
+    "title": "Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "url": "https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "description": "",
+    "language": "HTML",
+    "star": "412"
+  },
+  {
+    "title": "Moonvy/OpenPromptStudio",
+    "url": "https://github.com/Moonvy/OpenPromptStudio",
+    "description": "🥣 AIGC 提示词可视化编辑器",
+    "language": "Vue",
+    "star": "208"
+  },
+  {
+    "title": "yoheinakajima/babyagi",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "description": "",
+    "language": "Python",
+    "star": "667"
+  },
+  {
+    "title": "ArroyoSystems/arroyo",
+    "url": "https://github.com/ArroyoSystems/arroyo",
+    "description": "Arroyo is a distributed stream processing engine written in Rust",
+    "language": "Rust",
+    "star": "198"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "description": "WebUI extension for ControlNet",
+    "language": "Python",
+    "star": "57"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "language": "Zig",
+    "star": "38"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "description": "Python - 100天从新手到大师",
+    "language": "Python",
+    "star": "244"
+  },
+  {
+    "title": "lvwerra/trl",
+    "url": "https://github.com/lvwerra/trl",
+    "description": "Train transformer language models with reinforcement learning.",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+    "language": "C++",
+    "star": "76"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "language": "Python",
+    "star": "335"
+  },
+  {
+    "title": "abetlen/llama-cpp-python",
+    "url": "https://github.com/abetlen/llama-cpp-python",
+    "description": "Python bindings for llama.cpp",
+    "language": "Python",
+    "star": "48"
+  },
+  {
+    "title": "guangzhengli/ChatFiles",
+    "url": "https://github.com/guangzhengli/ChatFiles",
+    "description": "Have a conversation with files ｜与你的文件对话",
+    "language": "TypeScript",
+    "star": "71"
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "description": "Python training for business analysts and traders",
+    "language": "Jupyter Notebook",
+    "star": "73"
+  },
+  {
+    "title": "nomic-ai/gpt4all-ui",
+    "url": "https://github.com/nomic-ai/gpt4all-ui",
+    "description": "gpt4all chatbot ui",
+    "language": "Python",
+    "star": "369"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+    "language": "Python",
+    "star": "100"
+  },
+  {
+    "title": "base-org/node",
+    "url": "https://github.com/base-org/node",
+    "description": "Everything required to run your own Base node",
+    "language": "Shell",
+    "star": "1"
+  },
+  {
+    "title": "prophesier/diff-svc",
+    "url": "https://github.com/prophesier/diff-svc",
+    "description": "Singing Voice Conversion via diffusion model",
+    "language": "Jupyter Notebook",
+    "star": "34"
+  },
+  {
+    "title": "Winfredy/SadTalker",
+    "url": "https://github.com/Winfredy/SadTalker",
+    "description": "（CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+    "language": "Python",
+    "star": "217"
+  },
+  {
+    "title": "dice2o/BingGPT",
+    "url": "https://github.com/dice2o/BingGPT",
+    "description": "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",
+    "language": "JavaScript",
+    "star": "605"
+  }
+]
