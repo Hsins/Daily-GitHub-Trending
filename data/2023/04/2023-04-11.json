@@ -1,0 +1,177 @@
+[
+  {
+    "title": "IDEA-Research/Grounded-Segment-Anything",
+    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+    "description": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper - Automatically Detect , Segment and Generate Anything with Image, Text, and Speech Inputs",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "reworkd/AgentGPT",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "language": "TypeScript",
+    "star": "257"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "479"
+  },
+  {
+    "title": "sdatkinson/neural-amp-modeler",
+    "url": "https://github.com/sdatkinson/neural-amp-modeler",
+    "description": "Neural network emulator for guitar amplifiers.",
+    "language": "Python",
+    "star": "124"
+  },
+  {
+    "title": "baaivision/Painter",
+    "url": "https://github.com/baaivision/Painter",
+    "description": "Painter & SegGPT Series: Vision Foundation Models from BAAI",
+    "language": "Python",
+    "star": "155"
+  },
+  {
+    "title": "Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "url": "https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "description": "",
+    "language": "HTML",
+    "star": "394"
+  },
+  {
+    "title": "nomic-ai/gpt4all-ui",
+    "url": "https://github.com/nomic-ai/gpt4all-ui",
+    "description": "gpt4all chatbot ui",
+    "language": "Python",
+    "star": "229"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "language": "TypeScript",
+    "star": "491"
+  },
+  {
+    "title": "l15y/wenda",
+    "url": "https://github.com/l15y/wenda",
+    "description": "闻达：一个LLM调用平台。旨在通过使用为小模型外挂知识库查找的方式，在不能涌现的前提下实现近似于大模型的生成能力",
+    "language": "CSS",
+    "star": "88"
+  },
+  {
+    "title": "Moonvy/OpenPromptStudio",
+    "url": "https://github.com/Moonvy/OpenPromptStudio",
+    "description": "🥣 AIGC 提示词可视化编辑器",
+    "language": "Vue",
+    "star": "575"
+  },
+  {
+    "title": "Winfredy/SadTalker",
+    "url": "https://github.com/Winfredy/SadTalker",
+    "description": "（CVPR 2023）SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+    "language": "Python",
+    "star": "147"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
+    "language": "Python",
+    "star": "653"
+  },
+  {
+    "title": "ohmplatform/FreedomGPT",
+    "url": "https://github.com/ohmplatform/FreedomGPT",
+    "description": "This codebase is for an React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)",
+    "language": "TypeScript",
+    "star": "71"
+  },
+  {
+    "title": "eon01/awesome-chatgpt",
+    "url": "https://github.com/eon01/awesome-chatgpt",
+    "description": "🧠 A curated list of awesome ChatGPT resources, including libraries, SDKs, APIs, and more. 🌟 Please consider supporting this project by giving it a star.",
+    "language": "none",
+    "star": "183"
+  },
+  {
+    "title": "biobootloader/wolverine",
+    "url": "https://github.com/biobootloader/wolverine",
+    "description": "",
+    "language": "Python",
+    "star": "150"
+  },
+  {
+    "title": "chroma-core/chroma",
+    "url": "https://github.com/chroma-core/chroma",
+    "description": "the open source embedding database",
+    "language": "Python",
+    "star": "450"
+  },
+  {
+    "title": "IDEA-Research/GroundingDINO",
+    "url": "https://github.com/IDEA-Research/GroundingDINO",
+    "description": "The official implementation of \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+    "language": "Python",
+    "star": "151"
+  },
+  {
+    "title": "THUDM/ChatGLM-6B",
+    "url": "https://github.com/THUDM/ChatGLM-6B",
+    "description": "ChatGLM-6B：开源双语对话语言模型 | An Open Bilingual Dialogue Language Model",
+    "language": "Python",
+    "star": "627"
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "description": "C++那些事",
+    "language": "C++",
+    "star": "95"
+  },
+  {
+    "title": "hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "url": "https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "description": "This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.",
+    "language": "Jupyter Notebook",
+    "star": "48"
+  },
+  {
+    "title": "TabbyML/tabby",
+    "url": "https://github.com/TabbyML/tabby",
+    "description": "Self-hosted AI coding assistant",
+    "language": "Python",
+    "star": "866"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "324"
+  },
+  {
+    "title": "liujing04/Retrieval-based-Voice-Conversion-WebUI",
+    "url": "https://github.com/liujing04/Retrieval-based-Voice-Conversion-WebUI",
+    "description": "",
+    "language": "Python",
+    "star": "91"
+  },
+  {
+    "title": "base-org/node",
+    "url": "https://github.com/base-org/node",
+    "description": "Everything required to run your own Base node",
+    "language": "Shell",
+    "star": "1"
+  },
+  {
+    "title": "tangly1024/NotionNext",
+    "url": "https://github.com/tangly1024/NotionNext",
+    "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。",
+    "language": "JavaScript",
+    "star": "41"
+  }
+]
