@@ -1,0 +1,177 @@
+[
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "language": "TypeScript",
+    "star": "562"
+  },
+  {
+    "title": "reworkd/AgentGPT",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "language": "TypeScript",
+    "star": "2"
+  },
+  {
+    "title": "ohmplatform/FreedomGPT",
+    "url": "https://github.com/ohmplatform/FreedomGPT",
+    "description": "This codebase is for an React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)",
+    "language": "TypeScript",
+    "star": "199"
+  },
+  {
+    "title": "IDEA-Research/Grounded-Segment-Anything",
+    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+    "description": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper - Automatically Detect , Segment and Generate Anything with Image, Text, and Speech Inputs",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "anuragxel/salt",
+    "url": "https://github.com/anuragxel/salt",
+    "description": "Segment Anything Labelling Tool",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "BuilderIO/ai-shell",
+    "url": "https://github.com/BuilderIO/ai-shell",
+    "description": "A CLI that converts natural language to shell commands.",
+    "language": "TypeScript",
+    "star": "180"
+  },
+  {
+    "title": "IDEA-Research/GroundingDINO",
+    "url": "https://github.com/IDEA-Research/GroundingDINO",
+    "description": "The official implementation of \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+    "language": "Python",
+    "star": "175"
+  },
+  {
+    "title": "soulteary/docker-prompt-generator",
+    "url": "https://github.com/soulteary/docker-prompt-generator",
+    "description": "Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。",
+    "language": "Python",
+    "star": "77"
+  },
+  {
+    "title": "sail-sg/EditAnything",
+    "url": "https://github.com/sail-sg/EditAnything",
+    "description": "Edit anything in images powered by segment-anything, ControlNet, StableDiffusion, etc.",
+    "language": "Python",
+    "star": "212"
+  },
+  {
+    "title": "aress31/burpgpt",
+    "url": "https://github.com/aress31/burpgpt",
+    "description": "A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.",
+    "language": "Java",
+    "star": "123"
+  },
+  {
+    "title": "ravenscroftj/turbopilot",
+    "url": "https://github.com/ravenscroftj/turbopilot",
+    "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+    "language": "Python",
+    "star": "957"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "TypeScript",
+    "star": "57"
+  },
+  {
+    "title": "biobootloader/wolverine",
+    "url": "https://github.com/biobootloader/wolverine",
+    "description": "",
+    "language": "Python",
+    "star": "488"
+  },
+  {
+    "title": "langchain-ai/langchain-template-supabase",
+    "url": "https://github.com/langchain-ai/langchain-template-supabase",
+    "description": "",
+    "language": "TypeScript",
+    "star": "43"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "464"
+  },
+  {
+    "title": "microsoft/DeepSpeedExamples",
+    "url": "https://github.com/microsoft/DeepSpeedExamples",
+    "description": "Example models using DeepSpeed",
+    "language": "Python",
+    "star": "274"
+  },
+  {
+    "title": "hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "url": "https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "description": "This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.",
+    "language": "Jupyter Notebook",
+    "star": "348"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "language": "Python",
+    "star": "7"
+  },
+  {
+    "title": "kevmo314/magic-copy",
+    "url": "https://github.com/kevmo314/magic-copy",
+    "description": "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
+    "language": "TypeScript",
+    "star": "305"
+  },
+  {
+    "title": "josStorer/chatGPTBox",
+    "url": "https://github.com/josStorer/chatGPTBox",
+    "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
+    "language": "JavaScript",
+    "star": "122"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
+    "language": "Python",
+    "star": "269"
+  },
+  {
+    "title": "underlines/awesome-marketing-datascience",
+    "url": "https://github.com/underlines/awesome-marketing-datascience",
+    "description": "Collection of useful Datascience things across the web",
+    "language": "none",
+    "star": "49"
+  },
+  {
+    "title": "base-org/node",
+    "url": "https://github.com/base-org/node",
+    "description": "Everything required to run your own Base node",
+    "language": "Shell",
+    "star": "905"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+    "language": "Python",
+    "star": "128"
+  },
+  {
+    "title": "bfeber/HLA-NoVR",
+    "url": "https://github.com/bfeber/HLA-NoVR",
+    "description": "NO VR Script for Half-Life: Alyx",
+    "language": "Lua",
+    "star": "20"
+  }
+]
