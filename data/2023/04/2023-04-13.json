@@ -1,0 +1,177 @@
+[
+  {
+    "title": "reworkd/AgentGPT",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "language": "TypeScript",
+    "star": "3"
+  },
+  {
+    "title": "biobootloader/wolverine",
+    "url": "https://github.com/biobootloader/wolverine",
+    "description": "",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "ravenscroftj/turbopilot",
+    "url": "https://github.com/ravenscroftj/turbopilot",
+    "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+    "language": "Python",
+    "star": "745"
+  },
+  {
+    "title": "eumemic/ai-legion",
+    "url": "https://github.com/eumemic/ai-legion",
+    "description": "An LLM-powered autonomous agent platform",
+    "language": "TypeScript",
+    "star": "125"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "ohmplatform/FreedomGPT",
+    "url": "https://github.com/ohmplatform/FreedomGPT",
+    "description": "This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)",
+    "language": "TypeScript",
+    "star": "349"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "fudan-zvg/Semantic-Segment-Anything",
+    "url": "https://github.com/fudan-zvg/Semantic-Segment-Anything",
+    "description": "Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).",
+    "language": "Python",
+    "star": "66"
+  },
+  {
+    "title": "continue-revolution/sd-webui-segment-anything",
+    "url": "https://github.com/continue-revolution/sd-webui-segment-anything",
+    "description": "Segment Anything for Stable Diffusion Webui",
+    "language": "Python",
+    "star": "93"
+  },
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/DeepSpeedExamples",
+    "url": "https://github.com/microsoft/DeepSpeedExamples",
+    "description": "Example models using DeepSpeed",
+    "language": "Python",
+    "star": "725"
+  },
+  {
+    "title": "kevmo314/magic-copy",
+    "url": "https://github.com/kevmo314/magic-copy",
+    "description": "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
+    "language": "TypeScript",
+    "star": "334"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "328"
+  },
+  {
+    "title": "hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "url": "https://github.com/hemansnation/God-Level-Data-Science-ML-Full-Stack",
+    "description": "This roadmap contains 16 Chapters that can be completed in 8 months, whether you are a fresher in the field or an experienced professional who wants to transition into Data Science.",
+    "language": "Jupyter Notebook",
+    "star": "344"
+  },
+  {
+    "title": "agiresearch/OpenAGI",
+    "url": "https://github.com/agiresearch/OpenAGI",
+    "description": "OpenAGI: When LLM Meets Domain Experts",
+    "language": "Jupyter Notebook",
+    "star": "240"
+  },
+  {
+    "title": "anuragxel/salt",
+    "url": "https://github.com/anuragxel/salt",
+    "description": "Segment Anything Labelling Tool",
+    "language": "Python",
+    "star": "241"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "description": "A powerful JavaScript library for interacting with the Discord API",
+    "language": "TypeScript",
+    "star": "209"
+  },
+  {
+    "title": "Tencent/libpag",
+    "url": "https://github.com/Tencent/libpag",
+    "description": "The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.",
+    "language": "C++",
+    "star": "81"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "language": "TypeScript",
+    "star": "770"
+  },
+  {
+    "title": "ItsPi3141/alpaca-electron",
+    "url": "https://github.com/ItsPi3141/alpaca-electron",
+    "description": "An even simpler way to run Alpaca",
+    "language": "JavaScript",
+    "star": "78"
+  },
+  {
+    "title": "IDEA-Research/Grounded-Segment-Anything",
+    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+    "description": "Marrying Grounding DINO with Segment Anything & Stable Diffusion & BLIP & Whisper - Automatically Detect , Segment and Generate Anything with Image, Text, and Speech Inputs",
+    "language": "Jupyter Notebook",
+    "star": "573"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "language": "Python",
+    "star": "293"
+  },
+  {
+    "title": "bfeber/HLA-NoVR",
+    "url": "https://github.com/bfeber/HLA-NoVR",
+    "description": "NO VR Script for Half-Life: Alyx",
+    "language": "Lua",
+    "star": "81"
+  },
+  {
+    "title": "xx025/carrot",
+    "url": "https://github.com/xx025/carrot",
+    "description": "Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点",
+    "language": "none",
+    "star": "227"
+  },
+  {
+    "title": "vivo/MoonBox",
+    "url": "https://github.com/vivo/MoonBox",
+    "description": "月光宝盒：无侵入的流量录制与回放平台 A server-side traffic capture and replay platform with noninvasive",
+    "language": "Java",
+    "star": "16"
+  }
+]
