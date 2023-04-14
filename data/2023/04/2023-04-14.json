@@ -1,0 +1,177 @@
+[
+  {
+    "title": "openai/consistency_models",
+    "url": "https://github.com/openai/consistency_models",
+    "description": "Official repo for consistency models.",
+    "language": "Python",
+    "star": "969"
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "description": "An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "language": "Python",
+    "star": "13"
+  },
+  {
+    "title": "reworkd/AgentGPT",
+    "url": "https://github.com/reworkd/AgentGPT",
+    "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+    "language": "TypeScript",
+    "star": "3"
+  },
+  {
+    "title": "databrickslabs/dolly",
+    "url": "https://github.com/databrickslabs/dolly",
+    "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "microsoft/DeepSpeedExamples",
+    "url": "https://github.com/microsoft/DeepSpeedExamples",
+    "description": "Example models using DeepSpeed",
+    "language": "Python",
+    "star": "707"
+  },
+  {
+    "title": "biobootloader/wolverine",
+    "url": "https://github.com/biobootloader/wolverine",
+    "description": "",
+    "language": "Python",
+    "star": "743"
+  },
+  {
+    "title": "ohmplatform/FreedomGPT",
+    "url": "https://github.com/ohmplatform/FreedomGPT",
+    "description": "This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface (based on Alpaca Lora)",
+    "language": "TypeScript",
+    "star": "194"
+  },
+  {
+    "title": "alexrozanski/LlamaChat",
+    "url": "https://github.com/alexrozanski/LlamaChat",
+    "description": "Chat with your favourite LLaMA models in a native macOS app",
+    "language": "Swift",
+    "star": "77"
+  },
+  {
+    "title": "ravenscroftj/turbopilot",
+    "url": "https://github.com/ravenscroftj/turbopilot",
+    "description": "Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
+    "language": "Python",
+    "star": "537"
+  },
+  {
+    "title": "NVIDIAGameWorks/rtx-remix",
+    "url": "https://github.com/NVIDIAGameWorks/rtx-remix",
+    "description": "Combined repo for the RTX-Remix runtime",
+    "language": "none",
+    "star": "177"
+  },
+  {
+    "title": "daveshap/REMO_Framework",
+    "url": "https://github.com/daveshap/REMO_Framework",
+    "description": "Rolling Episodic Memory Organizer (REMO) for autonomous AI systems",
+    "language": "Python",
+    "star": "35"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+    "language": "TypeScript",
+    "star": "288"
+  },
+  {
+    "title": "ConnectAI-E/Feishu-OpenAI",
+    "url": "https://github.com/ConnectAI-E/Feishu-OpenAI",
+    "description": "🎒飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+    "language": "Go",
+    "star": "137"
+  },
+  {
+    "title": "kevmo314/magic-copy",
+    "url": "https://github.com/kevmo314/magic-copy",
+    "description": "Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
+    "language": "TypeScript",
+    "star": "394"
+  },
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "description": "✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite3、Pinia、Element-Plus 开源的一套后台管理框架。",
+    "language": "Vue",
+    "star": "19"
+  },
+  {
+    "title": "NVIDIAGameWorks/dxvk-remix",
+    "url": "https://github.com/NVIDIAGameWorks/dxvk-remix",
+    "description": "",
+    "language": "C++",
+    "star": "20"
+  },
+  {
+    "title": "toeverything/AFFiNE",
+    "url": "https://github.com/toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+    "language": "TypeScript",
+    "star": "169"
+  },
+  {
+    "title": "DataTalksClub/mlops-zoomcamp",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+    "description": "Free MLOps course from DataTalks.Club",
+    "language": "Jupyter Notebook",
+    "star": "20"
+  },
+  {
+    "title": "diego3g/rsxp-2023",
+    "url": "https://github.com/diego3g/rsxp-2023",
+    "description": "Repositório contendo o código do app do RS/XP 2023",
+    "language": "TypeScript",
+    "star": "7"
+  },
+  {
+    "title": "agiresearch/OpenAGI",
+    "url": "https://github.com/agiresearch/OpenAGI",
+    "description": "OpenAGI: When LLM Meets Domain Experts",
+    "language": "Jupyter Notebook",
+    "star": "219"
+  },
+  {
+    "title": "skills/introduction-to-github",
+    "url": "https://github.com/skills/introduction-to-github",
+    "description": "Get started using GitHub in less than an hour.",
+    "language": "none",
+    "star": "20"
+  },
+  {
+    "title": "eumemic/ai-legion",
+    "url": "https://github.com/eumemic/ai-legion",
+    "description": "An LLM-powered autonomous agent platform",
+    "language": "TypeScript",
+    "star": "216"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "description": "A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.",
+    "language": "Python",
+    "star": "351"
+  },
+  {
+    "title": "fudan-zvg/Semantic-Segment-Anything",
+    "url": "https://github.com/fudan-zvg/Semantic-Segment-Anything",
+    "description": "Automated dense category annotation engine that serves as the initial semantic labeling for the Segment Anything dataset (SA-1B).",
+    "language": "Python",
+    "star": "220"
+  }
+]
