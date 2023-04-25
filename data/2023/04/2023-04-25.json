@@ -1,0 +1,177 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…",
+    "language": "Rust",
+    "star": "647"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "decentralising the Ai Industry, free gpt-4/3.5 scripts through several reverse engineered api's ( poe.com, phind.com, chat.openai.com, phind.com, writesonic.com, sqlchat.ai, t3nsor.com, you.com etc...)",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An Artificial Intelligence Automation Platform. AI Instruction management from various providers, has an adaptive memory, and a versatile plugin system with many commands including web browsing. Supports many AI providers and models and growing support every day.",
+    "language": "Python",
+    "star": "180"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用",
+    "language": "TypeScript",
+    "star": "125"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "bloop is a fast code search engine written in Rust.",
+    "language": "TypeScript",
+    "star": "373"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins",
+    "language": "Python",
+    "star": "116"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.",
+    "language": "C#",
+    "star": "40"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤖 Self-hosted, community-driven simple local OpenAI-compatible API written in go. Can be used as a drop-in replacement for OpenAI, running on CPU with consumer-grade hardware. Supports ggml compatible models, for instance: LLaMA, alpaca, gpt4all, vicuna, koala, gpt4all-j, cerebras",
+    "language": "Go",
+    "star": "106"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Polaris is a modular implementation of the Ethereum Virtual Machine (EVM). It can be easily integrated into any consensus engine or application, including the Cosmos-SDK.",
+    "language": "Go",
+    "star": "55"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "⚖️ AI 法律助手",
+    "language": "TypeScript",
+    "star": "437"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.",
+    "language": "Python",
+    "star": "114"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "Python",
+    "star": "74"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🔊 Text-Prompted Generative Audio Model",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open-source tool-augmented conversational language model from Fudan University",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A terminal for a more modern age",
+    "language": "TypeScript",
+    "star": "106"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Codes for \"Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models\".",
+    "language": "Jupyter Notebook",
+    "star": "74"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Odin Programming Language",
+    "language": "Odin",
+    "star": "57"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!",
+    "language": "Python",
+    "star": "139"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "ChatGPT interface with better UI",
+    "language": "Python",
+    "star": "211"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "HuggingLLM, Hugging Future.",
+    "language": "Jupyter Notebook",
+    "star": "213"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "language": "Java",
+    "star": "200"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🐢 Magical shell history",
+    "language": "Rust",
+    "star": "146"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。 开源项目，非产品试用！！！",
+    "language": "JavaScript",
+    "star": "227"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Home Page: https://pyscript.net Examples: https://pyscript.net/examples",
+    "language": "Python",
+    "star": "63"
+  }
+]
