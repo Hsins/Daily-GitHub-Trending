@@ -9,16 +9,16 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "",
+    "description": "Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",
     "language": "Python",
-    "star": "784"
+    "star": "1"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions",
+    "description": "Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.",
     "language": "Python",
-    "star": "162"
+    "star": "63"
   },
   {
     "title": "",
@@ -30,16 +30,9 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Official implementation of the paper \"Segment Everything Everywhere All at Once\"",
+    "description": "",
     "language": "Python",
-    "star": "166"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "Display and control your Android device",
-    "language": "C",
-    "star": "252"
+    "star": "784"
   },
   {
     "title": "",
@@ -51,6 +44,13 @@
   {
     "title": "",
     "url": "https://github.comundefined",
+    "description": "",
+    "language": "TypeScript",
+    "star": "29"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
     "description": "Scheduling infrastructure for absolutely everyone.",
     "language": "TypeScript",
     "star": "190"
@@ -58,51 +58,37 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "A Cloudflare's Worker script to gather free v2ray configs and mix them with worker in order to make them work over filtered networks.",
-    "language": "TypeScript",
-    "star": "33"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "decentralising the Ai Industry, just some language model api's...",
+    "description": "Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集",
     "language": "Python",
-    "star": "2"
+    "star": "24"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational",
+    "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
     "language": "Python",
-    "star": "382"
+    "star": "42"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "",
-    "language": "TypeScript",
-    "star": "126"
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "star": "16"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
-    "language": "none",
-    "star": "323"
+    "description": "A simple bot that uses Selenium to farm Microsoft Rewards written in Python",
+    "language": "Python",
+    "star": "21"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Source code for Twitter's Recommendation Algorithm",
-    "language": "Scala",
-    "star": "161"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "💊 Application to use ReVanced on Android",
-    "language": "Dart",
-    "star": "78"
+    "description": "WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions",
+    "language": "Python",
+    "star": "162"
   },
   {
     "title": "",
@@ -114,16 +100,65 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Social networking technology created by Bluesky",
-    "language": "TypeScript",
-    "star": "169"
+    "description": "💊 Application to use ReVanced on Android",
+    "language": "Dart",
+    "star": "78"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Drag & drop UI to build your customized LLM flow using LangchainJS",
-    "language": "JavaScript",
-    "star": "181"
+    "description": "decentralising the Ai Industry, just some language model api's...",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A youtube-dl fork with additional features and fixes",
+    "language": "Python",
+    "star": "75"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "language": "Makefile",
+    "star": "190"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Agent techniques to augment your LLM and push it beyong its limits",
+    "language": "Python",
+    "star": "53"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A memory safe implementation of sudo and su.",
+    "language": "Rust",
+    "star": "170"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+    "language": "Dart",
+    "star": "21"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+    "language": "Vue",
+    "star": "48"
   },
   {
     "title": "",
@@ -135,43 +170,8 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters",
-    "language": "Python",
-    "star": "141"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "🧩 Patches for ReVanced",
-    "language": "Kotlin",
-    "star": "47"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
-    "language": "Rust",
-    "star": "149"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.",
-    "language": "Rust",
-    "star": "92"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "FoundationDB - the open source, distributed, transactional key-value store",
-    "language": "C++",
-    "star": "110"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "The automation tower defense RTS",
-    "language": "Java",
-    "star": "89"
+    "description": "Flipper Zero firmware source code",
+    "language": "C",
+    "star": "17"
   }
 ]
