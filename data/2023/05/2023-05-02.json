@@ -2,13 +2,6 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head",
-    "language": "Python",
-    "star": "1"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
     "description": "Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",
     "language": "Python",
     "star": "1"
@@ -16,23 +9,51 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Free AUTOGPT with NO API is a repository that offers a simple version of Autogpt, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone.",
-    "language": "Jupyter Notebook",
-    "star": "354"
+    "description": "Scheduling infrastructure for absolutely everyone.",
+    "language": "TypeScript",
+    "star": "177"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)",
-    "language": "none",
-    "star": "335"
+    "description": "Drag & drop UI to build your customized LLM flow using LangchainJS",
+    "language": "JavaScript",
+    "star": "85"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "",
+    "description": "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head",
     "language": "Python",
-    "star": "423"
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A memory safe implementation of sudo and su.",
+    "language": "Rust",
+    "star": "340"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational",
+    "language": "Python",
+    "star": "396"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "decentralising the Ai Industry, just some language model api's...",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Fix issues with AI-generated pull requests, powered by ChatGPT",
+    "language": "Python",
+    "star": "71"
   },
   {
     "title": "",
@@ -45,120 +66,22 @@
     "title": "",
     "url": "https://github.comundefined",
     "description": "",
-    "language": "TypeScript",
-    "star": "69"
+    "language": "Java",
+    "star": "6"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Scheduling infrastructure for absolutely everyone.",
-    "language": "TypeScript",
-    "star": "177"
+    "description": "FoundationDB - the open source, distributed, transactional key-value store",
+    "language": "C++",
+    "star": "27"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Chinese-LLaMA基础模型；ChatFlow中文对话模型；NLP预训练/指令微调数据集",
-    "language": "Python",
-    "star": "99"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
-    "language": "Python",
-    "star": "200"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "🏡 Open source home automation that puts local control and privacy first.",
-    "language": "Python",
-    "star": "140"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "A simple bot that uses Selenium to farm Microsoft Rewards written in Python",
-    "language": "Python",
-    "star": "131"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "WizardLM: Empowering Large Pre-Trained Language Models to Follow Complex Instructions",
-    "language": "Python",
-    "star": "148"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "Flipper Zero Unleashed Firmware",
-    "language": "C",
-    "star": "119"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "💊 Application to use ReVanced on Android",
-    "language": "Dart",
-    "star": "88"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "decentralising the Ai Industry, just some language model api's...",
-    "language": "Python",
-    "star": "3"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "A youtube-dl fork with additional features and fixes",
-    "language": "Python",
-    "star": "165"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
-    "language": "Makefile",
-    "star": "267"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "Agent techniques to augment your LLM and push it beyong its limits",
-    "language": "Python",
-    "star": "96"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "",
-    "language": "Python",
-    "star": "55"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "A memory safe implementation of sudo and su.",
-    "language": "Rust",
-    "star": "340"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
-    "language": "Dart",
-    "star": "150"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-    "language": "Vue",
-    "star": "223"
+    "description": "Minetest is an open source voxel game engine with easy modding and game creation",
+    "language": "C++",
+    "star": "12"
   },
   {
     "title": "",
@@ -170,8 +93,85 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Flipper Zero firmware source code",
-    "language": "C",
-    "star": "171"
+    "description": "",
+    "language": "Python",
+    "star": "423"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "49"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "Python",
+    "star": "55"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "provides metadata for networkIDs and chainIDs",
+    "language": "Kotlin",
+    "star": "12"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。",
+    "language": "none",
+    "star": "45"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🏡 Open source home automation that puts local control and privacy first.",
+    "language": "Python",
+    "star": "140"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "TypeScript",
+    "star": "69"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.",
+    "language": "Python",
+    "star": "38"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Design patterns implemented in Java",
+    "language": "Java",
+    "star": "35"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Google Research",
+    "language": "Jupyter Notebook",
+    "star": "18"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+    "language": "Go",
+    "star": "13"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "lua `fork` of vim-web-devicons for neovim",
+    "language": "Lua",
+    "star": "2"
   }
 ]
