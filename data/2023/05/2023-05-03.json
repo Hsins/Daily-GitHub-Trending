@@ -53,7 +53,7 @@
     "url": "https://github.comundefined",
     "description": "Fix issues with AI-generated pull requests, powered by ChatGPT",
     "language": "Python",
-    "star": "71"
+    "star": "162"
   },
   {
     "title": "",
@@ -67,7 +67,7 @@
     "url": "https://github.comundefined",
     "description": "",
     "language": "Java",
-    "star": "6"
+    "star": "74"
   },
   {
     "title": "",
@@ -81,7 +81,7 @@
     "url": "https://github.comundefined",
     "description": "Minetest is an open source voxel game engine with easy modding and game creation",
     "language": "C++",
-    "star": "12"
+    "star": "75"
   },
   {
     "title": "",
@@ -102,7 +102,7 @@
     "url": "https://github.comundefined",
     "description": "吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版",
     "language": "Jupyter Notebook",
-    "star": "64"
+    "star": "261"
   },
   {
     "title": "",
@@ -123,7 +123,7 @@
     "url": "https://github.comundefined",
     "description": "提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日8时重新构建规则。",
     "language": "none",
-    "star": "45"
+    "star": "93"
   },
   {
     "title": "",
@@ -144,21 +144,21 @@
     "url": "https://github.comundefined",
     "description": "FigmaChain is a set of Python scripts that generate HTML/CSS code based on Figma designs. Using OpenAI's GPT-3 model, FigmaChain enables developers to quickly generate HTML/CSS code from a Figma design input. It also includes a Streamlit-based chatbot interface for interactive code generation.",
     "language": "Python",
-    "star": "38"
+    "star": "198"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
     "description": "Design patterns implemented in Java",
     "language": "Java",
-    "star": "35"
+    "star": "98"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
     "description": "Google Research",
     "language": "Jupyter Notebook",
-    "star": "18"
+    "star": "140"
   },
   {
     "title": "",
@@ -172,6 +172,6 @@
     "url": "https://github.comundefined",
     "description": "lua `fork` of vim-web-devicons for neovim",
     "language": "Lua",
-    "star": "2"
+    "star": "34"
   }
 ]
