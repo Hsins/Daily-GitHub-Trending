@@ -172,6 +172,6 @@
     "url": "https://github.comundefined",
     "description": "A project demonstrating Lidar related AI solutions, including three GPU accelerated Lidar/camera DL networks (PointPillars, CenterPoint, BEVFusion) and the related libs (cuPCL, 3D SparseConvolution, YUV2RGB, cuOSD,).",
     "language": "C++",
-    "star": "126"
+    "star": "36"
   }
 ]
