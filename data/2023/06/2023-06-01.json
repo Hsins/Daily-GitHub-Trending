@@ -2,7 +2,7 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "大麦网自动购票, 支持docker一键部署。Damai.com automatic ticket purchase, docker one-click installation.",
+    "description": "大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.",
     "language": "Rust",
     "star": "309"
   },
