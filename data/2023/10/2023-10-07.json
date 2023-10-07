@@ -1,0 +1,177 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+    "language": "Python",
+    "star": "419"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+    "language": "Python",
+    "star": "246"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+    "language": "JavaScript",
+    "star": "336"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration.",
+    "language": "Go",
+    "star": "95"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.",
+    "language": "Java",
+    "star": "193"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "GPT-powered chat for documentation, chat with your documents",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Langchain + Docker + Neo4j",
+    "language": "Python",
+    "star": "45"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "JVector: the most advanced embedded vector search engine",
+    "language": "Java",
+    "star": "518"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The official Python library for the OpenAI API",
+    "language": "Python",
+    "star": "301"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Source code of Ferrocene, safety-critical Rust toolchain",
+    "language": "Rust",
+    "star": "122"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "91"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "CNCF Jaeger, a Distributed Tracing Platform",
+    "language": "Go",
+    "star": "4"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Get up and running with Llama 2 and other large language models locally",
+    "language": "Go",
+    "star": "185"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "star": "73"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "language": "C",
+    "star": "46"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.",
+    "language": "Rust",
+    "star": "82"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "language": "C++",
+    "star": "30"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "These are the best resources for System Design on the Internet",
+    "language": "none",
+    "star": "70"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+    "language": "JavaScript",
+    "star": "168"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "TypeScript",
+    "star": "30"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The open source Firebase alternative. Follow to stay updated about our public Beta.",
+    "language": "TypeScript",
+    "star": "51"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Clean Architecture Solution Template for ASP.NET Core",
+    "language": "C#",
+    "star": "58"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "PoC for CVE-2023-4911",
+    "language": "C",
+    "star": "85"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+    "language": "Python",
+    "star": "23"
+  }
+]
