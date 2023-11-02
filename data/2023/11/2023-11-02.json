@@ -32,7 +32,7 @@
     "url": "https://github.comundefined",
     "description": "OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。",
     "language": "Python",
-    "star": "774"
+    "star": "604"
   },
   {
     "title": "",
@@ -158,7 +158,7 @@
     "url": "https://github.comundefined",
     "description": "C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs",
     "language": "C++",
-    "star": "47"
+    "star": "59"
   },
   {
     "title": "",
