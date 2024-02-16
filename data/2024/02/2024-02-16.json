@@ -1,0 +1,177 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": ".NET news, announcements, release notes, and more!",
+    "language": "PowerShell",
+    "star": "103"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "JavaScript",
+    "star": "275"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The uncompromising Python code formatter",
+    "language": "Python",
+    "star": "118"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Simple inference with StableCascade using diffusers in ComfyUI",
+    "language": "Python",
+    "star": "28"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AI note-taking app that runs models locally.",
+    "language": "TypeScript",
+    "star": "933"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM",
+    "language": "Python",
+    "star": "194"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "zkSync era",
+    "language": "Rust",
+    "star": "72"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain",
+    "language": "TypeScript",
+    "star": "170"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Natural Language Programming",
+    "language": "Go",
+    "star": "51"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A UI-Focused Agent for Windows OS Interaction.",
+    "language": "Python",
+    "star": "57"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+    "language": "TypeScript",
+    "star": "206"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A performant, 100% open-source, contributor-friendly zkVM.",
+    "language": "Rust",
+    "star": "71"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+    "language": "Vue",
+    "star": "138"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Record voice notes & transcribe, summarize, and get tasks",
+    "language": "TypeScript",
+    "star": "243"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild",
+    "language": "Python",
+    "star": "88"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A smarter cd command. Supports all major shells.",
+    "language": "Rust",
+    "star": "325"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "Python",
+    "star": "196"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Style and Grammar Checker for 25+ Languages",
+    "language": "Java",
+    "star": "114"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.",
+    "language": "C++",
+    "star": "54"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "101"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "language": "TypeScript",
+    "star": "255"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+    "language": "Jupyter Notebook",
+    "star": "21"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
+    "language": "Python",
+    "star": "80"
+  }
+]
