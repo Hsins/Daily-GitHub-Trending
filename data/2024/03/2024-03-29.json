@@ -25,7 +25,7 @@
     "url": "https://github.comundefined",
     "description": "A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.",
     "language": "C",
-    "star": "71"
+    "star": "1"
   },
   {
     "title": "",
@@ -88,7 +88,7 @@
     "url": "https://github.comundefined",
     "description": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",
     "language": "C",
-    "star": "144"
+    "star": "286"
   },
   {
     "title": "",
