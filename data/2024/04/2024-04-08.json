@@ -102,7 +102,7 @@
     "url": "https://github.comundefined",
     "description": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",
     "language": "C",
-    "star": "183"
+    "star": "60"
   },
   {
     "title": "",
