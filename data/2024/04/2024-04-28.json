@@ -128,7 +128,7 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing, prompt playground, datasets, LLM evaluations -- 🍊YC W23 🤖 integrate via Typescript, Python / Decorators, OpenAI, Langchain, LlamaIndex, Litellm, Instructor, Mistral, Perplexity, Claude, Gemini, Vertex",
+    "description": "🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. 🍊YC W23",
     "language": "TypeScript",
     "star": "208"
   },
@@ -165,13 +165,13 @@
     "url": "https://github.comundefined",
     "description": "Lightning-fast and Powerful Code Editor written in Rust",
     "language": "Rust",
-    "star": "50"
+    "star": "86"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
     "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
     "language": "Jupyter Notebook",
-    "star": "63"
+    "star": "65"
   }
 ]
