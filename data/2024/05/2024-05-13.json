@@ -4,14 +4,14 @@
     "url": "https://github.comundefined",
     "description": "Tool to statically recompile N64 games into native executables",
     "language": "C++",
-    "star": "361"
+    "star": "732"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
     "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)",
     "language": "C++",
-    "star": "555"
+    "star": "713"
   },
   {
     "title": "",
@@ -88,7 +88,7 @@
     "url": "https://github.comundefined",
     "description": "Lumina-T2X is a unified framework for Text to Any Modality Generation",
     "language": "Python",
-    "star": "92"
+    "star": "170"
   },
   {
     "title": "",
@@ -130,7 +130,7 @@
     "url": "https://github.comundefined",
     "description": "Start building LLM-empowered multi-agent applications in an easier way.",
     "language": "Python",
-    "star": "207"
+    "star": "228"
   },
   {
     "title": "",
@@ -151,7 +151,7 @@
     "url": "https://github.comundefined",
     "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
     "language": "Python",
-    "star": "155"
+    "star": "171"
   },
   {
     "title": "",
