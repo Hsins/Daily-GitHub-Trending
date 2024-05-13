@@ -1,0 +1,177 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Tool to statically recompile N64 games into native executables",
+    "language": "C++",
+    "star": "361"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)",
+    "language": "C++",
+    "star": "555"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+    "language": "TypeScript",
+    "star": "989"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.",
+    "language": "C++",
+    "star": "117"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A self-hosted dashboard that puts all your feeds in one place",
+    "language": "Go",
+    "star": "508"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+    "language": "Svelte",
+    "star": "511"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Gemma 2B with 10M context length using Infini-attention.",
+    "language": "Python",
+    "star": "210"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Collection of handy online tools for developers, with great UX.",
+    "language": "Vue",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Simple UI examples from my social media",
+    "language": "HTML",
+    "star": "238"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "Python",
+    "star": "213"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+    "language": "TypeScript",
+    "star": "45"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+    "language": "Python",
+    "star": "167"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Lumina-T2X is a unified framework for Text to Any Modality Generation",
+    "language": "Python",
+    "star": "92"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+    "language": "Python",
+    "star": "169"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A local chatbot fine-tuned by bilibili user comments.",
+    "language": "Python",
+    "star": "317"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "none",
+    "star": "70"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "Python",
+    "star": "17"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+    "language": "Rust",
+    "star": "180"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Start building LLM-empowered multi-agent applications in an easier way.",
+    "language": "Python",
+    "star": "207"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙",
+    "language": "none",
+    "star": "251"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+    "language": "JavaScript",
+    "star": "156"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+    "language": "Python",
+    "star": "155"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Web Client for Jellyfin",
+    "language": "JavaScript",
+    "star": "4"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "pppwn",
+    "language": "Python",
+    "star": "18"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The Free Software Media System",
+    "language": "C#",
+    "star": "68"
+  }
+]
