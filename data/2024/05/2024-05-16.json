@@ -1,0 +1,177 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+    "language": "TypeScript",
+    "star": "424"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+    "language": "Rust",
+    "star": "194"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A local chatbot fine-tuned by bilibili user comments.",
+    "language": "Python",
+    "star": "181"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A collection of guides and examples for the Gemini API.",
+    "language": "Jupyter Notebook",
+    "star": "126"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Hackbat repository",
+    "language": "HTML",
+    "star": "65"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A self-hosted dashboard that puts all your feeds in one place",
+    "language": "Go",
+    "star": "655"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open-source alternative to Ngrok, designed to serve production traffic and be simple to host (particularly on Kubernetes)",
+    "language": "Go",
+    "star": "265"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding",
+    "language": "Python",
+    "star": "268"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Tool to statically recompile N64 games into native executables",
+    "language": "C++",
+    "star": "983"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Samples showcasing the experimental Kotlin Multiplatform Jetpack libraries",
+    "language": "Kotlin",
+    "star": "46"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Build AI Assistants with memory, knowledge and tools.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+    "language": "TypeScript",
+    "star": "343"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The library for web and native user interfaces.",
+    "language": "JavaScript",
+    "star": "185"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "language": "TypeScript",
+    "star": "193"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源模型",
+    "language": "Jupyter Notebook",
+    "star": "242"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Focus on prompting and generating",
+    "language": "Python",
+    "star": "175"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "基于大模型搭建的聊天机器人，同时支持 微信 公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+    "language": "Python",
+    "star": "85"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Examples and guides for using the OpenAI API",
+    "language": "MDX",
+    "star": "75"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "Python",
+    "star": "193"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+    "language": "Python",
+    "star": "82"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "none",
+    "star": "143"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Odoo. Open Source Apps To Grow Your Business.",
+    "language": "Python",
+    "star": "45"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Free and Open, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "star": "122"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Brand new TTS solution",
+    "language": "Python",
+    "star": "161"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+    "language": "TypeScript",
+    "star": "112"
+  }
+]
