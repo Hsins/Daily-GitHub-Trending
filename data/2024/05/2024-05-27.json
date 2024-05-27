@@ -9,7 +9,7 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+    "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
     "language": "Python",
     "star": "1"
   },
@@ -116,7 +116,7 @@
     "url": "https://github.comundefined",
     "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
     "language": "JavaScript",
-    "star": "181"
+    "star": "71"
   },
   {
     "title": "",
