@@ -60,7 +60,7 @@
     "url": "https://github.comundefined",
     "description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.",
     "language": "C++",
-    "star": "4"
+    "star": "36"
   },
   {
     "title": "",
@@ -88,14 +88,14 @@
     "url": "https://github.comundefined",
     "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
     "language": "C#",
-    "star": "2"
+    "star": "12"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
     "description": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
     "language": "C#",
-    "star": "116"
+    "star": "123"
   },
   {
     "title": "",
@@ -137,6 +137,6 @@
     "url": "https://github.comundefined",
     "description": "GoogleTest - Google Testing and Mocking Framework",
     "language": "C++",
-    "star": "11"
+    "star": "16"
   }
 ]
