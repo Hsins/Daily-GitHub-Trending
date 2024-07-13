@@ -1,0 +1,100 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "language": "Java",
+    "star": "564"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Self-hosted AI coding assistant",
+    "language": "Rust",
+    "star": "256"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "85"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+    "language": "Python",
+    "star": "298"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop",
+    "language": "JavaScript",
+    "star": "29"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "star": "37"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "language": "Go",
+    "star": "42"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "492"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+    "language": "Python",
+    "star": "203"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+    "language": "Rust",
+    "star": "19"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🛡️ Make your web services secure by default !",
+    "language": "Python",
+    "star": "322"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "LLM training in simple, raw C/CUDA",
+    "language": "Cuda",
+    "star": "113"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference",
+    "language": "C++",
+    "star": "13"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "44"
+  }
+]
