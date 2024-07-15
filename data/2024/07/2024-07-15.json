@@ -1,0 +1,128 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "language": "Java",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+    "language": "Python",
+    "star": "356"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "498"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A package build system for Termux.",
+    "language": "Shell",
+    "star": "49"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "star": "47"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A drop-in replacement of Redis with SQL-based realtime reactivity.",
+    "language": "Go",
+    "star": "66"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The universal proxy platform",
+    "language": "Go",
+    "star": "79"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "PCSX2 - The Playstation 2 Emulator",
+    "language": "C++",
+    "star": "28"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "343"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "star": "204"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+    "language": "JavaScript",
+    "star": "58"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Focus on prompting and generating",
+    "language": "Python",
+    "star": "39"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A post-modern modal text editor.",
+    "language": "Rust",
+    "star": "57"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Neo4j graph construction from unstructured data using LLMs",
+    "language": "Jupyter Notebook",
+    "star": "55"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+    "language": "Python",
+    "star": "11"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Linux shell for iOS",
+    "language": "C",
+    "star": "10"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+    "language": "C++",
+    "star": "13"
+  }
+]
