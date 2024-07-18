@@ -1,0 +1,93 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "o armazém de livros",
+    "language": "none",
+    "star": "209"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+    "language": "C#",
+    "star": "97"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+    "language": "Rust",
+    "star": "143"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.",
+    "language": "JavaScript",
+    "star": "382"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Python toolkit for quantitative finance",
+    "language": "Jupyter Notebook",
+    "star": "118"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The memory layer for Personalized AI",
+    "language": "Python",
+    "star": "213"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+    "language": "Python",
+    "star": "74"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "star": "210"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",
+    "language": "Python",
+    "star": "66"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Abseil Common Libraries (C++)",
+    "language": "C++",
+    "star": "41"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
+    "language": "Go",
+    "star": "16"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+    "language": "JavaScript",
+    "star": "76"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more",
+    "language": "Python",
+    "star": "10"
+  }
+]
