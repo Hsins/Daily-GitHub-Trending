@@ -1,0 +1,114 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+    "language": "TypeScript",
+    "star": "267"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "JavaScript",
+    "star": "562"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+    "language": "Dart",
+    "star": "453"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+    "language": "Go",
+    "star": "19"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "language": "Java",
+    "star": "229"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno from https://electric-sql.com",
+    "language": "PLpgSQL",
+    "star": "230"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+    "language": "Python",
+    "star": "164"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "none",
+    "star": "445"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+    "language": "TypeScript",
+    "star": "124"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Meshery, the cloud native manager",
+    "language": "JavaScript",
+    "star": "22"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+    "language": "Python",
+    "star": "5"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+    "language": "TypeScript",
+    "star": "123"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",
+    "language": "Go",
+    "star": "7"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Vim-fork focused on extensibility and usability",
+    "language": "Vim Script",
+    "star": "45"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
+    "language": "Go",
+    "star": "181"
+  }
+]
