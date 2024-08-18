@@ -1,0 +1,100 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The authentication glue you need.",
+    "language": "Python",
+    "star": "350"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "language": "Go",
+    "star": "85"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "language": "Java",
+    "star": "141"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+    "language": "Python",
+    "star": "178"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "none",
+    "star": "15"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+    "language": "TypeScript",
+    "star": "48"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+    "language": "Python",
+    "star": "132"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "language": "Python",
+    "star": "15"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Investment Research for Everyone, Everywhere.",
+    "language": "Python",
+    "star": "321"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+    "language": "TypeScript",
+    "star": "205"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The Free Software Media System",
+    "language": "C#",
+    "star": "39"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+    "language": "Python",
+    "star": "56"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A drop-in replacement of Redis with SQL-based realtime reactivity.",
+    "language": "Go",
+    "star": "20"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+    "language": "Python",
+    "star": "15"
+  }
+]
