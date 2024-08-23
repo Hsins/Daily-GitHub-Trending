@@ -1,0 +1,107 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+    "language": "Rust",
+    "star": "190"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework",
+    "language": "Python",
+    "star": "250"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+    "language": "TypeScript",
+    "star": "289"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+    "language": "C",
+    "star": "106"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Open Cyber Threat Intelligence Platform",
+    "language": "TypeScript",
+    "star": "78"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An extremely fast Python package and project manager, written in Rust.",
+    "language": "Rust",
+    "star": "461"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.",
+    "language": "Jupyter Notebook",
+    "star": "187"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "one-click face swap",
+    "language": "Python",
+    "star": "164"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Universal Command Line Interface for Amazon Web Services",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "star": "61"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+    "language": "JavaScript",
+    "star": "85"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Amnezia VPN Client (Desktop+Mobile)",
+    "language": "C++",
+    "star": "27"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+    "language": "Python",
+    "star": "145"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "💯 Curated coding interview preparation materials for busy software engineers",
+    "language": "TypeScript",
+    "star": "105"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+    "language": "Python",
+    "star": "22"
+  }
+]
