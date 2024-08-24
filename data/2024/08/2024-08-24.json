@@ -53,7 +53,7 @@
     "url": "https://github.comundefined",
     "description": "FlatBuffers: Memory Efficient Serialization Library",
     "language": "C++",
-    "star": "131"
+    "star": "28"
   },
   {
     "title": "",
@@ -67,7 +67,7 @@
     "url": "https://github.comundefined",
     "description": "Sketch and take handwritten notes.",
     "language": "Rust",
-    "star": "11"
+    "star": "64"
   },
   {
     "title": "",
@@ -109,6 +109,6 @@
     "url": "https://github.comundefined",
     "description": "A modern load testing tool, using Go and JavaScript - https://k6.io",
     "language": "Go",
-    "star": "154"
+    "star": "68"
   }
 ]
