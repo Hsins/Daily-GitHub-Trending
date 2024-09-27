@@ -1,0 +1,121 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "High performance self-hosted photo and video management solution.",
+    "language": "TypeScript",
+    "star": "132"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Solve puzzles. Learn CUDA.",
+    "language": "Jupyter Notebook",
+    "star": "363"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
+    "language": "Jupyter Notebook",
+    "star": "23"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open-source cross-platform alternative to AirDrop",
+    "language": "Dart",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Model components of the Llama Stack APIs",
+    "language": "Python",
+    "star": "501"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Agentic components of the Llama Stack APIs",
+    "language": "Python",
+    "star": "134"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+    "language": "Jupyter Notebook",
+    "star": "203"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "React Components for AI Chat 💬 🚀",
+    "language": "TypeScript",
+    "star": "57"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.",
+    "language": "Go",
+    "star": "130"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Gaining advanced insights from Git repository history.",
+    "language": "Go",
+    "star": "41"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI",
+    "language": "Java",
+    "star": "263"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+    "language": "TypeScript",
+    "star": "42"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.",
+    "language": "C#",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The System Initiative software",
+    "language": "Rust",
+    "star": "54"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Deliver web apps with confidence 🚀",
+    "language": "TypeScript",
+    "star": "26"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The core Laravel CMS Composer package",
+    "language": "PHP",
+    "star": "8"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "language": "Rust",
+    "star": "552"
+  }
+]
