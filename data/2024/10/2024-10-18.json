@@ -1,0 +1,93 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "JSON for Modern C++",
+    "language": "C++",
+    "star": "108"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+    "language": "C++",
+    "star": "150"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
+    "language": "C++",
+    "star": "79"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+    "language": "Python",
+    "star": "107"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+    "language": "C",
+    "star": "78"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction",
+    "language": "C++",
+    "star": "6"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+    "language": "Go",
+    "star": "6"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Public interface definitions of Google APIs.",
+    "language": "Starlark",
+    "star": "5"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "352"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Lightweight WASM Postgres with real-time, reactive bindings.",
+    "language": "TypeScript",
+    "star": "32"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+    "language": "Java",
+    "star": "111"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "language": "Python",
+    "star": "85"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "On-device Speech Recognition for Apple Silicon",
+    "language": "Swift",
+    "star": "116"
+  }
+]
