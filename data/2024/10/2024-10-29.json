@@ -1,0 +1,93 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
+    "language": "Jupyter Notebook",
+    "star": "627"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.",
+    "language": "Python",
+    "star": "523"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "⏬ Dumb downloader that scrapes the web",
+    "language": "Python",
+    "star": "762"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+    "language": "Python",
+    "star": "234"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+    "language": "TypeScript",
+    "star": "203"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+    "language": "Go",
+    "star": "382"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Anthropic's educational courses",
+    "language": "Jupyter Notebook",
+    "star": "159"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.",
+    "language": "Python",
+    "star": "46"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "89"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Grounding Image Matching in 3D with MASt3R",
+    "language": "Python",
+    "star": "12"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AutoML tool for RAG",
+    "language": "Python",
+    "star": "44"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Fullstack app framework for web, desktop, mobile, and more.",
+    "language": "Rust",
+    "star": "64"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Models and examples built with TensorFlow",
+    "language": "Python",
+    "star": "11"
+  }
+]
