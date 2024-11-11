@@ -1,0 +1,93 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Windows inside a Docker container.",
+    "language": "Shell",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+    "language": "Python",
+    "star": "481"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+    "language": "Python",
+    "star": "198"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "language": "Python",
+    "star": "190"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A programming framework for agentic AI 🤖",
+    "language": "Jupyter Notebook",
+    "star": "261"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+    "language": "Go",
+    "star": "402"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+    "language": "Python",
+    "star": "253"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "获取QQ空间发布的历史说说",
+    "language": "Python",
+    "star": "240"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+    "language": "TypeScript",
+    "star": "573"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference",
+    "language": "C++",
+    "star": "122"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A fast, clean, responsive Hugo theme.",
+    "language": "HTML",
+    "star": "121"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
+    "language": "Python",
+    "star": "215"
+  }
+]
