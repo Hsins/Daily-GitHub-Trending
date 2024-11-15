@@ -60,7 +60,7 @@
     "url": "https://github.comundefined",
     "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
     "language": "Go",
-    "star": "159"
+    "star": "158"
   },
   {
     "title": "",
@@ -130,6 +130,6 @@
     "url": "https://github.comundefined",
     "description": "Bluesky PDS (Personal Data Server) container image, compose file, and documentation",
     "language": "Shell",
-    "star": "25"
+    "star": "34"
   }
 ]
