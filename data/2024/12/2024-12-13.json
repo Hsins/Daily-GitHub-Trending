@@ -1,0 +1,135 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "language": "Python",
+    "star": "666"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Fullstack app framework for web, desktop, mobile, and more.",
+    "language": "Rust",
+    "star": "176"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Lighter web automation with Python",
+    "language": "Python",
+    "star": "488"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Get your documents ready for gen AI",
+    "language": "Python",
+    "star": "465"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+    "language": "C",
+    "star": "233"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Examples and guides for using the Gemini API",
+    "language": "Jupyter Notebook",
+    "star": "60"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.",
+    "language": "JavaScript",
+    "star": "262"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
+    "language": "Rust",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+    "language": "TypeScript",
+    "star": "11"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "language": "Go",
+    "star": "29"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "star": "150"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+    "language": "Jupyter Notebook",
+    "star": "48"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+    "language": "Python",
+    "star": "445"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "star": "478"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Shardeum is an EVM based autoscaling blockchain",
+    "language": "TypeScript",
+    "star": "71"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The Ethereum Improvement Proposal repository",
+    "language": "Python",
+    "star": "5"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+    "language": "Python",
+    "star": "152"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+    "language": "Python",
+    "star": "248"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "High-performance interface for supplying compute to the Nexus network.",
+    "language": "Rust",
+    "star": "23"
+  }
+]
