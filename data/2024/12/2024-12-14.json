@@ -1,0 +1,93 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open-source, cross-platform terminal for seamless workflows",
+    "language": "TypeScript",
+    "star": "263"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Examples and guides for using the Gemini API",
+    "language": "Jupyter Notebook",
+    "star": "251"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "language": "Python",
+    "star": "163"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "24 channel, 100Msps logic analyzer hardware and software",
+    "language": "C#",
+    "star": "49"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "TEN Agent is a realtime conversational AI agent powered by TEN. It seamlessly integrates the OpenAI Realtime API, RTC capabilities, and advanced features like weather updates, web search, computer vision, and Retrieval-Augmented Generation (RAG).",
+    "language": "Python",
+    "star": "97"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+    "language": "Go",
+    "star": "44"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Performant, batteries-included completion plugin for Neovim",
+    "language": "Lua",
+    "star": "18"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Autonomous agents for everyone",
+    "language": "TypeScript",
+    "star": "166"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+    "language": "C",
+    "star": "35"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+    "language": "Java",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
+    "language": "Rust",
+    "star": "375"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+    "language": "Python",
+    "star": "174"
+  }
+]
