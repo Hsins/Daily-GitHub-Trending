@@ -25,7 +25,7 @@
     "url": "https://github.comundefined",
     "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
     "language": "JavaScript",
-    "star": "431"
+    "star": "498"
   },
   {
     "title": "",
@@ -39,14 +39,14 @@
     "url": "https://github.comundefined",
     "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
     "language": "Java",
-    "star": "69"
+    "star": "66"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
     "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
     "language": "Python",
-    "star": "138"
+    "star": "142"
   },
   {
     "title": "",
@@ -60,12 +60,12 @@
     "url": "https://github.comundefined",
     "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
     "language": "JavaScript",
-    "star": "80"
+    "star": "102"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
     "language": "Clojure",
     "star": "162"
   },
@@ -81,6 +81,6 @@
     "url": "https://github.comundefined",
     "description": "科技爱好者周刊，每周五发布",
     "language": "none",
-    "star": "35"
+    "star": "67"
   }
 ]
