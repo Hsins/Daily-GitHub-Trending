@@ -1,0 +1,121 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+    "language": "TypeScript",
+    "star": "369"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+    "language": "Python",
+    "star": "475"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory",
+    "language": "Python",
+    "star": "505"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+    "language": "TypeScript",
+    "star": "299"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+    "language": "Python",
+    "star": "102"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "language": "C++",
+    "star": "145"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人 / Agent | LLM-based instant messaging bots platform, supports Discord, WeChat, Lark, QQ platform, OpenAI ChatGPT, DeepSeek.",
+    "language": "Python",
+    "star": "158"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.",
+    "language": "JavaScript",
+    "star": "65"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+    "language": "TypeScript",
+    "star": "329"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "star": "92"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+    "language": "JavaScript",
+    "star": "402"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, DeepSeek, Perplexity, Gemini, Gemma, Llama, Grok, and more.",
+    "language": "TypeScript",
+    "star": "84"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+    "language": "TypeScript",
+    "star": "336"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "language": "JavaScript",
+    "star": "477"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "none",
+    "star": "847"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Use your locally running AI models to assist you in your web browsing",
+    "language": "TypeScript",
+    "star": "135"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Curated list of project-based tutorials",
+    "language": "none",
+    "star": "275"
+  }
+]
