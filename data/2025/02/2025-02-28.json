@@ -1,0 +1,65 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Toolkit for linearizing PDFs for LLM datasets/training",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。",
+    "language": "Python",
+    "star": "401"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Vision agent",
+    "language": "Python",
+    "star": "92"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.",
+    "language": "Jupyter Notebook",
+    "star": "309"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+    "language": "C++",
+    "star": "39"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The python library for real-time communication",
+    "language": "Python",
+    "star": "393"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The user-friendly command line shell.",
+    "language": "Rust",
+    "star": "194"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+    "language": "JavaScript",
+    "star": "81"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+    "language": "TypeScript",
+    "star": "704"
+  }
+]
