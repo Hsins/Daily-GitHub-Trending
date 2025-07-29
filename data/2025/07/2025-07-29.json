@@ -1,0 +1,79 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps",
+    "language": "Python",
+    "star": "4"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The ultimate LLM/AI application development framework in Golang.",
+    "language": "Go",
+    "star": "105"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "peer-2-peer that just works",
+    "language": "Rust",
+    "star": "168"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "📚 Collaborative cheatsheets for console commands",
+    "language": "Markdown",
+    "star": "380"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "star": "639"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "star": "82"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Lightning-fast and Powerful Code Editor written in Rust",
+    "language": "Rust",
+    "star": "54"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "language": "none",
+    "star": "818"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "一款提示词优化器，助力于编写高质量的提示词",
+    "language": "TypeScript",
+    "star": "262"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+    "language": "TypeScript",
+    "star": "269"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+    "language": "TypeScript",
+    "star": "414"
+  }
+]
