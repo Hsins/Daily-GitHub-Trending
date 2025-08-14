@@ -1,0 +1,100 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+    "language": "Ruby",
+    "star": "990"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Prompt Orchestration Markup Language",
+    "language": "TypeScript",
+    "star": "474"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+    "language": "Python",
+    "star": "263"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.",
+    "language": "Go",
+    "star": "62"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Redis Go client",
+    "language": "Go",
+    "star": "15"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+    "language": "C++",
+    "star": "39"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Component infrastructure and Material Design components for Angular",
+    "language": "TypeScript",
+    "star": "22"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.",
+    "language": "TypeScript",
+    "star": "334"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers",
+    "language": "TypeScript",
+    "star": "104"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications",
+    "language": "Java",
+    "star": "216"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "language": "Go",
+    "star": "9"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The ultimate training toolkit for finetuning diffusion models",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.",
+    "language": "TypeScript",
+    "star": "488"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Modern YouTube downloader with a clean PySide6 interface. Download videos in any quality, extract audio, fetch subtitles, sponserBlock, and view video metadata. Built with yt-dlp for reliable performance.",
+    "language": "Python",
+    "star": "251"
+  }
+]
