@@ -1,0 +1,93 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Windows inside a Docker container.",
+    "language": "Shell",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+    "language": "Python",
+    "star": "80"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems",
+    "language": "Kotlin",
+    "star": "576"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "language": "none",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "star": "535"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "Go",
+    "star": "117"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "SoTA open-source TTS",
+    "language": "Python",
+    "star": "443"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "language": "JavaScript",
+    "star": "189"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.",
+    "language": "TypeScript",
+    "star": "160"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "language": "Rust",
+    "star": "132"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.",
+    "language": "TypeScript",
+    "star": "172"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+    "language": "Rust",
+    "star": "85"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+    "language": "JavaScript",
+    "star": "8"
+  }
+]
