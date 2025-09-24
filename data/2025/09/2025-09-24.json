@@ -1,0 +1,128 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "language": "Go",
+    "star": "659"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "star": "226"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "⚡️ Express inspired web framework written in Go",
+    "language": "Go",
+    "star": "134"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Find and fix problems in your JavaScript code.",
+    "language": "JavaScript",
+    "star": "90"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A modern formatting library",
+    "language": "C++",
+    "star": "54"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A collection of (mostly) technical things every software developer should know about",
+    "language": "none",
+    "star": "797"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "language": "Shell",
+    "star": "26"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "Solidity",
+    "star": "7"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "📚 Freely available programming books",
+    "language": "Python",
+    "star": "347"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "大麦自动抢票，支持人员、城市、日期场次、价格选择",
+    "language": "Python",
+    "star": "84"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "[NeurIPS2025] \"AI-Researcher: Autonomous Scientific Innovation\" -- A production-ready version: https://novix.science/chat",
+    "language": "Python",
+    "star": "203"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.",
+    "language": "Rust",
+    "star": "8"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "language": "TypeScript",
+    "star": "19"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The Kubernetes Package Manager",
+    "language": "Go",
+    "star": "8"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "very good whiteboard SDK / infinite canvas SDK",
+    "language": "TypeScript",
+    "star": "188"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "language": "Go",
+    "star": "112"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An ASGI web server, for Python. 🦄",
+    "language": "Python",
+    "star": "2"
+  }
+]
