@@ -1,0 +1,114 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
+    "language": "Go",
+    "star": "449"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The best way to get AI to solve hard problems in complex codebases.",
+    "language": "TypeScript",
+    "star": "82"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "star": "189"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "star": "644"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "人人都能用英语",
+    "language": "TypeScript",
+    "star": "458"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.",
+    "language": "Python",
+    "star": "177"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
+    "language": "TypeScript",
+    "star": "28"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Truly independent web browser",
+    "language": "C++",
+    "star": "231"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A payments protocol for the internet. Built on HTTP.",
+    "language": "TypeScript",
+    "star": "95"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+    "language": "Python",
+    "star": "221"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "language": "Java",
+    "star": "64"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+    "language": "Solidity",
+    "star": "18"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The LLM Evaluation Framework",
+    "language": "Python",
+    "star": "103"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system",
+    "language": "TypeScript",
+    "star": "326"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+    "language": "Go",
+    "star": "48"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.",
+    "language": "Python",
+    "star": "15"
+  }
+]
