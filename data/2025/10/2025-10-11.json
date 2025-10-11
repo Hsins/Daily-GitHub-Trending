@@ -1,0 +1,86 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "star": "393"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.",
+    "language": "Jupyter Notebook",
+    "star": "138"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9",
+    "language": "Python",
+    "star": "195"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "JavaScript",
+    "star": "186"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Store your data from all your accounts and devices in a single cohesive timeline on your own computer",
+    "language": "Go",
+    "star": "336"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
+    "language": "Zig",
+    "star": "366"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "language": "TypeScript",
+    "star": "365"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🛍️ Typescript E-commerce Platform",
+    "language": "TypeScript",
+    "star": "662"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+    "language": "TypeScript",
+    "star": "345"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.",
+    "language": "Python",
+    "star": "59"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Run Windows apps on 🐧 Linux with ✨ seamless integration",
+    "language": "TypeScript",
+    "star": "833"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+    "language": "TypeScript",
+    "star": "140"
+  }
+]
