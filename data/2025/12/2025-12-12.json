@@ -1,0 +1,100 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "JavaScript",
+    "star": "667"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "language": "Rust",
+    "star": "359"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+    "language": "Python",
+    "star": "529"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AGENTS.md — a simple, open format for guiding coding agents",
+    "language": "TypeScript",
+    "star": "771"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.",
+    "language": "Python",
+    "star": "346"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Experimental menu for GTA 5: Enhanced",
+    "language": "C++",
+    "star": "63"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Vibe Workflow Platform for Non-technical Creators.",
+    "language": "TypeScript",
+    "star": "93"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨",
+    "language": "C#",
+    "star": "146"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Turso is an in-process SQL database, compatible with SQLite.",
+    "language": "Rust",
+    "star": "122"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Production-ready platform for agentic workflow development.",
+    "language": "TypeScript",
+    "star": "131"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "the blockchain for payments",
+    "language": "Rust",
+    "star": "140"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+    "language": "Python",
+    "star": "104"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+    "language": "Go",
+    "star": "14"
+  }
+]
