@@ -9,37 +9,9 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
-    "language": "TypeScript",
-    "star": "396"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "A tool for secrets management, encryption as a service, and privileged access management",
-    "language": "Go",
-    "star": "254"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
     "description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini",
     "language": "JavaScript",
     "star": "1"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
-    "language": "Python",
-    "star": "608"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
-    "language": "TypeScript",
-    "star": "73"
   },
   {
     "title": "",
@@ -51,9 +23,37 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Ingress NGINX Controller for Kubernetes",
+    "description": "Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers",
+    "language": "TypeScript",
+    "star": "73"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Memory for 24/7 proactive agents like moltbot (clawdbot).",
+    "language": "Python",
+    "star": "608"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A tool for secrets management, encryption as a service, and privileged access management",
     "language": "Go",
-    "star": "89"
+    "star": "254"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+    "language": "TypeScript",
+    "star": "396"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "",
+    "language": "JavaScript",
+    "star": "11"
   },
   {
     "title": "",
@@ -65,29 +65,36 @@
   {
     "title": "",
     "url": "https://github.comundefined",
+    "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+    "language": "JavaScript",
+    "star": "16"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A libre lightweight streaming front-end for Android.",
+    "language": "Java",
+    "star": "65"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.",
+    "language": "Python",
+    "star": "212"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.",
+    "language": "none",
+    "star": "64"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
     "description": "The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.",
     "language": "TypeScript",
     "star": "362"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports",
-    "language": "C++",
-    "star": "354"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "PC Software for BambuLab and other 3D printers",
-    "language": "C++",
-    "star": "162"
-  },
-  {
-    "title": "",
-    "url": "https://github.comundefined",
-    "description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.",
-    "language": "Python",
-    "star": "529"
   }
 ]
