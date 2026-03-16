@@ -1,0 +1,86 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+    "language": "TypeScript",
+    "star": "773"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "language": "Zig",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Bash is all you need - A nano Claude Code–like agent, built from 0 to 1",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Fully automatic censorship removal for language models",
+    "language": "Python",
+    "star": "787"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+    "language": "TypeScript",
+    "star": "109"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.",
+    "language": "Rust",
+    "star": "622"
+  }
+]
