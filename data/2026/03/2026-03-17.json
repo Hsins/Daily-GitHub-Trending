@@ -1,0 +1,44 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+    "language": "JavaScript",
+    "star": "454"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+    "language": "C++",
+    "star": "21"
+  }
+]
