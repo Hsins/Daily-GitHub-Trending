@@ -1,0 +1,100 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "none",
+    "star": "7"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption",
+    "language": "Python",
+    "star": "883"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The open-source voice synthesis studio",
+    "language": "TypeScript",
+    "star": "887"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open source template for building cloud agents.",
+    "language": "TypeScript",
+    "star": "735"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Fast and accurate AI powered file content types detection",
+    "language": "Python",
+    "star": "871"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "WhatsApp CLI",
+    "language": "Go",
+    "star": "354"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Knowledge Engine for AI Agent Memory in 6 lines of code",
+    "language": "Python",
+    "star": "156"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "DFlash: Block Diffusion for Flash Speculative Decoding",
+    "language": "Python",
+    "star": "183"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "language": "Jupyter Notebook",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A lightweight, powerful framework for multi-agent workflows",
+    "language": "Python",
+    "star": "110"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai",
+    "language": "JavaScript",
+    "star": "866"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Claude Code skill to support Android app's reverse engineering",
+    "language": "Shell",
+    "star": "375"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+    "language": "Dart",
+    "star": "448"
+  }
+]
