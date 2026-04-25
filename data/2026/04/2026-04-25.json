@@ -72,7 +72,7 @@
   {
     "title": "",
     "url": "https://github.comundefined",
-    "description": "Deepseek to API - 客户端协议转通用API全栈中间件工具，轻量、高性能，多账号轮询，支持二进制编译文件、Vercel Serverless、Docker部署。Google、Claude、OpenAI多接口格式兼容",
+    "description": "Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.",
     "language": "Go",
     "star": "37"
   },
