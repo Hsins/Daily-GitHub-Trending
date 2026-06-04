@@ -1,0 +1,100 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
+    "language": "Python",
+    "star": "105"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+    "language": "Python",
+    "star": "311"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+    "language": "Jupyter Notebook",
+    "star": "138"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+    "language": "TypeScript",
+    "star": "482"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
+    "language": "Python",
+    "star": "583"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "none",
+    "star": "740"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+    "language": "Java",
+    "star": "107"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
+    "language": "Go",
+    "star": "255"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Windows companion suite for OpenClaw - System Tray app, Shared library, Node, and PowerToys Command Palette extension",
+    "language": "C#",
+    "star": "358"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "language": "TypeScript",
+    "star": "308"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "star": "173"
+  }
+]
