@@ -1,0 +1,107 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+    "language": "C",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "macOS video editor built for AI",
+    "language": "Swift",
+    "star": "749"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+    "language": "TypeScript",
+    "star": "300"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+    "language": "HTML",
+    "star": "203"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A framework for building agent-native applications.",
+    "language": "TypeScript",
+    "star": "210"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "language": "Python",
+    "star": "236"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "GLM-5: From Vibe Coding to Agentic Engineering",
+    "language": "none",
+    "star": "478"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The sandbox agent framework.",
+    "language": "TypeScript",
+    "star": "305"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+    "language": "Rust",
+    "star": "307"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Penpot: The open-source design tool for design and code collaboration",
+    "language": "Clojure",
+    "star": "318"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+    "language": "TypeScript",
+    "star": "291"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+    "language": "Python",
+    "star": "196"
+  }
+]
