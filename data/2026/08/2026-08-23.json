@@ -39,7 +39,7 @@
     "url": "https://github.comundefined",
     "description": "A hive mind communication platform",
     "language": "Rust",
-    "star": "564"
+    "star": "349"
   },
   {
     "title": "",
@@ -60,7 +60,7 @@
     "url": "https://github.comundefined",
     "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
     "language": "Rust",
-    "star": "51"
+    "star": "106"
   },
   {
     "title": "",
@@ -81,7 +81,7 @@
     "url": "https://github.comundefined",
     "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
     "language": "none",
-    "star": "237"
+    "star": "223"
   },
   {
     "title": "",
@@ -95,14 +95,14 @@
     "url": "https://github.comundefined",
     "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
     "language": "Rust",
-    "star": "68"
+    "star": "95"
   },
   {
     "title": "",
     "url": "https://github.comundefined",
     "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
     "language": "Python",
-    "star": "190"
+    "star": "257"
   },
   {
     "title": "",
@@ -123,6 +123,6 @@
     "url": "https://github.comundefined",
     "description": "The agent that grows with you",
     "language": "Python",
-    "star": "443"
+    "star": "519"
   }
 ]
