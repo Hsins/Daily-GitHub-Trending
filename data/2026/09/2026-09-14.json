@@ -1,0 +1,142 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "language": "C",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "language": "Python",
+    "star": "578"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+    "language": "Python",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+    "language": "Python",
+    "star": "524"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "star": "640"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+    "language": "JavaScript",
+    "star": "770"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+    "language": "Python",
+    "star": "52"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An open-source cross-platform alternative to AirDrop",
+    "language": "Dart",
+    "star": "311"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+    "language": "Rust",
+    "star": "110"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+    "language": "Python",
+    "star": "756"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+    "language": "Rust",
+    "star": "370"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+    "language": "TypeScript",
+    "star": "506"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+    "language": "Python",
+    "star": "204"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "language": "Python",
+    "star": "528"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
+    "language": "TypeScript",
+    "star": "26"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+    "language": "TypeScript",
+    "star": "279"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for your Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
+    "language": "Swift",
+    "star": "258"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+    "language": "Python",
+    "star": "606"
+  }
+]
