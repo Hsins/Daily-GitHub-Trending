@@ -1,0 +1,142 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "star": "680"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Turn your coding agents into research agents",
+    "language": "Rust",
+    "star": "940"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+    "language": "TypeScript",
+    "star": "538"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Ghidra is a software reverse engineering (SRE) framework",
+    "language": "Java",
+    "star": "912"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "star": "287"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "language": "Swift",
+    "star": "738"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "eBPF-based Networking, Security, and Observability",
+    "language": "Go",
+    "star": "153"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The open-source AI voice studio. Clone, dictate, create.",
+    "language": "TypeScript",
+    "star": "665"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "We write your reusable computer vision tools. 💜",
+    "language": "Python",
+    "star": "327"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+    "language": "C",
+    "star": "872"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "language": "Python",
+    "star": "386"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+    "language": "TypeScript",
+    "star": "469"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "language": "TypeScript",
+    "star": "381"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Secure environments for developers and their agents",
+    "language": "Go",
+    "star": "204"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "star": "319"
+  }
+]
