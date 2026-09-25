@@ -1,0 +1,114 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The open-source app everyone uses to manage agents at work",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+    "language": "Python",
+    "star": "62"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Hindsight: Agent Memory That Learns",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "language": "Shell",
+    "star": "465"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "star": "588"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Public repository for Agent Skills",
+    "language": "Python",
+    "star": "231"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.",
+    "language": "JavaScript",
+    "star": "118"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Wifite but USB-only & cross-platform.",
+    "language": "Python",
+    "star": "168"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Bootstrap Kubernetes the hard way. No scripts.",
+    "language": "none",
+    "star": "105"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Learn it. Build it. Ship it for others.",
+    "language": "Python",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源",
+    "language": "Python",
+    "star": "31"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Google's open agentic orchestration runtime",
+    "language": "Go",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
+    "language": "Python",
+    "star": "360"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The design language that makes your AI harness better at design.",
+    "language": "JavaScript",
+    "star": "326"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.",
+    "language": "Go",
+    "star": "16"
+  }
+]
