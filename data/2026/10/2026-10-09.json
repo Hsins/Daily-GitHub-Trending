@@ -1,0 +1,79 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "star": "15"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "star": "5"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "star": "323"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "star": "714"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+    "language": "Python",
+    "star": "95"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Production-grade engineering skills for AI coding agents.",
+    "language": "JavaScript",
+    "star": "523"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+    "language": "Python",
+    "star": "109"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+    "language": "none",
+    "star": "88"
+  }
+]
