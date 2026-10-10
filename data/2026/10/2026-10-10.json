@@ -1,0 +1,93 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+    "language": "TypeScript",
+    "star": "25"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+    "language": "C++",
+    "star": "5"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+    "language": "Rust",
+    "star": "3"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+    "language": "HTML",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+    "language": "TypeScript",
+    "star": "178"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Skills for Real Engineers. Straight from my .agents directory.",
+    "language": "Shell",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "star": "164"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "star": "24"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+    "language": "Python",
+    "star": "515"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "language": "Python",
+    "star": "81"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+    "language": "Python",
+    "star": "94"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+    "language": "Python",
+    "star": "626"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "none",
+    "star": "279"
+  }
+]
