@@ -1,0 +1,86 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+    "language": "JavaScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+    "language": "Python",
+    "star": "439"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+    "language": "Python",
+    "star": "477"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "language": "JavaScript",
+    "star": "2"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+    "language": "Python",
+    "star": "914"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+    "language": "TypeScript",
+    "star": "509"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The open alternative to Salesforce, designed for AI.",
+    "language": "TypeScript",
+    "star": "105"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+    "language": "Python",
+    "star": "570"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "freehire — the open-source search engine for job seekers",
+    "language": "Go",
+    "star": "396"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+    "language": "Rust",
+    "star": "303"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+    "language": "Python",
+    "star": "1"
+  }
+]
