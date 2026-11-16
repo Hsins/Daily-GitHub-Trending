@@ -1,0 +1,100 @@
+[
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
+    "language": "TypeScript",
+    "star": "790"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
+    "language": "TypeScript",
+    "star": "689"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+    "language": "TypeScript",
+    "star": "1"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+    "language": "Python",
+    "star": "841"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Modern Docker Management, Designed for Everyone",
+    "language": "Go",
+    "star": "31"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 198 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
+    "language": "JavaScript",
+    "star": "285"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+    "language": "TypeScript",
+    "star": "540"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+    "language": "Python",
+    "star": "122"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+    "language": "Python",
+    "star": "953"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+    "language": "Go",
+    "star": "946"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
+    "language": "Python",
+    "star": "306"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "star": "837"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "web development for the rest of us",
+    "language": "JavaScript",
+    "star": "58"
+  },
+  {
+    "title": "",
+    "url": "https://github.comundefined",
+    "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+    "language": "Python",
+    "star": "475"
+  }
+]
